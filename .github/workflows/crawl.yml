@@ -1,0 +1,56 @@
+name: Crawl cafe posts
+
+on:
+  schedule:
+    - cron: '0 */3 * * *'
+  workflow_dispatch:
+    inputs:
+      max_pages_per_board:
+        description: '게시판당 최대 조회 페이지 수'
+        default: '3'
+      only_fldid:
+        description: '특정 게시판 fldid만 크롤링 (비워두면 전체)'
+        default: ''
+
+permissions:
+  contents: write
+
+jobs:
+  crawl:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Install Chromium
+        run: npx playwright install --with-deps chromium
+
+      - name: Write session secret to file
+        run: printf '%s' "$CAFE_SESSION" > session.json
+        env:
+          CAFE_SESSION: ${{ secrets.CAFE_SESSION }}
+
+      - name: Run crawler
+        run: node crawler.js
+        env:
+          MAX_PAGES_PER_BOARD: ${{ github.event.inputs.max_pages_per_board || '3' }}
+          ONLY_FLDID: ${{ github.event.inputs.only_fldid || '' }}
+          REQUEST_DELAY_MS: '600'
+
+      - name: Commit and push new data
+        run: |
+          git config user.name "sedu22-mirror-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add data/
+          if git diff --cached --quiet; then
+            echo "새 게시글 없음"
+          else
+            git commit -m "chore: 새 게시글 크롤링 $(date -u +'%Y-%m-%d %H:%M UTC')"
+            git push
+          fi
