@@ -1,0 +1,15 @@
+{
+  "dataid": "74",
+  "fldid": "evQm",
+  "boardName": "(고교)물리수업 이야기",
+  "title": "(질문) 연속 스펙트럼과 흑체복사",
+  "author": "박종선(부천)",
+  "userid": "CPXxP",
+  "created": "23.03.10",
+  "viewCnt": 247,
+  "commentCnt": 4,
+  "headCont": "",
+  "contentval": "0001Czzzzzzzzzzzzzzzzzzzzzzzzz",
+  "permlink": "https://cafe.daum.net/sedu22/evQm/74",
+  "contentHtml": "<p>학생이 질문해서 생각하게 된 부분인데요,</p><p>&#160;</p><p>학생이 선 스펙트럼은 특정 원소가 들떴다가 다시 가라앉으면서 그 에너지 차이에 해당하는 파장의 빛을 방출해서 생기는건데, 그럼 연속 스펙트럼은 모든 원소가 다 섞여있어서 생기는 거냐고 질문했습니다.</p><p>&#160;</p><p>그래서 제가 아는대로 연속 스펙트럼은 흑체복사에 의한거고, 선 스펙트럼은 에너지 준위간 전이에 의한 것으로 원인이 다르다고 할수있다 라고 대답해줬습니다.</p><p>&#160;</p><p>그런데 대답해주고 보니 흑체복사는 왜 연속스펙트럼이 생길까 = 왜 모든 파장의 빛을 방출할까? 라는 궁금증이 생겨서요.</p><p>&#160;</p><p>그래서 영문위키나 이런곳을 봤는데 이제 공식으로 넘어가서 현물에 나왔던대로 흑체복사 곡선의 식을 계산하게 되더라구요. 그래서 뭔가 좀 다르게 설명할 방법은 없을까 하다가 ChatGPT로 &quot;Why Blackbody radiates all wavelength?&quot; 라고 검색해 봤더니 이런 답변을 얻었습니다.</p><p>&#160;</p><p>&quot;<span style=\"color: #374151; background-color: #f7f7f8;\" data-ke-size=\"size18\">A blackbody radiates all wavelengths of electromagnetic radiation because it absorbs all wavelengths of radiation that fall on it.~(</span>이 문장 뒷부분으로는 익히 아는 내용이었습니다.)</p><p>&#160;</p><p>그래서 제가 여쭤보고 싶은건 이 문장이 맞는 설명인가요??&#160; 어떤 파장의 전자기파를 받든 흡수하는건 맞지만 그걸 뭐 저장했다 내보내는게 아니라 에너지로 바꿔서 흑체 자체의 온도를 올리는데 쓰는걸로 아는데 문장의 경우 모든 파장을 저장했다 모든 파장을 내보낸다 같은 느낌으로 해석되서요.</p>\n\t \t\t\t\t\t<!-- -->"
+}

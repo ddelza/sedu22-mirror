@@ -1,0 +1,15 @@
+{
+  "dataid": "1401",
+  "fldid": "fMHp",
+  "boardName": "중학교 물리수업 이야기",
+  "title": "Re:전류계는 직렬, 전압계는 병렬 연결 이유",
+  "author": "김정식(이천중)",
+  "userid": "X1kP",
+  "created": "15.03.18",
+  "viewCnt": 570,
+  "commentCnt": 1,
+  "headCont": "",
+  "contentval": "000Mbzzzzzzzzzzzzzzzzzzzzzzzzz",
+  "permlink": "https://cafe.daum.net/sedu22/fMHp/1401",
+  "contentHtml": "<DIV>\r\n<p>&nbsp;</p>\r\n<P>제가 수업시간에 가르치는 방법입니다.</P>\r\n<P>&nbsp;</P>1. 무조건 꼬마전구에 불을 켠다. \r\n<P>&nbsp; (전압계, 전류계 생각하지 말고 우선 회로를 만드는 것 부터 교육을 시킵니다. 꼬마전구에 불이 안들어오면 아무 의미가 없다.)&nbsp;</P>\r\n<P>&nbsp;</P></DIV>\r\n<DIV>2. 회로구성에 성공을 하면 전류값을 측정하고 싶은곳의 선을 잘라 그 사이에 전류계를 직렬로 연결한다. \r\n<P>(전류는 시간당 지나가는 전하량이니까 얼만큼 지나갔는지 알려면 선을 끊고 그 사이에 연결해야 한다. -&nbsp;수돗물을 얼마나 사용했는지 알려면 수도 계량계를 수도관에 직접 연결해서 지나가는 물의 양을 알아내야 하는 것처럼)</P>\r\n<P>&nbsp;</P></DIV>\r\n<DIV>\r\n<P>3. 전압계는<U><SPAN style=\"COLOR: #ff0000\"> 사실 연결 하는게 아니고</SPAN></U>, 가지고 다니면서 전압을 알고 싶은 곳 양단에 대어 보면서 측정한다.&nbsp;<BR>&nbsp;&nbsp; (외국 실험을 보면 전압계는 따로 연결하지 않고 그냥 들고 다니면서 필요한 곳에 대 보면서 측정을 합니다. 전자회로를 구성할때도 전압계는 필요한 곳에 양단을 대어서 측정을 하지요. 그런데 우리나라 교과서에는 전압계도 연결해야 하는 것처럼 보여져서 학생들을 어렵게 하네요. 전압계는 필요할때만 사용해도 될텐데...)</P>\r\n<P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - 여기에서는 교과서처럼 병렬로 연결한다.</P>\r\n<P>&nbsp;</P>\r\n<P>제가 만든 가상실험을 보면서 위 과정을 설명해 주시면 학생들 이해하기가 더 편할 겁니다.</P>\r\n<P>&nbsp;</P></DIV>\r\n<P>&nbsp;</P>\r\n<P>첫번째 가상실험은 전형적인 교과서 형태의 실험입니다. 이때도 위에서 제시한 것처럼 순서대로 확인하면서 진행하게 하면 좋습니다.</P>\r\n<P>&nbsp;</P>\r\n<P><A href=\"http://www.sciencelove.com/1392\">http://www.sciencelove.com/1392</A></P>\r\n<P>&nbsp;</P>\r\n<P>&nbsp;</P>\r\n<P>밑에 2개는 위에서 제가 설명한 것처럼 전압계는 필요할때만 필요한 양단에 연결하여 측정을 하게 만든 실험입니다.</P>\r\n<P><A href=\"http://www.sciencelove.com/1394\">http://www.sciencelove.com/1394</A></P>\r\n<P>&nbsp;</P>\r\n<P><A href=\"http://www.sciencelove.com/1395\">http://www.sciencelove.com/1395</A></P>\r\n<P>&nbsp;</P>\r\n<P>도움이 되시길...</P>\r\n<P><A href=\"http://www.sciencelove.com/1395\"></A>&nbsp;</P>\n\t \t\t\t\t\t<!-- -->"
+}

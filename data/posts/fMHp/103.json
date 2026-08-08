@@ -1,0 +1,15 @@
+{
+  "dataid": "103",
+  "fldid": "fMHp",
+  "boardName": "중학교 물리수업 이야기",
+  "title": "부력 가상 실험 - 물에 뜨는 물체",
+  "author": "김정식(이천중)",
+  "userid": "X1kP",
+  "created": "18.06.01",
+  "viewCnt": 1751,
+  "commentCnt": 4,
+  "headCont": "힘",
+  "contentval": "0001fzzzzzzzzzzzzzzzzzzzzzzzzz",
+  "permlink": "https://cafe.daum.net/sedu22/fMHp/103",
+  "contentHtml": "<p><br></p><p><a href=\"javascript:checkVirus('grpid%3D1TaBA%26fldid%3DfMHp%26dataid%3D103%26fileid%3D3%26regdt%3D20180601120339&url=http%3A%2F%2Fcfile270.uf.daum.net%2Fattach%2F99E9174E5B19F37527DE72')\"><img src=\"https://t1.daumcdn.net/daumtop_deco/icon/icon.hanmail.net/editor/p_zip_s.gif\" border=\"0\" alt=\"첨부파일\" class=\"vam\"/> 부력실험(물에뜨는물체).zip</a></p><p><br></p><p><br></p><p><br></p><p>물에 뜨는 물체를 이용해서 부력의 크기를 가상으로 실험해 볼 수 있습니다.</p><p>부력의 크기는 물에 잠긴 물체의 부피에 비례합니다.</p><p>그리고&nbsp;중력(무게)이 부력보다 크면 가라앉고, 작으면 떠오르게 됩니다.</p><p>학생들이 가장 많이 틀리는 문제 중 하나는&nbsp; 물에 떠있는 물체의 중력과 부력의 관계 입니다.<br>대부분 물에 떠 있는 물체는 중력보다 부력이 크다고 대답합니다. </p><p>정답은 부력과 중력의 크기는 같습니다. 물에 강제로 물체를 집어 넣었을 때는 물에 잠긴 부피가 커져서 부력이 커지는 건데 물에 떠 있는 물체도 부력이 더 크다고 생각하네요.</p><p>강제로 물체를 손으로 눌러 물속에 집어 넣었다 놓으면 부력이 중력보다 크기 때문에 떠오르게 됩니다. </p><p>물체가 수면위로 떠오르게 되면 물에 잠긴 부피가 점점 줄어들게 되므로 부력도 점점 작아지게 되고,&nbsp; 부력과 중력과 같아지는 순간 떠오르는게 멈추게 됩니다.</p><p>반대로 물 위로 물체를 끌어 올리면 부력보다 중력이 커지게 되서 물체를 놓으면&nbsp; 중력과 부력이 같아질때 까지 물속으로 가라앉게 되지요. </p><p>말로 설명하려다 보니 쉽지 않아서 가상실험프로그램을 만들었습니다.</p><p style=\"text-align: center; clear: none; float: none;\"><br></p><p style=\"text-align: center; clear: none; float: none;\"><img src=\"https://t1.daumcdn.net/cfile/cafe/997F7D4F5B19F38622\" class=\"txc-image\" width=\"896\" style=\"clear: none; float: none;\" border=\"0\" vspace=\"1\" hspace=\"1\" exif=\"{}\" actualwidth=\"896\" data-filename=\"사용자 지정 1.jpg\"  id=\"A_997F7D4F5B19F38622943B\"/></p><p style=\"text-align: center; clear: none; float: none;\"><br></p><p>마우스로 물체를 드래그 해서 물속으로 집어 넣어 가면서&nbsp;또는 물 밖으로 끌어 올리면서&nbsp;부력의 크기를 설명해 주면 됩니다.</p><p>금속의 경우에는 모양을 변화시켜서 부력을 변화시킬 수 있게 했습니다.</p><p>또 액체의 종류를 바꿔서 부력의 크기가 달라진다는 것도 설명할 수 있게 만들었습니다.(사해에 사람이 뜨는 이유 설명)</p><p>생각나는데로 급하게 만들다 보니 부족한 점이 많네요. 그래도 그냥 필요하신 분이 있을까 해서 공개합니다.</p><p><br>* 한가지 더 : 마우스 오른쪽을 누르면 화면 일부를 확대하거나 축소할 수 있습니다. 부력에 의해 떠오르는 물체를 크게 확대해서 보여주면 더 좋울때도 있네요. <br><br><br>출처: <a href=\"http://sciencelove.com/2274\"><u><font color=\"#0066cc\">http://sciencelove.com/2274</font></u></a> [김정식 허명성의 과학사랑]<br></p>\n\t \t\t\t\t\t<!-- -->"
+}

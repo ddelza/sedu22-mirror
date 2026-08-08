@@ -1,0 +1,15 @@
+{
+  "dataid": "75",
+  "fldid": "evuJ",
+  "boardName": "AI도구 활용하기",
+  "title": "구글 설문지 응답, 개인별로 모아보기",
+  "author": "김요섭(광주하남)",
+  "userid": "Cy8SQ",
+  "created": "20.06.04",
+  "viewCnt": 852,
+  "commentCnt": 11,
+  "headCont": "",
+  "contentval": "0001Dzzzzzzzzzzzzzzzzzzzzzzzzz",
+  "permlink": "https://cafe.daum.net/sedu22/evuJ/75",
+  "contentHtml": "<p>구글 설문으로 받은 응답 데이터를 확인하는데 응답시트에서 보면 굉장히 편하지가 않으셨을겁니다.</p><p><br></p><p>학생 한 명의 응답을 모아서 활동지 형태로 모아주는 시트입니다.</p><p><br></p><p>아래와 같은 형태가 됩니다.</p><p><br></p><p><br></p><p style=\"text-align: center;\"><img src=\"https://t1.daumcdn.net/cfile/cafe/99E1FB3E5ED843371D\" class=\"txc-image\" actualwidth=\"1024\" width=\"1024\" style=\"clear: none; float: none;\" border=\"0\" vspace=\"1\" hspace=\"1\" data-filename=\"11111.jpg\" exif=\"{}\"  id=\"A_99E1FB3E5ED843371DC849\"/></p><p><br></p><p><br></p><p>방법은&nbsp;</p><p><br></p><p>1.&nbsp;<a style=\"font-size: 10pt;\" href=\"https://docs.google.com/spreadsheets/d/1er-OrsHzz4qPjdDhjKwjWSvhnTW4D6jpwtm6eSZTPEU/copy\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"tx-link\">https://docs.google.com/spreadsheets/d/1er-OrsHzz4qPjdDhjKwjWSvhnTW4D6jpwtm6eSZTPEU/copy&nbsp;에서 문서를 복사해간다.</a></p><p>2. 문서 안에 '개인별응답확인' 시트를 오른쪽 클릭하여 [다음으로복사]-[기존스프레드시트]를 눌러 본인이 응답받은 구글 설문 응답 시트에 붙여넣는다.</p><p>3. 왼쪽상단 연번을 1로 세팅하고, 열값(응답 시트의 문항 번호에 해당하는 알파벳입니다)을 수정하고 질문과 활동지 형태를 수정한다. (안에 함수가 변형되지 않게 잘 옮겨붙이셔서 형태를 마음껏 변형하시면 됩니다 ^^)</p><p>4. 연변을 2부터 시작하여 1개씩 늘려가며 학생 응답을 확인한다.<br><br></p><p><br></p>\n\t \t\t\t\t\t<!-- -->"
+}

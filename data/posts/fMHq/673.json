@@ -1,0 +1,15 @@
+{
+  "dataid": "673",
+  "fldid": "fMHq",
+  "boardName": "중학교 화학수업 이야기",
+  "title": "압력에 따른 기체의 부피 변화(보일법칙) 실험보고서",
+  "author": "이재호(어정중)",
+  "userid": "6a5S",
+  "created": "17.02.01",
+  "viewCnt": 1754,
+  "commentCnt": 4,
+  "headCont": "",
+  "contentval": "000Arzzzzzzzzzzzzzzzzzzzzzzzzz",
+  "permlink": "https://cafe.daum.net/sedu22/fMHq/673",
+  "contentHtml": "<div><div class=\"txc-textbox\" style=\"padding: 10px; border: 3px double rgb(254, 137, 67); border-image: none; background-color: rgb(254, 222, 199);\"><p style=\"text-align: center; line-height: 19.2px;\"><font size=\"3\"><span style=\"line-height: 25.6px; font-size: 11pt;\">&lt;재미있는 과학수업 만들기&gt;의 수업관련자료들은 선생님들의 '협업'을 위해 공유되고 있습니다.</span></font></p><p style=\"text-align: center; line-height: 19.2px;\"><font size=\"3\"><span style=\"line-height: 25.6px; font-size: 11pt;\">수업을 위한 자료로만 사용해주시기 바랍니다.&nbsp;</span></font></p><p style=\"text-align: center; line-height: 19.2px;\"><b><span style=\"line-height: 1.6; font-size: 11pt;\">** '말머리' 에서 해당단원을 선택해주세요.&nbsp;</span><span style=\"line-height: 1.6; font-size: 18pt;\"><span style=\"font-size: 11pt;\">수업자료를 찾기 쉬워집니다.**</span></span></b></p></div><p><br></p><p>압력에 따른 기체의 부피 변화(보일법칙)</p><p><br></p><p>몇 년만에 고등학교에 있다가 중학교에 와서&nbsp;보일법칙 실험을 했는데 추를 올려놓는 방식이 아닌 주사기를 손으로 미는 방식이 교과서 실험으로 있네요. </p><p><br></p><p>교과서 방식대로 실험을 해보니 몇 가지 문제가 있어서 실험보고서를 수정했습니다.</p><p>1. 주사기에 연결된 압력계의 단위가 MPa로 되어 있으나 기록하는 표에는 기압으로 되어 있어서 단위를 같이 표기했습니다.<br>2. 보일법칙은 온도가 일정할 때 기체의 압력과 부피가 반비례한다. 즉 압력x부피=일정을 결과로 알아볼수 있도록 기록표를 수정했습니다.<br>3. 하지만 압력x부피의 값이 많이 차이가 나서 원인을 분석하던 중에 60mL의 주사기 내부 외에 주사기 앞부분과 압력계와의 연결관, 그리고 압력계 내부에 있는 공기의 부피를 보정해주어야할 필요가 있어서 주사기연결관이나 압력계에 따라 차이가 있지만 우리 학교 실험기구에서는 이론적으로 계산하여 측정한 주사기 부피에&nbsp; +3.6mL를&nbsp;&nbsp; 더해주었더니 압력x부피=거의 비슷하게(일정) 나옵니다. 각 학교 샘들께서는 섬세하게 여러번 실험한 값을 첨부된 '공기부피 보정계산.xlsx' 파일의 공기 부피값(노란색셀)에 넣고 보정공기부피값을 변화(증가 또는 감소)시켜가면서 오차합계가 0에 가장 가까운 값이 나오면 그 값을 보정부피값으로 설정(실험보고서 수정)하시면 될 것같습니다. 그래프는 공기의압력(기압)과 보정한 부피로 그리면 반비례그래프가 잘 나옵니다.</p><p><br></p><p>*이 실험시 추가적인 문제점 및 해결<br>주사기를 압축할때 힘이 많이 들어 학생들이 많이 힘겨워하고 실험을 반복하면 주사기 눈금이 지워진다.</p><p>=&gt;피스톤의 검정고무부분에 오일을 바르고, 주사기 손잡이를 테이블에 걸어서 밀면 힘이 덜들고 눈금도 잘 지워지지 않는다.</p><p><br></p><p>위에 내용을 참고하여 실험해보시기 바랍니다. </p><p><br></p><p><a href=\"javascript:checkVirus('grpid%3D1TaBA%26fldid%3DfMHq%26dataid%3D673%26fileid%3D1%26regdt%3D20170201221354&url=http%3A%2F%2Fcfile274.uf.daum.net%2Fattach%2F22309A505891DE85315975')\"><img src=\"https://t1.daumcdn.net/daumtop_deco/icon/icon.hanmail.net/editor/p_etc_s.gif\" border=\"0\" alt=\"첨부파일\" class=\"vam\"/> =탐구실험 보고서-압력에 따른 기체의 부피 변화.hwp</a></p><p><br></p><p><a href=\"javascript:checkVirus('grpid%3D1TaBA%26fldid%3DfMHq%26dataid%3D673%26fileid%3D2%26regdt%3D20170201221354&url=http%3A%2F%2Fcfile252.uf.daum.net%2Fattach%2F221917505891DE861DBAA2')\"><img src=\"https://t1.daumcdn.net/daumtop_deco/icon/icon.hanmail.net/editor/p_etc_s.gif\" border=\"0\" alt=\"첨부파일\" class=\"vam\"/> 공기부피 보정계산..xlsx</a></p><p><br></p><p><br></p></div><p><br></p>\n\t \t\t\t\t\t<!-- -->"
+}

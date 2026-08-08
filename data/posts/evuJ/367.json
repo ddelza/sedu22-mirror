@@ -1,0 +1,15 @@
+{
+  "dataid": "367",
+  "fldid": "evuJ",
+  "boardName": "AI도구 활용하기",
+  "title": "AI를 사용하는 수행평가의 채점기준 만들기",
+  "author": "김영학(운암고)",
+  "userid": "gH3G",
+  "created": "26.01.13",
+  "viewCnt": 576,
+  "commentCnt": 0,
+  "headCont": "",
+  "contentval": "0005vzzzzzzzzzzzzzzzzzzzzzzzzz",
+  "permlink": "https://cafe.daum.net/sedu22/evuJ/367",
+  "contentHtml": "<p style=\"text-align: start;\"><span data-ke-size=\"size14\">AI를 활용하여<br>과학동화 만들기, 과학노래 만들기 등을 하고 있는데요.<br>&#160;<br>AI를 사용하는 수행평가의 채점기준을 어떻게 만들면 좋을까요?<br>&#160;<br><span style=\"color: #333333;\">새로운 채점기준을 고민해 보았습니다.</span><br><span style=\"color: #333333;\">특히 AI를 활용하는 학습과정에 초점을 두었습니다.</span><br><br><span style=\"color: #333333;\">채점기준 1. AI에게 어떤 프롬프트를 입력했는가?</span><br><span style=\"color: #333333;\">&#160;- 낮은 수준 프롬프트 : “유전자 발현 노래 만들어줘”</span><br><span style=\"color: #333333;\">&#160;- 높은 수준 프롬프트 :</span><br><span style=\"color: #333333;\">&#160; &#160;“전사와 번역의 차이가 드러나게 가사 구조를 나눠서 써줘”</span><br><span style=\"color: #333333;\">&#160; &#160; “mRNA, tRNA, 리보솜의 역할이 헷갈리지 않게 비유를 넣어줘”</span><br><br><span style=\"color: #333333;\">채점기준 2. 교과서 개념으로 오류를 검증했는가?</span><br><span style=\"color: #333333;\">&#160; - “AI 가사에 DNA가 세포질에서 작동하는 것처럼 나와 수정했다”</span><br><span style=\"color: #333333;\">&#160; - “전사와 번역이 동시에 일어나는 것처럼 표현된 부분을 고쳤다”</span><br>&#160;<br><br><span style=\"color: #333333;\">&lt;만점 예시&gt; (</span><span style=\"color: #333333;\">&#160;학습자가 AI를 활용하고, 파트너십을 보여주는 사례)</span><br><span style=\"color: #333333;\">&#160;“처음에는 AI에게 전사 과정 위주로 써 달라고 했는데,</span><br><span style=\"color: #333333;\">&#160;번역 설명이 부족해서 리보솜과 tRNA 역할을 강조해 달라고 다시 요청했다.</span><br><span style=\"color: #333333;\">&#160;그 과정에서 교과서 p.126의 그림과 비교해 용어를 수정했다.”</span><br>&#160;<br>&#160;<br><a href=\"https://youtu.be/rsqIcmGnshE\" target=\"_blank\" class=\"ke-link\"><span style=\"color: #333333;\">https://youtu.be/rsqIcmGnshE</span></a></span></p><div class=\"figure-video\" data-ke-type=\"video\" data-video-url=\"https://www.youtube.com/watch?v=rsqIcmGnshE\" data-video-host=\"youtube\" data-video-play-service=\"daum_cafe\" data-video-width=\"600\" data-video-height=\"450\" data-ke-style=\"alignLeft\" data-video-thumbnail=\"https://scrap.kakaocdn.net/dn/dryNFy/dJMb8WMiPbF/0YI08vx0zmdc3ioA2bJjg0/img.jpg?width=640&amp;height=480&amp;face=0_0_640_480\" data-ke-mobile-mobilestyle=\"widthContent\" data-video-origin-width=\"640\" data-video-origin-height=\"480\"><iframe src=\"https://www.youtube.com/embed/rsqIcmGnshE\" width=\"600\" height=\"450\" frameborder=\"0\" scrolling=\"no\" allowfullscreen=\"\"></iframe><div class=\"figcaption\"></div></div><p style=\"text-align: justify;\">&#160;<br>&#160;</p>\n\t \t\t\t\t\t<!-- -->"
+}

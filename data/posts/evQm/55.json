@@ -1,0 +1,15 @@
+{
+  "dataid": "55",
+  "fldid": "evQm",
+  "boardName": "(고교)물리수업 이야기",
+  "title": "탄성계수 구하기 실험 진행 시 오차의 원인이 궁금합니다.",
+  "author": "박민정(서울)",
+  "userid": "5C4Kn",
+  "created": "22.11.05",
+  "viewCnt": 171,
+  "commentCnt": 2,
+  "headCont": "",
+  "contentval": "0000tzzzzzzzzzzzzzzzzzzzzzzzzz",
+  "permlink": "https://cafe.daum.net/sedu22/evQm/55",
+  "contentHtml": "<div class=\"table-wrap\"><table data-ke-type=\"table\" data-ke-align=\"alignLeft\" style=\"width: 100%;\" border=\"1\"><tbody><tr><td>선생님 안녕하세요<br>학생들과 용수철 활용하여 탄성계수 측정하기 실험을 진행하였는데 몇가지 오류가 있어<br>선생님들의 의견과 팁을 듣고자 글을 작성합니다.<br><br><br><br><br><br><br><br><br>학생들과 탄성력과 중력을 활용한 용수철 상수 확인하기 실험을 진행하고&#160;<br>후속 실험으로 동일한 용수철을 가지고 에너지보존 법칙을 활용하여 평형점으로부터 A만큼 늘어난 곳에서 출발하는 경우 1/2kA^2 = 최대 운동에너지임을 활용하여 k를 구해보았습니다.<br><br><br>이 과정에서 탄성계수차이가 1N/m정도의 오차를 보였습니다.<br>(속력과 A는 버니어 기기로 활용하였고 에너지 손실을 고려한다기엔 데이터의 진폭과 속력의 차이가 미묘했습니다.)<br><br><br>왜 두 과정에서 k가 다르게 나왔는지 혹시 경험해 보신 분이 계실까요?<br>어떻게 오차율을 줄여야하는지 고민입니다.<br><br><br><br><br><br><br>또 다른 고민은 버니어 운동센서를 활용하여 용수철의 진동을 측정하였는데 sin함수처럼 예쁘게 곡선이 나올 때도 있고 종종 툭 튀는 데이터가 측정되는 경우도 있었습니다. 혹시 측정할 때 유의해야할 팁이 있을까요?ㅠ_ㅠ<br><br><br><br><br>질문 들어주셔서 감사합니다ㅠㅠ</td></tr></tbody></table></div>\n\t \t\t\t\t\t<!-- -->"
+}

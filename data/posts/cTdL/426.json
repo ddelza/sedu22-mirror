@@ -1,0 +1,15 @@
+{
+  "dataid": "426",
+  "fldid": "cTdL",
+  "boardName": "고1과학&탐구실험",
+  "title": "통합과학 1년을 마무리하며 하는 가로세로 낱말퀴즈",
+  "author": "허윤범(서울 노원고)",
+  "userid": "8NJ7H",
+  "created": "25.12.26",
+  "viewCnt": 825,
+  "commentCnt": 4,
+  "headCont": "",
+  "contentval": "0006szzzzzzzzzzzzzzzzzzzzzzzzz",
+  "permlink": "https://cafe.daum.net/sedu22/cTdL/426",
+  "contentHtml": "<p>&#160;</p><p><a href=\"https://gemini.google.com/share/f775efe499dc\" target=\"_top\" class=\"ke-link\">https://gemini.google.com/share/f775efe499dc</a></p><p>&#160;</p><p>우선 노트북LM에 교과서 PDF를 이용해서 단어와 단어에 대한 설명을 추출했습니다.</p><p>(통합과학에서 언급되거나 배운 내용으로만 구성하기 위함)</p><p>단어는 총 249개로 하단에 단어와 그에 대한 설명들을 넣어두겠습니다.</p><p>이를 Gemini를 이용해 단어 설명이 부족하거나 애매한건 없는지 체크했구요.</p><p>&#160;</p><p>이를 바탕으로 가로세로 낱말퀴즈를 생성해달라고 했습니다.</p><p>매번 단어를 찾아서 랜덤으로 만들어내구요.(학생들마다 컨닝을 방지하기 위함)</p><p>(다만 그러다보니, 크롬 창의 크기가 변경되거나 하면 새로고침되어 하던게 날아갑니다 ㅠ)</p><p>탭 키나 화살표 키로 움직일 수 있고</p><p>해당 칸을 누르면 칸에 대한 힌트가 강조표시되게 만들었습니다.</p><p>문항은 매번 20개로 만들게 해두었습니다.</p><p>단어 연결이 안되는것들도 있어서... 따로 동떨어진것도 몇개 생길 수 있어요</p><p>=====================================================================</p><p>Gemini와의 대화 내용(제일 하단 canvas에서 코드 보시면 단어와 단어에 대한 설명이 다 들어가있습니다.)</p><p><a href=\"https://gemini.google.com/share/af26dc35693f\" target=\"_top\" class=\"ke-link\">https://gemini.google.com/share/af26dc35693f</a></p><p>&#160;</p>\n\t \t\t\t\t\t<!-- -->"
+}
