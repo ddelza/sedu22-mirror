@@ -147,9 +147,23 @@ async function fetchArticleContent(ctx, fldid, bbsdepth) {
   return parseArticle(html);
 }
 
+// TSID 등 단기 세션 티켓 수명이 ~30분이라, 오래 걸리는 백필 도중에도
+// 주기적으로 재인증해서 세션이 끊기지 않게 한다.
+const SESSION_REFRESH_INTERVAL_MS = 20 * 60 * 1000;
+
 async function main() {
-  await refreshSession();
-  const ctx = await request.newContext({ storageState: SESSION_PATH });
+  let ctx = null;
+  let lastRefresh = 0;
+
+  async function ensureFreshSession() {
+    if (Date.now() - lastRefresh < SESSION_REFRESH_INTERVAL_MS && ctx) return;
+    await refreshSession();
+    if (ctx) await ctx.dispose();
+    ctx = await request.newContext({ storageState: SESSION_PATH });
+    lastRefresh = Date.now();
+  }
+
+  await ensureFreshSession();
   const state = loadState();
 
   const menuRes = await ctx.get(
@@ -164,6 +178,7 @@ async function main() {
   let totalNew = 0;
 
   for (const board of boards) {
+    await ensureFreshSession();
     console.log(`\n[${board.name}] (${board.fldid}) 목록 조회 중...`);
     const seenIds = new Set(state[board.fldid]?.seenIds || []);
     const articles = await fetchBoardArticles(ctx, board.fldid, seenIds);
@@ -201,9 +216,9 @@ async function main() {
     }
 
     state[board.fldid] = { name: board.name, seenIds: [...seenIds] };
+    saveState(state); // 게시판 단위로 저장 — 중간에 끊겨도 처음부터 다시 안 하도록
   }
 
-  saveState(state);
   await ctx.dispose();
 
   console.log(`\n완료. 새로 저장된 게시글: ${totalNew}건`);
