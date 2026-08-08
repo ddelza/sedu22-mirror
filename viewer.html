@@ -1,0 +1,144 @@
+<!doctype html>
+<html lang="ko">
+<head>
+<meta charset="utf-8">
+<title>sedu22 카페 미러 - 크롤링 검토용 뷰어</title>
+<style>
+  * { box-sizing: border-box; }
+  body { font-family: -apple-system, "Malgun Gothic", sans-serif; margin: 0; background: #f5f5f5; color: #222; }
+  header { background: #222; color: #fff; padding: 16px 20px; }
+  header h1 { margin: 0 0 8px; font-size: 18px; }
+  .stats { font-size: 13px; color: #aaa; }
+  .controls { display: flex; gap: 8px; padding: 12px 20px; background: #fff; border-bottom: 1px solid #ddd; flex-wrap: wrap; }
+  .controls input, .controls select { padding: 8px 10px; font-size: 14px; border: 1px solid #ccc; border-radius: 4px; }
+  .controls input[type="text"] { flex: 1; min-width: 200px; }
+  main { display: flex; height: calc(100vh - 110px); }
+  #list { width: 420px; overflow-y: auto; border-right: 1px solid #ddd; background: #fff; }
+  #list .item { padding: 10px 14px; border-bottom: 1px solid #eee; cursor: pointer; }
+  #list .item:hover { background: #f0f6ff; }
+  #list .item.active { background: #e3edff; }
+  #list .item .title { font-size: 14px; font-weight: 600; margin-bottom: 4px; }
+  #list .item .meta { font-size: 12px; color: #888; }
+  #list .item .board { display: inline-block; background: #eef; color: #446; border-radius: 3px; padding: 1px 6px; font-size: 11px; margin-right: 6px; }
+  #detail { flex: 1; overflow-y: auto; padding: 24px 32px; background: #fdfdfd; }
+  #detail .title { font-size: 20px; font-weight: 700; margin-bottom: 8px; }
+  #detail .meta { font-size: 13px; color: #777; margin-bottom: 20px; }
+  #detail .content img { max-width: 100%; height: auto; }
+  #detail .content { line-height: 1.7; }
+  .empty { color: #999; padding: 40px; text-align: center; }
+  #count { font-size: 13px; color: #888; padding: 4px 20px; background: #fff; }
+</style>
+</head>
+<body>
+
+<header>
+  <h1>재과만(sedu22) 카페 미러 — 크롤링 검토용</h1>
+  <div class="stats" id="headerStats">로딩 중...</div>
+</header>
+
+<div class="controls">
+  <input type="text" id="q" placeholder="제목/글쓴이/본문 검색어 입력...">
+  <select id="boardFilter"><option value="">전체 게시판</option></select>
+</div>
+<div id="count"></div>
+
+<main>
+  <div id="list"></div>
+  <div id="detail"><div class="empty">왼쪽에서 게시글을 선택하세요.</div></div>
+</main>
+
+<script src="viewer-data.js"></script>
+<script>
+const posts = window.POSTS || [];
+
+document.getElementById('headerStats').textContent =
+  `총 ${posts.length.toLocaleString()}건 로드됨`;
+
+const boardSet = new Map();
+for (const p of posts) {
+  if (!boardSet.has(p.fldid)) boardSet.set(p.fldid, p.boardName);
+}
+const boardFilter = document.getElementById('boardFilter');
+[...boardSet.entries()]
+  .sort((a, b) => a[1].localeCompare(b[1], 'ko'))
+  .forEach(([fldid, name]) => {
+    const opt = document.createElement('option');
+    opt.value = fldid;
+    opt.textContent = name;
+    boardFilter.appendChild(opt);
+  });
+
+function stripTags(html) {
+  return (html || '').replace(/<[^>]*>/g, ' ').replace(/&#160;/g, ' ').replace(/\s+/g, ' ').trim();
+}
+
+// 로컬 검토용 최소 안전장치: 렌더링 전 <script> 태그 제거
+function sanitize(html) {
+  return (html || '').replace(/<script[\s\S]*?<\/script>/gi, '');
+}
+
+const listEl = document.getElementById('list');
+const detailEl = document.getElementById('detail');
+const countEl = document.getElementById('count');
+const qEl = document.getElementById('q');
+
+let filtered = posts;
+
+function render() {
+  countEl.textContent = `${filtered.length.toLocaleString()}건 표시 중`;
+  listEl.innerHTML = filtered.slice(0, 500).map((p, i) => `
+    <div class="item" data-idx="${i}">
+      <div class="title">${escapeHtml(p.title || '(제목 없음)')}</div>
+      <div class="meta"><span class="board">${escapeHtml(p.boardName || '')}</span>${escapeHtml(p.author || '')} · ${escapeHtml(p.created || '')} · 조회 ${p.viewCnt ?? '-'}</div>
+    </div>
+  `).join('') || '<div class="empty">검색 결과가 없습니다.</div>';
+
+  listEl.querySelectorAll('.item').forEach((el) => {
+    el.addEventListener('click', () => {
+      listEl.querySelectorAll('.item').forEach((e) => e.classList.remove('active'));
+      el.classList.add('active');
+      showDetail(filtered[Number(el.dataset.idx)]);
+    });
+  });
+}
+
+function showDetail(p) {
+  detailEl.innerHTML = `
+    <div class="title">${escapeHtml(p.title || '')}</div>
+    <div class="meta">
+      ${escapeHtml(p.boardName || '')} · ${escapeHtml(p.author || '')} · ${escapeHtml(p.created || '')} ·
+      조회 ${p.viewCnt ?? '-'} · 댓글 ${p.commentCnt ?? '-'}
+      ${p.permlink ? ` · <a href="${escapeAttr(p.permlink)}" target="_blank" rel="noopener">원본 보기</a>` : ''}
+    </div>
+    <div class="content">${sanitize(p.contentHtml)}</div>
+  `;
+}
+
+function escapeHtml(s) {
+  return String(s).replace(/[&<>"']/g, (c) => ({
+    '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;'
+  }[c]));
+}
+function escapeAttr(s) { return escapeHtml(s); }
+
+function applyFilter() {
+  const q = qEl.value.trim().toLowerCase();
+  const board = boardFilter.value;
+  filtered = posts.filter((p) => {
+    if (board && p.fldid !== board) return false;
+    if (!q) return true;
+    const haystack = (
+      (p.title || '') + ' ' + (p.author || '') + ' ' + stripTags(p.contentHtml)
+    ).toLowerCase();
+    return haystack.includes(q);
+  });
+  render();
+}
+
+qEl.addEventListener('input', applyFilter);
+boardFilter.addEventListener('change', applyFilter);
+
+render();
+</script>
+</body>
+</html>

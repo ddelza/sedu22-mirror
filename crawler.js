@@ -81,7 +81,7 @@ function decodeHtmlEntities(str) {
 function parseArticleList(html) {
   const startMarker = 'var articles = [];';
   const startIdx = html.indexOf(startMarker);
-  if (startIdx === -1) return { articles: [], lastPage: 1 };
+  if (startIdx === -1) return { articles: [], lastBbsDepth: '' };
 
   const endIdx = html.indexOf('var cafeRoles = [];', startIdx);
   const chunk = html.slice(startIdx, endIdx === -1 ? undefined : endIdx);
@@ -90,10 +90,12 @@ function parseArticleList(html) {
   vm.createContext(sandbox);
   new vm.Script(chunk).runInContext(sandbox, { timeout: 5000 });
 
-  const lastPageMatch = html.match(/lastPage:\s*'(\d+)'/);
-  const lastPage = lastPageMatch ? Number(lastPageMatch[1]) : 1;
+  // 목록 페이지네이션은 &page=N 파라미터가 아니라 lastBbsDepth 커서 기반이다
+  // (page=N을 아무리 바꿔도 서버가 무시하고 항상 최신 페이지를 돌려주는 걸 확인함).
+  const lastBbsDepthMatch = html.match(/lastBbsDepth:\s*'([^']*)'/);
+  const lastBbsDepth = lastBbsDepthMatch ? lastBbsDepthMatch[1] : '';
 
-  return { articles: sandbox.articles, lastPage };
+  return { articles: sandbox.articles, lastBbsDepth };
 }
 
 // bbs_read HTML에서 본문(xmp) + 메타데이터 추출
@@ -118,26 +120,49 @@ function parseArticle(html) {
   };
 }
 
-async function fetchBoardArticles(ctx, fldid, seenIds) {
+// canEarlyStop: 이 게시판을 과거에 끝까지(lastPage까지) 백필한 적이 있어야만
+// "한 페이지 전체가 이미 수집됨 -> 이후는 안 봐도 됨" 최적화를 적용한다.
+// 그렇지 않으면(예: 예전에 앞쪽 1페이지만 살짝 테스트한 경우) 뒤쪽 옛날 글들을
+// 전부 신규가 아니라고 착각해 건너뛰는 버그가 생긴다.
+async function fetchBoardArticles(ctx, fldid, seenIds, canEarlyStop) {
   const results = [];
   let page = 1;
+  let cursor = null; // 이전 페이지의 lastBbsDepth (커서)
+  let reachedEnd = false;
+
   while (page <= MAX_PAGES_PER_BOARD) {
-    const url = `https://cafe.daum.net/_c21_/bbs_list?grpid=${GRPID}&fldid=${fldid}&page=${page}`;
+    let url = `https://cafe.daum.net/_c21_/bbs_list?grpid=${GRPID}&fldid=${fldid}&page=${page}`;
+    if (cursor) {
+      url += `&lastbbsdepth=${encodeURIComponent(cursor)}&prev_page=${page - 1}`;
+    }
     const res = await ctx.get(url);
     const html = await res.text();
-    const { articles, lastPage } = parseArticleList(html);
+    const { articles, lastBbsDepth } = parseArticleList(html);
+
+    if (articles.length === 0) {
+      reachedEnd = true;
+      break;
+    }
     results.push(...articles);
 
-    // 목록이 최신순이므로, 한 페이지 전체가 이미 수집된 글이면 그 뒤는 볼 필요 없음
-    // (증분 크롤링 효율화. 최초 백필 시엔 seenIds가 비어있어 끝까지 순회)
-    const allSeen = articles.length > 0 && articles.every((a) => seenIds.has(a.dataid));
-    if (allSeen) break;
+    if (canEarlyStop) {
+      const allSeen = articles.every((a) => seenIds.has(a.dataid));
+      if (allSeen) {
+        reachedEnd = true; // 이미 끝까지 백필된 상태에서 최신 지점까지 확인했다는 뜻
+        break;
+      }
+    }
 
-    if (page >= lastPage) break;
+    if (!lastBbsDepth) {
+      reachedEnd = true;
+      break;
+    }
+
+    cursor = lastBbsDepth;
     page += 1;
     await sleep(REQUEST_DELAY_MS);
   }
-  return results;
+  return { articles: results, reachedEnd };
 }
 
 async function fetchArticleContent(ctx, fldid, bbsdepth) {
@@ -181,7 +206,8 @@ async function main() {
     await ensureFreshSession();
     console.log(`\n[${board.name}] (${board.fldid}) 목록 조회 중...`);
     const seenIds = new Set(state[board.fldid]?.seenIds || []);
-    const articles = await fetchBoardArticles(ctx, board.fldid, seenIds);
+    const canEarlyStop = state[board.fldid]?.backfilled === true;
+    const { articles, reachedEnd } = await fetchBoardArticles(ctx, board.fldid, seenIds, canEarlyStop);
     const newArticles = articles.filter((a) => !seenIds.has(a.dataid));
 
     console.log(`  목록 ${articles.length}건 중 신규 ${newArticles.length}건`);
@@ -215,7 +241,11 @@ async function main() {
       await sleep(REQUEST_DELAY_MS);
     }
 
-    state[board.fldid] = { name: board.name, seenIds: [...seenIds] };
+    state[board.fldid] = {
+      name: board.name,
+      seenIds: [...seenIds],
+      backfilled: reachedEnd || state[board.fldid]?.backfilled === true,
+    };
     saveState(state); // 게시판 단위로 저장 — 중간에 끊겨도 처음부터 다시 안 하도록
   }
 
