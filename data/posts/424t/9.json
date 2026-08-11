@@ -11,5 +11,14 @@
   "headCont": "",
   "contentval": "00009zzzzzzzzzzzzzzzzzzzzzzzzz",
   "permlink": "https://cafe.daum.net/sedu22/424t/9",
-  "contentHtml": "<p>우리 학교에서도 올해 처음하는데...</p><p>&nbsp;</p><p>기대가 많이 되네요.</p>\n\t \t\t\t\t\t<!-- -->"
+  "contentHtml": "<p>우리 학교에서도 올해 처음하는데...</p><p>&nbsp;</p><p>기대가 많이 되네요.</p>\n\t \t\t\t\t\t<!-- -->",
+  "tags": [
+    {
+      "category": "과학교사 업무",
+      "topic": "과학 행사",
+      "confidence": "low"
+    }
+  ],
+  "tagsNote": "짧은 댓글 — 우리 학교도 올해 처음 한다는 반응.",
+  "taggedAt": "2026-08-11T22:59:11.976Z"
 }

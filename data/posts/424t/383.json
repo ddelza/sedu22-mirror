@@ -11,5 +11,28 @@
   "headCont": "",
   "contentval": "0006Bzzzzzzzzzzzzzzzzzzzzzzzzz",
   "permlink": "https://cafe.daum.net/sedu22/424t/383",
-  "contentHtml": "<p>안녕하세요~</p><p>작년에 학교에서 4D프레임으로 무동력 자동차 만들기 대회를 진행했던 자료 올려봅니다.</p><p>이전 고등학교에서 했던 대회 응용해서 중학생 수준으로 변형하여 진행했어요.</p><p>혹시나 샘들께 참고가 될</p><div class=\"figure-file\" data-ke-type=\"file\" data-file-src=\"https://t1.daumcdn.net/cafeattach/1TaBA/24bf94c28fb43cc60aa07d42da0fc6e21a16bf88?download\" data-file-name=\"재과만업로드-무동력 자동차.Zip\" data-file-size=\"1483749\" data-mimetype=\"application/x-zip-compressed\" data-ke-align=\"alignCenter\"><a href=\"javascript:checkVirus('grpid%3D1TaBA%26fldid%3D424t%26dataid%3D383%26fileid%3D1%26regdt%3D20241213105706&url=https%3A%2F%2Ft1.daumcdn.net%2Fcafeattach%2F1TaBA%2F24bf94c28fb43cc60aa07d42da0fc6e21a16bf88')\"><div class=\"image\"></div><div class=\"desc\"><div class=\"filename\"><span class=\"name\">재과만업로드-무동력 자동차</span><span class=\"type\">.Zip</span></div><div class=\"size\">1.42MB</div></div></a></div><p>까 싶어 올려봅니다.</p>\n\t \t\t\t\t\t<!-- -->"
+  "contentHtml": "<p>안녕하세요~</p><p>작년에 학교에서 4D프레임으로 무동력 자동차 만들기 대회를 진행했던 자료 올려봅니다.</p><p>이전 고등학교에서 했던 대회 응용해서 중학생 수준으로 변형하여 진행했어요.</p><p>혹시나 샘들께 참고가 될</p><div class=\"figure-file\" data-ke-type=\"file\" data-file-src=\"https://t1.daumcdn.net/cafeattach/1TaBA/24bf94c28fb43cc60aa07d42da0fc6e21a16bf88?download\" data-file-name=\"재과만업로드-무동력 자동차.Zip\" data-file-size=\"1483749\" data-mimetype=\"application/x-zip-compressed\" data-ke-align=\"alignCenter\"><a href=\"javascript:checkVirus('grpid%3D1TaBA%26fldid%3D424t%26dataid%3D383%26fileid%3D1%26regdt%3D20241213105706&url=https%3A%2F%2Ft1.daumcdn.net%2Fcafeattach%2F1TaBA%2F24bf94c28fb43cc60aa07d42da0fc6e21a16bf88')\"><div class=\"image\"></div><div class=\"desc\"><div class=\"filename\"><span class=\"name\">재과만업로드-무동력 자동차</span><span class=\"type\">.Zip</span></div><div class=\"size\">1.42MB</div></div></a></div><p>까 싶어 올려봅니다.</p>\n\t \t\t\t\t\t<!-- -->",
+  "tags": [
+    {
+      "category": "과학교사 업무",
+      "topic": "과학 행사",
+      "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "여러 가지 힘",
+      "confidence": "low"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "힘의 작용",
+      "confidence": "low"
+    }
+  ],
+  "tagsNote": "4D프레임 무동력 자동차 만들기 창의적 문제해결 경진대회 자료.",
+  "taggedAt": "2026-08-11T22:57:52.780Z"
 }

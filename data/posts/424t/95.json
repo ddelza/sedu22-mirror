@@ -11,5 +11,14 @@
   "headCont": "",
   "contentval": "0001Xzzzzzzzzzzzzzzzzzzzzzzzzz",
   "permlink": "https://cafe.daum.net/sedu22/424t/95",
-  "contentHtml": "<p>융합과학 시대회나 도대회에서 수상한 학생들</p><p>작품설명서나 작품설계도를 볼 수 있는 곳이 어디 있을까요?</p><p>&nbsp;</p>\n\t \t\t\t\t\t<!-- -->"
+  "contentHtml": "<p>융합과학 시대회나 도대회에서 수상한 학생들</p><p>작품설명서나 작품설계도를 볼 수 있는 곳이 어디 있을까요?</p><p>&nbsp;</p>\n\t \t\t\t\t\t<!-- -->",
+  "tags": [
+    {
+      "category": "과학교사 업무",
+      "topic": "과학 행사",
+      "confidence": "high"
+    }
+  ],
+  "tagsNote": "융합과학 대회 수상작 설명서/설계도 열람처 문의.",
+  "taggedAt": "2026-08-11T23:00:39.597Z"
 }
