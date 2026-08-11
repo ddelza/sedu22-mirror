@@ -11,5 +11,12 @@
   "headCont": "",
   "contentval": "0000Nzzzzzzzzzzzzzzzzzzzzzzzzz",
   "permlink": "https://cafe.daum.net/sedu22/f9Wr/23",
-  "contentHtml": "<p style=\"text-align: left;\">저희 부서에 신규 선생님이 오셨는데<br>공문 작성법을 설명해드리려구요.<br><br>관련 매뉴얼 파일이 있을까요?</p>\n\t \t\t\t\t\t<!-- -->"
+  "contentHtml": "<p style=\"text-align: left;\">저희 부서에 신규 선생님이 오셨는데<br>공문 작성법을 설명해드리려구요.<br><br>관련 매뉴얼 파일이 있을까요?</p>\n\t \t\t\t\t\t<!-- -->",
+  "tags": [
+    {
+      "category": "게시판별 분류",
+      "topic": "교사는 처음이시죠?",
+      "confidence": "high"
+    }
+  ]
 }

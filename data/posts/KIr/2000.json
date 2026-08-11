@@ -11,5 +11,12 @@
   "headCont": "",
   "contentval": "000WGzzzzzzzzzzzzzzzzzzzzzzzzz",
   "permlink": "https://cafe.daum.net/sedu22/KIr/2000",
-  "contentHtml": "<p style=\"text-align: left;\">향이 들어가는 건 안된다고 들은거 같은데<br>설거지 비누도 만들면 안되는건가요!??</p>\n\t \t\t\t\t\t<!-- -->"
+  "contentHtml": "<p style=\"text-align: left;\">향이 들어가는 건 안된다고 들은거 같은데<br>설거지 비누도 만들면 안되는건가요!??</p>\n\t \t\t\t\t\t<!-- -->",
+  "tags": [
+    {
+      "category": "게시판별 분류",
+      "topic": "자유공간",
+      "confidence": "high"
+    }
+  ]
 }

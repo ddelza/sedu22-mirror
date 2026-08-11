@@ -10,5 +10,12 @@
   "headCont": "",
   "contentval": "000Anzzzzzzzzzzzzzzzzzzzzzzzzz",
   "permlink": "https://cafe.daum.net/sedu22/f02N/669",
-  "contentHtml": "<p style=\"text-align: left;\">중학생인데 화산귀환? 같은 만화책 입력해도 되나요?</p>\n\t \t\t\t\t\t<!-- -->"
+  "contentHtml": "<p style=\"text-align: left;\">중학생인데 화산귀환? 같은 만화책 입력해도 되나요?</p>\n\t \t\t\t\t\t<!-- -->",
+  "tags": [
+    {
+      "category": "게시판별 분류",
+      "topic": "옹알이(익명게시판)",
+      "confidence": "high"
+    }
+  ]
 }

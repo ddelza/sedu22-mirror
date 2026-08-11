@@ -24,6 +24,11 @@
       "category": "과학교사 업무",
       "topic": "과학 행사",
       "confidence": "high"
+    },
+    {
+      "category": "게시판별 분류",
+      "topic": "과학행사&과학실 Idea",
+      "confidence": "high"
     }
   ],
   "tagsNote": "발명대회 운영 규정 질문 — 행정 문의.",

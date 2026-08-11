@@ -11,5 +11,12 @@
   "headCont": "",
   "contentval": "000GGzzzzzzzzzzzzzzzzzzzzzzzzz",
   "permlink": "https://cafe.daum.net/sedu22/fMHv/1008",
-  "contentHtml": "<p>곧 연구 수업이 있습니다.</p><p>혹시 구름 발생 수업 아이디어 있으시면 도움 받고 싶어요.</p>\n\t \t\t\t\t\t<!-- -->"
+  "contentHtml": "<p>곧 연구 수업이 있습니다.</p><p>혹시 구름 발생 수업 아이디어 있으시면 도움 받고 싶어요.</p>\n\t \t\t\t\t\t<!-- -->",
+  "tags": [
+    {
+      "category": "게시판별 분류",
+      "topic": "중학교 지구과학수업 이야기",
+      "confidence": "high"
+    }
+  ]
 }

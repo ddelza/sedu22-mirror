@@ -11,5 +11,12 @@
   "headCont": "",
   "contentval": "0001Ezzzzzzzzzzzzzzzzzzzzzzzzz",
   "permlink": "https://cafe.daum.net/sedu22/dSQv/76",
-  "contentHtml": "<p>3D 프린터 구입 예정인데, 아직 연수는 받지 않았네요..</p><p>어떤 용도로 사용하고 계신지요?</p><p>그리고 학교에서 사용하기 적당한 기종 있으시면 추천 부탁드립니다~</p><p><br></p>\n\t \t\t\t\t\t<!-- -->"
+  "contentHtml": "<p>3D 프린터 구입 예정인데, 아직 연수는 받지 않았네요..</p><p>어떤 용도로 사용하고 계신지요?</p><p>그리고 학교에서 사용하기 적당한 기종 있으시면 추천 부탁드립니다~</p><p><br></p>\n\t \t\t\t\t\t<!-- -->",
+  "tags": [
+    {
+      "category": "게시판별 분류",
+      "topic": "자유학기 수업",
+      "confidence": "high"
+    }
+  ]
 }

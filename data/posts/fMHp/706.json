@@ -11,5 +11,12 @@
   "headCont": "에너지 전환",
   "contentval": "000BOzzzzzzzzzzzzzzzzzzzzzzzzz",
   "permlink": "https://cafe.daum.net/sedu22/fMHp/706",
-  "contentHtml": "<p>문제집 보니 렌츠법칙으로 푸는 문제가 있더라구요.</p><p>천재 교과서 쓰는데 관련 언급 전혀 없고 유도 전류 세기에 관한 내용도 없는데</p><p>학습지로 따로 가르치시나요 ??</p>\n\t \t\t\t\t\t<!-- -->"
+  "contentHtml": "<p>문제집 보니 렌츠법칙으로 푸는 문제가 있더라구요.</p><p>천재 교과서 쓰는데 관련 언급 전혀 없고 유도 전류 세기에 관한 내용도 없는데</p><p>학습지로 따로 가르치시나요 ??</p>\n\t \t\t\t\t\t<!-- -->",
+  "tags": [
+    {
+      "category": "게시판별 분류",
+      "topic": "중학교 물리수업 이야기",
+      "confidence": "high"
+    }
+  ]
 }

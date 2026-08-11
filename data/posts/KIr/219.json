@@ -11,5 +11,12 @@
   "headCont": "",
   "contentval": "0003Xzzzzzzzzzzzzzzzzzzzzzzzzz",
   "permlink": "https://cafe.daum.net/sedu22/KIr/219",
-  "contentHtml": "<P>&nbsp; 과학수업을 하면서 느끼는 어려움을 함께 공유하면서 재밌는 과학수업이 되도록 노력하겠습니다.</P>\n\t \t\t\t\t\t<!-- -->"
+  "contentHtml": "<P>&nbsp; 과학수업을 하면서 느끼는 어려움을 함께 공유하면서 재밌는 과학수업이 되도록 노력하겠습니다.</P>\n\t \t\t\t\t\t<!-- -->",
+  "tags": [
+    {
+      "category": "게시판별 분류",
+      "topic": "자유공간",
+      "confidence": "high"
+    }
+  ]
 }

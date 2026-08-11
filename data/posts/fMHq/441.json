@@ -11,5 +11,12 @@
   "headCont": "물질의 구성",
   "contentval": "00077zzzzzzzzzzzzzzzzzzzzzzzzz",
   "permlink": "https://cafe.daum.net/sedu22/fMHq/441",
-  "contentHtml": "<p style=\"text-align: left;\">어떤 분자를 이루고 있는 원소를 쓰라고 할때<br>수소, 산소 2종류.. 이런식으로 쓰잖아요~<br>그러면 원소의 종류와 원자의 종류를 그냥 같다고<br>생각해도 되는 걸까요..?ㅠ<br>어떤게 더 정확한 표현인지 헷갈립니다ㅠㅠ</p>\n\t \t\t\t\t\t<!-- -->"
+  "contentHtml": "<p style=\"text-align: left;\">어떤 분자를 이루고 있는 원소를 쓰라고 할때<br>수소, 산소 2종류.. 이런식으로 쓰잖아요~<br>그러면 원소의 종류와 원자의 종류를 그냥 같다고<br>생각해도 되는 걸까요..?ㅠ<br>어떤게 더 정확한 표현인지 헷갈립니다ㅠㅠ</p>\n\t \t\t\t\t\t<!-- -->",
+  "tags": [
+    {
+      "category": "게시판별 분류",
+      "topic": "중학교 화학수업 이야기",
+      "confidence": "high"
+    }
+  ]
 }

@@ -11,5 +11,12 @@
   "headCont": "",
   "contentval": "0001uzzzzzzzzzzzzzzzzzzzzzzzzz",
   "permlink": "https://cafe.daum.net/sedu22/IWN/118",
-  "contentHtml": "<p><br></p><p><br></p><p><a href=\"http://news.jkn.co.kr/post/817702\" target=\"_top\" class=\"tx-link\">http://news.jkn.co.kr/post/817702</a><br></p><p><span style=\"font-size: 13.3333px;\"><br></span></p><p><span style=\"font-size: 13.3333px;\"><br></span></p>\n\t \t\t\t\t\t<!-- -->"
+  "contentHtml": "<p><br></p><p><br></p><p><a href=\"http://news.jkn.co.kr/post/817702\" target=\"_top\" class=\"tx-link\">http://news.jkn.co.kr/post/817702</a><br></p><p><span style=\"font-size: 13.3333px;\"><br></span></p><p><span style=\"font-size: 13.3333px;\"><br></span></p>\n\t \t\t\t\t\t<!-- -->",
+  "tags": [
+    {
+      "category": "게시판별 분류",
+      "topic": "좋은 글 & 책",
+      "confidence": "high"
+    }
+  ]
 }

@@ -40,6 +40,11 @@
       "subject": "과학",
       "unit": "열",
       "confidence": "high"
+    },
+    {
+      "category": "게시판별 분류",
+      "topic": "과학행사&과학실 Idea",
+      "confidence": "high"
     }
   ],
   "tagsNote": "중1 파동, 중2 열과 우리생활 단원 기반 영재수업 활동 추천 요청 — 행사/업무가 아닌 단원 수업 내용 질문.",

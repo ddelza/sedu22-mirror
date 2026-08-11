@@ -11,5 +11,12 @@
   "headCont": "",
   "contentval": "0000Ezzzzzzzzzzzzzzzzzzzzzzzzz",
   "permlink": "https://cafe.daum.net/sedu22/cTdL/14",
-  "contentHtml": "<P>조영우 선생님이 </P>\r\n<P>과학동아에 기고한 글입니다.</P>\r\n<P>&nbsp;</P>\r\n<P><A href=\"http://skyobserver.net/astro_astronomy/148254\">http://skyobserver.net/astro_astronomy/148254</A></P>\n\t \t\t\t\t\t<!-- -->"
+  "contentHtml": "<P>조영우 선생님이 </P>\r\n<P>과학동아에 기고한 글입니다.</P>\r\n<P>&nbsp;</P>\r\n<P><A href=\"http://skyobserver.net/astro_astronomy/148254\">http://skyobserver.net/astro_astronomy/148254</A></P>\n\t \t\t\t\t\t<!-- -->",
+  "tags": [
+    {
+      "category": "게시판별 분류",
+      "topic": "고1과학&탐구실험",
+      "confidence": "high"
+    }
+  ]
 }

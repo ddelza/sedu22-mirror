@@ -11,5 +11,12 @@
   "headCont": "",
   "contentval": "000JQzzzzzzzzzzzzzzzzzzzzzzzzz",
   "permlink": "https://cafe.daum.net/sedu22/fMHu/1204",
-  "contentHtml": "<p style=\"text-align: left;\">반고리관에서 몸의 회전과 속력변화를 감지한다고 하고 전정기관에서는 균형, 수평, 수직 선형 가속도 등을 감지한다고 알고있습니다!<br>그러면 속력을 느끼는것은 두 기관 모두에서 가능한건가요?</p>\n\t \t\t\t\t\t<!-- -->"
+  "contentHtml": "<p style=\"text-align: left;\">반고리관에서 몸의 회전과 속력변화를 감지한다고 하고 전정기관에서는 균형, 수평, 수직 선형 가속도 등을 감지한다고 알고있습니다!<br>그러면 속력을 느끼는것은 두 기관 모두에서 가능한건가요?</p>\n\t \t\t\t\t\t<!-- -->",
+  "tags": [
+    {
+      "category": "게시판별 분류",
+      "topic": "중학교 생물수업 이야기",
+      "confidence": "high"
+    }
+  ]
 }

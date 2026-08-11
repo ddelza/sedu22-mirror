@@ -11,5 +11,12 @@
   "headCont": "상태변화",
   "contentval": "0001vzzzzzzzzzzzzzzzzzzzzzzzzz",
   "permlink": "https://cafe.daum.net/sedu22/fMHq/119",
-  "contentHtml": "<p style=\"text-align: left;\">물의 상태변화를 보여주는 간단한 시범실험을 보여주려 하는데요,<br>전기포트에 얼음을 넣어 끓여보신분 있으신가요~??<br><br>질량변화, 고ㅡ액ㅡ기 상태변화 모두 확인할수 있어 좋을듯한데, 학교 전기포트기 고장날까 염려됩니다ㅎㅎ</p>\n\t \t\t\t\t\t<!-- -->"
+  "contentHtml": "<p style=\"text-align: left;\">물의 상태변화를 보여주는 간단한 시범실험을 보여주려 하는데요,<br>전기포트에 얼음을 넣어 끓여보신분 있으신가요~??<br><br>질량변화, 고ㅡ액ㅡ기 상태변화 모두 확인할수 있어 좋을듯한데, 학교 전기포트기 고장날까 염려됩니다ㅎㅎ</p>\n\t \t\t\t\t\t<!-- -->",
+  "tags": [
+    {
+      "category": "게시판별 분류",
+      "topic": "중학교 화학수업 이야기",
+      "confidence": "high"
+    }
+  ]
 }

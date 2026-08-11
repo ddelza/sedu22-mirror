@@ -22,6 +22,11 @@
       "category": "스마트 수업도구",
       "topic": "앱/프로그램",
       "confidence": "medium"
+    },
+    {
+      "category": "게시판별 분류",
+      "topic": "거꾸로 교실(김신혜)",
+      "confidence": "high"
     }
   ],
   "tagsNote": "모둠활동용 팀플 어플 소개.",

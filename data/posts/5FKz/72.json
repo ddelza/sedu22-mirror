@@ -22,6 +22,11 @@
       "category": "스마트 수업도구",
       "topic": "교육용 단말기(태블릿/크롬북)",
       "confidence": "low"
+    },
+    {
+      "category": "게시판별 분류",
+      "topic": "거꾸로 교실(김신혜)",
+      "confidence": "high"
     }
   ],
   "tagsNote": "디딤수업 촬영 도구(태블릿) 추천 요청.",

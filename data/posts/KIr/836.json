@@ -11,5 +11,12 @@
   "headCont": "",
   "contentval": "000DUzzzzzzzzzzzzzzzzzzzzzzzzz",
   "permlink": "https://cafe.daum.net/sedu22/KIr/836",
-  "contentHtml": "<iframe width=\"854\" height=\"480\" src=\"https://www.youtube.com/embed/8RiHLNJOgoo\" frameborder=\"0\" allowfullscreen=\"\"></iframe>\n\t \t\t\t\t\t<!-- -->"
+  "contentHtml": "<iframe width=\"854\" height=\"480\" src=\"https://www.youtube.com/embed/8RiHLNJOgoo\" frameborder=\"0\" allowfullscreen=\"\"></iframe>\n\t \t\t\t\t\t<!-- -->",
+  "tags": [
+    {
+      "category": "게시판별 분류",
+      "topic": "자유공간",
+      "confidence": "high"
+    }
+  ]
 }

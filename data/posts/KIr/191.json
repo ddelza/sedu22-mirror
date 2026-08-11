@@ -11,5 +11,12 @@
   "headCont": "",
   "contentval": "00035zzzzzzzzzzzzzzzzzzzzzzzzz",
   "permlink": "https://cafe.daum.net/sedu22/KIr/191",
-  "contentHtml": "<P>안녕하세요</P>\r\n<P>카페에서 뵙기는 처음입니다.</P>\r\n<P>게을러서 오늘 가입했습니다. 연락은 전에 받았는데....</P>\r\n<P>자주 뵙도록 하겠습니다.</P>\n\t \t\t\t\t\t<!-- -->"
+  "contentHtml": "<P>안녕하세요</P>\r\n<P>카페에서 뵙기는 처음입니다.</P>\r\n<P>게을러서 오늘 가입했습니다. 연락은 전에 받았는데....</P>\r\n<P>자주 뵙도록 하겠습니다.</P>\n\t \t\t\t\t\t<!-- -->",
+  "tags": [
+    {
+      "category": "게시판별 분류",
+      "topic": "자유공간",
+      "confidence": "high"
+    }
+  ]
 }

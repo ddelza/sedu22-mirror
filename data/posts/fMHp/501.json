@@ -11,5 +11,12 @@
   "headCont": "열",
   "contentval": "00085zzzzzzzzzzzzzzzzzzzzzzzzz",
   "permlink": "https://cafe.daum.net/sedu22/fMHp/501",
-  "contentHtml": "<p><a href=\"https://youtu.be/ibDbDnCpiDA?si=yLWodSaDUO84oAkZ\" target=\"_blank\" class=\"ke-link\">https://youtu.be/ibDbDnCpiDA?si=yLWodSaDUO84oAkZ</a></p><div class=\"figure-video\" data-ke-type=\"video\" data-video-url=\"https://www.youtube.com/watch?v=ibDbDnCpiDA\" data-video-host=\"youtube\" data-video-play-service=\"daum_cafe\" data-video-width=\"868\" data-video-height=\"488\" data-ke-style=\"alignCenter\" data-video-thumbnail=\"https://scrap.kakaocdn.net/dn/bsGZo7/hyUE4TCRlq/wvr2xL0gubnEkHjBvsbyK0/img.jpg?width=1280&amp;height=720&amp;face=0_0_1280_720\" data-ke-mobile-mobilestyle=\"widthContent\" data-video-origin-width=\"868\" data-video-origin-height=\"488\"><iframe src=\"https://www.youtube.com/embed/ibDbDnCpiDA\" width=\"868\" height=\"488\" frameborder=\"0\" scrolling=\"no\" allowfullscreen=\"\"></iframe><div class=\"figcaption\"></div></div><p>빈칸 사이즈에 맞는 답이 뭘까 궁금했었는데 ㅋㅋ 찾았어요^^</p>\n\t \t\t\t\t\t<!-- -->"
+  "contentHtml": "<p><a href=\"https://youtu.be/ibDbDnCpiDA?si=yLWodSaDUO84oAkZ\" target=\"_blank\" class=\"ke-link\">https://youtu.be/ibDbDnCpiDA?si=yLWodSaDUO84oAkZ</a></p><div class=\"figure-video\" data-ke-type=\"video\" data-video-url=\"https://www.youtube.com/watch?v=ibDbDnCpiDA\" data-video-host=\"youtube\" data-video-play-service=\"daum_cafe\" data-video-width=\"868\" data-video-height=\"488\" data-ke-style=\"alignCenter\" data-video-thumbnail=\"https://scrap.kakaocdn.net/dn/bsGZo7/hyUE4TCRlq/wvr2xL0gubnEkHjBvsbyK0/img.jpg?width=1280&amp;height=720&amp;face=0_0_1280_720\" data-ke-mobile-mobilestyle=\"widthContent\" data-video-origin-width=\"868\" data-video-origin-height=\"488\"><iframe src=\"https://www.youtube.com/embed/ibDbDnCpiDA\" width=\"868\" height=\"488\" frameborder=\"0\" scrolling=\"no\" allowfullscreen=\"\"></iframe><div class=\"figcaption\"></div></div><p>빈칸 사이즈에 맞는 답이 뭘까 궁금했었는데 ㅋㅋ 찾았어요^^</p>\n\t \t\t\t\t\t<!-- -->",
+  "tags": [
+    {
+      "category": "게시판별 분류",
+      "topic": "중학교 물리수업 이야기",
+      "confidence": "high"
+    }
+  ]
 }

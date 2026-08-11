@@ -11,5 +11,12 @@
   "headCont": "운동 에너지",
   "contentval": "0009uzzzzzzzzzzzzzzzzzzzzzzzzz",
   "permlink": "https://cafe.daum.net/sedu22/fMHp/614",
-  "contentHtml": "<p>가방을 메고 계단을 올라가는 경우</p><p>가방의 무게*계단의 수직높이 해서 일의 양을 구하잖아요.</p><p>가방을 메고 계단을 내려가는 경우는 일의 양을 어떻게 설명 가능할까요?</p>\n\t \t\t\t\t\t<!-- -->"
+  "contentHtml": "<p>가방을 메고 계단을 올라가는 경우</p><p>가방의 무게*계단의 수직높이 해서 일의 양을 구하잖아요.</p><p>가방을 메고 계단을 내려가는 경우는 일의 양을 어떻게 설명 가능할까요?</p>\n\t \t\t\t\t\t<!-- -->",
+  "tags": [
+    {
+      "category": "게시판별 분류",
+      "topic": "중학교 물리수업 이야기",
+      "confidence": "high"
+    }
+  ]
 }

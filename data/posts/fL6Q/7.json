@@ -11,5 +11,12 @@
   "headCont": "",
   "contentval": "00007zzzzzzzzzzzzzzzzzzzzzzzzz",
   "permlink": "https://cafe.daum.net/sedu22/fL6Q/7",
-  "contentHtml": "<p>전자칠판이라&#160;사이트도구로&#160;홈페이지&#160;만들어&#160;필요할&#160;때&#160;관련&#160;동영상&#160;보여줄&#160;때&#160;사용한답니다.&#160;^^ <br><br><b><a href=\"https://sites.google.com/daehyun.hs.kr/lands?usp=sharing\" target=\"_blank\" class=\"ke-link\">생활과과학&#160;동영상&#160;자료&#160;바로가기</a></b> </p>\n\t \t\t\t\t\t<!-- -->"
+  "contentHtml": "<p>전자칠판이라&#160;사이트도구로&#160;홈페이지&#160;만들어&#160;필요할&#160;때&#160;관련&#160;동영상&#160;보여줄&#160;때&#160;사용한답니다.&#160;^^ <br><br><b><a href=\"https://sites.google.com/daehyun.hs.kr/lands?usp=sharing\" target=\"_blank\" class=\"ke-link\">생활과과학&#160;동영상&#160;자료&#160;바로가기</a></b> </p>\n\t \t\t\t\t\t<!-- -->",
+  "tags": [
+    {
+      "category": "게시판별 분류",
+      "topic": "(고교)생활과 과학&융합과학&과학사&기환생",
+      "confidence": "high"
+    }
+  ]
 }

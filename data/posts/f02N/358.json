@@ -10,5 +10,12 @@
   "headCont": "",
   "contentval": "0005mzzzzzzzzzzzzzzzzzzzzzzzzz",
   "permlink": "https://cafe.daum.net/sedu22/f02N/358",
-  "contentHtml": "<p style=\"text-align: left;\">추천코드 댓글로 주셔요~<br>같이 아메리카노 받아요~</p>\n\t \t\t\t\t\t<!-- -->"
+  "contentHtml": "<p style=\"text-align: left;\">추천코드 댓글로 주셔요~<br>같이 아메리카노 받아요~</p>\n\t \t\t\t\t\t<!-- -->",
+  "tags": [
+    {
+      "category": "게시판별 분류",
+      "topic": "옹알이(익명게시판)",
+      "confidence": "high"
+    }
+  ]
 }

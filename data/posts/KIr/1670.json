@@ -11,5 +11,12 @@
   "headCont": "",
   "contentval": "000Qwzzzzzzzzzzzzzzzzzzzzzzzzz",
   "permlink": "https://cafe.daum.net/sedu22/KIr/1670",
-  "contentHtml": "<p style=\"text-align: left;\">하이탑보다 어려운 중등 과학 문제집 있을까요?</p>\n\t \t\t\t\t\t<!-- -->"
+  "contentHtml": "<p style=\"text-align: left;\">하이탑보다 어려운 중등 과학 문제집 있을까요?</p>\n\t \t\t\t\t\t<!-- -->",
+  "tags": [
+    {
+      "category": "게시판별 분류",
+      "topic": "자유공간",
+      "confidence": "high"
+    }
+  ]
 }

@@ -11,5 +11,12 @@
   "headCont": "",
   "contentval": "000Ihzzzzzzzzzzzzzzzzzzzzzzzzz",
   "permlink": "https://cafe.daum.net/sedu22/fMHu/1159",
-  "contentHtml": "<p><img src='https://t1.daumcdn.net/cafeattach/1TaBA/89a5fe5906434835a76226546d6bd6039aed8c3c' class='txc-image already_attached_image' /></p><p><img src='https://t1.daumcdn.net/cafeattach/1TaBA/7c005a326d82a662e58c08663720e692f287aa79' class='txc-image already_attached_image' /></p><p class=\"cafe-editor-text\">두번째는 소생술 움짤이네요~</p>\n\t \t\t\t\t\t<!-- -->"
+  "contentHtml": "<p><img src='https://t1.daumcdn.net/cafeattach/1TaBA/89a5fe5906434835a76226546d6bd6039aed8c3c' class='txc-image already_attached_image' /></p><p><img src='https://t1.daumcdn.net/cafeattach/1TaBA/7c005a326d82a662e58c08663720e692f287aa79' class='txc-image already_attached_image' /></p><p class=\"cafe-editor-text\">두번째는 소생술 움짤이네요~</p>\n\t \t\t\t\t\t<!-- -->",
+  "tags": [
+    {
+      "category": "게시판별 분류",
+      "topic": "중학교 생물수업 이야기",
+      "confidence": "high"
+    }
+  ]
 }

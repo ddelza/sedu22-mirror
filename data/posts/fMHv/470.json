@@ -11,5 +11,12 @@
   "headCont": "태양계",
   "contentval": "0007azzzzzzzzzzzzzzzzzzzzzzzzz",
   "permlink": "https://cafe.daum.net/sedu22/fMHv/470",
-  "contentHtml": "<p class=\"cafe-editor-text\">편집해보았습니다^^!<br /></p><p><img src='https://t1.daumcdn.net/cafeattach/1TaBA/656bffcf65c40959e5508202705d244195b6089a' class=\"txc-image\" /></p><p><img src='https://t1.daumcdn.net/cafeattach/1TaBA/85af4a63fdf97ed0ff37fa7110f83a8e31acc8b6' class=\"txc-image\" /></p>\n\t \t\t\t\t\t<!-- -->"
+  "contentHtml": "<p class=\"cafe-editor-text\">편집해보았습니다^^!<br /></p><p><img src='https://t1.daumcdn.net/cafeattach/1TaBA/656bffcf65c40959e5508202705d244195b6089a' class=\"txc-image\" /></p><p><img src='https://t1.daumcdn.net/cafeattach/1TaBA/85af4a63fdf97ed0ff37fa7110f83a8e31acc8b6' class=\"txc-image\" /></p>\n\t \t\t\t\t\t<!-- -->",
+  "tags": [
+    {
+      "category": "게시판별 분류",
+      "topic": "중학교 지구과학수업 이야기",
+      "confidence": "high"
+    }
+  ]
 }

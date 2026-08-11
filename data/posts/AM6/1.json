@@ -19,6 +19,11 @@
       "subject": null,
       "unit": "미분류",
       "confidence": "high"
+    },
+    {
+      "category": "게시판별 분류",
+      "topic": "수석교사의 방(2023~)",
+      "confidence": "high"
     }
   ],
   "tagsNote": "'수석교사의 방' 게시판 — 카페 운영진의 해외 장기유학 개인 소감/감사인사, 과학 수업/업무와 무관.",

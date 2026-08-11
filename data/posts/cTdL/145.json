@@ -11,5 +11,12 @@
   "headCont": "",
   "contentval": "0002Lzzzzzzzzzzzzzzzzzzzzzzzzz",
   "permlink": "https://cafe.daum.net/sedu22/cTdL/145",
-  "contentHtml": "<p>내용이 재미있어서&nbsp; 받고 싶군요.</p><p><br></p><p><a href=\"mailto:herry550@naver.com\">herry550@naver.com</a></p><p><br></p><p>감사합니다.<br></p>\n\t \t\t\t\t\t<!-- -->"
+  "contentHtml": "<p>내용이 재미있어서&nbsp; 받고 싶군요.</p><p><br></p><p><a href=\"mailto:herry550@naver.com\">herry550@naver.com</a></p><p><br></p><p>감사합니다.<br></p>\n\t \t\t\t\t\t<!-- -->",
+  "tags": [
+    {
+      "category": "게시판별 분류",
+      "topic": "고1과학&탐구실험",
+      "confidence": "high"
+    }
+  ]
 }

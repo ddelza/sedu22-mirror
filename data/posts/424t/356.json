@@ -22,6 +22,11 @@
       "category": "스마트 수업도구",
       "topic": "메이커/3D프린팅",
       "confidence": "low"
+    },
+    {
+      "category": "게시판별 분류",
+      "topic": "과학행사&과학실 Idea",
+      "confidence": "high"
     }
   ],
   "tagsNote": "커팅기/전사프린터(실루엣 카메오4) 사용후기 요청.",

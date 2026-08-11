@@ -11,5 +11,12 @@
   "headCont": "전기 자기",
   "contentval": "0007Ezzzzzzzzzzzzzzzzzzzzzzzzz",
   "permlink": "https://cafe.daum.net/sedu22/fMHp/448",
-  "contentHtml": "<p style=\"text-align: left;\"><span data-ke-size=\"size16\">전구 1개를 연결한 회로를 <br>전구 1개를 직렬연결한 회로 또는 전구 1개를 병렬연결한 회로라고 해도 되나요? <br><br>둘다 틀릴까요? 아님 병렬만 틀릴까요?</span></p>\n\t \t\t\t\t\t<!-- -->"
+  "contentHtml": "<p style=\"text-align: left;\"><span data-ke-size=\"size16\">전구 1개를 연결한 회로를 <br>전구 1개를 직렬연결한 회로 또는 전구 1개를 병렬연결한 회로라고 해도 되나요? <br><br>둘다 틀릴까요? 아님 병렬만 틀릴까요?</span></p>\n\t \t\t\t\t\t<!-- -->",
+  "tags": [
+    {
+      "category": "게시판별 분류",
+      "topic": "중학교 물리수업 이야기",
+      "confidence": "high"
+    }
+  ]
 }

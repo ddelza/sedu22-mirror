@@ -11,5 +11,12 @@
   "headCont": "",
   "contentval": "00004zzzzzzzzzzzzzzzzzzzzzzzzz",
   "permlink": "https://cafe.daum.net/sedu22/f4GZ/4",
-  "contentHtml": "<p>잡종의 경우</p><p>한 꼬투리 안에 둥근, 주름진이 같이 들어있을까요?</p>\n\t \t\t\t\t\t<!-- -->"
+  "contentHtml": "<p>잡종의 경우</p><p>한 꼬투리 안에 둥근, 주름진이 같이 들어있을까요?</p>\n\t \t\t\t\t\t<!-- -->",
+  "tags": [
+    {
+      "category": "게시판별 분류",
+      "topic": "멘델 프로젝트(2021~)",
+      "confidence": "high"
+    }
+  ]
 }

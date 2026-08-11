@@ -11,5 +11,12 @@
   "headCont": "",
   "contentval": "000Jyzzzzzzzzzzzzzzzzzzzzzzzzz",
   "permlink": "https://cafe.daum.net/sedu22/fMHv/1238",
-  "contentHtml": "<p class=\"cafe-editor-text\">위상이 바로 보이니까 학생들이 금방 이해하는것 같아요~</p><p><img src='https://t1.daumcdn.net/cfile/cafe/2160393C5630305910' class=\"txc-image\" /></p>\n\t \t\t\t\t\t<!-- -->"
+  "contentHtml": "<p class=\"cafe-editor-text\">위상이 바로 보이니까 학생들이 금방 이해하는것 같아요~</p><p><img src='https://t1.daumcdn.net/cfile/cafe/2160393C5630305910' class=\"txc-image\" /></p>\n\t \t\t\t\t\t<!-- -->",
+  "tags": [
+    {
+      "category": "게시판별 분류",
+      "topic": "중학교 지구과학수업 이야기",
+      "confidence": "high"
+    }
+  ]
 }

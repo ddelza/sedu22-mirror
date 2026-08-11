@@ -11,5 +11,12 @@
   "headCont": "빛 파동",
   "contentval": "0004qzzzzzzzzzzzzzzzzzzzzzzzzz",
   "permlink": "https://cafe.daum.net/sedu22/fMHp/300",
-  "contentHtml": "<p style=\"text-align: left;\">점묘화는 색의 합성의 예가 아닌지 궁금합니다.<br>그림에서 반사되는 빛이 합성되는 거라 빛의 합성인건가요? 오투에 점묘화가 빛의 합성의 예라고 되어 있어 질문합니다.</p>\n\t \t\t\t\t\t<!-- -->"
+  "contentHtml": "<p style=\"text-align: left;\">점묘화는 색의 합성의 예가 아닌지 궁금합니다.<br>그림에서 반사되는 빛이 합성되는 거라 빛의 합성인건가요? 오투에 점묘화가 빛의 합성의 예라고 되어 있어 질문합니다.</p>\n\t \t\t\t\t\t<!-- -->",
+  "tags": [
+    {
+      "category": "게시판별 분류",
+      "topic": "중학교 물리수업 이야기",
+      "confidence": "high"
+    }
+  ]
 }

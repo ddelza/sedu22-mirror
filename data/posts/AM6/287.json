@@ -19,6 +19,11 @@
       "subject": null,
       "unit": "미분류",
       "confidence": "high"
+    },
+    {
+      "category": "게시판별 분류",
+      "topic": "수석교사의 방(2023~)",
+      "confidence": "high"
     }
   ],
   "tagsNote": "오산교육재단 진로체험 프로그램 소개 — 과학 특정 내용 아닌 일반 교육행정.",

@@ -11,5 +11,12 @@
   "headCont": "",
   "contentval": "000C4zzzzzzzzzzzzzzzzzzzzzzzzz",
   "permlink": "https://cafe.daum.net/sedu22/fMHq/748",
-  "contentHtml": "<p>원소야놀자 보드게임 판매처를 알 수 있을까요?</p><p>검색해보니 보드게임 종류는 나오는데 판매처가 안보여서요~~~</p>\n\t \t\t\t\t\t<!-- -->"
+  "contentHtml": "<p>원소야놀자 보드게임 판매처를 알 수 있을까요?</p><p>검색해보니 보드게임 종류는 나오는데 판매처가 안보여서요~~~</p>\n\t \t\t\t\t\t<!-- -->",
+  "tags": [
+    {
+      "category": "게시판별 분류",
+      "topic": "중학교 화학수업 이야기",
+      "confidence": "high"
+    }
+  ]
 }

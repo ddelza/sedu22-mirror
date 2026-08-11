@@ -19,6 +19,11 @@
       "subject": null,
       "unit": "미분류",
       "confidence": "high"
+    },
+    {
+      "category": "게시판별 분류",
+      "topic": "과학행사&과학실 Idea",
+      "confidence": "high"
     }
   ],
   "tagsNote": "교내 대회(나만의 과학이야기) 안내 자료 공유 — 특정 단원 내용과 무관.",

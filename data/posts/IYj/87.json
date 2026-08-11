@@ -11,5 +11,12 @@
   "headCont": "",
   "contentval": "0001Pzzzzzzzzzzzzzzzzzzzzzzzzz",
   "permlink": "https://cafe.daum.net/sedu22/IYj/87",
-  "contentHtml": "<p>창의수업에 참여하고 있습니다.</p><p><br></p><p><a href=\"xxjavascript:close();\"><img name=\"viewer\" id=\"view_image\" src=\"https://t1.daumcdn.net/cfile/cafe/99F5F0385CBAA64537\" border=\"0\"></a></p><p><br></p><p>(퀴즈) LOVE 글씨는 어떤 재료로 어떻게 만들었을까요? ^^</p><p>&nbsp;아래에 댓글 달아주세요. <br></p><p><br></p><p><br></p>\n\t \t\t\t\t\t<!-- -->"
+  "contentHtml": "<p>창의수업에 참여하고 있습니다.</p><p><br></p><p><a href=\"xxjavascript:close();\"><img name=\"viewer\" id=\"view_image\" src=\"https://t1.daumcdn.net/cfile/cafe/99F5F0385CBAA64537\" border=\"0\"></a></p><p><br></p><p>(퀴즈) LOVE 글씨는 어떤 재료로 어떻게 만들었을까요? ^^</p><p>&nbsp;아래에 댓글 달아주세요. <br></p><p><br></p><p><br></p>\n\t \t\t\t\t\t<!-- -->",
+  "tags": [
+    {
+      "category": "게시판별 분류",
+      "topic": "생각의 탄생(창의융합수업)",
+      "confidence": "high"
+    }
+  ]
 }

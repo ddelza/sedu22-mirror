@@ -27,6 +27,11 @@
       "category": "스마트 수업도구",
       "topic": "MBL센서",
       "confidence": "high"
+    },
+    {
+      "category": "게시판별 분류",
+      "topic": "과학행사&과학실 Idea",
+      "confidence": "high"
     }
   ],
   "tagsNote": "첨단과학기술 교구지원금 사용처(태블릿, MBL, 천체망원경 등) 문의.",

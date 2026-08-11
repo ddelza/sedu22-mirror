@@ -11,5 +11,12 @@
   "headCont": "",
   "contentval": "00005zzzzzzzzzzzzzzzzzzzzzzzzz",
   "permlink": "https://cafe.daum.net/sedu22/fBlf/5",
-  "contentHtml": "<p><a href=\"https://youtu.be/Ht0_3hDO9dk\" target=\"_top\" class=\"ke-link\">https://youtu.be/Ht0_3hDO9dk</a></p><div class=\"figure-video\" data-ke-type=\"video\" data-video-url=\"https://www.youtube.com/watch?v=Ht0_3hDO9dk\" data-video-host=\"youtube\" data-video-play-service=\"daum_cafe\" data-video-width=\"480\" data-video-height=\"360\" data-ke-style=\"alignCenter\" data-video-thumbnail=\"https://scrap.kakaocdn.net/dn/1R7zx/hyO3mF7cAN/UCxbKNXskX04fEoxIQUfq1/img.jpg?width=480&amp;height=360&amp;face=60_70_419_302\" data-ke-mobile-mobilestyle=\"widthContent\" data-video-origin-width=\"480\" data-video-origin-height=\"360\"><iframe src=\"https://www.youtube.com/embed/Ht0_3hDO9dk\" width=\"480\" height=\"360\" frameborder=\"0\" scrolling=\"no\" allowfullscreen=\"\"></iframe><div class=\"figcaption\"></div></div><p>&#160;</p>\n\t \t\t\t\t\t<!-- -->"
+  "contentHtml": "<p><a href=\"https://youtu.be/Ht0_3hDO9dk\" target=\"_top\" class=\"ke-link\">https://youtu.be/Ht0_3hDO9dk</a></p><div class=\"figure-video\" data-ke-type=\"video\" data-video-url=\"https://www.youtube.com/watch?v=Ht0_3hDO9dk\" data-video-host=\"youtube\" data-video-play-service=\"daum_cafe\" data-video-width=\"480\" data-video-height=\"360\" data-ke-style=\"alignCenter\" data-video-thumbnail=\"https://scrap.kakaocdn.net/dn/1R7zx/hyO3mF7cAN/UCxbKNXskX04fEoxIQUfq1/img.jpg?width=480&amp;height=360&amp;face=60_70_419_302\" data-ke-mobile-mobilestyle=\"widthContent\" data-video-origin-width=\"480\" data-video-origin-height=\"360\"><iframe src=\"https://www.youtube.com/embed/Ht0_3hDO9dk\" width=\"480\" height=\"360\" frameborder=\"0\" scrolling=\"no\" allowfullscreen=\"\"></iframe><div class=\"figcaption\"></div></div><p>&#160;</p>\n\t \t\t\t\t\t<!-- -->",
+  "tags": [
+    {
+      "category": "게시판별 분류",
+      "topic": "재과만 talk 영상(1회~100회)",
+      "confidence": "high"
+    }
+  ]
 }

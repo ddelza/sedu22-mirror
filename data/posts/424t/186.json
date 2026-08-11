@@ -17,6 +17,11 @@
       "category": "과학교사 업무",
       "topic": "과학 행사",
       "confidence": "medium"
+    },
+    {
+      "category": "게시판별 분류",
+      "topic": "과학행사&과학실 Idea",
+      "confidence": "high"
     }
   ],
   "tagsNote": "이전 A4 표현 행사의 학생 작품 후속 공유.",

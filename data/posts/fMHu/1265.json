@@ -11,5 +11,12 @@
   "headCont": "",
   "contentval": "000KPzzzzzzzzzzzzzzzzzzzzzzzzz",
   "permlink": "https://cafe.daum.net/sedu22/fMHu/1265",
-  "contentHtml": "<p><img src='https://t1.daumcdn.net/cafeattach/1TaBA/222fea56a525546e17bed89740533f26bbccbfb1' class=\"txc-image\" /></p><p class=\"cafe-editor-text\">금성교과서 271쪽입니다.<br />당연히 따른다고 생각했는데..헷갈리네요</p>\n\t \t\t\t\t\t<!-- -->"
+  "contentHtml": "<p><img src='https://t1.daumcdn.net/cafeattach/1TaBA/222fea56a525546e17bed89740533f26bbccbfb1' class=\"txc-image\" /></p><p class=\"cafe-editor-text\">금성교과서 271쪽입니다.<br />당연히 따른다고 생각했는데..헷갈리네요</p>\n\t \t\t\t\t\t<!-- -->",
+  "tags": [
+    {
+      "category": "게시판별 분류",
+      "topic": "중학교 생물수업 이야기",
+      "confidence": "high"
+    }
+  ]
 }

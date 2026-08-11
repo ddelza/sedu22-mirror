@@ -40,6 +40,11 @@
       "subject": "과학",
       "unit": "전기와 자기",
       "confidence": "low"
+    },
+    {
+      "category": "게시판별 분류",
+      "topic": "과학행사&과학실 Idea",
+      "confidence": "high"
     }
   ],
   "tagsNote": "펄러비즈로 주기율표/LED/별자리/전자기 테마 소재를 브레인스토밍하는 글 — 특정 활동으로 확정되지 않아 관련 가능성 있는 단원들을 낮은 확신도로 태깅.",

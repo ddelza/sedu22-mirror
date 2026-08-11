@@ -11,5 +11,12 @@
   "headCont": "",
   "contentval": "0004Jzzzzzzzzzzzzzzzzzzzzzzzzz",
   "permlink": "https://cafe.daum.net/sedu22/KIr/267",
-  "contentHtml": "<p>단원별로 찾아보는 게 더 도움이 되지 않을까 싶습니다.&nbsp;</p><p><br></p>\n\t \t\t\t\t\t<!-- -->"
+  "contentHtml": "<p>단원별로 찾아보는 게 더 도움이 되지 않을까 싶습니다.&nbsp;</p><p><br></p>\n\t \t\t\t\t\t<!-- -->",
+  "tags": [
+    {
+      "category": "게시판별 분류",
+      "topic": "자유공간",
+      "confidence": "high"
+    }
+  ]
 }

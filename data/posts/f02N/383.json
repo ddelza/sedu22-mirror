@@ -10,5 +10,12 @@
   "headCont": "",
   "contentval": "0006Bzzzzzzzzzzzzzzzzzzzzzzzzz",
   "permlink": "https://cafe.daum.net/sedu22/f02N/383",
-  "contentHtml": "<p>한 반에 4명 정도는 튕기거나 문제가 미리 보이거나 하는 오류가 생기던데 원래 이런걸까요ㅜ?</p>\n\t \t\t\t\t\t<!-- -->"
+  "contentHtml": "<p>한 반에 4명 정도는 튕기거나 문제가 미리 보이거나 하는 오류가 생기던데 원래 이런걸까요ㅜ?</p>\n\t \t\t\t\t\t<!-- -->",
+  "tags": [
+    {
+      "category": "게시판별 분류",
+      "topic": "옹알이(익명게시판)",
+      "confidence": "high"
+    }
+  ]
 }

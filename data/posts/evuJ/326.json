@@ -11,5 +11,12 @@
   "headCont": "",
   "contentval": "0005Gzzzzzzzzzzzzzzzzzzzzzzzzz",
   "permlink": "https://cafe.daum.net/sedu22/evuJ/326",
-  "contentHtml": "<div class=\"figure-img\" data-ke-type=\"image\" data-ke-style=\"alignCenter\" data-ke-mobilestyle=\"widthOrigin\" data-link=\"https://rutherford-scattering-simulator-895108445150.us-west1.run.app/\" data-link-newwindow=\"_blank\"><a href=\"https://rutherford-scattering-simulator-895108445150.us-west1.run.app/\" target=\"_blank\" class=\"ke-link\"><img src=\"https://t1.daumcdn.net/cafeattach/1TaBA/7471150ec2252206418fb83b4ed14704b61488ed\" data-img-src=\"https://t1.daumcdn.net/cafeattach/1TaBA/7471150ec2252206418fb83b4ed14704b61488ed\" data-origin-width=\"1221\" data-origin-height=\"1722\"></a><div class=\"figcaption\">클릭하면 시뮬레이션으로 이동합니다</div></div><p>&#160;</p><p>Google AI Studio의 Bulid 도구를 사용했습니다. 코딩도 코딩이지만, 만든 결과물 배포도 연동된 Google Cloud Run으로 클릭 한 번에 가능한게 정말 좋습니다.</p><p>&#160;</p><p>당연히 한 번의 프롬프트로 금방 만든 것은 아니고, 기본 기능을 만든 뒤 성능 최적화(이게 제일 힘들었습니다;)와 그래프 분석, 시뮬레이션 조건 설정, 툴팁 등 여러 기능 추가를 위해 한참 깎았습니다.</p><p>학부 때 전산물리 배우면서 학기말 과제로 매틀랩으로 러더퍼트 산란 궤적 계산하는 코드 만들었던 기억이 있습니다. 문법도 로직도 다 이미 잊었지만 바이브 코딩으로 더 아름답고 깊이있게 제가 원하던 기능을 구현할 수 있게 되었네요.</p><p>아직 무료일 때, 방학이라 시간이 있으실 때 AI Studio Build 기능을 써보며 배워보시는 것을 강력 추천드립니다.</p>\n\t \t\t\t\t\t<!-- -->"
+  "contentHtml": "<div class=\"figure-img\" data-ke-type=\"image\" data-ke-style=\"alignCenter\" data-ke-mobilestyle=\"widthOrigin\" data-link=\"https://rutherford-scattering-simulator-895108445150.us-west1.run.app/\" data-link-newwindow=\"_blank\"><a href=\"https://rutherford-scattering-simulator-895108445150.us-west1.run.app/\" target=\"_blank\" class=\"ke-link\"><img src=\"https://t1.daumcdn.net/cafeattach/1TaBA/7471150ec2252206418fb83b4ed14704b61488ed\" data-img-src=\"https://t1.daumcdn.net/cafeattach/1TaBA/7471150ec2252206418fb83b4ed14704b61488ed\" data-origin-width=\"1221\" data-origin-height=\"1722\"></a><div class=\"figcaption\">클릭하면 시뮬레이션으로 이동합니다</div></div><p>&#160;</p><p>Google AI Studio의 Bulid 도구를 사용했습니다. 코딩도 코딩이지만, 만든 결과물 배포도 연동된 Google Cloud Run으로 클릭 한 번에 가능한게 정말 좋습니다.</p><p>&#160;</p><p>당연히 한 번의 프롬프트로 금방 만든 것은 아니고, 기본 기능을 만든 뒤 성능 최적화(이게 제일 힘들었습니다;)와 그래프 분석, 시뮬레이션 조건 설정, 툴팁 등 여러 기능 추가를 위해 한참 깎았습니다.</p><p>학부 때 전산물리 배우면서 학기말 과제로 매틀랩으로 러더퍼트 산란 궤적 계산하는 코드 만들었던 기억이 있습니다. 문법도 로직도 다 이미 잊었지만 바이브 코딩으로 더 아름답고 깊이있게 제가 원하던 기능을 구현할 수 있게 되었네요.</p><p>아직 무료일 때, 방학이라 시간이 있으실 때 AI Studio Build 기능을 써보며 배워보시는 것을 강력 추천드립니다.</p>\n\t \t\t\t\t\t<!-- -->",
+  "tags": [
+    {
+      "category": "게시판별 분류",
+      "topic": "AI도구 활용하기",
+      "confidence": "high"
+    }
+  ]
 }

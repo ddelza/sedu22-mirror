@@ -17,6 +17,11 @@
       "category": "스마트 수업도구",
       "topic": "메이커/3D프린팅",
       "confidence": "low"
+    },
+    {
+      "category": "게시판별 분류",
+      "topic": "수석교사의 방(2023~)",
+      "confidence": "high"
     }
   ],
   "tagsNote": "서울 메이커스 축제 참관기 — 메이커 교육 관련 행정 견학.",

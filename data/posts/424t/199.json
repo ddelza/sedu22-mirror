@@ -22,6 +22,11 @@
       "category": "스마트 수업도구",
       "topic": "앱/프로그램",
       "confidence": "medium"
+    },
+    {
+      "category": "게시판별 분류",
+      "topic": "과학행사&과학실 Idea",
+      "confidence": "high"
     }
   ],
   "tagsNote": "ZOOM으로 진행한 온라인 교내대회 사례 — 행사이자 화상회의 앱 활용 사례.",

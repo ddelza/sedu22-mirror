@@ -26,6 +26,11 @@
       "subject": "과학",
       "unit": "지권의 변화",
       "confidence": "medium"
+    },
+    {
+      "category": "게시판별 분류",
+      "topic": "과학행사&과학실 Idea",
+      "confidence": "high"
     }
   ],
   "tagsNote": "야외 탐구활동 중 현무암 구멍, 주상절리 등 암석/지형 관찰 질문을 다룸 — 지권의 변화(암석) 내용과 관련.",

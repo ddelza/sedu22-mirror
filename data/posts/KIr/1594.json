@@ -11,5 +11,12 @@
   "headCont": "",
   "contentval": "000Pizzzzzzzzzzzzzzzzzzzzzzzzz",
   "permlink": "https://cafe.daum.net/sedu22/KIr/1594",
-  "contentHtml": "<p style=\"text-align: left;\">실험 결과가 잘 나오신 분들 있나요? 있다면 배우고 싶습니다!<br>아무리 혼자 실험해봐도 색 변화가 안 나타나네요ㅜ<br>콩의 종류가 잘못된 걸까요?</p>\n\t \t\t\t\t\t<!-- -->"
+  "contentHtml": "<p style=\"text-align: left;\">실험 결과가 잘 나오신 분들 있나요? 있다면 배우고 싶습니다!<br>아무리 혼자 실험해봐도 색 변화가 안 나타나네요ㅜ<br>콩의 종류가 잘못된 걸까요?</p>\n\t \t\t\t\t\t<!-- -->",
+  "tags": [
+    {
+      "category": "게시판별 분류",
+      "topic": "자유공간",
+      "confidence": "high"
+    }
+  ]
 }

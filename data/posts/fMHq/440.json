@@ -11,5 +11,12 @@
   "headCont": "물질의 구성",
   "contentval": "00076zzzzzzzzzzzzzzzzzzzzzzzzz",
   "permlink": "https://cafe.daum.net/sedu22/fMHq/440",
-  "contentHtml": "<p>원소의 역사, 특징, 용도, 전자배치 등을 확인하기 좋아요.&#160;</p><p>&#160;</p><p><a href=\"https://ko.periodic-table.io/\" target=\"_blank\" class=\"ke-link\">https://ko.periodic-table.io/</a></p><p><span></span></p>\n\t \t\t\t\t\t<!-- -->"
+  "contentHtml": "<p>원소의 역사, 특징, 용도, 전자배치 등을 확인하기 좋아요.&#160;</p><p>&#160;</p><p><a href=\"https://ko.periodic-table.io/\" target=\"_blank\" class=\"ke-link\">https://ko.periodic-table.io/</a></p><p><span></span></p>\n\t \t\t\t\t\t<!-- -->",
+  "tags": [
+    {
+      "category": "게시판별 분류",
+      "topic": "중학교 화학수업 이야기",
+      "confidence": "high"
+    }
+  ]
 }

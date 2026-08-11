@@ -11,5 +11,12 @@
   "headCont": "빛 파동",
   "contentval": "00091zzzzzzzzzzzzzzzzzzzzzzzzz",
   "permlink": "https://cafe.daum.net/sedu22/fMHp/559",
-  "contentHtml": "<P>중2학생들이 꼭 거울과 렌즈의 작도를 할 줄 알아야 할까요? </P>\n\t \t\t\t\t\t<!-- -->"
+  "contentHtml": "<P>중2학생들이 꼭 거울과 렌즈의 작도를 할 줄 알아야 할까요? </P>\n\t \t\t\t\t\t<!-- -->",
+  "tags": [
+    {
+      "category": "게시판별 분류",
+      "topic": "중학교 물리수업 이야기",
+      "confidence": "high"
+    }
+  ]
 }

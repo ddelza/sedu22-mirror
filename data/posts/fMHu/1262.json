@@ -11,5 +11,12 @@
   "headCont": "",
   "contentval": "000KMzzzzzzzzzzzzzzzzzzzzzzzzz",
   "permlink": "https://cafe.daum.net/sedu22/fMHu/1262",
-  "contentHtml": "<p style=\"text-align: left;\">간단한 질문 드립니다!<br>abo식 혈액형을 결정하는 유전자는 성별과 무관하고 따라서 상염색체에 존재하는게 맞나요?</p>\n\t \t\t\t\t\t<!-- -->"
+  "contentHtml": "<p style=\"text-align: left;\">간단한 질문 드립니다!<br>abo식 혈액형을 결정하는 유전자는 성별과 무관하고 따라서 상염색체에 존재하는게 맞나요?</p>\n\t \t\t\t\t\t<!-- -->",
+  "tags": [
+    {
+      "category": "게시판별 분류",
+      "topic": "중학교 생물수업 이야기",
+      "confidence": "high"
+    }
+  ]
 }

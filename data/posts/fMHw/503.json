@@ -11,5 +11,12 @@
   "headCont": "",
   "contentval": "00087zzzzzzzzzzzzzzzzzzzzzzzzz",
   "permlink": "https://cafe.daum.net/sedu22/fMHw/503",
-  "contentHtml": "<p>예산이 120만원 있는데, 함께 만들기 활동 좋은 아이디어 추천해주세요^^</p>\n\t \t\t\t\t\t<!-- -->"
+  "contentHtml": "<p>예산이 120만원 있는데, 함께 만들기 활동 좋은 아이디어 추천해주세요^^</p>\n\t \t\t\t\t\t<!-- -->",
+  "tags": [
+    {
+      "category": "게시판별 분류",
+      "topic": "중학교 환경&기술&재해안전&기타",
+      "confidence": "high"
+    }
+  ]
 }

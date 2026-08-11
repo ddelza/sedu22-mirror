@@ -31,6 +31,11 @@
       "subject": "과학",
       "unit": "식물과 에너지",
       "confidence": "medium"
+    },
+    {
+      "category": "게시판별 분류",
+      "topic": "거꾸로 교실(김신혜)",
+      "confidence": "high"
     }
   ],
   "tagsNote": "학생 제작 강의 동영상(식물의 호흡) 활용 거꾸로수업 사례.",

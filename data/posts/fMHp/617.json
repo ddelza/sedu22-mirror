@@ -11,5 +11,12 @@
   "headCont": "운동 에너지",
   "contentval": "0009xzzzzzzzzzzzzzzzzzzzzzzzzz",
   "permlink": "https://cafe.daum.net/sedu22/fMHp/617",
-  "contentHtml": "<p style=\"text-align: left;\">과학에서의 일이 아닌경우 예시로는<br>-공부를 열심히 한다<br>-컴퓨터 게임을 했다<br>라는 등의 예시가 있는데<br><br>과학에서의 일이 0인 경우는<br>-이동거리가 0<br>-힘의크기가 0<br>-힘과 이동거리가 수직<br>인 경우인디<br><br>일이 0인 경우는 과학에서의 일이라고 정의를 안하나요?<br>과학에서 말하는 일이 맞지만 하나 그 값을 계산하면 0이다라고 하나요?</p>\n\t \t\t\t\t\t<!-- -->"
+  "contentHtml": "<p style=\"text-align: left;\">과학에서의 일이 아닌경우 예시로는<br>-공부를 열심히 한다<br>-컴퓨터 게임을 했다<br>라는 등의 예시가 있는데<br><br>과학에서의 일이 0인 경우는<br>-이동거리가 0<br>-힘의크기가 0<br>-힘과 이동거리가 수직<br>인 경우인디<br><br>일이 0인 경우는 과학에서의 일이라고 정의를 안하나요?<br>과학에서 말하는 일이 맞지만 하나 그 값을 계산하면 0이다라고 하나요?</p>\n\t \t\t\t\t\t<!-- -->",
+  "tags": [
+    {
+      "category": "게시판별 분류",
+      "topic": "중학교 물리수업 이야기",
+      "confidence": "high"
+    }
+  ]
 }

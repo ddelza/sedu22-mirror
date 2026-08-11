@@ -11,5 +11,12 @@
   "headCont": "열",
   "contentval": "0004tzzzzzzzzzzzzzzzzzzzzzzzzz",
   "permlink": "https://cafe.daum.net/sedu22/fMHp/303",
-  "contentHtml": "<p>열팽창 실험을 물과 에탄올로 하는데 사용하고 남은 에탄올은 폐수처리해야 하나요? 너무 무식한 질문인가 싶기도 한데요~모든 약품은 다 폐수처리하는게 맞겠죠?</p>\n\t \t\t\t\t\t<!-- -->"
+  "contentHtml": "<p>열팽창 실험을 물과 에탄올로 하는데 사용하고 남은 에탄올은 폐수처리해야 하나요? 너무 무식한 질문인가 싶기도 한데요~모든 약품은 다 폐수처리하는게 맞겠죠?</p>\n\t \t\t\t\t\t<!-- -->",
+  "tags": [
+    {
+      "category": "게시판별 분류",
+      "topic": "중학교 물리수업 이야기",
+      "confidence": "high"
+    }
+  ]
 }

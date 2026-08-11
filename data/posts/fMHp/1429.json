@@ -11,5 +11,12 @@
   "headCont": "열",
   "contentval": "000N3zzzzzzzzzzzzzzzzzzzzzzzzz",
   "permlink": "https://cafe.daum.net/sedu22/fMHp/1429",
-  "contentHtml": "<p>열평형 실험할때, 처음 0분일때의 온도는 뜨거운 물이 담긴 컵과 찬물이 담긴 열량계를 <b>접촉시키기 전에</b> 측정하는 걸까요?</p>\n\t \t\t\t\t\t<!-- -->"
+  "contentHtml": "<p>열평형 실험할때, 처음 0분일때의 온도는 뜨거운 물이 담긴 컵과 찬물이 담긴 열량계를 <b>접촉시키기 전에</b> 측정하는 걸까요?</p>\n\t \t\t\t\t\t<!-- -->",
+  "tags": [
+    {
+      "category": "게시판별 분류",
+      "topic": "중학교 물리수업 이야기",
+      "confidence": "high"
+    }
+  ]
 }

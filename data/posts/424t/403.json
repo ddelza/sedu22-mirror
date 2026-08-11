@@ -22,6 +22,11 @@
       "category": "과학교사 업무",
       "topic": "과학 행사",
       "confidence": "low"
+    },
+    {
+      "category": "게시판별 분류",
+      "topic": "과학행사&과학실 Idea",
+      "confidence": "high"
     }
   ],
   "tagsNote": "서울 교사 대상 과학·수학·영재·메이커 수업사례 나눔 해커톤 행사 안내.",

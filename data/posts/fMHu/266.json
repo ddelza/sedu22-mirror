@@ -11,5 +11,12 @@
   "headCont": "식물과 에너지",
   "contentval": "0004Izzzzzzzzzzzzzzzzzzzzzzzzz",
   "permlink": "https://cafe.daum.net/sedu22/fMHu/266",
-  "contentHtml": "<p class=\"cafe-editor-text\">광합성에 필요한 물질은?<br />이산화탄소와 물, 빛인데요...<br />물질이라는 질문에 빛도 답으로 포함해도될런지<br />쌤들은 어떻게 가르치시는지요?</p>\n\t \t\t\t\t\t<!-- -->"
+  "contentHtml": "<p class=\"cafe-editor-text\">광합성에 필요한 물질은?<br />이산화탄소와 물, 빛인데요...<br />물질이라는 질문에 빛도 답으로 포함해도될런지<br />쌤들은 어떻게 가르치시는지요?</p>\n\t \t\t\t\t\t<!-- -->",
+  "tags": [
+    {
+      "category": "게시판별 분류",
+      "topic": "중학교 생물수업 이야기",
+      "confidence": "high"
+    }
+  ]
 }

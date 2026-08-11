@@ -11,5 +11,12 @@
   "headCont": "",
   "contentval": "0000Kzzzzzzzzzzzzzzzzzzzzzzzzz",
   "permlink": "https://cafe.daum.net/sedu22/emnO/20",
-  "contentHtml": "<p>중년의 과학교사.</p><p>살아남기 위해 애를 써야 하는 시기.</p>\n\t \t\t\t\t\t<!-- -->"
+  "contentHtml": "<p>중년의 과학교사.</p><p>살아남기 위해 애를 써야 하는 시기.</p>\n\t \t\t\t\t\t<!-- -->",
+  "tags": [
+    {
+      "category": "게시판별 분류",
+      "topic": "과학수업 웹툰(김상협)",
+      "confidence": "high"
+    }
+  ]
 }

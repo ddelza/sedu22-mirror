@@ -11,5 +11,12 @@
   "headCont": "",
   "contentval": "000EKzzzzzzzzzzzzzzzzzzzzzzzzz",
   "permlink": "https://cafe.daum.net/sedu22/fMHq/888",
-  "contentHtml": "<p class=\"cafe-editor-text\">교과서에는 시험관에 고무마개를 한다음 온도계를 꽂는데 꼭 이렇게 해야 실험결과가 잘 나오나요?<br />고무마개 없이 그냥 온도 측정하면 결과가 잘 안나오나요?</p>\n\t \t\t\t\t\t<!-- -->"
+  "contentHtml": "<p class=\"cafe-editor-text\">교과서에는 시험관에 고무마개를 한다음 온도계를 꽂는데 꼭 이렇게 해야 실험결과가 잘 나오나요?<br />고무마개 없이 그냥 온도 측정하면 결과가 잘 안나오나요?</p>\n\t \t\t\t\t\t<!-- -->",
+  "tags": [
+    {
+      "category": "게시판별 분류",
+      "topic": "중학교 화학수업 이야기",
+      "confidence": "high"
+    }
+  ]
 }

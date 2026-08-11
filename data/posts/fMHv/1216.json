@@ -11,5 +11,12 @@
   "headCont": "",
   "contentval": "000Jczzzzzzzzzzzzzzzzzzzzzzzzz",
   "permlink": "https://cafe.daum.net/sedu22/fMHv/1216",
-  "contentHtml": "<a href=\"http://m.news.naver.com/read.nhn?mode=LSD&amp;mid=sec&amp;sid1=105&amp;oid=081&amp;aid=0002479032\">http://m.news.naver.com/read.nhn?mode=LSD&amp;mid=sec&amp;sid1=105&amp;oid=081&amp;aid=0002479032</a><div><br></div><p><img src='https://t1.daumcdn.net/cfile/cafe/214B854C54FC642C19' class='txc-image' /></p>\n\t \t\t\t\t\t<!-- -->"
+  "contentHtml": "<a href=\"http://m.news.naver.com/read.nhn?mode=LSD&amp;mid=sec&amp;sid1=105&amp;oid=081&amp;aid=0002479032\">http://m.news.naver.com/read.nhn?mode=LSD&amp;mid=sec&amp;sid1=105&amp;oid=081&amp;aid=0002479032</a><div><br></div><p><img src='https://t1.daumcdn.net/cfile/cafe/214B854C54FC642C19' class='txc-image' /></p>\n\t \t\t\t\t\t<!-- -->",
+  "tags": [
+    {
+      "category": "게시판별 분류",
+      "topic": "중학교 지구과학수업 이야기",
+      "confidence": "high"
+    }
+  ]
 }

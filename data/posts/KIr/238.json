@@ -11,5 +11,12 @@
   "headCont": "",
   "contentval": "0003qzzzzzzzzzzzzzzzzzzzzzzzzz",
   "permlink": "https://cafe.daum.net/sedu22/KIr/238",
-  "contentHtml": "<P>각 게시판에 올라와있는 영상을 실행하면</P>\r\n<P>정지화면으로 뚝뚝 끊겨서 보이거든요.</P>\r\n<P>제대로 볼려면 어떻게 해야하나요?</P>\n\t \t\t\t\t\t<!-- -->"
+  "contentHtml": "<P>각 게시판에 올라와있는 영상을 실행하면</P>\r\n<P>정지화면으로 뚝뚝 끊겨서 보이거든요.</P>\r\n<P>제대로 볼려면 어떻게 해야하나요?</P>\n\t \t\t\t\t\t<!-- -->",
+  "tags": [
+    {
+      "category": "게시판별 분류",
+      "topic": "자유공간",
+      "confidence": "high"
+    }
+  ]
 }

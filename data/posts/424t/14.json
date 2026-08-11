@@ -24,6 +24,11 @@
       "category": "과학교사 업무",
       "topic": "과학 행사",
       "confidence": "high"
+    },
+    {
+      "category": "게시판별 분류",
+      "topic": "과학행사&과학실 Idea",
+      "confidence": "high"
     }
   ],
   "tagsNote": "구글 스프레드시트로 행사 신청 받는 방법 — 행정 팁, 과학 내용 아님.",

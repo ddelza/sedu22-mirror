@@ -11,5 +11,12 @@
   "headCont": "",
   "contentval": "00001zzzzzzzzzzzzzzzzzzzzzzzzz",
   "permlink": "https://cafe.daum.net/sedu22/f4GZ/1",
-  "contentHtml": "<p>이곳은 완두를 재배하여 멘델의 유전법칙을 검증하는&#160;</p><p>프로젝트를 전국의 선생님들이 함께 하는 공간입니다.</p><p>&#160;</p><p>준비, 과정, 결과를 공유해주세요.</p>\n\t \t\t\t\t\t<!-- -->"
+  "contentHtml": "<p>이곳은 완두를 재배하여 멘델의 유전법칙을 검증하는&#160;</p><p>프로젝트를 전국의 선생님들이 함께 하는 공간입니다.</p><p>&#160;</p><p>준비, 과정, 결과를 공유해주세요.</p>\n\t \t\t\t\t\t<!-- -->",
+  "tags": [
+    {
+      "category": "게시판별 분류",
+      "topic": "멘델 프로젝트(2021~)",
+      "confidence": "high"
+    }
+  ]
 }

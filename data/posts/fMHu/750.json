@@ -11,5 +11,12 @@
   "headCont": "",
   "contentval": "000C6zzzzzzzzzzzzzzzzzzzzzzzzz",
   "permlink": "https://cafe.daum.net/sedu22/fMHu/750",
-  "contentHtml": "<p>&nbsp;처음에 분명 사진 올라갔었는데....</p><p style=\"text-align: center;\"><img src=\"https://t1.daumcdn.net/cfile/cafe/99EC8E335990EAC00B\" class=\"txc-image\" width=\"768\" style=\"clear: none; float: none;\" border=\"0\" vspace=\"1\" hspace=\"1\" data-filename=\"닭의 장풀 기공.jpg\" exif=\"{}\" actualwidth=\"768\"  id=\"A_99EC8E335990EAC00BABE1\"/></p><p>&nbsp;</p>\n\t \t\t\t\t\t<!-- -->"
+  "contentHtml": "<p>&nbsp;처음에 분명 사진 올라갔었는데....</p><p style=\"text-align: center;\"><img src=\"https://t1.daumcdn.net/cfile/cafe/99EC8E335990EAC00B\" class=\"txc-image\" width=\"768\" style=\"clear: none; float: none;\" border=\"0\" vspace=\"1\" hspace=\"1\" data-filename=\"닭의 장풀 기공.jpg\" exif=\"{}\" actualwidth=\"768\"  id=\"A_99EC8E335990EAC00BABE1\"/></p><p>&nbsp;</p>\n\t \t\t\t\t\t<!-- -->",
+  "tags": [
+    {
+      "category": "게시판별 분류",
+      "topic": "중학교 생물수업 이야기",
+      "confidence": "high"
+    }
+  ]
 }

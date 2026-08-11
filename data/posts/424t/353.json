@@ -22,6 +22,11 @@
       "category": "과학교사 업무",
       "topic": "동아리 운영",
       "confidence": "medium"
+    },
+    {
+      "category": "게시판별 분류",
+      "topic": "과학행사&과학실 Idea",
+      "confidence": "high"
     }
   ],
   "tagsNote": "전공 아닌 교사가 진행한 천문 행사 기록(자율동아리 학생 참여).",

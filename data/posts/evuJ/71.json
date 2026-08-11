@@ -11,5 +11,12 @@
   "headCont": "",
   "contentval": "00019zzzzzzzzzzzzzzzzzzzzzzzzz",
   "permlink": "https://cafe.daum.net/sedu22/evuJ/71",
-  "contentHtml": "<p>점점 과제 제출률이 떨어지네요ㅜ</p><p>힘단원 과제 뭐로 내주시나요?</p>\n\t \t\t\t\t\t<!-- -->"
+  "contentHtml": "<p>점점 과제 제출률이 떨어지네요ㅜ</p><p>힘단원 과제 뭐로 내주시나요?</p>\n\t \t\t\t\t\t<!-- -->",
+  "tags": [
+    {
+      "category": "게시판별 분류",
+      "topic": "AI도구 활용하기",
+      "confidence": "high"
+    }
+  ]
 }

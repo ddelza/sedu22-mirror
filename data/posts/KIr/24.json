@@ -11,5 +11,12 @@
   "headCont": "",
   "contentval": "0000Ozzzzzzzzzzzzzzzzzzzzzzzzz",
   "permlink": "https://cafe.daum.net/sedu22/KIr/24",
-  "contentHtml": "<P>&nbsp;</P>\r\n<P>아직 익숙하지 않지만 열심히 정회원을 향해 노력하겠습니다.</P>\n\t \t\t\t\t\t<!-- -->"
+  "contentHtml": "<P>&nbsp;</P>\r\n<P>아직 익숙하지 않지만 열심히 정회원을 향해 노력하겠습니다.</P>\n\t \t\t\t\t\t<!-- -->",
+  "tags": [
+    {
+      "category": "게시판별 분류",
+      "topic": "자유공간",
+      "confidence": "high"
+    }
+  ]
 }

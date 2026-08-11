@@ -19,6 +19,11 @@
       "subject": null,
       "unit": "미분류",
       "confidence": "high"
+    },
+    {
+      "category": "게시판별 분류",
+      "topic": "과학행사&과학실 Idea",
+      "confidence": "high"
     }
   ],
   "tagsNote": "현장체험학습에서의 탐구활동 진행 방식(자유탐구, 질문 만들기)에 대한 수업 방법론 공유 — 특정 과학 내용 단원과 무관.",

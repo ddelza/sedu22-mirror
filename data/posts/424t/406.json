@@ -22,6 +22,11 @@
       "category": "스마트 수업도구",
       "topic": "생성형 AI 도구",
       "confidence": "high"
+    },
+    {
+      "category": "게시판별 분류",
+      "topic": "과학행사&과학실 Idea",
+      "confidence": "high"
     }
   ],
   "tagsNote": "학생들이 AI로 앱을 만드는 '과학의 날' 행사(템플릿/코드 공유).",

@@ -45,6 +45,11 @@
       "subject": "과학",
       "unit": "별과 우주",
       "confidence": "medium"
+    },
+    {
+      "category": "게시판별 분류",
+      "topic": "과학행사&과학실 Idea",
+      "confidence": "high"
     }
   ],
   "tagsNote": "수학여행 중 야간 천체관측(별자리 수업, 망원경 설치) 행사 기획 — 태양계/천체 관측 내용과 직접 관련.",

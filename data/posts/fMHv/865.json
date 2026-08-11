@@ -11,5 +11,12 @@
   "headCont": "",
   "contentval": "000Dxzzzzzzzzzzzzzzzzzzzzzzzzz",
   "permlink": "https://cafe.daum.net/sedu22/fMHv/865",
-  "contentHtml": "<p>MBC 뉴스입니다. 저작권 때문에 삭제가 되었네요.</p><p><a href=\"http://www.youtube.com/watch?v=PhTXENCAkSQ로\">http://www.youtube.com/watch?v=PhTXENCAkSQ로</a>&nbsp;가시면 볼 수 있습니다.</p>\n\t \t\t\t\t\t<!-- -->"
+  "contentHtml": "<p>MBC 뉴스입니다. 저작권 때문에 삭제가 되었네요.</p><p><a href=\"http://www.youtube.com/watch?v=PhTXENCAkSQ로\">http://www.youtube.com/watch?v=PhTXENCAkSQ로</a>&nbsp;가시면 볼 수 있습니다.</p>\n\t \t\t\t\t\t<!-- -->",
+  "tags": [
+    {
+      "category": "게시판별 분류",
+      "topic": "중학교 지구과학수업 이야기",
+      "confidence": "high"
+    }
+  ]
 }

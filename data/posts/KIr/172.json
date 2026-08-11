@@ -11,5 +11,12 @@
   "headCont": "",
   "contentval": "0002mzzzzzzzzzzzzzzzzzzzzzzzzz",
   "permlink": "https://cafe.daum.net/sedu22/KIr/172",
-  "contentHtml": "<P>카페로 이사하였네요?</P>\r\n<P>깜짝 놀랐습니다.</P>\r\n<P>그저 도움만 받았었는데</P>\r\n<P>정회원이 되려면 열심히 활동해야겠어요<IMG alt=오키 src=\"http://i1.daumcdn.net/mimg/mypeople/sticker/edit/sticker_011.png\"></P>\n\t \t\t\t\t\t<!-- -->"
+  "contentHtml": "<P>카페로 이사하였네요?</P>\r\n<P>깜짝 놀랐습니다.</P>\r\n<P>그저 도움만 받았었는데</P>\r\n<P>정회원이 되려면 열심히 활동해야겠어요<IMG alt=오키 src=\"http://i1.daumcdn.net/mimg/mypeople/sticker/edit/sticker_011.png\"></P>\n\t \t\t\t\t\t<!-- -->",
+  "tags": [
+    {
+      "category": "게시판별 분류",
+      "topic": "자유공간",
+      "confidence": "high"
+    }
+  ]
 }

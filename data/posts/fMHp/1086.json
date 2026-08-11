@@ -11,5 +11,12 @@
   "headCont": "",
   "contentval": "000HWzzzzzzzzzzzzzzzzzzzzzzzzz",
   "permlink": "https://cafe.daum.net/sedu22/fMHp/1086",
-  "contentHtml": "<P>이메일 주소로 보내 주실 수 있으신가요? 감사합니다. <A href=\"mailto:peacebreak@hanmail.net\">peacebreak@hanmail.net</A></P>\n\t \t\t\t\t\t<!-- -->"
+  "contentHtml": "<P>이메일 주소로 보내 주실 수 있으신가요? 감사합니다. <A href=\"mailto:peacebreak@hanmail.net\">peacebreak@hanmail.net</A></P>\n\t \t\t\t\t\t<!-- -->",
+  "tags": [
+    {
+      "category": "게시판별 분류",
+      "topic": "중학교 물리수업 이야기",
+      "confidence": "high"
+    }
+  ]
 }

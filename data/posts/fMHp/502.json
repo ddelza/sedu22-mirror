@@ -11,5 +11,12 @@
   "headCont": "열",
   "contentval": "00086zzzzzzzzzzzzzzzzzzzzzzzzz",
   "permlink": "https://cafe.daum.net/sedu22/fMHp/502",
-  "contentHtml": "<p>안녕하세요.</p><p>같은 온도로 가열했을때 열팽창 정도가 활발한 금속이 그렇지 않은 금속에 비해 입자운동이 활발한가요?</p><p>&#160;</p><p>아시면 답변부탁드려요~</p>\n\t \t\t\t\t\t<!-- -->"
+  "contentHtml": "<p>안녕하세요.</p><p>같은 온도로 가열했을때 열팽창 정도가 활발한 금속이 그렇지 않은 금속에 비해 입자운동이 활발한가요?</p><p>&#160;</p><p>아시면 답변부탁드려요~</p>\n\t \t\t\t\t\t<!-- -->",
+  "tags": [
+    {
+      "category": "게시판별 분류",
+      "topic": "중학교 물리수업 이야기",
+      "confidence": "high"
+    }
+  ]
 }

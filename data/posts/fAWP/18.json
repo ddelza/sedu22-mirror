@@ -11,5 +11,12 @@
   "headCont": "",
   "contentval": "0000Izzzzzzzzzzzzzzzzzzzzzzzzz",
   "permlink": "https://cafe.daum.net/sedu22/fAWP/18",
-  "contentHtml": "<p>세균배양을 위한&#160;</p><p>기능이 단순하고 저가형 항온기&#160;</p><p>추천해주세요~&#160;</p>\n\t \t\t\t\t\t<!-- -->"
+  "contentHtml": "<p>세균배양을 위한&#160;</p><p>기능이 단순하고 저가형 항온기&#160;</p><p>추천해주세요~&#160;</p>\n\t \t\t\t\t\t<!-- -->",
+  "tags": [
+    {
+      "category": "게시판별 분류",
+      "topic": "어머! 이건 사야해",
+      "confidence": "high"
+    }
+  ]
 }

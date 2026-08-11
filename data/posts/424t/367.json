@@ -22,6 +22,11 @@
       "category": "스마트 수업도구",
       "topic": "생성형 AI 도구",
       "confidence": "medium"
+    },
+    {
+      "category": "게시판별 분류",
+      "topic": "과학행사&과학실 Idea",
+      "confidence": "high"
     }
   ],
   "tagsNote": "AI 툴(Playground)을 이용한 그림그리기 미션 학생 작품 — 생성형 AI 도구, 임시로 앱/프로그램에 매핑.",

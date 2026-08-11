@@ -11,5 +11,12 @@
   "headCont": "물질의 구성",
   "contentval": "0006qzzzzzzzzzzzzzzzzzzzzzzzzz",
   "permlink": "https://cafe.daum.net/sedu22/fMHq/424",
-  "contentHtml": "<p class=\"cafe-editor-text\">물리전공입니다ㅠㅠ<br /><br />NaCl 수용액이라고 가정<br /><br />+극 : 염화이온이 전자를 내어줌<br />- : 나트륨이온이 전자를 받음<br />전자를 주고 받는 과정에서 도선에 전류가 흐름<br /><br />질문 1. 이런 매커니즘이 맞나요?<br />질문 2. +, -극에서 염소 원소와 나트륨 원소가 석출되나요?<br />질문 3. 모두 석출되고 나면 더이상 전류가 흐르지 않나요?<br /></p>\n\t \t\t\t\t\t<!-- -->"
+  "contentHtml": "<p class=\"cafe-editor-text\">물리전공입니다ㅠㅠ<br /><br />NaCl 수용액이라고 가정<br /><br />+극 : 염화이온이 전자를 내어줌<br />- : 나트륨이온이 전자를 받음<br />전자를 주고 받는 과정에서 도선에 전류가 흐름<br /><br />질문 1. 이런 매커니즘이 맞나요?<br />질문 2. +, -극에서 염소 원소와 나트륨 원소가 석출되나요?<br />질문 3. 모두 석출되고 나면 더이상 전류가 흐르지 않나요?<br /></p>\n\t \t\t\t\t\t<!-- -->",
+  "tags": [
+    {
+      "category": "게시판별 분류",
+      "topic": "중학교 화학수업 이야기",
+      "confidence": "high"
+    }
+  ]
 }

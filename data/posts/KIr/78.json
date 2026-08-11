@@ -11,5 +11,12 @@
   "headCont": "",
   "contentval": "0001Gzzzzzzzzzzzzzzzzzzzzzzzzz",
   "permlink": "https://cafe.daum.net/sedu22/KIr/78",
-  "contentHtml": "<P>항상 감사한 도움 받고 있습니다~</P>\r\n<P>카페에 가입하고 나니 저도 작은 도움이나마 드려야겠다는 책임감이 생기네요~<BR>열심히 활동할께요!</P>\n\t \t\t\t\t\t<!-- -->"
+  "contentHtml": "<P>항상 감사한 도움 받고 있습니다~</P>\r\n<P>카페에 가입하고 나니 저도 작은 도움이나마 드려야겠다는 책임감이 생기네요~<BR>열심히 활동할께요!</P>\n\t \t\t\t\t\t<!-- -->",
+  "tags": [
+    {
+      "category": "게시판별 분류",
+      "topic": "자유공간",
+      "confidence": "high"
+    }
+  ]
 }

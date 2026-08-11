@@ -17,6 +17,11 @@
       "category": "과학교사 업무",
       "topic": "과학 행사",
       "confidence": "low"
+    },
+    {
+      "category": "게시판별 분류",
+      "topic": "수석교사의 방(2023~)",
+      "confidence": "high"
     }
   ],
   "tagsNote": "과학적 추론/과정 경험을 위한 Cube 게임 활동 소개.",

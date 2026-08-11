@@ -19,6 +19,11 @@
       "subject": null,
       "unit": "미분류",
       "confidence": "high"
+    },
+    {
+      "category": "게시판별 분류",
+      "topic": "수석교사의 방(2023~)",
+      "confidence": "high"
     }
   ],
   "tagsNote": "본인 유학 마무리 개인 소회, 과학 수업/업무와 무관.",

@@ -11,5 +11,12 @@
   "headCont": "",
   "contentval": "0000izzzzzzzzzzzzzzzzzzzzzzzzz",
   "permlink": "https://cafe.daum.net/sedu22/cTdL/44",
-  "contentHtml": "<p>제 블로그에 올려놓았습니당~</p><p><a href=\"http://mogi99.tistory.com/40\">http://mogi99.tistory.com/40</a></p><p>&nbsp;</p>\n\t \t\t\t\t\t<!-- -->"
+  "contentHtml": "<p>제 블로그에 올려놓았습니당~</p><p><a href=\"http://mogi99.tistory.com/40\">http://mogi99.tistory.com/40</a></p><p>&nbsp;</p>\n\t \t\t\t\t\t<!-- -->",
+  "tags": [
+    {
+      "category": "게시판별 분류",
+      "topic": "고1과학&탐구실험",
+      "confidence": "high"
+    }
+  ]
 }

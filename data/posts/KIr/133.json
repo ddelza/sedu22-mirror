@@ -11,5 +11,12 @@
   "headCont": "",
   "contentval": "00029zzzzzzzzzzzzzzzzzzzzzzzzz",
   "permlink": "https://cafe.daum.net/sedu22/KIr/133",
-  "contentHtml": "<p>3월 새학기가 드디어 시작되네요.</p><p>수업속에서 나를 찾아가는 한 해 되었음 좋겠습니다.</p>\n\t \t\t\t\t\t<!-- -->"
+  "contentHtml": "<p>3월 새학기가 드디어 시작되네요.</p><p>수업속에서 나를 찾아가는 한 해 되었음 좋겠습니다.</p>\n\t \t\t\t\t\t<!-- -->",
+  "tags": [
+    {
+      "category": "게시판별 분류",
+      "topic": "자유공간",
+      "confidence": "high"
+    }
+  ]
 }

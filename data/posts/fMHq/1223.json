@@ -11,5 +11,12 @@
   "headCont": "기체",
   "contentval": "000Jjzzzzzzzzzzzzzzzzzzzzzzzzz",
   "permlink": "https://cafe.daum.net/sedu22/fMHq/1223",
-  "contentHtml": "<p>천재 교과서에는 온도가 높아지면 입자의 운동이 빨라져서 <u><b>충돌횟수와 충돌 세기가 증가</b></u>하여 기체의 부피가 늘어난다고 나와있습니다.</p><p>그런데 미래엔, 비상 교과서에서는 충돌 횟수를 언급하고있지 않습니다. 그 이유에 대해 생각해봤는데요.</p><p>&#160;</p><p>1. 부피가 잘 변할 수 있는 용기라면</p><p>온도가 높아지면, 입자 운동 속도 증가 → 충돌횟수, 세기 증가 <span style=\"color: #333333; background-color: #ffffff;\" data-ke-size=\"size16\">&#160;→&#160;</span> 기체의 압력 순간적으로 증가 <span style=\"color: #333333; background-color: #ffffff;\" data-ke-size=\"size16\">&#160;→&#160;</span> 기체 부피 증가 <span style=\"color: #333333; background-color: #ffffff;\" data-ke-size=\"size16\">&#160;→&#160;</span> 충돌횟수 감소 <span style=\"color: #333333; background-color: #ffffff;\" data-ke-size=\"size16\">&#160;→&#160;</span> 기체의 압력 감소 (외부압력과 같아질 때까지 감소하므로 결과적으로 압력 일정?) 과정이 맞을까요??</p><p>&#160;</p><p>2. 이 과정이 맞다면 충돌횟수는 증가했다가 감소하니까 다른 교과서에서는 언급하지 않는걸까요?</p>\n\t \t\t\t\t\t<!-- -->"
+  "contentHtml": "<p>천재 교과서에는 온도가 높아지면 입자의 운동이 빨라져서 <u><b>충돌횟수와 충돌 세기가 증가</b></u>하여 기체의 부피가 늘어난다고 나와있습니다.</p><p>그런데 미래엔, 비상 교과서에서는 충돌 횟수를 언급하고있지 않습니다. 그 이유에 대해 생각해봤는데요.</p><p>&#160;</p><p>1. 부피가 잘 변할 수 있는 용기라면</p><p>온도가 높아지면, 입자 운동 속도 증가 → 충돌횟수, 세기 증가 <span style=\"color: #333333; background-color: #ffffff;\" data-ke-size=\"size16\">&#160;→&#160;</span> 기체의 압력 순간적으로 증가 <span style=\"color: #333333; background-color: #ffffff;\" data-ke-size=\"size16\">&#160;→&#160;</span> 기체 부피 증가 <span style=\"color: #333333; background-color: #ffffff;\" data-ke-size=\"size16\">&#160;→&#160;</span> 충돌횟수 감소 <span style=\"color: #333333; background-color: #ffffff;\" data-ke-size=\"size16\">&#160;→&#160;</span> 기체의 압력 감소 (외부압력과 같아질 때까지 감소하므로 결과적으로 압력 일정?) 과정이 맞을까요??</p><p>&#160;</p><p>2. 이 과정이 맞다면 충돌횟수는 증가했다가 감소하니까 다른 교과서에서는 언급하지 않는걸까요?</p>\n\t \t\t\t\t\t<!-- -->",
+  "tags": [
+    {
+      "category": "게시판별 분류",
+      "topic": "중학교 화학수업 이야기",
+      "confidence": "high"
+    }
+  ]
 }

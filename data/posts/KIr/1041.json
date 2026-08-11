@@ -11,5 +11,12 @@
   "headCont": "",
   "contentval": "000GM000Gnzzzzzzzzzzzzzzzzzzzz",
   "permlink": "https://cafe.daum.net/sedu22/KIr/1041",
-  "contentHtml": "<p>변경완료!^^<br></p>\n\t \t\t\t\t\t<!-- -->"
+  "contentHtml": "<p>변경완료!^^<br></p>\n\t \t\t\t\t\t<!-- -->",
+  "tags": [
+    {
+      "category": "게시판별 분류",
+      "topic": "자유공간",
+      "confidence": "high"
+    }
+  ]
 }

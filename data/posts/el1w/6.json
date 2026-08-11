@@ -11,5 +11,12 @@
   "headCont": "",
   "contentval": "00006zzzzzzzzzzzzzzzzzzzzzzzzz",
   "permlink": "https://cafe.daum.net/sedu22/el1w/6",
-  "contentHtml": "<p>반 전체 학생들이 함께 만드는</p><p>영화제작 프로젝트입니다.</p><p><br></p><p><iframe width=\"640\" height=\"360\" src=\"https://www.youtube.com/embed/SFpq7bQFbfo\" frameborder=\"0\" allowfullscreen=\"\"></iframe></p><p><br></p><p>자세한 내용은</p><p><a href=\"http://cafe.daum.net/sedu22/cen/200\">http://cafe.daum.net/sedu22/cen/200</a></p><p><br></p><p><a href=\"http://cafe.daum.net/sedu22/cen/199\">http://cafe.daum.net/sedu22/cen/199</a></p><p><br></p><p>참고하세요.<br></p>\n\t \t\t\t\t\t<!-- -->"
+  "contentHtml": "<p>반 전체 학생들이 함께 만드는</p><p>영화제작 프로젝트입니다.</p><p><br></p><p><iframe width=\"640\" height=\"360\" src=\"https://www.youtube.com/embed/SFpq7bQFbfo\" frameborder=\"0\" allowfullscreen=\"\"></iframe></p><p><br></p><p>자세한 내용은</p><p><a href=\"http://cafe.daum.net/sedu22/cen/200\">http://cafe.daum.net/sedu22/cen/200</a></p><p><br></p><p><a href=\"http://cafe.daum.net/sedu22/cen/199\">http://cafe.daum.net/sedu22/cen/199</a></p><p><br></p><p>참고하세요.<br></p>\n\t \t\t\t\t\t<!-- -->",
+  "tags": [
+    {
+      "category": "게시판별 분류",
+      "topic": "과학교사K (유튜브)",
+      "confidence": "high"
+    }
+  ]
 }

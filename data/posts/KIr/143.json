@@ -11,5 +11,12 @@
   "headCont": "",
   "contentval": "0002Jzzzzzzzzzzzzzzzzzzzzzzzzz",
   "permlink": "https://cafe.daum.net/sedu22/KIr/143",
-  "contentHtml": "<P>같은 학교에 계시는 선생님의 추천으로 가입하게 되었습니다.</P>\r\n<P>새로운 공간에서 좋은 배움이 일어났으면 하는 바램입니다. </P>\r\n<P>앞으로 많은 도움 받고 많이 여쭙고 활동하겠습니다.</P>\n\t \t\t\t\t\t<!-- -->"
+  "contentHtml": "<P>같은 학교에 계시는 선생님의 추천으로 가입하게 되었습니다.</P>\r\n<P>새로운 공간에서 좋은 배움이 일어났으면 하는 바램입니다. </P>\r\n<P>앞으로 많은 도움 받고 많이 여쭙고 활동하겠습니다.</P>\n\t \t\t\t\t\t<!-- -->",
+  "tags": [
+    {
+      "category": "게시판별 분류",
+      "topic": "자유공간",
+      "confidence": "high"
+    }
+  ]
 }

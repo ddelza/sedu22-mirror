@@ -11,5 +11,12 @@
   "headCont": "",
   "contentval": "000JNzzzzzzzzzzzzzzzzzzzzzzzzz",
   "permlink": "https://cafe.daum.net/sedu22/KIr/1201",
-  "contentHtml": "<p class=\"cafe-editor-text\">과학실 현대화 사업 진행중입니다^^<br />과학실 팻말을 바꾸려하는데 좋은 아이디어 있을까요?<br />혹시 선생님들 학교 과학실  이름은 무엇인지 살짝 알려주세요~~~<br /><br /></p>\n\t \t\t\t\t\t<!-- -->"
+  "contentHtml": "<p class=\"cafe-editor-text\">과학실 현대화 사업 진행중입니다^^<br />과학실 팻말을 바꾸려하는데 좋은 아이디어 있을까요?<br />혹시 선생님들 학교 과학실  이름은 무엇인지 살짝 알려주세요~~~<br /><br /></p>\n\t \t\t\t\t\t<!-- -->",
+  "tags": [
+    {
+      "category": "게시판별 분류",
+      "topic": "자유공간",
+      "confidence": "high"
+    }
+  ]
 }

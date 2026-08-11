@@ -11,5 +11,12 @@
   "headCont": "",
   "contentval": "0005Qzzzzzzzzzzzzzzzzzzzzzzzzz",
   "permlink": "https://cafe.daum.net/sedu22/KIr/336",
-  "contentHtml": "<p>한번도 비밀의 방 회원인 적이 없었는데, 이번기회에 꼭 들어가보고 싶네용~</p>\n\t \t\t\t\t\t<!-- -->"
+  "contentHtml": "<p>한번도 비밀의 방 회원인 적이 없었는데, 이번기회에 꼭 들어가보고 싶네용~</p>\n\t \t\t\t\t\t<!-- -->",
+  "tags": [
+    {
+      "category": "게시판별 분류",
+      "topic": "자유공간",
+      "confidence": "high"
+    }
+  ]
 }

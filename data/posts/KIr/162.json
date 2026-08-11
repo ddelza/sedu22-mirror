@@ -11,5 +11,12 @@
   "headCont": "",
   "contentval": "0002czzzzzzzzzzzzzzzzzzzzzzzzz",
   "permlink": "https://cafe.daum.net/sedu22/KIr/162",
-  "contentHtml": "<P>즐겨찾기에 등록하고 자주 들어왔지만 가입이 늦었네요. 부지런히 방문하여 비밀의 방에 입장할 수 있기를 바랍니다.</P>\n\t \t\t\t\t\t<!-- -->"
+  "contentHtml": "<P>즐겨찾기에 등록하고 자주 들어왔지만 가입이 늦었네요. 부지런히 방문하여 비밀의 방에 입장할 수 있기를 바랍니다.</P>\n\t \t\t\t\t\t<!-- -->",
+  "tags": [
+    {
+      "category": "게시판별 분류",
+      "topic": "자유공간",
+      "confidence": "high"
+    }
+  ]
 }

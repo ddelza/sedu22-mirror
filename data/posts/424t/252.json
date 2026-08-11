@@ -22,6 +22,11 @@
       "category": "스마트 수업도구",
       "topic": "AR/VR",
       "confidence": "high"
+    },
+    {
+      "category": "게시판별 분류",
+      "topic": "과학행사&과학실 Idea",
+      "confidence": "high"
     }
   ],
   "tagsNote": "지능형 과학실 예산으로 오큘러스 퀘스트2 구매 장바구니 공유.",

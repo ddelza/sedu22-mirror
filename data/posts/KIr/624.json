@@ -11,5 +11,12 @@
   "headCont": "",
   "contentval": "000A4zzzzzzzzzzzzzzzzzzzzzzzzz",
   "permlink": "https://cafe.daum.net/sedu22/KIr/624",
-  "contentHtml": "<P>경기도에 중학교 근무하는 교사입니다. 중학교에서는 수업을 다양하게 해야 되니 요즘 너무 힘드네요 많은 자료 서로 나눠요</P>\n\t \t\t\t\t\t<!-- -->"
+  "contentHtml": "<P>경기도에 중학교 근무하는 교사입니다. 중학교에서는 수업을 다양하게 해야 되니 요즘 너무 힘드네요 많은 자료 서로 나눠요</P>\n\t \t\t\t\t\t<!-- -->",
+  "tags": [
+    {
+      "category": "게시판별 분류",
+      "topic": "자유공간",
+      "confidence": "high"
+    }
+  ]
 }

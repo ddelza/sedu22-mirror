@@ -11,5 +11,12 @@
   "headCont": "",
   "contentval": "000Rezzzzzzzzzzzzzzzzzzzzzzzzz",
   "permlink": "https://cafe.daum.net/sedu22/KIr/1714",
-  "contentHtml": "<p>아쿠아리움이나 숲체험 등 상관없습니다! 혹시 가보신 곳 중에 추천 해주실만한게 있을까요?</p>\n\t \t\t\t\t\t<!-- -->"
+  "contentHtml": "<p>아쿠아리움이나 숲체험 등 상관없습니다! 혹시 가보신 곳 중에 추천 해주실만한게 있을까요?</p>\n\t \t\t\t\t\t<!-- -->",
+  "tags": [
+    {
+      "category": "게시판별 분류",
+      "topic": "자유공간",
+      "confidence": "high"
+    }
+  ]
 }

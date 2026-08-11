@@ -11,5 +11,12 @@
   "headCont": "",
   "contentval": "0001zzzzzzzzzzzzzzzzzzzzzzzzzz",
   "permlink": "https://cafe.daum.net/sedu22/dSQv/123",
-  "contentHtml": "<p class=\"cafe-editor-text\">학교에서 드론수업을 처음하는데 주의사항이 있을까요?</p>\n\t \t\t\t\t\t<!-- -->"
+  "contentHtml": "<p class=\"cafe-editor-text\">학교에서 드론수업을 처음하는데 주의사항이 있을까요?</p>\n\t \t\t\t\t\t<!-- -->",
+  "tags": [
+    {
+      "category": "게시판별 분류",
+      "topic": "자유학기 수업",
+      "confidence": "high"
+    }
+  ]
 }

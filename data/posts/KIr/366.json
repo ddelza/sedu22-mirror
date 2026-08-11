@@ -11,5 +11,12 @@
   "headCont": "",
   "contentval": "000010005uzzzzzzzzzzzzzzzzzzzz",
   "permlink": "https://cafe.daum.net/sedu22/KIr/366",
-  "contentHtml": "답글및 출석회수는 완료했는데 글쓰기가 힘들어요ㅠㅠ\n\t \t\t\t\t\t<!-- -->"
+  "contentHtml": "답글및 출석회수는 완료했는데 글쓰기가 힘들어요ㅠㅠ\n\t \t\t\t\t\t<!-- -->",
+  "tags": [
+    {
+      "category": "게시판별 분류",
+      "topic": "자유공간",
+      "confidence": "high"
+    }
+  ]
 }

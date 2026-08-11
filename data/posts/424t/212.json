@@ -45,6 +45,11 @@
       "subject": "과학",
       "unit": "물질의 상태 변화",
       "confidence": "high"
+    },
+    {
+      "category": "게시판별 분류",
+      "topic": "과학행사&과학실 Idea",
+      "confidence": "high"
     }
   ],
   "tagsNote": "'생물 공존 프로젝트'의 날: 생물의 다양성과 보존, 물질의 상태변화 스톱모션 UCC 등 단원 내용을 명시적으로 다룸.",

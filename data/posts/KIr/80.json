@@ -11,5 +11,12 @@
   "headCont": "",
   "contentval": "0001Izzzzzzzzzzzzzzzzzzzzzzzzz",
   "permlink": "https://cafe.daum.net/sedu22/KIr/80",
-  "contentHtml": "<P>자주 이용할께요^^</P>\n\t \t\t\t\t\t<!-- -->"
+  "contentHtml": "<P>자주 이용할께요^^</P>\n\t \t\t\t\t\t<!-- -->",
+  "tags": [
+    {
+      "category": "게시판별 분류",
+      "topic": "자유공간",
+      "confidence": "high"
+    }
+  ]
 }

@@ -11,5 +11,12 @@
   "headCont": "",
   "contentval": "0000Izzzzzzzzzzzzzzzzzzzzzzzzz",
   "permlink": "https://cafe.daum.net/sedu22/KIr/18",
-  "contentHtml": "<P>짱 ~!! 김영학 선생님 </P>\n\t \t\t\t\t\t<!-- -->"
+  "contentHtml": "<P>짱 ~!! 김영학 선생님 </P>\n\t \t\t\t\t\t<!-- -->",
+  "tags": [
+    {
+      "category": "게시판별 분류",
+      "topic": "자유공간",
+      "confidence": "high"
+    }
+  ]
 }

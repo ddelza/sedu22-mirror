@@ -11,5 +11,12 @@
   "headCont": "",
   "contentval": "0001Lzzzzzzzzzzzzzzzzzzzzzzzzz",
   "permlink": "https://cafe.daum.net/sedu22/fEBm/83",
-  "contentHtml": "<p style=\"text-align: left;\">과학부 정보 얻을만한 오픈채팅방이 있을까요???</p>\n\t \t\t\t\t\t<!-- -->"
+  "contentHtml": "<p style=\"text-align: left;\">과학부 정보 얻을만한 오픈채팅방이 있을까요???</p>\n\t \t\t\t\t\t<!-- -->",
+  "tags": [
+    {
+      "category": "게시판별 분류",
+      "topic": "과학(부장) 업무 도움방",
+      "confidence": "high"
+    }
+  ]
 }

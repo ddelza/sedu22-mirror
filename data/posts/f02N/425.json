@@ -10,5 +10,12 @@
   "headCont": "",
   "contentval": "0006rzzzzzzzzzzzzzzzzzzzzzzzzz",
   "permlink": "https://cafe.daum.net/sedu22/f02N/425",
-  "contentHtml": "<p style=\"text-align: left;\">수평면에서 물체를 가속시키는 것은 질량과 상관 있고 중력가속도와는 상관없으니까, 수평면에서 물체를 가속시키기 더 쉬워지거나 어려워지는 건 중력 가속도값으로 판단할 필요가 없는거겠죠?<br></p>\n\t \t\t\t\t\t<!-- -->"
+  "contentHtml": "<p style=\"text-align: left;\">수평면에서 물체를 가속시키는 것은 질량과 상관 있고 중력가속도와는 상관없으니까, 수평면에서 물체를 가속시키기 더 쉬워지거나 어려워지는 건 중력 가속도값으로 판단할 필요가 없는거겠죠?<br></p>\n\t \t\t\t\t\t<!-- -->",
+  "tags": [
+    {
+      "category": "게시판별 분류",
+      "topic": "옹알이(익명게시판)",
+      "confidence": "high"
+    }
+  ]
 }

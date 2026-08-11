@@ -11,5 +11,12 @@
   "headCont": "힘",
   "contentval": "0000zzzzzzzzzzzzzzzzzzzzzzzzzz",
   "permlink": "https://cafe.daum.net/sedu22/fMHp/61",
-  "contentHtml": "<p><span data-ke-size=\"size18\">달이 지구 주위를 공전하는 것이 지구 중력 때문인 이유를 모르겠어서요....</span></p><p><span data-ke-size=\"size18\">설명 부탁드립니다...</span></p>\n\t \t\t\t\t\t<!-- -->"
+  "contentHtml": "<p><span data-ke-size=\"size18\">달이 지구 주위를 공전하는 것이 지구 중력 때문인 이유를 모르겠어서요....</span></p><p><span data-ke-size=\"size18\">설명 부탁드립니다...</span></p>\n\t \t\t\t\t\t<!-- -->",
+  "tags": [
+    {
+      "category": "게시판별 분류",
+      "topic": "중학교 물리수업 이야기",
+      "confidence": "high"
+    }
+  ]
 }

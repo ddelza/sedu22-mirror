@@ -10,5 +10,12 @@
   "headCont": "",
   "contentval": "0003Izzzzzzzzzzzzzzzzzzzzzzzzz",
   "permlink": "https://cafe.daum.net/sedu22/f02N/204",
-  "contentHtml": "<p style=\"text-align: left;\">무의식 반응. <br>무의식 반사 라고 정답처리 해도 되나요??</p>\n\t \t\t\t\t\t<!-- -->"
+  "contentHtml": "<p style=\"text-align: left;\">무의식 반응. <br>무의식 반사 라고 정답처리 해도 되나요??</p>\n\t \t\t\t\t\t<!-- -->",
+  "tags": [
+    {
+      "category": "게시판별 분류",
+      "topic": "옹알이(익명게시판)",
+      "confidence": "high"
+    }
+  ]
 }

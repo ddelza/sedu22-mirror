@@ -11,5 +11,12 @@
   "headCont": "",
   "contentval": "000DFzzzzzzzzzzzzzzzzzzzzzzzzz",
   "permlink": "https://cafe.daum.net/sedu22/KIr/821",
-  "contentHtml": "<p>등업신청합니다.<br></p>\n\t \t\t\t\t\t<!-- -->"
+  "contentHtml": "<p>등업신청합니다.<br></p>\n\t \t\t\t\t\t<!-- -->",
+  "tags": [
+    {
+      "category": "게시판별 분류",
+      "topic": "자유공간",
+      "confidence": "high"
+    }
+  ]
 }

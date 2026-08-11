@@ -11,5 +11,12 @@
   "headCont": "운동 에너지",
   "contentval": "000Nyzzzzzzzzzzzzzzzzzzzzzzzzz",
   "permlink": "https://cafe.daum.net/sedu22/fMHp/1486",
-  "contentHtml": "<p>넵!감사합니다&#160;</p>\n\t \t\t\t\t\t<!-- -->"
+  "contentHtml": "<p>넵!감사합니다&#160;</p>\n\t \t\t\t\t\t<!-- -->",
+  "tags": [
+    {
+      "category": "게시판별 분류",
+      "topic": "중학교 물리수업 이야기",
+      "confidence": "high"
+    }
+  ]
 }

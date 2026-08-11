@@ -11,5 +11,12 @@
   "headCont": "",
   "contentval": "00064zzzzzzzzzzzzzzzzzzzzzzzzz",
   "permlink": "https://cafe.daum.net/sedu22/KIr/376",
-  "contentHtml": "<p>안녕하세요^^ 오늘 가입했습니다~~</p><p>앞으로 많은 활동을 통해 정보도 공유하고 많은 이야기 나누고 싶습니다^^</p><p>오늘도 즐거운 하루 보내세요!</p>\n\t \t\t\t\t\t<!-- -->"
+  "contentHtml": "<p>안녕하세요^^ 오늘 가입했습니다~~</p><p>앞으로 많은 활동을 통해 정보도 공유하고 많은 이야기 나누고 싶습니다^^</p><p>오늘도 즐거운 하루 보내세요!</p>\n\t \t\t\t\t\t<!-- -->",
+  "tags": [
+    {
+      "category": "게시판별 분류",
+      "topic": "자유공간",
+      "confidence": "high"
+    }
+  ]
 }

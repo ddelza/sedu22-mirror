@@ -11,5 +11,12 @@
   "headCont": "",
   "contentval": "000M9zzzzzzzzzzzzzzzzzzzzzzzzz",
   "permlink": "https://cafe.daum.net/sedu22/KIr/1373",
-  "contentHtml": "<p class=\"cafe-editor-text\">매우 급하여 여기 올려봅니다.<br /><br />화성 동탄 소재 &lt;솔빛중학교&gt;<br /><br />기간 : 9월 1일~11월 25일<br />과목 : 3학년 과학<br />연락처 : 031-8015-0005</p>\n\t \t\t\t\t\t<!-- -->"
+  "contentHtml": "<p class=\"cafe-editor-text\">매우 급하여 여기 올려봅니다.<br /><br />화성 동탄 소재 &lt;솔빛중학교&gt;<br /><br />기간 : 9월 1일~11월 25일<br />과목 : 3학년 과학<br />연락처 : 031-8015-0005</p>\n\t \t\t\t\t\t<!-- -->",
+  "tags": [
+    {
+      "category": "게시판별 분류",
+      "topic": "자유공간",
+      "confidence": "high"
+    }
+  ]
 }

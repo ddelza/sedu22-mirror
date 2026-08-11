@@ -11,5 +11,12 @@
   "headCont": "",
   "contentval": "00013zzzzzzzzzzzzzzzzzzzzzzzzz",
   "permlink": "https://cafe.daum.net/sedu22/IWN/65",
-  "contentHtml": "<a href=\"http://youtu.be/lTXRKUJgQHc\">http://youtu.be/lTXRKUJgQHc</a><div><br></div><div>10분짜리 영상입니다. 굉장히 의미있는 10분이 되실 겁니다^^</div>\n\t \t\t\t\t\t<!-- -->"
+  "contentHtml": "<a href=\"http://youtu.be/lTXRKUJgQHc\">http://youtu.be/lTXRKUJgQHc</a><div><br></div><div>10분짜리 영상입니다. 굉장히 의미있는 10분이 되실 겁니다^^</div>\n\t \t\t\t\t\t<!-- -->",
+  "tags": [
+    {
+      "category": "게시판별 분류",
+      "topic": "좋은 글 & 책",
+      "confidence": "high"
+    }
+  ]
 }

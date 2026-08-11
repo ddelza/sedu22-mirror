@@ -32,6 +32,11 @@
       "category": "스마트 수업도구",
       "topic": "AR/VR",
       "confidence": "medium"
+    },
+    {
+      "category": "게시판별 분류",
+      "topic": "과학행사&과학실 Idea",
+      "confidence": "high"
     }
   ],
   "tagsNote": "지능형 과학실 구축(현대화) 사업 계획서 — MBL 센서/3D프린터/VR 도입 조언 요청.",

@@ -11,5 +11,12 @@
   "headCont": "",
   "contentval": "000Fuzzzzzzzzzzzzzzzzzzzzzzzzz",
   "permlink": "https://cafe.daum.net/sedu22/KIr/986",
-  "contentHtml": "<p class=\"cafe-editor-text\">청와대 국민소통 게시판에<br />교원성과급 폐지하고 교원연구회비로 전환을 요구하는 청원서입니다<br />많이 참여해주시고 공유부탁합니다~^^<br /><br />https://www1.president.go.kr/petitions/50257?navigation=petitions#_=</p>\n\t \t\t\t\t\t<!-- -->"
+  "contentHtml": "<p class=\"cafe-editor-text\">청와대 국민소통 게시판에<br />교원성과급 폐지하고 교원연구회비로 전환을 요구하는 청원서입니다<br />많이 참여해주시고 공유부탁합니다~^^<br /><br />https://www1.president.go.kr/petitions/50257?navigation=petitions#_=</p>\n\t \t\t\t\t\t<!-- -->",
+  "tags": [
+    {
+      "category": "게시판별 분류",
+      "topic": "자유공간",
+      "confidence": "high"
+    }
+  ]
 }

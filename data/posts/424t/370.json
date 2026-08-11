@@ -45,6 +45,11 @@
       "subject": "과학",
       "unit": "별과 우주",
       "confidence": "medium"
+    },
+    {
+      "category": "게시판별 분류",
+      "topic": "과학행사&과학실 Idea",
+      "confidence": "high"
     }
   ],
   "tagsNote": "학생 주도 런치특강 — 지구자전/공전(별의 일주운동) 단원 내용을 다룸.",

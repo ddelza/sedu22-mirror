@@ -11,5 +11,12 @@
   "headCont": "기권과 날씨",
   "contentval": "000BZzzzzzzzzzzzzzzzzzzzzzzzzz",
   "permlink": "https://cafe.daum.net/sedu22/fMHv/717",
-  "contentHtml": "<p>구름이 생성될 때, 단열팽창한다고 하는데</p><p>어떻게 단열이 되는걸까요...?</p><p>공기도 덩이들로 구성되어 있다고 생각해야하나요?</p>\n\t \t\t\t\t\t<!-- -->"
+  "contentHtml": "<p>구름이 생성될 때, 단열팽창한다고 하는데</p><p>어떻게 단열이 되는걸까요...?</p><p>공기도 덩이들로 구성되어 있다고 생각해야하나요?</p>\n\t \t\t\t\t\t<!-- -->",
+  "tags": [
+    {
+      "category": "게시판별 분류",
+      "topic": "중학교 지구과학수업 이야기",
+      "confidence": "high"
+    }
+  ]
 }

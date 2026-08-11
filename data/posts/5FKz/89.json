@@ -17,6 +17,11 @@
       "category": "과학교사 업무",
       "topic": "동아리 운영",
       "confidence": "medium"
+    },
+    {
+      "category": "게시판별 분류",
+      "topic": "거꾸로 교실(김신혜)",
+      "confidence": "high"
     }
   ],
   "tagsNote": "거꾸로교실 게시판이지만 내용은 동아리 시간 낙동강 지도/환경기사 활동 소개.",

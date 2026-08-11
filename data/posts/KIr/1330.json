@@ -11,5 +11,12 @@
   "headCont": "",
   "contentval": "000LSzzzzzzzzzzzzzzzzzzzzzzzzz",
   "permlink": "https://cafe.daum.net/sedu22/KIr/1330",
-  "contentHtml": "<p class=\"cafe-editor-text\">혹시 중1,2학년 2015개정 교육과정 언제 바꼈는지 알 수 있을까요?</p>\n\t \t\t\t\t\t<!-- -->"
+  "contentHtml": "<p class=\"cafe-editor-text\">혹시 중1,2학년 2015개정 교육과정 언제 바꼈는지 알 수 있을까요?</p>\n\t \t\t\t\t\t<!-- -->",
+  "tags": [
+    {
+      "category": "게시판별 분류",
+      "topic": "자유공간",
+      "confidence": "high"
+    }
+  ]
 }

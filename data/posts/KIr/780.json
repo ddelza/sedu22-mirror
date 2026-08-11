@@ -11,5 +11,12 @@
   "headCont": "",
   "contentval": "000Cazzzzzzzzzzzzzzzzzzzzzzzzz",
   "permlink": "https://cafe.daum.net/sedu22/KIr/780",
-  "contentHtml": "<p class=\"cafe-editor-text\">위험하진 않을까요?<br />젖지 않는 물 실험 하려고 합니다.<br />검색해보니 인체에는 무해하다고 하는데 <br />실험시 유의사항이나 팁이 있을까요?</p>\n\t \t\t\t\t\t<!-- -->"
+  "contentHtml": "<p class=\"cafe-editor-text\">위험하진 않을까요?<br />젖지 않는 물 실험 하려고 합니다.<br />검색해보니 인체에는 무해하다고 하는데 <br />실험시 유의사항이나 팁이 있을까요?</p>\n\t \t\t\t\t\t<!-- -->",
+  "tags": [
+    {
+      "category": "게시판별 분류",
+      "topic": "자유공간",
+      "confidence": "high"
+    }
+  ]
 }

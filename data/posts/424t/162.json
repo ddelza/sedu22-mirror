@@ -24,6 +24,11 @@
       "category": "과학교사 업무",
       "topic": "과학 행사",
       "confidence": "medium"
+    },
+    {
+      "category": "게시판별 분류",
+      "topic": "과학행사&과학실 Idea",
+      "confidence": "high"
     }
   ],
   "tagsNote": "학생의 날 부스 운영 후기, 미세먼지 관련 코너 언급 — 낮은 확신도로 연결(주된 내용은 행사 소개).",

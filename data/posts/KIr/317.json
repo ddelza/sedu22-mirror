@@ -11,5 +11,12 @@
   "headCont": "",
   "contentval": "00057zzzzzzzzzzzzzzzzzzzzzzzzz",
   "permlink": "https://cafe.daum.net/sedu22/KIr/317",
-  "contentHtml": "<P>서쪽하늘에 떠 있는 것이 화성인가요?</P>\n\t \t\t\t\t\t<!-- -->"
+  "contentHtml": "<P>서쪽하늘에 떠 있는 것이 화성인가요?</P>\n\t \t\t\t\t\t<!-- -->",
+  "tags": [
+    {
+      "category": "게시판별 분류",
+      "topic": "자유공간",
+      "confidence": "high"
+    }
+  ]
 }

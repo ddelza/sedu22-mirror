@@ -17,6 +17,11 @@
       "category": "과학교사 업무",
       "topic": "과학 행사",
       "confidence": "low"
+    },
+    {
+      "category": "게시판별 분류",
+      "topic": "수석교사의 방(2023~)",
+      "confidence": "high"
     }
   ],
   "tagsNote": "NSTA에서 얻은 수업 아이디어(3) — 건과류 강도 비교 실험, 과학 행사/수업자료로 추정.",

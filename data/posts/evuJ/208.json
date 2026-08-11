@@ -11,5 +11,12 @@
   "headCont": "",
   "contentval": "0003Mzzzzzzzzzzzzzzzzzzzzzzzzz",
   "permlink": "https://cafe.daum.net/sedu22/evuJ/208",
-  "contentHtml": "<p style=\"text-align: left;\">갑자기 온라인 수업을 하게 되었습니다 ㅠㅠ<br>학생들이 교과서를 가지러 학교에 올 수 없는데,<br>교과서 pdf를 제공하면 혹시 문제가 생기나요..?</p>\n\t \t\t\t\t\t<!-- -->"
+  "contentHtml": "<p style=\"text-align: left;\">갑자기 온라인 수업을 하게 되었습니다 ㅠㅠ<br>학생들이 교과서를 가지러 학교에 올 수 없는데,<br>교과서 pdf를 제공하면 혹시 문제가 생기나요..?</p>\n\t \t\t\t\t\t<!-- -->",
+  "tags": [
+    {
+      "category": "게시판별 분류",
+      "topic": "AI도구 활용하기",
+      "confidence": "high"
+    }
+  ]
 }

@@ -11,5 +11,12 @@
   "headCont": "",
   "contentval": "0003Nzzzzzzzzzzzzzzzzzzzzzzzzz",
   "permlink": "https://cafe.daum.net/sedu22/KIr/209",
-  "contentHtml": "<P>30일 방문.....</P>\r\n<P>비밀의 방 점점 어려워져요~</P>\r\n<P>&nbsp;</P>\n\t \t\t\t\t\t<!-- -->"
+  "contentHtml": "<P>30일 방문.....</P>\r\n<P>비밀의 방 점점 어려워져요~</P>\r\n<P>&nbsp;</P>\n\t \t\t\t\t\t<!-- -->",
+  "tags": [
+    {
+      "category": "게시판별 분류",
+      "topic": "자유공간",
+      "confidence": "high"
+    }
+  ]
 }

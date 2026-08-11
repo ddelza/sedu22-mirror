@@ -11,5 +11,12 @@
   "headCont": "기체",
   "contentval": "0000kzzzzzzzzzzzzzzzzzzzzzzzzz",
   "permlink": "https://cafe.daum.net/sedu22/fMHq/46",
-  "contentHtml": "<p style=\"text-align: left;\">중 1 실험중 감압 용기에서 공기를 빼내면 기체 입자의 개수가 줄어듦에 따라 압력이 감소하는 것을 확인할 수 있습니다.</p><p style=\"text-align: left;\">감압 용기에 온도 센서를 꽂아 온도를 확인하면 온도가 줄어드는데</p><p style=\"text-align: left;\">&#160;</p><p style=\"text-align: left;\"><b>1. 이상기체상태방정식을 적용</b></p><p style=\"text-align: left;\">&#160; &#160;→ 공기를 빼냄에 따라 기체 입자의 개수(n)가 줄어들고 이에 따라 압력(P)이 감소하면 결국 온도는 변하지 않아야 하는것 같습니다.(n과 P가 동일한 비율로 줄어들기 때문)</p><p style=\"text-align: left;\">&#160;</p><p style=\"text-align: left;\"><b>2. 이상기체가 아니라면</b></p><p style=\"text-align: left;\">&#160; &#160; → 입자 사이의 상호작용을 고려하지 않는다면 기체 입자의 개수가 줄어도 온도는 변함이 없어야 하지만, 이상기체가 아니라면 입자 사이의 상호작용이 존재하고 기체 입자의 개수가 줄어듦에 따라 충돌하는 횟수도 줄어들어 온도가 줄어든다. 이렇게 이해하는게 맞을까요?</p>\n\t \t\t\t\t\t<!-- -->"
+  "contentHtml": "<p style=\"text-align: left;\">중 1 실험중 감압 용기에서 공기를 빼내면 기체 입자의 개수가 줄어듦에 따라 압력이 감소하는 것을 확인할 수 있습니다.</p><p style=\"text-align: left;\">감압 용기에 온도 센서를 꽂아 온도를 확인하면 온도가 줄어드는데</p><p style=\"text-align: left;\">&#160;</p><p style=\"text-align: left;\"><b>1. 이상기체상태방정식을 적용</b></p><p style=\"text-align: left;\">&#160; &#160;→ 공기를 빼냄에 따라 기체 입자의 개수(n)가 줄어들고 이에 따라 압력(P)이 감소하면 결국 온도는 변하지 않아야 하는것 같습니다.(n과 P가 동일한 비율로 줄어들기 때문)</p><p style=\"text-align: left;\">&#160;</p><p style=\"text-align: left;\"><b>2. 이상기체가 아니라면</b></p><p style=\"text-align: left;\">&#160; &#160; → 입자 사이의 상호작용을 고려하지 않는다면 기체 입자의 개수가 줄어도 온도는 변함이 없어야 하지만, 이상기체가 아니라면 입자 사이의 상호작용이 존재하고 기체 입자의 개수가 줄어듦에 따라 충돌하는 횟수도 줄어들어 온도가 줄어든다. 이렇게 이해하는게 맞을까요?</p>\n\t \t\t\t\t\t<!-- -->",
+  "tags": [
+    {
+      "category": "게시판별 분류",
+      "topic": "중학교 화학수업 이야기",
+      "confidence": "high"
+    }
+  ]
 }

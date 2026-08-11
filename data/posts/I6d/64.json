@@ -11,5 +11,12 @@
   "headCont": "",
   "contentval": "00012zzzzzzzzzzzzzzzzzzzzzzzzz",
   "permlink": "https://cafe.daum.net/sedu22/I6d/64",
-  "contentHtml": "<p><a href=\"http://assess.kice.re.kr/\" target=\"_blank\" class=\"tx-link\">http://assess.kice.re.kr/</a></p><p><br></p><p>진작 알았으면 좋았을 걸 ㅜㅜ</p>\n\t \t\t\t\t\t<!-- -->"
+  "contentHtml": "<p><a href=\"http://assess.kice.re.kr/\" target=\"_blank\" class=\"tx-link\">http://assess.kice.re.kr/</a></p><p><br></p><p>진작 알았으면 좋았을 걸 ㅜㅜ</p>\n\t \t\t\t\t\t<!-- -->",
+  "tags": [
+    {
+      "category": "게시판별 분류",
+      "topic": "평가 Ideas",
+      "confidence": "high"
+    }
+  ]
 }

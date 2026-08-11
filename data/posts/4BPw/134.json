@@ -19,6 +19,11 @@
       "subject": null,
       "unit": "미분류",
       "confidence": "high"
+    },
+    {
+      "category": "게시판별 분류",
+      "topic": "학급 운영",
+      "confidence": "high"
     }
   ],
   "tagsNote": "'학급 운영' 게시판 — 동아리 활동 전반(과목 무관) 운영 의견 요청, 과학 동아리로 특정되지 않음.",

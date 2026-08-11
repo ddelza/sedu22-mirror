@@ -31,6 +31,11 @@
       "subject": "과학",
       "unit": "힘의 작용",
       "confidence": "low"
+    },
+    {
+      "category": "게시판별 분류",
+      "topic": "과학행사&과학실 Idea",
+      "confidence": "high"
     }
   ],
   "tagsNote": "4D프레임 무동력 자동차 만들기 창의적 문제해결 경진대회 자료.",

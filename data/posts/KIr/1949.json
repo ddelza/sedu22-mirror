@@ -11,5 +11,12 @@
   "headCont": "",
   "contentval": "000VRzzzzzzzzzzzzzzzzzzzzzzzzz",
   "permlink": "https://cafe.daum.net/sedu22/KIr/1949",
-  "contentHtml": "<p style=\"text-align: left;\">아이들 낙서로...엉망입니다..<br>방열, 방화 시트지 붙여보신 선생님 계실까요?</p>\n\t \t\t\t\t\t<!-- -->"
+  "contentHtml": "<p style=\"text-align: left;\">아이들 낙서로...엉망입니다..<br>방열, 방화 시트지 붙여보신 선생님 계실까요?</p>\n\t \t\t\t\t\t<!-- -->",
+  "tags": [
+    {
+      "category": "게시판별 분류",
+      "topic": "자유공간",
+      "confidence": "high"
+    }
+  ]
 }

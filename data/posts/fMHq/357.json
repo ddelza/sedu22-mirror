@@ -11,5 +11,12 @@
   "headCont": "물질의 구성",
   "contentval": "0005lzzzzzzzzzzzzzzzzzzzzzzzzz",
   "permlink": "https://cafe.daum.net/sedu22/fMHq/357",
-  "contentHtml": "<p class=\"cafe-editor-text\">9v짜리 건전지가 없어서 1.5v짜리로 했는데 기포가 발생하지 않네용<br />원래 이런가요?<br />9v건전지 사러 가야겠어용</p>\n\t \t\t\t\t\t<!-- -->"
+  "contentHtml": "<p class=\"cafe-editor-text\">9v짜리 건전지가 없어서 1.5v짜리로 했는데 기포가 발생하지 않네용<br />원래 이런가요?<br />9v건전지 사러 가야겠어용</p>\n\t \t\t\t\t\t<!-- -->",
+  "tags": [
+    {
+      "category": "게시판별 분류",
+      "topic": "중학교 화학수업 이야기",
+      "confidence": "high"
+    }
+  ]
 }

@@ -11,5 +11,12 @@
   "headCont": "",
   "contentval": "000B0zzzzzzzzzzzzzzzzzzzzzzzzz",
   "permlink": "https://cafe.daum.net/sedu22/KIr/682",
-  "contentHtml": "<p>오랜시간 학교를 떠났다가 기간제로 근무한지 얼마되지 않습니다.</p><p>어려움이 많네요. 도움받고싶습니다<br></p>\n\t \t\t\t\t\t<!-- -->"
+  "contentHtml": "<p>오랜시간 학교를 떠났다가 기간제로 근무한지 얼마되지 않습니다.</p><p>어려움이 많네요. 도움받고싶습니다<br></p>\n\t \t\t\t\t\t<!-- -->",
+  "tags": [
+    {
+      "category": "게시판별 분류",
+      "topic": "자유공간",
+      "confidence": "high"
+    }
+  ]
 }

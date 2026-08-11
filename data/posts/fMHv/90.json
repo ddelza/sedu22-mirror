@@ -11,5 +11,12 @@
   "headCont": "지권의 변화",
   "contentval": "0001Szzzzzzzzzzzzzzzzzzzzzzzzz",
   "permlink": "https://cafe.daum.net/sedu22/fMHv/90",
-  "contentHtml": "&lt; 살아있는 껍질 &gt;<br>http://cafe.daum.net/dahamgge-e/duT1/8?svc=cafeapp<br>\n\t \t\t\t\t\t<!-- -->"
+  "contentHtml": "&lt; 살아있는 껍질 &gt;<br>http://cafe.daum.net/dahamgge-e/duT1/8?svc=cafeapp<br>\n\t \t\t\t\t\t<!-- -->",
+  "tags": [
+    {
+      "category": "게시판별 분류",
+      "topic": "중학교 지구과학수업 이야기",
+      "confidence": "high"
+    }
+  ]
 }

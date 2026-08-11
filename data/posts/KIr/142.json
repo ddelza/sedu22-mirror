@@ -11,5 +11,12 @@
   "headCont": "",
   "contentval": "0002Izzzzzzzzzzzzzzzzzzzzzzzzz",
   "permlink": "https://cafe.daum.net/sedu22/KIr/142",
-  "contentHtml": "사이트가 좋다고 해서 가입하게 되었습니다.<br />많이 배우고 싶습니다.~~^^\n\t \t\t\t\t\t<!-- -->"
+  "contentHtml": "사이트가 좋다고 해서 가입하게 되었습니다.<br />많이 배우고 싶습니다.~~^^\n\t \t\t\t\t\t<!-- -->",
+  "tags": [
+    {
+      "category": "게시판별 분류",
+      "topic": "자유공간",
+      "confidence": "high"
+    }
+  ]
 }

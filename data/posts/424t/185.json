@@ -24,6 +24,11 @@
       "subject": "과학",
       "unit": "여러 가지 힘",
       "confidence": "high"
+    },
+    {
+      "category": "게시판별 분류",
+      "topic": "과학행사&과학실 Idea",
+      "confidence": "high"
     }
   ],
   "tagsNote": "점심시간 과학실 행사 모음. '런치 힘게임장'이 중1 <여러 가지 힘> 단원 수업과 명시적으로 연계됨.",

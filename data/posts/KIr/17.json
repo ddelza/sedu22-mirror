@@ -11,5 +11,12 @@
   "headCont": "",
   "contentval": "0000Hzzzzzzzzzzzzzzzzzzzzzzzzz",
   "permlink": "https://cafe.daum.net/sedu22/KIr/17",
-  "contentHtml": "이렇게 실시간으로 볼 수 있는 곳으로 옮겨져서 더 좋습니다^^축하드려요\n\t \t\t\t\t\t<!-- -->"
+  "contentHtml": "이렇게 실시간으로 볼 수 있는 곳으로 옮겨져서 더 좋습니다^^축하드려요\n\t \t\t\t\t\t<!-- -->",
+  "tags": [
+    {
+      "category": "게시판별 분류",
+      "topic": "자유공간",
+      "confidence": "high"
+    }
+  ]
 }

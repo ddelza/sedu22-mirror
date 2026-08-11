@@ -10,5 +10,12 @@
   "headCont": "",
   "contentval": "0001bzzzzzzzzzzzzzzzzzzzzzzzzz",
   "permlink": "https://cafe.daum.net/sedu22/f02N/99",
-  "contentHtml": "<p>고등학생 기준으로 세균과 항생제에 관련한 좋은 영상 자료 없을까요,,,?</p><p>다큐 같은거요!!</p>\n\t \t\t\t\t\t<!-- -->"
+  "contentHtml": "<p>고등학생 기준으로 세균과 항생제에 관련한 좋은 영상 자료 없을까요,,,?</p><p>다큐 같은거요!!</p>\n\t \t\t\t\t\t<!-- -->",
+  "tags": [
+    {
+      "category": "게시판별 분류",
+      "topic": "옹알이(익명게시판)",
+      "confidence": "high"
+    }
+  ]
 }

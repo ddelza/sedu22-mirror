@@ -11,5 +11,12 @@
   "headCont": "",
   "contentval": "00032zzzzzzzzzzzzzzzzzzzzzzzzz",
   "permlink": "https://cafe.daum.net/sedu22/KIr/188",
-  "contentHtml": "<p>오늘 가입했구요,&nbsp; 글 읽느라 벌써 새벽이네요.. 열심열심해서 비밀의방에 가보고싶어요^^</p>\n\t \t\t\t\t\t<!-- -->"
+  "contentHtml": "<p>오늘 가입했구요,&nbsp; 글 읽느라 벌써 새벽이네요.. 열심열심해서 비밀의방에 가보고싶어요^^</p>\n\t \t\t\t\t\t<!-- -->",
+  "tags": [
+    {
+      "category": "게시판별 분류",
+      "topic": "자유공간",
+      "confidence": "high"
+    }
+  ]
 }

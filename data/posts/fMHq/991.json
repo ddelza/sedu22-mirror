@@ -11,5 +11,12 @@
   "headCont": "",
   "contentval": "000Fzzzzzzzzzzzzzzzzzzzzzzzzzz",
   "permlink": "https://cafe.daum.net/sedu22/fMHq/991",
-  "contentHtml": "<p class=\"cafe-editor-text\">학생들의 질문이 예상되어 질문합니다. <br />만들어진 온도 조건에 따라서 다른 것일까요? <br /><br />그리고 숯은 연소되면 이산화탄소가  되는데 코크스는 왜 일산화 탄소가 되는 것일까요?  숯과 코크스의 구조 때문인가요?? </p><p><img src='https://t1.daumcdn.net/cfile/cafe/2746F25057D7916302' class='txc-image' /></p>\n\t \t\t\t\t\t<!-- -->"
+  "contentHtml": "<p class=\"cafe-editor-text\">학생들의 질문이 예상되어 질문합니다. <br />만들어진 온도 조건에 따라서 다른 것일까요? <br /><br />그리고 숯은 연소되면 이산화탄소가  되는데 코크스는 왜 일산화 탄소가 되는 것일까요?  숯과 코크스의 구조 때문인가요?? </p><p><img src='https://t1.daumcdn.net/cfile/cafe/2746F25057D7916302' class='txc-image' /></p>\n\t \t\t\t\t\t<!-- -->",
+  "tags": [
+    {
+      "category": "게시판별 분류",
+      "topic": "중학교 화학수업 이야기",
+      "confidence": "high"
+    }
+  ]
 }

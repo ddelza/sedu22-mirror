@@ -11,5 +11,12 @@
   "headCont": "산과 염기",
   "contentval": "000GVzzzzzzzzzzzzzzzzzzzzzzzzz",
   "permlink": "https://cafe.daum.net/sedu22/fMHq/1023",
-  "contentHtml": "<p class=\"cafe-editor-text\">하천의 산성화를 생각하고 실험을 했는데 <br /><br />약한 염기성을띠네요.. 그 이유가 뭘까요?</p>\n\t \t\t\t\t\t<!-- -->"
+  "contentHtml": "<p class=\"cafe-editor-text\">하천의 산성화를 생각하고 실험을 했는데 <br /><br />약한 염기성을띠네요.. 그 이유가 뭘까요?</p>\n\t \t\t\t\t\t<!-- -->",
+  "tags": [
+    {
+      "category": "게시판별 분류",
+      "topic": "중학교 화학수업 이야기",
+      "confidence": "high"
+    }
+  ]
 }

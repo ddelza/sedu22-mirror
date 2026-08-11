@@ -19,6 +19,11 @@
       "subject": null,
       "unit": "미분류",
       "confidence": "high"
+    },
+    {
+      "category": "게시판별 분류",
+      "topic": "수석교사의 방(2023~)",
+      "confidence": "high"
     }
   ],
   "tagsNote": "미국 교사 공동출제 여부에 대한 개인적 궁금증 — 특정 업무/행사/연수 항목에 해당하지 않음.",

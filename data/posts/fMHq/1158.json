@@ -11,5 +11,12 @@
   "headCont": "화학반응규칙",
   "contentval": "000Igzzzzzzzzzzzzzzzzzzzzzzzzz",
   "permlink": "https://cafe.daum.net/sedu22/fMHq/1158",
-  "contentHtml": "<p style=\"text-align: left;\">1. 화학반응식의 계수는 자연수라고 해야하나요 아니면 정수라고 해야하나요<br>2.화학 반응식을 완성시키는 수행평가에서 계수의 비는 맞지만 가장작은 계수의 비가 아닌경우(예를들어 계수의 비가 1:1:2 인경우 답안에 2:2:4의 형태로 화학식을 작성)에는 맞은걸까요 틀린걸까요?</p>\n\t \t\t\t\t\t<!-- -->"
+  "contentHtml": "<p style=\"text-align: left;\">1. 화학반응식의 계수는 자연수라고 해야하나요 아니면 정수라고 해야하나요<br>2.화학 반응식을 완성시키는 수행평가에서 계수의 비는 맞지만 가장작은 계수의 비가 아닌경우(예를들어 계수의 비가 1:1:2 인경우 답안에 2:2:4의 형태로 화학식을 작성)에는 맞은걸까요 틀린걸까요?</p>\n\t \t\t\t\t\t<!-- -->",
+  "tags": [
+    {
+      "category": "게시판별 분류",
+      "topic": "중학교 화학수업 이야기",
+      "confidence": "high"
+    }
+  ]
 }

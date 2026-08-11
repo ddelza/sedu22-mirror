@@ -11,5 +11,12 @@
   "headCont": "",
   "contentval": "0002kzzzzzzzzzzzzzzzzzzzzzzzzz",
   "permlink": "https://cafe.daum.net/sedu22/KIr/170",
-  "contentHtml": "<P>다들 학기초라 바쁘시죠?</P>\r\n<P>많은 정보 나누며 힘들지만 같이 도와요~</P>\n\t \t\t\t\t\t<!-- -->"
+  "contentHtml": "<P>다들 학기초라 바쁘시죠?</P>\r\n<P>많은 정보 나누며 힘들지만 같이 도와요~</P>\n\t \t\t\t\t\t<!-- -->",
+  "tags": [
+    {
+      "category": "게시판별 분류",
+      "topic": "자유공간",
+      "confidence": "high"
+    }
+  ]
 }

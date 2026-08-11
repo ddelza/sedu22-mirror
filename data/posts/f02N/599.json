@@ -10,5 +10,12 @@
   "headCont": "기타",
   "contentval": "0009fzzzzzzzzzzzzzzzzzzzzzzzzz",
   "permlink": "https://cafe.daum.net/sedu22/f02N/599",
-  "contentHtml": "<p style=\"text-align: left;\">에어컨을 켜고 온 것 같은데 행정실 직원분들 퇴근시간 지나고 제가 퇴근을 해서요.. 시간이 되면 자동으로 꺼지지는 않겠죠? 그리고 보통 추석에 학교문을 여나요?</p>\n\t \t\t\t\t\t<!-- -->"
+  "contentHtml": "<p style=\"text-align: left;\">에어컨을 켜고 온 것 같은데 행정실 직원분들 퇴근시간 지나고 제가 퇴근을 해서요.. 시간이 되면 자동으로 꺼지지는 않겠죠? 그리고 보통 추석에 학교문을 여나요?</p>\n\t \t\t\t\t\t<!-- -->",
+  "tags": [
+    {
+      "category": "게시판별 분류",
+      "topic": "옹알이(익명게시판)",
+      "confidence": "high"
+    }
+  ]
 }

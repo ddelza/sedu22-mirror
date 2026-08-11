@@ -11,5 +11,12 @@
   "headCont": "",
   "contentval": "0000Zzzzzzzzzzzzzzzzzzzzzzzzzz",
   "permlink": "https://cafe.daum.net/sedu22/KIr/35",
-  "contentHtml": "<P>이 곳 들어오니 여전히 생기가 넘치네요 ^^</P>\r\n<P>&nbsp;</P>\r\n<P>선생님들의 행복 공간인 이 카페가 항상 즐거운 일들만 가득하기를 기원합니다.</P>\n\t \t\t\t\t\t<!-- -->"
+  "contentHtml": "<P>이 곳 들어오니 여전히 생기가 넘치네요 ^^</P>\r\n<P>&nbsp;</P>\r\n<P>선생님들의 행복 공간인 이 카페가 항상 즐거운 일들만 가득하기를 기원합니다.</P>\n\t \t\t\t\t\t<!-- -->",
+  "tags": [
+    {
+      "category": "게시판별 분류",
+      "topic": "자유공간",
+      "confidence": "high"
+    }
+  ]
 }

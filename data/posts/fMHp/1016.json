@@ -11,5 +11,12 @@
   "headCont": "",
   "contentval": "000GOzzzzzzzzzzzzzzzzzzzzzzzzz",
   "permlink": "https://cafe.daum.net/sedu22/fMHp/1016",
-  "contentHtml": "<p><a href=\"https://youtu.be/INqfM1kdfUc\"></a><p><a href=\"https://youtu.be/INqfM1kdfUc\"><iframe src=\"https://www.youtube.com/embed/INqfM1kdfUc\" width=\"640\" height=\"360\" frameborder=\"0\" allowfullscreen=\"\"></iframe></a></p><p><a href=\"https://youtu.be/INqfM1kdfUc\"></a></p></p>\n\t \t\t\t\t\t<!-- -->"
+  "contentHtml": "<p><a href=\"https://youtu.be/INqfM1kdfUc\"></a><p><a href=\"https://youtu.be/INqfM1kdfUc\"><iframe src=\"https://www.youtube.com/embed/INqfM1kdfUc\" width=\"640\" height=\"360\" frameborder=\"0\" allowfullscreen=\"\"></iframe></a></p><p><a href=\"https://youtu.be/INqfM1kdfUc\"></a></p></p>\n\t \t\t\t\t\t<!-- -->",
+  "tags": [
+    {
+      "category": "게시판별 분류",
+      "topic": "중학교 물리수업 이야기",
+      "confidence": "high"
+    }
+  ]
 }

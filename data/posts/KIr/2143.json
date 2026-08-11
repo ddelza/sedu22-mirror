@@ -11,5 +11,12 @@
   "headCont": "",
   "contentval": "000YZzzzzzzzzzzzzzzzzzzzzzzzzz",
   "permlink": "https://cafe.daum.net/sedu22/KIr/2143",
-  "contentHtml": "<p style=\"text-align: left;\">학교 유튜브를 개설해야하는데<br>혹시 아시는 분 계실까요?<br>영상촬영해서 올리는 용도인데<br>학생활동 등을 올리는건<br>개인정보동의서를 받아야하는거 아닌가요?<br></p>\n\t \t\t\t\t\t<!-- -->"
+  "contentHtml": "<p style=\"text-align: left;\">학교 유튜브를 개설해야하는데<br>혹시 아시는 분 계실까요?<br>영상촬영해서 올리는 용도인데<br>학생활동 등을 올리는건<br>개인정보동의서를 받아야하는거 아닌가요?<br></p>\n\t \t\t\t\t\t<!-- -->",
+  "tags": [
+    {
+      "category": "게시판별 분류",
+      "topic": "자유공간",
+      "confidence": "high"
+    }
+  ]
 }

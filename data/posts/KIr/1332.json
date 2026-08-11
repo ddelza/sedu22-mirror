@@ -11,5 +11,12 @@
   "headCont": "",
   "contentval": "000LUzzzzzzzzzzzzzzzzzzzzzzzzz",
   "permlink": "https://cafe.daum.net/sedu22/KIr/1332",
-  "contentHtml": "<p class=\"cafe-editor-text\">감사 항목에 실험실습 계획서가 있는데... 기존 학교에 관련 자료가 없어서 참고할 수가 없네요.. </p>\n\t \t\t\t\t\t<!-- -->"
+  "contentHtml": "<p class=\"cafe-editor-text\">감사 항목에 실험실습 계획서가 있는데... 기존 학교에 관련 자료가 없어서 참고할 수가 없네요.. </p>\n\t \t\t\t\t\t<!-- -->",
+  "tags": [
+    {
+      "category": "게시판별 분류",
+      "topic": "자유공간",
+      "confidence": "high"
+    }
+  ]
 }

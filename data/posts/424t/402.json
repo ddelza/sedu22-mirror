@@ -27,6 +27,11 @@
       "category": "스마트 수업도구",
       "topic": "앱/프로그램",
       "confidence": "low"
+    },
+    {
+      "category": "게시판별 분류",
+      "topic": "과학행사&과학실 Idea",
+      "confidence": "high"
     }
   ],
   "tagsNote": "CSI수사대 방탈출 부스 — 바이브코딩(AI)으로 웹앱 제작, 마인크래프트 에듀케이션 맵도 활용.",

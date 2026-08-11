@@ -11,5 +11,12 @@
   "headCont": "",
   "contentval": "0000Xzzzzzzzzzzzzzzzzzzzzzzzzz",
   "permlink": "https://cafe.daum.net/sedu22/esFT/33",
-  "contentHtml": "<p>과세특에 오타 수정하고 나면 바로 반영이 되는건가요?</p><p>아니면 담임선생님들이 반영 눌러주셔야 되는건가요?</p>\n\t \t\t\t\t\t<!-- -->"
+  "contentHtml": "<p>과세특에 오타 수정하고 나면 바로 반영이 되는건가요?</p><p>아니면 담임선생님들이 반영 눌러주셔야 되는건가요?</p>\n\t \t\t\t\t\t<!-- -->",
+  "tags": [
+    {
+      "category": "게시판별 분류",
+      "topic": "교과 세특 공유",
+      "confidence": "high"
+    }
+  ]
 }

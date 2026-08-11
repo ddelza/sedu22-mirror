@@ -11,5 +11,12 @@
   "headCont": "",
   "contentval": "000Pvzzzzzzzzzzzzzzzzzzzzzzzzz",
   "permlink": "https://cafe.daum.net/sedu22/KIr/1607",
-  "contentHtml": "<p style=\"text-align: left;\">동아리 학생 대상<br>1인 1식물을 교실에서 기르게 하고싶은데<br>어떤 식물로 선정하는게 좋을까요!?</p>\n\t \t\t\t\t\t<!-- -->"
+  "contentHtml": "<p style=\"text-align: left;\">동아리 학생 대상<br>1인 1식물을 교실에서 기르게 하고싶은데<br>어떤 식물로 선정하는게 좋을까요!?</p>\n\t \t\t\t\t\t<!-- -->",
+  "tags": [
+    {
+      "category": "게시판별 분류",
+      "topic": "자유공간",
+      "confidence": "high"
+    }
+  ]
 }

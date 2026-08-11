@@ -10,5 +10,12 @@
   "headCont": "교과질문",
   "contentval": "0006vzzzzzzzzzzzzzzzzzzzzzzzzz",
   "permlink": "https://cafe.daum.net/sedu22/f02N/429",
-  "contentHtml": "<p style=\"text-align: left;\">원자들의 상대적질량과 기체 분자식을 자료로 주엇습니다<br>이때 기체 분자의 질량을 계산하라고 했는데, 선행학습인가요..?<br><br>예를 들어<br>N=14 H= 1 일때<br>암모니아의 상대적 질량은 NH3 = 17이다.<br>라고 하는 건 선행학습인가요?ㅠㅠ</p>\n\t \t\t\t\t\t<!-- -->"
+  "contentHtml": "<p style=\"text-align: left;\">원자들의 상대적질량과 기체 분자식을 자료로 주엇습니다<br>이때 기체 분자의 질량을 계산하라고 했는데, 선행학습인가요..?<br><br>예를 들어<br>N=14 H= 1 일때<br>암모니아의 상대적 질량은 NH3 = 17이다.<br>라고 하는 건 선행학습인가요?ㅠㅠ</p>\n\t \t\t\t\t\t<!-- -->",
+  "tags": [
+    {
+      "category": "게시판별 분류",
+      "topic": "옹알이(익명게시판)",
+      "confidence": "high"
+    }
+  ]
 }

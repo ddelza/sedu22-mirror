@@ -38,6 +38,11 @@
       "subject": "과학",
       "unit": "에너지 전환과 보존",
       "confidence": "medium"
+    },
+    {
+      "category": "게시판별 분류",
+      "topic": "과학행사&과학실 Idea",
+      "confidence": "high"
     }
   ],
   "tagsNote": "계란 낙하(완충구조물 제작) 융합과학 행사 준비 문의.",

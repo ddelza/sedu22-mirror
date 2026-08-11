@@ -11,5 +11,12 @@
   "headCont": "",
   "contentval": "000Gszzzzzzzzzzzzzzzzzzzzzzzzz",
   "permlink": "https://cafe.daum.net/sedu22/fMHu/1046",
-  "contentHtml": "<p><img src='https://t1.daumcdn.net/cfile/cafe/2317BD4455E42A4E22' class='txc-image' /></p><p><img src='https://t1.daumcdn.net/cfile/cafe/271E7B4F55E42A4F27' class='txc-image' /></p><p class=\"cafe-editor-text\">이해도 높이는 데 아주 좋습니다^^</p>\n\t \t\t\t\t\t<!-- -->"
+  "contentHtml": "<p><img src='https://t1.daumcdn.net/cfile/cafe/2317BD4455E42A4E22' class='txc-image' /></p><p><img src='https://t1.daumcdn.net/cfile/cafe/271E7B4F55E42A4F27' class='txc-image' /></p><p class=\"cafe-editor-text\">이해도 높이는 데 아주 좋습니다^^</p>\n\t \t\t\t\t\t<!-- -->",
+  "tags": [
+    {
+      "category": "게시판별 분류",
+      "topic": "중학교 생물수업 이야기",
+      "confidence": "high"
+    }
+  ]
 }

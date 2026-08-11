@@ -31,6 +31,11 @@
       "subject": "과학",
       "unit": "태양계",
       "confidence": "medium"
+    },
+    {
+      "category": "게시판별 분류",
+      "topic": "거꾸로 교실(김신혜)",
+      "confidence": "high"
     }
   ],
   "tagsNote": "단원도입 활동(성취기준 그게 뭔데?) — 태양계 단원 적용 사례.",

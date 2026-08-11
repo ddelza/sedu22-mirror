@@ -11,5 +11,12 @@
   "headCont": "",
   "contentval": "0001Rzzzzzzzzzzzzzzzzzzzzzzzzz",
   "permlink": "https://cafe.daum.net/sedu22/evuJ/89",
-  "contentHtml": "<p class=\"cafe-editor-text\"><a href=\"https://youtu.be/9L8S3AxroZ4\">https://youtu.be/9L8S3AxroZ4</a></p>\n\t \t\t\t\t\t<!-- -->"
+  "contentHtml": "<p class=\"cafe-editor-text\"><a href=\"https://youtu.be/9L8S3AxroZ4\">https://youtu.be/9L8S3AxroZ4</a></p>\n\t \t\t\t\t\t<!-- -->",
+  "tags": [
+    {
+      "category": "게시판별 분류",
+      "topic": "AI도구 활용하기",
+      "confidence": "high"
+    }
+  ]
 }

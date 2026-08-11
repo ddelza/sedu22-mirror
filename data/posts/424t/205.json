@@ -24,6 +24,11 @@
       "subject": "과학탐구실험",
       "unit": "생활 속의 과학 탐구",
       "confidence": "medium"
+    },
+    {
+      "category": "게시판별 분류",
+      "topic": "과학행사&과학실 Idea",
+      "confidence": "high"
     }
   ],
   "tagsNote": "고1 대상 온라인 화학교실 — 과학적 탐구방법 실습 중심 특강 행사.",

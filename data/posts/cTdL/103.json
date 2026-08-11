@@ -11,5 +11,12 @@
   "headCont": "",
   "contentval": "0001fzzzzzzzzzzzzzzzzzzzzzzzzz",
   "permlink": "https://cafe.daum.net/sedu22/cTdL/103",
-  "contentHtml": "<p class=\"cafe-editor-text\">물화생지 선생님 각 한 명씩 들어가는데요<br />내용이 단원으로 나눌 수 없게 되어있네요<br />단원안에서 각 챕터별로 쪼개서 하시나요?</p>\n\t \t\t\t\t\t<!-- -->"
+  "contentHtml": "<p class=\"cafe-editor-text\">물화생지 선생님 각 한 명씩 들어가는데요<br />내용이 단원으로 나눌 수 없게 되어있네요<br />단원안에서 각 챕터별로 쪼개서 하시나요?</p>\n\t \t\t\t\t\t<!-- -->",
+  "tags": [
+    {
+      "category": "게시판별 분류",
+      "topic": "고1과학&탐구실험",
+      "confidence": "high"
+    }
+  ]
 }

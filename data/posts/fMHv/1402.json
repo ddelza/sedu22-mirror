@@ -11,5 +11,12 @@
   "headCont": "",
   "contentval": "000Mczzzzzzzzzzzzzzzzzzzzzzzzz",
   "permlink": "https://cafe.daum.net/sedu22/fMHv/1402",
-  "contentHtml": "<p class=\"cafe-editor-text\">이 문항 답이 5번인가요?<br />전 2번같은데..</p><p><img src='https://t1.daumcdn.net/cfile/cafe/9944343E5B38A6DB0E' class=\"txc-image\" /></p>\n\t \t\t\t\t\t<!-- -->"
+  "contentHtml": "<p class=\"cafe-editor-text\">이 문항 답이 5번인가요?<br />전 2번같은데..</p><p><img src='https://t1.daumcdn.net/cfile/cafe/9944343E5B38A6DB0E' class=\"txc-image\" /></p>\n\t \t\t\t\t\t<!-- -->",
+  "tags": [
+    {
+      "category": "게시판별 분류",
+      "topic": "중학교 지구과학수업 이야기",
+      "confidence": "high"
+    }
+  ]
 }

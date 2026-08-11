@@ -11,5 +11,12 @@
   "headCont": "",
   "contentval": "000LJzzzzzzzzzzzzzzzzzzzzzzzzz",
   "permlink": "https://cafe.daum.net/sedu22/KIr/1321",
-  "contentHtml": "<p class=\"cafe-editor-text\"><a href=\"https://www1.president.go.kr/petitions/Temp/uc3h4k\">https://www1.president.go.kr/petitions/Temp/uc3h4k</a><br /></p>\n\t \t\t\t\t\t<!-- -->"
+  "contentHtml": "<p class=\"cafe-editor-text\"><a href=\"https://www1.president.go.kr/petitions/Temp/uc3h4k\">https://www1.president.go.kr/petitions/Temp/uc3h4k</a><br /></p>\n\t \t\t\t\t\t<!-- -->",
+  "tags": [
+    {
+      "category": "게시판별 분류",
+      "topic": "자유공간",
+      "confidence": "high"
+    }
+  ]
 }

@@ -22,6 +22,11 @@
       "category": "과학교사 업무",
       "topic": "동아리 운영",
       "confidence": "medium"
+    },
+    {
+      "category": "게시판별 분류",
+      "topic": "과학행사&과학실 Idea",
+      "confidence": "high"
     }
   ],
   "tagsNote": "달걀을 지켜라(방과후 창의공작/과학동아리) 낙하 보호구조물 미션.",

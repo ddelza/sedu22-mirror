@@ -11,5 +11,12 @@
   "headCont": "",
   "contentval": "00001zzzzzzzzzzzzzzzzzzzzzzzzz",
   "permlink": "https://cafe.daum.net/sedu22/fBlk/1",
-  "contentHtml": "<p>모임 안내장입니다.</p><p>운영진 김민우 선생님이 만들어주셨습니다. </p><p>이쁘죠?&nbsp;</p><p style=\"text-align: left;\"></p><p style=\"text-align: left;\"><img src=\"https://t1.daumcdn.net/cfile/cafe/2577734654D6A5C72D\" class=\"txc-image\" width=\"500\" style=\"clear: none; float: none;\" border=\"0\" vspace=\"1\" hspace=\"1\" actualwidth=\"500\" exif=\"{}\" data-filename=\"수정됨_안내장001_(2).jpg\"  id=\"A_2577734654D6A5C72D6DEE\"/></p><p>&nbsp;</p>\n\t \t\t\t\t\t<!-- -->"
+  "contentHtml": "<p>모임 안내장입니다.</p><p>운영진 김민우 선생님이 만들어주셨습니다. </p><p>이쁘죠?&nbsp;</p><p style=\"text-align: left;\"></p><p style=\"text-align: left;\"><img src=\"https://t1.daumcdn.net/cfile/cafe/2577734654D6A5C72D\" class=\"txc-image\" width=\"500\" style=\"clear: none; float: none;\" border=\"0\" vspace=\"1\" hspace=\"1\" actualwidth=\"500\" exif=\"{}\" data-filename=\"수정됨_안내장001_(2).jpg\"  id=\"A_2577734654D6A5C72D6DEE\"/></p><p>&nbsp;</p>\n\t \t\t\t\t\t<!-- -->",
+  "tags": [
+    {
+      "category": "게시판별 분류",
+      "topic": "재과만 정기행사",
+      "confidence": "high"
+    }
+  ]
 }

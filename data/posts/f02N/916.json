@@ -10,5 +10,12 @@
   "headCont": "",
   "contentval": "000Emzzzzzzzzzzzzzzzzzzzzzzzzz",
   "permlink": "https://cafe.daum.net/sedu22/f02N/916",
-  "contentHtml": "<p style=\"text-align: left;\">아니면 번호를 그냥 랜덤으로, 특정 번호가 많아도 그냥 넘어가시나요?</p>\n\t \t\t\t\t\t<!-- -->"
+  "contentHtml": "<p style=\"text-align: left;\">아니면 번호를 그냥 랜덤으로, 특정 번호가 많아도 그냥 넘어가시나요?</p>\n\t \t\t\t\t\t<!-- -->",
+  "tags": [
+    {
+      "category": "게시판별 분류",
+      "topic": "옹알이(익명게시판)",
+      "confidence": "high"
+    }
+  ]
 }

@@ -11,5 +11,12 @@
   "headCont": "",
   "contentval": "000Ppzzzzzzzzzzzzzzzzzzzzzzzzz",
   "permlink": "https://cafe.daum.net/sedu22/KIr/1601",
-  "contentHtml": "<p style=\"text-align: left;\">학생이 질문 하기를 태양빛이 지구까지 도달해서 지구는 밝은데 왜 우주 공간은 어둡냐고 하네요..<br>뭐라고 설명해야 하나요 선배 동료 후배 교사님들 도와주세요ㅠㅠㅠ</p>\n\t \t\t\t\t\t<!-- -->"
+  "contentHtml": "<p style=\"text-align: left;\">학생이 질문 하기를 태양빛이 지구까지 도달해서 지구는 밝은데 왜 우주 공간은 어둡냐고 하네요..<br>뭐라고 설명해야 하나요 선배 동료 후배 교사님들 도와주세요ㅠㅠㅠ</p>\n\t \t\t\t\t\t<!-- -->",
+  "tags": [
+    {
+      "category": "게시판별 분류",
+      "topic": "자유공간",
+      "confidence": "high"
+    }
+  ]
 }

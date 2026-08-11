@@ -31,6 +31,11 @@
       "subject": "과학",
       "unit": "태양계",
       "confidence": "low"
+    },
+    {
+      "category": "게시판별 분류",
+      "topic": "과학행사&과학실 Idea",
+      "confidence": "high"
     }
   ],
   "tagsNote": "과학그림 그리기 대회 주제 모음(화성 탐사 등).",

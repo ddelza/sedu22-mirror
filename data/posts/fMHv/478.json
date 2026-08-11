@@ -11,5 +11,12 @@
   "headCont": "태양계",
   "contentval": "0007izzzzzzzzzzzzzzzzzzzzzzzzz",
   "permlink": "https://cafe.daum.net/sedu22/fMHv/478",
-  "contentHtml": "<p>태양의 대기 및 현상에 대해 질문이 있는데요, 채층이나 코로나는 개기일식 때 잘 관측할 수 있는데, <br>홍염이나 플레어도 개기 일식 때 잘 관측할 수 있나요?</p>\n\t \t\t\t\t\t<!-- -->"
+  "contentHtml": "<p>태양의 대기 및 현상에 대해 질문이 있는데요, 채층이나 코로나는 개기일식 때 잘 관측할 수 있는데, <br>홍염이나 플레어도 개기 일식 때 잘 관측할 수 있나요?</p>\n\t \t\t\t\t\t<!-- -->",
+  "tags": [
+    {
+      "category": "게시판별 분류",
+      "topic": "중학교 지구과학수업 이야기",
+      "confidence": "high"
+    }
+  ]
 }

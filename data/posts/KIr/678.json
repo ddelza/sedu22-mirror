@@ -11,5 +11,12 @@
   "headCont": "",
   "contentval": "000Awzzzzzzzzzzzzzzzzzzzzzzzzz",
   "permlink": "https://cafe.daum.net/sedu22/KIr/678",
-  "contentHtml": "<p>생물을 전공하고 고등학교에서 십년 근무하고 중학교에 왔습니다.</p><p>다소 중,고의 다름을 느끼며 카페에서 도움을 받고자 합니다.<br></p>\n\t \t\t\t\t\t<!-- -->"
+  "contentHtml": "<p>생물을 전공하고 고등학교에서 십년 근무하고 중학교에 왔습니다.</p><p>다소 중,고의 다름을 느끼며 카페에서 도움을 받고자 합니다.<br></p>\n\t \t\t\t\t\t<!-- -->",
+  "tags": [
+    {
+      "category": "게시판별 분류",
+      "topic": "자유공간",
+      "confidence": "high"
+    }
+  ]
 }

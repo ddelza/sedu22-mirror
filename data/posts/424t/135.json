@@ -31,6 +31,11 @@
       "category": "과학교사 업무",
       "topic": "과학 행사",
       "confidence": "medium"
+    },
+    {
+      "category": "게시판별 분류",
+      "topic": "과학행사&과학실 Idea",
+      "confidence": "high"
     }
   ],
   "tagsNote": "행사 부스용 압화 책갈피 제작 아이디어. 크로마토그래피 등을 언급하지만 활동 자체는 공예에 가까움 — 낮은 확신도로 연결.",

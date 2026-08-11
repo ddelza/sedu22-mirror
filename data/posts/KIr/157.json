@@ -11,5 +11,12 @@
   "headCont": "",
   "contentval": "0002Xzzzzzzzzzzzzzzzzzzzzzzzzz",
   "permlink": "https://cafe.daum.net/sedu22/KIr/157",
-  "contentHtml": "<P>안녕하세요~</P>\r\n<P>학기 초라 다들 바쁘시죠?</P>\r\n<P>ㅋㅋ 정회원을 향하여~~</P>\n\t \t\t\t\t\t<!-- -->"
+  "contentHtml": "<P>안녕하세요~</P>\r\n<P>학기 초라 다들 바쁘시죠?</P>\r\n<P>ㅋㅋ 정회원을 향하여~~</P>\n\t \t\t\t\t\t<!-- -->",
+  "tags": [
+    {
+      "category": "게시판별 분류",
+      "topic": "자유공간",
+      "confidence": "high"
+    }
+  ]
 }

@@ -31,6 +31,11 @@
       "subject": "과학",
       "unit": "지권의 변화",
       "confidence": "medium"
+    },
+    {
+      "category": "게시판별 분류",
+      "topic": "거꾸로 교실(김신혜)",
+      "confidence": "high"
     }
   ],
   "tagsNote": "거꾸로 수업 관련 근본적 고민 — 판구조론(지권의 변화) 단원 난이도 언급.",

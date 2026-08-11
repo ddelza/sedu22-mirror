@@ -11,5 +11,12 @@
   "headCont": "",
   "contentval": "000E7zzzzzzzzzzzzzzzzzzzzzzzzz",
   "permlink": "https://cafe.daum.net/sedu22/fMHq/875",
-  "contentHtml": "<p><br></p><p>파일이 한번에 다 올라가지 않아서 추가합니다. ㅋ </p><p><br></p><p><br></p><p><br></p>\n\t \t\t\t\t\t<!-- -->"
+  "contentHtml": "<p><br></p><p>파일이 한번에 다 올라가지 않아서 추가합니다. ㅋ </p><p><br></p><p><br></p><p><br></p>\n\t \t\t\t\t\t<!-- -->",
+  "tags": [
+    {
+      "category": "게시판별 분류",
+      "topic": "중학교 화학수업 이야기",
+      "confidence": "high"
+    }
+  ]
 }

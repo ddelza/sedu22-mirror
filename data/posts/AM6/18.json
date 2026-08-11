@@ -24,6 +24,11 @@
       "subject": "과학",
       "unit": "열과 우리 생활",
       "confidence": "low"
+    },
+    {
+      "category": "게시판별 분류",
+      "topic": "수석교사의 방(2023~)",
+      "confidence": "high"
     }
   ],
   "tagsNote": "NSTA 펭귄 발 체온유지 탐구활동(Lab) 자료 — 열전달/단열 관련 활동으로 추정, 확신도 낮음.",

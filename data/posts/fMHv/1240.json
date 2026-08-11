@@ -11,5 +11,12 @@
   "headCont": "",
   "contentval": "000K0zzzzzzzzzzzzzzzzzzzzzzzzz",
   "permlink": "https://cafe.daum.net/sedu22/fMHv/1240",
-  "contentHtml": "<p class=\"cafe-editor-text\">저희학교 선생님이 만든건데요. 다 아시는 것 올릴수도 있지만 좋은 자료여서 올려보아요. 늘 도움 많이 받아 감사합니다</p>\n\t \t\t\t\t\t<!-- -->"
+  "contentHtml": "<p class=\"cafe-editor-text\">저희학교 선생님이 만든건데요. 다 아시는 것 올릴수도 있지만 좋은 자료여서 올려보아요. 늘 도움 많이 받아 감사합니다</p>\n\t \t\t\t\t\t<!-- -->",
+  "tags": [
+    {
+      "category": "게시판별 분류",
+      "topic": "중학교 지구과학수업 이야기",
+      "confidence": "high"
+    }
+  ]
 }

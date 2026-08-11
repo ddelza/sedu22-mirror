@@ -10,5 +10,12 @@
   "headCont": "",
   "contentval": "0003Pzzzzzzzzzzzzzzzzzzzzzzzzz",
   "permlink": "https://cafe.daum.net/sedu22/f02N/211",
-  "contentHtml": "<p>단원마무리 주관식 퀴즈를 내던 중에</p><p>갑자기 궁금해졌습니다. ^^;</p>\n\t \t\t\t\t\t<!-- -->"
+  "contentHtml": "<p>단원마무리 주관식 퀴즈를 내던 중에</p><p>갑자기 궁금해졌습니다. ^^;</p>\n\t \t\t\t\t\t<!-- -->",
+  "tags": [
+    {
+      "category": "게시판별 분류",
+      "topic": "옹알이(익명게시판)",
+      "confidence": "high"
+    }
+  ]
 }

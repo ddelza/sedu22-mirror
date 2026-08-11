@@ -22,6 +22,11 @@
       "category": "스마트 수업도구",
       "topic": "생성형 AI 도구",
       "confidence": "low"
+    },
+    {
+      "category": "게시판별 분류",
+      "topic": "과학행사&과학실 Idea",
+      "confidence": "high"
     }
   ],
   "tagsNote": "'양자역학의 해' 맞이 과학체험 행사 주간 기획(ChatGPT로 날짜 추천받음).",

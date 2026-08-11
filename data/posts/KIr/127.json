@@ -11,5 +11,12 @@
   "headCont": "",
   "contentval": "00023zzzzzzzzzzzzzzzzzzzzzzzzz",
   "permlink": "https://cafe.daum.net/sedu22/KIr/127",
-  "contentHtml": "<P>이사하셨군요.</P>\r\n<P>새학교로 옮기고 새로운 마음으로 과학수업을 하고 싶어 가입합니다. </P>\n\t \t\t\t\t\t<!-- -->"
+  "contentHtml": "<P>이사하셨군요.</P>\r\n<P>새학교로 옮기고 새로운 마음으로 과학수업을 하고 싶어 가입합니다. </P>\n\t \t\t\t\t\t<!-- -->",
+  "tags": [
+    {
+      "category": "게시판별 분류",
+      "topic": "자유공간",
+      "confidence": "high"
+    }
+  ]
 }

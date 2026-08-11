@@ -31,6 +31,11 @@
       "subject": "과학",
       "unit": "태양계",
       "confidence": "low"
+    },
+    {
+      "category": "게시판별 분류",
+      "topic": "거꾸로 교실(김신혜)",
+      "confidence": "high"
     }
   ],
   "tagsNote": "과학실 모둠 배치 방법 변경(태양계 단원 도입 연계).",

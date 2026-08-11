@@ -11,5 +11,12 @@
   "headCont": "",
   "contentval": "000AEzzzzzzzzzzzzzzzzzzzzzzzzz",
   "permlink": "https://cafe.daum.net/sedu22/KIr/634",
-  "contentHtml": "<p>과학대회에 대한 내용들은 각 시 도교육청 사이트에 올려져 있습니다</p>\n\t \t\t\t\t\t<!-- -->"
+  "contentHtml": "<p>과학대회에 대한 내용들은 각 시 도교육청 사이트에 올려져 있습니다</p>\n\t \t\t\t\t\t<!-- -->",
+  "tags": [
+    {
+      "category": "게시판별 분류",
+      "topic": "자유공간",
+      "confidence": "high"
+    }
+  ]
 }

@@ -11,5 +11,12 @@
   "headCont": "",
   "contentval": "0002Rzzzzzzzzzzzzzzzzzzzzzzzzz",
   "permlink": "https://cafe.daum.net/sedu22/fMHw/151",
-  "contentHtml": "<p>&nbsp;좋은영상 잘 보았습니다.</p>\n\t \t\t\t\t\t<!-- -->"
+  "contentHtml": "<p>&nbsp;좋은영상 잘 보았습니다.</p>\n\t \t\t\t\t\t<!-- -->",
+  "tags": [
+    {
+      "category": "게시판별 분류",
+      "topic": "중학교 환경&기술&재해안전&기타",
+      "confidence": "high"
+    }
+  ]
 }

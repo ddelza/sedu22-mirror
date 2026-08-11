@@ -11,5 +11,12 @@
   "headCont": "",
   "contentval": "000LKzzzzzzzzzzzzzzzzzzzzzzzzz",
   "permlink": "https://cafe.daum.net/sedu22/fMHp/1322",
-  "contentHtml": "<p style=\"text-align: left;\">보통 정전기에서 전기력(인력, 척력)을 설명하기때문에<br>동전기에서도 적용이 가능한 것인지요?</p>\n\t \t\t\t\t\t<!-- -->"
+  "contentHtml": "<p style=\"text-align: left;\">보통 정전기에서 전기력(인력, 척력)을 설명하기때문에<br>동전기에서도 적용이 가능한 것인지요?</p>\n\t \t\t\t\t\t<!-- -->",
+  "tags": [
+    {
+      "category": "게시판별 분류",
+      "topic": "중학교 물리수업 이야기",
+      "confidence": "high"
+    }
+  ]
 }

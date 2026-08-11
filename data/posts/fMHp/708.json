@@ -11,5 +11,12 @@
   "headCont": "에너지 전환",
   "contentval": "000BQzzzzzzzzzzzzzzzzzzzzzzzzz",
   "permlink": "https://cafe.daum.net/sedu22/fMHp/708",
-  "contentHtml": "<p style=\"text-align: left;\">전자기유도를중3 학생이 물어본 질문인데요..<br>어떻게 답을 해줘야 할까요?<br><br><br><br>제 생각에는, &#39;도선이 금속으로 이루어진 건 맞지만 도선이 아주 얇기 때문에 금속과 자석의 끌어당김보다는, 자석이 다가가 형성되는 코일 내부 자기장의 영향이 아주 훨씬 크다&#39; 인데 이렇게 설명해줘도 되는 걸까요..?</p>\n\t \t\t\t\t\t<!-- -->"
+  "contentHtml": "<p style=\"text-align: left;\">전자기유도를중3 학생이 물어본 질문인데요..<br>어떻게 답을 해줘야 할까요?<br><br><br><br>제 생각에는, &#39;도선이 금속으로 이루어진 건 맞지만 도선이 아주 얇기 때문에 금속과 자석의 끌어당김보다는, 자석이 다가가 형성되는 코일 내부 자기장의 영향이 아주 훨씬 크다&#39; 인데 이렇게 설명해줘도 되는 걸까요..?</p>\n\t \t\t\t\t\t<!-- -->",
+  "tags": [
+    {
+      "category": "게시판별 분류",
+      "topic": "중학교 물리수업 이야기",
+      "confidence": "high"
+    }
+  ]
 }

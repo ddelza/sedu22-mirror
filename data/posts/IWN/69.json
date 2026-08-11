@@ -11,5 +11,12 @@
   "headCont": "",
   "contentval": "00017zzzzzzzzzzzzzzzzzzzzzzzzz",
   "permlink": "https://cafe.daum.net/sedu22/IWN/69",
-  "contentHtml": "<P><A href=\"http://eduhope88.tistory.com/\">http://eduhope88.tistory.com/</A></P>\r\n<P>&nbsp;</P>\r\n<P>좋은 교육, 좋은 수업에 대한 </P>\r\n<P>이야기를 만날 수 있습니다.</P>\n\t \t\t\t\t\t<!-- -->"
+  "contentHtml": "<P><A href=\"http://eduhope88.tistory.com/\">http://eduhope88.tistory.com/</A></P>\r\n<P>&nbsp;</P>\r\n<P>좋은 교육, 좋은 수업에 대한 </P>\r\n<P>이야기를 만날 수 있습니다.</P>\n\t \t\t\t\t\t<!-- -->",
+  "tags": [
+    {
+      "category": "게시판별 분류",
+      "topic": "좋은 글 & 책",
+      "confidence": "high"
+    }
+  ]
 }

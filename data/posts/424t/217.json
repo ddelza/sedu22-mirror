@@ -27,6 +27,11 @@
       "category": "과학교사 업무",
       "topic": "과학 행사",
       "confidence": "medium"
+    },
+    {
+      "category": "게시판별 분류",
+      "topic": "과학행사&과학실 Idea",
+      "confidence": "high"
     }
   ],
   "tagsNote": "'과안지' 자율동아리가 안전수칙 뮤직비디오를 제작(교내 공모전 연계) — 동아리 운영+과학실 안전+행사 복합.",

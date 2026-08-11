@@ -17,6 +17,11 @@
       "category": "과학교사 업무",
       "topic": "동아리 운영",
       "confidence": "low"
+    },
+    {
+      "category": "게시판별 분류",
+      "topic": "과학행사&과학실 Idea",
+      "confidence": "high"
     }
   ],
   "tagsNote": "과학 동아리용 자료 요청(짧은 댓글).",

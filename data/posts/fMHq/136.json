@@ -11,5 +11,12 @@
   "headCont": "상태변화",
   "contentval": "0002Czzzzzzzzzzzzzzzzzzzzzzzzz",
   "permlink": "https://cafe.daum.net/sedu22/fMHq/136",
-  "contentHtml": "<p class=\"cafe-editor-text\">제가 예비실험으로 제과만에 올려져 있는 일회용 스포이트를 이용한 물의 어는점 실험을 했는데요.<br />물이 -2도까지 내려가서 충격을 주었더니 얼기 시작하며 1.9도에서 온도가 일정하게 유지되더라구요.<br />0도보다 높은 온도인데 그 이유가 무엇일까요? ㅠㅠ<br />이유를 알려주시길 분 계신가요.</p>\n\t \t\t\t\t\t<!-- -->"
+  "contentHtml": "<p class=\"cafe-editor-text\">제가 예비실험으로 제과만에 올려져 있는 일회용 스포이트를 이용한 물의 어는점 실험을 했는데요.<br />물이 -2도까지 내려가서 충격을 주었더니 얼기 시작하며 1.9도에서 온도가 일정하게 유지되더라구요.<br />0도보다 높은 온도인데 그 이유가 무엇일까요? ㅠㅠ<br />이유를 알려주시길 분 계신가요.</p>\n\t \t\t\t\t\t<!-- -->",
+  "tags": [
+    {
+      "category": "게시판별 분류",
+      "topic": "중학교 화학수업 이야기",
+      "confidence": "high"
+    }
+  ]
 }

@@ -11,5 +11,12 @@
   "headCont": "",
   "contentval": "00022zzzzzzzzzzzzzzzzzzzzzzzzz",
   "permlink": "https://cafe.daum.net/sedu22/KIr/126",
-  "contentHtml": "<P>항상 도움을 받았는데 카페로 옮겼네요...^^</P>\r\n<P>열심히 하도록 할께요....</P>\n\t \t\t\t\t\t<!-- -->"
+  "contentHtml": "<P>항상 도움을 받았는데 카페로 옮겼네요...^^</P>\r\n<P>열심히 하도록 할께요....</P>\n\t \t\t\t\t\t<!-- -->",
+  "tags": [
+    {
+      "category": "게시판별 분류",
+      "topic": "자유공간",
+      "confidence": "high"
+    }
+  ]
 }

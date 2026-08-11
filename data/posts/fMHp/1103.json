@@ -11,5 +11,12 @@
   "headCont": "",
   "contentval": "000Hnzzzzzzzzzzzzzzzzzzzzzzzzz",
   "permlink": "https://cafe.daum.net/sedu22/fMHp/1103",
-  "contentHtml": "<p class=\"cafe-editor-text\">동아리 수업 준비 중인데요.<br /><br />롤러코스터를 만들어보고 싶어요.<br /><br />좋은 아이디어나 재료 팁 좀 주세요.<br /><br />과정안에는 쫄대를 써라고 하는데... 이게 잘 휘나요?</p>\n\t \t\t\t\t\t<!-- -->"
+  "contentHtml": "<p class=\"cafe-editor-text\">동아리 수업 준비 중인데요.<br /><br />롤러코스터를 만들어보고 싶어요.<br /><br />좋은 아이디어나 재료 팁 좀 주세요.<br /><br />과정안에는 쫄대를 써라고 하는데... 이게 잘 휘나요?</p>\n\t \t\t\t\t\t<!-- -->",
+  "tags": [
+    {
+      "category": "게시판별 분류",
+      "topic": "중학교 물리수업 이야기",
+      "confidence": "high"
+    }
+  ]
 }

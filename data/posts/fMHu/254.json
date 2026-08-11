@@ -11,5 +11,12 @@
   "headCont": "식물과 에너지",
   "contentval": "00046zzzzzzzzzzzzzzzzzzzzzzzzz",
   "permlink": "https://cafe.daum.net/sedu22/fMHu/254",
-  "contentHtml": "<p class=\"cafe-editor-text\"><a href=\"https://youtu.be/nLzi3fkXGqA\">https://youtu.be/nLzi3fkXGqA</a><br />식물의 호흡과 에너지 컨텐츠 영상입니다</p>\n\t \t\t\t\t\t<!-- -->"
+  "contentHtml": "<p class=\"cafe-editor-text\"><a href=\"https://youtu.be/nLzi3fkXGqA\">https://youtu.be/nLzi3fkXGqA</a><br />식물의 호흡과 에너지 컨텐츠 영상입니다</p>\n\t \t\t\t\t\t<!-- -->",
+  "tags": [
+    {
+      "category": "게시판별 분류",
+      "topic": "중학교 생물수업 이야기",
+      "confidence": "high"
+    }
+  ]
 }

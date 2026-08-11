@@ -11,5 +11,12 @@
   "headCont": "",
   "contentval": "0001Hzzzzzzzzzzzzzzzzzzzzzzzzz",
   "permlink": "https://cafe.daum.net/sedu22/fJoO/79",
-  "contentHtml": "<p>좀 길지만, 단원들에게는 모두 소중한 순간들입니다.<br><a href=\"https://www.youtube.com/watch?v=uY5PSB8YTzQ\" target=\"_blank\" class=\"ke-link\">https://www.youtube.com/watch?v=uY5PSB8YTzQ</a></p>\n\t \t\t\t\t\t<!-- -->"
+  "contentHtml": "<p>좀 길지만, 단원들에게는 모두 소중한 순간들입니다.<br><a href=\"https://www.youtube.com/watch?v=uY5PSB8YTzQ\" target=\"_blank\" class=\"ke-link\">https://www.youtube.com/watch?v=uY5PSB8YTzQ</a></p>\n\t \t\t\t\t\t<!-- -->",
+  "tags": [
+    {
+      "category": "게시판별 분류",
+      "topic": "인도네시아 교육봉사(2026)",
+      "confidence": "high"
+    }
+  ]
 }

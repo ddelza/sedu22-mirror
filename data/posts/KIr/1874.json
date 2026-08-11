@@ -11,5 +11,12 @@
   "headCont": "",
   "contentval": "000UEzzzzzzzzzzzzzzzzzzzzzzzzz",
   "permlink": "https://cafe.daum.net/sedu22/KIr/1874",
-  "contentHtml": "<p style=\"text-align: left;\">중 1. 2. 3학년 학생들이 볼만한 재미있는 넷플릭스 영화 있나여? 넷플릭스 오리지널도 상관없습니다. 인터스텔라 마션 승리호는 너무 너무 많이 봐서 지겹다 하네요</p>\n\t \t\t\t\t\t<!-- -->"
+  "contentHtml": "<p style=\"text-align: left;\">중 1. 2. 3학년 학생들이 볼만한 재미있는 넷플릭스 영화 있나여? 넷플릭스 오리지널도 상관없습니다. 인터스텔라 마션 승리호는 너무 너무 많이 봐서 지겹다 하네요</p>\n\t \t\t\t\t\t<!-- -->",
+  "tags": [
+    {
+      "category": "게시판별 분류",
+      "topic": "자유공간",
+      "confidence": "high"
+    }
+  ]
 }

@@ -11,5 +11,12 @@
   "headCont": "",
   "contentval": "0000Nzzzzzzzzzzzzzzzzzzzzzzzzz",
   "permlink": "https://cafe.daum.net/sedu22/KIr/23",
-  "contentHtml": "<P>2월 7일에 sedu21.com&nbsp;홈페이지가 문을 닫습니다.<BR><BR>필요한 자료는 <BR>지금 바로</P>\r\n<P><A href=\"http://www.sedu21.com\">www.sedu21.com</A>에서<BR>다운로드 받아두세요.<BR></P>\r\n<P>고맙습니다.</P>\n\t \t\t\t\t\t<!-- -->"
+  "contentHtml": "<P>2월 7일에 sedu21.com&nbsp;홈페이지가 문을 닫습니다.<BR><BR>필요한 자료는 <BR>지금 바로</P>\r\n<P><A href=\"http://www.sedu21.com\">www.sedu21.com</A>에서<BR>다운로드 받아두세요.<BR></P>\r\n<P>고맙습니다.</P>\n\t \t\t\t\t\t<!-- -->",
+  "tags": [
+    {
+      "category": "게시판별 분류",
+      "topic": "자유공간",
+      "confidence": "high"
+    }
+  ]
 }

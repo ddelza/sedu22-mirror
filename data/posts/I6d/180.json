@@ -11,5 +11,12 @@
   "headCont": "",
   "contentval": "0002uzzzzzzzzzzzzzzzzzzzzzzzzz",
   "permlink": "https://cafe.daum.net/sedu22/I6d/180",
-  "contentHtml": "<p style=\"text-align: left;\">수행평가로 A30 B40 C30 정도의 분배를 생각하고 있었는데 생각보다 학생들이 수행을 너무 잘 봐서요,<br>혹시 이런 경우 50퍼센트 이상의 학생에게 A를 줘도 될까요?</p>\n\t \t\t\t\t\t<!-- -->"
+  "contentHtml": "<p style=\"text-align: left;\">수행평가로 A30 B40 C30 정도의 분배를 생각하고 있었는데 생각보다 학생들이 수행을 너무 잘 봐서요,<br>혹시 이런 경우 50퍼센트 이상의 학생에게 A를 줘도 될까요?</p>\n\t \t\t\t\t\t<!-- -->",
+  "tags": [
+    {
+      "category": "게시판별 분류",
+      "topic": "평가 Ideas",
+      "confidence": "high"
+    }
+  ]
 }

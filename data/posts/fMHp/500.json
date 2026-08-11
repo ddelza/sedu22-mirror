@@ -11,5 +11,12 @@
   "headCont": "열",
   "contentval": "00084zzzzzzzzzzzzzzzzzzzzzzzzz",
   "permlink": "https://cafe.daum.net/sedu22/fMHp/500",
-  "contentHtml": "<p>열량과 비열 영어로 검색해도 유추가 안되네요..</p><p>&#160;</p>\n\t \t\t\t\t\t<!-- -->"
+  "contentHtml": "<p>열량과 비열 영어로 검색해도 유추가 안되네요..</p><p>&#160;</p>\n\t \t\t\t\t\t<!-- -->",
+  "tags": [
+    {
+      "category": "게시판별 분류",
+      "topic": "중학교 물리수업 이야기",
+      "confidence": "high"
+    }
+  ]
 }

@@ -11,5 +11,12 @@
   "headCont": "",
   "contentval": "0000Ezzzzzzzzzzzzzzzzzzzzzzzzz",
   "permlink": "https://cafe.daum.net/sedu22/fDsg/14",
-  "contentHtml": "<p style=\"text-align: left;\">여릉방학 잘 보내셨구요?<br><br>이번 방학기간에<br>연수, 출장, 독서, 여행, 인터넷 검색에서 알게된<br><br>&#39;재미있는 과학수업 아이디어&#39;<br> 함께 나눠주세요♡<br><br></p>\n\t \t\t\t\t\t<!-- -->"
+  "contentHtml": "<p style=\"text-align: left;\">여릉방학 잘 보내셨구요?<br><br>이번 방학기간에<br>연수, 출장, 독서, 여행, 인터넷 검색에서 알게된<br><br>&#39;재미있는 과학수업 아이디어&#39;<br> 함께 나눠주세요♡<br><br></p>\n\t \t\t\t\t\t<!-- -->",
+  "tags": [
+    {
+      "category": "게시판별 분류",
+      "topic": "재과만 공지",
+      "confidence": "high"
+    }
+  ]
 }

@@ -11,5 +11,12 @@
   "headCont": "",
   "contentval": "0005yzzzzzzzzzzzzzzzzzzzzzzzzz",
   "permlink": "https://cafe.daum.net/sedu22/evuJ/370",
-  "contentHtml": "<p style=\"text-align: left;\">화학선생님들 한글에서 화학식 작성하실때 번거로우시죠?<br>수식을 활용하는 분들도 계실것 같고<br>첨자를 활용하는 분도 있을 것 같습니다.<br>(저는 첨자에 단축기 지정하여 만들고 있었습니다.)<br>자동으로 첨자를 인식하는 페이지를 만들었습니다.<br>활동지 작성이나 시험문제 출제시 활용하세요.<br>그럴일은 없으나 식 유출이 걱정되시면 html파일을 받아서 pc전용으로 쓰셔도 됩니다.<br><br><a href=\"https://osanchem.github.io/chemc/\" target=\"_blank\" class=\"ke-link\">https://osanchem.github.io/chemc/</a></p>\n\t \t\t\t\t\t<!-- -->"
+  "contentHtml": "<p style=\"text-align: left;\">화학선생님들 한글에서 화학식 작성하실때 번거로우시죠?<br>수식을 활용하는 분들도 계실것 같고<br>첨자를 활용하는 분도 있을 것 같습니다.<br>(저는 첨자에 단축기 지정하여 만들고 있었습니다.)<br>자동으로 첨자를 인식하는 페이지를 만들었습니다.<br>활동지 작성이나 시험문제 출제시 활용하세요.<br>그럴일은 없으나 식 유출이 걱정되시면 html파일을 받아서 pc전용으로 쓰셔도 됩니다.<br><br><a href=\"https://osanchem.github.io/chemc/\" target=\"_blank\" class=\"ke-link\">https://osanchem.github.io/chemc/</a></p>\n\t \t\t\t\t\t<!-- -->",
+  "tags": [
+    {
+      "category": "게시판별 분류",
+      "topic": "AI도구 활용하기",
+      "confidence": "high"
+    }
+  ]
 }

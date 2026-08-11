@@ -11,5 +11,12 @@
   "headCont": "",
   "contentval": "0001Szzzzzzzzzzzzzzzzzzzzzzzzz",
   "permlink": "https://cafe.daum.net/sedu22/fBlk/90",
-  "contentHtml": "<p>222 행사에서 소개해주셨던</p><p>평가 아이디어를 공유해주세요~</p><p>&#160;</p><p>함께 해주셔서 고맙습니다!</p>\n\t \t\t\t\t\t<!-- -->"
+  "contentHtml": "<p>222 행사에서 소개해주셨던</p><p>평가 아이디어를 공유해주세요~</p><p>&#160;</p><p>함께 해주셔서 고맙습니다!</p>\n\t \t\t\t\t\t<!-- -->",
+  "tags": [
+    {
+      "category": "게시판별 분류",
+      "topic": "재과만 정기행사",
+      "confidence": "high"
+    }
+  ]
 }

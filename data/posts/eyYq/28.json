@@ -11,5 +11,12 @@
   "headCont": "물리",
   "contentval": "0000Szzzzzzzzzzzzzzzzzzzzzzzzz",
   "permlink": "https://cafe.daum.net/sedu22/eyYq/28",
-  "contentHtml": "<p class=\"cafe-editor-text\">#전기와 자기 #정전기 #동기유발<br /></p><p><img src='https://t1.daumcdn.net/cafeattach/1TaBA/6f35fa31455e5ea3fb0d896c31871c5dba1f89c2' class=\"txc-image\" /></p><p class=\"cafe-editor-text\">너무 귀엽네요!^^</p>\n\t \t\t\t\t\t<!-- -->"
+  "contentHtml": "<p class=\"cafe-editor-text\">#전기와 자기 #정전기 #동기유발<br /></p><p><img src='https://t1.daumcdn.net/cafeattach/1TaBA/6f35fa31455e5ea3fb0d896c31871c5dba1f89c2' class=\"txc-image\" /></p><p class=\"cafe-editor-text\">너무 귀엽네요!^^</p>\n\t \t\t\t\t\t<!-- -->",
+  "tags": [
+    {
+      "category": "게시판별 분류",
+      "topic": "과학쌤의 짤주머니",
+      "confidence": "high"
+    }
+  ]
 }

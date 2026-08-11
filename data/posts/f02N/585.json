@@ -10,5 +10,12 @@
   "headCont": "교과질문",
   "contentval": "0009Rzzzzzzzzzzzzzzzzzzzzzzzzz",
   "permlink": "https://cafe.daum.net/sedu22/f02N/585",
-  "contentHtml": "<p>유전자형이 뚜렷하다고 써도 맞는 말인가요?</p>\n\t \t\t\t\t\t<!-- -->"
+  "contentHtml": "<p>유전자형이 뚜렷하다고 써도 맞는 말인가요?</p>\n\t \t\t\t\t\t<!-- -->",
+  "tags": [
+    {
+      "category": "게시판별 분류",
+      "topic": "옹알이(익명게시판)",
+      "confidence": "high"
+    }
+  ]
 }

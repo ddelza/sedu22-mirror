@@ -11,5 +11,12 @@
   "headCont": "",
   "contentval": "0006wzzzzzzzzzzzzzzzzzzzzzzzzz",
   "permlink": "https://cafe.daum.net/sedu22/fMHw/430",
-  "contentHtml": "<p>중등과학을 한권으로 총 정리할수 있는 책이 있을까요?/</p>\n\t \t\t\t\t\t<!-- -->"
+  "contentHtml": "<p>중등과학을 한권으로 총 정리할수 있는 책이 있을까요?/</p>\n\t \t\t\t\t\t<!-- -->",
+  "tags": [
+    {
+      "category": "게시판별 분류",
+      "topic": "중학교 환경&기술&재해안전&기타",
+      "confidence": "high"
+    }
+  ]
 }

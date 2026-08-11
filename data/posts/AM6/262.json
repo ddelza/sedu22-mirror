@@ -19,6 +19,11 @@
       "subject": null,
       "unit": "미분류",
       "confidence": "high"
+    },
+    {
+      "category": "게시판별 분류",
+      "topic": "수석교사의 방(2023~)",
+      "confidence": "high"
     }
   ],
   "tagsNote": "ASTE 학회 포스터 발표(교사 전문성 개발 연구) 개인 요약, 과학 수업/업무와 무관.",

@@ -11,5 +11,12 @@
   "headCont": "",
   "contentval": "000UZzzzzzzzzzzzzzzzzzzzzzzzzz",
   "permlink": "https://cafe.daum.net/sedu22/KIr/1895",
-  "contentHtml": "<p style=\"text-align: left;\">보통 과학 1정 연수는 하계인가요???<br>올해 일정은 언제쯤 나오나요???</p>\n\t \t\t\t\t\t<!-- -->"
+  "contentHtml": "<p style=\"text-align: left;\">보통 과학 1정 연수는 하계인가요???<br>올해 일정은 언제쯤 나오나요???</p>\n\t \t\t\t\t\t<!-- -->",
+  "tags": [
+    {
+      "category": "게시판별 분류",
+      "topic": "자유공간",
+      "confidence": "high"
+    }
+  ]
 }

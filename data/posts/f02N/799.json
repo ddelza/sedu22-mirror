@@ -10,5 +10,12 @@
   "headCont": "",
   "contentval": "000Ctzzzzzzzzzzzzzzzzzzzzzzzzz",
   "permlink": "https://cafe.daum.net/sedu22/f02N/799",
-  "contentHtml": "<p style=\"text-align: left;\">실험 중에 장난치고 떠드는 애들때문에 너무 힘듭니다..<br>선생님들은 어떻게 하세요..?</p>\n\t \t\t\t\t\t<!-- -->"
+  "contentHtml": "<p style=\"text-align: left;\">실험 중에 장난치고 떠드는 애들때문에 너무 힘듭니다..<br>선생님들은 어떻게 하세요..?</p>\n\t \t\t\t\t\t<!-- -->",
+  "tags": [
+    {
+      "category": "게시판별 분류",
+      "topic": "옹알이(익명게시판)",
+      "confidence": "high"
+    }
+  ]
 }

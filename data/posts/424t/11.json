@@ -12,7 +12,13 @@
   "contentval": "0000Bzzzzzzzzzzzzzzzzzzzzzzzzz",
   "permlink": "https://cafe.daum.net/sedu22/424t/11",
   "contentHtml": "<P>교내 과학의 날 행사로 1.2.3학년 대상으로 과학 골든벨을 하려고 하는데 문제 선정에 어려움이 있네요. 흥미롭고 좋은 문제가 있으시면 부탁드려요^^</P>\n\t \t\t\t\t\t<!-- -->",
-  "tags": [],
+  "tags": [
+    {
+      "category": "게시판별 분류",
+      "topic": "과학행사&과학실 Idea",
+      "confidence": "high"
+    }
+  ],
   "tagsNote": "교내 과학의 날 행사 관련 일반적인 과학 퀴즈 문제 요청으로, 특정 교육과정 단원에 직접적으로 매칭하기 어렵습니다.",
   "taggedAt": "2026-08-11T14:39:21.553Z"
 }

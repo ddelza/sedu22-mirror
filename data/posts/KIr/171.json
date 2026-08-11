@@ -11,5 +11,12 @@
   "headCont": "",
   "contentval": "0002lzzzzzzzzzzzzzzzzzzzzzzzzz",
   "permlink": "https://cafe.daum.net/sedu22/KIr/171",
-  "contentHtml": "<P>늘 보기만 하다 가입했어요...</P>\r\n<P>선생님들의 열정이 감동입니다.^^</P>\n\t \t\t\t\t\t<!-- -->"
+  "contentHtml": "<P>늘 보기만 하다 가입했어요...</P>\r\n<P>선생님들의 열정이 감동입니다.^^</P>\n\t \t\t\t\t\t<!-- -->",
+  "tags": [
+    {
+      "category": "게시판별 분류",
+      "topic": "자유공간",
+      "confidence": "high"
+    }
+  ]
 }

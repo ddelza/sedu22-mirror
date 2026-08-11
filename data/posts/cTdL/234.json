@@ -11,5 +11,12 @@
   "headCont": "",
   "contentval": "0003mzzzzzzzzzzzzzzzzzzzzzzzzz",
   "permlink": "https://cafe.daum.net/sedu22/cTdL/234",
-  "contentHtml": "<p>다들 모션샷 쓰시는 것 같은데 모션샷 어플이 사라진 것 같아서요.. ㅜㅠ</p>\n\t \t\t\t\t\t<!-- -->"
+  "contentHtml": "<p>다들 모션샷 쓰시는 것 같은데 모션샷 어플이 사라진 것 같아서요.. ㅜㅠ</p>\n\t \t\t\t\t\t<!-- -->",
+  "tags": [
+    {
+      "category": "게시판별 분류",
+      "topic": "고1과학&탐구실험",
+      "confidence": "high"
+    }
+  ]
 }

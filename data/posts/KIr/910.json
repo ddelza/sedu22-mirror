@@ -11,5 +11,12 @@
   "headCont": "",
   "contentval": "000Egzzzzzzzzzzzzzzzzzzzzzzzzz",
   "permlink": "https://cafe.daum.net/sedu22/KIr/910",
-  "contentHtml": "<p>오늘 가입한 새내기 회원입니다.</p><p>가입하자 마자 대단히 죄송한 부탁이지만</p><p>정회원 등업 부탁드려봅니다.</p><p>감사합니다.<br></p>\n\t \t\t\t\t\t<!-- -->"
+  "contentHtml": "<p>오늘 가입한 새내기 회원입니다.</p><p>가입하자 마자 대단히 죄송한 부탁이지만</p><p>정회원 등업 부탁드려봅니다.</p><p>감사합니다.<br></p>\n\t \t\t\t\t\t<!-- -->",
+  "tags": [
+    {
+      "category": "게시판별 분류",
+      "topic": "자유공간",
+      "confidence": "high"
+    }
+  ]
 }

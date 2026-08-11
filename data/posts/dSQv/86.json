@@ -11,5 +11,12 @@
   "headCont": "",
   "contentval": "0001Ozzzzzzzzzzzzzzzzzzzzzzzzz",
   "permlink": "https://cafe.daum.net/sedu22/dSQv/86",
-  "contentHtml": "<p class=\"cafe-editor-text\">자유학기 과학과  주제 선택프로그램을 운영해야 하는데요~<br />혹시 추천해주실 좋은 프로그램 있으신 분 도와주세요~</p>\n\t \t\t\t\t\t<!-- -->"
+  "contentHtml": "<p class=\"cafe-editor-text\">자유학기 과학과  주제 선택프로그램을 운영해야 하는데요~<br />혹시 추천해주실 좋은 프로그램 있으신 분 도와주세요~</p>\n\t \t\t\t\t\t<!-- -->",
+  "tags": [
+    {
+      "category": "게시판별 분류",
+      "topic": "자유학기 수업",
+      "confidence": "high"
+    }
+  ]
 }

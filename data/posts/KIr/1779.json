@@ -11,5 +11,12 @@
   "headCont": "",
   "contentval": "000Shzzzzzzzzzzzzzzzzzzzzzzzzz",
   "permlink": "https://cafe.daum.net/sedu22/KIr/1779",
-  "contentHtml": "<p style=\"text-align: left;\">일부 그림을 사용하고싶은데<br>스캔말고 다운받을 수는 없나요?</p>\n\t \t\t\t\t\t<!-- -->"
+  "contentHtml": "<p style=\"text-align: left;\">일부 그림을 사용하고싶은데<br>스캔말고 다운받을 수는 없나요?</p>\n\t \t\t\t\t\t<!-- -->",
+  "tags": [
+    {
+      "category": "게시판별 분류",
+      "topic": "자유공간",
+      "confidence": "high"
+    }
+  ]
 }

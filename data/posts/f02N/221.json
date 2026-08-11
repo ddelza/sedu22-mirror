@@ -10,5 +10,12 @@
   "headCont": "",
   "contentval": "0003Zzzzzzzzzzzzzzzzzzzzzzzzzz",
   "permlink": "https://cafe.daum.net/sedu22/f02N/221",
-  "contentHtml": "<p style=\"text-align: left;\">개학 임박해서 준비하네요ㅠ<br><br></p>\n\t \t\t\t\t\t<!-- -->"
+  "contentHtml": "<p style=\"text-align: left;\">개학 임박해서 준비하네요ㅠ<br><br></p>\n\t \t\t\t\t\t<!-- -->",
+  "tags": [
+    {
+      "category": "게시판별 분류",
+      "topic": "옹알이(익명게시판)",
+      "confidence": "high"
+    }
+  ]
 }

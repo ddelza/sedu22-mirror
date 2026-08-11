@@ -11,5 +11,12 @@
   "headCont": "동물과 에너지",
   "contentval": "0005Qzzzzzzzzzzzzzzzzzzzzzzzzz",
   "permlink": "https://cafe.daum.net/sedu22/fMHu/336",
-  "contentHtml": "<p>(세포호흡을 하여 얻은 에너지는 100% 생명활동에 이용된다.) 라는 내용이 맞는 건가요? 100%라는 부분이 걸려서 여쭤 봅니다.</p>\n\t \t\t\t\t\t<!-- -->"
+  "contentHtml": "<p>(세포호흡을 하여 얻은 에너지는 100% 생명활동에 이용된다.) 라는 내용이 맞는 건가요? 100%라는 부분이 걸려서 여쭤 봅니다.</p>\n\t \t\t\t\t\t<!-- -->",
+  "tags": [
+    {
+      "category": "게시판별 분류",
+      "topic": "중학교 생물수업 이야기",
+      "confidence": "high"
+    }
+  ]
 }

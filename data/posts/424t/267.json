@@ -17,6 +17,11 @@
       "category": "과학교사 업무",
       "topic": "과학 행사",
       "confidence": "high"
+    },
+    {
+      "category": "게시판별 분류",
+      "topic": "과학행사&과학실 Idea",
+      "confidence": "high"
     }
   ],
   "tagsNote": "수상 대입 미반영 상황에서 과학의달 행사 고민.",

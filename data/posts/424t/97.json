@@ -22,6 +22,11 @@
       "category": "과학교사 업무",
       "topic": "동아리 운영",
       "confidence": "medium"
+    },
+    {
+      "category": "게시판별 분류",
+      "topic": "과학행사&과학실 Idea",
+      "confidence": "high"
     }
   ],
   "tagsNote": "'런치오픈랩' 행사(과학자율동아리 학생 주도) 운영 후기.",

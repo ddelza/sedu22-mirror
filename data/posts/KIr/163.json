@@ -11,5 +11,12 @@
   "headCont": "",
   "contentval": "0002dzzzzzzzzzzzzzzzzzzzzzzzzz",
   "permlink": "https://cafe.daum.net/sedu22/KIr/163",
-  "contentHtml": "<P>대구에서 과학 교사를 하고 있습니다.</P>\r\n<P>많은~~ 자료 공유하였으면 좋겠습니다.</P>\r\n<P>감사합니다.^^~~~</P>\n\t \t\t\t\t\t<!-- -->"
+  "contentHtml": "<P>대구에서 과학 교사를 하고 있습니다.</P>\r\n<P>많은~~ 자료 공유하였으면 좋겠습니다.</P>\r\n<P>감사합니다.^^~~~</P>\n\t \t\t\t\t\t<!-- -->",
+  "tags": [
+    {
+      "category": "게시판별 분류",
+      "topic": "자유공간",
+      "confidence": "high"
+    }
+  ]
 }

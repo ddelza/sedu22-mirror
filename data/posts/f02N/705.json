@@ -10,5 +10,12 @@
   "headCont": "",
   "contentval": "000BNzzzzzzzzzzzzzzzzzzzzzzzzz",
   "permlink": "https://cafe.daum.net/sedu22/f02N/705",
-  "contentHtml": "<p style=\"text-align: left;\">막막한 것 투성이인데 좋은 자료들이 많아서 놀랐어요 감사한 분들이 많네요&#129401;</p>\n\t \t\t\t\t\t<!-- -->"
+  "contentHtml": "<p style=\"text-align: left;\">막막한 것 투성이인데 좋은 자료들이 많아서 놀랐어요 감사한 분들이 많네요&#129401;</p>\n\t \t\t\t\t\t<!-- -->",
+  "tags": [
+    {
+      "category": "게시판별 분류",
+      "topic": "옹알이(익명게시판)",
+      "confidence": "high"
+    }
+  ]
 }

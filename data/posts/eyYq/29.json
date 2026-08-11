@@ -11,5 +11,12 @@
   "headCont": "생물",
   "contentval": "0000Tzzzzzzzzzzzzzzzzzzzzzzzzz",
   "permlink": "https://cafe.daum.net/sedu22/eyYq/29",
-  "contentHtml": "<p class=\"cafe-editor-text\">#근수축 #근피로 #무산소운동 #젖산<br /></p><p><img src='https://t1.daumcdn.net/cafeattach/1TaBA/9885db54daddbaa55370452a78f9a51b17047c67' class=\"txc-image\" /></p><p><img src='https://t1.daumcdn.net/cafeattach/1TaBA/1481f1e145e5f6e30a74e59163ecdbdbe03d2186' class=\"txc-image\" /></p>\n\t \t\t\t\t\t<!-- -->"
+  "contentHtml": "<p class=\"cafe-editor-text\">#근수축 #근피로 #무산소운동 #젖산<br /></p><p><img src='https://t1.daumcdn.net/cafeattach/1TaBA/9885db54daddbaa55370452a78f9a51b17047c67' class=\"txc-image\" /></p><p><img src='https://t1.daumcdn.net/cafeattach/1TaBA/1481f1e145e5f6e30a74e59163ecdbdbe03d2186' class=\"txc-image\" /></p>\n\t \t\t\t\t\t<!-- -->",
+  "tags": [
+    {
+      "category": "게시판별 분류",
+      "topic": "과학쌤의 짤주머니",
+      "confidence": "high"
+    }
+  ]
 }

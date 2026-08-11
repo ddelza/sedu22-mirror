@@ -11,5 +11,12 @@
   "headCont": "",
   "contentval": "0000Azzzzzzzzzzzzzzzzzzzzzzzzz",
   "permlink": "https://cafe.daum.net/sedu22/fBlf/10",
-  "contentHtml": "<p>불행하게도</p><p>영상녹화가 제대로 되지 않아&#160;</p><p>9회 영상은 존재하지 않습니다.</p><p>&#160;</p><p>안타깝네요. ㅠㅠ</p>\n\t \t\t\t\t\t<!-- -->"
+  "contentHtml": "<p>불행하게도</p><p>영상녹화가 제대로 되지 않아&#160;</p><p>9회 영상은 존재하지 않습니다.</p><p>&#160;</p><p>안타깝네요. ㅠㅠ</p>\n\t \t\t\t\t\t<!-- -->",
+  "tags": [
+    {
+      "category": "게시판별 분류",
+      "topic": "재과만 talk 영상(1회~100회)",
+      "confidence": "high"
+    }
+  ]
 }

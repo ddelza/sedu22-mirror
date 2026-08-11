@@ -11,5 +11,12 @@
   "headCont": "",
   "contentval": "0005czzzzzzzzzzzzzzzzzzzzzzzzz",
   "permlink": "https://cafe.daum.net/sedu22/F1n/348",
-  "contentHtml": "<p class=\"cafe-editor-text\">미래앤 출판에서 거꾸로 수업 자료집 배부하는데<br />회원가입이나 로그인과정없어요<br />오늘이 신청 마감이라는거..<br />요래하면 링크되나요?<br /><a href=\"http://www.m-teacher.co.kr/events/2017lbook/2017lbook_main.asp#chk\">http://www.m-teacher.co.kr/events/2017lbook/2017lbook_main.asp#chk</a></p>\n\t \t\t\t\t\t<!-- -->"
+  "contentHtml": "<p class=\"cafe-editor-text\">미래앤 출판에서 거꾸로 수업 자료집 배부하는데<br />회원가입이나 로그인과정없어요<br />오늘이 신청 마감이라는거..<br />요래하면 링크되나요?<br /><a href=\"http://www.m-teacher.co.kr/events/2017lbook/2017lbook_main.asp#chk\">http://www.m-teacher.co.kr/events/2017lbook/2017lbook_main.asp#chk</a></p>\n\t \t\t\t\t\t<!-- -->",
+  "tags": [
+    {
+      "category": "게시판별 분류",
+      "topic": "수업 Ideas",
+      "confidence": "high"
+    }
+  ]
 }

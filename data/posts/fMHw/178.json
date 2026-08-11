@@ -11,5 +11,12 @@
   "headCont": "",
   "contentval": "0002szzzzzzzzzzzzzzzzzzzzzzzzz",
   "permlink": "https://cafe.daum.net/sedu22/fMHw/178",
-  "contentHtml": "<p style=\"text-align: left;\">교구비로 영구프레파라트를 구입했는데 교구등록을 따로 하지않나요??<br>가격은165000원입니다</p>\n\t \t\t\t\t\t<!-- -->"
+  "contentHtml": "<p style=\"text-align: left;\">교구비로 영구프레파라트를 구입했는데 교구등록을 따로 하지않나요??<br>가격은165000원입니다</p>\n\t \t\t\t\t\t<!-- -->",
+  "tags": [
+    {
+      "category": "게시판별 분류",
+      "topic": "중학교 환경&기술&재해안전&기타",
+      "confidence": "high"
+    }
+  ]
 }

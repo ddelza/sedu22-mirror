@@ -11,5 +11,12 @@
   "headCont": "",
   "contentval": "000B4zzzzzzzzzzzzzzzzzzzzzzzzz",
   "permlink": "https://cafe.daum.net/sedu22/KIr/686",
-  "contentHtml": "<p class=\"cafe-editor-text\">천체망원경을 써본적은 없는데 <br />이번에 예산이 생겨서 구입해보려고 합니다<br />조작하기 쉬운 초보용 망원경으론 뭐가 좋을까요??<br />가격대는 40생각하고 있습니다</p>\n\t \t\t\t\t\t<!-- -->"
+  "contentHtml": "<p class=\"cafe-editor-text\">천체망원경을 써본적은 없는데 <br />이번에 예산이 생겨서 구입해보려고 합니다<br />조작하기 쉬운 초보용 망원경으론 뭐가 좋을까요??<br />가격대는 40생각하고 있습니다</p>\n\t \t\t\t\t\t<!-- -->",
+  "tags": [
+    {
+      "category": "게시판별 분류",
+      "topic": "자유공간",
+      "confidence": "high"
+    }
+  ]
 }

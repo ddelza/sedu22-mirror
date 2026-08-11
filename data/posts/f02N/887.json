@@ -10,5 +10,12 @@
   "headCont": "",
   "contentval": "000EJzzzzzzzzzzzzzzzzzzzzzzzzz",
   "permlink": "https://cafe.daum.net/sedu22/f02N/887",
-  "contentHtml": "<p>Vr 앱은 비품일까요?</p>\n\t \t\t\t\t\t<!-- -->"
+  "contentHtml": "<p>Vr 앱은 비품일까요?</p>\n\t \t\t\t\t\t<!-- -->",
+  "tags": [
+    {
+      "category": "게시판별 분류",
+      "topic": "옹알이(익명게시판)",
+      "confidence": "high"
+    }
+  ]
 }

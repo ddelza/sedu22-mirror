@@ -11,5 +11,12 @@
   "headCont": "",
   "contentval": "0003Wzzzzzzzzzzzzzzzzzzzzzzzzz",
   "permlink": "https://cafe.daum.net/sedu22/eyYq/218",
-  "contentHtml": "<p style=\"text-align: justify;\">아래 영상의 대사는<br>과학적으로 정확한가요? ~<br><br><a href=\"https://youtu.be/a82SdunHMKw?si=xKtauF7cznSqJvJE\" target=\"_blank\" class=\"ke-link\">https://youtu.be/a82SdunHMKw?si=xKtauF7cznSqJvJE</a></p><div class=\"figure-video\" data-ke-type=\"video\" data-video-url=\"https://www.youtube.com/watch?v=a82SdunHMKw\" data-video-host=\"youtube\" data-video-play-service=\"daum_cafe\" data-video-width=\"1280\" data-video-height=\"720\" data-ke-style=\"alignCenter\" data-video-thumbnail=\"http://scrap.kakaocdn.net/dn/bjOj7p/bl4Lji0nsCL/bISRwu1lhcDVWA1BLb4vsK/kakaolink40_original.jpg?width=1280&amp;height=720\" data-ke-mobile-mobilestyle=\"widthFull\" data-video-origin-width=\"1280\" data-video-origin-height=\"720\"><iframe src=\"https://www.youtube.com/embed/a82SdunHMKw\" width=\"1280\" height=\"720\" frameborder=\"0\" scrolling=\"no\" allowfullscreen=\"\"></iframe><div class=\"figcaption\"></div></div><p style=\"text-align: left;\"></p>\n\t \t\t\t\t\t<!-- -->"
+  "contentHtml": "<p style=\"text-align: justify;\">아래 영상의 대사는<br>과학적으로 정확한가요? ~<br><br><a href=\"https://youtu.be/a82SdunHMKw?si=xKtauF7cznSqJvJE\" target=\"_blank\" class=\"ke-link\">https://youtu.be/a82SdunHMKw?si=xKtauF7cznSqJvJE</a></p><div class=\"figure-video\" data-ke-type=\"video\" data-video-url=\"https://www.youtube.com/watch?v=a82SdunHMKw\" data-video-host=\"youtube\" data-video-play-service=\"daum_cafe\" data-video-width=\"1280\" data-video-height=\"720\" data-ke-style=\"alignCenter\" data-video-thumbnail=\"http://scrap.kakaocdn.net/dn/bjOj7p/bl4Lji0nsCL/bISRwu1lhcDVWA1BLb4vsK/kakaolink40_original.jpg?width=1280&amp;height=720\" data-ke-mobile-mobilestyle=\"widthFull\" data-video-origin-width=\"1280\" data-video-origin-height=\"720\"><iframe src=\"https://www.youtube.com/embed/a82SdunHMKw\" width=\"1280\" height=\"720\" frameborder=\"0\" scrolling=\"no\" allowfullscreen=\"\"></iframe><div class=\"figcaption\"></div></div><p style=\"text-align: left;\"></p>\n\t \t\t\t\t\t<!-- -->",
+  "tags": [
+    {
+      "category": "게시판별 분류",
+      "topic": "과학쌤의 짤주머니",
+      "confidence": "high"
+    }
+  ]
 }

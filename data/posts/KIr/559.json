@@ -11,5 +11,12 @@
   "headCont": "",
   "contentval": "00091zzzzzzzzzzzzzzzzzzzzzzzzz",
   "permlink": "https://cafe.daum.net/sedu22/KIr/559",
-  "contentHtml": "<P>뭔가 열려야 읽고 댓글도 달고 하죠????정회원으로 등급좀 올려주세요</P>\n\t \t\t\t\t\t<!-- -->"
+  "contentHtml": "<P>뭔가 열려야 읽고 댓글도 달고 하죠????정회원으로 등급좀 올려주세요</P>\n\t \t\t\t\t\t<!-- -->",
+  "tags": [
+    {
+      "category": "게시판별 분류",
+      "topic": "자유공간",
+      "confidence": "high"
+    }
+  ]
 }

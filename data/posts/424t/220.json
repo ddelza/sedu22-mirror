@@ -31,6 +31,11 @@
       "subject": "과학",
       "unit": "빛과 파동",
       "confidence": "high"
+    },
+    {
+      "category": "게시판별 분류",
+      "topic": "과학행사&과학실 Idea",
+      "confidence": "high"
     }
   ],
   "tagsNote": "창의융합 대회 방음벽만들기 — 소리/파동 개념을 명시적으로 활용.",

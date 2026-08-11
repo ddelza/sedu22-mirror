@@ -10,5 +10,12 @@
   "headCont": "",
   "contentval": "0003Szzzzzzzzzzzzzzzzzzzzzzzzz",
   "permlink": "https://cafe.daum.net/sedu22/f02N/214",
-  "contentHtml": "<p style=\"text-align: left;\">어떻게 써주시나요?<br>아예 제출한 게 아무것도 없어서 참고할 게 없는 상태입니다..ㅜ</p>\n\t \t\t\t\t\t<!-- -->"
+  "contentHtml": "<p style=\"text-align: left;\">어떻게 써주시나요?<br>아예 제출한 게 아무것도 없어서 참고할 게 없는 상태입니다..ㅜ</p>\n\t \t\t\t\t\t<!-- -->",
+  "tags": [
+    {
+      "category": "게시판별 분류",
+      "topic": "옹알이(익명게시판)",
+      "confidence": "high"
+    }
+  ]
 }

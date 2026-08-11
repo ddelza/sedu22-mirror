@@ -11,5 +11,12 @@
   "headCont": "",
   "contentval": "0001Kzzzzzzzzzzzzzzzzzzzzzzzzz",
   "permlink": "https://cafe.daum.net/sedu22/KIr/82",
-  "contentHtml": "<P>늘 들러서 좋은 자료만 보고 갔는데...이제 가입했습니다...^^</P>\n\t \t\t\t\t\t<!-- -->"
+  "contentHtml": "<P>늘 들러서 좋은 자료만 보고 갔는데...이제 가입했습니다...^^</P>\n\t \t\t\t\t\t<!-- -->",
+  "tags": [
+    {
+      "category": "게시판별 분류",
+      "topic": "자유공간",
+      "confidence": "high"
+    }
+  ]
 }

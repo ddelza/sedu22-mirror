@@ -11,5 +11,12 @@
   "headCont": "",
   "contentval": "000GRzzzzzzzzzzzzzzzzzzzzzzzzz",
   "permlink": "https://cafe.daum.net/sedu22/fMHq/1019",
-  "contentHtml": "<p class=\"cafe-editor-text\">샘들~<br />&lt;산성비로 인해 석조 문화재가 훼손된다&gt;라는 것은<br />산화반응인가요?<br />아니면 산화반응이라고 할 수 없나요?</p>\n\t \t\t\t\t\t<!-- -->"
+  "contentHtml": "<p class=\"cafe-editor-text\">샘들~<br />&lt;산성비로 인해 석조 문화재가 훼손된다&gt;라는 것은<br />산화반응인가요?<br />아니면 산화반응이라고 할 수 없나요?</p>\n\t \t\t\t\t\t<!-- -->",
+  "tags": [
+    {
+      "category": "게시판별 분류",
+      "topic": "중학교 화학수업 이야기",
+      "confidence": "high"
+    }
+  ]
 }

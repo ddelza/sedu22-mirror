@@ -11,5 +11,12 @@
   "headCont": "열",
   "contentval": "00058zzzzzzzzzzzzzzzzzzzzzzzzz",
   "permlink": "https://cafe.daum.net/sedu22/fMHp/318",
-  "contentHtml": "출처: 어린이과학동아 2015.02.15.<div><br></div><p><img src='https://t1.daumcdn.net/cfile/cafe/2478284F5505E86A2B' class='txc-image' /></p><p><img src='https://t1.daumcdn.net/cfile/cafe/240EA64D5505E86B2E' class='txc-image' /></p>\n\t \t\t\t\t\t<!-- -->"
+  "contentHtml": "출처: 어린이과학동아 2015.02.15.<div><br></div><p><img src='https://t1.daumcdn.net/cfile/cafe/2478284F5505E86A2B' class='txc-image' /></p><p><img src='https://t1.daumcdn.net/cfile/cafe/240EA64D5505E86B2E' class='txc-image' /></p>\n\t \t\t\t\t\t<!-- -->",
+  "tags": [
+    {
+      "category": "게시판별 분류",
+      "topic": "중학교 물리수업 이야기",
+      "confidence": "high"
+    }
+  ]
 }

@@ -11,5 +11,12 @@
   "headCont": "",
   "contentval": "0005Kzzzzzzzzzzzzzzzzzzzzzzzzz",
   "permlink": "https://cafe.daum.net/sedu22/cTdL/330",
-  "contentHtml": "<p style=\"text-align: left;\">어떻게 버려야할까요? </p>\n\t \t\t\t\t\t<!-- -->"
+  "contentHtml": "<p style=\"text-align: left;\">어떻게 버려야할까요? </p>\n\t \t\t\t\t\t<!-- -->",
+  "tags": [
+    {
+      "category": "게시판별 분류",
+      "topic": "고1과학&탐구실험",
+      "confidence": "high"
+    }
+  ]
 }

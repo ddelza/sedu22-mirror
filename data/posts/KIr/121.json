@@ -11,5 +11,12 @@
   "headCont": "",
   "contentval": "0001xzzzzzzzzzzzzzzzzzzzzzzzzz",
   "permlink": "https://cafe.daum.net/sedu22/KIr/121",
-  "contentHtml": "<P>새학기 준비로 든든한 지원자를 만나 반갑습니다</P>\n\t \t\t\t\t\t<!-- -->"
+  "contentHtml": "<P>새학기 준비로 든든한 지원자를 만나 반갑습니다</P>\n\t \t\t\t\t\t<!-- -->",
+  "tags": [
+    {
+      "category": "게시판별 분류",
+      "topic": "자유공간",
+      "confidence": "high"
+    }
+  ]
 }

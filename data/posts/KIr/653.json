@@ -11,5 +11,12 @@
   "headCont": "",
   "contentval": "000AXzzzzzzzzzzzzzzzzzzzzzzzzz",
   "permlink": "https://cafe.daum.net/sedu22/KIr/653",
-  "contentHtml": "<p>자주 이용하고 있으며 수업 준비에 많은 도움이 되고 있어요~</p>\n\t \t\t\t\t\t<!-- -->"
+  "contentHtml": "<p>자주 이용하고 있으며 수업 준비에 많은 도움이 되고 있어요~</p>\n\t \t\t\t\t\t<!-- -->",
+  "tags": [
+    {
+      "category": "게시판별 분류",
+      "topic": "자유공간",
+      "confidence": "high"
+    }
+  ]
 }

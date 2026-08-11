@@ -22,6 +22,11 @@
       "category": "스마트 수업도구",
       "topic": "앱/프로그램",
       "confidence": "medium"
+    },
+    {
+      "category": "게시판별 분류",
+      "topic": "과학행사&과학실 Idea",
+      "confidence": "high"
     }
   ],
   "tagsNote": "퀴즈앤(quizn) 앱을 이용한 온라인 사이언스 퀴즈 대회.",

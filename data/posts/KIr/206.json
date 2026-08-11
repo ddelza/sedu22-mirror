@@ -11,5 +11,12 @@
   "headCont": "",
   "contentval": "0003Kzzzzzzzzzzzzzzzzzzzzzzzzz",
   "permlink": "https://cafe.daum.net/sedu22/KIr/206",
-  "contentHtml": "<P>이 카페에서 많은 도움을 받는 과학교사입니다. 열심히 해보겠습니다.</P>\n\t \t\t\t\t\t<!-- -->"
+  "contentHtml": "<P>이 카페에서 많은 도움을 받는 과학교사입니다. 열심히 해보겠습니다.</P>\n\t \t\t\t\t\t<!-- -->",
+  "tags": [
+    {
+      "category": "게시판별 분류",
+      "topic": "자유공간",
+      "confidence": "high"
+    }
+  ]
 }

@@ -10,5 +10,12 @@
   "headCont": "기타",
   "contentval": "000Fszzzzzzzzzzzzzzzzzzzzzzzzz",
   "permlink": "https://cafe.daum.net/sedu22/f02N/984",
-  "contentHtml": "<p>어떤 한 지문이 이렇게 해석하면 맞는거고 저렇게 해석하면 틀리고...</p><p>이럴땐 이 지문은 틀린보기가 되는건지 복수정답처리인지 갑자기 헷갈리네요.</p>\n\t \t\t\t\t\t<!-- -->"
+  "contentHtml": "<p>어떤 한 지문이 이렇게 해석하면 맞는거고 저렇게 해석하면 틀리고...</p><p>이럴땐 이 지문은 틀린보기가 되는건지 복수정답처리인지 갑자기 헷갈리네요.</p>\n\t \t\t\t\t\t<!-- -->",
+  "tags": [
+    {
+      "category": "게시판별 분류",
+      "topic": "옹알이(익명게시판)",
+      "confidence": "high"
+    }
+  ]
 }

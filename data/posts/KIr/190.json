@@ -11,5 +11,12 @@
   "headCont": "",
   "contentval": "00034zzzzzzzzzzzzzzzzzzzzzzzzz",
   "permlink": "https://cafe.daum.net/sedu22/KIr/190",
-  "contentHtml": "<P>안녕하세요</P>\r\n<P>늦게나마 좋은 사이트를 알게되서 영광입니다</P>\r\n<P>&nbsp;</P>\n\t \t\t\t\t\t<!-- -->"
+  "contentHtml": "<P>안녕하세요</P>\r\n<P>늦게나마 좋은 사이트를 알게되서 영광입니다</P>\r\n<P>&nbsp;</P>\n\t \t\t\t\t\t<!-- -->",
+  "tags": [
+    {
+      "category": "게시판별 분류",
+      "topic": "자유공간",
+      "confidence": "high"
+    }
+  ]
 }

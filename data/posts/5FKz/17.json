@@ -31,6 +31,11 @@
       "subject": "과학",
       "unit": "자극과 반응",
       "confidence": "low"
+    },
+    {
+      "category": "게시판별 분류",
+      "topic": "거꾸로 교실(김신혜)",
+      "confidence": "high"
     }
   ],
   "tagsNote": "강연회 후기 2탄 — 눈의 구조(자극과 반응) 협동학습 수업 사례 포함.",

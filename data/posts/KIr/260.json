@@ -11,5 +11,12 @@
   "headCont": "",
   "contentval": "0004Czzzzzzzzzzzzzzzzzzzzzzzzz",
   "permlink": "https://cafe.daum.net/sedu22/KIr/260",
-  "contentHtml": "<P>그동안 겉만 스치고 지나갔습니다.</P>\r\n<P>속까지 샅샅이 살펴 내 것으로 만들겠습니다.</P>\n\t \t\t\t\t\t<!-- -->"
+  "contentHtml": "<P>그동안 겉만 스치고 지나갔습니다.</P>\r\n<P>속까지 샅샅이 살펴 내 것으로 만들겠습니다.</P>\n\t \t\t\t\t\t<!-- -->",
+  "tags": [
+    {
+      "category": "게시판별 분류",
+      "topic": "자유공간",
+      "confidence": "high"
+    }
+  ]
 }

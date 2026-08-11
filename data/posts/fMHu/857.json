@@ -11,5 +11,12 @@
   "headCont": "",
   "contentval": "000Dpzzzzzzzzzzzzzzzzzzzzzzzzz",
   "permlink": "https://cafe.daum.net/sedu22/fMHu/857",
-  "contentHtml": "<p class=\"cafe-editor-text\">와~~~~간단한 실험인줄 <br />수업중 결과 안나와 당황~~했어요.</p><p><img src=\"https://t1.daumcdn.net/cfile/cafe/99EC843A5B9660CC34\" class=\"txc-image\" /></p><p><img src=\"https://t1.daumcdn.net/cfile/cafe/9959CA3A5B9660D30D\" class=\"txc-image\" /></p><p><img src=\"https://t1.daumcdn.net/cfile/cafe/99315D3A5B9660D812\" class=\"txc-image\" /></p>\n\t \t\t\t\t\t<!-- -->"
+  "contentHtml": "<p class=\"cafe-editor-text\">와~~~~간단한 실험인줄 <br />수업중 결과 안나와 당황~~했어요.</p><p><img src=\"https://t1.daumcdn.net/cfile/cafe/99EC843A5B9660CC34\" class=\"txc-image\" /></p><p><img src=\"https://t1.daumcdn.net/cfile/cafe/9959CA3A5B9660D30D\" class=\"txc-image\" /></p><p><img src=\"https://t1.daumcdn.net/cfile/cafe/99315D3A5B9660D812\" class=\"txc-image\" /></p>\n\t \t\t\t\t\t<!-- -->",
+  "tags": [
+    {
+      "category": "게시판별 분류",
+      "topic": "중학교 생물수업 이야기",
+      "confidence": "high"
+    }
+  ]
 }

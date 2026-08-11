@@ -11,5 +11,12 @@
   "headCont": "화학반응규칙",
   "contentval": "0009Mzzzzzzzzzzzzzzzzzzzzzzzzz",
   "permlink": "https://cafe.daum.net/sedu22/fMHq/580",
-  "contentHtml": "<p>폐기물 처리 어떻게 하셨나요?</p><p>&#160;</p><p>MSDS에도 자료없음으로 나오네요.. 알려주세요!</p>\n\t \t\t\t\t\t<!-- -->"
+  "contentHtml": "<p>폐기물 처리 어떻게 하셨나요?</p><p>&#160;</p><p>MSDS에도 자료없음으로 나오네요.. 알려주세요!</p>\n\t \t\t\t\t\t<!-- -->",
+  "tags": [
+    {
+      "category": "게시판별 분류",
+      "topic": "중학교 화학수업 이야기",
+      "confidence": "high"
+    }
+  ]
 }

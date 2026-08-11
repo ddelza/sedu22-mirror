@@ -11,5 +11,12 @@
   "headCont": "",
   "contentval": "00018zzzzzzzzzzzzzzzzzzzzzzzzz",
   "permlink": "https://cafe.daum.net/sedu22/KIr/70",
-  "contentHtml": "<P>문자받고 이제야 와봅니다.. </P>\r\n<P>새집으로 이사와서 좀 어색하지만..</P>\r\n<P>즐거우리라고 믿습니다~~</P>\r\n<P>이사하신다고 고생하셨어여~~</P>\n\t \t\t\t\t\t<!-- -->"
+  "contentHtml": "<P>문자받고 이제야 와봅니다.. </P>\r\n<P>새집으로 이사와서 좀 어색하지만..</P>\r\n<P>즐거우리라고 믿습니다~~</P>\r\n<P>이사하신다고 고생하셨어여~~</P>\n\t \t\t\t\t\t<!-- -->",
+  "tags": [
+    {
+      "category": "게시판별 분류",
+      "topic": "자유공간",
+      "confidence": "high"
+    }
+  ]
 }

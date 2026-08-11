@@ -11,5 +11,12 @@
   "headCont": "",
   "contentval": "0001Mzzzzzzzzzzzzzzzzzzzzzzzzz",
   "permlink": "https://cafe.daum.net/sedu22/evuJ/84",
-  "contentHtml": "https://youtu.be/nLzi3fkXGqA<br />식물의 호흡과 에너지 수업 영상입니다<br /><br />\n\t \t\t\t\t\t<!-- -->"
+  "contentHtml": "https://youtu.be/nLzi3fkXGqA<br />식물의 호흡과 에너지 수업 영상입니다<br /><br />\n\t \t\t\t\t\t<!-- -->",
+  "tags": [
+    {
+      "category": "게시판별 분류",
+      "topic": "AI도구 활용하기",
+      "confidence": "high"
+    }
+  ]
 }

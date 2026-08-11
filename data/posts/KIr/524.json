@@ -11,5 +11,12 @@
   "headCont": "",
   "contentval": "0008Szzzzzzzzzzzzzzzzzzzzzzzzz",
   "permlink": "https://cafe.daum.net/sedu22/KIr/524",
-  "contentHtml": "<P>네이버 동자샘 블로그에서 소개한 것입니다. 어색한 새학기에&nbsp; 자기소개하는 모습 동영상 올라왔네요&nbsp;&nbsp; 신문지나 폐휴지로 자신을 소개해 보게 하세요</P>\n\t \t\t\t\t\t<!-- -->"
+  "contentHtml": "<P>네이버 동자샘 블로그에서 소개한 것입니다. 어색한 새학기에&nbsp; 자기소개하는 모습 동영상 올라왔네요&nbsp;&nbsp; 신문지나 폐휴지로 자신을 소개해 보게 하세요</P>\n\t \t\t\t\t\t<!-- -->",
+  "tags": [
+    {
+      "category": "게시판별 분류",
+      "topic": "자유공간",
+      "confidence": "high"
+    }
+  ]
 }

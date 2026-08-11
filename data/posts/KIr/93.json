@@ -11,5 +11,12 @@
   "headCont": "",
   "contentval": "0001Vzzzzzzzzzzzzzzzzzzzzzzzzz",
   "permlink": "https://cafe.daum.net/sedu22/KIr/93",
-  "contentHtml": "<p>다음카페로 이동한 줄 몰랐었네요.. ㅠ</p><p>반갑습니다~^^</p>\n\t \t\t\t\t\t<!-- -->"
+  "contentHtml": "<p>다음카페로 이동한 줄 몰랐었네요.. ㅠ</p><p>반갑습니다~^^</p>\n\t \t\t\t\t\t<!-- -->",
+  "tags": [
+    {
+      "category": "게시판별 분류",
+      "topic": "자유공간",
+      "confidence": "high"
+    }
+  ]
 }

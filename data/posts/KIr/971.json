@@ -11,5 +11,12 @@
   "headCont": "",
   "contentval": "000Ffzzzzzzzzzzzzzzzzzzzzzzzzz",
   "permlink": "https://cafe.daum.net/sedu22/KIr/971",
-  "contentHtml": "<p>안녕하세요? 저는 과학 관련 자료를 찾고있는 초보교사 이지원이라고합니다. 앞으로 이 카페 자주 오겠습니다.<br></p>\n\t \t\t\t\t\t<!-- -->"
+  "contentHtml": "<p>안녕하세요? 저는 과학 관련 자료를 찾고있는 초보교사 이지원이라고합니다. 앞으로 이 카페 자주 오겠습니다.<br></p>\n\t \t\t\t\t\t<!-- -->",
+  "tags": [
+    {
+      "category": "게시판별 분류",
+      "topic": "자유공간",
+      "confidence": "high"
+    }
+  ]
 }

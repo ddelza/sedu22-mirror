@@ -11,5 +11,12 @@
   "headCont": "동물과 에너지",
   "contentval": "0006Hzzzzzzzzzzzzzzzzzzzzzzzzz",
   "permlink": "https://cafe.daum.net/sedu22/fMHu/389",
-  "contentHtml": "<p style=\"text-align: left;\">맞는 문장인가요? <br><br>시험 문제 채점 중 고민이 되네요... ㅠㅠ <br><br>생물 전공자 선생님들 도와주세요~</p>\n\t \t\t\t\t\t<!-- -->"
+  "contentHtml": "<p style=\"text-align: left;\">맞는 문장인가요? <br><br>시험 문제 채점 중 고민이 되네요... ㅠㅠ <br><br>생물 전공자 선생님들 도와주세요~</p>\n\t \t\t\t\t\t<!-- -->",
+  "tags": [
+    {
+      "category": "게시판별 분류",
+      "topic": "중학교 생물수업 이야기",
+      "confidence": "high"
+    }
+  ]
 }

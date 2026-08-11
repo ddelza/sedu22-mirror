@@ -17,6 +17,11 @@
       "category": "과학교사 업무",
       "topic": "교원연수",
       "confidence": "medium"
+    },
+    {
+      "category": "게시판별 분류",
+      "topic": "수석교사의 방(2023~)",
+      "confidence": "high"
     }
   ],
   "tagsNote": "개발도상국 기초교육향상지원 사업 파견대상자 선발 공고 — 교사 대상 해외파견 프로그램 안내.",

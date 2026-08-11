@@ -10,5 +10,12 @@
   "headCont": "교과질문",
   "contentval": "000B9zzzzzzzzzzzzzzzzzzzzzzzzz",
   "permlink": "https://cafe.daum.net/sedu22/f02N/691",
-  "contentHtml": "<p style=\"text-align: left;\">홈페이지에 가보니 뷰어 통해서 보는 것 밖에 없더라구요.. 뷰어는 좀 불편해서 아이패드로 다운받아서 필기하면서 보고싶은데 제공 안하는거죠..? </p>\n\t \t\t\t\t\t<!-- -->"
+  "contentHtml": "<p style=\"text-align: left;\">홈페이지에 가보니 뷰어 통해서 보는 것 밖에 없더라구요.. 뷰어는 좀 불편해서 아이패드로 다운받아서 필기하면서 보고싶은데 제공 안하는거죠..? </p>\n\t \t\t\t\t\t<!-- -->",
+  "tags": [
+    {
+      "category": "게시판별 분류",
+      "topic": "옹알이(익명게시판)",
+      "confidence": "high"
+    }
+  ]
 }

@@ -11,5 +11,12 @@
   "headCont": "",
   "contentval": "0001Bzzzzzzzzzzzzzzzzzzzzzzzzz",
   "permlink": "https://cafe.daum.net/sedu22/fMHw/73",
-  "contentHtml": "<p style=\"text-align: left;\">올해까지는 국영수사과에 코딩 과목까지 개설 되어있었는데<br>내년에는 코딩이 안될거같아서<br>코딩대신 어떤 과목을 개설하면 좋을까요!?</p>\n\t \t\t\t\t\t<!-- -->"
+  "contentHtml": "<p style=\"text-align: left;\">올해까지는 국영수사과에 코딩 과목까지 개설 되어있었는데<br>내년에는 코딩이 안될거같아서<br>코딩대신 어떤 과목을 개설하면 좋을까요!?</p>\n\t \t\t\t\t\t<!-- -->",
+  "tags": [
+    {
+      "category": "게시판별 분류",
+      "topic": "중학교 환경&기술&재해안전&기타",
+      "confidence": "high"
+    }
+  ]
 }

@@ -11,5 +11,12 @@
   "headCont": "",
   "contentval": "000S8zzzzzzzzzzzzzzzzzzzzzzzzz",
   "permlink": "https://cafe.daum.net/sedu22/KIr/1744",
-  "contentHtml": "<p>충북인데요.</p><p>외부강사 초빙을 1년에 총 4시간 정도 계획하고 있어요.</p><p>2시간씩 2번도 좋고 1시간씩 네번도 좋고요.</p><p>잘 하시는 분 알고 계심 추천 부탁드려요~</p>\n\t \t\t\t\t\t<!-- -->"
+  "contentHtml": "<p>충북인데요.</p><p>외부강사 초빙을 1년에 총 4시간 정도 계획하고 있어요.</p><p>2시간씩 2번도 좋고 1시간씩 네번도 좋고요.</p><p>잘 하시는 분 알고 계심 추천 부탁드려요~</p>\n\t \t\t\t\t\t<!-- -->",
+  "tags": [
+    {
+      "category": "게시판별 분류",
+      "topic": "자유공간",
+      "confidence": "high"
+    }
+  ]
 }

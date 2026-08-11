@@ -11,5 +11,12 @@
   "headCont": "",
   "contentval": "000G7zzzzzzzzzzzzzzzzzzzzzzzzz",
   "permlink": "https://cafe.daum.net/sedu22/fMHq/999",
-  "contentHtml": "<p class=\"cafe-editor-text\">빨랫비눗물 염기성 아닌가요?? 색변화가 없네요..ㅠ <br />왜그럴까요??</p><p><img src='https://t1.daumcdn.net/cfile/cafe/2168E43357FDAB2204' class='txc-image' /></p>\n\t \t\t\t\t\t<!-- -->"
+  "contentHtml": "<p class=\"cafe-editor-text\">빨랫비눗물 염기성 아닌가요?? 색변화가 없네요..ㅠ <br />왜그럴까요??</p><p><img src='https://t1.daumcdn.net/cfile/cafe/2168E43357FDAB2204' class='txc-image' /></p>\n\t \t\t\t\t\t<!-- -->",
+  "tags": [
+    {
+      "category": "게시판별 분류",
+      "topic": "중학교 화학수업 이야기",
+      "confidence": "high"
+    }
+  ]
 }

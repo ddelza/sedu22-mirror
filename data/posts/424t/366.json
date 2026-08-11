@@ -22,6 +22,11 @@
       "category": "스마트 수업도구",
       "topic": "생성형 AI 도구",
       "confidence": "medium"
+    },
+    {
+      "category": "게시판별 분류",
+      "topic": "과학행사&과학실 Idea",
+      "confidence": "high"
     }
   ],
   "tagsNote": "과학의 달 행사(온라인 방탈출게임 + ChatGPT 영상 + AI 툴 미션) — 생성형 AI 도구, 임시로 앱/프로그램에 매핑.",

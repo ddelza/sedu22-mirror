@@ -11,5 +11,12 @@
   "headCont": "동물과 에너지",
   "contentval": "0006ozzzzzzzzzzzzzzzzzzzzzzzzz",
   "permlink": "https://cafe.daum.net/sedu22/fMHu/422",
-  "contentHtml": "<p class=\"cafe-editor-text\">영양소는 융털에서 흡수된후 대장으로간다<br /><br /><br />이 설명은 틀린거죠?<br />소장에서 흡수된 후 심장으로 이동한다  교과서엔 이렇게나와있거든요</p>\n\t \t\t\t\t\t<!-- -->"
+  "contentHtml": "<p class=\"cafe-editor-text\">영양소는 융털에서 흡수된후 대장으로간다<br /><br /><br />이 설명은 틀린거죠?<br />소장에서 흡수된 후 심장으로 이동한다  교과서엔 이렇게나와있거든요</p>\n\t \t\t\t\t\t<!-- -->",
+  "tags": [
+    {
+      "category": "게시판별 분류",
+      "topic": "중학교 생물수업 이야기",
+      "confidence": "high"
+    }
+  ]
 }

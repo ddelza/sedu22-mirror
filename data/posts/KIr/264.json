@@ -11,5 +11,12 @@
   "headCont": "",
   "contentval": "0004Gzzzzzzzzzzzzzzzzzzzzzzzzz",
   "permlink": "https://cafe.daum.net/sedu22/KIr/264",
-  "contentHtml": "<P>열심히 해서 비밀의 방 둘어가고 싶어요.</P>\r\n<P>여름방학이 시작되기 전에요. ^^</P>\n\t \t\t\t\t\t<!-- -->"
+  "contentHtml": "<P>열심히 해서 비밀의 방 둘어가고 싶어요.</P>\r\n<P>여름방학이 시작되기 전에요. ^^</P>\n\t \t\t\t\t\t<!-- -->",
+  "tags": [
+    {
+      "category": "게시판별 분류",
+      "topic": "자유공간",
+      "confidence": "high"
+    }
+  ]
 }

@@ -31,6 +31,11 @@
       "subject": "과학",
       "unit": "생식과 유전",
       "confidence": "medium"
+    },
+    {
+      "category": "게시판별 분류",
+      "topic": "과학행사&과학실 Idea",
+      "confidence": "high"
     }
   ],
   "tagsNote": "한천 세포분열 실험 시약(페놀프탈레인) 재고 문의 — 시약 관리 + 생식과 유전 실험 관련.",

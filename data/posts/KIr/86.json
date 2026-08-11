@@ -11,5 +11,12 @@
   "headCont": "",
   "contentval": "0001Ozzzzzzzzzzzzzzzzzzzzzzzzz",
   "permlink": "https://cafe.daum.net/sedu22/KIr/86",
-  "contentHtml": "<p>전남에 있는 과학교사입니다.</p><p>지식 전달자만 하다가 변화를 찾아 여기까지 왔네요</p><p>반갑습니다.</p>\n\t \t\t\t\t\t<!-- -->"
+  "contentHtml": "<p>전남에 있는 과학교사입니다.</p><p>지식 전달자만 하다가 변화를 찾아 여기까지 왔네요</p><p>반갑습니다.</p>\n\t \t\t\t\t\t<!-- -->",
+  "tags": [
+    {
+      "category": "게시판별 분류",
+      "topic": "자유공간",
+      "confidence": "high"
+    }
+  ]
 }

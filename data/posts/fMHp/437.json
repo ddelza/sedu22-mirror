@@ -11,5 +11,12 @@
   "headCont": "전기 자기",
   "contentval": "00073zzzzzzzzzzzzzzzzzzzzzzzzz",
   "permlink": "https://cafe.daum.net/sedu22/fMHp/437",
-  "contentHtml": "<p>라고 질문한 학생이 있는데... 뭔가 말문이 막혔어요 ㅠㅠ</p><p>뭐라고 설명하면 좋을까요?</p>\n\t \t\t\t\t\t<!-- -->"
+  "contentHtml": "<p>라고 질문한 학생이 있는데... 뭔가 말문이 막혔어요 ㅠㅠ</p><p>뭐라고 설명하면 좋을까요?</p>\n\t \t\t\t\t\t<!-- -->",
+  "tags": [
+    {
+      "category": "게시판별 분류",
+      "topic": "중학교 물리수업 이야기",
+      "confidence": "high"
+    }
+  ]
 }

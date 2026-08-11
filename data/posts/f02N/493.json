@@ -10,5 +10,12 @@
   "headCont": "",
   "contentval": "0007xzzzzzzzzzzzzzzzzzzzzzzzzz",
   "permlink": "https://cafe.daum.net/sedu22/f02N/493",
-  "contentHtml": "<p style=\"text-align: left;\">수업에 한 번 써보려는데 <br>가입이 학교 입력한 다음 다음 페이지로 안넘어가서 회원가입도 못하고 있습니다. 따흙&#129394;<br>혹시 잘 아시는 분 회원가입 방법 좀 알려주시면 감사하겠습니다. </p>\n\t \t\t\t\t\t<!-- -->"
+  "contentHtml": "<p style=\"text-align: left;\">수업에 한 번 써보려는데 <br>가입이 학교 입력한 다음 다음 페이지로 안넘어가서 회원가입도 못하고 있습니다. 따흙&#129394;<br>혹시 잘 아시는 분 회원가입 방법 좀 알려주시면 감사하겠습니다. </p>\n\t \t\t\t\t\t<!-- -->",
+  "tags": [
+    {
+      "category": "게시판별 분류",
+      "topic": "옹알이(익명게시판)",
+      "confidence": "high"
+    }
+  ]
 }

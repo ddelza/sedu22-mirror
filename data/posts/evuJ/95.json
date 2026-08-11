@@ -11,5 +11,12 @@
   "headCont": "",
   "contentval": "0001Xzzzzzzzzzzzzzzzzzzzzzzzzz",
   "permlink": "https://cafe.daum.net/sedu22/evuJ/95",
-  "contentHtml": "<p class=\"cafe-editor-text\"><a href=\"https://youtu.be/23Gfq6CyRHA\">https://youtu.be/23Gfq6CyRHA</a><br />동물의 구성단계 컨텐츠 입니다</p>\n\t \t\t\t\t\t<!-- -->"
+  "contentHtml": "<p class=\"cafe-editor-text\"><a href=\"https://youtu.be/23Gfq6CyRHA\">https://youtu.be/23Gfq6CyRHA</a><br />동물의 구성단계 컨텐츠 입니다</p>\n\t \t\t\t\t\t<!-- -->",
+  "tags": [
+    {
+      "category": "게시판별 분류",
+      "topic": "AI도구 활용하기",
+      "confidence": "high"
+    }
+  ]
 }

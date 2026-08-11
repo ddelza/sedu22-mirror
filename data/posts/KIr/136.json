@@ -11,5 +11,12 @@
   "headCont": "",
   "contentval": "0002Czzzzzzzzzzzzzzzzzzzzzzzzz",
   "permlink": "https://cafe.daum.net/sedu22/KIr/136",
-  "contentHtml": "<p>다시 새학기...게다가 새학교....&nbsp;설레고 두렵고.. 설레고 두렵고....</p><p>같이 공유해요~~&nbsp;</p>\n\t \t\t\t\t\t<!-- -->"
+  "contentHtml": "<p>다시 새학기...게다가 새학교....&nbsp;설레고 두렵고.. 설레고 두렵고....</p><p>같이 공유해요~~&nbsp;</p>\n\t \t\t\t\t\t<!-- -->",
+  "tags": [
+    {
+      "category": "게시판별 분류",
+      "topic": "자유공간",
+      "confidence": "high"
+    }
+  ]
 }

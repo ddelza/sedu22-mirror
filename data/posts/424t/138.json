@@ -24,6 +24,11 @@
       "category": "과학교사 업무",
       "topic": "동아리 운영",
       "confidence": "high"
+    },
+    {
+      "category": "게시판별 분류",
+      "topic": "과학행사&과학실 Idea",
+      "confidence": "high"
     }
   ],
   "tagsNote": "동아리 팜플렛 제작 조언 요청 — 행정/편집 관련.",

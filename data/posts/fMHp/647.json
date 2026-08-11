@@ -11,5 +11,12 @@
   "headCont": "운동 에너지",
   "contentval": "000ARzzzzzzzzzzzzzzzzzzzzzzzzz",
   "permlink": "https://cafe.daum.net/sedu22/fMHp/647",
-  "contentHtml": "<p style=\"text-align: left;\">W=F*s<br><br>에서 s 는 어떤 단어의 약자인가요? 왜 대문자를 안썼나요?<br><br>(일반물리학 시간에 배운 기억이 있는데.. 오랜시간이 지나서 기억이 안나네요. 도와주세요)</p>\n\t \t\t\t\t\t<!-- -->"
+  "contentHtml": "<p style=\"text-align: left;\">W=F*s<br><br>에서 s 는 어떤 단어의 약자인가요? 왜 대문자를 안썼나요?<br><br>(일반물리학 시간에 배운 기억이 있는데.. 오랜시간이 지나서 기억이 안나네요. 도와주세요)</p>\n\t \t\t\t\t\t<!-- -->",
+  "tags": [
+    {
+      "category": "게시판별 분류",
+      "topic": "중학교 물리수업 이야기",
+      "confidence": "high"
+    }
+  ]
 }

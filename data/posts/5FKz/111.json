@@ -31,6 +31,11 @@
       "subject": "과학",
       "unit": "날씨와 기후변화",
       "confidence": "low"
+    },
+    {
+      "category": "게시판별 분류",
+      "topic": "거꾸로 교실(김신혜)",
+      "confidence": "high"
     }
   ],
   "tagsNote": "새 학교에서 거꾸로 교실 재시작 후기 — 기권 단원 수업 사례.",

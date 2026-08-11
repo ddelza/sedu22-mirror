@@ -11,5 +11,12 @@
   "headCont": "",
   "contentval": "0000czzzzzzzzzzzzzzzzzzzzzzzzz",
   "permlink": "https://cafe.daum.net/sedu22/KIr/38",
-  "contentHtml": "<P>좋은 내용 항상 공유할 수 있어 좋았어요. 함께 할 수 있기를 ....</P>\n\t \t\t\t\t\t<!-- -->"
+  "contentHtml": "<P>좋은 내용 항상 공유할 수 있어 좋았어요. 함께 할 수 있기를 ....</P>\n\t \t\t\t\t\t<!-- -->",
+  "tags": [
+    {
+      "category": "게시판별 분류",
+      "topic": "자유공간",
+      "confidence": "high"
+    }
+  ]
 }

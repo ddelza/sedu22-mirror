@@ -10,5 +10,12 @@
   "headCont": "교과질문",
   "contentval": "000GNzzzzzzzzzzzzzzzzzzzzzzzzz",
   "permlink": "https://cafe.daum.net/sedu22/f02N/1015",
-  "contentHtml": "<p style=\"text-align: left;\">지권 외권 기권의 상호작용이라고 해야할까요 아님 지권 기권의 상호작용이라고 해야할까요?</p>\n\t \t\t\t\t\t<!-- -->"
+  "contentHtml": "<p style=\"text-align: left;\">지권 외권 기권의 상호작용이라고 해야할까요 아님 지권 기권의 상호작용이라고 해야할까요?</p>\n\t \t\t\t\t\t<!-- -->",
+  "tags": [
+    {
+      "category": "게시판별 분류",
+      "topic": "옹알이(익명게시판)",
+      "confidence": "high"
+    }
+  ]
 }

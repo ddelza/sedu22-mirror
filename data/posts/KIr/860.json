@@ -11,5 +11,12 @@
   "headCont": "",
   "contentval": "000Dszzzzzzzzzzzzzzzzzzzzzzzzz",
   "permlink": "https://cafe.daum.net/sedu22/KIr/860",
-  "contentHtml": "<p>오늘에서야 우연히 카페를 알게되어 회원가입했습니다.</p><p>좋은정보 공유하고 싶어요~~</p><p>어떻게 하면 정회원이 될 수 있나요??<br></p>\n\t \t\t\t\t\t<!-- -->"
+  "contentHtml": "<p>오늘에서야 우연히 카페를 알게되어 회원가입했습니다.</p><p>좋은정보 공유하고 싶어요~~</p><p>어떻게 하면 정회원이 될 수 있나요??<br></p>\n\t \t\t\t\t\t<!-- -->",
+  "tags": [
+    {
+      "category": "게시판별 분류",
+      "topic": "자유공간",
+      "confidence": "high"
+    }
+  ]
 }

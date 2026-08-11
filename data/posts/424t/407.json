@@ -36,6 +36,11 @@
       "subject": "과학",
       "unit": "생물의 구성과 다양성",
       "confidence": "low"
+    },
+    {
+      "category": "게시판별 분류",
+      "topic": "과학행사&과학실 Idea",
+      "confidence": "high"
     }
   ],
   "tagsNote": "생물종다양성 보존의 날 행사(교내 식물 이름 퀴즈, 구글설문/웹앱 활용).",
