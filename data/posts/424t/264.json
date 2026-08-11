@@ -31,6 +31,20 @@
       "subject": "과학",
       "unit": "태양계",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "별과 우주",
+      "confidence": "low"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "별과 우주",
+      "confidence": "low"
     }
   ],
   "tagsNote": "2022년 주요 천문현상(개기월식, 행성정렬 등) 상세 안내자료.",

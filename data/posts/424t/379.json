@@ -31,6 +31,20 @@
       "subject": "과학",
       "unit": "태양계",
       "confidence": "low"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "별과 우주",
+      "confidence": "low"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "별과 우주",
+      "confidence": "low"
     }
   ],
   "tagsNote": "2025 천문력(달력) 자료 공유.",

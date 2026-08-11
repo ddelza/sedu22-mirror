@@ -31,6 +31,13 @@
       "subject": "과학",
       "unit": "운동과 에너지",
       "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "에너지 전환과 보존",
+      "confidence": "high"
     }
   ],
   "tagsNote": "백석롤러코스터대회 운영 사례.",
