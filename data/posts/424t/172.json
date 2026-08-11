@@ -11,5 +11,21 @@
   "headCont": "",
   "contentval": "0002mzzzzzzzzzzzzzzzzzzzzzzzzz",
   "permlink": "https://cafe.daum.net/sedu22/424t/172",
-  "contentHtml": "<p class=\"cafe-editor-text\">프린트 출력물로 제시할지, 컴퓨터로 인터넷 검색을 하게 할지 고민입니다.. 선생님 학교는 어떻게 진행하시나요?</p>\n\t \t\t\t\t\t<!-- -->"
+  "contentHtml": "<p class=\"cafe-editor-text\">프린트 출력물로 제시할지, 컴퓨터로 인터넷 검색을 하게 할지 고민입니다.. 선생님 학교는 어떻게 진행하시나요?</p>\n\t \t\t\t\t\t<!-- -->",
+  "tags": [
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "high"
+    },
+    {
+      "category": "과학교사 업무",
+      "topic": "과학 행사",
+      "confidence": "high"
+    }
+  ],
+  "tagsNote": "탐구토론 자료 제시 방식 문의.",
+  "taggedAt": "2026-08-11T15:47:45.276Z"
 }

@@ -11,5 +11,14 @@
   "headCont": "",
   "contentval": "0000Lzzzzzzzzzzzzzzzzzzzzzzzzz",
   "permlink": "https://cafe.daum.net/sedu22/424t/21",
-  "contentHtml": "<p>안녕하세요?</p><p>&nbsp;</p><p>혹시 과학탐구실험대회 기출문제나 지도자료 있으시면 부탁드리겠습니다.</p><p>&nbsp;</p><p>&nbsp;</p>\n\t \t\t\t\t\t<!-- -->"
+  "contentHtml": "<p>안녕하세요?</p><p>&nbsp;</p><p>혹시 과학탐구실험대회 기출문제나 지도자료 있으시면 부탁드리겠습니다.</p><p>&nbsp;</p><p>&nbsp;</p>\n\t \t\t\t\t\t<!-- -->",
+  "tags": [
+    {
+      "category": "과학교사 업무",
+      "topic": "과학 행사",
+      "confidence": "high"
+    }
+  ],
+  "tagsNote": "과학탐구실험대회 기출문제 요청.",
+  "taggedAt": "2026-08-11T22:15:55.615Z"
 }

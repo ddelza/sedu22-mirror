@@ -11,5 +11,14 @@
   "headCont": "",
   "contentval": "0000azzzzzzzzzzzzzzzzzzzzzzzzz",
   "permlink": "https://cafe.daum.net/sedu22/424t/36",
-  "contentHtml": "<P>과학의 달 행사 시상하려고 하는데요.</P>\r\n<P>문화상품권이 별로 인거 같네요...</P>\r\n<P>뭐 괜찮은 상품 없을까요?</P>\r\n<P>주로 상품으로 어떤 것을 주셨나요?</P>\n\t \t\t\t\t\t<!-- -->"
+  "contentHtml": "<P>과학의 달 행사 시상하려고 하는데요.</P>\r\n<P>문화상품권이 별로 인거 같네요...</P>\r\n<P>뭐 괜찮은 상품 없을까요?</P>\r\n<P>주로 상품으로 어떤 것을 주셨나요?</P>\n\t \t\t\t\t\t<!-- -->",
+  "tags": [
+    {
+      "category": "과학교사 업무",
+      "topic": "과학 행사",
+      "confidence": "high"
+    }
+  ],
+  "tagsNote": "과학의 달 행사 상품 추천 요청.",
+  "taggedAt": "2026-08-11T22:25:58.187Z"
 }

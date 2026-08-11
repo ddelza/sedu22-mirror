@@ -122,10 +122,27 @@ function sanitize(html) {
 function stripTags(html) {
   return (html || '').replace(/<[^>]*>/g, ' ').replace(/&#160;|&nbsp;/g, ' ').replace(/\s+/g, ' ').trim();
 }
+const CATEGORIES = {
+  '과학교사 업무': { icon: '🧑‍🏫', topics: ['과학 행사', '과학실 관리', '동아리 운영', '교원연수'] },
+  '스마트 수업도구': { icon: '💻', topics: ['MBL센서', '아두이노', '앱/프로그램', '생성형 AI 도구', 'AR/VR', '교육용 단말기(태블릿/크롬북)', '메이커/3D프린팅'] },
+};
+
+function tagLabel(t) {
+  if (t.category && CATEGORIES[t.category]) return `${CATEGORIES[t.category].icon} ${t.topic}`;
+  return t.unit;
+}
+function tagIsUnclassified(t) {
+  return t.unit === '미분류';
+}
+
 function tagMatches(t, filter) {
   if (filter.unit === '미분류') return t.unit === '미분류';
+  if (filter.category) return t.category === filter.category && t.topic === filter.topic;
+  // subject는 비교하지 않는다: 중학교는 트리 표시상 과학1/과학2/과학3(2022는 중1/중2/과학3)으로
+  // 나눠 보여주지만 실제 태그는 항상 subject:"과학"이라 화면 표시용 그룹명과 다르다.
+  // 연도+학교급+단원명만으로 충분히 특정된다.
   return t.curriculumYear === filter.curriculumYear && t.schoolLevel === filter.schoolLevel &&
-         t.subject === filter.subject && t.unit === filter.unit;
+         t.unit === filter.unit;
 }
 function countForFilter(filter) {
   return posts.filter(p => p.tags && p.tags.some(t => tagMatches(t, filter))).length;
@@ -157,8 +174,18 @@ function buildTreeHtml() {
     }
     html += `</div></details>`;
   }
+  for (const [categoryName, { icon, topics }] of Object.entries(CATEGORIES)) {
+    html += `<details class="tree-level"><summary>${icon} ${escapeHtml(categoryName)}</summary><div>`;
+    for (const topic of topics) {
+      const filter = { category: categoryName, topic };
+      const cnt = countForFilter(filter);
+      html += `<div class="unit-node" data-filter='${escapeHtml(JSON.stringify(filter))}'>${escapeHtml(topic)}<span class="cnt">(${cnt})</span></div>`;
+    }
+    html += `</div></details>`;
+  }
+
   const unclassifiedCnt = countForFilter({ unit: '미분류' });
-  html += `<div id="unclassifiedNode" class="unit-node" data-filter='${escapeHtml(JSON.stringify({unit:'미분류'}))}'>📎 미분류(단원과 무관한 글)<span class="cnt">(${unclassifiedCnt})</span></div>`;
+  html += `<div id="unclassifiedNode" class="unit-node" data-filter='${escapeHtml(JSON.stringify({unit:'미분류'}))}'>📎 미분류(단원/업무와 무관한 글)<span class="cnt">(${unclassifiedCnt})</span></div>`;
   return html;
 }
 
@@ -220,6 +247,8 @@ function renderList() {
   if (state.filter) {
     const label = state.filter.unit === '미분류'
       ? '📎 미분류'
+      : state.filter.category
+      ? `${CATEGORIES[state.filter.category].icon} ${state.filter.category} · ${state.filter.topic}`
       : `${state.filter.curriculumYear} · ${state.filter.schoolLevel} · ${state.filter.subject} · ${state.filter.unit}`;
     html += `<div id="filterBar"><span class="path">${escapeHtml(label)}</span><button id="clearFilter">← 전체 단원 보기</button></div>`;
   }
@@ -230,7 +259,7 @@ function renderList() {
   }
   for (const p of pagePosts) {
     const tagsHtml = p.tags && p.tags.length
-      ? `<div class="tags">${p.tags.map(t => `<span class="tag-chip ${t.unit==='미분류'?'unclassified':''}">${escapeHtml(t.unit)}</span>`).join('')}</div>`
+      ? `<div class="tags">${p.tags.map(t => `<span class="tag-chip ${tagIsUnclassified(t)?'unclassified':''}">${escapeHtml(tagLabel(t))}</span>`).join('')}</div>`
       : `<div class="no-tag">(아직 태깅 안 됨)</div>`;
     const preview = escapeHtml(stripTags(p.contentHtml).slice(0, 80));
     html += `<div class="post-card" data-id="${p.id}">
@@ -282,7 +311,7 @@ function openModal(id) {
   const p = posts.find((x) => x.id === id);
   if (!p) return;
   const tagsHtml = p.tags && p.tags.length
-    ? p.tags.map(t => `<span class="tag-chip ${t.unit==='미분류'?'unclassified':''}">${escapeHtml(t.unit)}</span>`).join(' ')
+    ? p.tags.map(t => `<span class="tag-chip ${tagIsUnclassified(t)?'unclassified':''}">${escapeHtml(tagLabel(t))}</span>`).join(' ')
     : '';
   document.getElementById('modal').innerHTML = `
     <button class="close" id="modalClose">✕</button>

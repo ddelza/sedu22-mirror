@@ -11,5 +11,19 @@
   "headCont": "",
   "contentval": "0004azzzzzzzzzzzzzzzzzzzzzzzzz",
   "permlink": "https://cafe.daum.net/sedu22/424t/284",
-  "contentHtml": "<p>과학행사때 거리측정용으로 줄자를 사려고 하는데 레이저 줄자 사용해보신 분 있나요? 줄자 추천 및 안전성 등 괜찮은지요...&#160;</p>\n\t \t\t\t\t\t<!-- -->"
+  "contentHtml": "<p>과학행사때 거리측정용으로 줄자를 사려고 하는데 레이저 줄자 사용해보신 분 있나요? 줄자 추천 및 안전성 등 괜찮은지요...&#160;</p>\n\t \t\t\t\t\t<!-- -->",
+  "tags": [
+    {
+      "category": "과학교사 업무",
+      "topic": "과학실 관리",
+      "confidence": "medium"
+    },
+    {
+      "category": "과학교사 업무",
+      "topic": "과학 행사",
+      "confidence": "medium"
+    }
+  ],
+  "tagsNote": "행사용 거리측정 레이저줄자 구매 문의.",
+  "taggedAt": "2026-08-11T22:22:30.853Z"
 }

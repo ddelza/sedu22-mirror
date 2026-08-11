@@ -11,5 +11,28 @@
   "headCont": "",
   "contentval": "0004Wzzzzzzzzzzzzzzzzzzzzzzzzz",
   "permlink": "https://cafe.daum.net/sedu22/424t/280",
-  "contentHtml": "<p>과학의 날 행사 융합과학으로 계란 낙하를 하려고 합니다</p><p>생계란은 학생들이 만들면서 깨지거나 낙하 후 깨졌을 때 뒷처리와 냄새가 힘들것 같은데<br>계란을 삶아서 해도 괜찮을까요?&#160;</p>\n\t \t\t\t\t\t<!-- -->"
+  "contentHtml": "<p>과학의 날 행사 융합과학으로 계란 낙하를 하려고 합니다</p><p>생계란은 학생들이 만들면서 깨지거나 낙하 후 깨졌을 때 뒷처리와 냄새가 힘들것 같은데<br>계란을 삶아서 해도 괜찮을까요?&#160;</p>\n\t \t\t\t\t\t<!-- -->",
+  "tags": [
+    {
+      "category": "과학교사 업무",
+      "topic": "과학 행사",
+      "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "운동과 에너지",
+      "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "운동과 에너지",
+      "confidence": "medium"
+    }
+  ],
+  "tagsNote": "계란 낙하(완충구조물 제작) 융합과학 행사 준비 문의.",
+  "taggedAt": "2026-08-11T22:22:30.849Z"
 }

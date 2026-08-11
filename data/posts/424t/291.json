@@ -11,5 +11,37 @@
   "headCont": "",
   "contentval": "0004hzzzzzzzzzzzzzzzzzzzzzzzzz",
   "permlink": "https://cafe.daum.net/sedu22/424t/291",
-  "contentHtml": "<p style=\"text-align: left;\">올해 중1, 중2 영재 수업을 맡게 되었습니다.<br><br>중1 파동<br>중2 열과 우리생활<br><br>에서 해볼만한 영재 활동이 있을까요??<br>유튜브를 찾아봐도 이 분야는 잘 안나오네요..</p>\n\t \t\t\t\t\t<!-- -->"
+  "contentHtml": "<p style=\"text-align: left;\">올해 중1, 중2 영재 수업을 맡게 되었습니다.<br><br>중1 파동<br>중2 열과 우리생활<br><br>에서 해볼만한 영재 활동이 있을까요??<br>유튜브를 찾아봐도 이 분야는 잘 안나오네요..</p>\n\t \t\t\t\t\t<!-- -->",
+  "tags": [
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "빛과 파동",
+      "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "빛과 파동",
+      "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "열과 우리 생활",
+      "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "열",
+      "confidence": "high"
+    }
+  ],
+  "tagsNote": "중1 파동, 중2 열과 우리생활 단원 기반 영재수업 활동 추천 요청 — 행사/업무가 아닌 단원 수업 내용 질문.",
+  "taggedAt": "2026-08-11T22:22:30.860Z"
 }

@@ -11,5 +11,21 @@
   "headCont": "",
   "contentval": "00025zzzzzzzzzzzzzzzzzzzzzzzzz",
   "permlink": "https://cafe.daum.net/sedu22/424t/129",
-  "contentHtml": "<p>드론을 해보려니 종류가 너무나 다양해서요~</p><p>학생들이 제작하여 날리면서 흥미를 가질 정도의 드론을 찾고 있는데</p><p>해보신 선생님들의 노하우를 듣고싶어요 ^_^</p>\n\t \t\t\t\t\t<!-- -->"
+  "contentHtml": "<p>드론을 해보려니 종류가 너무나 다양해서요~</p><p>학생들이 제작하여 날리면서 흥미를 가질 정도의 드론을 찾고 있는데</p><p>해보신 선생님들의 노하우를 듣고싶어요 ^_^</p>\n\t \t\t\t\t\t<!-- -->",
+  "tags": [
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "high"
+    },
+    {
+      "category": "과학교사 업무",
+      "topic": "과학 행사",
+      "confidence": "high"
+    }
+  ],
+  "tagsNote": "드론 제작 노하우를 묻는 글 — 특정 단원 내용이 아닌 행사/장비 문의.",
+  "taggedAt": "2026-08-11T15:47:45.188Z"
 }

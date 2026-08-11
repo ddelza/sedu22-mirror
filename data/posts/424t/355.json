@@ -11,5 +11,14 @@
   "headCont": "",
   "contentval": "0005jzzzzzzzzzzzzzzzzzzzzzzzzz",
   "permlink": "https://cafe.daum.net/sedu22/424t/355",
-  "contentHtml": "<p>중학생들이 읽고 골든벨행사 할 수 있는&#160;</p><p>과학교양도서 추천해주세요~</p><p>&#160;</p><p>어떤 과학책이 좋을까요?</p>\n\t \t\t\t\t\t<!-- -->"
+  "contentHtml": "<p>중학생들이 읽고 골든벨행사 할 수 있는&#160;</p><p>과학교양도서 추천해주세요~</p><p>&#160;</p><p>어떤 과학책이 좋을까요?</p>\n\t \t\t\t\t\t<!-- -->",
+  "tags": [
+    {
+      "category": "과학교사 업무",
+      "topic": "과학 행사",
+      "confidence": "high"
+    }
+  ],
+  "tagsNote": "중학생 과학독서골든벨 도서 추천 요청.",
+  "taggedAt": "2026-08-11T22:25:58.184Z"
 }

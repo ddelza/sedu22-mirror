@@ -11,5 +11,21 @@
   "headCont": "",
   "contentval": "0002ozzzzzzzzzzzzzzzzzzzzzzzzz",
   "permlink": "https://cafe.daum.net/sedu22/424t/174",
-  "contentHtml": "<p class=\"cafe-editor-text\">과학의 날 진행 후에 학생들에게 상품을 주는데요. <br />아이들이 좋아할만한 적당한 상품이 뭐가 있을까요? <br /><br />상품 가격은 1-2 만원대로 생각하고 있습니다!! </p>\n\t \t\t\t\t\t<!-- -->"
+  "contentHtml": "<p class=\"cafe-editor-text\">과학의 날 진행 후에 학생들에게 상품을 주는데요. <br />아이들이 좋아할만한 적당한 상품이 뭐가 있을까요? <br /><br />상품 가격은 1-2 만원대로 생각하고 있습니다!! </p>\n\t \t\t\t\t\t<!-- -->",
+  "tags": [
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "high"
+    },
+    {
+      "category": "과학교사 업무",
+      "topic": "과학 행사",
+      "confidence": "high"
+    }
+  ],
+  "tagsNote": "행사 후 상품 추천 요청.",
+  "taggedAt": "2026-08-11T15:47:45.278Z"
 }

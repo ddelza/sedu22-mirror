@@ -11,5 +11,21 @@
   "headCont": "",
   "contentval": "0002Szzzzzzzzzzzzzzzzzzzzzzzzz",
   "permlink": "https://cafe.daum.net/sedu22/424t/152",
-  "contentHtml": "부산에는 시대회 수학 과학 경시대회가 없어졌는데... 혹시 교내 대회는 어떻게 하는지 궁금해서요...<br />작년까지는 경시대회를 했는데 올해 없애도 된다는 의견이 분분해서 다른 학교는 어떻게 진행하는지 알고 싶습니다.^^\n\t \t\t\t\t\t<!-- -->"
+  "contentHtml": "부산에는 시대회 수학 과학 경시대회가 없어졌는데... 혹시 교내 대회는 어떻게 하는지 궁금해서요...<br />작년까지는 경시대회를 했는데 올해 없애도 된다는 의견이 분분해서 다른 학교는 어떻게 진행하는지 알고 싶습니다.^^\n\t \t\t\t\t\t<!-- -->",
+  "tags": [
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "high"
+    },
+    {
+      "category": "과학교사 업무",
+      "topic": "과학 행사",
+      "confidence": "high"
+    }
+  ],
+  "tagsNote": "교내 경시대회 존폐 관련 문의 — 행정.",
+  "taggedAt": "2026-08-11T15:47:45.229Z"
 }

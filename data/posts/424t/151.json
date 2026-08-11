@@ -11,5 +11,28 @@
   "headCont": "",
   "contentval": "0002Rzzzzzzzzzzzzzzzzzzzzzzzzz",
   "permlink": "https://cafe.daum.net/sedu22/424t/151",
-  "contentHtml": "<p>제가 이번에 </p><p>제주도로 수학여행을 같이 가게 되었습니다.</p><p><br></p><p>과학교사로서</p><p>뭔가 해주고 싶어서요.</p><p><br></p><p>제주도에서 천체관측을 계획하고 있습니다.</p><p><br></p><p>혹시</p><p>제주도에서 천문행사를 하셨던 선생님이 계시면 </p><p>정보를 얻고 싶습니다.</p><p><br></p><p>1. 별자리 수업을 해주실 제주도 선생님&nbsp;2명</p><p>2. 선생님께서 천체망원경 2대 정도 준비해서&nbsp;설치</p><p><br></p><p>&nbsp;&nbsp;</p><p>좋은 분 추천해주세요~</p><p>&nbsp;</p><p>고맙습니다.<br></p>\n\t \t\t\t\t\t<!-- -->"
+  "contentHtml": "<p>제가 이번에 </p><p>제주도로 수학여행을 같이 가게 되었습니다.</p><p><br></p><p>과학교사로서</p><p>뭔가 해주고 싶어서요.</p><p><br></p><p>제주도에서 천체관측을 계획하고 있습니다.</p><p><br></p><p>혹시</p><p>제주도에서 천문행사를 하셨던 선생님이 계시면 </p><p>정보를 얻고 싶습니다.</p><p><br></p><p>1. 별자리 수업을 해주실 제주도 선생님&nbsp;2명</p><p>2. 선생님께서 천체망원경 2대 정도 준비해서&nbsp;설치</p><p><br></p><p>&nbsp;&nbsp;</p><p>좋은 분 추천해주세요~</p><p>&nbsp;</p><p>고맙습니다.<br></p>\n\t \t\t\t\t\t<!-- -->",
+  "tags": [
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "태양계",
+      "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "태양계",
+      "confidence": "medium"
+    },
+    {
+      "category": "과학교사 업무",
+      "topic": "과학 행사",
+      "confidence": "medium"
+    }
+  ],
+  "tagsNote": "수학여행 중 야간 천체관측(별자리 수업, 망원경 설치) 행사 기획 — 태양계/천체 관측 내용과 직접 관련.",
+  "taggedAt": "2026-08-11T15:47:45.227Z"
 }

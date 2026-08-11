@@ -3,5 +3,4 @@ session.json
 *.session.json
 .env
 viewer-data.js
-site-data.js
 curriculum/_raw/

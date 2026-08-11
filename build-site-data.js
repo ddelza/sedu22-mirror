@@ -85,18 +85,39 @@ function subjectFromMs() {
 function buildTree() {
   const tree = { '2015': { 중학교: {}, 고등학교: {} }, '2022': { 중학교: {}, 고등학교: {} } };
 
-  // 2015 중학교: 단일 과목 "과학", 단원 헤더 "## 가. 단원명"
+  // 중학교 단원들을 성취기준 코드 순번 구간별로 과학1/과학2/과학3(또는 중1/중2/과학3)으로 묶는다.
+  // std 객체는 파싱 순서(=단원 순번 순서)를 그대로 유지하므로 인덱스로 잘라내면 됨.
+  function splitIntoGroups(std, ranges) {
+    const entries = Object.entries(std);
+    const grouped = {};
+    for (const [groupName, [from, to]] of Object.entries(ranges)) {
+      grouped[groupName] = Object.fromEntries(entries.slice(from - 1, to));
+    }
+    return grouped;
+  }
+
+  // 2015 중학교: 단일 과목 "과학"(24단원), 단원 헤더 "## 가. 단원명"
+  // -> 과학1(9과01~07) / 과학2(9과08~16) / 과학3(9과17~24)
   {
     const text = fs.readFileSync(path.join(CURRICULUM_DIR, '2015_ms_ai.md'), 'utf8');
     const std = extractStandards(text, [/^## [가-힣]\. (.+)$/]);
-    tree['2015']['중학교']['과학'] = std;
+    Object.assign(tree['2015']['중학교'], splitIntoGroups(std, {
+      '과학1': [1, 7],
+      '과학2': [8, 16],
+      '과학3': [17, 24],
+    }));
   }
 
-  // 2022 중학교: 단일 과목 "과학", 단원 헤더 "## (N) 단원명" (성취기준은 "### [code] 문장")
+  // 2022 중학교: 단일 과목 "과학"(23단원), 단원 헤더 "## (N) 단원명" (성취기준은 "### [code] 문장")
+  // -> 과학1(9과01~07) / 과학2(9과08~15) / 과학3(9과16~23)
   {
     const text = fs.readFileSync(path.join(CURRICULUM_DIR, '2022_ms_ai.md'), 'utf8');
     const std = extractStandards(text, [/^## \(\d+\) (.+)$/]);
-    tree['2022']['중학교']['과학'] = std;
+    Object.assign(tree['2022']['중학교'], splitIntoGroups(std, {
+      '과학1': [1, 7],
+      '과학2': [8, 15],
+      '과학3': [16, 23],
+    }));
   }
 
   // 2015 고등학교: 과목별로 나뉨. "## 과목명 (pp..)" -> "#### (N) 단원명 (p..)"

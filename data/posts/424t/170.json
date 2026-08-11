@@ -11,5 +11,28 @@
   "headCont": "",
   "contentval": "0002kzzzzzzzzzzzzzzzzzzzzzzzzz",
   "permlink": "https://cafe.daum.net/sedu22/424t/170",
-  "contentHtml": "<p><br></p><p>올해 처음 실시해보려고하는 종목입니다.</p><p>교실에서 진행할 것 같아서 식물로 생각하고 있는데</p><p>특징이 뚜렷하며 학생들이 관찰하기 좋은 식물로 어떻게 있을까요? 도와주세요!<br></p>\n\t \t\t\t\t\t<!-- -->"
+  "contentHtml": "<p><br></p><p>올해 처음 실시해보려고하는 종목입니다.</p><p>교실에서 진행할 것 같아서 식물로 생각하고 있는데</p><p>특징이 뚜렷하며 학생들이 관찰하기 좋은 식물로 어떻게 있을까요? 도와주세요!<br></p>\n\t \t\t\t\t\t<!-- -->",
+  "tags": [
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "생물의 다양성",
+      "confidence": "low"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "생물의 구성과 다양성",
+      "confidence": "low"
+    },
+    {
+      "category": "과학교사 업무",
+      "topic": "과학 행사",
+      "confidence": "medium"
+    }
+  ],
+  "tagsNote": "자연관찰 대회 주제(관찰하기 좋은 식물) 문의 — 생물다양성 관찰 내용과 느슨하게 관련.",
+  "taggedAt": "2026-08-11T15:47:45.272Z"
 }
