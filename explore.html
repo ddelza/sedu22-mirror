@@ -1,0 +1,342 @@
+<!doctype html>
+<html lang="ko">
+<head>
+<meta charset="utf-8">
+<title>재과만(sedu22) 카페 미러 — 단원별 둘러보기</title>
+<style>
+  * { box-sizing: border-box; }
+  body { font-family: -apple-system, "Malgun Gothic", sans-serif; margin: 0; background: #f5f5f5; color: #222; }
+  header { background: #222; color: #fff; padding: 12px 20px; display: flex; align-items: center; gap: 24px; flex-wrap: wrap; }
+  header h1 { margin: 0; font-size: 16px; font-weight: 600; }
+  nav { display: flex; gap: 4px; }
+  nav button { background: transparent; border: none; color: #ccc; padding: 8px 14px; border-radius: 6px; cursor: pointer; font-size: 14px; }
+  nav button.active { background: #444; color: #fff; }
+  nav button:hover { background: #333; color: #fff; }
+  #stats { margin-left: auto; font-size: 12px; color: #999; }
+
+  main { display: flex; height: calc(100vh - 53px); overflow: hidden; }
+
+  #treePanel {
+    width: 100%; overflow-y: auto; background: #fff; border-right: 1px solid #ddd;
+    padding: 16px 20px; transition: width 0.25s ease; display: none;
+  }
+  #treePanel.show { display: block; }
+  #treePanel.collapsed { width: 320px; min-width: 320px; }
+
+  #listPanel { flex: 1; overflow-y: auto; padding: 16px 20px; display: none; }
+  #listPanel.show { display: block; }
+
+  .tree-year > summary { font-size: 17px; font-weight: 700; padding: 8px 0; }
+  .tree-level > summary { font-size: 15px; font-weight: 600; padding: 6px 0 6px 14px; }
+  .tree-subject > summary { font-size: 14px; font-weight: 600; padding: 4px 0 4px 28px; color: #445; }
+  details > summary { cursor: pointer; list-style: none; }
+  details > summary::-webkit-details-marker { display: none; }
+  details > summary::before { content: "▸ "; color: #888; }
+  details[open] > summary::before { content: "▾ "; color: #888; }
+
+  .unit-node {
+    padding: 5px 8px 5px 42px; font-size: 13.5px; color: #2255aa; cursor: pointer; border-radius: 4px;
+    position: relative;
+  }
+  .unit-node:hover { background: #eaf1ff; }
+  .unit-node .cnt { color: #999; font-size: 12px; margin-left: 4px; }
+
+  #tooltip {
+    position: fixed; max-width: 420px; background: #222; color: #eee; padding: 10px 12px; border-radius: 6px;
+    font-size: 12.5px; line-height: 1.55; z-index: 50; display: none; box-shadow: 0 4px 16px rgba(0,0,0,.3);
+    pointer-events: none;
+  }
+  #tooltip div { margin-bottom: 4px; }
+
+  #unclassifiedNode { margin-top: 10px; padding: 8px; border-radius: 6px; background: #f7f7f7; }
+
+  .post-card { background: #fff; border: 1px solid #e5e5e5; border-radius: 8px; padding: 12px 16px; margin-bottom: 10px; cursor: pointer; }
+  .post-card:hover { border-color: #99b8ff; box-shadow: 0 2px 8px rgba(0,0,0,.06); }
+  .post-card .title { font-size: 15px; font-weight: 600; margin-bottom: 4px; }
+  .post-card .meta { font-size: 12px; color: #888; }
+  .post-card .tags { margin-top: 6px; display: flex; gap: 6px; flex-wrap: wrap; }
+  .tag-chip { font-size: 11px; background: #eef3ff; color: #2255aa; padding: 2px 8px; border-radius: 10px; }
+  .tag-chip.unclassified { background: #f0f0f0; color: #888; }
+  .no-tag { font-size: 11px; color: #bbb; }
+
+  #filterBar { display: flex; align-items: center; gap: 10px; margin-bottom: 14px; }
+  #filterBar .path { font-size: 14px; font-weight: 600; }
+  #filterBar button { border: 1px solid #ccc; background: #fff; border-radius: 6px; padding: 5px 10px; cursor: pointer; font-size: 12px; }
+
+  #pagination { display: flex; justify-content: center; gap: 6px; margin: 18px 0 40px; }
+  #pagination button { border: 1px solid #ccc; background: #fff; border-radius: 6px; padding: 6px 12px; cursor: pointer; font-size: 13px; }
+  #pagination button.active { background: #222; color: #fff; border-color: #222; }
+  #pagination button:disabled { opacity: 0.4; cursor: default; }
+
+  #modalBg { display: none; position: fixed; inset: 0; background: rgba(0,0,0,.5); z-index: 100; }
+  #modalBg.show { display: flex; align-items: flex-start; justify-content: center; padding: 40px 20px; overflow-y: auto; }
+  #modal { background: #fff; border-radius: 10px; max-width: 760px; width: 100%; padding: 28px 32px; }
+  #modal .title { font-size: 20px; font-weight: 700; margin-bottom: 8px; }
+  #modal .meta { font-size: 13px; color: #777; margin-bottom: 18px; }
+  #modal .content img { max-width: 100%; height: auto; }
+  #modal .content { line-height: 1.7; }
+  #modal .close { float: right; border: none; background: none; font-size: 20px; cursor: pointer; color: #999; }
+
+  .empty { color: #999; padding: 40px; text-align: center; }
+</style>
+</head>
+<body>
+
+<header>
+  <h1>재과만(sedu22) 카페 — 수업자료 둘러보기</h1>
+  <nav>
+    <button id="navHome" class="active">최신글</button>
+    <button id="navTree">단원별로 수업 둘러보기</button>
+  </nav>
+  <div id="stats"></div>
+</header>
+
+<main>
+  <div id="treePanel"></div>
+  <div id="listPanel"></div>
+</main>
+
+<div id="tooltip"></div>
+
+<div id="modalBg">
+  <div id="modal"></div>
+</div>
+
+<script src="site-data.js"></script>
+<script>
+const { posts, tree } = window.SITE_DATA;
+const PAGE_SIZE = 20;
+
+let state = { view: 'home', page: 1, filter: null }; // filter: {curriculumYear,schoolLevel,subject,unit} or {unit:'미분류'} or null
+
+document.getElementById('stats').textContent =
+  `게시글 ${posts.length.toLocaleString()}건 중 태그 완료 ${posts.filter(p=>p.tags&&p.tags.length>0).length.toLocaleString()}건`;
+
+// ---------------- 유틸 ----------------
+function escapeHtml(s) {
+  return String(s ?? '').replace(/[&<>"']/g, (c) => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+}
+function sanitize(html) {
+  return (html || '').replace(/<script[\s\S]*?<\/script>/gi, '');
+}
+function stripTags(html) {
+  return (html || '').replace(/<[^>]*>/g, ' ').replace(/&#160;|&nbsp;/g, ' ').replace(/\s+/g, ' ').trim();
+}
+function tagMatches(t, filter) {
+  if (filter.unit === '미분류') return t.unit === '미분류';
+  return t.curriculumYear === filter.curriculumYear && t.schoolLevel === filter.schoolLevel &&
+         t.subject === filter.subject && t.unit === filter.unit;
+}
+function countForFilter(filter) {
+  return posts.filter(p => p.tags && p.tags.some(t => tagMatches(t, filter))).length;
+}
+
+// ---------------- 트리 렌더 ----------------
+function buildTreeHtml() {
+  let html = '';
+  for (const year of ['2015', '2022']) {
+    html += `<details class="tree-year"><summary>${year} 개정 교육과정</summary><div>`;
+    for (const schoolLevel of ['중학교', '고등학교']) {
+      const subjects = tree[year][schoolLevel] || {};
+      const subjectNames = Object.keys(subjects);
+      if (subjectNames.length === 0) continue;
+      html += `<details class="tree-level"><summary>${schoolLevel}</summary><div>`;
+      for (const subject of subjectNames) {
+        const units = subjects[subject];
+        const unitNames = Object.keys(units);
+        html += `<details class="tree-subject"><summary>${escapeHtml(subject)}</summary><div>`;
+        for (const unit of unitNames) {
+          const filter = { curriculumYear: year, schoolLevel, subject, unit };
+          const cnt = countForFilter(filter);
+          const standards = units[unit];
+          html += `<div class="unit-node" data-filter='${escapeHtml(JSON.stringify(filter))}' data-standards='${escapeHtml(JSON.stringify(standards))}'>${escapeHtml(unit)}<span class="cnt">(${cnt})</span></div>`;
+        }
+        html += `</div></details>`;
+      }
+      html += `</div></details>`;
+    }
+    html += `</div></details>`;
+  }
+  const unclassifiedCnt = countForFilter({ unit: '미분류' });
+  html += `<div id="unclassifiedNode" class="unit-node" data-filter='${escapeHtml(JSON.stringify({unit:'미분류'}))}'>📎 미분류(단원과 무관한 글)<span class="cnt">(${unclassifiedCnt})</span></div>`;
+  return html;
+}
+
+function renderTree() {
+  const panel = document.getElementById('treePanel');
+  panel.innerHTML = buildTreeHtml();
+  panel.querySelectorAll('.unit-node').forEach((el) => {
+    const filter = JSON.parse(el.dataset.filter);
+    const standards = el.dataset.standards ? JSON.parse(el.dataset.standards) : null;
+    el.addEventListener('click', () => {
+      hideTooltip();
+      state.filter = filter;
+      state.page = 1;
+      state.view = 'tree-filtered';
+      render();
+    });
+    if (standards && standards.length) {
+      el.addEventListener('mouseenter', (e) => showTooltip(e, standards));
+      el.addEventListener('mousemove', (e) => positionTooltip(e));
+      el.addEventListener('mouseleave', hideTooltip);
+    }
+  });
+}
+
+function showTooltip(e, standards) {
+  const tip = document.getElementById('tooltip');
+  tip.innerHTML = `<strong>성취기준</strong><hr style="border-color:#444;margin:6px 0">` +
+    standards.map((s) => `<div>${escapeHtml(s)}</div>`).join('');
+  tip.style.display = 'block';
+  positionTooltip(e);
+}
+function positionTooltip(e) {
+  const tip = document.getElementById('tooltip');
+  const x = Math.min(e.clientX + 16, window.innerWidth - 440);
+  const y = Math.min(e.clientY + 12, window.innerHeight - 20);
+  tip.style.left = x + 'px';
+  tip.style.top = y + 'px';
+}
+function hideTooltip() {
+  document.getElementById('tooltip').style.display = 'none';
+}
+
+// ---------------- 목록 렌더 ----------------
+function getFilteredPosts() {
+  if (!state.filter) return posts;
+  return posts.filter(p => p.tags && p.tags.some(t => tagMatches(t, state.filter)));
+}
+
+function renderList() {
+  const panel = document.getElementById('listPanel');
+  const filtered = getFilteredPosts();
+  const totalPages = Math.max(1, Math.ceil(filtered.length / PAGE_SIZE));
+  state.page = Math.min(state.page, totalPages);
+  const start = (state.page - 1) * PAGE_SIZE;
+  const pagePosts = filtered.slice(start, start + PAGE_SIZE);
+
+  let html = '';
+
+  if (state.filter) {
+    const label = state.filter.unit === '미분류'
+      ? '📎 미분류'
+      : `${state.filter.curriculumYear} · ${state.filter.schoolLevel} · ${state.filter.subject} · ${state.filter.unit}`;
+    html += `<div id="filterBar"><span class="path">${escapeHtml(label)}</span><button id="clearFilter">← 전체 단원 보기</button></div>`;
+  }
+
+  html += `<div id="cards">`;
+  if (pagePosts.length === 0) {
+    html += `<div class="empty">해당 단원으로 태그된 게시글이 아직 없습니다.</div>`;
+  }
+  for (const p of pagePosts) {
+    const tagsHtml = p.tags && p.tags.length
+      ? `<div class="tags">${p.tags.map(t => `<span class="tag-chip ${t.unit==='미분류'?'unclassified':''}">${escapeHtml(t.unit)}</span>`).join('')}</div>`
+      : `<div class="no-tag">(아직 태깅 안 됨)</div>`;
+    const preview = escapeHtml(stripTags(p.contentHtml).slice(0, 80));
+    html += `<div class="post-card" data-id="${p.id}">
+      <div class="title">${escapeHtml(p.title || '(제목 없음)')}</div>
+      <div class="meta">${escapeHtml(p.board)} · ${escapeHtml(p.author)} · ${escapeHtml(p.created)} · 조회 ${p.viewCnt ?? '-'}</div>
+      <div style="font-size:13px;color:#555;margin-top:4px;">${preview}${preview.length===80?'…':''}</div>
+      ${tagsHtml}
+    </div>`;
+  }
+  html += `</div>`;
+
+  html += `<div id="pagination">`;
+  html += `<button ${state.page<=1?'disabled':''} data-page="${state.page-1}">이전</button>`;
+  const pageWindow = 5;
+  let from = Math.max(1, state.page - Math.floor(pageWindow/2));
+  let to = Math.min(totalPages, from + pageWindow - 1);
+  from = Math.max(1, to - pageWindow + 1);
+  for (let i = from; i <= to; i++) {
+    html += `<button class="${i===state.page?'active':''}" data-page="${i}">${i}</button>`;
+  }
+  html += `<button ${state.page>=totalPages?'disabled':''} data-page="${state.page+1}">다음</button>`;
+  html += `</div>`;
+
+  panel.innerHTML = html;
+
+  const clearBtn = document.getElementById('clearFilter');
+  if (clearBtn) clearBtn.addEventListener('click', () => {
+    state.filter = null;
+    state.page = 1;
+    state.view = state.view === 'tree-filtered' ? 'tree' : 'home';
+    render();
+  });
+
+  panel.querySelectorAll('.post-card').forEach((el) => {
+    el.addEventListener('click', () => openModal(el.dataset.id));
+  });
+
+  panel.querySelectorAll('#pagination button[data-page]').forEach((el) => {
+    el.addEventListener('click', () => {
+      state.page = Number(el.dataset.page);
+      renderList();
+      panel.scrollTop = 0;
+    });
+  });
+}
+
+// ---------------- 모달 ----------------
+function openModal(id) {
+  const p = posts.find((x) => x.id === id);
+  if (!p) return;
+  const tagsHtml = p.tags && p.tags.length
+    ? p.tags.map(t => `<span class="tag-chip ${t.unit==='미분류'?'unclassified':''}">${escapeHtml(t.unit)}</span>`).join(' ')
+    : '';
+  document.getElementById('modal').innerHTML = `
+    <button class="close" id="modalClose">✕</button>
+    <div class="title">${escapeHtml(p.title)}</div>
+    <div class="meta">${escapeHtml(p.board)} · ${escapeHtml(p.author)} · ${escapeHtml(p.created)} · 조회 ${p.viewCnt??'-'} · 댓글 ${p.commentCnt??'-'}
+      ${p.permlink ? ` · <a href="${escapeHtml(p.permlink)}" target="_blank" rel="noopener">원본 보기</a>` : ''}
+    </div>
+    <div style="margin-bottom:10px;">${tagsHtml}</div>
+    <div class="content">${sanitize(p.contentHtml)}</div>
+  `;
+  document.getElementById('modalBg').classList.add('show');
+  document.getElementById('modalClose').addEventListener('click', closeModal);
+}
+function closeModal() {
+  document.getElementById('modalBg').classList.remove('show');
+}
+document.getElementById('modalBg').addEventListener('click', (e) => {
+  if (e.target.id === 'modalBg') closeModal();
+});
+
+// ---------------- 전체 렌더/상태 ----------------
+function render() {
+  const treePanel = document.getElementById('treePanel');
+  const listPanel = document.getElementById('listPanel');
+
+  document.getElementById('navHome').classList.toggle('active', state.view === 'home');
+  document.getElementById('navTree').classList.toggle('active', state.view !== 'home');
+
+  if (state.view === 'home') {
+    treePanel.classList.remove('show', 'collapsed');
+    listPanel.classList.add('show');
+    state.filter = null;
+    renderList();
+  } else if (state.view === 'tree') {
+    treePanel.classList.add('show');
+    treePanel.classList.remove('collapsed');
+    listPanel.classList.remove('show');
+    renderTree();
+  } else if (state.view === 'tree-filtered') {
+    treePanel.classList.add('show', 'collapsed');
+    listPanel.classList.add('show');
+    renderTree();
+    renderList();
+  }
+}
+
+document.getElementById('navHome').addEventListener('click', () => {
+  state.view = 'home'; state.filter = null; state.page = 1; render();
+});
+document.getElementById('navTree').addEventListener('click', () => {
+  state.view = 'tree'; state.filter = null; render();
+});
+
+render();
+</script>
+</body>
+</html>
