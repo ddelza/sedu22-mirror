@@ -11,5 +11,14 @@
   "headCont": "",
   "contentval": "0001Kzzzzzzzzzzzzzzzzzzzzzzzzz",
   "permlink": "https://cafe.daum.net/sedu22/5FKz/82",
-  "contentHtml": "<p>디딤영상 마이크는 어떤걸 사용하시나요?<br />휴대폰 이어폰으로 했더니 음질이 좀 떨어져서요.<br />좋은 마이크 있을까요?<br /><br /></p><p><br /></p>\n\t \t\t\t\t\t<!-- -->"
+  "contentHtml": "<p>디딤영상 마이크는 어떤걸 사용하시나요?<br />휴대폰 이어폰으로 했더니 음질이 좀 떨어져서요.<br />좋은 마이크 있을까요?<br /><br /></p><p><br /></p>\n\t \t\t\t\t\t<!-- -->",
+  "tags": [
+    {
+      "category": "수업 방법론",
+      "topic": "거꾸로 교실",
+      "confidence": "high"
+    }
+  ],
+  "tagsNote": "디딤영상용 마이크 추천 요청.",
+  "taggedAt": "2026-08-11T23:34:47.226Z"
 }

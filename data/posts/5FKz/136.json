@@ -11,5 +11,14 @@
   "headCont": "",
   "contentval": "0002Czzzzzzzzzzzzzzzzzzzzzzzzz",
   "permlink": "https://cafe.daum.net/sedu22/5FKz/136",
-  "contentHtml": "<p class=\"cafe-editor-text\">explain everything 앱이 원래 유료인가요?<br /><br />아시는 선생님 답변 부탁드려요~~~~</p>\n\t \t\t\t\t\t<!-- -->"
+  "contentHtml": "<p class=\"cafe-editor-text\">explain everything 앱이 원래 유료인가요?<br /><br />아시는 선생님 답변 부탁드려요~~~~</p>\n\t \t\t\t\t\t<!-- -->",
+  "tags": [
+    {
+      "category": "스마트 수업도구",
+      "topic": "앱/프로그램",
+      "confidence": "medium"
+    }
+  ],
+  "tagsNote": "동영상 제작 앱(explain everything) 유료 여부 문의 — 거꾸로 교실 게시판이지만 앱 자체에 대한 질문.",
+  "taggedAt": "2026-08-11T23:32:07.136Z"
 }

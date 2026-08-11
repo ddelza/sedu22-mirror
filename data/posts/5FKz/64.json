@@ -11,5 +11,28 @@
   "headCont": "",
   "contentval": "00012zzzzzzzzzzzzzzzzzzzzzzzzz",
   "permlink": "https://cafe.daum.net/sedu22/5FKz/64",
-  "contentHtml": "<div>과학실 모둠 배치 방법을 바꿔봤습니다.&nbsp;</div><div>한 반 33-35 명이라 4-5명 8개 조로 하고, 가운데를 비웠구요.&nbsp;</div><div><br></div><div>순서는 사진처럼 반시계로. 각 조내의 번호도 반시계로 줬습니다.&nbsp;</div><div><br></div><div>모두 반시계방향은 이유는 나중에 알게 된다고 얘기해주고 ㅎ( 태양계가 첫 단원임)</div><div><br></div><div>가운데 비우고 한 방향으로 번호 붙이니까 종이를 돌리던, 사람을 돌리던 훨씬 체계가 잡힐 것 같습니다^^</div><p><img src='https://t1.daumcdn.net/cfile/cafe/240B90345501D52514' class='txc-image' /></p>\n\t \t\t\t\t\t<!-- -->"
+  "contentHtml": "<div>과학실 모둠 배치 방법을 바꿔봤습니다.&nbsp;</div><div>한 반 33-35 명이라 4-5명 8개 조로 하고, 가운데를 비웠구요.&nbsp;</div><div><br></div><div>순서는 사진처럼 반시계로. 각 조내의 번호도 반시계로 줬습니다.&nbsp;</div><div><br></div><div>모두 반시계방향은 이유는 나중에 알게 된다고 얘기해주고 ㅎ( 태양계가 첫 단원임)</div><div><br></div><div>가운데 비우고 한 방향으로 번호 붙이니까 종이를 돌리던, 사람을 돌리던 훨씬 체계가 잡힐 것 같습니다^^</div><p><img src='https://t1.daumcdn.net/cfile/cafe/240B90345501D52514' class='txc-image' /></p>\n\t \t\t\t\t\t<!-- -->",
+  "tags": [
+    {
+      "category": "수업 방법론",
+      "topic": "거꾸로 교실",
+      "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "태양계",
+      "confidence": "low"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "태양계",
+      "confidence": "low"
+    }
+  ],
+  "tagsNote": "과학실 모둠 배치 방법 변경(태양계 단원 도입 연계).",
+  "taggedAt": "2026-08-11T23:33:10.437Z"
 }
