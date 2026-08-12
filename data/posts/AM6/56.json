@@ -17,6 +17,13 @@
       "category": "게시판별 분류",
       "topic": "수석교사의 방(2023~)",
       "confidence": "high"
+    },
+    {
+      "category": "과학교사 업무",
+      "topic": "과학 행사",
+      "confidence": "low"
     }
-  ]
+  ],
+  "tagsNote": "국제학생창의력올림피아드대회 참관기.",
+  "taggedAt": "2026-08-11T23:57:35.703Z"
 }

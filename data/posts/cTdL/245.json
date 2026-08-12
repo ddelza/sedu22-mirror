@@ -17,6 +17,22 @@
       "category": "게시판별 분류",
       "topic": "고1과학&탐구실험",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "고등학교",
+      "subject": "통합과학",
+      "unit": "지구 시스템",
+      "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "고등학교",
+      "subject": "통합과학2",
+      "unit": "환경과 에너지",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "탄소 순환/탄소중립 관련 영상자료 공유.",
+  "taggedAt": "2026-08-12T00:04:14.359Z"
 }

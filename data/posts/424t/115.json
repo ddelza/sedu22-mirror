@@ -17,8 +17,13 @@
       "category": "게시판별 분류",
       "topic": "과학행사&과학실 Idea",
       "confidence": "high"
+    },
+    {
+      "category": "과학교사 업무",
+      "topic": "과학 행사",
+      "confidence": "high"
     }
   ],
-  "tagsNote": "과학 행사 운영에 대한 게시글로, 특정 교육과정 단원과 직접적인 관련이 없습니다.",
-  "taggedAt": "2026-08-11T14:40:18.898Z"
+  "tagsNote": "런치과학UCC페스티벌 운영 후기.",
+  "taggedAt": "2026-08-11T23:51:41.337Z"
 }

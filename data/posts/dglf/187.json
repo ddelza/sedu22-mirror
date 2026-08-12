@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "(고교)생명과학수업 이야기",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "고등학교",
+      "subject": "생명과학Ⅰ",
+      "unit": "유전",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "단백질 합성(번역, 아미노산) 보드게임 제작(생명과학2 수업).",
+  "taggedAt": "2026-08-12T00:25:53.979Z"
 }

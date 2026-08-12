@@ -17,6 +17,13 @@
       "category": "게시판별 분류",
       "topic": "고1과학&탐구실험",
       "confidence": "high"
+    },
+    {
+      "category": "과학교사 업무",
+      "topic": "과학실 관리",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "미성년자 해부실습 금지 동물 리스트 공문 공유(멸치해부 관련).",
+  "taggedAt": "2026-08-12T00:00:54.005Z"
 }

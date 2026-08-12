@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "고1과학&탐구실험",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "고등학교",
+      "subject": "통합과학",
+      "unit": "지구 시스템",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "통합과학 심화탐구 발표(우주를 담은 음악).",
+  "taggedAt": "2026-08-12T00:16:33.994Z"
 }

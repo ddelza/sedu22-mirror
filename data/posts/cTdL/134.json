@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "고1과학&탐구실험",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "고등학교",
+      "subject": "통합과학",
+      "unit": "화학 변화",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "자주색 양배추 지시약 색 변화 실험 질문.",
+  "taggedAt": "2026-08-12T00:00:53.991Z"
 }

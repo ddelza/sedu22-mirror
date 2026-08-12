@@ -17,6 +17,22 @@
       "category": "게시판별 분류",
       "topic": "고1과학&탐구실험",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "고등학교",
+      "subject": "통합과학",
+      "unit": "지구 시스템",
+      "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "고등학교",
+      "subject": "통합과학",
+      "unit": "자연의 구성 물질",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "빅뱅우주론/별의 진화/지구의 형성 관련 과학단어퍼즐게임(대단원1).",
+  "taggedAt": "2026-08-12T00:00:53.974Z"
 }

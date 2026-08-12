@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "고1과학&탐구실험",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "과학 캘리그라피 수업나눔 정리(특정 단원 아닌 교수법성 자료).",
+  "taggedAt": "2026-08-12T00:23:05.952Z"
 }

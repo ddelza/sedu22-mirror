@@ -17,6 +17,22 @@
       "category": "게시판별 분류",
       "topic": "수석교사의 방(2023~)",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "고등학교",
+      "subject": "화학Ⅰ",
+      "unit": "화학 결합과 분자의 세계",
+      "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "고등학교",
+      "subject": "화학",
+      "unit": "물질의 구조와 성질",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "오리고 붙이는 분자(화합물) 모형 만들기 수업 아이디어.",
+  "taggedAt": "2026-08-11T23:53:37.545Z"
 }

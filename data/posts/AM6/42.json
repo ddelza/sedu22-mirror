@@ -17,6 +17,22 @@
       "category": "게시판별 분류",
       "topic": "수석교사의 방(2023~)",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "생식과 유전",
+      "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "생식과 유전",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "멘델 동물(reebops) 만들기 — 멘델 유전법칙 탐구활동.",
+  "taggedAt": "2026-08-11T23:57:35.681Z"
 }

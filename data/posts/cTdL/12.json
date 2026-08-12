@@ -17,6 +17,22 @@
       "category": "게시판별 분류",
       "topic": "고1과학&탐구실험",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "고등학교",
+      "subject": "통합과학",
+      "unit": "지구 시스템",
+      "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "고등학교",
+      "subject": "지구과학",
+      "unit": "태양계 천체와 별과 우주의 진화",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "별빛의 선스펙트럼 분석(원소 종류/양 판별) 질문.",
+  "taggedAt": "2026-08-12T00:00:53.980Z"
 }

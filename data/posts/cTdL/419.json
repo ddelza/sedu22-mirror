@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "고1과학&탐구실험",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "융합과학 2,3단원 PPT — 과목이 단원 인덱스에 없음.",
+  "taggedAt": "2026-08-12T00:16:33.988Z"
 }

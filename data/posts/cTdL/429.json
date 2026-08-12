@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "고1과학&탐구실험",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "지역만기로 인한 고등학교 이동 관련 진로 상담.",
+  "taggedAt": "2026-08-12T00:16:33.996Z"
 }

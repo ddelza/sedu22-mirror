@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "고1과학&탐구실험",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "과학탐구실험 수행평가 채점 방식 문의 — 특정 단원 아닌 평가방식 질문.",
+  "taggedAt": "2026-08-11T23:59:11.483Z"
 }

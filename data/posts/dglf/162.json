@@ -17,6 +17,20 @@
       "category": "게시판별 분류",
       "topic": "(고교)생명과학수업 이야기",
       "confidence": "high"
+    },
+    {
+      "category": "과학교사 업무",
+      "topic": "동아리 운영",
+      "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "고등학교",
+      "subject": "생명과학Ⅰ",
+      "unit": "유전",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "생명과학 동아리 2학기 실험주제(초파리 교배실험) 고민.",
+  "taggedAt": "2026-08-12T00:25:53.963Z"
 }

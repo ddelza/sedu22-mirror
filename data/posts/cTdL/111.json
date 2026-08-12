@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "고1과학&탐구실험",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "고등학교",
+      "subject": "생명과학Ⅰ",
+      "unit": "생명과학의 이해",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "생물의 특성 단원 낱말찾기/시크릿메세지 활동지.",
+  "taggedAt": "2026-08-11T23:59:11.481Z"
 }

@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "고1과학&탐구실험",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "고등학교",
+      "subject": "과학탐구실험",
+      "unit": "역사 속의 과학 탐구",
+      "confidence": "low"
     }
-  ]
+  ],
+  "tagsNote": "귀납적 탐구 방법 소개(아인슈타인 문제 예시).",
+  "taggedAt": "2026-08-12T00:02:34.256Z"
 }

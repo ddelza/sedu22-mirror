@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "고1과학&탐구실험",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "고등학교",
+      "subject": "통합과학2",
+      "unit": "과학과 미래 사회",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "3단원(AI/로봇/사물인터넷) 과학 독서 논술 활동.",
+  "taggedAt": "2026-08-12T00:21:28.517Z"
 }

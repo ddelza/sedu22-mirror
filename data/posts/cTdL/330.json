@@ -17,6 +17,20 @@
       "category": "게시판별 분류",
       "topic": "고1과학&탐구실험",
       "confidence": "high"
+    },
+    {
+      "category": "과학교사 업무",
+      "topic": "과학실 관리",
+      "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "고등학교",
+      "subject": "통합과학",
+      "unit": "생명 시스템",
+      "confidence": "low"
     }
-  ]
+  ],
+  "tagsNote": "카탈레이스 실험 후 과산화수소 반응물 폐기법 질문.",
+  "taggedAt": "2026-08-12T00:09:40.036Z"
 }

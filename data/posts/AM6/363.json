@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "수석교사의 방(2023~)",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "질문 중심 교실 만들기 영상 — 특정 명명된 교수법 아님.",
+  "taggedAt": "2026-08-11T23:53:37.541Z"
 }

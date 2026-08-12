@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "고1과학&탐구실험",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "2022개정 통합과학 성취기준 물화생지 연계 분류 설문(교육과정 논의).",
+  "taggedAt": "2026-08-12T00:09:40.046Z"
 }

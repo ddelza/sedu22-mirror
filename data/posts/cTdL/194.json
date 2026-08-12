@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "고1과학&탐구실험",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "고등학교",
+      "subject": "물리학Ⅰ",
+      "unit": "물질과 전자기장",
+      "confidence": "low"
     }
-  ]
+  ],
+  "tagsNote": "마이스너 효과(초전도체) 설명 방식 질문.",
+  "taggedAt": "2026-08-12T00:02:34.248Z"
 }

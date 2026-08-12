@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "(고교)생명과학수업 이야기",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "고등학교",
+      "subject": "생명과학Ⅰ",
+      "unit": "생태계와 상호 작용",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "생태계와 상호작용 단원 복수정답 인정 문의(단원 명시).",
+  "taggedAt": "2026-08-12T00:23:05.973Z"
 }

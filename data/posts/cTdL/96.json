@@ -17,6 +17,13 @@
       "category": "게시판별 분류",
       "topic": "고1과학&탐구실험",
       "confidence": "high"
+    },
+    {
+      "category": "과학교사 업무",
+      "topic": "과학실 관리",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "대장균 고체배지 구입처 문의.",
+  "taggedAt": "2026-08-12T00:23:05.966Z"
 }

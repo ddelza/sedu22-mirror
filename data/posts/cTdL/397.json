@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "고1과학&탐구실험",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "고등학교",
+      "subject": "통합과학1",
+      "unit": "과학의 기초",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "기본량/유도량 구분(370번 답글, 기온/습도 판별).",
+  "taggedAt": "2026-08-12T00:16:33.977Z"
 }

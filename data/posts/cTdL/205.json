@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "고1과학&탐구실험",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "고등학교",
+      "subject": "과학탐구실험",
+      "unit": "생활 속의 과학 탐구",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "발포비타민 관찰 기반 과학적 탐구방법 수업.",
+  "taggedAt": "2026-08-12T00:02:34.260Z"
 }

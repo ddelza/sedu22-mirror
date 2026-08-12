@@ -17,6 +17,20 @@
       "category": "게시판별 분류",
       "topic": "고1과학&탐구실험",
       "confidence": "high"
+    },
+    {
+      "category": "과학교사 업무",
+      "topic": "동아리 운영",
+      "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "고등학교",
+      "subject": "물리학Ⅰ",
+      "unit": "파동과 정보통신",
+      "confidence": "low"
     }
-  ]
+  ],
+  "tagsNote": "동아리 학생용 간이 에어팟 만들기 자료 요청.",
+  "taggedAt": "2026-08-12T00:00:53.978Z"
 }

@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "수석교사의 방(2023~)",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "NSTA 학회 발표 선정 개인 소식, 구체적 자료 공유는 아님.",
+  "taggedAt": "2026-08-11T23:57:35.690Z"
 }

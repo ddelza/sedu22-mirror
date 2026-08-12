@@ -17,6 +17,13 @@
       "category": "게시판별 분류",
       "topic": "고1과학&탐구실험",
       "confidence": "high"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "생성형 AI 도구",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "NotebookLM/Gemini로 통합과학 1년 정리 낱말퀴즈 제작.",
+  "taggedAt": "2026-08-12T00:16:33.994Z"
 }

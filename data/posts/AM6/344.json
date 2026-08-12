@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "수석교사의 방(2023~)",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "질문 중심 수업 설계 아이디어 — 특정 단원/카테고리로 좁혀지지 않는 일반 교수법 메모.",
+  "taggedAt": "2026-08-11T23:53:37.523Z"
 }

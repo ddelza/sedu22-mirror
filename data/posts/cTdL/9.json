@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "고1과학&탐구실험",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "low"
     }
-  ]
+  ],
+  "tagsNote": "양자역학 소재 만화 소개(어린이과학동아) — 특정 단원과 직접 연결 안 됨.",
+  "taggedAt": "2026-08-12T00:23:05.962Z"
 }

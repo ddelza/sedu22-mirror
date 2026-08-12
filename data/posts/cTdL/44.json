@@ -17,6 +17,20 @@
       "category": "게시판별 분류",
       "topic": "고1과학&탐구실험",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "medium"
+    },
+    {
+      "category": "수업 방법론",
+      "topic": "배움중심수업",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "5단원 인류의 건강과 과학기술 배움중심수업 활동지(현행 단원 인덱스와 매칭 안 되는 옛 단원명).",
+  "taggedAt": "2026-08-12T00:21:28.520Z"
 }

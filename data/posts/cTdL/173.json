@@ -17,6 +17,13 @@
       "category": "게시판별 분류",
       "topic": "고1과학&탐구실험",
       "confidence": "high"
+    },
+    {
+      "category": "과학교사 업무",
+      "topic": "과학실 관리",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "해부실험 관련 동물보호법 시행규칙 개정 안내.",
+  "taggedAt": "2026-08-12T00:02:34.235Z"
 }

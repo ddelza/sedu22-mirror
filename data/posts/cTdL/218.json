@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "고1과학&탐구실험",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "고등학교",
+      "subject": "통합과학",
+      "unit": "생명 시스템",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "광합성 색소 분리 크로마토그래피 실험 질문.",
+  "taggedAt": "2026-08-12T00:04:14.338Z"
 }

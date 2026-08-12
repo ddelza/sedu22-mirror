@@ -17,6 +17,13 @@
       "category": "게시판별 분류",
       "topic": "고1과학&탐구실험",
       "confidence": "high"
+    },
+    {
+      "category": "과학교사 업무",
+      "topic": "과학 행사",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "과학 경시대회 문제 출제 관련 기출문제 요청.",
+  "taggedAt": "2026-08-12T00:00:53.996Z"
 }

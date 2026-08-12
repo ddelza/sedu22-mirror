@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "(고교)생명과학수업 이야기",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "고등학교",
+      "subject": "생명과학",
+      "unit": "생명시스템의 구성",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "생물의 구성체제 단어배열 활동(거꾸로 교실 다큐에서 아이디어를 얻었을 뿐, 직접 거꾸로 교실을 실행한 글은 아님).",
+  "taggedAt": "2026-08-12T00:24:29.196Z"
 }

@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "고1과학&탐구실험",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "고등학교",
+      "subject": "통합과학",
+      "unit": "자연의 구성 물질",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "이산화타이타늄 신소재 여부 문의(신소재 수행평가).",
+  "taggedAt": "2026-08-12T00:09:40.035Z"
 }

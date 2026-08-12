@@ -17,6 +17,13 @@
       "category": "게시판별 분류",
       "topic": "고1과학&탐구실험",
       "confidence": "high"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "앱/프로그램",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "과학 수업용 아이패드 앱(Flexcil, Beaker, Chemist) 소개.",
+  "taggedAt": "2026-08-12T00:00:53.988Z"
 }

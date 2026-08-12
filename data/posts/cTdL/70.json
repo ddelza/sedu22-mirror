@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "고1과학&탐구실험",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "융합과학 4단원(정보통신과 신소재) 문제 요청 — 현행 단원 인덱스와 매칭 안 됨.",
+  "taggedAt": "2026-08-12T00:23:05.955Z"
 }

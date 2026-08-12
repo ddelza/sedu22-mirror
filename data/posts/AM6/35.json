@@ -17,6 +17,13 @@
       "category": "게시판별 분류",
       "topic": "수석교사의 방(2023~)",
       "confidence": "high"
+    },
+    {
+      "category": "과학교사 업무",
+      "topic": "과학 행사",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "Science Camp(1박2일) 프로그램 아이디어 소개.",
+  "taggedAt": "2026-08-11T23:53:37.530Z"
 }

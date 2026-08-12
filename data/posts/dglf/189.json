@@ -17,6 +17,22 @@
       "category": "게시판별 분류",
       "topic": "(고교)생명과학수업 이야기",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "고등학교",
+      "subject": "생명과학Ⅰ",
+      "unit": "생명과학의 이해",
+      "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "고등학교",
+      "subject": "생명과학Ⅰ",
+      "unit": "항상성과 몸의 조절",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "바이러스 관련 4시간 프로젝트 수업(가짜뉴스 판별 포함).",
+  "taggedAt": "2026-08-12T00:25:53.980Z"
 }

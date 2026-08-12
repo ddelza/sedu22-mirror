@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "고1과학&탐구실험",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "고1 과학 1단원 학습지 — 단원명 특정 어려워 미분류.",
+  "taggedAt": "2026-08-11T23:59:11.480Z"
 }

@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "고1과학&탐구실험",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "칼레이도 사이클 도안 공유 — 특정 단원과 연결되지 않음.",
+  "taggedAt": "2026-08-12T00:23:05.951Z"
 }

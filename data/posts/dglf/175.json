@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "(고교)생명과학수업 이야기",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "고등학교",
+      "subject": "생명과학Ⅰ",
+      "unit": "사람의 물질대사",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "2단원 에너지 대사 계산 모둠 활동지.",
+  "taggedAt": "2026-08-12T00:25:53.972Z"
 }

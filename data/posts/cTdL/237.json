@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "고1과학&탐구실험",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "과학중점고 '과학교양' 수업 운영기(3) — 교육과정 목록에 없는 과목.",
+  "taggedAt": "2026-08-12T00:04:14.352Z"
 }

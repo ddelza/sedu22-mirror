@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "고1과학&탐구실험",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "고등학교",
+      "subject": "통합과학",
+      "unit": "물질의 규칙성과 결합",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "전자껍질/알칼리금속 이해를 위한 주기율표 복습자료.",
+  "taggedAt": "2026-08-12T00:21:28.526Z"
 }

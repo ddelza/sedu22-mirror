@@ -17,8 +17,13 @@
       "category": "게시판별 분류",
       "topic": "과학행사&과학실 Idea",
       "confidence": "high"
+    },
+    {
+      "category": "과학교사 업무",
+      "topic": "과학 행사",
+      "confidence": "high"
     }
   ],
-  "tagsNote": "교내 과학의 날 행사 관련 일반적인 과학 퀴즈 문제 요청으로, 특정 교육과정 단원에 직접적으로 매칭하기 어렵습니다.",
-  "taggedAt": "2026-08-11T14:39:21.553Z"
+  "tagsNote": "과학퀴즈 문제 요청.",
+  "taggedAt": "2026-08-11T23:51:41.335Z"
 }

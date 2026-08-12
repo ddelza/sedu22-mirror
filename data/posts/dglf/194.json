@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "(고교)생명과학수업 이야기",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "고등학교",
+      "subject": "생명과학Ⅰ",
+      "unit": "항상성과 몸의 조절",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "감염병 관련 프로젝트 학습 예시자료(교육청 공문).",
+  "taggedAt": "2026-08-12T00:25:53.983Z"
 }

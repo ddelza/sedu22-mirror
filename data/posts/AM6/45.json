@@ -17,6 +17,22 @@
       "category": "게시판별 분류",
       "topic": "수석교사의 방(2023~)",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "고등학교",
+      "subject": "생물의 유전",
+      "unit": "유전자의 발현",
+      "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "고등학교",
+      "subject": "생명과학Ⅰ",
+      "unit": "유전",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "NSTA 학회에서 배운 '몸으로 하는 DNA→단백질 합성' 활동.",
+  "taggedAt": "2026-08-11T23:57:35.689Z"
 }

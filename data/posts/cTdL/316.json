@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "고1과학&탐구실험",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "고등학교",
+      "subject": "과학탐구실험",
+      "unit": "역사 속의 과학 탐구",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "귀납적 탐구방법 활동지(공룡 멸종 원인 추리).",
+  "taggedAt": "2026-08-12T00:09:40.026Z"
 }

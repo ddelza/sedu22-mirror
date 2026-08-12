@@ -17,6 +17,13 @@
       "category": "게시판별 분류",
       "topic": "고1과학&탐구실험",
       "confidence": "high"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "앱/프로그램",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "한국어 번역 온라인 가상실험실 PhET 소개.",
+  "taggedAt": "2026-08-12T00:07:58.392Z"
 }

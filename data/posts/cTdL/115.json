@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "고1과학&탐구실험",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "생명과학 진로 관련 도서 추천 요청 — 특정 단원 아닌 일반 요청.",
+  "taggedAt": "2026-08-11T23:59:11.484Z"
 }

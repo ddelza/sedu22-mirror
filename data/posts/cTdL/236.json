@@ -17,6 +17,22 @@
       "category": "게시판별 분류",
       "topic": "고1과학&탐구실험",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "고등학교",
+      "subject": "통합과학",
+      "unit": "지구 시스템",
+      "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "고등학교",
+      "subject": "물리학Ⅰ",
+      "unit": "파동과 정보통신",
+      "confidence": "low"
     }
-  ]
+  ],
+  "tagsNote": "분광필름 이용 분광기 만들기(별 구성성분 분석).",
+  "taggedAt": "2026-08-12T00:04:14.351Z"
 }

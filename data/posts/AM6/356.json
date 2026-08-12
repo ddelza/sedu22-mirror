@@ -17,6 +17,13 @@
       "category": "게시판별 분류",
       "topic": "수석교사의 방(2023~)",
       "confidence": "high"
+    },
+    {
+      "category": "수업 방법론",
+      "topic": "IB(개념기반학습)",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "임용고사 2차 준비자료(개념기반 탐구학습) — IB 관련 4번째 등장, 기존 카테고리 미해당.",
+  "taggedAt": "2026-08-11T23:53:37.535Z"
 }

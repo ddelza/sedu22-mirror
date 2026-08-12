@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "고1과학&탐구실험",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "고등학교",
+      "subject": "통합과학",
+      "unit": "생태계와 환경",
+      "confidence": "low"
     }
-  ]
+  ],
+  "tagsNote": "중3 대상 생태계 단원 관련 유튜브 영상 추천(중학교 전용 단원명 없어 유사 단원으로 매칭).",
+  "taggedAt": "2026-08-12T00:11:34.149Z"
 }

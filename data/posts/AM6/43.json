@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "수석교사의 방(2023~)",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "참평가(authentic evaluation) 개념 소개 — 특정 단원/카테고리로 좁혀지지 않음.",
+  "taggedAt": "2026-08-11T23:57:35.686Z"
 }

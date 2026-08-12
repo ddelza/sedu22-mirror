@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "고1과학&탐구실험",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "고등학교",
+      "subject": "물리학Ⅰ",
+      "unit": "파동과 정보통신",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "열린관 정상파(배 형성 위치) 질문.",
+  "taggedAt": "2026-08-12T00:07:58.389Z"
 }

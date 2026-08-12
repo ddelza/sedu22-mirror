@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "고1과학&탐구실험",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "고등학교",
+      "subject": "통합과학",
+      "unit": "역학적 시스템",
+      "confidence": "low"
     }
-  ]
+  ],
+  "tagsNote": "물리량과 단위 맞추기 게임(통합과학 물리학 첫시간).",
+  "taggedAt": "2026-08-12T00:02:34.237Z"
 }

@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "(고교)생명과학수업 이야기",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "생명과학1 교과서 추천 및 개정 관련 문의 — 교재 선택 행정.",
+  "taggedAt": "2026-08-12T00:25:53.959Z"
 }

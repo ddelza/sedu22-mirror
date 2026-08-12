@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "(고교)생명과학수업 이야기",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "고등학교",
+      "subject": "생명과학Ⅰ",
+      "unit": "사람의 물질대사",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "효모 발효 실험 조작변인 판단 질문.",
+  "taggedAt": "2026-08-12T00:25:53.972Z"
 }

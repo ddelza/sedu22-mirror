@@ -17,6 +17,13 @@
       "category": "게시판별 분류",
       "topic": "고1과학&탐구실험",
       "confidence": "high"
+    },
+    {
+      "category": "과학교사 업무",
+      "topic": "과학실 관리",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "고1 통합과학 여러 실험의 안전한 진행법 소개 동영상 시리즈(단원 특정 안 됨).",
+  "taggedAt": "2026-08-12T00:00:54.001Z"
 }

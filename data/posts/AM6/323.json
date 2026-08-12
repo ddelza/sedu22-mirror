@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "수석교사의 방(2023~)",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "수석교사 역할 개인 성찰글, 과학 수업/업무와 무관.",
+  "taggedAt": "2026-08-11T23:51:41.353Z"
 }

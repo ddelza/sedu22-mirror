@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "(고교)생명과학수업 이야기",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "수필성 답글(효소 단원 도입 인용) — 과학 내용보다 감상 위주.",
+  "taggedAt": "2026-08-12T00:24:29.180Z"
 }

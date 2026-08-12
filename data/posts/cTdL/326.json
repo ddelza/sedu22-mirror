@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "고1과학&탐구실험",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "고등학교",
+      "subject": "통합과학",
+      "unit": "지구 시스템",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "기후변화 학생활동지(고장난 심장, 북극의 경고).",
+  "taggedAt": "2026-08-12T00:09:40.034Z"
 }

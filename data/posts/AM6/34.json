@@ -17,6 +17,22 @@
       "category": "게시판별 분류",
       "topic": "수석교사의 방(2023~)",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "동물과 에너지",
+      "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "동물과 에너지",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "빨래집게를 이용한 근육 피로감 실험 수업 아이디어.",
+  "taggedAt": "2026-08-11T23:53:37.519Z"
 }

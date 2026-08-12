@@ -17,6 +17,13 @@
       "category": "게시판별 분류",
       "topic": "고1과학&탐구실험",
       "confidence": "high"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "MBL센서",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "이지메이커 디지털 센서를 활용한 자유 탐구.",
+  "taggedAt": "2026-08-12T00:21:28.515Z"
 }

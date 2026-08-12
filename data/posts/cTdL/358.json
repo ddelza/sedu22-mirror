@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "고1과학&탐구실험",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "고등학교",
+      "subject": "통합과학",
+      "unit": "화학 변화",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "농도/온도에 따른 시계반응(반응속도) 실험.",
+  "taggedAt": "2026-08-12T00:11:34.156Z"
 }

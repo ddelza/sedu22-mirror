@@ -17,6 +17,13 @@
       "category": "게시판별 분류",
       "topic": "(고교)생명과학수업 이야기",
       "confidence": "high"
+    },
+    {
+      "category": "과학교사 업무",
+      "topic": "과학실 관리",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "생물자원센터(KCTC) 균주 분양 및 안전등급 관련 문의.",
+  "taggedAt": "2026-08-12T00:25:53.958Z"
 }

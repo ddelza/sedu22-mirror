@@ -17,6 +17,13 @@
       "category": "게시판별 분류",
       "topic": "(고교)생명과학수업 이야기",
       "confidence": "high"
+    },
+    {
+      "category": "과학교사 업무",
+      "topic": "동아리 운영",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "동아리 시간 소눈/멸치 해부 실습 심의 여부 문의.",
+  "taggedAt": "2026-08-12T00:24:29.187Z"
 }

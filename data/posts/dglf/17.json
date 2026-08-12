@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "(고교)생명과학수업 이야기",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "고등학교",
+      "subject": "생명과학",
+      "unit": "생명시스템의 구성",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "생명체 구성물질(스테로이드 등) 관련 뉴스 자료.",
+  "taggedAt": "2026-08-12T00:25:53.966Z"
 }

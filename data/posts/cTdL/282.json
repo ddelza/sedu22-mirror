@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "고1과학&탐구실험",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "교실 찬반토론 준비물 문의 — 특정 단원 아닌 토론 운영 질문.",
+  "taggedAt": "2026-08-12T00:07:58.399Z"
 }

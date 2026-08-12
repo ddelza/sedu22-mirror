@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "고1과학&탐구실험",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "자유탐구주제 수행평가 설계 방식 문의 — 특정 단원 아닌 평가방식 질문.",
+  "taggedAt": "2026-08-12T00:04:14.348Z"
 }

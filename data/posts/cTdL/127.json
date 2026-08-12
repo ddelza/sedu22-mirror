@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "고1과학&탐구실험",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "고등학교",
+      "subject": "통합과학",
+      "unit": "역학적 시스템",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "자유낙하-수평투사 운동 비교 가상실험(공통과학).",
+  "taggedAt": "2026-08-12T00:00:53.985Z"
 }

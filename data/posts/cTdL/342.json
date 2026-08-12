@@ -17,6 +17,13 @@
       "category": "게시판별 분류",
       "topic": "고1과학&탐구실험",
       "confidence": "high"
+    },
+    {
+      "category": "과학교사 업무",
+      "topic": "교원연수",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "2022개정 통합과학 선도교원 연수 후기 및 준비 이야기.",
+  "taggedAt": "2026-08-12T00:11:34.142Z"
 }

@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "고1과학&탐구실험",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "고등학교",
+      "subject": "통합과학",
+      "unit": "자연의 구성 물질",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "빅뱅과 원소의 기원 기고글 공유.",
+  "taggedAt": "2026-08-12T00:00:53.996Z"
 }

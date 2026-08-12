@@ -17,6 +17,20 @@
       "category": "게시판별 분류",
       "topic": "고1과학&탐구실험",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "고등학교",
+      "subject": "통합과학",
+      "unit": "생명 시스템",
+      "confidence": "medium"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "생성형 AI 도구",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "'취미는 과학' 미생물 영상 활동지(제미나이로 퀴즈 제작).",
+  "taggedAt": "2026-08-12T00:21:28.529Z"
 }

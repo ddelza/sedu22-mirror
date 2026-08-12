@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "고1과학&탐구실험",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "과학과제연구 연구윤리 자료([12과연01-03] 성취기준 언급, 정확한 단원명 불확실).",
+  "taggedAt": "2026-08-12T00:09:40.024Z"
 }

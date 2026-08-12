@@ -17,6 +17,22 @@
       "category": "게시판별 분류",
       "topic": "고1과학&탐구실험",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "고등학교",
+      "subject": "생물의 유전",
+      "unit": "유전자의 발현",
+      "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "고등학교",
+      "subject": "생명과학Ⅰ",
+      "unit": "유전",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "DNA 복제, 전사, 번역 과정 활동지(생명의 암호).",
+  "taggedAt": "2026-08-11T23:59:11.473Z"
 }

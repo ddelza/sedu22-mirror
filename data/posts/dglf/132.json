@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "(고교)생명과학수업 이야기",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "고등학교",
+      "subject": "생명과학",
+      "unit": "생명의 연속성과 다양성",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "바이오모프 프로그램(진화 시뮬레이션) 소개.",
+  "taggedAt": "2026-08-12T00:24:29.198Z"
 }

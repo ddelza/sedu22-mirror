@@ -17,6 +17,13 @@
       "category": "게시판별 분류",
       "topic": "수석교사의 방(2023~)",
       "confidence": "high"
+    },
+    {
+      "category": "과학교사 업무",
+      "topic": "교원연수",
+      "confidence": "low"
     }
-  ]
+  ],
+  "tagsNote": "오산국제포럼 성과 소식지 공유.",
+  "taggedAt": "2026-08-11T23:51:41.349Z"
 }

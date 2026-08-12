@@ -17,6 +17,13 @@
       "category": "게시판별 분류",
       "topic": "고1과학&탐구실험",
       "confidence": "high"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "MBL센서",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "MBL 포토게이트 센서로 원심분리기 회전속도 측정.",
+  "taggedAt": "2026-08-12T00:11:34.147Z"
 }

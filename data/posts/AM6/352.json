@@ -17,6 +17,20 @@
       "category": "게시판별 분류",
       "topic": "수석교사의 방(2023~)",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "high"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "생성형 AI 도구",
+      "confidence": "low"
     }
-  ]
+  ],
+  "tagsNote": "자유학기제 학부모 특강 영상 — NotebookLM으로 제작, 과학 한정 내용 아님.",
+  "taggedAt": "2026-08-11T23:53:37.532Z"
 }

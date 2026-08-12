@@ -17,6 +17,18 @@
       "category": "게시판별 분류",
       "topic": "수석교사의 방(2023~)",
       "confidence": "high"
+    },
+    {
+      "category": "과학교사 업무",
+      "topic": "교원연수",
+      "confidence": "high"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "생성형 AI 도구",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "대구 지역 연수 안내 — AI도구 활용 평가문항 제작 실습 포함.",
+  "taggedAt": "2026-08-11T23:53:37.542Z"
 }

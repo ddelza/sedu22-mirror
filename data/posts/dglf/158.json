@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "(고교)생명과학수업 이야기",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "고등학교",
+      "subject": "생명과학Ⅰ",
+      "unit": "유전",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "DNA/단백질 전기영동 장치 관련 질문.",
+  "taggedAt": "2026-08-12T00:25:53.960Z"
 }

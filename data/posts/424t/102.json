@@ -17,8 +17,18 @@
       "category": "게시판별 분류",
       "topic": "과학행사&과학실 Idea",
       "confidence": "high"
+    },
+    {
+      "category": "과학교사 업무",
+      "topic": "동아리 운영",
+      "confidence": "medium"
+    },
+    {
+      "category": "과학교사 업무",
+      "topic": "과학 행사",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "과학 동아리 특강 강사 섭외 및 운영에 대한 문의로, 특정 교육과정 단원과 직접적인 관련이 없는 일반적인 학급/동아리 운영 관련 게시글입니다.",
-  "taggedAt": "2026-08-11T14:37:17.138Z"
+  "tagsNote": "과학동아리 학생 대상 특강 진행 문의.",
+  "taggedAt": "2026-08-11T23:51:41.331Z"
 }

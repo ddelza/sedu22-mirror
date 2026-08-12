@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "(고교)생명과학수업 이야기",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "과학토론 수행평가 운영 사례 공유 — 특정 생물 단원 내용 아님.",
+  "taggedAt": "2026-08-12T00:25:53.964Z"
 }

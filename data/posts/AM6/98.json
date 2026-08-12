@@ -17,6 +17,13 @@
       "category": "게시판별 분류",
       "topic": "수석교사의 방(2023~)",
       "confidence": "high"
+    },
+    {
+      "category": "과학교사 업무",
+      "topic": "교원연수",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "경기도교육청 교원장기해외유학 길라잡이 자료 공유.",
+  "taggedAt": "2026-08-11T23:59:11.470Z"
 }

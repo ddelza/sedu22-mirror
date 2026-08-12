@@ -17,6 +17,22 @@
       "category": "게시판별 분류",
       "topic": "고1과학&탐구실험",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "고등학교",
+      "subject": "지구과학Ⅰ",
+      "unit": "지구의 역사",
+      "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "고등학교",
+      "subject": "지구과학",
+      "unit": "지구의 역사와 한반도의 암석",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "지질 시대의 환경과 생물 그림일기 활동.",
+  "taggedAt": "2026-08-11T23:59:11.474Z"
 }

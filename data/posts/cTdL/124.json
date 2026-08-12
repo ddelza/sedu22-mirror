@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "고1과학&탐구실험",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "고등학교",
+      "subject": "통합과학",
+      "unit": "생태계와 환경",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "멸치 위장관찰과 생태계 평형 유지 실험 질문.",
+  "taggedAt": "2026-08-12T00:00:53.983Z"
 }

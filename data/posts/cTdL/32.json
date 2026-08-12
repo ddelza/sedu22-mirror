@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "고1과학&탐구실험",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "고등학교",
+      "subject": "통합과학",
+      "unit": "생물다양성과 유지",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "생명의 진화 관련 간단한 수업활동 아이디어 요청.",
+  "taggedAt": "2026-08-12T00:09:40.029Z"
 }

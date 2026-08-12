@@ -17,6 +17,20 @@
       "category": "게시판별 분류",
       "topic": "고1과학&탐구실험",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "고등학교",
+      "subject": "통합과학",
+      "unit": "생물다양성과 유지",
+      "confidence": "high"
+    },
+    {
+      "category": "수업 방법론",
+      "topic": "배움중심수업",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "3단원 생명의 진화 배움중심수업 활동지(생명 탄생/화학반응식/DNA모형).",
+  "taggedAt": "2026-08-12T00:21:28.543Z"
 }

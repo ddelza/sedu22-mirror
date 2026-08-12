@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "고1과학&탐구실험",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "과학탐구 소통 사례(방송) 소개 — 특정 단원보다 탐구소통역량 관련.",
+  "taggedAt": "2026-08-12T00:02:34.231Z"
 }

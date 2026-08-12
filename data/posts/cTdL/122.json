@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "고1과학&탐구실험",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "중간고사 전 범위 복습용 게임 활동 — 특정 단원으로 좁혀지지 않는 종합 복습.",
+  "taggedAt": "2026-08-12T00:00:53.982Z"
 }

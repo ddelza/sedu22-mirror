@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "고1과학&탐구실험",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "low"
     }
-  ]
+  ],
+  "tagsNote": "장학퀴즈 문제 활용 모둠토의 자료 — 단원 정보 불명확.",
+  "taggedAt": "2026-08-12T00:09:40.033Z"
 }

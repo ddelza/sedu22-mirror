@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "고1과학&탐구실험",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "온라인 화학실험 수업 진행 방법 고민 — 기존 카테고리 미해당.",
+  "taggedAt": "2026-08-12T00:00:54.003Z"
 }

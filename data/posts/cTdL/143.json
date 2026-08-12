@@ -17,6 +17,29 @@
       "category": "게시판별 분류",
       "topic": "고1과학&탐구실험",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "물질의 구성",
+      "confidence": "low"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "물질의 구성",
+      "confidence": "low"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "고등학교",
+      "subject": "통합과학",
+      "unit": "자연의 구성 물질",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "'원소가 뭐길래' 책 기반 원소 질문게임(중2~고1 적용 가능 명시).",
+  "taggedAt": "2026-08-12T00:00:53.999Z"
 }

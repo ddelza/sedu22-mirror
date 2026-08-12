@@ -17,6 +17,22 @@
       "category": "게시판별 분류",
       "topic": "수석교사의 방(2023~)",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "날씨와 기후변화",
+      "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "기권과 날씨",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "중3 과학 '지구온난화의 원인과 대책' 포스터 프로젝트 공개수업 자료(지도안 포함).",
+  "taggedAt": "2026-08-11T23:51:41.355Z"
 }

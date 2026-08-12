@@ -17,8 +17,13 @@
       "category": "게시판별 분류",
       "topic": "과학행사&과학실 Idea",
       "confidence": "high"
+    },
+    {
+      "category": "과학교사 업무",
+      "topic": "과학 행사",
+      "confidence": "high"
     }
   ],
-  "tagsNote": "과학의 달 행사 아이디어를 묻는 일반적인 학급/학교 행사 관련 게시글로, 특정 교육과정 단원과 직접적인 관련이 없습니다.",
-  "taggedAt": "2026-08-11T14:34:05.636Z"
+  "tagsNote": "과학의 달 행사 종목 문의.",
+  "taggedAt": "2026-08-11T23:51:41.328Z"
 }

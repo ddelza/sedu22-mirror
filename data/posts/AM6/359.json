@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "수석교사의 방(2023~)",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "신규 과학교사 대상 이상적 과학수업 설문 결과 — 특정 행사/연수 아님.",
+  "taggedAt": "2026-08-11T23:53:37.537Z"
 }

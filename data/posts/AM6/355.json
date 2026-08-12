@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "수석교사의 방(2023~)",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "임용고사 2차 준비자료(심층면접) — 현직 교사 연수 아님.",
+  "taggedAt": "2026-08-11T23:53:37.534Z"
 }

@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "고1과학&탐구실험",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "고등학교",
+      "subject": "통합과학",
+      "unit": "생명 시스템",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "생명시스템 단원도입 초성맞추기 활동(특성화고).",
+  "taggedAt": "2026-08-12T00:23:05.965Z"
 }

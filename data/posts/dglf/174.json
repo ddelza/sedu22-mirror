@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "(고교)생명과학수업 이야기",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "고등학교",
+      "subject": "생명과학Ⅰ",
+      "unit": "생명과학의 이해",
+      "confidence": "low"
     }
-  ]
+  ],
+  "tagsNote": "생명과학1 지식 표현(장르 재구성) 활동지 — 특정 소단원 불명확.",
+  "taggedAt": "2026-08-12T00:25:53.971Z"
 }

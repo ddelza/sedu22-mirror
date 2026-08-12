@@ -17,6 +17,13 @@
       "category": "게시판별 분류",
       "topic": "수석교사의 방(2023~)",
       "confidence": "high"
+    },
+    {
+      "category": "수업 방법론",
+      "topic": "IB(개념기반학습)",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "IB 개념기반학습 참고자료 공유 — 아직 반복 패턴 확인 안 됨, 기존 카테고리 미해당.",
+  "taggedAt": "2026-08-11T23:51:41.359Z"
 }
