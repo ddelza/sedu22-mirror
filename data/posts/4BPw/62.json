@@ -14,15 +14,13 @@
   "contentHtml": "<p>벌써 내일이 개학이에요. </p><p>내일 아이들 나누어줄 개학식 자료를 준비하다가 옛날 저처럼 이런걸 찾으실 선생님이 계실까하여 올려봅니다.</p><p>이것도 어디서 받아서 편집해서 만든거라서요. 제가 만든 것은 아닙니다. ㅎㅎㅎ</p><p>개인정보가 될 만한 것들을 뺀다고 뺐는데 혹시라도 문제가 될 만한 것이 있어보이면 댓글로 알려주시면 감사합니다.^^</p><p><br></p><p><br></p><p><a href=\"javascript:checkVirus('grpid%3D1TaBA%26fldid%3D4BPw%26dataid%3D62%26fileid%3D1%26regdt%3D20170301203347&url=http%3A%2F%2Fcfile256.uf.daum.net%2Fattach%2F27444D4258B6B0DE252071')\"><img src=\"https://t1.daumcdn.net/daumtop_deco/icon/icon.hanmail.net/editor/p_etc_s.gif\" border=\"0\" alt=\"첨부파일\" class=\"vam\"/> 첫날_학생자기소개서(2017).hwp</a></p><p><br></p><p><a href=\"javascript:checkVirus('grpid%3D1TaBA%26fldid%3D4BPw%26dataid%3D62%26fileid%3D2%26regdt%3D20170301203347&url=http%3A%2F%2Fcfile253.uf.daum.net%2Fattach%2F2611BA4158B6B1522C5823')\"><img src=\"https://t1.daumcdn.net/daumtop_deco/icon/icon.hanmail.net/editor/p_etc_s.gif\" border=\"0\" alt=\"첨부파일\" class=\"vam\"/> 첫날_환경조사서_선생님께 드리는 우리아이 이야기(2017).hwp</a></p><p><br></p><p><br></p><p><br></p>\n\t \t\t\t\t\t<!-- -->",
   "tags": [
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
+      "category": "게시판별 분류",
+      "topic": "학급 운영",
       "confidence": "high"
     },
     {
-      "category": "게시판별 분류",
-      "topic": "학급 운영",
+      "category": "과학교사 업무",
+      "topic": "학급운영",
       "confidence": "high"
     }
   ],

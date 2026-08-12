@@ -14,15 +14,13 @@
   "contentHtml": "<p style=\"text-align: left;\">담임시간에 빙고랑 릴레이초상화로 아이들 친해질 수 있는 시간을 갖는다는데 양식이 있었던 것 같은데 어디에 있나요? ㅠ<br><br>담임이 처음이라 무엇을 준비할지...알아보고 있는데 직접 경험을통해 알아봐야 할 것 같아요<br><br>새학년주간에 이런 게임활동할 시간이 있나요??</p>\n\t \t\t\t\t\t<!-- -->",
   "tags": [
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
+      "category": "게시판별 분류",
+      "topic": "학급 운영",
       "confidence": "high"
     },
     {
-      "category": "게시판별 분류",
-      "topic": "학급 운영",
+      "category": "과학교사 업무",
+      "topic": "학급운영",
       "confidence": "high"
     }
   ],

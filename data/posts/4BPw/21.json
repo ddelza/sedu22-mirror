@@ -14,15 +14,13 @@
   "contentHtml": "인터넷에서 발견~~!!<br />아이들 사진 넣어서^^<br /><br /> 3년째 같은 아이들과 지내고 있습니다<br />새롭게 하기가 힘드네요 ㅎㅎ<br /><p><img src=\"https://t1.daumcdn.net/cfile/cafe/2530E14D5437F21112\" class=\"txc-image\" /></p>\n\t \t\t\t\t\t<!-- -->",
   "tags": [
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
+      "category": "게시판별 분류",
+      "topic": "학급 운영",
       "confidence": "high"
     },
     {
-      "category": "게시판별 분류",
-      "topic": "학급 운영",
+      "category": "과학교사 업무",
+      "topic": "학급운영",
       "confidence": "high"
     }
   ],

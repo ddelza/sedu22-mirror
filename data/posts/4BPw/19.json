@@ -14,15 +14,13 @@
   "contentHtml": "<p>2학기 지필평가를 앞두고 학생들을 위해 작은 선물을 준비해봤어요..</p><p>초콜렛, 사탕 등 기타 아이들이 좋아할 만한 달달한 것&nbsp;들로요..</p><p>그리고 작은 봉투 앞에 이걸 라벨지로 프린트해서 붙여줬어요..</p><p>잠시나마 입가에 번지는 미소로 오늘도 힘이 납니다~&nbsp;&nbsp;</p><p><a href=\"javascript:checkVirus('grpid%3D1TaBA%26fldid%3D4BPw%26dataid%3D19%26fileid%3D1%26regdt%3D20141001122404&url=http%3A%2F%2Fcfile268.uf.daum.net%2Fattach%2F251D6939542B73C8046801')\"><img src=\"https://t1.daumcdn.net/daumtop_deco/icon/icon.hanmail.net/editor/p_hwp_s.gif\" border=\"0\" alt=\"첨부파일\" class=\"vam\"/> 담임 쌤의 선물.hwp</a></p><p>&nbsp;</p>\n\t \t\t\t\t\t<!-- -->",
   "tags": [
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
+      "category": "게시판별 분류",
+      "topic": "학급 운영",
       "confidence": "high"
     },
     {
-      "category": "게시판별 분류",
-      "topic": "학급 운영",
+      "category": "과학교사 업무",
+      "topic": "학급운영",
       "confidence": "high"
     }
   ],

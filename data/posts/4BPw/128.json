@@ -14,15 +14,13 @@
   "contentHtml": "<p style=\"text-align: left;\">저희 학교 도서관에서 매주 화요아침 사제동행독서 진행하는데 참여하자고 했더니 애들이 싫어하더라구요<br><br>그래서 모둠을 5개로 나누어 저는 매주 가고 학생들은 1달에 1번이니 잘 참여해달라고 했죠<br><br>어제 시작했는데 아이들이 조금이라도 책에 관심을 가지고 책 읽는 습관을 들였으면 좋겠어요</p>\n\t \t\t\t\t\t<!-- -->",
   "tags": [
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
+      "category": "게시판별 분류",
+      "topic": "학급 운영",
       "confidence": "high"
     },
     {
-      "category": "게시판별 분류",
-      "topic": "학급 운영",
+      "category": "과학교사 업무",
+      "topic": "학급운영",
       "confidence": "high"
     }
   ],

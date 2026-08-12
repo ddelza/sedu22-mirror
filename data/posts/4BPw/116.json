@@ -14,15 +14,13 @@
   "contentHtml": "<p>담임 업무 메뉴얼</p><p>&#160;</p><div class=\"figure-file\" data-ke-type=\"file\" data-file-src=\"https://t1.daumcdn.net/cafeattach/1TaBA/524c05703823b31d95091d1777368ebbd786814b?download\" data-file-name=\"담임업무매뉴얼(중등).pdf\" data-file-size=\"7431620\" data-mimetype=\"application/pdf\" data-ke-align=\"alignLeft\"><a href=\"javascript:checkVirus('grpid%3D1TaBA%26fldid%3D4BPw%26dataid%3D116%26fileid%3D1%26regdt%3D20211022121723&url=https%3A%2F%2Ft1.daumcdn.net%2Fcafeattach%2F1TaBA%2F524c05703823b31d95091d1777368ebbd786814b')\"><div class=\"image\"></div><div class=\"desc\"><div class=\"filename\"><span class=\"name\">담임업무매뉴얼(중등)</span><span class=\"type\">.pdf</span></div><div class=\"size\">7.09MB</div></div></a></div><p>&#160;</p><p>* 출처 수업연구소&#160;<a href=\"https://cafe.naver.com/lessonlab\" target=\"_top\" class=\"ke-link\">https://cafe.naver.com/lessonlab</a>&#160;</p><div class=\"figure-open\" contenteditable=\"false\" data-ke-type=\"opengraph\" data-ke-align=\"alignCenter\" data-og-type=\"website\" data-og-title=\"수업연구소 : 네이버 카페\" data-og-description=\"수업연구소, 교과수업, 학급경영자료, 자유학기제, 동아리활동, 평가 등 선생님의 수업과 업무 지원 카페\" data-og-host=\"cafe.naver.com\" data-og-source-url=\"https://cafe.naver.com/lessonlab\" data-og-url=\"https://cafe.naver.com/lessonlab\" data-og-image=\"https://scrap.kakaocdn.net/dn/qVZIN/hyL3hVmCzB/Yvq9NavRRPnNGCkAptsdI1/img.jpg?width=150&amp;height=150&amp;face=0_0_150_150\"><a href=\"https://cafe.naver.com/lessonlab\" target=\"_blank\" data-source-url=\"https://cafe.naver.com/lessonlab\"><div class=\"og-image\" style=\"background-image:url(https://scrap.kakaocdn.net/dn/qVZIN/hyL3hVmCzB/Yvq9NavRRPnNGCkAptsdI1/img.jpg?width=150&amp;height=150&amp;face=0_0_150_150)\"></div><div class=\"og-text\"><p class=\"og-title\">수업연구소 : 네이버 카페</p><p class=\"og-desc\">수업연구소, 교과수업, 학급경영자료, 자유학기제, 동아리활동, 평가 등 선생님의 수업과 업무 지원 카페</p><p class=\"og-host\">cafe.naver.com</p></div></a></div><p>&#160;</p>\n\t \t\t\t\t\t<!-- -->",
   "tags": [
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
+      "category": "게시판별 분류",
+      "topic": "학급 운영",
       "confidence": "high"
     },
     {
-      "category": "게시판별 분류",
-      "topic": "학급 운영",
+      "category": "과학교사 업무",
+      "topic": "학급운영",
       "confidence": "high"
     }
   ],

@@ -14,15 +14,13 @@
   "contentHtml": "<p>&nbsp;</p><p>학급 아이들 자료를 생성하고 저장할 공간에 대해서 고민했습니다.</p><p>&nbsp;</p><p>교무수첩 같은 공간은 아무래도 개인정보 누출의 위험이 있고</p><p>한글 파일로 작성하기엔&nbsp;다른 파일들과 섞여서 따로 관리하기가 힘든 점이 있었어요.</p><p>1년 간 아이들의 생활 태도 변화를 보기에 적절한 방법이 없을지 고민하다가 </p><p>연락처, 인맥 관리(?) 사이트를 알게 되었네요.</p><p>&nbsp;</p><p>며칠 써 보진 않았지만 </p><p>아이들 자료 관리에 괜찮은 것 같아요.</p><p><a href=\"http://www.textory.io/\">http://www.textory.io/</a></p><p>&nbsp;</p><p>간단하게 가입하시고 아이들 이름과 연락처를 추가하셔요.</p><p>(연락처 일괄 업로드 시 샘플 파일을 다운받으셔서 사용하시면 편리합니다.)</p><p>그러면 아이들 이름과 연락처가 올라갑니다. </p><p>&nbsp;</p><p>각 아이들마다 태그를 쓰셔서 분류하셔도 좋구요,</p><p>아이들 이름을 클릭하시면 아이들 각각 상담 내용이나 특징을 기록할 수 있는 공간이 있어요.</p><p>한 아이마다 여러 번 기록할 수 있구요, 말풍선 모양으로 기록이 되므로 가볍고 짧게 쓰기에 좋습니다. </p><p>그리고 'textory' 스마트폰 앱이 있어서 정보의 연동도 가능합니다. (전 굳이 안 씁니다만^^)</p><p>&nbsp;</p><p>더 자세한 내용은&nbsp;<a href=\"http://blog.naver.com/textorykorea/\">http://blog.naver.com/textorykorea/</a> 보시면 아실 수 있어요.</p><p>&nbsp;</p><p>+ 학기 초 많이 바쁘실텐데 힘내세요~~</p><p>&nbsp;</p>\n\t \t\t\t\t\t<!-- -->",
   "tags": [
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
+      "category": "게시판별 분류",
+      "topic": "학급 운영",
       "confidence": "high"
     },
     {
-      "category": "게시판별 분류",
-      "topic": "학급 운영",
+      "category": "과학교사 업무",
+      "topic": "학급운영",
       "confidence": "high"
     }
   ],

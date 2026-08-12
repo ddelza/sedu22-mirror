@@ -14,15 +14,13 @@
   "contentHtml": "<p>선생님께서 근무하는 학교는</p><p>민주적인 토의와 의사결정을 하고 있는지요?</p><p>&#160;</p><p>경기도 교육청에서 개발한</p><p>안건과 토론이 있는 민주적 교직원회의</p><p>자료입니다.</p><p>&#160;</p><p>참고하세요.</p><p>&#160;</p><div class=\"figure-file\" data-ke-type=\"file\" data-file-src=\"https://t1.daumcdn.net/cafeattach/1TaBA/6eafebcaec19787bdbca7072dfc68df05e9e071b?download\" data-file-name=\"안건과 토론이 있는 민주적 교직원회의.pdf\" data-file-size=\"1119070\" data-mimetype=\"application/pdf\" data-ke-align=\"alignLeft\"><a href=\"javascript:checkVirus('grpid%3D1TaBA%26fldid%3D4BPw%26dataid%3D127%26fileid%3D1%26regdt%3D20220614152133&url=https%3A%2F%2Ft1.daumcdn.net%2Fcafeattach%2F1TaBA%2F6eafebcaec19787bdbca7072dfc68df05e9e071b')\"><div class=\"image\"></div><div class=\"desc\"><div class=\"filename\"><span class=\"name\">안건과 토론이 있는 민주적 교직원회의</span><span class=\"type\">.pdf</span></div><div class=\"size\">1.07MB</div></div></a></div>\n\t \t\t\t\t\t<!-- -->",
   "tags": [
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
+      "category": "게시판별 분류",
+      "topic": "학급 운영",
       "confidence": "high"
     },
     {
-      "category": "게시판별 분류",
-      "topic": "학급 운영",
+      "category": "과학교사 업무",
+      "topic": "학급운영",
       "confidence": "high"
     }
   ],

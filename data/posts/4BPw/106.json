@@ -14,15 +14,13 @@
   "contentHtml": "<p>1. 담임업무 매뉴얼</p><p>&#160;</p><p>* 출처: 대구광역시교육청 교원 매뉴얼 게시판 바로가기</p><p>&#160;&#160;<a href=\"http://www.dge.go.kr/main/na/ntt/selectNttInfo.do?nttSn=1417623\" target=\"_top\" class=\"ke-link\">http://www.dge.go.kr/main/na/ntt/selectNttInfo.do?nttSn=1417623</a></p><div class=\"figure-open\" contenteditable=\"false\" data-ke-type=\"opengraph\" data-ke-align=\"alignCenter\" data-og-type=\"website\" data-og-title=\"대구광역시교육청\" data-og-description=\"&lt;!-- 교육청 -&gt; 교육청안내-열린교육감실-교육감 핫라인 bbsId=b712a6a34c9dca112638b63da9d9d5d6 법무행정서비스홈페이지 2f27dd6b5b0a09db18d7d9aa7db05783 무료법률상담-상담신청-시교육청(직속) 2312398d558023c07218cafe\" data-og-host=\"www.dge.go.kr\" data-og-source-url=\"http://www.dge.go.kr/main/na/ntt/selectNttInfo.do?nttSn=1417623\" data-og-url=\"http://www.dge.go.kr/main/na/ntt/selectNttInfo.do?nttSn=1417623\"><a href=\"http://www.dge.go.kr/main/na/ntt/selectNttInfo.do?nttSn=1417623\" target=\"_blank\" data-source-url=\"http://www.dge.go.kr/main/na/ntt/selectNttInfo.do?nttSn=1417623\"><div class=\"og-image\" style=\"background-image:url(null)\"></div><div class=\"og-text\"><p class=\"og-title\">대구광역시교육청</p><p class=\"og-desc\">&lt;!-- 교육청 -&gt; 교육청안내-열린교육감실-교육감 핫라인 bbsId=b712a6a34c9dca112638b63da9d9d5d6 법무행정서비스홈페이지 2f27dd6b5b0a09db18d7d9aa7db05783 무료법률상담-상담신청-시교육청(직속) 2312398d558023c07218cafe</p><p class=\"og-host\">www.dge.go.kr</p></div></a></div><p>&#160;</p><p>2. 학교 업무 매뉴얼</p><p>학교 표준 업무 매뉴얼 종합 사이트 입니다.</p><p><a href=\"http://www.info.go.kr/board/list.do?manager_seq=220&amp;menu_seq=196\" target=\"_top\" class=\"ke-link\">http://www.info.go.kr/board/list.do?manager_seq=220&amp;menu_seq=196</a></p><div class=\"figure-open\" contenteditable=\"false\" data-ke-type=\"opengraph\" data-ke-align=\"alignCenter\" data-og-type=\"website\" data-og-title=\"전체목록-경상북도교육행정포털\" data-og-description=\"교육국 체육건강과 2019-06-28 첨부파일 다운로드 첨부파일 05_11_02 위험성평가.hwp 미리보기 첨부파일 미리보기 05_11_02 위험성평가.hwp\" data-og-host=\"www.info.go.kr\" data-og-source-url=\"http://www.info.go.kr/board/list.do?manager_seq=220&amp;menu_seq=196\" data-og-url=\"http://www.info.go.kr/board/list.do?manager_seq=220&amp;menu_seq=196\"><a href=\"http://www.info.go.kr/board/list.do?manager_seq=220&amp;menu_seq=196\" target=\"_blank\" data-source-url=\"http://www.info.go.kr/board/list.do?manager_seq=220&amp;menu_seq=196\"><div class=\"og-image\" style=\"background-image:url(null)\"></div><div class=\"og-text\"><p class=\"og-title\">전체목록-경상북도교육행정포털</p><p class=\"og-desc\">교육국 체육건강과 2019-06-28 첨부파일 다운로드 첨부파일 05_11_02 위험성평가.hwp 미리보기 첨부파일 미리보기 05_11_02 위험성평가.hwp</p><p class=\"og-host\">www.info.go.kr</p></div></a></div><p>&#160;</p>\n\t \t\t\t\t\t<!-- -->",
   "tags": [
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
+      "category": "게시판별 분류",
+      "topic": "학급 운영",
       "confidence": "high"
     },
     {
-      "category": "게시판별 분류",
-      "topic": "학급 운영",
+      "category": "과학교사 업무",
+      "topic": "학급운영",
       "confidence": "high"
     }
   ],

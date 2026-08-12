@@ -14,15 +14,13 @@
   "contentHtml": "<p class=\"cafe-editor-text\">전국 자가진단이 이제야 통합됩니다.<br>유치원 특수학교도 포함됩니다.<br>교직원도 자가진단 대상이 됩니다.<br>5개국어 추가 서비스도 합니다.<br>(영어 일어 중어 노어 베트남어)<br><br><a href=\"https://hcs.eduro.go.kr\">https://hcs.eduro.go.kr</a>/<br><br>어플도 나옵니다.<br>근데 안드로이드는 14일에야 나온다네요.<br>(당장 7일부터 쓰라고 공지한 학교들이 있나봐요.<br>블로그에 정리했더니 10분에 백명씩 들어옵니다...<br>안정화 되고 사용해도 좋으련만요..)<br><br>아이폰은 7일부터 이용 가능하다고 합니다.<br>교사가 아이들 결과를 한 눈에 볼 수 있고<br>어플 설치한 사람에 한해 진단 재촉 푸시를 보낼 수 있습니다.<br></p> \n<p class=\"cafe-editor-link\"><a class=\"link_attach\" href=\"https://apps.apple.com/kr/app/%EA%B1%B4%EA%B0%95%EC%83%81%ED%83%9C-%EC%9E%90%EA%B0%80%EC%A7%84%EB%8B%A8-%EA%B5%90%EC%9C%A1%EB%B6%80/id1529597984\"><span class=\"cont_info\"><strong class=\"tit_attach\">‎건강상태 자가진단(교육부)</strong><span class=\"desc_attach\">‎- 간단한 설명 코로나19 등 감염병으로부터 학생과 교직원을 보호하기 위해 스스로 건강상태를 진단하고 예방합니다. - 이용대상 : 전국 유치원, 초등학교, 중학교, 고등학교 등의 학생 및 교직</span><span class=\"source_attach\">apps.apple.com</span></span></a></p> \n<p class=\"cafe-editor-text\"><br>안드로이드 앱 링크 추가합니다.<br></p> \n<p class=\"cafe-editor-link\"><a class=\"link_attach\" href=\"https://play.google.com/store/apps/details?id=kr.go.eduro.hcs&amp;hl=ko\"><span class=\"cont_info\"><strong class=\"tit_attach\">건강상태 자가진단(교육부) - Google Play 앱</strong><span class=\"desc_attach\">본인과 자녀의 건강상태 진단 및 관리를 통해 학교공동체의 집단감염을 예방하고, 나아가 지역사회의 확산을 예방합니다. 건강상태 자가진단 미 참여자에 대하여 학교 현장에서 실시간으로 현�</span><span class=\"source_attach\">play.google.com</span></span></a></p> \n<p class=\"cafe-editor-text\">나이스에 소개된 관리자용 매뉴얼도 첨부합니다.<br></p>\n\t \t\t\t\t\t<!-- -->",
   "tags": [
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
+      "category": "게시판별 분류",
+      "topic": "학급 운영",
       "confidence": "high"
     },
     {
-      "category": "게시판별 분류",
-      "topic": "학급 운영",
+      "category": "과학교사 업무",
+      "topic": "학급운영",
       "confidence": "high"
     }
   ],

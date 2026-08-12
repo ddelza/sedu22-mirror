@@ -14,15 +14,13 @@
   "contentHtml": "<p style=\"text-align: left;\">아이들끼리 학급 규칙을 정하고 벌금을 걷으려길래<br>벌점제를 하라고 했더니<br>벌점이 어마무시하게 쌓여 어떻게 처리할 것인지<br>어떤 벌을 줄건지 저한테 묻네요<br>고1에게 걸맞는 벌은 뭐가 있을까요<br>벌이 어마무시해야 담달부터 좀 더 나아질텐데요<br>의견 듣고 싶습니다^^</p>\n\t \t\t\t\t\t<!-- -->",
   "tags": [
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
+      "category": "게시판별 분류",
+      "topic": "학급 운영",
       "confidence": "high"
     },
     {
-      "category": "게시판별 분류",
-      "topic": "학급 운영",
+      "category": "과학교사 업무",
+      "topic": "학급운영",
       "confidence": "high"
     }
   ],

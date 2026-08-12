@@ -14,15 +14,13 @@
   "contentHtml": "<p>경기도교육청에서 개발한 자료입니다.</p><p><br></p><p>내용 괜찮습니다~</p><p><br></p><p><br></p><p><a href=\"javascript:checkVirus('grpid%3D1TaBA%26fldid%3D4BPw%26dataid%3D89%26fileid%3D1%26regdt%3D20181226111500&url=http%3A%2F%2Fcfile292.uf.daum.net%2Fattach%2F99C212405C22E401202E86')\"><img src=\"https://t1.daumcdn.net/daumtop_deco/icon/icon.hanmail.net/editor/p_pdf_s.gif\" border=\"0\" alt=\"첨부파일\" class=\"vam\"/> 담임교사를 위한 학생 상담 가이드(경기도교육청).pdf</a></p><p><br></p>\n\t \t\t\t\t\t<!-- -->",
   "tags": [
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
+      "category": "게시판별 분류",
+      "topic": "학급 운영",
       "confidence": "high"
     },
     {
-      "category": "게시판별 분류",
-      "topic": "학급 운영",
+      "category": "과학교사 업무",
+      "topic": "학급운영",
       "confidence": "high"
     }
   ],

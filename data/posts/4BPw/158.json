@@ -14,15 +14,13 @@
   "contentHtml": "<p>창체 내용은 학교에 맞추어 수정하셔야 겠지만...</p><p>제가 기록한 학생의 누가기록과 비교하기 위해 받아보려구요</p><p>&#160;</p><p><a href=\"https://docs.google.com/forms/d/1DWqt2rbLuYUXA-UMG3b89j7BISTN-CVjk41K_jg7iq8/copy\" target=\"_blank\" class=\"ke-link\">https://docs.google.com/forms/d/1DWqt2rbLuYUXA-UMG3b89j7BISTN-CVjk41K_jg7iq8/copy</a></p><p>&#160;</p><p>수정 제안은 언제나 환영합니다~</p><p>&#160;</p><p>&#160;</p>\n\t \t\t\t\t\t<!-- -->",
   "tags": [
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
+      "category": "게시판별 분류",
+      "topic": "학급 운영",
       "confidence": "high"
     },
     {
-      "category": "게시판별 분류",
-      "topic": "학급 운영",
+      "category": "과학교사 업무",
+      "topic": "학급운영",
       "confidence": "high"
     }
   ],

@@ -14,15 +14,13 @@
   "contentHtml": "<p>복직 후 정말 정신 없이 하루하루가 지나갑니다.</p><p>카페에서 팁을 얻은 종례 쪽지를 실천하고 있어요.</p><p>벌써 3주째...</p><p>학생들이 다음 편을 기다리네요.. 오늘은 이것에 힘을 얻고 갑니다.</p><p>&nbsp;</p>\n\t \t\t\t\t\t<!-- -->",
   "tags": [
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
+      "category": "게시판별 분류",
+      "topic": "학급 운영",
       "confidence": "high"
     },
     {
-      "category": "게시판별 분류",
-      "topic": "학급 운영",
+      "category": "과학교사 업무",
+      "topic": "학급운영",
       "confidence": "high"
     }
   ],

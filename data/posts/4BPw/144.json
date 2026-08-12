@@ -14,15 +14,13 @@
   "contentHtml": "<p style=\"text-align: left;\">학교에서 학생들에게 5천 원 정도의 선물을 주는데 선물을 어떤 걸 주는지 제가 정해야 해요. 그런데 먹는 거나 상품권은 불가능하다고 하시는데 좋은 선물 있으신가요? 학용품, usb 정도밖에 생각이 안 나는데 좋아할지 모르겠어요. 다른 좋은 선물 없을까요?</p>\n\t \t\t\t\t\t<!-- -->",
   "tags": [
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
+      "category": "게시판별 분류",
+      "topic": "학급 운영",
       "confidence": "high"
     },
     {
-      "category": "게시판별 분류",
-      "topic": "학급 운영",
+      "category": "과학교사 업무",
+      "topic": "학급운영",
       "confidence": "high"
     }
   ],

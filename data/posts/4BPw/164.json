@@ -14,15 +14,13 @@
   "contentHtml": "<p>연락처를 입력하는 방법 3가지</p><p>&#160;</p><p>1. 한땀한땀 스마트폰으로 수작업</p><p>단점: 시간이 오래걸린다. 실수가 있을 수 있다.</p><p>&#160;</p><p>2. 여러개의 연락처를 엑셀로 저장한 후 구글주소록이나 네이버주소록을 활용해 업로드</p><p>장점: 빠르게 할 수 있다.</p><p>단점: 컴알못은 못한다.</p><p>사용방법: 아래 링크 참고</p><p><a href=\"https://hischarlie.tistory.com/91\" target=\"_top\" class=\"ke-link\">https://hischarlie.tistory.com/91</a></p><p><a href=\"https://www.youtube.com/watch?v=8agHzHibB-4\" target=\"_top\" class=\"ke-link\">https://www.youtube.com/watch?v=8agHzHibB-4</a></p><p><a href=\"https://cafe.daum.net/sedu22/4BPw/51\" target=\"_blank\" class=\"ke-link\">https://cafe.daum.net/sedu22/4BPw/51</a></p><p><a href=\"https://cafe.daum.net/sedu22/4BPw/83\" target=\"_blank\" class=\"ke-link\">https://cafe.daum.net/sedu22/4BPw/83</a></p><p>&#160;</p><p>&#160;</p><p>3. 전화번호를 qr코드로 만들어 사진찍어 저장</p><p>장점: 컴퓨터 못하시는 분도 2번보다는 쉽게 할 수 있다.</p><p>단점: 그룹은 따로 지정해주어야 한다. 한명씩 저장해야한다.</p><p>사용방법: 아래 스프레드시트를 복사한 후 이름과 전화번호를 바꾸고 qr 인식</p><p><a href=\"https://docs.google.com/spreadsheets/d/1AqOGtVx-IZd8Oy3mB-Tqo-iTCH4dF26J1PgFBCyzu74/edit?usp=sharing\" target=\"_top\" class=\"ke-link\">https://docs.google.com/spreadsheets/d/1AqOGtVx-IZd8Oy3mB-Tqo-iTCH4dF26J1PgFBCyzu74/edit?usp=sharing</a></p><p>&#160;</p><p>3번을 찾아보면서 일괄로 등록한다거나, 그룹을 지정하는 것은 못 찾았습니다. 3번 방법으로 학생들에게 명함을 제작해주는 활동 등 수업에 활용할 수도 있지 않을까도 생각했습니다.</p><p>&#160;</p><p>&#160;</p><p>참고자료</p><p><a href=\"https://m.blog.naver.com/chancimple/222902825747\" target=\"_top\" class=\"ke-link\">https://m.blog.naver.com/chancimple/222902825747</a></p><p><a href=\"https://blog.naver.com/eye_mong85/222630156036\" target=\"_top\" class=\"ke-link\">https://blog.naver.com/eye_mong85/222630156036</a></p>\n\t \t\t\t\t\t<!-- -->",
   "tags": [
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
+      "category": "게시판별 분류",
+      "topic": "학급 운영",
       "confidence": "high"
     },
     {
-      "category": "게시판별 분류",
-      "topic": "학급 운영",
+      "category": "과학교사 업무",
+      "topic": "학급운영",
       "confidence": "high"
     }
   ],

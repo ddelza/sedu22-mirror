@@ -14,15 +14,13 @@
   "contentHtml": "<p><a href=\"https://docs.google.com/forms/d/1BOxHKdkmxQA-lMb7GxVNCmmUpqOKwYMhRBj-PSLxq4Y/copy?usp=sharing\" target=\"_blank\" class=\"ke-link\">https://docs.google.com/forms/d/1BOxHKdkmxQA-lMb7GxVNCmmUpqOKwYMhRBj-PSLxq4Y/copy?usp=sharing</a></p><div class=\"figure-open\" contenteditable=\"false\" data-ke-type=\"opengraph\" data-ke-align=\"alignCenter\" data-og-type=\"website\" data-og-title=\"Google Forms - 설문지를 작성하고 분석할 수 있으며 무료입니다.\" data-og-description=\"하나의 계정으로 모든 Google 서비스를 설문지로 이동하려면 로그인하세요.\" data-og-host=\"accounts.google.com\" data-og-source-url=\"https://docs.google.com/forms/d/1BOxHKdkmxQA-lMb7GxVNCmmUpqOKwYMhRBj-PSLxq4Y/copy?usp=sharing\" data-og-url=\"https://accounts.google.com/ServiceLogin?service=wise&amp;passive=1209600&amp;continue=https://docs.google.com/forms/d/1BOxHKdkmxQA-lMb7GxVNCmmUpqOKwYMhRBj-PSLxq4Y/copy?usp%3Dsharing&amp;followup=https://docs.google.com/forms/d/1BOxHKdkmxQA-lMb7GxVNCmmUpqOKwYMhRBj-PSLxq4Y/copy?usp%3Dsharing&amp;ltmpl=forms\"><a href=\"https://docs.google.com/forms/d/1BOxHKdkmxQA-lMb7GxVNCmmUpqOKwYMhRBj-PSLxq4Y/copy?usp=sharing\" target=\"_blank\" data-source-url=\"https://docs.google.com/forms/d/1BOxHKdkmxQA-lMb7GxVNCmmUpqOKwYMhRBj-PSLxq4Y/copy?usp=sharing\"><div class=\"og-image\" style=\"background-image:url(null)\"></div><div class=\"og-text\"><p class=\"og-title\">Google Forms - 설문지를 작성하고 분석할 수 있으며 무료입니다.</p><p class=\"og-desc\">하나의 계정으로 모든 Google 서비스를 설문지로 이동하려면 로그인하세요.</p><p class=\"og-host\">accounts.google.com</p></div></a></div><p>중학교 용 첫날 사용하는 자기소개서 양식입니다. 바쁜 학기 초 도움이 되었으면 합니다. 적절히 편집해서 사용하시기 바랍니다.&#160;</p>\n\t \t\t\t\t\t<!-- -->",
   "tags": [
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
+      "category": "게시판별 분류",
+      "topic": "학급 운영",
       "confidence": "high"
     },
     {
-      "category": "게시판별 분류",
-      "topic": "학급 운영",
+      "category": "과학교사 업무",
+      "topic": "학급운영",
       "confidence": "high"
     }
   ],

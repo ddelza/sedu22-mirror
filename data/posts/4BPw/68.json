@@ -14,15 +14,13 @@
   "contentHtml": "<p class=\"cafe-editor-text\">강민주샘께 100일떡 얘기를 들은 적이 있어요. <br>따라해봤습니다. 아이들이 좋아하네요. <br>아이들에게 뭐 주고나서 기분이 안 좋을 때도 있는데.. 오늘은 참 기분이 좋습니다.</p><p class=\"cafe-editor-text\">저희 반 애들 참 이쁩니다!^^</p><p><img src=\"https://t1.daumcdn.net/cfile/cafe/243EE04C593A0CAB30\" class=\"txc-image\"  id=\"A_243EE04C593A0CAB3058D1\"/></p>\n\t \t\t\t\t\t<!-- -->",
   "tags": [
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
+      "category": "게시판별 분류",
+      "topic": "학급 운영",
       "confidence": "high"
     },
     {
-      "category": "게시판별 분류",
-      "topic": "학급 운영",
+      "category": "과학교사 업무",
+      "topic": "학급운영",
       "confidence": "high"
     }
   ],

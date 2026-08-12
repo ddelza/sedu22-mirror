@@ -14,15 +14,13 @@
   "contentHtml": "<p><a href=\"https://blog.naver.com/goodworm/223499129533\" target=\"_blank\" class=\"ke-link\">https://blog.naver.com/goodworm/223499129533</a></p><div class=\"figure-open\" contenteditable=\"false\" data-ke-type=\"opengraph\" data-ke-align=\"alignCenter\" data-og-type=\"website\" data-og-title=\"[학급활동] AI를 이용한 음악 만들기(feat.학교)\" data-og-description=\"아이들이 세상이 어찌 변해가고 있는지 크게 느끼지 못하는 것 같아 보여서. 아이들이 시대의 흐름을 느껴...\" data-og-host=\"blog.naver.com\" data-og-source-url=\"https://blog.naver.com/goodworm/223499129533\" data-og-url=\"https://blog.naver.com/goodworm/223499129533\" data-og-image=\"https://scrap.kakaocdn.net/dn/zFKcl/hyWrOo9OG1/RwvphDhhAzR80mspaEmmz0/img.png?width=704&amp;height=450&amp;face=0_0_704_450\"><a href=\"https://blog.naver.com/goodworm/223499129533\" target=\"_blank\" data-source-url=\"https://blog.naver.com/goodworm/223499129533\"><div class=\"og-image\"><img src=\"https://scrap.kakaocdn.net/dn/zFKcl/hyWrOo9OG1/RwvphDhhAzR80mspaEmmz0/img.png?width=704&amp;height=450&amp;face=0_0_704_450\" alt=\"\" xxonerror=\"this.src=&quot;//img1.kakaocdn.net/thumb/C200x200/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fcafe_image%2Fcafe_meta_image_190529.png&quot;\"></div><div class=\"og-text\"><p class=\"og-title\">[학급활동] AI를 이용한 음악 만들기(feat.학교)</p><p class=\"og-desc\">아이들이 세상이 어찌 변해가고 있는지 크게 느끼지 못하는 것 같아 보여서. 아이들이 시대의 흐름을 느껴...</p><p class=\"og-host\">blog.naver.com</p></div></a></div><p>&#160;</p><p>suno사용법을 아이들에게 알려주고</p><p>&#39;학교&#39;를 테마로 곡을 만들어 보라고 한 뒤 AI에 대한 생각을 묻는 것으로 진행한 활동입니다.</p><p>&#160;</p><p>아이들이 만든 노래도 함께 담아두었습니다.</p>\n\t \t\t\t\t\t<!-- -->",
   "tags": [
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
+      "category": "게시판별 분류",
+      "topic": "학급 운영",
       "confidence": "high"
     },
     {
-      "category": "게시판별 분류",
-      "topic": "학급 운영",
+      "category": "과학교사 업무",
+      "topic": "학급운영",
       "confidence": "high"
     }
   ],

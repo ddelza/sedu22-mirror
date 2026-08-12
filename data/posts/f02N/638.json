@@ -18,11 +18,9 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
-      "confidence": "high"
+      "category": "과학교사 업무",
+      "topic": "학급운영",
+      "confidence": "medium"
     }
   ],
   "tagsNote": "교과수업 중 담임의 학생 상담 호출 관행에 대한 불만.",

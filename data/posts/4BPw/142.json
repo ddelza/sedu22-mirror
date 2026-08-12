@@ -14,15 +14,13 @@
   "contentHtml": "<p style=\"text-align: left;\">파일을 직접 올릴 수도 있는데<br>이용법 같은걸 블로그에 더 자세히 적어놔서....<br>블로그 링크를 대신 올립니다.<br><br>3월 가내신, 아이들 3학년 1학기<br>봉사와 출결,<br>그리고 3개년치 수상과 임원경력<br>이 결과를 정리해서<br>학급 아이들 가내신을 일괄 산출하는 파일입니다.<br><br>복붙만 잘~하면 되는데<br>어지간한 것은 셀 잠금도 해둬서 잘 안 바뀔텐데<br>그래도 잘 안되거나 모르겠는 것은 질문 올려주세요<br>여기 올리셔도, 블로그에 올리셔도 봅니다.<br><br>타학년 샘이 3학년 담임샘들께<br>공유하셔도 됩니다. 링크배포 대환영입니다.<br>나이스가 안되면 우리가 살 길을 찾아야 하잖아요? ㅎㅎ<br>도움이 되시길~<br><br><a href=\"https://m.blog.naver.com/ton100ya/223154258394\" target=\"_blank\" class=\"ke-link\">가내신 파일 링크</a>  (광고 아니에요 ㅎㅎㅎㅎㅎㅎ)</p>\n\t \t\t\t\t\t<!-- -->",
   "tags": [
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
+      "category": "게시판별 분류",
+      "topic": "학급 운영",
       "confidence": "high"
     },
     {
-      "category": "게시판별 분류",
-      "topic": "학급 운영",
+      "category": "과학교사 업무",
+      "topic": "학급운영",
       "confidence": "high"
     }
   ],

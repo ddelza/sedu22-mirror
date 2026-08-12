@@ -19,11 +19,9 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
-      "confidence": "high"
+      "category": "과학교사 업무",
+      "topic": "학급운영",
+      "confidence": "medium"
     }
   ],
   "tagsNote": "과학수업일보 형식의 첫시간 수업자료 공유.",

@@ -14,15 +14,13 @@
   "contentHtml": "<p><span style=\"color: rgb(51, 51, 51); font-family: 나눔고딕, NanumGothic, 'Noto Sans KR', 맑은고딕, 'Malgun Gothic', 돋움, Dotum, 'Helvetica Neue', Helvetica, AppleSDGothicNeo, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', NotoColorEmoji, 'Segoe UI Symbol', 'Android Emoji', EmojiSymbols; font-size: 14px; line-height: 20.16px;\">인사이드아웃 &nbsp;적용한 자기관찰보고서, 자녀관찰보고서를 만들어 봤습니다. ^^</span><br style=\"box-sizing: border-box; font-family: 나눔고딕, NanumGothic, 'Noto Sans KR', 맑은고딕, 'Malgun Gothic', 돋움, Dotum, 'Helvetica Neue', Helvetica, AppleSDGothicNeo, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', NotoColorEmoji, 'Segoe UI Symbol', 'Android Emoji', EmojiSymbols; color: rgb(51, 51, 51); font-size: 14px; line-height: 20.16px;\"><br style=\"box-sizing: border-box; font-family: 나눔고딕, NanumGothic, 'Noto Sans KR', 맑은고딕, 'Malgun Gothic', 돋움, Dotum, 'Helvetica Neue', Helvetica, AppleSDGothicNeo, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', NotoColorEmoji, 'Segoe UI Symbol', 'Android Emoji', EmojiSymbols; color: rgb(51, 51, 51); font-size: 14px; line-height: 20.16px;\"><span style=\"color: rgb(51, 51, 51); font-family: 나눔고딕, NanumGothic, 'Noto Sans KR', 맑은고딕, 'Malgun Gothic', 돋움, Dotum, 'Helvetica Neue', Helvetica, AppleSDGothicNeo, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', NotoColorEmoji, 'Segoe UI Symbol', 'Android Emoji', EmojiSymbols; font-size: 14px; line-height: 20.16px;\">가정방문 엄두는 안 나고, 이렇게라도 아이를 관찰해보려고 합니다.</span></p><p><span style=\"color: rgb(51, 51, 51); font-family: 나눔고딕, NanumGothic, 'Noto Sans KR', 맑은고딕, 'Malgun Gothic', 돋움, Dotum, 'Helvetica Neue', Helvetica, AppleSDGothicNeo, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', NotoColorEmoji, 'Segoe UI Symbol', 'Android Emoji', EmojiSymbols; font-size: 14px; line-height: 20.16px;\">--------------------------</span></p><p>요 며칠간 새 글이 많이 올라오는데, 많은 고민과 시간이 반영된 참여형수업 학습지들도 많이 보입니다.</p><p>선생님들~ 감사합니다^^</p><p style=\"text-align: center;\"></p><p></p><p style=\"text-align: center;\"></p><p></p><p></p><p></p><p></p><p><br></p>\n\t \t\t\t\t\t<!-- -->",
   "tags": [
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
+      "category": "게시판별 분류",
+      "topic": "학급 운영",
       "confidence": "high"
     },
     {
-      "category": "게시판별 분류",
-      "topic": "학급 운영",
+      "category": "과학교사 업무",
+      "topic": "학급운영",
       "confidence": "high"
     }
   ],

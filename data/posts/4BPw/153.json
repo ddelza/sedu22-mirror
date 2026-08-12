@@ -14,15 +14,13 @@
   "contentHtml": "<p style=\"text-align: left;\">저희 학교는 전반이 통합학급입니다<br>저희 반 정원 21명 중 3명이 특수반 친구들이에요<br>물론 대부분의 시간을 특수학급에서 보내겠지만<br>학급 행사와 특색 활동에는 함께 참여시켜야 한다고 생각합니다.<br><br>이번 학기 초에 학급 마니또 활동을 진행해보고 싶은데<br>이렇게 특수반 아이들이 함께있는 통합학급에서는<br>어떻게 진행해야 좋을지 고민입니다.<br>3명의 아이들 모두 제가 마니또가 되어주는 방식으로 진행해야 할까요?<br><br>혹시 좋은 아이디어나 경험이 있으신 선생님 계신다면<br>조언 부탁드려요&#129401;</p>\n\t \t\t\t\t\t<!-- -->",
   "tags": [
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
+      "category": "게시판별 분류",
+      "topic": "학급 운영",
       "confidence": "high"
     },
     {
-      "category": "게시판별 분류",
-      "topic": "학급 운영",
+      "category": "과학교사 업무",
+      "topic": "학급운영",
       "confidence": "high"
     }
   ],

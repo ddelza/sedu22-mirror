@@ -18,11 +18,9 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
-      "confidence": "high"
+      "category": "과학교사 업무",
+      "topic": "학급운영",
+      "confidence": "medium"
     }
   ],
   "tagsNote": "프린트 도장 개수 수행평가 반영 방법 문의.",

@@ -14,15 +14,13 @@
   "contentHtml": "<p class=\"cafe-editor-text\">아래 자료는 이곳에서 얻었어요.<br />(출처표시)<br /><a href=\"http://cafe.naver.com/lessonlab\">http://cafe.naver.com/lessonlab</a><br /><br /><br />-담임 매뉴얼<br />* 출처: 대구광역시교육청 교원 매뉴얼 게시판 바로가기<br /><a href=\"http://www.dge.go.kr/main/na/ntt/selectNttInfo.do?nttSn=1417623\">http://www.dge.go.kr/main/na/ntt/selectNttInfo.do?nttSn=1417623</a><br /><br />-평가계획 작성시 참고 사이트<br />*출처:2018년 중등평가지원단 연수자료 (경기도교육청, pdf파일)<br /><a href=\"http://www.goe.go.kr/home/bbs/bbsDetail.do?menuId=100000000000272&bbsMasterId=BBSMSTR_000000030136&menuInit=12,1,2,0,0&bbsId=966610\">http://www.goe.go.kr/home/bbs/bbsDetail.do?menuId=100000000000272&bbsMasterId=BBSMSTR_000000030136&menuInit=12,1,2,0,0&bbsId=966610</a><br /><br /><br />*출처:2017년 중등평가지원단 연수자료(경기도교육청, 한글파일)<br /><a href=\"http://www.goe.go.kr/home/bbs/bbsDetail.do?menuId=100000000000272&bbsMasterId=BBSMSTR_000000030136&menuInit=12,1,2,0,0&bbsId=307416\">http://www.goe.go.kr/home/bbs/bbsDetail.do?menuId=100000000000272&bbsMasterId=BBSMSTR_000000030136&menuInit=12,1,2,0,0&bbsId=307416</a><br /><br /><br />*출처:고등학교 학생평가 톺아보기 (교육부)<br /><a href=\"https://stas.moe.go.kr/frt/boardView.do?nTbBoardSeq=&strCurMenuId=280&nTbCategorySeq=&pageIndex=1&nTbBoardArticleSeq=406492&searchKeyword_W_copy\">https://stas.moe.go.kr/frt/boardView.do?nTbBoardSeq=&strCurMenuId=280&nTbCategorySeq=&pageIndex=1&nTbBoardArticleSeq=406492&searchKeyword_W_copy</a>=<br /></p>\n\t \t\t\t\t\t<!-- -->",
   "tags": [
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
+      "category": "게시판별 분류",
+      "topic": "학급 운영",
       "confidence": "high"
     },
     {
-      "category": "게시판별 분류",
-      "topic": "학급 운영",
+      "category": "과학교사 업무",
+      "topic": "학급운영",
       "confidence": "high"
     }
   ],
