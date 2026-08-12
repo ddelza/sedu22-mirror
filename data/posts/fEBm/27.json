@@ -17,6 +17,13 @@
       "category": "게시판별 분류",
       "topic": "과학(부장) 업무 도움방",
       "confidence": "high"
+    },
+    {
+      "category": "과학교사 업무",
+      "topic": "과학 행사",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "과학대회 QR 설문 신청 시 취소자 처리 팁 공유.",
+  "taggedAt": "2026-08-12T13:34:33.919Z"
 }

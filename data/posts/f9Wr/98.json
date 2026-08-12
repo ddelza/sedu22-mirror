@@ -17,6 +17,13 @@
       "category": "게시판별 분류",
       "topic": "교사는 처음이시죠?",
       "confidence": "high"
+    },
+    {
+      "category": "과학교사 업무",
+      "topic": "학급운영",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "과학실 수업 중 학생 산만함 관리 팁 요청.",
+  "taggedAt": "2026-08-12T13:21:50.470Z"
 }

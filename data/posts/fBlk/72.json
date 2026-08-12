@@ -17,6 +17,13 @@
       "category": "게시판별 분류",
       "topic": "재과만 정기행사",
       "confidence": "high"
+    },
+    {
+      "category": "과학교사 업무",
+      "topic": "교원연수",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "고민나눔회 참석대상 선정 및 참석방법 안내.",
+  "taggedAt": "2026-08-12T13:32:32.135Z"
 }

@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "재과만 공지",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "카페 '재미있는 과학수업 만들기'의 지향점 소개.",
+  "taggedAt": "2026-08-12T13:32:32.166Z"
 }

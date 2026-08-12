@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "독서연계 과학수업",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "고등학교",
+      "subject": "물리학Ⅰ",
+      "unit": "역학과 에너지",
+      "confidence": "low"
     }
-  ]
+  ],
+  "tagsNote": "물리학Ⅰ 열파트(스털링 기관) 수업에 수능특강 비문학 지문 활용 사례.",
+  "taggedAt": "2026-08-12T09:58:29.227Z"
 }

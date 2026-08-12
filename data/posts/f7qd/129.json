@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "독서연계 과학수업",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "별과 우주",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "'코스모스' 발췌(별의 개수와 외계생명체 가능성) 자료 공유.",
+  "taggedAt": "2026-08-12T09:58:29.241Z"
 }

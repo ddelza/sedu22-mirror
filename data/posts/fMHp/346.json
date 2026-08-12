@@ -17,6 +17,27 @@
       "category": "게시판별 분류",
       "topic": "중학교 물리수업 이야기",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "전기와 자기",
+      "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "전기와 자기",
+      "confidence": "high"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "생성형 AI 도구",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "AI 작곡 사이트 suno로 만든 전기의 발생 단원 노래 공유.",
+  "taggedAt": "2026-08-12T15:02:29.284Z"
 }

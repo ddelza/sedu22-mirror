@@ -17,6 +17,13 @@
       "category": "게시판별 분류",
       "topic": "어머! 이건 사야해",
       "confidence": "high"
+    },
+    {
+      "category": "과학교사 업무",
+      "topic": "과학실 관리",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "수업개선 예산으로 구입한 디지털 현미경 사례 공유.",
+  "taggedAt": "2026-08-12T13:21:50.480Z"
 }

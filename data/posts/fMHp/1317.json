@@ -17,6 +17,22 @@
       "category": "게시판별 분류",
       "topic": "중학교 물리수업 이야기",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "전기와 자기",
+      "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "전기와 자기",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "저항 병렬연결시 전압이 같은 이유 설명 질문.",
+  "taggedAt": "2026-08-12T14:43:20.151Z"
 }

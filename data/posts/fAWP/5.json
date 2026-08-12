@@ -17,6 +17,13 @@
       "category": "게시판별 분류",
       "topic": "어머! 이건 사야해",
       "confidence": "high"
+    },
+    {
+      "category": "과학교사 업무",
+      "topic": "과학실 관리",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "연수에서 소개받은 공기대포 제품 구매처 문의.",
+  "taggedAt": "2026-08-12T13:21:50.484Z"
 }

@@ -17,6 +17,13 @@
       "category": "게시판별 분류",
       "topic": "단톡방의 기록",
       "confidence": "high"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "앱/프로그램",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "마인크래프트를 활용한 자유학기 수업 활동지 공유.",
+  "taggedAt": "2026-08-12T13:36:47.377Z"
 }

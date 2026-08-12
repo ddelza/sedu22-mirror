@@ -17,6 +17,13 @@
       "category": "게시판별 분류",
       "topic": "떨리는 첫수업 아이디어",
       "confidence": "high"
+    },
+    {
+      "category": "과학교사 업무",
+      "topic": "학급운영",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "중3 첫수업 전 단어 친숙화 게임 자료 공유.",
+  "taggedAt": "2026-08-12T10:26:25.421Z"
 }

@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "교사는 처음이시죠?",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "초임교사의 진도 및 평가 계획 관련 고민 공유.",
+  "taggedAt": "2026-08-12T10:30:00.123Z"
 }

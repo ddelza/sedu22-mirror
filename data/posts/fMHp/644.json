@@ -17,6 +17,22 @@
       "category": "게시판별 분류",
       "topic": "중학교 물리수업 이야기",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "운동과 에너지",
+      "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "운동과 에너지",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "시간기록계로 낙하하는 추의 운동 기록·분석 실험 공유.",
+  "taggedAt": "2026-08-12T15:15:05.654Z"
 }

@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "교사는 처음이시죠?",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "문항 검토 도움 요청(화성 지역 교사 찾기).",
+  "taggedAt": "2026-08-12T10:30:00.122Z"
 }

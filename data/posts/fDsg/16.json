@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "재과만 공지",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "2028 대입제도 개편 시안 교사 설문조사 협조 요청.",
+  "taggedAt": "2026-08-12T13:32:32.161Z"
 }

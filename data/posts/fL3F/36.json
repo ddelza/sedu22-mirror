@@ -17,6 +17,22 @@
       "category": "게시판별 분류",
       "topic": "물리학 이야기(이승윤)",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "열과 우리 생활",
+      "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "열",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "대류를 표현하는 교과서 그림의 개선 아이디어 제안.",
+  "taggedAt": "2026-08-12T13:40:41.882Z"
 }

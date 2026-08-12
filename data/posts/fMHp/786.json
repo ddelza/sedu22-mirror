@@ -17,6 +17,27 @@
       "category": "게시판별 분류",
       "topic": "중학교 물리수업 이야기",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "빛과 파동",
+      "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "빛과 파동",
+      "confidence": "high"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "AR/VR",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "AR 빛 실험실 앱 아이폰/아이패드 설치 불가 문의.",
+  "taggedAt": "2026-08-12T15:23:44.264Z"
 }

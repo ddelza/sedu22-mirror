@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "중학교 물리수업 이야기",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "low"
     }
-  ]
+  ],
+  "tagsNote": "2학기 전체 배운 내용을 과학 시화로 표현하는 수행평가(특정 단원 한정 아님).",
+  "taggedAt": "2026-08-12T15:27:55.600Z"
 }

@@ -17,6 +17,13 @@
       "category": "게시판별 분류",
       "topic": "떨리는 첫수업 아이디어",
       "confidence": "high"
+    },
+    {
+      "category": "과학교사 업무",
+      "topic": "학급운영",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "첫수업 브레인스토밍(과학자 이름/용어 쓰기) 활동 공유.",
+  "taggedAt": "2026-08-12T10:27:33.052Z"
 }

@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "재과만 공지",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "게시글/댓글 보존 캠페인 공지.",
+  "taggedAt": "2026-08-12T13:33:30.789Z"
 }

@@ -17,6 +17,13 @@
       "category": "게시판별 분류",
       "topic": "재과만 정기행사",
       "confidence": "high"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "앱/프로그램",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "초성퀴즈 2.3 프로그램 및 사용법 공유.",
+  "taggedAt": "2026-08-12T13:25:22.790Z"
 }

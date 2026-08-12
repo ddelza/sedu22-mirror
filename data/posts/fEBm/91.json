@@ -17,6 +17,13 @@
       "category": "게시판별 분류",
       "topic": "과학(부장) 업무 도움방",
       "confidence": "high"
+    },
+    {
+      "category": "과학교사 업무",
+      "topic": "과학실 관리",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "과학실 전자저울 용량/최저단위 구입 기준 문의.",
+  "taggedAt": "2026-08-12T13:35:40.776Z"
 }

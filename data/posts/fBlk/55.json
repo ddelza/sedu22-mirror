@@ -17,6 +17,13 @@
       "category": "게시판별 분류",
       "topic": "재과만 정기행사",
       "confidence": "high"
+    },
+    {
+      "category": "과학교사 업무",
+      "topic": "교원연수",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "오프모임에서 논의된 제안(오픈채팅방 등) 정리.",
+  "taggedAt": "2026-08-12T13:25:22.801Z"
 }

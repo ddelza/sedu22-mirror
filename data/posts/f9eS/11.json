@@ -17,6 +17,13 @@
       "category": "게시판별 분류",
       "topic": "떨리는 첫수업 아이디어",
       "confidence": "high"
+    },
+    {
+      "category": "과학교사 업무",
+      "topic": "학급운영",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "매년 첫수업으로 진행하는 과학의 본질/탐구방법 실습 자료 공유.",
+  "taggedAt": "2026-08-12T10:26:25.422Z"
 }

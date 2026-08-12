@@ -17,6 +17,18 @@
       "category": "게시판별 분류",
       "topic": "재과만 talk 영상(1회~100회)",
       "confidence": "high"
+    },
+    {
+      "category": "과학교사 업무",
+      "topic": "교원연수",
+      "confidence": "high"
+    },
+    {
+      "category": "과학교사 업무",
+      "topic": "과학 행사",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "재과만 톡톡 14회(과학행사+시험출제 노하우) 영상 공개.",
+  "taggedAt": "2026-08-12T13:22:58.990Z"
 }

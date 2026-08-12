@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "교사는 처음이시죠?",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "물리학 교수의 저서 발췌를 통한 교사 동기부여 글 공유.",
+  "taggedAt": "2026-08-12T10:30:00.125Z"
 }

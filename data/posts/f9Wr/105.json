@@ -17,6 +17,13 @@
       "category": "게시판별 분류",
       "topic": "교사는 처음이시죠?",
       "confidence": "high"
+    },
+    {
+      "category": "과학교사 업무",
+      "topic": "과학 행사",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "신규교사의 과학외부행사 취소 관련 문의(해결됨).",
+  "taggedAt": "2026-08-12T10:28:48.861Z"
 }

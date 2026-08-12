@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "중학교 물리수업 이야기",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "low"
     }
-  ]
+  ],
+  "tagsNote": "올림픽 관련 첨단기술(오심 방지) 소재 동영상 자료 공유.",
+  "taggedAt": "2026-08-12T15:29:21.725Z"
 }

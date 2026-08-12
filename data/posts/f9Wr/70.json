@@ -17,6 +17,13 @@
       "category": "게시판별 분류",
       "topic": "교사는 처음이시죠?",
       "confidence": "high"
+    },
+    {
+      "category": "과학교사 업무",
+      "topic": "과학실 관리",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "다이소 등 오프라인 매장 실험물품 구매 절차 문의(정전기 단원 활동용).",
+  "taggedAt": "2026-08-12T13:21:50.443Z"
 }

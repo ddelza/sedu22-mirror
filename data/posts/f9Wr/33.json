@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "교사는 처음이시죠?",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "수시 원서 접수 현황 나이스 확인 방법 공유(담임 업무).",
+  "taggedAt": "2026-08-12T10:30:00.108Z"
 }

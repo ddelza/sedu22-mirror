@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "독서연계 과학수업",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "'질문의 책' 발췌 시적 문구 소개.",
+  "taggedAt": "2026-08-12T09:58:29.247Z"
 }

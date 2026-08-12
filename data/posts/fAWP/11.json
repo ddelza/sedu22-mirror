@@ -17,6 +17,13 @@
       "category": "게시판별 분류",
       "topic": "어머! 이건 사야해",
       "confidence": "high"
+    },
+    {
+      "category": "과학교사 업무",
+      "topic": "과학실 관리",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "전기 정전기 시연기 제품 소개.",
+  "taggedAt": "2026-08-12T13:21:50.473Z"
 }

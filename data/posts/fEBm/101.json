@@ -17,6 +17,13 @@
       "category": "게시판별 분류",
       "topic": "과학(부장) 업무 도움방",
       "confidence": "high"
+    },
+    {
+      "category": "과학교사 업무",
+      "topic": "과학실 관리",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "눈세척기 설치 문의에 대한 답변(행정실 요청).",
+  "taggedAt": "2026-08-12T13:33:30.813Z"
 }

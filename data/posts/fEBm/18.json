@@ -17,6 +17,13 @@
       "category": "게시판별 분류",
       "topic": "과학(부장) 업무 도움방",
       "confidence": "high"
+    },
+    {
+      "category": "과학교사 업무",
+      "topic": "과학실 관리",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "MSDS 기반 유독물질 파악 및 시약장 관리 방법 안내.",
+  "taggedAt": "2026-08-12T13:33:30.823Z"
 }

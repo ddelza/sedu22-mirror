@@ -17,6 +17,13 @@
       "category": "게시판별 분류",
       "topic": "지능형(미래형)교실 활용수업",
       "confidence": "high"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "AR/VR",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "오큘러스 VR 활용수업 프로그램 문의.",
+  "taggedAt": "2026-08-12T10:27:33.064Z"
 }

@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "나의 망한 수업 자랑",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "'망한 수업 자랑하기' 새 게시판 소개.",
+  "taggedAt": "2026-08-12T13:36:47.378Z"
 }

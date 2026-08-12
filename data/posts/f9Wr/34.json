@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "교사는 처음이시죠?",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "생기부 기재된 돼지심장 해부 활동 관련 대입 면접 예상 질문 문의.",
+  "taggedAt": "2026-08-12T10:30:00.109Z"
 }

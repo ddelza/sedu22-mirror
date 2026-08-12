@@ -17,6 +17,13 @@
       "category": "게시판별 분류",
       "topic": "지능형(미래형)교실 활용수업",
       "confidence": "high"
+    },
+    {
+      "category": "과학교사 업무",
+      "topic": "과학실 관리",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "지능형 과학실 ON을 활용한 탐구수업 개설/등록 관련 고민.",
+  "taggedAt": "2026-08-12T10:28:48.849Z"
 }

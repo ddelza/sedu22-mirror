@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "중학교 물리수업 이야기",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "low"
     }
-  ]
+  ],
+  "tagsNote": "생물·화학 영역 담당분 4·5단원 학습자료 요청(구체 단원명 불명).",
+  "taggedAt": "2026-08-12T15:34:46.114Z"
 }

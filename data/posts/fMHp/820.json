@@ -17,6 +17,22 @@
       "category": "게시판별 분류",
       "topic": "중학교 물리수업 이야기",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "전기와 자기",
+      "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "전기와 자기",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "새 교육과정의 자기 단원(솔레노이드 서술 순서) 질문.",
+  "taggedAt": "2026-08-12T15:26:14.261Z"
 }

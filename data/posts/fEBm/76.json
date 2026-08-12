@@ -17,6 +17,18 @@
       "category": "게시판별 분류",
       "topic": "과학(부장) 업무 도움방",
       "confidence": "high"
+    },
+    {
+      "category": "과학교사 업무",
+      "topic": "과학실 관리",
+      "confidence": "high"
+    },
+    {
+      "category": "과학교사 업무",
+      "topic": "교원연수",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "과학실 안전 교직원연수 자료(파일 형식 재업로드) 공유.",
+  "taggedAt": "2026-08-12T13:35:40.764Z"
 }

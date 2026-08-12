@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "독서연계 과학수업",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "운동과 에너지",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "중3 자유낙하운동 소재 비문학 지문 국어-과학 융합 활용 공유.",
+  "taggedAt": "2026-08-12T09:58:29.238Z"
 }

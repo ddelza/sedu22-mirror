@@ -17,6 +17,13 @@
       "category": "게시판별 분류",
       "topic": "과학(부장) 업무 도움방",
       "confidence": "high"
+    },
+    {
+      "category": "과학교사 업무",
+      "topic": "과학실 관리",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "과학과 예산 항목(비품구입비/교육운영비) 구분 문의.",
+  "taggedAt": "2026-08-12T13:34:33.932Z"
 }

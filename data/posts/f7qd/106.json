@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "독서연계 과학수업",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "그림이 풍부한 대형 과학도서 목록 함께 만들기 제안.",
+  "taggedAt": "2026-08-12T09:58:29.224Z"
 }

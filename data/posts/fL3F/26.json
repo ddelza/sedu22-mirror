@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "물리학 이야기(이승윤)",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "비관성계 알짜힘(원심력·기조력 등) 정리 칼럼.",
+  "taggedAt": "2026-08-12T13:39:02.239Z"
 }

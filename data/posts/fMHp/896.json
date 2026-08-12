@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "중학교 물리수업 이야기",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "low"
     }
-  ]
+  ],
+  "tagsNote": "중2 과학 전체 단원 대상 오픈북 수행평가 운영 사례 공유.",
+  "taggedAt": "2026-08-12T15:29:21.747Z"
 }

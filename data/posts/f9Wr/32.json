@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "교사는 처음이시죠?",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "방과후수업에서 고1 모의고사 문제 활용이 선행학습인지 문의.",
+  "taggedAt": "2026-08-12T10:30:00.107Z"
 }

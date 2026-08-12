@@ -17,6 +17,27 @@
       "category": "게시판별 분류",
       "topic": "재과만 정기행사",
       "confidence": "high"
+    },
+    {
+      "category": "과학교사 업무",
+      "topic": "교원연수",
+      "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "지권의 변화",
+      "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "지권의 변화",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "암석과 지질 수업 발표자료(패들렛 기반) 공유.",
+  "taggedAt": "2026-08-12T13:32:32.145Z"
 }

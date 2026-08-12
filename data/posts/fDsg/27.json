@@ -17,6 +17,13 @@
       "category": "게시판별 분류",
       "topic": "재과만 공지",
       "confidence": "high"
+    },
+    {
+      "category": "과학교사 업무",
+      "topic": "교원연수",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "여름방학 재과만 톡톡 영상 정주행 추천.",
+  "taggedAt": "2026-08-12T13:33:30.795Z"
 }

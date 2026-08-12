@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "재과만 정기행사",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "'바다의 이용' 수업 운영 영상 아카이브 소개.",
+  "taggedAt": "2026-08-12T13:24:15.944Z"
 }

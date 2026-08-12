@@ -17,6 +17,20 @@
       "category": "게시판별 분류",
       "topic": "재과만 talk 영상(1회~100회)",
       "confidence": "high"
+    },
+    {
+      "category": "과학교사 업무",
+      "topic": "교원연수",
+      "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "별과 우주",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "재과만 톡톡 11회(별과우주+천체관측행사) 영상 공개.",
+  "taggedAt": "2026-08-12T13:22:58.987Z"
 }

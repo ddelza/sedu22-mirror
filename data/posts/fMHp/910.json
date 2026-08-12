@@ -17,6 +17,13 @@
       "category": "게시판별 분류",
       "topic": "중학교 물리수업 이야기",
       "confidence": "high"
+    },
+    {
+      "category": "과학교사 업무",
+      "topic": "과학실 관리",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "실험 준비 시간 단축 방법에 대한 일반적 팁(특정 단원 한정 아님).",
+  "taggedAt": "2026-08-12T15:30:50.659Z"
 }

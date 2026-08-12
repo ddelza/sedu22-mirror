@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "과학(부장) 업무 도움방",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "일반 공문 작성법 자료 공유.",
+  "taggedAt": "2026-08-12T13:35:40.759Z"
 }

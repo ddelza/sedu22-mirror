@@ -17,6 +17,13 @@
       "category": "게시판별 분류",
       "topic": "교사는 처음이시죠?",
       "confidence": "high"
+    },
+    {
+      "category": "과학교사 업무",
+      "topic": "교원연수",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "에듀파인/나이스 업무속도 향상 연수 영상 공유.",
+  "taggedAt": "2026-08-12T10:28:48.877Z"
 }

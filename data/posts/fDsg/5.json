@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "재과만 공지",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "단톡방과 카페의 역할 차이 설명.",
+  "taggedAt": "2026-08-12T13:33:30.808Z"
 }

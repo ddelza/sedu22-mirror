@@ -17,6 +17,13 @@
       "category": "게시판별 분류",
       "topic": "교사는 처음이시죠?",
       "confidence": "high"
+    },
+    {
+      "category": "과학교사 업무",
+      "topic": "교원연수",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "학생 대상 과학 관련 강연 정보 문의.",
+  "taggedAt": "2026-08-12T10:30:00.121Z"
 }

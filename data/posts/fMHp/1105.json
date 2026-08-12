@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "중학교 물리수업 이야기",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "생식과 유전",
+      "confidence": "low"
     }
-  ]
+  ],
+  "tagsNote": "라왕나무 씨앗 관련 수업 준비 중 궁금증 질문.",
+  "taggedAt": "2026-08-12T14:34:59.693Z"
 }

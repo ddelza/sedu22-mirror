@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "과학(부장) 업무 도움방",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "경기도 탄소중립교육 필수 수업시수 관련 공문 문의.",
+  "taggedAt": "2026-08-12T13:34:33.935Z"
 }

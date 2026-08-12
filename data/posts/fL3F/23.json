@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "물리학 이야기(이승윤)",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "부피력 개념 정정 칼럼(관성력 관련).",
+  "taggedAt": "2026-08-12T13:39:02.237Z"
 }

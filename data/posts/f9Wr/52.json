@@ -16,6 +16,15 @@
       "category": "게시판별 분류",
       "topic": "교사는 처음이시죠?",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "교과서 탐구활동 대체하여 학습지 제작 가능 여부 문의.",
+  "taggedAt": "2026-08-12T10:30:00.123Z"
 }

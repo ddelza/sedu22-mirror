@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "물리학 이야기(이승윤)",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "학문으로서의 물리학이란 무엇인가 심화 칼럼.",
+  "taggedAt": "2026-08-12T13:39:02.231Z"
 }

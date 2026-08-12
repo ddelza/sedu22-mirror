@@ -17,6 +17,13 @@
       "category": "게시판별 분류",
       "topic": "독서연계 과학수업",
       "confidence": "high"
+    },
+    {
+      "category": "과학교사 업무",
+      "topic": "동아리 운영",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "영화 '돈 룩업'으로 진행한 과학 수다 활동(영과수) 공유.",
+  "taggedAt": "2026-08-12T10:25:08.360Z"
 }

@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "재과만 정기행사",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "지식시장 방식 모둠활동 학습지 공유(단원 특정 불명확).",
+  "taggedAt": "2026-08-12T13:25:22.789Z"
 }

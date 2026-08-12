@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "재과만 공지",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "방학 중 배운 것을 나누자는 카페 운영 공지.",
+  "taggedAt": "2026-08-12T13:32:32.161Z"
 }

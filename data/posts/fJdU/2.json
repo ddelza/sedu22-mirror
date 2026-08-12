@@ -17,6 +17,13 @@
       "category": "게시판별 분류",
       "topic": "나의 망한 수업 자랑",
       "confidence": "high"
+    },
+    {
+      "category": "수업 방법론",
+      "topic": "거꾸로 교실",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "거꾸로 수업 실패 경험담 공유.",
+  "taggedAt": "2026-08-12T13:36:47.380Z"
 }

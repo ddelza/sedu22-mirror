@@ -17,6 +17,13 @@
       "category": "게시판별 분류",
       "topic": "재과만 공지",
       "confidence": "high"
+    },
+    {
+      "category": "과학교사 업무",
+      "topic": "교원연수",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "네이버 소프트웨어야 놀자 AI 교사 연구회 추천 안내.",
+  "taggedAt": "2026-08-12T13:32:32.159Z"
 }

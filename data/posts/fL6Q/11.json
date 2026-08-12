@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "(고교)생활과 과학&융합과학&과학사&기환생",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "천동설/지동설 소재 애니메이션(과학사 수업 활용) 소개.",
+  "taggedAt": "2026-08-12T13:40:41.894Z"
 }

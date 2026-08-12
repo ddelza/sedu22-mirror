@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "독서연계 과학수업",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "식물과 에너지",
+      "confidence": "low"
     }
-  ]
+  ],
+  "tagsNote": "'사피엔스' 발췌(에너지 변환 한계) 광합성 연계 자료 공유.",
+  "taggedAt": "2026-08-12T09:58:29.231Z"
 }

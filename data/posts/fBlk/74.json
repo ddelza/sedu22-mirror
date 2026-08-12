@@ -17,6 +17,13 @@
       "category": "게시판별 분류",
       "topic": "재과만 정기행사",
       "confidence": "high"
+    },
+    {
+      "category": "과학교사 업무",
+      "topic": "과학실 관리",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "LB아가 배지 초간단 제작법(실험재료 저렴 구입) 공유.",
+  "taggedAt": "2026-08-12T13:32:32.137Z"
 }

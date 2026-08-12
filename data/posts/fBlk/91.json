@@ -17,6 +17,22 @@
       "category": "게시판별 분류",
       "topic": "재과만 정기행사",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "빛과 파동",
+      "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "빛과 파동",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "빛 사진전(사진+설명, 스티커 투표) 수행평가 사례 공유.",
+  "taggedAt": "2026-08-12T13:32:32.151Z"
 }

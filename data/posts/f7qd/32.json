@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "독서연계 과학수업",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "중3 과학 교과수업 내 1학기 독서수업+평가+대회 연계 사례 공유.",
+  "taggedAt": "2026-08-12T10:25:08.363Z"
 }

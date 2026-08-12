@@ -17,6 +17,22 @@
       "category": "게시판별 분류",
       "topic": "중학교 물리수업 이야기",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "전기와 자기",
+      "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "열",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "개정 중2 전기와 자기·열과 우리생활 단원 참고도서(터치 사이언스) 추천.",
+  "taggedAt": "2026-08-12T15:30:50.661Z"
 }

@@ -17,6 +17,13 @@
       "category": "게시판별 분류",
       "topic": "(고교)생활과 과학&융합과학&과학사&기환생",
       "confidence": "high"
+    },
+    {
+      "category": "과학교사 업무",
+      "topic": "과학실 관리",
+      "confidence": "low"
     }
-  ]
+  ],
+  "tagsNote": "기환생·과학사 내용을 담은 과학실 블라인드 이미지 공유.",
+  "taggedAt": "2026-08-12T13:40:41.895Z"
 }

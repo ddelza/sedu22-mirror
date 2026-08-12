@@ -17,6 +17,13 @@
       "category": "게시판별 분류",
       "topic": "(월간) 재과만 이야기",
       "confidence": "high"
+    },
+    {
+      "category": "과학교사 업무",
+      "topic": "교원연수",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "226 새학기 원정대 행사 후기(월간 재과만 제14호).",
+  "taggedAt": "2026-08-12T13:35:40.790Z"
 }

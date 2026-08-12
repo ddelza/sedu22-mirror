@@ -17,6 +17,13 @@
       "category": "게시판별 분류",
       "topic": "재과만 정기행사",
       "confidence": "high"
+    },
+    {
+      "category": "과학교사 업무",
+      "topic": "학급운영",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "첫 과학수업에 활용 좋은 '과학의 본질' 주사위 게임 자료 공유.",
+  "taggedAt": "2026-08-12T13:24:15.934Z"
 }

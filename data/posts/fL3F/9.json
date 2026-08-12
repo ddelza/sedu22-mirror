@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "물리학 이야기(이승윤)",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "정사영으로 불확정성 원리를 이해하는 심화 칼럼(4화).",
+  "taggedAt": "2026-08-12T13:40:41.891Z"
 }

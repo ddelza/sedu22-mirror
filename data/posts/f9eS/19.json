@@ -17,6 +17,13 @@
       "category": "게시판별 분류",
       "topic": "떨리는 첫수업 아이디어",
       "confidence": "high"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "앱/프로그램",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "학생 대상 패들렛 가입 및 사용법 안내 영상 제작 공유.",
+  "taggedAt": "2026-08-12T10:27:33.033Z"
 }

@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "나의 망한 수업 자랑",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "수업 중 동영상 음성 문제로 인한 실패담 공유.",
+  "taggedAt": "2026-08-12T13:36:47.381Z"
 }

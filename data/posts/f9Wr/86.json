@@ -17,6 +17,13 @@
       "category": "게시판별 분류",
       "topic": "교사는 처음이시죠?",
       "confidence": "high"
+    },
+    {
+      "category": "과학교사 업무",
+      "topic": "학급운영",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "과학 수업 첫 시간에 다룰 이야기(과학과 이해의 의미) 아이디어 공유.",
+  "taggedAt": "2026-08-12T13:21:50.459Z"
 }

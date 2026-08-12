@@ -17,6 +17,20 @@
       "category": "게시판별 분류",
       "topic": "중학교 물리수업 이야기",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "에너지 전환과 보존",
+      "confidence": "high"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "앱/프로그램",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "VPython 시뮬레이션을 활용한 역학적 에너지 보존 가상실험 공유.",
+  "taggedAt": "2026-08-12T15:23:44.270Z"
 }

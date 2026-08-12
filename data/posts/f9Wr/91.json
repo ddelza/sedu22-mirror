@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "교사는 처음이시죠?",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "중학교 방과후 물리 강의 개설 가능 여부(선행학습 규정) 문의.",
+  "taggedAt": "2026-08-12T13:21:50.462Z"
 }

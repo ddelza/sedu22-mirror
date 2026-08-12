@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "재과만 정기행사",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "중1 자유학년제 평가계획서(교육과정 및 평가계획) 공유.",
+  "taggedAt": "2026-08-12T13:32:32.151Z"
 }

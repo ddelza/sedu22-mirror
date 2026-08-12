@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "중학교 물리수업 이야기",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "에너지 전환과 보존",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "전기 에너지 절약 프로젝트 활동일지 공유.",
+  "taggedAt": "2026-08-12T15:16:40.811Z"
 }

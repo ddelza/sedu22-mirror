@@ -17,6 +17,13 @@
       "category": "게시판별 분류",
       "topic": "과학(부장) 업무 도움방",
       "confidence": "high"
+    },
+    {
+      "category": "과학교사 업무",
+      "topic": "과학실 관리",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "MSDS 연수자료 및 폐수통/위험 스티커 도안 공유.",
+  "taggedAt": "2026-08-12T13:35:40.781Z"
 }

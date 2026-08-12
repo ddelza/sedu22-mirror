@@ -17,6 +17,22 @@
       "category": "게시판별 분류",
       "topic": "단톡방의 기록",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "물질의 특성",
+      "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "물질의 특성",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "끓는점 차이를 이용한 물-에탄올 증류 실험(온도계 위치) 질문.",
+  "taggedAt": "2026-08-12T13:36:47.377Z"
 }

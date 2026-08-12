@@ -17,6 +17,13 @@
       "category": "게시판별 분류",
       "topic": "과학(부장) 업무 도움방",
       "confidence": "high"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "MBL센서",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "MBL 이산화탄소 측정센서 제품 추천 요청.",
+  "taggedAt": "2026-08-12T13:34:33.927Z"
 }

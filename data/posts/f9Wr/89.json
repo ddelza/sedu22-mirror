@@ -17,6 +17,13 @@
       "category": "게시판별 분류",
       "topic": "교사는 처음이시죠?",
       "confidence": "high"
+    },
+    {
+      "category": "과학교사 업무",
+      "topic": "과학 행사",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "교내 과학탐구대회(토론/융합) 진행 절차 문의.",
+  "taggedAt": "2026-08-12T13:21:50.461Z"
 }

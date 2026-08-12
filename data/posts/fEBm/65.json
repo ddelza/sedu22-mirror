@@ -17,6 +17,13 @@
       "category": "게시판별 분류",
       "topic": "과학(부장) 업무 도움방",
       "confidence": "high"
+    },
+    {
+      "category": "과학교사 업무",
+      "topic": "과학 행사",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "융합과학토론 UI 챌린지 학교교육계획 수립 관련 문의.",
+  "taggedAt": "2026-08-12T13:35:40.754Z"
 }

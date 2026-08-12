@@ -17,6 +17,13 @@
       "category": "게시판별 분류",
       "topic": "중학교 물리수업 이야기",
       "confidence": "high"
+    },
+    {
+      "category": "과학교사 업무",
+      "topic": "과학실 관리",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "2022 개정 중1용 압력센서·온도센서 추천 요청.",
+  "taggedAt": "2026-08-12T14:51:31.205Z"
 }

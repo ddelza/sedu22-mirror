@@ -17,6 +17,13 @@
       "category": "게시판별 분류",
       "topic": "재과만 talk 영상(1회~100회)",
       "confidence": "high"
+    },
+    {
+      "category": "과학교사 업무",
+      "topic": "교원연수",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "재과만 톡톡 18회(과학수업 방해 대응, 영상 비공개) 자료 공유.",
+  "taggedAt": "2026-08-12T13:22:58.995Z"
 }

@@ -17,6 +17,13 @@
       "category": "게시판별 분류",
       "topic": "교사는 처음이시죠?",
       "confidence": "high"
+    },
+    {
+      "category": "과학교사 업무",
+      "topic": "학급운영",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "나이스 사진명렬표를 활용한 학생 얼굴 빨리 익히기 팁 공유.",
+  "taggedAt": "2026-08-12T13:21:50.463Z"
 }

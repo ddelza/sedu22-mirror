@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "재과만 정기행사",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "생물의 다양성",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "생물의 분류 단계 활동 기반 수행평가 사례 공유.",
+  "taggedAt": "2026-08-12T13:32:32.138Z"
 }

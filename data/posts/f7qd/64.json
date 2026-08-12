@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "독서연계 과학수업",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "생물의 다양성",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "중1 전체 독서(생물다양성 연계) 추천 도서 요청.",
+  "taggedAt": "2026-08-12T10:25:08.377Z"
 }

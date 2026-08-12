@@ -17,6 +17,13 @@
       "category": "게시판별 분류",
       "topic": "지능형(미래형)교실 활용수업",
       "confidence": "high"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "MBL센서",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "무선 MBL센서 버니어 vs 파스코 제품 비교 문의.",
+  "taggedAt": "2026-08-12T10:27:33.060Z"
 }

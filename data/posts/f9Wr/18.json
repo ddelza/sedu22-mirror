@@ -17,6 +17,13 @@
       "category": "게시판별 분류",
       "topic": "교사는 처음이시죠?",
       "confidence": "high"
+    },
+    {
+      "category": "과학교사 업무",
+      "topic": "학급운영",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "학생 칭찬 표현법(101가지) 강의 영상 공유.",
+  "taggedAt": "2026-08-12T10:28:48.876Z"
 }

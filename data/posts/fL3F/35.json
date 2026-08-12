@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "물리학 이야기(이승윤)",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "에라토스테네스 실험의 동시성·경도 개념 심화 설명.",
+  "taggedAt": "2026-08-12T13:39:02.250Z"
 }

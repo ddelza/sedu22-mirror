@@ -17,6 +17,22 @@
       "category": "게시판별 분류",
       "topic": "단톡방의 기록",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "전기와 자기",
+      "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "전기와 자기",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "시리얼 속 철가루(자성 물질) 탐구 과정 공유.",
+  "taggedAt": "2026-08-12T13:36:47.375Z"
 }

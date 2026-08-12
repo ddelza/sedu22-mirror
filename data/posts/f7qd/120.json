@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "독서연계 과학수업",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "고등학교",
+      "subject": "화학Ⅰ",
+      "unit": "원자의 세계",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "원자모형 변천과정 소재 수능 비문학 기출(2016) 공유.",
+  "taggedAt": "2026-08-12T09:58:29.234Z"
 }

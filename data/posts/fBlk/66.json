@@ -17,6 +17,20 @@
       "category": "게시판별 분류",
       "topic": "재과만 정기행사",
       "confidence": "high"
+    },
+    {
+      "category": "과학교사 업무",
+      "topic": "교원연수",
+      "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "고등학교",
+      "subject": "물리학Ⅰ",
+      "unit": "파동과 정보통신",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "제5회 오프모임 마이켈슨 간섭계 발표자료 공유.",
+  "taggedAt": "2026-08-12T13:25:22.810Z"
 }

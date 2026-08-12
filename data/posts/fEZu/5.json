@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "(월간) 재과만 이야기",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "월간 재과만(제3호, 오픈채팅 AI 요약).",
+  "taggedAt": "2026-08-12T13:36:47.370Z"
 }

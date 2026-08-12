@@ -17,6 +17,13 @@
       "category": "게시판별 분류",
       "topic": "교사는 처음이시죠?",
       "confidence": "high"
+    },
+    {
+      "category": "과학교사 업무",
+      "topic": "학급운영",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "수업진도표 겸 학생기록 체크리스트 양식 공유.",
+  "taggedAt": "2026-08-12T10:30:00.112Z"
 }

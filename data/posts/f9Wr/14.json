@@ -17,6 +17,13 @@
       "category": "게시판별 분류",
       "topic": "교사는 처음이시죠?",
       "confidence": "high"
+    },
+    {
+      "category": "과학교사 업무",
+      "topic": "학급운영",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "모둠 내 역할 파악을 위한 PRAL 학습 행동 스타일 검사 활용 공유.",
+  "taggedAt": "2026-08-12T10:28:48.874Z"
 }

@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "중학교 물리수업 이야기",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "졸업 전 중학교 과학 개념 다시보기(전 단원 복습) 수업 공유.",
+  "taggedAt": "2026-08-12T14:37:46.739Z"
 }

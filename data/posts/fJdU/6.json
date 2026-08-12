@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "나의 망한 수업 자랑",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "고등학교",
+      "subject": "물리학Ⅰ",
+      "unit": "물질과 전자기장",
+      "confidence": "low"
     }
-  ]
+  ],
+  "tagsNote": "크로뮴 반강자성 상전이 관찰 실패 실험 공유.",
+  "taggedAt": "2026-08-12T13:36:47.381Z"
 }

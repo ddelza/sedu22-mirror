@@ -17,6 +17,13 @@
       "category": "게시판별 분류",
       "topic": "교사는 처음이시죠?",
       "confidence": "high"
+    },
+    {
+      "category": "과학교사 업무",
+      "topic": "동아리 운영",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "예산 없이 진행 가능한 과학실험동아리 활동 아이디어 요청.",
+  "taggedAt": "2026-08-12T10:30:00.118Z"
 }

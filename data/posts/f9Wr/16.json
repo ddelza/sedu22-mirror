@@ -17,6 +17,13 @@
       "category": "게시판별 분류",
       "topic": "교사는 처음이시죠?",
       "confidence": "high"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "앱/프로그램",
+      "confidence": "low"
     }
-  ]
+  ],
+  "tagsNote": "수업 중 검색 시 뜨는 광고 제거 방법 공유.",
+  "taggedAt": "2026-08-12T10:28:48.875Z"
 }

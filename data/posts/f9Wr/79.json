@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "교사는 처음이시죠?",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "교과서/학습지/PPT 등 수업자료 선호도에 대한 일반적 고민.",
+  "taggedAt": "2026-08-12T13:21:50.454Z"
 }

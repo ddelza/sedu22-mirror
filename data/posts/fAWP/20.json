@@ -17,6 +17,18 @@
       "category": "게시판별 분류",
       "topic": "어머! 이건 사야해",
       "confidence": "high"
+    },
+    {
+      "category": "과학교사 업무",
+      "topic": "과학 행사",
+      "confidence": "high"
+    },
+    {
+      "category": "과학교사 업무",
+      "topic": "동아리 운영",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "환경동아리와 함께 진행한 교내 벼룩시장 행사 운영 사례 공유.",
+  "taggedAt": "2026-08-12T13:21:50.481Z"
 }

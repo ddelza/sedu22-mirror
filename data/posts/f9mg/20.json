@@ -17,6 +17,13 @@
       "category": "게시판별 분류",
       "topic": "지능형(미래형)교실 활용수업",
       "confidence": "high"
+    },
+    {
+      "category": "과학교사 업무",
+      "topic": "과학실 관리",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "미래형 과학실 구축 우수사례 공유.",
+  "taggedAt": "2026-08-12T10:27:33.062Z"
 }

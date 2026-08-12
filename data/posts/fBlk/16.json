@@ -17,6 +17,13 @@
       "category": "게시판별 분류",
       "topic": "재과만 정기행사",
       "confidence": "high"
+    },
+    {
+      "category": "과학교사 업무",
+      "topic": "교원연수",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "전시장 형태 융합프로젝트 수업모형 설명 발표자료 공유.",
+  "taggedAt": "2026-08-12T13:24:15.942Z"
 }

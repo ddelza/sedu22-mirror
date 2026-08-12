@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "재과만 정기행사",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "기체의 성질",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "보일의 법칙을 활용한 탄산음료캔 따는 방법 시연 공유.",
+  "taggedAt": "2026-08-12T13:25:22.792Z"
 }

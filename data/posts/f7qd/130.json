@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "독서연계 과학수업",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "고등학교",
+      "subject": "통합과학",
+      "unit": "생물다양성과 유지",
+      "confidence": "low"
     }
-  ]
+  ],
+  "tagsNote": "'코스모스' 발췌(생명의 진화, 자연선택) 자료 공유.",
+  "taggedAt": "2026-08-12T09:58:29.242Z"
 }

@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "독서연계 과학수업",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "고등학교",
+      "subject": "통합과학",
+      "unit": "역학적 시스템",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "통합과학 역학적 시스템(관성) 단원과 안전띠 원리를 연계한 자료 공유.",
+  "taggedAt": "2026-08-12T10:25:08.352Z"
 }

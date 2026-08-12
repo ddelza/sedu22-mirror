@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "중학교 화학수업 이야기",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "low"
     }
-  ]
+  ],
+  "tagsNote": "24홈판 활용을 위한 범용 학습지 서식(특정 실험·단원 한정 아님).",
+  "taggedAt": "2026-08-12T15:40:05.128Z"
 }

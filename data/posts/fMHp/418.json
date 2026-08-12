@@ -17,6 +17,13 @@
       "category": "게시판별 분류",
       "topic": "중학교 물리수업 이야기",
       "confidence": "high"
+    },
+    {
+      "category": "과학교사 업무",
+      "topic": "과학실 관리",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "집게 전선 손잡이 간단 수리 방법 공유.",
+  "taggedAt": "2026-08-12T15:05:34.744Z"
 }

@@ -17,6 +17,13 @@
       "category": "게시판별 분류",
       "topic": "재과만 talk 영상(1회~100회)",
       "confidence": "high"
+    },
+    {
+      "category": "과학교사 업무",
+      "topic": "교원연수",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "재과만 톡톡 4회(학년말 수업 아이디어) 영상 공개.",
+  "taggedAt": "2026-08-12T13:22:59.016Z"
 }

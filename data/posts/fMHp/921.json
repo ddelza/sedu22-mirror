@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "중학교 물리수업 이야기",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "low"
     }
-  ]
+  ],
+  "tagsNote": "중2 기말고사 이후 진행할 야외수업 소재 추천 요청(특정 단원 미지정).",
+  "taggedAt": "2026-08-12T15:30:50.668Z"
 }

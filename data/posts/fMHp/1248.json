@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "중학교 물리수업 이야기",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "표 작성·그래프 그리기·결론 내리기 일반 탐구 수업 공유.",
+  "taggedAt": "2026-08-12T14:40:35.720Z"
 }

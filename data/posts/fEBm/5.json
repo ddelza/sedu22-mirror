@@ -17,6 +17,13 @@
       "category": "게시판별 분류",
       "topic": "과학(부장) 업무 도움방",
       "confidence": "high"
+    },
+    {
+      "category": "과학교사 업무",
+      "topic": "과학실 관리",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "화학약품/실험실 안전교육 자료(학교안전교육연구단) 공유.",
+  "taggedAt": "2026-08-12T13:34:33.934Z"
 }

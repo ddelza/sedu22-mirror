@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "중학교 물리수업 이야기",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "고등학교",
+      "subject": "물리학Ⅰ",
+      "unit": "파동과 정보통신",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "물리학Ⅰ 전자기파 발생장치 실험 질문.",
+  "taggedAt": "2026-08-12T14:46:12.209Z"
 }

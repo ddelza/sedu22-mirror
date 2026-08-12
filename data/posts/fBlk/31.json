@@ -17,6 +17,18 @@
       "category": "게시판별 분류",
       "topic": "재과만 정기행사",
       "confidence": "high"
+    },
+    {
+      "category": "과학교사 업무",
+      "topic": "교원연수",
+      "confidence": "medium"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "앱/프로그램",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "도전골든벨 프로그램 등 발표 자료 및 관련 링크 공유.",
+  "taggedAt": "2026-08-12T13:24:15.957Z"
 }

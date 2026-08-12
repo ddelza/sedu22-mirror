@@ -17,6 +17,18 @@
       "category": "게시판별 분류",
       "topic": "재과만 정기행사",
       "confidence": "high"
+    },
+    {
+      "category": "과학교사 업무",
+      "topic": "교원연수",
+      "confidence": "high"
+    },
+    {
+      "category": "수업 방법론",
+      "topic": "거꾸로 교실",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "학생중심 거꾸로 수업 사례 발표 동영상 공유.",
+  "taggedAt": "2026-08-12T13:25:22.798Z"
 }

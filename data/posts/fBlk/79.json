@@ -17,6 +17,13 @@
       "category": "게시판별 분류",
       "topic": "재과만 정기행사",
       "confidence": "high"
+    },
+    {
+      "category": "과학교사 업무",
+      "topic": "교원연수",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "고1 통합과학/고3 생명과학2 역할극·보드게임 수행평가 발표자료 공유.",
+  "taggedAt": "2026-08-12T13:32:32.141Z"
 }

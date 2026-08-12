@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "(고교)생활과 과학&융합과학&과학사&기환생",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "과학과제연구 학습활동지(탐구방법/연구윤리/보고서쓰기) 공유.",
+  "taggedAt": "2026-08-12T13:40:41.898Z"
 }

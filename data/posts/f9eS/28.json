@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "떨리는 첫수업 아이디어",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "고등학교",
+      "subject": "물리학Ⅰ",
+      "unit": "역학과 에너지",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "역학적 에너지 보존 소재 물리 연구수업 사례 요청.",
+  "taggedAt": "2026-08-12T10:27:33.041Z"
 }

@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "중학교 화학수업 이야기",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "low"
     }
-  ]
+  ],
+  "tagsNote": "베네딕트 반응(환원당 검출) 실험 팁(중학교 교육과정 범위 밖 소재).",
+  "taggedAt": "2026-08-12T15:38:38.429Z"
 }

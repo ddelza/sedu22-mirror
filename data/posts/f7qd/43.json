@@ -17,6 +17,13 @@
       "category": "게시판별 분류",
       "topic": "독서연계 과학수업",
       "confidence": "high"
+    },
+    {
+      "category": "과학교사 업무",
+      "topic": "동아리 운영",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "동아리 시작날 씨앗은행 이벤트 아이디어 공유.",
+  "taggedAt": "2026-08-12T10:25:08.372Z"
 }

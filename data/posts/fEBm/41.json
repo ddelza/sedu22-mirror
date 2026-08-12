@@ -17,6 +17,13 @@
       "category": "게시판별 분류",
       "topic": "과학(부장) 업무 도움방",
       "confidence": "high"
+    },
+    {
+      "category": "과학교사 업무",
+      "topic": "과학 행사",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "주말 과학행사 학생 인솔시 출장/초과근무수당 규정 공유.",
+  "taggedAt": "2026-08-12T13:34:33.928Z"
 }

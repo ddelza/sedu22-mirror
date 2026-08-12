@@ -17,6 +17,13 @@
       "category": "게시판별 분류",
       "topic": "교사는 처음이시죠?",
       "confidence": "high"
+    },
+    {
+      "category": "과학교사 업무",
+      "topic": "학급운영",
+      "confidence": "low"
     }
-  ]
+  ],
+  "tagsNote": "교사 소진 예방/회복 및 생활지도 상담 서비스 소개.",
+  "taggedAt": "2026-08-12T10:30:00.110Z"
 }

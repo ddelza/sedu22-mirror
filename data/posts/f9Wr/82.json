@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "교사는 처음이시죠?",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "시험 중 교사의 잘못된 답변으로 학생이 오답 처리된 상황 대처 문의.",
+  "taggedAt": "2026-08-12T13:21:50.456Z"
 }

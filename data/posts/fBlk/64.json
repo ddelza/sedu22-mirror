@@ -17,6 +17,18 @@
       "category": "게시판별 분류",
       "topic": "재과만 정기행사",
       "confidence": "high"
+    },
+    {
+      "category": "과학교사 업무",
+      "topic": "교원연수",
+      "confidence": "high"
+    },
+    {
+      "category": "과학교사 업무",
+      "topic": "과학 행사",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "제5회 오프모임 천문행사 관련 발표자료 공유.",
+  "taggedAt": "2026-08-12T13:25:22.808Z"
 }

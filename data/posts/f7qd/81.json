@@ -17,6 +17,13 @@
       "category": "게시판별 분류",
       "topic": "독서연계 과학수업",
       "confidence": "high"
+    },
+    {
+      "category": "과학교사 업무",
+      "topic": "교원연수",
+      "confidence": "low"
     }
-  ]
+  ],
+  "tagsNote": "외부 강연(인공지능 시대, 인간의 일) 참석 후기 공유.",
+  "taggedAt": "2026-08-12T10:26:25.407Z"
 }

@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "떨리는 첫수업 아이디어",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "과학이 어렵게 느껴지는 이유 관련 영상 추천.",
+  "taggedAt": "2026-08-12T10:27:33.049Z"
 }

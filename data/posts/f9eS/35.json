@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "떨리는 첫수업 아이디어",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "학생과의 대화 형식을 활용한 수업 방법 아이디어 공유.",
+  "taggedAt": "2026-08-12T10:27:33.048Z"
 }

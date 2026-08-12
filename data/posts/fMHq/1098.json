@@ -17,6 +17,13 @@
       "category": "게시판별 분류",
       "topic": "중학교 화학수업 이야기",
       "confidence": "high"
+    },
+    {
+      "category": "과학교사 업무",
+      "topic": "과학실 관리",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "염화제2구리 반응 가스 흡입에 따른 안전 문의.",
+  "taggedAt": "2026-08-12T15:40:05.138Z"
 }

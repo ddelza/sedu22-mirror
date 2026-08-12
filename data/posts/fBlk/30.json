@@ -17,6 +17,18 @@
       "category": "게시판별 분류",
       "topic": "재과만 정기행사",
       "confidence": "high"
+    },
+    {
+      "category": "과학교사 업무",
+      "topic": "교원연수",
+      "confidence": "high"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "앱/프로그램",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "골든벨 프로그램을 활용한 수업 발표 동영상 공유.",
+  "taggedAt": "2026-08-12T13:24:15.957Z"
 }

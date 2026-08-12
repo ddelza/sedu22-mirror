@@ -17,6 +17,13 @@
       "category": "게시판별 분류",
       "topic": "어머! 이건 사야해",
       "confidence": "high"
+    },
+    {
+      "category": "과학교사 업무",
+      "topic": "과학실 관리",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "재과만 톡톡 소개 과학 물품(수소로켓 발사대, 물 전기분해 장치 등) 공유.",
+  "taggedAt": "2026-08-12T13:21:50.487Z"
 }

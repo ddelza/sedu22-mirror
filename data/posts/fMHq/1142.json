@@ -17,6 +17,20 @@
       "category": "게시판별 분류",
       "topic": "중학교 화학수업 이야기",
       "confidence": "high"
+    },
+    {
+      "category": "과학교사 업무",
+      "topic": "과학실 관리",
+      "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "화학 반응의 규칙과 에너지 변화",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "마그네슘 리본 연소 시범실험의 물 접촉 위험성 질문.",
+  "taggedAt": "2026-08-12T15:41:46.670Z"
 }

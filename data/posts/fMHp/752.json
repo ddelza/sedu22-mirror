@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "중학교 물리수업 이야기",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "여러 가지 힘",
+      "confidence": "low"
     }
-  ]
+  ],
+  "tagsNote": "실험 결과(불균일 증가) 관련 질문(내용 부족).",
+  "taggedAt": "2026-08-12T15:18:13.092Z"
 }

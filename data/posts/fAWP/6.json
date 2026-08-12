@@ -17,6 +17,13 @@
       "category": "게시판별 분류",
       "topic": "어머! 이건 사야해",
       "confidence": "high"
+    },
+    {
+      "category": "과학교사 업무",
+      "topic": "과학실 관리",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "다수 현미경 수리 업체 이용 후기 공유.",
+  "taggedAt": "2026-08-12T13:21:50.485Z"
 }

@@ -17,6 +17,18 @@
       "category": "게시판별 분류",
       "topic": "중학교 물리수업 이야기",
       "confidence": "high"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "앱/프로그램",
+      "confidence": "medium"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "교육용 단말기",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "디벗·카훗·소크라티브·전자칠판 활용 수업 팁(특정 단원 한정 아님).",
+  "taggedAt": "2026-08-12T15:32:17.130Z"
 }

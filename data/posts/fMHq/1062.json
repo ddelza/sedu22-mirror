@@ -17,6 +17,13 @@
       "category": "게시판별 분류",
       "topic": "중학교 화학수업 이야기",
       "confidence": "high"
+    },
+    {
+      "category": "과학교사 업무",
+      "topic": "과학실 관리",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "반응성 큰 금속(란타넘족) 실험재료 보관 방법 문의.",
+  "taggedAt": "2026-08-12T15:38:38.410Z"
 }

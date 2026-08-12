@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "중학교 물리수업 이야기",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "여러 가지 힘",
+      "confidence": "low"
     }
-  ]
+  ],
+  "tagsNote": "헬륨비행선 만들기 활동 프로젝트 공유.",
+  "taggedAt": "2026-08-12T14:54:31.953Z"
 }

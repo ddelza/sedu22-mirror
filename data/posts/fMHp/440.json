@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "중학교 물리수업 이야기",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "과학기사(하이퍼루프, 전기차 배터리 등) 읽기 요약 활동 공유.",
+  "taggedAt": "2026-08-12T15:07:01.307Z"
 }

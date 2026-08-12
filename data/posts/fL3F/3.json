@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "물리학 이야기(이승윤)",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "고등학교",
+      "subject": "지구과학Ⅰ",
+      "unit": "외부 은하와 우주 팽창",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "우주 가속팽창을 이해하는 방식(창발 개념) 심화 칼럼.",
+  "taggedAt": "2026-08-12T13:39:02.243Z"
 }

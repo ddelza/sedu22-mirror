@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "물리학 이야기(이승윤)",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "고등학교",
+      "subject": "물리학Ⅰ",
+      "unit": "역학과 에너지",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "위치·운동·일·에너지·운동량으로 이어지는 스토리 정리 칼럼.",
+  "taggedAt": "2026-08-12T13:40:41.890Z"
 }

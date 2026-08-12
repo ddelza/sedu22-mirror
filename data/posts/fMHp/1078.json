@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "중학교 물리수업 이야기",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "에너지 전환과 보존",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "생활 속 에너지 전환 사례 동영상 공유.",
+  "taggedAt": "2026-08-12T13:43:37.441Z"
 }

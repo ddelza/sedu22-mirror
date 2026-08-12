@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "교사는 처음이시죠?",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "성적은 좋으나 수업태도가 나쁜 학생의 세특 작성 고민.",
+  "taggedAt": "2026-08-12T13:21:50.452Z"
 }

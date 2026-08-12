@@ -17,6 +17,13 @@
       "category": "게시판별 분류",
       "topic": "교사는 처음이시죠?",
       "confidence": "high"
+    },
+    {
+      "category": "과학교사 업무",
+      "topic": "동아리 운영",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "중1 과학실 활용 동아리 보고서 양식 문의.",
+  "taggedAt": "2026-08-12T10:28:48.872Z"
 }

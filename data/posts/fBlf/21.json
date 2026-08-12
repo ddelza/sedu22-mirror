@@ -17,6 +17,20 @@
       "category": "게시판별 분류",
       "topic": "재과만 talk 영상(1회~100회)",
       "confidence": "high"
+    },
+    {
+      "category": "과학교사 업무",
+      "topic": "교원연수",
+      "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "열과 우리 생활",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "재과만 톡톡 20회(열과 우리 생활) 영상 공개.",
+  "taggedAt": "2026-08-12T13:22:58.998Z"
 }

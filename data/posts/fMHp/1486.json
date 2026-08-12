@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "중학교 물리수업 이야기",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "운동과 에너지",
+      "confidence": "low"
     }
-  ]
+  ],
+  "tagsNote": "과학에서의 일 개념 질문에 대한 감사 댓글.",
+  "taggedAt": "2026-08-12T14:51:31.222Z"
 }

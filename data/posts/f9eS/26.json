@@ -17,6 +17,13 @@
       "category": "게시판별 분류",
       "topic": "떨리는 첫수업 아이디어",
       "confidence": "high"
+    },
+    {
+      "category": "과학교사 업무",
+      "topic": "학급운영",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "학년초 첫수업(원소기호+친구이름 외우기) 진행 후기.",
+  "taggedAt": "2026-08-12T10:27:33.041Z"
 }

@@ -17,6 +17,13 @@
       "category": "게시판별 분류",
       "topic": "교사는 처음이시죠?",
       "confidence": "high"
+    },
+    {
+      "category": "과학교사 업무",
+      "topic": "과학 행사",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "교내 과학의 날 행사(탄소중립 포스터 등) 준비 아이디어 요청.",
+  "taggedAt": "2026-08-12T13:21:50.468Z"
 }
