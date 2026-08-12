@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "수업 Ideas",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "힘과 운동",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "학기말 관성시합(동전잡기 등) 및 오목대회 등 학급게임 활용 후기.",
+  "taggedAt": "2026-08-12T05:02:24.657Z"
 }

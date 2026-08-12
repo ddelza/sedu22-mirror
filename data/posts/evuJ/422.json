@@ -17,6 +17,20 @@
       "category": "게시판별 분류",
       "topic": "AI도구 활용하기",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "태양계",
+      "confidence": "high"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "생성형 AI 도구",
+      "confidence": "low"
     }
-  ]
+  ],
+  "tagsNote": "태양계 천체 수박게임(중1 7단원 흥미유발).",
+  "taggedAt": "2026-08-12T03:58:15.952Z"
 }

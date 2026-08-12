@@ -16,6 +16,15 @@
       "category": "게시판별 분류",
       "topic": "옹알이(익명게시판)",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "생물의 다양성",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "현미경 원리/사용법 수업 내용이 교육과정에서 사라진 것에 대한 아쉬움과 수업방법 문의.",
+  "taggedAt": "2026-08-12T04:53:16.391Z"
 }

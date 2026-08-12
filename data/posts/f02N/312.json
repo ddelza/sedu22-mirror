@@ -16,6 +16,13 @@
       "category": "게시판별 분류",
       "topic": "옹알이(익명게시판)",
       "confidence": "high"
+    },
+    {
+      "category": "과학교사 업무",
+      "topic": "과학실 관리",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "변질된 포도당 용액 폐기 여부 문의.",
+  "taggedAt": "2026-08-12T04:45:29.802Z"
 }

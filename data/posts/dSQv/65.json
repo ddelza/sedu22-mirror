@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "자유학기 수업",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "여러 가지 힘",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "투석기 만들기(주제선택 수업).",
+  "taggedAt": "2026-08-12T03:27:43.428Z"
 }

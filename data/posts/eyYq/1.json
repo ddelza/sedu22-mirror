@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "과학쌤의 짤주머니",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "고등학교",
+      "subject": "생명과학Ⅰ",
+      "unit": "생명과학의 이해",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "박테리오파지 동기유발 짧은 이미지 자료.",
+  "taggedAt": "2026-08-12T04:18:08.739Z"
 }

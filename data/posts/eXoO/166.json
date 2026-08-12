@@ -17,6 +17,13 @@
       "category": "게시판별 분류",
       "topic": "연구하는 교사 (Teacher as Researcher)",
       "confidence": "high"
+    },
+    {
+      "category": "과학교사 업무",
+      "topic": "교원연수",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "생물다양성 교원연수(여름방학) 안내.",
+  "taggedAt": "2026-08-12T04:15:30.478Z"
 }

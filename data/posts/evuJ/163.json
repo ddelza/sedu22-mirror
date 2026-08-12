@@ -17,6 +17,20 @@
       "category": "게시판별 분류",
       "topic": "AI도구 활용하기",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "medium"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "앱/프로그램",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "라이브워크시트로 만든 중2 내용 복습자료(예비고1용).",
+  "taggedAt": "2026-08-12T03:48:50.875Z"
 }

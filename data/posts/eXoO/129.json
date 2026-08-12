@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "연구하는 교사 (Teacher as Researcher)",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "여러 가지 힘",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "질량과 무게 개념 구분 심화글(2).",
+  "taggedAt": "2026-08-12T04:15:30.418Z"
 }

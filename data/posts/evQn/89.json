@@ -16,6 +16,15 @@
       "category": "게시판별 분류",
       "topic": "(고교)화학수업 이야기",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "고등학교",
+      "subject": "화학",
+      "unit": "반응의 세계 산화·환원 반응",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "염화나트륨 용융액 전기분해 반응식 채점 질문.",
+  "taggedAt": "2026-08-12T03:45:53.138Z"
 }

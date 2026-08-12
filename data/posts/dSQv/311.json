@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "자유학기 수업",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "영화 활용 주제선택(싸이씨네반) 자료 — 여러 단원 혼합.",
+  "taggedAt": "2026-08-12T03:24:21.087Z"
 }

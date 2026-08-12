@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "연구하는 교사 (Teacher as Researcher)",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "재과만 공동 출판 제안.",
+  "taggedAt": "2026-08-12T04:16:53.949Z"
 }

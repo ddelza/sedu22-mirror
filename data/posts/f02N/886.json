@@ -16,6 +16,20 @@
       "category": "게시판별 분류",
       "topic": "옹알이(익명게시판)",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "생식과 유전",
+      "confidence": "medium"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "앱/프로그램",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "자바 프로그램을 이용한 세포분열 시각화 수행평가 방법 문의.",
+  "taggedAt": "2026-08-12T04:58:27.169Z"
 }

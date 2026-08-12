@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "(고교)생명과학수업 이야기",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "고등학교",
+      "subject": "생명과학Ⅰ",
+      "unit": "생명과학의 이해",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "'한 컷의 과학 - 바이러스' 빈칸채우기 온라인수업 자료.",
+  "taggedAt": "2026-08-12T03:12:26.719Z"
 }

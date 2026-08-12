@@ -16,6 +16,15 @@
       "category": "게시판별 분류",
       "topic": "옹알이(익명게시판)",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "태양계와 별",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "달의 삭 위상 관측 가능 여부 및 관련 사진 진위 질문.",
+  "taggedAt": "2026-08-12T04:55:49.797Z"
 }

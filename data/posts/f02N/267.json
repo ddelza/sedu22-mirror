@@ -16,6 +16,15 @@
       "category": "게시판별 분류",
       "topic": "옹알이(익명게시판)",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "고등학교",
+      "subject": "지구과학Ⅰ",
+      "unit": "외부 은하와 우주 팽창",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "우주팽창 풍선모형실험 해석(풍선 내부공간=우주공간 여부) 질문.",
+  "taggedAt": "2026-08-12T04:44:11.363Z"
 }

@@ -17,6 +17,20 @@
       "category": "게시판별 분류",
       "topic": "과학수업 웹툰(김상협)",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "고등학교",
+      "subject": "통합과학",
+      "unit": "자연의 구성 물질",
+      "confidence": "low"
+    },
+    {
+      "category": "과학교사 업무",
+      "topic": "교원연수",
+      "confidence": "low"
     }
-  ]
+  ],
+  "tagsNote": "신소재 실험 키트 제작 연수(웹툰 7화 곁들임).",
+  "taggedAt": "2026-08-12T03:31:12.955Z"
 }

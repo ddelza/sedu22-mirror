@@ -16,6 +16,13 @@
       "category": "게시판별 분류",
       "topic": "옹알이(익명게시판)",
       "confidence": "high"
+    },
+    {
+      "category": "과학교사 업무",
+      "topic": "동아리 운영",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "고등학교 과학동아리 첫 시간 활동 아이디어 요청.",
+  "taggedAt": "2026-08-12T04:55:49.810Z"
 }

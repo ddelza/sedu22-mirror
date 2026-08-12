@@ -16,6 +16,15 @@
       "category": "게시판별 분류",
       "topic": "옹알이(익명게시판)",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "교원능력개발평가 학생만족도 결과 소감 나눔.",
+  "taggedAt": "2026-08-12T04:44:11.374Z"
 }

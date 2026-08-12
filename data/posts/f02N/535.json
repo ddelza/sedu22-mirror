@@ -16,6 +16,15 @@
       "category": "게시판별 분류",
       "topic": "옹알이(익명게시판)",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "신규교사 평가계획서 작성 관련 질문.",
+  "taggedAt": "2026-08-12T04:50:37.958Z"
 }

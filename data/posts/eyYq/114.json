@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "과학쌤의 짤주머니",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "운동과 에너지",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "관성/탄성 소재(트램폴린) 이미지.",
+  "taggedAt": "2026-08-12T04:19:43.085Z"
 }

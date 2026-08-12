@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "(고교)화학수업 이야기",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "고등학교",
+      "subject": "화학",
+      "unit": "반응의 세계 산 염기 평형",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "제산제 역적정(정량분석) 실험 프로토콜.",
+  "taggedAt": "2026-08-12T03:42:56.101Z"
 }

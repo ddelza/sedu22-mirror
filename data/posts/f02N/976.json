@@ -16,6 +16,13 @@
       "category": "게시판별 분류",
       "topic": "옹알이(익명게시판)",
       "confidence": "high"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "MBL센서",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "센서 실험 보고서를 모둠별로 확인/작성하는 방식 문의.",
+  "taggedAt": "2026-08-12T05:01:07.848Z"
 }

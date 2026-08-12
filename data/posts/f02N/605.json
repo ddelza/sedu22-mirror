@@ -16,6 +16,15 @@
       "category": "게시판별 분류",
       "topic": "옹알이(익명게시판)",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "태양계와 별",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "연주시차로 별까지 거리 구하는 공식의 라디안 단위 소거 원리 질문.",
+  "taggedAt": "2026-08-12T04:51:56.123Z"
 }

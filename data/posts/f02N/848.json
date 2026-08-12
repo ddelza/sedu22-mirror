@@ -16,6 +16,13 @@
       "category": "게시판별 분류",
       "topic": "옹알이(익명게시판)",
       "confidence": "high"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "AR/VR",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "VR기기(오큘러스 퀘스트3) 구입 및 계정/기기 설정 방법 문의.",
+  "taggedAt": "2026-08-12T04:57:09.287Z"
 }

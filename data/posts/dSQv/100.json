@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "자유학기 수업",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "고등학교",
+      "subject": "통합과학",
+      "unit": "생태계와 환경",
+      "confidence": "low"
     }
-  ]
+  ],
+  "tagsNote": "학교숲 나무 이름표 달기 주제선택 수업 구상.",
+  "taggedAt": "2026-08-12T03:18:58.465Z"
 }

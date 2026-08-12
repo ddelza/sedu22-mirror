@@ -16,6 +16,15 @@
       "category": "게시판별 분류",
       "topic": "옹알이(익명게시판)",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "기권과 날씨",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "복사평형 관련 지구 평균온도 측정 기준(대기/지표) 질문.",
+  "taggedAt": "2026-08-12T04:54:27.575Z"
 }

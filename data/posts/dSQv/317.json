@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "자유학기 수업",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "동물과 에너지",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "호흡 원리(교감/부교감 신경)로 스트레스 관리 배우는 수업.",
+  "taggedAt": "2026-08-12T03:26:25.406Z"
 }

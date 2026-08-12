@@ -16,6 +16,15 @@
       "category": "게시판별 분류",
       "topic": "옹알이(익명게시판)",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "복직 후 2022 통합과학 교육과정 재구성 가능 여부 문의.",
+  "taggedAt": "2026-08-12T04:59:41.502Z"
 }

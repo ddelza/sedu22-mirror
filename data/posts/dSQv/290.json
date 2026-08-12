@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "자유학기 수업",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "빛과 파동",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "과학탐구활동반 - 빛 VR 실험, 빛이 만드는 색.",
+  "taggedAt": "2026-08-12T03:24:21.054Z"
 }

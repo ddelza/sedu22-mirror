@@ -16,6 +16,13 @@
       "category": "게시판별 분류",
       "topic": "옹알이(익명게시판)",
       "confidence": "high"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "AR/VR",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "ZEP과 ZEP edu 계정간 동시접속 인원제한 관련 질문.",
+  "taggedAt": "2026-08-12T04:51:56.082Z"
 }

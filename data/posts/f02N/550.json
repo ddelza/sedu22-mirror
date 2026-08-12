@@ -16,6 +16,13 @@
       "category": "게시판별 분류",
       "topic": "옹알이(익명게시판)",
       "confidence": "high"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "앱/프로그램",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "구글시트 활용 반별 과제학습방 운영(학생 초대 방식) 질문.",
+  "taggedAt": "2026-08-12T04:50:37.974Z"
 }

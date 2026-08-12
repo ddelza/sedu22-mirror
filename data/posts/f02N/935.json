@@ -16,6 +16,13 @@
       "category": "게시판별 분류",
       "topic": "옹알이(익명게시판)",
       "confidence": "high"
+    },
+    {
+      "category": "과학교사 업무",
+      "topic": "동아리 운영",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "생명과학1 교과서 실험을 동아리 시간에 진행 시 공정성 문제 여부 문의.",
+  "taggedAt": "2026-08-12T04:59:41.498Z"
 }

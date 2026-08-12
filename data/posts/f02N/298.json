@@ -16,6 +16,15 @@
       "category": "게시판별 분류",
       "topic": "옹알이(익명게시판)",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "운동과 에너지",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "자유낙하 지도 전 뉴턴 가속도 법칙(F=ma) 도입 방식 의견 요청.",
+  "taggedAt": "2026-08-12T04:44:11.390Z"
 }

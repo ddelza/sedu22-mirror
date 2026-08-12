@@ -17,6 +17,13 @@
       "category": "게시판별 분류",
       "topic": "(고교)물리수업 이야기",
       "confidence": "high"
+    },
+    {
+      "category": "과학교사 업무",
+      "topic": "교원연수",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "중이온가속기연구소(라온) 교사 연수 홍보.",
+  "taggedAt": "2026-08-12T03:36:53.805Z"
 }

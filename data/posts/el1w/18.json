@@ -17,6 +17,22 @@
       "category": "게시판별 분류",
       "topic": "과학교사K (유튜브)",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "자극과 반응",
+      "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "식물과 에너지",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "일회용품이 생물(물벼룩 심장박동, 양파/콩 생장)에 미치는 영향 탐구.",
+  "taggedAt": "2026-08-12T03:29:01.358Z"
 }

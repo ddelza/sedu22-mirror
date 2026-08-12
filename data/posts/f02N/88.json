@@ -16,6 +16,13 @@
       "category": "게시판별 분류",
       "topic": "옹알이(익명게시판)",
       "confidence": "high"
+    },
+    {
+      "category": "과학교사 업무",
+      "topic": "과학 행사",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "복직 후 시도 과학탐구토론/실험대회 재개 여부 문의.",
+  "taggedAt": "2026-08-12T04:58:27.163Z"
 }

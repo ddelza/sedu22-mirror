@@ -16,6 +16,15 @@
       "category": "게시판별 분류",
       "topic": "옹알이(익명게시판)",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "PS열쇠고리 만들기 오븐 가열 시 전자파/유해성 우려 논의.",
+  "taggedAt": "2026-08-12T04:49:23.633Z"
 }

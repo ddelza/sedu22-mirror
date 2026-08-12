@@ -17,6 +17,13 @@
       "category": "게시판별 분류",
       "topic": "이럴 땐 이런 말!",
       "confidence": "high"
+    },
+    {
+      "category": "수업 방법론",
+      "topic": "IB(개념기반학습)",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "개념기반 탐구학습(사실적/개념적/논쟁적 질문)과 실패 수용 문화 연계 에세이.",
+  "taggedAt": "2026-08-12T03:17:24.897Z"
 }

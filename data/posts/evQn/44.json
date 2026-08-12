@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "(고교)화학수업 이야기",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "화학2 모둠 조사활동 소재 요청(세특용) — 특정 단원 아님.",
+  "taggedAt": "2026-08-12T03:44:21.869Z"
 }

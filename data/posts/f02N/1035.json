@@ -16,6 +16,13 @@
       "category": "게시판별 분류",
       "topic": "옹알이(익명게시판)",
       "confidence": "high"
+    },
+    {
+      "category": "과학교사 업무",
+      "topic": "과학실 관리",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "퇴직 예정 교사의 과다 물품 구매 관련 고민.",
+  "taggedAt": "2026-08-12T04:37:41.456Z"
 }

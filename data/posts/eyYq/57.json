@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "과학쌤의 짤주머니",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "여러 가지 힘",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "중력의 방향 찾기 이미지.",
+  "taggedAt": "2026-08-12T04:35:05.660Z"
 }

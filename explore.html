@@ -3,21 +3,51 @@
 <head>
 <meta charset="utf-8">
 <title>재과만(sedu22) 카페 미러 — 단원별 둘러보기</title>
+<script>(function(){try{var t=localStorage.getItem('sedu22_theme');if(t)document.documentElement.setAttribute('data-theme',t);}catch(e){}})();</script>
 <style>
   * { box-sizing: border-box; }
-  body { font-family: -apple-system, "Malgun Gothic", sans-serif; margin: 0; background: #f5f5f5; color: #222; }
-  header { background: #222; color: #fff; padding: 12px 20px; display: flex; align-items: center; gap: 24px; flex-wrap: wrap; }
+
+  :root {
+    --bg: #f5f6f8; --surface: #ffffff; --text: #1a1a1a; --text-muted: #888888;
+    --border: #d0d6e2; --nav-bg: #1a3d7c; --nav-text: #d8e3ff; --accent: #1a3d7c; --accent-soft: #e6ebf5;
+    --danger: #c0392b; --font-body: -apple-system, "Apple SD Gothic Neo", "Malgun Gothic", sans-serif;
+  }
+  :root[data-theme="forest"] { --bg:#f5f8f5; --surface:#ffffff; --text:#1a1a1a; --text-muted:#7d9c8c; --border:#d6e8de; --nav-bg:#2d6a4f; --nav-text:#d2ece1; --accent:#2d6a4f; --accent-soft:#e3f1ea; }
+  :root[data-theme="lavender"] { --bg:#f7f5fb; --surface:#ffffff; --text:#1a1a1a; --text-muted:#8c81a6; --border:#e0daf0; --nav-bg:#5b4b8a; --nav-text:#e3ddf5; --accent:#5b4b8a; --accent-soft:#ece7f7; }
+  :root[data-theme="slate"] { --bg:#f6f6f7; --surface:#ffffff; --text:#1a1a1a; --text-muted:#838c98; --border:#dde1e6; --nav-bg:#3d4a5c; --nav-text:#dbe2ea; --accent:#3d4a5c; --accent-soft:#e7eaee; }
+  :root[data-theme="dark-navy"] { --bg:#1b1f27; --surface:#242a35; --text:#e8e9ec; --text-muted:#adb8c8; --border:#353d4a; --nav-bg:#141821; --nav-text:#b8c9ef; --accent:#7da3e8; --accent-soft:#2a3344; }
+  :root[data-theme="dark-forest"] { --bg:#1a211d; --surface:#232b26; --text:#e6ece8; --text-muted:#a8beaa; --border:#34433a; --nav-bg:#141a17; --nav-text:#bcdfca; --accent:#5fae84; --accent-soft:#26352c; }
+  :root[data-theme="dark-plum"] { --bg:#201a24; --surface:#2a232f; --text:#ece6ef; --text-muted:#bdb3c8; --border:#3d3444; --nav-bg:#18131b; --nav-text:#d8c6e8; --accent:#a87fd0; --accent-soft:#322a3a; }
+  :root[data-theme="apple"] { --bg:#f5f5f7; --surface:#ffffff; --text:#1d1d1f; --text-muted:#6e6e73; --border:#d2d2d7; --nav-bg:#000000; --nav-text:rgba(255,255,255,0.85); --accent:#0066cc; --accent-soft:rgba(0,102,204,0.1); --font-body:-apple-system,"SF Pro Display","SF Pro Text",BlinkMacSystemFont,"Apple SD Gothic Neo","Malgun Gothic",system-ui,sans-serif; }
+  :root[data-theme="claude"] { --bg:#faf9f5; --surface:#f0e9df; --text:#141413; --text-muted:#8a7a65; --border:#ddd4c4; --nav-bg:#181715; --nav-text:#faf9f5; --accent:#cc785c; --accent-soft:#f5ede3; --font-body:"Nanum Myeongjo",Georgia,"Times New Roman","Batang","Apple SD Gothic Neo","Malgun Gothic",serif; }
+  :root[data-theme="notion"] { --bg:#ffffff; --surface:#f6f5f4; --text:#1a1a1a; --text-muted:#787671; --border:#e5e3df; --nav-bg:#0a1530; --nav-text:#ffffff; --accent:#5645d4; --accent-soft:#ede9fa; --font-body:"Noto Sans KR","Segoe UI",-apple-system,BlinkMacSystemFont,"Apple SD Gothic Neo","Malgun Gothic",system-ui,sans-serif; }
+
+  body { font-family: var(--font-body); margin: 0; background: var(--bg); color: var(--text); }
+  header { background: var(--nav-bg); color: var(--nav-text); padding: 12px 20px; display: flex; align-items: center; gap: 24px; flex-wrap: wrap; }
   header h1 { margin: 0; font-size: 16px; font-weight: 600; }
   nav { display: flex; gap: 4px; }
-  nav button { background: transparent; border: none; color: #ccc; padding: 8px 14px; border-radius: 6px; cursor: pointer; font-size: 14px; }
-  nav button.active { background: #444; color: #fff; }
-  nav button:hover { background: #333; color: #fff; }
-  #stats { margin-left: auto; font-size: 12px; color: #999; }
+  nav button { background: transparent; border: none; color: var(--nav-text); opacity: 0.75; padding: 8px 14px; border-radius: 6px; cursor: pointer; font-size: 14px; font-family: inherit; }
+  nav button.active { background: rgba(255,255,255,0.15); opacity: 1; }
+  nav button:hover { background: rgba(255,255,255,0.1); opacity: 1; }
+  #stats { margin-left: auto; font-size: 12px; color: var(--nav-text); opacity: 0.75; text-align: right; line-height: 1.5; }
+
+  #headerActions { display: flex; align-items: center; gap: 6px; }
+  #headerActions a, #headerActions button {
+    background: transparent; border: none; color: var(--nav-text); opacity: 0.85; font-size: 18px;
+    cursor: pointer; padding: 6px 10px; border-radius: 8px; text-decoration: none; position: relative;
+    display: inline-flex; align-items: center; font-family: inherit;
+  }
+  #headerActions a:hover, #headerActions button:hover { background: rgba(255,255,255,0.15); opacity: 1; }
+  #headerActions button.active { background: rgba(255,255,255,0.15); opacity: 1; }
+  .badge {
+    position: absolute; top: 0px; right: 0px; background: var(--danger); color: #fff; font-size: 10px;
+    line-height: 1; padding: 3px 5px; border-radius: 999px; font-weight: 700; font-family: var(--font-body);
+  }
 
   main { display: flex; height: calc(100vh - 53px); overflow: hidden; }
 
   #treePanel {
-    width: 100%; overflow-y: auto; background: #fff; border-right: 1px solid #ddd;
+    width: 100%; overflow-y: auto; background: var(--surface); border-right: 1px solid var(--border);
     padding: 16px 20px; transition: width 0.25s ease; display: none;
   }
   #treePanel.show { display: block; }
@@ -28,18 +58,19 @@
 
   .tree-year > summary { font-size: 17px; font-weight: 700; padding: 8px 0; }
   .tree-level > summary { font-size: 15px; font-weight: 600; padding: 6px 0 6px 14px; }
-  .tree-subject > summary { font-size: 14px; font-weight: 600; padding: 4px 0 4px 28px; color: #445; }
+  .tree-subject > summary { font-size: 14px; font-weight: 600; padding: 4px 0 4px 28px; color: var(--text); }
   details > summary { cursor: pointer; list-style: none; }
   details > summary::-webkit-details-marker { display: none; }
-  details > summary::before { content: "▸ "; color: #888; }
-  details[open] > summary::before { content: "▾ "; color: #888; }
+  details > summary::before { content: "▸ "; color: var(--text-muted); }
+  details[open] > summary::before { content: "▾ "; color: var(--text-muted); }
+  .node-cnt { color: var(--text-muted); font-size: 12px; margin-left: 4px; font-weight: 400; }
 
   .unit-node {
-    padding: 5px 8px 5px 42px; font-size: 13.5px; color: #2255aa; cursor: pointer; border-radius: 4px;
+    padding: 5px 8px 5px 42px; font-size: 13.5px; color: var(--accent); cursor: pointer; border-radius: 4px;
     position: relative;
   }
-  .unit-node:hover { background: #eaf1ff; }
-  .unit-node .cnt { color: #999; font-size: 12px; margin-left: 4px; }
+  .unit-node:hover { background: var(--accent-soft); }
+  .unit-node .cnt { color: var(--text-muted); font-size: 12px; margin-left: 4px; }
 
   #tooltip {
     position: fixed; max-width: 420px; background: #222; color: #eee; padding: 10px 12px; border-radius: 6px;
@@ -48,36 +79,67 @@
   }
   #tooltip div { margin-bottom: 4px; }
 
-  #unclassifiedNode { margin-top: 10px; padding: 8px; border-radius: 6px; background: #f7f7f7; }
+  #unclassifiedNode { margin-top: 10px; padding: 8px; border-radius: 6px; background: var(--accent-soft); }
 
-  .post-card { background: #fff; border: 1px solid #e5e5e5; border-radius: 8px; padding: 12px 16px; margin-bottom: 10px; cursor: pointer; }
-  .post-card:hover { border-color: #99b8ff; box-shadow: 0 2px 8px rgba(0,0,0,.06); }
+  .post-card { background: var(--surface); border: 1px solid var(--border); border-radius: 8px; padding: 12px 16px; margin-bottom: 10px; cursor: pointer; }
+  .post-card:hover { border-color: var(--accent); box-shadow: 0 2px 8px rgba(0,0,0,.06); }
   .post-card .title { font-size: 15px; font-weight: 600; margin-bottom: 4px; }
-  .post-card .meta { font-size: 12px; color: #888; }
+  .post-card .meta { font-size: 12px; color: var(--text-muted); }
   .post-card .tags { margin-top: 6px; display: flex; gap: 6px; flex-wrap: wrap; }
-  .tag-chip { font-size: 11px; background: #eef3ff; color: #2255aa; padding: 2px 8px; border-radius: 10px; }
-  .tag-chip.unclassified { background: #f0f0f0; color: #888; }
-  .no-tag { font-size: 11px; color: #bbb; }
+  .tag-chip { font-size: 11px; background: var(--accent-soft); color: var(--accent); padding: 2px 8px; border-radius: 10px; }
+  .tag-chip.unclassified { background: var(--border); color: var(--text-muted); }
+  .no-tag { font-size: 11px; color: var(--text-muted); }
 
-  #filterBar { display: flex; align-items: center; gap: 10px; margin-bottom: 14px; }
+  #filterBar { display: flex; align-items: center; gap: 10px; margin-bottom: 14px; flex-wrap: wrap; }
   #filterBar .path { font-size: 14px; font-weight: 600; }
-  #filterBar button { border: 1px solid #ccc; background: #fff; border-radius: 6px; padding: 5px 10px; cursor: pointer; font-size: 12px; }
+  #filterBar button { border: 1px solid var(--border); background: var(--surface); color: var(--text); border-radius: 6px; padding: 5px 10px; cursor: pointer; font-size: 12px; font-family: inherit; }
 
   #pagination { display: flex; justify-content: center; gap: 6px; margin: 18px 0 40px; }
-  #pagination button { border: 1px solid #ccc; background: #fff; border-radius: 6px; padding: 6px 12px; cursor: pointer; font-size: 13px; }
-  #pagination button.active { background: #222; color: #fff; border-color: #222; }
+  #pagination button { border: 1px solid var(--border); background: var(--surface); color: var(--text); border-radius: 6px; padding: 6px 12px; cursor: pointer; font-size: 13px; font-family: inherit; }
+  #pagination button.active { background: var(--nav-bg); color: var(--nav-text); border-color: var(--nav-bg); }
   #pagination button:disabled { opacity: 0.4; cursor: default; }
+
+  .cart-toggle-btn {
+    margin-top: 8px; border: 1px solid var(--accent); background: var(--accent-soft); color: var(--accent);
+    border-radius: 6px; padding: 5px 10px; cursor: pointer; font-size: 12px; font-family: inherit;
+  }
+  .cart-toggle-btn.in-cart { background: var(--accent); color: var(--nav-text); }
+  .cart-toggle-btn:hover { opacity: 0.85; }
+
+  /* ---- 검색 ---- */
+  .search-bar { background: var(--surface); border: 1px solid var(--border); border-radius: 10px; padding: 12px 14px; margin-bottom: 14px; }
+  .search-basic-row { display: flex; gap: 8px; flex-wrap: wrap; align-items: center; }
+  .search-basic-row input[type="text"] { flex: 1; min-width: 180px; border: 1px solid var(--border); background: var(--bg); color: var(--text); border-radius: 6px; padding: 7px 10px; font-size: 13px; font-family: inherit; }
+  .search-bar button { border: 1px solid var(--border); background: var(--surface); color: var(--text); border-radius: 6px; padding: 7px 12px; cursor: pointer; font-size: 13px; font-family: inherit; }
+  .search-bar button:hover { border-color: var(--accent); }
+  .search-bar button.active { background: var(--accent); color: var(--nav-text); border-color: var(--accent); }
+  .search-bar .btn-solid { background: var(--accent); color: var(--nav-text); border-color: var(--accent); font-weight: 600; }
+  .adv-panel { margin-top: 12px; padding-top: 12px; border-top: 1px solid var(--border); display: flex; flex-direction: column; gap: 10px; }
+  .adv-row { display: flex; align-items: center; gap: 10px; flex-wrap: wrap; }
+  .adv-row .adv-label { font-size: 12px; font-weight: 600; color: var(--text-muted); width: 52px; flex-shrink: 0; }
+  .adv-row label { font-size: 12.5px; display: inline-flex; align-items: center; gap: 4px; cursor: pointer; }
+  .adv-keywords { align-items: flex-start; }
+  .adv-keyword-list { display: flex; flex-direction: column; gap: 6px; flex: 1; }
+  .adv-keyword-row { display: flex; gap: 6px; }
+  .adv-keyword-row input { flex: 1; border: 1px solid var(--border); background: var(--bg); color: var(--text); border-radius: 6px; padding: 6px 9px; font-size: 13px; font-family: inherit; }
+  .adv-keyword-row button { padding: 4px 9px; }
+  .btn-link { align-self: flex-start; border: none !important; background: none !important; color: var(--accent) !important; text-decoration: underline; padding: 2px 0 !important; }
+  .adv-row input[type="date"], .adv-row input#advAuthorInput { border: 1px solid var(--border); background: var(--bg); color: var(--text); border-radius: 6px; padding: 6px 9px; font-size: 13px; font-family: inherit; }
+  .adv-row input#advAuthorInput { flex: 1; min-width: 140px; }
+  .adv-actions { justify-content: flex-end; }
+  .search-result-count { margin-top: 10px; font-size: 12.5px; color: var(--accent); font-weight: 600; }
 
   #modalBg { display: none; position: fixed; inset: 0; background: rgba(0,0,0,.5); z-index: 100; }
   #modalBg.show { display: flex; align-items: flex-start; justify-content: center; padding: 40px 20px; overflow-y: auto; }
-  #modal { background: #fff; border-radius: 10px; max-width: 760px; width: 100%; padding: 28px 32px; }
+  #modal { background: var(--surface); color: var(--text); border-radius: 10px; max-width: 760px; width: 100%; padding: 28px 32px; }
   #modal .title { font-size: 20px; font-weight: 700; margin-bottom: 8px; }
-  #modal .meta { font-size: 13px; color: #777; margin-bottom: 18px; }
+  #modal .meta { font-size: 13px; color: var(--text-muted); margin-bottom: 18px; }
   #modal .content img { max-width: 100%; height: auto; }
   #modal .content { line-height: 1.7; }
-  #modal .close { float: right; border: none; background: none; font-size: 20px; cursor: pointer; color: #999; }
+  #modal .content a { color: var(--accent); }
+  #modal .close { float: right; border: none; background: none; font-size: 20px; cursor: pointer; color: var(--text-muted); }
 
-  .empty { color: #999; padding: 40px; text-align: center; }
+  .empty { color: var(--text-muted); padding: 40px; text-align: center; }
 </style>
 </head>
 <body>
@@ -89,6 +151,10 @@
     <button id="navTree">단원별로 수업 둘러보기</button>
   </nav>
   <div id="stats"></div>
+  <div id="headerActions">
+    <button id="navCart" title="내 수업 자료">🛒<span id="cartBadge" class="badge" style="display:none;">0</span></button>
+    <a id="navSettings" href="settings.html" title="설정">⚙️</a>
+  </div>
 </header>
 
 <main>
@@ -102,15 +168,16 @@
   <div id="modal"></div>
 </div>
 
+<script src="shared.js"></script>
 <script src="site-data.js"></script>
 <script>
-const { posts, tree } = window.SITE_DATA;
+const LOCAL = window.Sedu22Local;
+LOCAL.loadThemeFontIfNeeded();
+
+const { posts, tree, generatedAt } = window.SITE_DATA;
 const PAGE_SIZE = 20;
 
 let state = { view: 'home', page: 1, filter: null }; // filter: {curriculumYear,schoolLevel,subject,unit} or {unit:'미분류'} or null
-
-document.getElementById('stats').textContent =
-  `게시글 ${posts.length.toLocaleString()}건 중 태그 완료 ${posts.filter(p=>p.tags&&p.tags.length>0).length.toLocaleString()}건`;
 
 // ---------------- 유틸 ----------------
 function escapeHtml(s) {
@@ -122,6 +189,18 @@ function sanitize(html) {
 function stripTags(html) {
   return (html || '').replace(/<[^>]*>/g, ' ').replace(/&#160;|&nbsp;/g, ' ').replace(/\s+/g, ' ').trim();
 }
+// 게시판별 분류 태그는 add-board-tags.js가 모든 글에 기계적으로 붙이는 것이라
+// "AI가 실제로 단원/업무를 판단해 태깅했는지"를 셀 때는 제외한다.
+function isAiClassified(p) {
+  return !!(p.tags && p.tags.some((t) => t.category !== '게시판별 분류'));
+}
+// created "YY.MM.DD" -> "20YYMMDD" 비교용 키 (검색 기간 필터에서 사용)
+function createdSortKey(created) {
+  const m = (created || '').match(/^(\d{2})\.(\d{2})\.(\d{2})/);
+  if (!m) return null;
+  return '20' + m[1] + m[2] + m[3];
+}
+
 const CATEGORIES = {
   '과학교사 업무': { icon: '🧑‍🏫', topics: ['과학 행사', '과학실 관리', '동아리 운영', '교원연수'] },
   '스마트 수업도구': { icon: '💻', topics: ['MBL센서', '아두이노', '앱/프로그램', '생성형 AI 도구', 'AR/VR', '교육용 단말기(태블릿/크롬북)', '메이커/3D프린팅'] },
@@ -149,6 +228,12 @@ function tagIsUnclassified(t) {
   return t.unit === '미분류';
 }
 
+// 검색을 위해 게시글별로 "제목 + 본문(태그 제거) + 태그 라벨"을 미리 소문자로 합쳐둔다.
+for (const p of posts) {
+  const tagsText = p.tags ? p.tags.map(tagLabel).join(' ') : '';
+  p._search = `${p.title || ''} ${stripTags(p.contentHtml)} ${tagsText}`.toLowerCase();
+}
+
 function tagMatches(t, filter) {
   if (filter.unit === '미분류') return t.unit === '미분류';
   if (filter.category) return t.category === filter.category && t.topic === filter.topic;
@@ -158,54 +243,69 @@ function tagMatches(t, filter) {
   return t.curriculumYear === filter.curriculumYear && t.schoolLevel === filter.schoolLevel &&
          t.unit === filter.unit;
 }
-function countForFilter(filter) {
-  return posts.filter(p => p.tags && p.tags.some(t => tagMatches(t, filter))).length;
+// filter에 해당하는 글들의 id 배열을 반환한다(상위 노드에서 합산 집계할 때 Set으로 중복 제거하기 위함).
+function matchingPostIds(filter) {
+  const ids = [];
+  for (const p of posts) {
+    if (p.tags && p.tags.some((t) => tagMatches(t, filter))) ids.push(p.id);
+  }
+  return ids;
 }
 
-// ---------------- 트리 렌더 ----------------
+// ---------------- 트리 렌더 (대분류 -> 소분류 순으로 집계하며 합산 개수도 함께 표시) ----------------
 function buildTreeHtml() {
   let html = '';
   for (const year of ['2015', '2022']) {
-    html += `<details class="tree-year"><summary>${year} 개정 교육과정</summary><div>`;
+    const yearIds = new Set();
+    let yearInner = '';
     for (const schoolLevel of ['중학교', '고등학교']) {
       const subjects = tree[year][schoolLevel] || {};
       const subjectNames = Object.keys(subjects);
       if (subjectNames.length === 0) continue;
-      html += `<details class="tree-level"><summary>${schoolLevel}</summary><div>`;
+      const levelIds = new Set();
+      let levelInner = '';
       for (const subject of subjectNames) {
         const units = subjects[subject];
         const unitNames = Object.keys(units);
-        html += `<details class="tree-subject"><summary>${escapeHtml(subject)}</summary><div>`;
+        const subjectIds = new Set();
+        let subjectInner = '';
         for (const unit of unitNames) {
           const filter = { curriculumYear: year, schoolLevel, subject, unit };
-          const cnt = countForFilter(filter);
+          const ids = matchingPostIds(filter);
+          ids.forEach((id) => subjectIds.add(id));
           const standards = units[unit];
-          html += `<div class="unit-node" data-filter='${escapeHtml(JSON.stringify(filter))}' data-standards='${escapeHtml(JSON.stringify(standards))}'>${escapeHtml(unit)}<span class="cnt">(${cnt})</span></div>`;
+          subjectInner += `<div class="unit-node" data-filter='${escapeHtml(JSON.stringify(filter))}' data-standards='${escapeHtml(JSON.stringify(standards))}'>${escapeHtml(unit)}<span class="cnt">(${ids.length})</span></div>`;
         }
-        html += `</div></details>`;
+        subjectIds.forEach((id) => levelIds.add(id));
+        levelInner += `<details class="tree-subject"><summary>${escapeHtml(subject)}<span class="node-cnt">(${subjectIds.size})</span></summary><div>${subjectInner}</div></details>`;
       }
-      html += `</div></details>`;
+      levelIds.forEach((id) => yearIds.add(id));
+      yearInner += `<details class="tree-level"><summary>${schoolLevel}<span class="node-cnt">(${levelIds.size})</span></summary><div>${levelInner}</div></details>`;
     }
-    html += `</div></details>`;
+    html += `<details class="tree-year"><summary>${year} 개정 교육과정<span class="node-cnt">(${yearIds.size})</span></summary><div>${yearInner}</div></details>`;
   }
   for (const [categoryName, { icon, topics }] of Object.entries(CATEGORIES)) {
-    html += `<details class="tree-level"><summary>${icon} ${escapeHtml(categoryName)}</summary><div>`;
+    const categoryIds = new Set();
+    let catInner = '';
     for (const topic of topics) {
       const filter = { category: categoryName, topic };
-      const cnt = countForFilter(filter);
-      html += `<div class="unit-node" data-filter='${escapeHtml(JSON.stringify(filter))}'>${escapeHtml(topic)}<span class="cnt">(${cnt})</span></div>`;
+      const ids = matchingPostIds(filter);
+      ids.forEach((id) => categoryIds.add(id));
+      catInner += `<div class="unit-node" data-filter='${escapeHtml(JSON.stringify(filter))}'>${escapeHtml(topic)}<span class="cnt">(${ids.length})</span></div>`;
     }
-    html += `</div></details>`;
+    html += `<details class="tree-level"><summary>${icon} ${escapeHtml(categoryName)}<span class="node-cnt">(${categoryIds.size})</span></summary><div>${catInner}</div></details>`;
   }
 
-  const unclassifiedCnt = countForFilter({ unit: '미분류' });
-  html += `<div id="unclassifiedNode" class="unit-node" data-filter='${escapeHtml(JSON.stringify({unit:'미분류'}))}'>📎 미분류(단원/업무와 무관한 글)<span class="cnt">(${unclassifiedCnt})</span></div>`;
+  const unclassifiedIds = matchingPostIds({ unit: '미분류' });
+  html += `<div id="unclassifiedNode" class="unit-node" data-filter='${escapeHtml(JSON.stringify({unit:'미분류'}))}'>📎 미분류(단원/업무와 무관한 글)<span class="cnt">(${unclassifiedIds.length})</span></div>`;
   return html;
 }
 
 function renderTree() {
   const panel = document.getElementById('treePanel');
-  panel.innerHTML = buildTreeHtml();
+  const showSearchBar = state.view === 'tree';
+  panel.innerHTML = (showSearchBar ? renderSearchBarHtml() : '') + buildTreeHtml();
+  if (showSearchBar) bindSearchBar(panel);
   panel.querySelectorAll('.unit-node').forEach((el) => {
     const filter = JSON.parse(el.dataset.filter);
     const standards = el.dataset.standards ? JSON.parse(el.dataset.standards) : null;
@@ -242,21 +342,280 @@ function hideTooltip() {
   document.getElementById('tooltip').style.display = 'none';
 }
 
+// ---------------- 검색 ----------------
+let searchState = {
+  q: '',
+  advancedOpen: false,
+  mode: 'AND',       // 'AND' | 'OR'
+  keywords: [''],
+  author: '',
+  dateFrom: '',       // yyyy-mm-dd (input[type=date])
+  dateTo: '',
+  active: null,        // 마지막으로 "조회/검색"을 실행했을 때의 조건 스냅샷. null이면 검색 미적용
+  resultCount: null,
+};
+
+function postMatchesActiveSearch(p) {
+  const active = searchState.active;
+  if (!active) return true;
+  if (active.type === 'basic') {
+    const needle = active.q.trim().toLowerCase();
+    if (!needle) return true;
+    return (p._search || '').includes(needle);
+  }
+  const kws = active.keywords.map((k) => k.trim().toLowerCase()).filter(Boolean);
+  if (kws.length) {
+    const ok = active.mode === 'OR'
+      ? kws.some((k) => (p._search || '').includes(k))
+      : kws.every((k) => (p._search || '').includes(k));
+    if (!ok) return false;
+  }
+  if (active.author && active.author.trim()) {
+    const a = active.author.trim().toLowerCase();
+    if (!(p.author || '').toLowerCase().includes(a)) return false;
+  }
+  if (active.dateFrom) {
+    const fromKey = active.dateFrom.replace(/-/g, '');
+    const k = createdSortKey(p.created);
+    if (!k || k < fromKey) return false;
+  }
+  if (active.dateTo) {
+    const toKey = active.dateTo.replace(/-/g, '');
+    const k = createdSortKey(p.created);
+    if (!k || k > toKey) return false;
+  }
+  return true;
+}
+function applySearchFilter(list) {
+  if (!searchState.active) return list;
+  return list.filter(postMatchesActiveSearch);
+}
+
+function renderSearchBarHtml() {
+  const hasActive = !!searchState.active;
+  let html = `<div class="search-bar">
+    <div class="search-basic-row">
+      <input type="text" id="basicSearchInput" placeholder="제목, 내용, 태그에서 검색..." value="${escapeHtml(searchState.q)}">
+      <button id="basicSearchBtn">🔍 검색</button>
+      <button id="advToggleBtn" class="${searchState.advancedOpen ? 'active' : ''}">고급 검색 ${searchState.advancedOpen ? '▲' : '▼'}</button>
+      ${hasActive ? `<button id="clearSearchBtn">검색 초기화</button>` : ''}
+    </div>`;
+  if (searchState.advancedOpen) html += renderAdvancedPanelHtml();
+  if (hasActive && searchState.resultCount !== null) {
+    html += `<div class="search-result-count">🔎 검색결과 ${searchState.resultCount.toLocaleString()}건</div>`;
+  }
+  html += `</div>`;
+  return html;
+}
+
+function renderAdvancedPanelHtml() {
+  const keywordRows = searchState.keywords.map((kw, i) => `
+    <div class="adv-keyword-row">
+      <input type="text" class="adv-keyword-input" data-idx="${i}" value="${escapeHtml(kw)}" placeholder="검색어 ${i + 1}">
+      ${searchState.keywords.length > 1 ? `<button class="adv-kw-remove" data-idx="${i}">✕</button>` : ''}
+    </div>`).join('');
+  return `<div class="adv-panel">
+    <div class="adv-row">
+      <span class="adv-label">조건</span>
+      <label><input type="radio" name="searchMode" value="AND" ${searchState.mode === 'AND' ? 'checked' : ''}> 모두 포함(AND)</label>
+      <label><input type="radio" name="searchMode" value="OR" ${searchState.mode === 'OR' ? 'checked' : ''}> 하나라도 포함(OR)</label>
+    </div>
+    <div class="adv-row adv-keywords">
+      <span class="adv-label">검색어</span>
+      <div class="adv-keyword-list">${keywordRows}<button id="addKeywordBtn" class="btn-link">+ 추가</button></div>
+    </div>
+    <div class="adv-row">
+      <span class="adv-label">작성자</span>
+      <input type="text" id="advAuthorInput" value="${escapeHtml(searchState.author)}" placeholder="작성자 이름 포함">
+    </div>
+    <div class="adv-row">
+      <span class="adv-label">기간</span>
+      <input type="date" id="advDateFrom" value="${searchState.dateFrom}">
+      <span>~</span>
+      <input type="date" id="advDateTo" value="${searchState.dateTo}">
+    </div>
+    <div class="adv-row adv-actions"><button id="advSearchBtn" class="btn-solid">조회</button></div>
+  </div>`;
+}
+
+// 검색창 자체를 열고닫거나 고급검색 조건 UI만 바꿀 때(아직 "검색/조회"를 실행한 건 아님):
+// 현재 뷰만 다시 그려서 트리 재계산 같은 무거운 작업을 반복하지 않는다.
+function refreshAfterSearchToggle() {
+  if (state.view === 'tree') renderTree();
+  else if (state.view === 'home' || state.view === 'tree-filtered') renderList();
+  else if (state.view === 'cart') renderCartView();
+}
+// 실제로 검색/조회를 실행했을 때: 순수 트리 탐색 중이었다면 결과를 보여줄 수 있는 목록 화면으로 전환한다.
+function executeSearch() {
+  if (state.view === 'tree') { state.view = 'tree-filtered'; state.filter = null; }
+  state.page = 1;
+  render();
+}
+function clearSearch() {
+  searchState.q = '';
+  searchState.active = null;
+  searchState.resultCount = null;
+  searchState.keywords = [''];
+  searchState.author = '';
+  searchState.dateFrom = '';
+  searchState.dateTo = '';
+  searchState.mode = 'AND';
+  if (state.view === 'tree-filtered' && !state.filter) state.view = 'tree';
+  state.page = 1;
+  render();
+}
+function runBasicSearch() {
+  const input = document.getElementById('basicSearchInput');
+  if (input) searchState.q = input.value;
+  searchState.active = searchState.q.trim() ? { type: 'basic', q: searchState.q } : null;
+  if (!searchState.active) searchState.resultCount = null;
+  executeSearch();
+}
+
+function bindSearchBar(container) {
+  const basicInput = container.querySelector('#basicSearchInput');
+  const basicBtn = container.querySelector('#basicSearchBtn');
+  const advToggle = container.querySelector('#advToggleBtn');
+  const clearBtn = container.querySelector('#clearSearchBtn');
+
+  if (basicInput) basicInput.addEventListener('input', () => { searchState.q = basicInput.value; });
+  if (basicInput) basicInput.addEventListener('keydown', (e) => { if (e.key === 'Enter') runBasicSearch(); });
+  if (basicBtn) basicBtn.addEventListener('click', runBasicSearch);
+  if (advToggle) advToggle.addEventListener('click', () => { searchState.advancedOpen = !searchState.advancedOpen; refreshAfterSearchToggle(); });
+  if (clearBtn) clearBtn.addEventListener('click', clearSearch);
+
+  container.querySelectorAll('input[name="searchMode"]').forEach((r) => {
+    r.addEventListener('change', () => { searchState.mode = r.value; });
+  });
+  container.querySelectorAll('.adv-keyword-input').forEach((inp) => {
+    inp.addEventListener('input', () => { searchState.keywords[Number(inp.dataset.idx)] = inp.value; });
+  });
+  container.querySelectorAll('.adv-kw-remove').forEach((btn) => {
+    btn.addEventListener('click', () => { searchState.keywords.splice(Number(btn.dataset.idx), 1); refreshAfterSearchToggle(); });
+  });
+  const addKwBtn = container.querySelector('#addKeywordBtn');
+  if (addKwBtn) addKwBtn.addEventListener('click', () => { searchState.keywords.push(''); refreshAfterSearchToggle(); });
+  const advAuthor = container.querySelector('#advAuthorInput');
+  if (advAuthor) advAuthor.addEventListener('input', () => { searchState.author = advAuthor.value; });
+  const advFrom = container.querySelector('#advDateFrom');
+  if (advFrom) advFrom.addEventListener('change', () => { searchState.dateFrom = advFrom.value; });
+  const advTo = container.querySelector('#advDateTo');
+  if (advTo) advTo.addEventListener('change', () => { searchState.dateTo = advTo.value; });
+  const advSearchBtn = container.querySelector('#advSearchBtn');
+  if (advSearchBtn) advSearchBtn.addEventListener('click', () => {
+    searchState.active = {
+      type: 'advanced', mode: searchState.mode, keywords: searchState.keywords.slice(),
+      author: searchState.author, dateFrom: searchState.dateFrom, dateTo: searchState.dateTo,
+    };
+    executeSearch();
+  });
+}
+
+// ---------------- 장바구니("내 수업 자료로 담기") ----------------
+function updateCartBadge() {
+  const n = LOCAL.getCart().length;
+  const el = document.getElementById('cartBadge');
+  if (n > 0) { el.textContent = n > 99 ? '99+' : String(n); el.style.display = 'inline-block'; }
+  else { el.style.display = 'none'; }
+}
+function cartButtonHtml(post) {
+  const inCart = LOCAL.isInCart(post.id);
+  return `<button class="cart-toggle-btn ${inCart ? 'in-cart' : ''}" data-cart-id="${escapeHtml(post.id)}">${inCart ? '✅ 담음 (빼기)' : '🛒 내 수업 자료로 담기'}</button>`;
+}
+function bindCartButtons(container) {
+  container.querySelectorAll('.cart-toggle-btn').forEach((btn) => {
+    btn.addEventListener('click', (e) => {
+      e.stopPropagation();
+      const id = btn.dataset.cartId;
+      const p = posts.find((x) => x.id === id);
+      if (LOCAL.isInCart(id)) LOCAL.removeFromCart(id);
+      else if (p) LOCAL.addToCart({ id: p.id, title: p.title, board: p.board, created: p.created });
+      updateCartBadge();
+      const modalEl = document.getElementById('modal');
+      if (modalEl.contains(btn)) openModal(id);
+      else if (state.view === 'cart') renderCartView();
+      else renderList();
+    });
+  });
+}
+
+function renderCartView() {
+  const panel = document.getElementById('listPanel');
+  const cart = LOCAL.getCart();
+  let cartPosts = cart.map((item) => {
+    const p = posts.find((x) => x.id === item.id);
+    return p || { id: item.id, title: item.title, board: item.board, created: item.created, author: '', tags: null, _search: (item.title || '').toLowerCase(), _missing: true };
+  });
+  if (searchState.active) cartPosts = cartPosts.filter(postMatchesActiveSearch);
+  searchState.resultCount = searchState.active ? cartPosts.length : null;
+
+  let html = renderSearchBarHtml();
+  html += `<div id="filterBar"><span class="path">🛒 내 수업 자료 (${cart.length}건)</span>`;
+  if (cart.length) html += `<button id="clearCartBtn">전체 비우기</button>`;
+  html += `</div>`;
+
+  if (!cart.length) {
+    html += `<div class="empty">아직 담아둔 수업 자료가 없습니다. 목록에서 "🛒 내 수업 자료로 담기"를 눌러보세요.</div>`;
+  } else if (searchState.active && !cartPosts.length) {
+    html += `<div class="empty">검색 조건에 맞는 담아둔 수업 자료가 없습니다.</div>`;
+  } else {
+    html += `<div id="cards">`;
+    for (const p of cartPosts) {
+      if (p._missing) {
+        html += `<div class="post-card">
+          <div class="title">${escapeHtml(p.title || '(찾을 수 없는 게시글)')}</div>
+          <div class="meta">${escapeHtml(p.board || '')} · ${escapeHtml(p.created || '')} · 원본 데이터에서 삭제된 것 같습니다</div>
+          ${cartButtonHtml({ id: p.id })}
+        </div>`;
+        continue;
+      }
+      const preview = escapeHtml(stripTags(p.contentHtml).slice(0, 80));
+      html += `<div class="post-card" data-id="${p.id}">
+        <div class="title">${escapeHtml(p.title || '(제목 없음)')}</div>
+        <div class="meta">${escapeHtml(p.board)} · ${escapeHtml(p.author)} · ${escapeHtml(p.created)} · 조회 ${p.viewCnt ?? '-'}</div>
+        <div style="font-size:13px;color:var(--text-muted);margin-top:4px;">${preview}${preview.length===80?'…':''}</div>
+        ${cartButtonHtml(p)}
+      </div>`;
+    }
+    html += `</div>`;
+  }
+
+  panel.innerHTML = html;
+  bindSearchBar(panel);
+  panel.querySelectorAll('.post-card[data-id]').forEach((el) => {
+    el.addEventListener('click', (e) => {
+      if (e.target.closest('.cart-toggle-btn')) return;
+      openModal(el.dataset.id);
+    });
+  });
+  bindCartButtons(panel);
+
+  const clearBtn = document.getElementById('clearCartBtn');
+  if (clearBtn) clearBtn.addEventListener('click', () => {
+    if (!confirm('담아둔 수업 자료를 모두 비울까요?')) return;
+    LOCAL.clearCart();
+    updateCartBadge();
+    renderCartView();
+  });
+}
+
 // ---------------- 목록 렌더 ----------------
 function getFilteredPosts() {
-  if (!state.filter) return posts;
-  return posts.filter(p => p.tags && p.tags.some(t => tagMatches(t, state.filter)));
+  let list = !state.filter ? posts : posts.filter(p => p.tags && p.tags.some(t => tagMatches(t, state.filter)));
+  list = applySearchFilter(list);
+  return list;
 }
 
 function renderList() {
   const panel = document.getElementById('listPanel');
   const filtered = getFilteredPosts();
+  searchState.resultCount = searchState.active ? filtered.length : null;
   const totalPages = Math.max(1, Math.ceil(filtered.length / PAGE_SIZE));
   state.page = Math.min(state.page, totalPages);
   const start = (state.page - 1) * PAGE_SIZE;
   const pagePosts = filtered.slice(start, start + PAGE_SIZE);
 
-  let html = '';
+  let html = renderSearchBarHtml();
 
   if (state.filter) {
     const label = state.filter.unit === '미분류'
@@ -269,7 +628,7 @@ function renderList() {
 
   html += `<div id="cards">`;
   if (pagePosts.length === 0) {
-    html += `<div class="empty">해당 단원으로 태그된 게시글이 아직 없습니다.</div>`;
+    html += `<div class="empty">${searchState.active ? '검색 조건에 맞는 게시글이 없습니다.' : '해당 단원으로 태그된 게시글이 아직 없습니다.'}</div>`;
   }
   for (const p of pagePosts) {
     const tagsHtml = p.tags && p.tags.length
@@ -279,8 +638,9 @@ function renderList() {
     html += `<div class="post-card" data-id="${p.id}">
       <div class="title">${escapeHtml(p.title || '(제목 없음)')}</div>
       <div class="meta">${escapeHtml(p.board)} · ${escapeHtml(p.author)} · ${escapeHtml(p.created)} · 조회 ${p.viewCnt ?? '-'}</div>
-      <div style="font-size:13px;color:#555;margin-top:4px;">${preview}${preview.length===80?'…':''}</div>
+      <div style="font-size:13px;color:var(--text-muted);margin-top:4px;">${preview}${preview.length===80?'…':''}</div>
       ${tagsHtml}
+      ${cartButtonHtml(p)}
     </div>`;
   }
   html += `</div>`;
@@ -298,18 +658,28 @@ function renderList() {
   html += `</div>`;
 
   panel.innerHTML = html;
+  bindSearchBar(panel);
 
   const clearBtn = document.getElementById('clearFilter');
   if (clearBtn) clearBtn.addEventListener('click', () => {
     state.filter = null;
     state.page = 1;
-    state.view = state.view === 'tree-filtered' ? 'tree' : 'home';
+    if (searchState.active) {
+      // 검색 결과는 계속 보여준다. 단원 필터만 해제한다.
+      state.view = 'tree-filtered';
+    } else {
+      state.view = state.view === 'tree-filtered' ? 'tree' : 'home';
+    }
     render();
   });
 
   panel.querySelectorAll('.post-card').forEach((el) => {
-    el.addEventListener('click', () => openModal(el.dataset.id));
+    el.addEventListener('click', (e) => {
+      if (e.target.closest('.cart-toggle-btn')) return;
+      openModal(el.dataset.id);
+    });
   });
+  bindCartButtons(panel);
 
   panel.querySelectorAll('#pagination button[data-page]').forEach((el) => {
     el.addEventListener('click', () => {
@@ -334,10 +704,12 @@ function openModal(id) {
       ${p.permlink ? ` · <a href="${escapeHtml(p.permlink)}" target="_blank" rel="noopener">원본 보기</a>` : ''}
     </div>
     <div style="margin-bottom:10px;">${tagsHtml}</div>
+    <div style="margin-bottom:14px;">${cartButtonHtml(p)}</div>
     <div class="content">${sanitize(p.contentHtml)}</div>
   `;
   document.getElementById('modalBg').classList.add('show');
   document.getElementById('modalClose').addEventListener('click', closeModal);
+  bindCartButtons(document.getElementById('modal'));
 }
 function closeModal() {
   document.getElementById('modalBg').classList.remove('show');
@@ -352,7 +724,8 @@ function render() {
   const listPanel = document.getElementById('listPanel');
 
   document.getElementById('navHome').classList.toggle('active', state.view === 'home');
-  document.getElementById('navTree').classList.toggle('active', state.view !== 'home');
+  document.getElementById('navTree').classList.toggle('active', state.view === 'tree' || state.view === 'tree-filtered');
+  document.getElementById('navCart').classList.toggle('active', state.view === 'cart');
 
   if (state.view === 'home') {
     treePanel.classList.remove('show', 'collapsed');
@@ -369,6 +742,10 @@ function render() {
     listPanel.classList.add('show');
     renderTree();
     renderList();
+  } else if (state.view === 'cart') {
+    treePanel.classList.remove('show', 'collapsed');
+    listPanel.classList.add('show');
+    renderCartView();
   }
 }
 
@@ -376,9 +753,35 @@ document.getElementById('navHome').addEventListener('click', () => {
   state.view = 'home'; state.filter = null; state.page = 1; render();
 });
 document.getElementById('navTree').addEventListener('click', () => {
-  state.view = 'tree'; state.filter = null; render();
+  // 검색이 이미 적용된 상태라면 검색 결과 목록을 유지한 채로 이 탭에 들어온다.
+  if (searchState.active) { state.view = 'tree-filtered'; state.filter = null; }
+  else { state.view = 'tree'; state.filter = null; }
+  render();
+});
+document.getElementById('navCart').addEventListener('click', () => {
+  state.view = 'cart'; state.filter = null; state.page = 1; render();
 });
 
+// ---------------- 상단 통계 ----------------
+function formatCreatedDate(created) {
+  const m = (created || '').match(/^(\d{2})\.(\d{2})\.(\d{2})/);
+  if (!m) return created || '알 수 없음';
+  const d = new Date(2000 + Number(m[1]), Number(m[2]) - 1, Number(m[3]));
+  return d.toLocaleDateString('ko-KR', { year: 'numeric', month: '2-digit', day: '2-digit' });
+}
+
+const aiTaggedCount = posts.filter(isAiClassified).length;
+const updatedText = generatedAt
+  ? new Date(generatedAt).toLocaleString('ko-KR', { year: 'numeric', month: '2-digit', day: '2-digit', hour: '2-digit', minute: '2-digit' })
+  : '알 수 없음';
+// posts는 build-site-data.js에서 이미 created 최신순으로 정렬해서 내려주므로 posts[0]이 가장 최근 글이다.
+const latestPostText = posts.length ? formatCreatedDate(posts[0].created) : '알 수 없음';
+document.getElementById('stats').innerHTML =
+  `게시글 ${posts.length.toLocaleString()}건 중 AI 태그완료 ${aiTaggedCount.toLocaleString()}건<br>` +
+  `최신 업데이트: ${escapeHtml(updatedText)}<br>` +
+  `불러온 가장 최신 글: ${escapeHtml(latestPostText)}`;
+
+updateCartBadge();
 render();
 </script>
 </body>

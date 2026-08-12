@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "(고교)화학수업 이야기",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "화학2 수업 시행착오 피드백 후기(형식적 반성글).",
+  "taggedAt": "2026-08-12T03:38:32.842Z"
 }

@@ -17,6 +17,20 @@
       "category": "게시판별 분류",
       "topic": "AI도구 활용하기",
       "confidence": "high"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "생성형 AI 도구",
+      "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "물질의 구성",
+      "confidence": "low"
     }
-  ]
+  ],
+  "tagsNote": "챗GPT로 움직이는 원소 타이포그래피 제작.",
+  "taggedAt": "2026-08-12T03:53:51.227Z"
 }

@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "이럴 땐 이런 말!",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "학생 자존감 저하 대응 이야기(토끼와 거북이 우화).",
+  "taggedAt": "2026-08-12T03:17:24.874Z"
 }

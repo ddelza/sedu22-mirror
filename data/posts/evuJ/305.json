@@ -17,6 +17,13 @@
       "category": "게시판별 분류",
       "topic": "AI도구 활용하기",
       "confidence": "high"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "생성형 AI 도구",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "서울시교육청 교원용 무료 GPT 시스템 소개.",
+  "taggedAt": "2026-08-12T03:53:51.199Z"
 }

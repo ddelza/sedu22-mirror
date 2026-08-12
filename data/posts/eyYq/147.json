@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "과학쌤의 짤주머니",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "고등학교",
+      "subject": "통합과학",
+      "unit": "지구 시스템",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "지구 물의 총량 시각화(지구시스템 수권 해시태그 명시).",
+  "taggedAt": "2026-08-12T04:19:43.126Z"
 }

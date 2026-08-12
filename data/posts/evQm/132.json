@@ -17,6 +17,22 @@
       "category": "게시판별 분류",
       "topic": "(고교)물리수업 이야기",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "고등학교",
+      "subject": "물리학Ⅰ",
+      "unit": "물질과 전자기장",
+      "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "고등학교",
+      "subject": "통합과학",
+      "unit": "발전과 신재생 에너지",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "렌츠의 법칙(전자기 유도 방향) 실험 및 수행평가.",
+  "taggedAt": "2026-08-12T03:34:06.470Z"
 }

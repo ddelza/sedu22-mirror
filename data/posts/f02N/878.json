@@ -16,6 +16,15 @@
       "category": "게시판별 분류",
       "topic": "옹알이(익명게시판)",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "방학 중 지역아동센터 무보수 봉사 시 문제 여부 문의.",
+  "taggedAt": "2026-08-12T04:58:27.161Z"
 }

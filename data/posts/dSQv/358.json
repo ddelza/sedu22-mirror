@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "자유학기 수업",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "여러 가지 힘",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "삼각형 무게중심 팽이 만들기(해외 봉사단 수업 지원).",
+  "taggedAt": "2026-08-12T03:27:43.373Z"
 }

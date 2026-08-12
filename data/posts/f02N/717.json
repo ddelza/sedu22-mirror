@@ -16,6 +16,15 @@
       "category": "게시판별 분류",
       "topic": "옹알이(익명게시판)",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "기권과 날씨",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "중3 온실효과/지구온난화 복사평형 개념 오개념 확인 질문.",
+  "taggedAt": "2026-08-12T04:54:27.572Z"
 }

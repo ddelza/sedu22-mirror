@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "자유학기 수업",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "물질의 구성",
+      "confidence": "low"
     }
-  ]
+  ],
+  "tagsNote": "이온음료 탐구(이온 개념 도입) 활동.",
+  "taggedAt": "2026-08-12T03:18:58.476Z"
 }

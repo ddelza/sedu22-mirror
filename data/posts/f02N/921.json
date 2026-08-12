@@ -16,6 +16,15 @@
       "category": "게시판별 분류",
       "topic": "옹알이(익명게시판)",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "고등학교",
+      "subject": "물리학Ⅰ",
+      "unit": "파동과 정보통신",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "갈릴레이식 망원경 접안렌즈(오목렌즈)의 상 확대 원리 질문.",
+  "taggedAt": "2026-08-12T04:59:41.485Z"
 }

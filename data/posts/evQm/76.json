@@ -17,6 +17,20 @@
       "category": "게시판별 분류",
       "topic": "(고교)물리수업 이야기",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "고등학교",
+      "subject": "물리학Ⅰ",
+      "unit": "역학과 에너지",
+      "confidence": "low"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "앱/프로그램",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "트래커 실험용 공놀이총 고장/보강 사연.",
+  "taggedAt": "2026-08-12T03:36:53.792Z"
 }

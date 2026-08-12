@@ -16,6 +16,13 @@
       "category": "게시판별 분류",
       "topic": "옹알이(익명게시판)",
       "confidence": "high"
+    },
+    {
+      "category": "과학교사 업무",
+      "topic": "교원연수",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "과학실험안전연수 미참석분 원격 대체 연수원 문의.",
+  "taggedAt": "2026-08-12T05:01:07.851Z"
 }

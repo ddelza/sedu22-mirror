@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "자유학기 수업",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "화학 반응의 규칙과 에너지 변화",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "코끼리치약실험(과산화수소 분해, 거품기둥) 문제 질문.",
+  "taggedAt": "2026-08-12T03:23:00.657Z"
 }

@@ -16,6 +16,13 @@
       "category": "게시판별 분류",
       "topic": "옹알이(익명게시판)",
       "confidence": "high"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "앱/프로그램",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "수업 마무리용 형성평가 퀴즈 앱 추천 요청.",
+  "taggedAt": "2026-08-12T04:54:27.560Z"
 }

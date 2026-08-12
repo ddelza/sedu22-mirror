@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "(고교)화학수업 이야기",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "고등학교",
+      "subject": "화학Ⅰ",
+      "unit": "화학 결합과 분자의 세계",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "화학2 고체결정구조(체심입방/단순입방) 모형 자료 요청.",
+  "taggedAt": "2026-08-12T03:44:21.903Z"
 }

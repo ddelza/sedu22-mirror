@@ -17,6 +17,13 @@
       "category": "게시판별 분류",
       "topic": "자유학기 수업",
       "confidence": "high"
+    },
+    {
+      "category": "과학교사 업무",
+      "topic": "동아리 운영",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "과학 다큐멘터리 감상 동아리용 플랫폼 추천 요청.",
+  "taggedAt": "2026-08-12T03:26:25.462Z"
 }

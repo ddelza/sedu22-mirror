@@ -16,6 +16,15 @@
       "category": "게시판별 분류",
       "topic": "옹알이(익명게시판)",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "low"
     }
-  ]
+  ],
+  "tagsNote": "중3 기말 이후 7단원 수업 운영(무기력 학생) 고민, 구체 단원명 불명.",
+  "taggedAt": "2026-08-12T04:44:11.387Z"
 }

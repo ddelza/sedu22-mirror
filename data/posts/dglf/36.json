@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "(고교)생명과학수업 이야기",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "고등학교",
+      "subject": "생명과학",
+      "unit": "생명시스템의 구성",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "세포 구조/기능을 도시 문제해결에 적용하는 프로젝트 구상.",
+  "taggedAt": "2026-08-12T03:15:16.296Z"
 }

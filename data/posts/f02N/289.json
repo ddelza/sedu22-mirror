@@ -16,6 +16,15 @@
       "category": "게시판별 분류",
       "topic": "옹알이(익명게시판)",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "생기부 작성 시 교육과정 외 내용(최신 과학 이슈) 기재 가능 여부 문의.",
+  "taggedAt": "2026-08-12T04:44:11.384Z"
 }

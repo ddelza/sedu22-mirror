@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "(고교)물리수업 이야기",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "고등학교",
+      "subject": "물리학",
+      "unit": "빛과 물질",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "가돌리늄 자성 상전이(양자현상) 실험.",
+  "taggedAt": "2026-08-12T03:34:06.481Z"
 }

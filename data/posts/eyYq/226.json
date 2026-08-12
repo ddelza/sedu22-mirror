@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "과학쌤의 짤주머니",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "태양계",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "달의 공전(중력) 원리 실험(정전기 궤도 운동).",
+  "taggedAt": "2026-08-12T04:24:08.392Z"
 }

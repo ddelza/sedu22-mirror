@@ -16,6 +16,13 @@
       "category": "게시판별 분류",
       "topic": "옹알이(익명게시판)",
       "confidence": "high"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "앱/프로그램",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "플래시 플레이어 지원중단 이후 기존 플래시 수업자료 활용법 문의.",
+  "taggedAt": "2026-08-12T05:01:07.825Z"
 }

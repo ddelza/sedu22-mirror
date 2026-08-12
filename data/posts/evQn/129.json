@@ -17,6 +17,20 @@
       "category": "게시판별 분류",
       "topic": "(고교)화학수업 이야기",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "고등학교",
+      "subject": "통합과학",
+      "unit": "화학 변화",
+      "confidence": "high"
+    },
+    {
+      "category": "과학교사 업무",
+      "topic": "과학실 관리",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "중화반응 실험 1몰 농도 수산화나트륨/염산 위험성 질문(통합과학 명시).",
+  "taggedAt": "2026-08-12T03:38:32.921Z"
 }

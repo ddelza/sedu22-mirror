@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "과학교사K (유튜브)",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "빛과 파동",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "빛과 파동 영상/활동지/방탈출.",
+  "taggedAt": "2026-08-12T03:30:04.369Z"
 }

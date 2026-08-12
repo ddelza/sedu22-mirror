@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "과학교사K (유튜브)",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "열과 우리 생활",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "중2 8단원 열과 우리 생활(전도/대류/복사/열팽창) 영상.",
+  "taggedAt": "2026-08-12T03:30:04.366Z"
 }

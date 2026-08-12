@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "(고교)화학수업 이야기",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "화학1 창의성 퀴즈 자료 소개(과학적 창의성 연구 기반).",
+  "taggedAt": "2026-08-12T03:44:21.904Z"
 }

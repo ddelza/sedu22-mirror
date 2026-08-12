@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "과학쌤의 짤주머니",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "고등학교",
+      "subject": "물리학",
+      "unit": "빛과 물질",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "원자모형/쿼크/기본입자 삽화 소재 유머.",
+  "taggedAt": "2026-08-12T04:19:43.128Z"
 }

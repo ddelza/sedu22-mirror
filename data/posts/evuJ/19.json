@@ -17,6 +17,13 @@
       "category": "게시판별 분류",
       "topic": "AI도구 활용하기",
       "confidence": "high"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "교육용 단말기(태블릿/크롬북)",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "영상촬영 프로그램/태블릿 추천 정리.",
+  "taggedAt": "2026-08-12T03:50:05.390Z"
 }

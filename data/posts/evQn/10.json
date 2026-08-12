@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "(고교)화학수업 이야기",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "고등학교",
+      "subject": "화학Ⅰ",
+      "unit": "원자의 세계",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "유효핵전하/원자반지름/이온화에너지 주기적 성질 온라인 활동(화학1 2단원 명시).",
+  "taggedAt": "2026-08-12T03:38:32.840Z"
 }

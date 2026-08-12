@@ -16,6 +16,15 @@
       "category": "게시판별 분류",
       "topic": "옹알이(익명게시판)",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "운동과 에너지",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "정기고사 그래프 문제(중3 운동 파트) 출제용 그래프 제작 문의.",
+  "taggedAt": "2026-08-12T04:44:11.360Z"
 }

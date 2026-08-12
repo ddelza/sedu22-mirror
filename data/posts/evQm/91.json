@@ -17,6 +17,22 @@
       "category": "게시판별 분류",
       "topic": "(고교)물리수업 이야기",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "고등학교",
+      "subject": "물리학Ⅰ",
+      "unit": "파동과 정보통신",
+      "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "고등학교",
+      "subject": "물리학",
+      "unit": "빛과 물질",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "이중슬릿 빛의 간섭실험 대형화(양자역학 발표용) 도움 요청.",
+  "taggedAt": "2026-08-12T03:36:53.810Z"
 }

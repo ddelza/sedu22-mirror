@@ -16,6 +16,15 @@
       "category": "게시판별 분류",
       "topic": "옹알이(익명게시판)",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "열과 우리 생활",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "대류(물의 이동) 서술형 문제 출제 의도 확인.",
+  "taggedAt": "2026-08-12T04:43:00.480Z"
 }

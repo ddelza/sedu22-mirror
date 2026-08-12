@@ -16,6 +16,15 @@
       "category": "게시판별 분류",
       "topic": "옹알이(익명게시판)",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "2028 대입개편(공통과학 전환)에 따른 물화생지 교사 입지 논의.",
+  "taggedAt": "2026-08-12T04:51:56.125Z"
 }

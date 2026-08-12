@@ -16,6 +16,13 @@
       "category": "게시판별 분류",
       "topic": "옹알이(익명게시판)",
       "confidence": "high"
+    },
+    {
+      "category": "과학교사 업무",
+      "topic": "과학실 관리",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "폐수/폐시약 자체 수거 업체 추천 요청.",
+  "taggedAt": "2026-08-12T04:58:27.182Z"
 }

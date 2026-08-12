@@ -17,6 +17,13 @@
       "category": "게시판별 분류",
       "topic": "교과 세특 공유",
       "confidence": "high"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "생성형 AI 도구",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "AI 서비스를 이용한 세특/행발/창체 작성 시도.",
+  "taggedAt": "2026-08-12T03:31:13.005Z"
 }

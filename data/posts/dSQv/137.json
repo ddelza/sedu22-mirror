@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "자유학기 수업",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "주제선택 환경프로젝트 자료 요청(구체적 단원 불명확).",
+  "taggedAt": "2026-08-12T03:18:58.499Z"
 }

@@ -16,6 +16,13 @@
       "category": "게시판별 분류",
       "topic": "옹알이(익명게시판)",
       "confidence": "high"
+    },
+    {
+      "category": "과학교사 업무",
+      "topic": "동아리 운영",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "동아리 과학기사 스크랩 활동용 전문 기사 사이트 추천 요청.",
+  "taggedAt": "2026-08-12T04:50:37.975Z"
 }

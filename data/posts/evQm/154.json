@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "(고교)물리수업 이야기",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "low"
     }
-  ]
+  ],
+  "tagsNote": "모의고사 문제 풀이 질문(단원 불명확).",
+  "taggedAt": "2026-08-12T03:34:06.497Z"
 }

@@ -16,6 +16,15 @@
       "category": "게시판별 분류",
       "topic": "옹알이(익명게시판)",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "화학 반응에서의 규칙성",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "탄산수소나트륨-아세트산 반응에 일정성분비법칙 적용 가능 여부 출제 검토.",
+  "taggedAt": "2026-08-12T04:55:49.825Z"
 }

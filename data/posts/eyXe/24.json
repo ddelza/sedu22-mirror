@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "★처음 오신 선생님들께☆",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "재과만 월간 과학교사 공개강의 안내.",
+  "taggedAt": "2026-08-12T04:18:08.714Z"
 }

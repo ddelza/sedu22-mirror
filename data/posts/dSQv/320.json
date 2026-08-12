@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "자유학기 수업",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "여러 가지 힘",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "탄성력 이용 고무줄 자동차 만들기.",
+  "taggedAt": "2026-08-12T03:26:25.414Z"
 }

@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "연구하는 교사 (Teacher as Researcher)",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "교사 행위주체성 관련 논문/에세이 공유.",
+  "taggedAt": "2026-08-12T04:14:05.278Z"
 }

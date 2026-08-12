@@ -17,6 +17,13 @@
       "category": "게시판별 분류",
       "topic": "연구하는 교사 (Teacher as Researcher)",
       "confidence": "high"
+    },
+    {
+      "category": "수업 방법론",
+      "topic": "IB(개념기반학습)",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "IB 이론적 배경 정리(MYP 평가 관련).",
+  "taggedAt": "2026-08-12T04:15:30.436Z"
 }

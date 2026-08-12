@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "자유학기 수업",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "여러 가지 힘",
+      "confidence": "low"
     }
-  ]
+  ],
+  "tagsNote": "푸드스타일리스트 탐구 활동(3, 과일 이용).",
+  "taggedAt": "2026-08-12T03:20:18.645Z"
 }

@@ -17,6 +17,13 @@
       "category": "게시판별 분류",
       "topic": "연구하는 교사 (Teacher as Researcher)",
       "confidence": "high"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "생성형 AI 도구",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "생성형 AI 과학수업 활용 연구 설문(마감).",
+  "taggedAt": "2026-08-12T04:16:53.874Z"
 }

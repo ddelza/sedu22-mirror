@@ -16,6 +16,15 @@
       "category": "게시판별 분류",
       "topic": "옹알이(익명게시판)",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "물질의 세 가지 상태",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "용해와 확산의 차이(잉크/코코아 사례) 개념 질문.",
+  "taggedAt": "2026-08-12T04:54:27.576Z"
 }

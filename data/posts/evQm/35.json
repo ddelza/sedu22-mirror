@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "(고교)물리수업 이야기",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "물리학1,2 주당 시수 문의 — 교육과정 편성 행정.",
+  "taggedAt": "2026-08-12T03:35:30.455Z"
 }

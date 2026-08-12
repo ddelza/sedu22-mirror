@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "과학쌤의 짤주머니",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "태양계",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "지구-달 거리, 남북반구 달 모양 차이(중2 태양계 단원 명시).",
+  "taggedAt": "2026-08-12T04:19:43.097Z"
 }

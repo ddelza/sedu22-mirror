@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "(고교)생명과학수업 이야기",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "고등학교",
+      "subject": "생명과학Ⅰ",
+      "unit": "사람의 물질대사",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "고3 생명과학2 광합성/세포호흡 인포그래픽 활동 가능성 문의.",
+  "taggedAt": "2026-08-12T03:13:59.108Z"
 }

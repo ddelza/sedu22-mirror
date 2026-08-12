@@ -17,6 +17,13 @@
       "category": "게시판별 분류",
       "topic": "과학쌤의 짤주머니",
       "confidence": "high"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "앱/프로그램",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "알고두(Algodoo) 물리 시뮬레이션 소프트웨어 소개.",
+  "taggedAt": "2026-08-12T04:21:13.806Z"
 }

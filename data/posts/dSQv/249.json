@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "자유학기 수업",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "재해·재난과 안전",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "백신 역사(쌤과함께 30회) 시청 자료.",
+  "taggedAt": "2026-08-12T03:23:00.647Z"
 }

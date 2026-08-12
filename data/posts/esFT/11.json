@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "교과 세특 공유",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "교과 세특 우수 기록 분석 자료.",
+  "taggedAt": "2026-08-12T03:31:12.962Z"
 }

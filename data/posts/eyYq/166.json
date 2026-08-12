@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "과학쌤의 짤주머니",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "여러 가지 힘",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "북극곰 살얼음 이동(압력, 단위면적당 힘) 사진.",
+  "taggedAt": "2026-08-12T04:21:13.765Z"
 }

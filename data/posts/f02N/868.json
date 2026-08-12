@@ -16,6 +16,13 @@
       "category": "게시판별 분류",
       "topic": "옹알이(익명게시판)",
       "confidence": "high"
+    },
+    {
+      "category": "과학교사 업무",
+      "topic": "과학 행사",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "탄소중립실천교육 자율탐구 말하기 행사 참여 학생 생기부 기재 가능 여부 문의.",
+  "taggedAt": "2026-08-12T04:58:27.144Z"
 }

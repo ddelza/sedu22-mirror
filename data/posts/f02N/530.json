@@ -16,6 +16,18 @@
       "category": "게시판별 분류",
       "topic": "옹알이(익명게시판)",
       "confidence": "high"
+    },
+    {
+      "category": "과학교사 업무",
+      "topic": "과학실 관리",
+      "confidence": "high"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "MBL센서",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "나라장터 종합쇼핑몰에서 MBL 등 실험기구 검색방법 문의.",
+  "taggedAt": "2026-08-12T04:49:23.658Z"
 }

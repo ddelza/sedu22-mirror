@@ -16,6 +16,15 @@
       "category": "게시판별 분류",
       "topic": "옹알이(익명게시판)",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "확정된 평가계획(실험 종목) 사후 변경 가능 여부 문의.",
+  "taggedAt": "2026-08-12T04:54:27.569Z"
 }

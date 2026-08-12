@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "(고교)물리수업 이야기",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "고등학교",
+      "subject": "물리학",
+      "unit": "빛과 물질",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "질량에너지 등가원리(E=mc²) 공식 유도 설명.",
+  "taggedAt": "2026-08-12T03:36:53.766Z"
 }

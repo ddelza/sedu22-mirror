@@ -16,6 +16,13 @@
       "category": "게시판별 분류",
       "topic": "옹알이(익명게시판)",
       "confidence": "high"
+    },
+    {
+      "category": "과학교사 업무",
+      "topic": "과학실 관리",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "쌍안 충전식 현미경 브랜드(오선하이테크 vs 오멕스) 비교 조언 요청.",
+  "taggedAt": "2026-08-12T04:50:37.964Z"
 }

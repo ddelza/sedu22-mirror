@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "과학쌤의 짤주머니",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "고등학교",
+      "subject": "물리학Ⅰ",
+      "unit": "물질과 전자기장",
+      "confidence": "low"
     }
-  ]
+  ],
+  "tagsNote": "1960년대 하드디스크(전자기유도) 소재.",
+  "taggedAt": "2026-08-12T04:36:24.523Z"
 }

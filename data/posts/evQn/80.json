@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "(고교)화학수업 이야기",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "고등학교",
+      "subject": "화학Ⅰ",
+      "unit": "화학의 첫걸음",
+      "confidence": "low"
     }
-  ]
+  ],
+  "tagsNote": "상댓값(몰 개념) 관련 보기 오류 여부 질문.",
+  "taggedAt": "2026-08-12T03:44:21.908Z"
 }

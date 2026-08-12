@@ -17,6 +17,20 @@
       "category": "게시판별 분류",
       "topic": "과학쌤의 짤주머니",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "지권의 변화",
+      "confidence": "medium"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "생성형 AI 도구",
+      "confidence": "low"
     }
-  ]
+  ],
+  "tagsNote": "화강암/대리석 암석 특성(조각 정교함 이유) 설명.",
+  "taggedAt": "2026-08-12T04:24:08.417Z"
 }

@@ -17,6 +17,20 @@
       "category": "게시판별 분류",
       "topic": "AI도구 활용하기",
       "confidence": "high"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "생성형 AI 도구",
+      "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "고등학교",
+      "subject": "화학Ⅰ",
+      "unit": "원자의 세계",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "바이브 코딩으로 만든 러더퍼드 산란 시뮬레이터.",
+  "taggedAt": "2026-08-12T03:53:51.228Z"
 }

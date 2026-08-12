@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "AI도구 활용하기",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "줌 자동출석부 업데이트 수정본.",
+  "taggedAt": "2026-08-12T03:48:50.873Z"
 }

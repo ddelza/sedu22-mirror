@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "과학쌤의 짤주머니",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "고등학교",
+      "subject": "생명과학",
+      "unit": "생명시스템의 구성",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "키네신(미세소관, 단백질 운송) 이미지.",
+  "taggedAt": "2026-08-12T04:22:41.874Z"
 }

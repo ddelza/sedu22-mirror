@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "(고교)생명과학수업 이야기",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "고등학교",
+      "subject": "생명과학Ⅰ",
+      "unit": "유전",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "적록색맹(반성유전) 표현형 판단 질문.",
+  "taggedAt": "2026-08-12T03:16:27.486Z"
 }

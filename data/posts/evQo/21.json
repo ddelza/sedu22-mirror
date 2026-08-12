@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "(고교)지구과학수업 이야기",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "고등학교",
+      "subject": "지구과학Ⅰ",
+      "unit": "대기와 해양의 변화",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "온대저기압 구름 사이클 돌림판 자료.",
+  "taggedAt": "2026-08-12T03:45:53.170Z"
 }

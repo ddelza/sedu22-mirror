@@ -16,6 +16,15 @@
       "category": "게시판별 분류",
       "topic": "옹알이(익명게시판)",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "태양계와 별",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "한밤 중 남/북쪽 하늘 별자리(황도12궁) 관측 관련 질문.",
+  "taggedAt": "2026-08-12T04:57:09.282Z"
 }

@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "(고교)생명과학수업 이야기",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "고등학교",
+      "subject": "생명과학",
+      "unit": "생명시스템의 구성",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "생명과학II 삼투현상 관찰(양파/적혈구) 수행평가.",
+  "taggedAt": "2026-08-12T03:13:59.120Z"
 }

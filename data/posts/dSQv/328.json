@@ -17,6 +17,20 @@
       "category": "게시판별 분류",
       "topic": "자유학기 수업",
       "confidence": "high"
+    },
+    {
+      "category": "과학교사 업무",
+      "topic": "동아리 운영",
+      "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "동물과 에너지",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "해부동아리 활동지 모음(대합/오징어/불가사리/멸치/닭뼈 등).",
+  "taggedAt": "2026-08-12T03:26:25.422Z"
 }

@@ -17,6 +17,20 @@
       "category": "게시판별 분류",
       "topic": "(고교)생명과학수업 이야기",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "고등학교",
+      "subject": "세포와 물질대사",
+      "unit": "세포",
+      "confidence": "high"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "앱/프로그램",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "세포의 크기 측정(마이크로미터) 웹앱 제작.",
+  "taggedAt": "2026-08-12T03:15:16.280Z"
 }

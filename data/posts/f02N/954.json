@@ -16,6 +16,13 @@
       "category": "게시판별 분류",
       "topic": "옹알이(익명게시판)",
       "confidence": "high"
+    },
+    {
+      "category": "과학교사 업무",
+      "topic": "교원연수",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "서울 과학과 1급 정교사 자격연수 시기/장소/방식 문의.",
+  "taggedAt": "2026-08-12T05:01:07.833Z"
 }

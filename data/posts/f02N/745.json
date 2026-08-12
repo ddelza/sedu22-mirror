@@ -16,6 +16,13 @@
       "category": "게시판별 분류",
       "topic": "옹알이(익명게시판)",
       "confidence": "high"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "교육용 단말기(태블릿/크롬북)",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "서울 디벗 아이패드 학교계정 로그인 상태의 앱 설치 제한 우회 문의.",
+  "taggedAt": "2026-08-12T04:55:49.807Z"
 }

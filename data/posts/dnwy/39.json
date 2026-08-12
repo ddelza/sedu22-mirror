@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "이럴 땐 이런 말!",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "스마트폰 등교 시 제출 정책 관련 고찰.",
+  "taggedAt": "2026-08-12T03:16:27.549Z"
 }

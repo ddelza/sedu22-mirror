@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "수업 Ideas",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "학기말 모둠별 팔씨름 대회를 활용한 블록타임 수업 진행 후기.",
+  "taggedAt": "2026-08-12T05:02:24.659Z"
 }

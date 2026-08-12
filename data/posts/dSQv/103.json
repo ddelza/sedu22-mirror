@@ -17,6 +17,18 @@
       "category": "게시판별 분류",
       "topic": "자유학기 수업",
       "confidence": "high"
+    },
+    {
+      "category": "과학교사 업무",
+      "topic": "교원연수",
+      "confidence": "high"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "아두이노",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "아두이노 교사자율연수 참여 후기.",
+  "taggedAt": "2026-08-12T03:18:58.468Z"
 }

@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "자유학기 수업",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "여러 가지 힘",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "힘 단원 정리 팝업카드(또래교수) 제작.",
+  "taggedAt": "2026-08-12T03:23:00.621Z"
 }

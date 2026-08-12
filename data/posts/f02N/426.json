@@ -16,6 +16,15 @@
       "category": "게시판별 분류",
       "topic": "옹알이(익명게시판)",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "고등학교",
+      "subject": "화학Ⅰ",
+      "unit": "자연의 구성 물질",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "알칼리금속 반응(페놀프탈레인) 문항 이의제기 검토 요청.",
+  "taggedAt": "2026-08-12T04:48:14.894Z"
 }

@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "과학교사K (유튜브)",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "학생 중심 야외수업 소개 영상.",
+  "taggedAt": "2026-08-12T03:29:01.373Z"
 }

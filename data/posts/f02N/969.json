@@ -16,6 +16,15 @@
       "category": "게시판별 분류",
       "topic": "옹알이(익명게시판)",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "고등학교",
+      "subject": "화학Ⅰ",
+      "unit": "화학식량과 몰",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "분자량/밀도 기반 물질의 양(mol) 계산 문제 풀이 검토 요청.",
+  "taggedAt": "2026-08-12T05:01:07.842Z"
 }

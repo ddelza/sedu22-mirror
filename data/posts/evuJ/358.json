@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "AI도구 활용하기",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "학생 성적 자가기록 앱 공유.",
+  "taggedAt": "2026-08-12T03:55:07.783Z"
 }

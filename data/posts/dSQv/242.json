@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "자유학기 수업",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "과학기술과 인류 문명",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "온라인 주제선택 8차시 적정기술(2, 종이현미경/원심분리기).",
+  "taggedAt": "2026-08-12T03:23:00.643Z"
 }

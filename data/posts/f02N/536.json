@@ -16,6 +16,15 @@
       "category": "게시판별 분류",
       "topic": "옹알이(익명게시판)",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "경기 중학교 관내내신용 과목별(물/화/생/지) 편제 확인 방법 문의.",
+  "taggedAt": "2026-08-12T04:50:37.959Z"
 }

@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "과학쌤의 짤주머니",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "생물의 다양성",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "스펀지밥(해면동물) 생물다양성 소재.",
+  "taggedAt": "2026-08-12T04:35:05.672Z"
 }

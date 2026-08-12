@@ -17,6 +17,13 @@
       "category": "게시판별 분류",
       "topic": "연구하는 교사 (Teacher as Researcher)",
       "confidence": "high"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "생성형 AI 도구",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "AI 융합 과학교육 프로그램 개발 설문조사.",
+  "taggedAt": "2026-08-12T04:15:30.458Z"
 }

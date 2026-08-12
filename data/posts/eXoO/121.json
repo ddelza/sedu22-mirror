@@ -17,6 +17,13 @@
       "category": "게시판별 분류",
       "topic": "연구하는 교사 (Teacher as Researcher)",
       "confidence": "high"
+    },
+    {
+      "category": "수업 방법론",
+      "topic": "IB(개념기반학습)",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "개념기반 탐구학습 스터디 기록(ver7.0).",
+  "taggedAt": "2026-08-12T04:15:30.406Z"
 }

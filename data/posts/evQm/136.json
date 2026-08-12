@@ -17,6 +17,22 @@
       "category": "게시판별 분류",
       "topic": "(고교)물리수업 이야기",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "전기와 자기",
+      "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "고등학교",
+      "subject": "물리학Ⅰ",
+      "unit": "물질과 전자기장",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "나침반 바늘이 지구 자기장을 무시하는 실험 설계 질문.",
+  "taggedAt": "2026-08-12T03:34:06.474Z"
 }

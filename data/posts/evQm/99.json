@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "(고교)물리수업 이야기",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "고등학교",
+      "subject": "물리학Ⅰ",
+      "unit": "파동과 정보통신",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "상쇄간섭으로 MR 제거하기 수업 활용 아이디어(물리학1).",
+  "taggedAt": "2026-08-12T03:38:32.839Z"
 }

@@ -17,6 +17,20 @@
       "category": "게시판별 분류",
       "topic": "자유학기 수업",
       "confidence": "high"
+    },
+    {
+      "category": "과학교사 업무",
+      "topic": "동아리 운영",
+      "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "에너지 전환과 보존",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "환경동아리 에너지 절약 자료(구글폼).",
+  "taggedAt": "2026-08-12T03:23:00.627Z"
 }

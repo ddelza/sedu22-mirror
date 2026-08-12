@@ -17,6 +17,13 @@
       "category": "게시판별 분류",
       "topic": "(고교)지구과학수업 이야기",
       "confidence": "high"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "앱/프로그램",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "사이버토론프로그램(sjedu.net) 수업 추천.",
+  "taggedAt": "2026-08-12T03:47:18.763Z"
 }

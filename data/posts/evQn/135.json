@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "(고교)화학수업 이야기",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "고등학교",
+      "subject": "화학Ⅰ",
+      "unit": "화학의 첫걸음",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "분자량비 조건 만족하는 분자식 찾기 문제 질문.",
+  "taggedAt": "2026-08-12T03:42:56.064Z"
 }

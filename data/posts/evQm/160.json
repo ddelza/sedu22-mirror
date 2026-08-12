@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "(고교)물리수업 이야기",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "고등학교",
+      "subject": "물리학Ⅰ",
+      "unit": "물질과 전자기장",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "커패시터 충전 실험(단자전압-충전전압 관계) 결과 해석 질문.",
+  "taggedAt": "2026-08-12T03:34:06.503Z"
 }

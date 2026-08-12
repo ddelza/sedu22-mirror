@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "(고교)생명과학수업 이야기",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "고등학교",
+      "subject": "과학탐구실험1",
+      "unit": "과학 탐구의 과정과 절차",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "천연 항생물질 찾기 실험(디스크 확산법) 조언 요청(2022개정 과탐실1).",
+  "taggedAt": "2026-08-12T03:12:26.763Z"
 }

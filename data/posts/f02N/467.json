@@ -16,6 +16,15 @@
       "category": "게시판별 분류",
       "topic": "옹알이(익명게시판)",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "고등학교",
+      "subject": "물리학Ⅱ",
+      "unit": "시공간과 상대성",
+      "confidence": "low"
     }
-  ]
+  ],
+  "tagsNote": "물리학Ⅰ 기말고사 범위(열역학~특수상대성~핵반응) 설정 고민.",
+  "taggedAt": "2026-08-12T04:48:14.934Z"
 }

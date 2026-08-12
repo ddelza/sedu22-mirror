@@ -17,6 +17,20 @@
       "category": "게시판별 분류",
       "topic": "(고교)화학수업 이야기",
       "confidence": "high"
+    },
+    {
+      "category": "과학교사 업무",
+      "topic": "동아리 운영",
+      "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "고등학교",
+      "subject": "화학Ⅰ",
+      "unit": "화학 결합과 분자의 세계",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "키랄성 화합물(아스코르브산) 동아리 실험 문의.",
+  "taggedAt": "2026-08-12T03:38:32.928Z"
 }

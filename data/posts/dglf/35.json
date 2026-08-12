@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "(고교)생명과학수업 이야기",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "고등학교",
+      "subject": "생명과학Ⅰ",
+      "unit": "유전",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "혈액형 개념(응집원/응집소) 노래 자료.",
+  "taggedAt": "2026-08-12T03:15:16.295Z"
 }

@@ -17,6 +17,13 @@
       "category": "게시판별 분류",
       "topic": "AI도구 활용하기",
       "confidence": "high"
+    },
+    {
+      "category": "과학교사 업무",
+      "topic": "동아리 운영",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "영화속 과학탐구반(바이러스편1, 컨테이젼) 동아리 온라인 운영.",
+  "taggedAt": "2026-08-12T03:47:18.816Z"
 }

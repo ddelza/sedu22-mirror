@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "(고교)생명과학수업 이야기",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "고등학교",
+      "subject": "생명과학Ⅰ",
+      "unit": "유전",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "이중나선(DNA 발견사) 독서연계 수행평가.",
+  "taggedAt": "2026-08-12T03:13:59.124Z"
 }

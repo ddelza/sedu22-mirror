@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "자유학기 수업",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "숲체험 자연관찰(격려 메시지 만들기) 활동 — 특정 단원 아님.",
+  "taggedAt": "2026-08-12T03:23:00.618Z"
 }

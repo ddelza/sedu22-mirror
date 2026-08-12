@@ -16,6 +16,15 @@
       "category": "게시판별 분류",
       "topic": "옹알이(익명게시판)",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "태양계와 별",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "지구 공전에 의한 현상 서술형(계절변화만 기재 시) 채점 기준 문의.",
+  "taggedAt": "2026-08-12T05:01:07.857Z"
 }

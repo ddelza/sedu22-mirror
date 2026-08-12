@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "(고교)물리수업 이야기",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "고등학교",
+      "subject": "물리학",
+      "unit": "빛과 물질",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "양자 지우개 실험 관련 연수 요청(149 답글).",
+  "taggedAt": "2026-08-12T03:34:06.491Z"
 }

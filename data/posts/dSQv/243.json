@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "자유학기 수업",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "최재천 교수 생태 강연(자연과 인간) 시청 — 특정 단원 아닌 철학적 논의.",
+  "taggedAt": "2026-08-12T03:23:00.644Z"
 }

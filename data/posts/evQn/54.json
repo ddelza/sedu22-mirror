@@ -17,6 +17,13 @@
       "category": "게시판별 분류",
       "topic": "(고교)화학수업 이야기",
       "confidence": "high"
+    },
+    {
+      "category": "과학교사 업무",
+      "topic": "과학실 관리",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "과학실 식기세척기 사용/건조 방법 문의.",
+  "taggedAt": "2026-08-12T03:44:21.877Z"
 }

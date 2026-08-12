@@ -16,6 +16,22 @@
       "category": "게시판별 분류",
       "topic": "(고교)물리수업 이야기",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "고등학교",
+      "subject": "물리학Ⅰ",
+      "unit": "역학과 에너지",
+      "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "에너지 전환과 보존",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "에너지/엔트로피/에너지밀도 개념 고찰(중3 단원과 비교).",
+  "taggedAt": "2026-08-12T03:32:41.311Z"
 }

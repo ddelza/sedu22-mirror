@@ -16,6 +16,15 @@
       "category": "게시판별 분류",
       "topic": "옹알이(익명게시판)",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "빛과 파동",
+      "confidence": "low"
     }
-  ]
+  ],
+  "tagsNote": "RGB렌즈 그림그리기 활동 자료(색 마카번호) 관련 이전 게시글 검색 요청.",
+  "taggedAt": "2026-08-12T04:51:56.135Z"
 }

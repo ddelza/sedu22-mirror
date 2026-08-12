@@ -16,6 +16,13 @@
       "category": "게시판별 분류",
       "topic": "옹알이(익명게시판)",
       "confidence": "high"
+    },
+    {
+      "category": "과학교사 업무",
+      "topic": "과학 행사",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "학교별 과학의 날 행사/대회 사례 공유 요청.",
+  "taggedAt": "2026-08-12T04:59:41.487Z"
 }

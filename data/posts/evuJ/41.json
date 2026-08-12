@@ -17,6 +17,13 @@
       "category": "게시판별 분류",
       "topic": "AI도구 활용하기",
       "confidence": "high"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "교육용 단말기(태블릿/크롬북)",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "갤럭시탭S6 필기+PDF 겸용 사용법 문의.",
+  "taggedAt": "2026-08-12T03:56:56.796Z"
 }

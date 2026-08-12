@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "AI도구 활용하기",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "태양계",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "책그림자로 지구둘레 측정하기 실험 결과 공유(148 후속).",
+  "taggedAt": "2026-08-12T03:50:05.365Z"
 }

@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "연구하는 교사 (Teacher as Researcher)",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "고등학교",
+      "subject": "통합과학",
+      "unit": "생태계와 환경",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "생태계 관련 찬반토론 수업 교구 문의(통합과학).",
+  "taggedAt": "2026-08-12T04:16:53.892Z"
 }

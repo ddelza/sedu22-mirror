@@ -17,6 +17,13 @@
       "category": "게시판별 분류",
       "topic": "AI도구 활용하기",
       "confidence": "high"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "앱/프로그램",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "웹 기반 단어찾기 퍼즐 프로그램(자체 제작).",
+  "taggedAt": "2026-08-12T03:51:18.234Z"
 }

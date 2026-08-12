@@ -16,6 +16,13 @@
       "category": "게시판별 분류",
       "topic": "옹알이(익명게시판)",
       "confidence": "high"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "생성형 AI 도구",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "ChatGPT를 처음 접하고 수업 활용 가능성에 반가움 표현.",
+  "taggedAt": "2026-08-12T04:46:42.182Z"
 }

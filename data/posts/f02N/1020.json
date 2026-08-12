@@ -16,6 +16,15 @@
       "category": "게시판별 분류",
       "topic": "옹알이(익명게시판)",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "고등학교",
+      "subject": "화학Ⅰ",
+      "unit": "역동적인 화학 반응",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "모든 화학반응이 산화환원반응인지 여부 질문.",
+  "taggedAt": "2026-08-12T04:36:24.564Z"
 }

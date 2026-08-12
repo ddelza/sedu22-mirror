@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "자유학기 수업",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "기권과 날씨",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "'공존을 위한 과학' 지구온난화 영상/학습지 수업.",
+  "taggedAt": "2026-08-12T03:21:38.464Z"
 }

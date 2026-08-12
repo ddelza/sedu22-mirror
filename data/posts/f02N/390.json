@@ -16,6 +16,13 @@
       "category": "게시판별 분류",
       "topic": "옹알이(익명게시판)",
       "confidence": "high"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "생성형 AI 도구",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "과학과 예산으로 챗GPT/띵커벨 유료결제 가능 여부 문의.",
+  "taggedAt": "2026-08-12T04:46:42.196Z"
 }

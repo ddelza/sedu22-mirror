@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "연구하는 교사 (Teacher as Researcher)",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "운동과 에너지",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "과학에서의 '일' 개념 교과서 서술에 대한 개인적 견해.",
+  "taggedAt": "2026-08-12T04:14:05.271Z"
 }

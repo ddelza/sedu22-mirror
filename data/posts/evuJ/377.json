@@ -17,6 +17,13 @@
       "category": "게시판별 분류",
       "topic": "AI도구 활용하기",
       "confidence": "high"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "생성형 AI 도구",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "AI로 손쉬워진 시뮬레이션 제작 소감.",
+  "taggedAt": "2026-08-12T03:56:56.746Z"
 }

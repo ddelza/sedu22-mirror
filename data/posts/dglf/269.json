@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "(고교)생명과학수업 이야기",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "고등학교",
+      "subject": "생명과학Ⅰ",
+      "unit": "항상성과 몸의 조절",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "방어작용 수업 공유1('일하는 세포' 애니메이션 활용).",
+  "taggedAt": "2026-08-12T03:13:59.142Z"
 }

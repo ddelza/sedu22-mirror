@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "수업 Ideas",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "힘과 운동",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "점심시간 아치형 다리 구조 만들기 활동 사례 공유.",
+  "taggedAt": "2026-08-12T05:02:24.667Z"
 }

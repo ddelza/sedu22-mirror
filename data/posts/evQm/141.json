@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "(고교)물리수업 이야기",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "고등학교",
+      "subject": "물리학",
+      "unit": "빛과 물질",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "디스프로슘 상전이 실험 중 수증기 응결 방지 질문.",
+  "taggedAt": "2026-08-12T03:34:06.482Z"
 }

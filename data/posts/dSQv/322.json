@@ -17,6 +17,20 @@
       "category": "게시판별 분류",
       "topic": "자유학기 수업",
       "confidence": "high"
+    },
+    {
+      "category": "과학교사 업무",
+      "topic": "동아리 운영",
+      "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "화학 반응의 규칙과 에너지 변화",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "명탐정 코난 소재 산염기 지시약 동아리 활동.",
+  "taggedAt": "2026-08-12T03:26:25.419Z"
 }

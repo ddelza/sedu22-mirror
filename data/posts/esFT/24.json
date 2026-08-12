@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "교과 세특 공유",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "학생부 오타 점검 프로그램 문의.",
+  "taggedAt": "2026-08-12T03:31:12.981Z"
 }

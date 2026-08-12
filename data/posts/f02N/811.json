@@ -16,6 +16,15 @@
       "category": "게시판별 분류",
       "topic": "옹알이(익명게시판)",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "참고서 개념정리 페이지를 학습지로 사용하는 것의 저작권 문제 문의.",
+  "taggedAt": "2026-08-12T04:57:09.260Z"
 }

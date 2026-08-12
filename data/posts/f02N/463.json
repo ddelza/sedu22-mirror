@@ -16,6 +16,15 @@
       "category": "게시판별 분류",
       "topic": "옹알이(익명게시판)",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "low"
     }
-  ]
+  ],
+  "tagsNote": "생물 종 정체 확인 요청(본문 내용 없음, 사진 첨부 추정).",
+  "taggedAt": "2026-08-12T04:48:14.933Z"
 }

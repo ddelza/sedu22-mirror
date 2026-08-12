@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "자유학기 수업",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "과학기술과 인류 문명",
+      "confidence": "low"
     }
-  ]
+  ],
+  "tagsNote": "폐품 재활용 창작활동(자유학기).",
+  "taggedAt": "2026-08-12T03:18:58.479Z"
 }

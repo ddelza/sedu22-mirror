@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "(고교)생명과학수업 이야기",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "뉴스 속 생명과학 현상 소개하기 활동 — 특정 단원 아닌 형식.",
+  "taggedAt": "2026-08-12T03:15:16.292Z"
 }

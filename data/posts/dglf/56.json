@@ -17,6 +17,13 @@
       "category": "게시판별 분류",
       "topic": "(고교)생명과학수업 이야기",
       "confidence": "high"
+    },
+    {
+      "category": "과학교사 업무",
+      "topic": "과학실 관리",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "접안/대물 마이크로미터 대여처 문의(고가 기자재).",
+  "taggedAt": "2026-08-12T03:15:16.316Z"
 }

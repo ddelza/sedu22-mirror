@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "연구하는 교사 (Teacher as Researcher)",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "고등학교",
+      "subject": "과학탐구실험",
+      "unit": "생활 속의 과학 탐구",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "탐구방법론 수업기록 n차시(가설 연역법).",
+  "taggedAt": "2026-08-12T04:16:53.894Z"
 }

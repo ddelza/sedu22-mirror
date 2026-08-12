@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "연구하는 교사 (Teacher as Researcher)",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "고등학교",
+      "subject": "화학Ⅰ",
+      "unit": "화학의 첫걸음",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "탄산수가 물보다 먼저 어는 이유 질문.",
+  "taggedAt": "2026-08-12T04:16:53.908Z"
 }

@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "AI도구 활용하기",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "온라인 학습 자료 저작권 관련 질문.",
+  "taggedAt": "2026-08-12T03:56:56.776Z"
 }

@@ -16,6 +16,15 @@
       "category": "게시판별 분류",
       "topic": "옹알이(익명게시판)",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "질문글 작성자가 답변 후 글 삭제하는 행태에 대한 불만.",
+  "taggedAt": "2026-08-12T04:53:16.426Z"
 }

@@ -16,6 +16,15 @@
       "category": "게시판별 분류",
       "topic": "옹알이(익명게시판)",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "학습지 없이 교과서 위주로 수업하는 방식에 대한 의견 요청.",
+  "taggedAt": "2026-08-12T04:54:27.548Z"
 }

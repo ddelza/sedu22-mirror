@@ -17,6 +17,13 @@
       "category": "게시판별 분류",
       "topic": "AI도구 활용하기",
       "confidence": "high"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "생성형 AI 도구",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "제미나이 Canvas 생기부(행동특성) 작성 도우미.",
+  "taggedAt": "2026-08-12T03:55:07.800Z"
 }

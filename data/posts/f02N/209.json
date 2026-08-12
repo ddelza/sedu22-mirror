@@ -16,6 +16,15 @@
       "category": "게시판별 분류",
       "topic": "옹알이(익명게시판)",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "에너지 전환과 보존",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "기준면에 따른 위치에너지 해석 질문.",
+  "taggedAt": "2026-08-12T04:43:00.446Z"
 }

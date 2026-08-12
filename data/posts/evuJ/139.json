@@ -17,6 +17,13 @@
       "category": "게시판별 분류",
       "topic": "AI도구 활용하기",
       "confidence": "high"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "앱/프로그램",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "라이브워크시트(liveworksheets) 상호작용 학습지 제작법.",
+  "taggedAt": "2026-08-12T03:48:50.847Z"
 }

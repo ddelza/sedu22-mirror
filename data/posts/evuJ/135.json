@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "AI도구 활용하기",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "생식과 유전",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "유전 가계도 해석 학습지(중3 5단원 생식과 유전 명시).",
+  "taggedAt": "2026-08-12T03:48:50.845Z"
 }

@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "연구하는 교사 (Teacher as Researcher)",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "고등학교",
+      "subject": "물리학Ⅰ",
+      "unit": "파동과 정보통신",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "빛의 흡수-반사 인과관계(물감의 딜레마) 심화 논의.",
+  "taggedAt": "2026-08-12T04:15:30.423Z"
 }

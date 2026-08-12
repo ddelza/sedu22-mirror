@@ -16,6 +16,15 @@
       "category": "게시판별 분류",
       "topic": "옹알이(익명게시판)",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "후쿠시마 오염수 방류의 과학적 타당성 관련 기사 공유.",
+  "taggedAt": "2026-08-12T04:50:37.998Z"
 }

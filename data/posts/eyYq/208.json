@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "과학쌤의 짤주머니",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "고등학교",
+      "subject": "물리학",
+      "unit": "빛과 물질",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "특수상대성이론(동시성/시간지연/길이수축) 이미지.",
+  "taggedAt": "2026-08-12T04:22:41.889Z"
 }

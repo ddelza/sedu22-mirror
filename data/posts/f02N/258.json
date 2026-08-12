@@ -16,6 +16,18 @@
       "category": "게시판별 분류",
       "topic": "옹알이(익명게시판)",
       "confidence": "high"
+    },
+    {
+      "category": "과학교사 업무",
+      "topic": "과학실 관리",
+      "confidence": "medium"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "MBL센서",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "지능형과학실 물품(VR, MBL, 디지털현미경) 추천 요청.",
+  "taggedAt": "2026-08-12T04:43:00.491Z"
 }

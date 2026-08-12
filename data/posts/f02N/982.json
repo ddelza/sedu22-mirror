@@ -16,6 +16,13 @@
       "category": "게시판별 분류",
       "topic": "옹알이(익명게시판)",
       "confidence": "high"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "생성형 AI 도구",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "통합과학 수업에서 챗GPT 활용 수행평가 설계 및 운영 경험 공유.",
+  "taggedAt": "2026-08-12T05:01:07.854Z"
 }

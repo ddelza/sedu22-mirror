@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "(고교)화학수업 이야기",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "고등학교",
+      "subject": "화학Ⅰ",
+      "unit": "역동적인 화학 반응",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "은거울 반응/청색병 반응 산화환원 창의융합활동.",
+  "taggedAt": "2026-08-12T03:44:21.883Z"
 }

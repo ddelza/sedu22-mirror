@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "(고교)생명과학수업 이야기",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "실험 수행평가 운영 방식(직접 실험 필요 여부) 질문 — 평가행정.",
+  "taggedAt": "2026-08-12T03:12:26.747Z"
 }

@@ -17,6 +17,13 @@
       "category": "게시판별 분류",
       "topic": "AI도구 활용하기",
       "confidence": "high"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "앱/프로그램",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "미로 만들기 웹앱 활용(탐구발표 대기시간용).",
+  "taggedAt": "2026-08-12T03:55:07.792Z"
 }

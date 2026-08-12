@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "(고교)지구과학수업 이야기",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "고등학교",
+      "subject": "지구과학Ⅰ",
+      "unit": "외부 은하와 우주 팽창",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "은하 분류 할리갈리 게임(지구과학1 외부은하 단원 명시).",
+  "taggedAt": "2026-08-12T03:47:18.780Z"
 }

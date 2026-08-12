@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "과학쌤의 짤주머니",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "고등학교",
+      "subject": "통합과학",
+      "unit": "화학 변화",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "영화 입장권 감열지(산염기, 중화반응) 원리 자료.",
+  "taggedAt": "2026-08-12T04:19:43.091Z"
 }

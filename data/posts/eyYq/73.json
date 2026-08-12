@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "과학쌤의 짤주머니",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "생식과 유전",
+      "confidence": "low"
     }
-  ]
+  ],
+  "tagsNote": "태아 발생 소재 유머 이미지.",
+  "taggedAt": "2026-08-12T04:35:05.674Z"
 }

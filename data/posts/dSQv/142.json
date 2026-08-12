@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "자유학기 수업",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "low"
     }
-  ]
+  ],
+  "tagsNote": "주제선택 첫수업(환경보전 소재) 구상 — 구체적 단원 불명확.",
+  "taggedAt": "2026-08-12T03:20:18.597Z"
 }

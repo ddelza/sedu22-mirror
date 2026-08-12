@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "과학쌤의 짤주머니",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "고등학교",
+      "subject": "생명과학Ⅰ",
+      "unit": "생명과학의 이해",
+      "confidence": "low"
     }
-  ]
+  ],
+  "tagsNote": "자연 관찰(과학의 본성) 소재 이미지.",
+  "taggedAt": "2026-08-12T04:21:13.743Z"
 }

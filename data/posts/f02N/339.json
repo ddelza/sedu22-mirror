@@ -16,6 +16,15 @@
       "category": "게시판별 분류",
       "topic": "옹알이(익명게시판)",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "고등학교",
+      "subject": "과학탐구실험1",
+      "unit": "자유 탐구",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "갈릴레이 수직낙하실험(모션샷 활용) 진행방법 조언 요청.",
+  "taggedAt": "2026-08-12T04:45:29.844Z"
 }

@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "수업 Ideas",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "자유학기제 진로 관련 수행평가(과학자 인터뷰 등) 아이디어 요청.",
+  "taggedAt": "2026-08-12T05:02:24.687Z"
 }

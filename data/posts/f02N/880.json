@@ -16,6 +16,13 @@
       "category": "게시판별 분류",
       "topic": "옹알이(익명게시판)",
       "confidence": "high"
+    },
+    {
+      "category": "과학교사 업무",
+      "topic": "과학실 관리",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "핫플레이트 가열 실험 중 비커 파손 경험 및 용해도 실험 안전 문의.",
+  "taggedAt": "2026-08-12T04:58:27.164Z"
 }

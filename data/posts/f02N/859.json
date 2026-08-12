@@ -16,6 +16,15 @@
       "category": "게시판별 분류",
       "topic": "옹알이(익명게시판)",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "제습기 사용이 호흡기에 미치는 영향에 대한 일반 궁금증.",
+  "taggedAt": "2026-08-12T04:58:27.136Z"
 }

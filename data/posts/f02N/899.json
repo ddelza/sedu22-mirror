@@ -16,6 +16,15 @@
       "category": "게시판별 분류",
       "topic": "옹알이(익명게시판)",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "수업/평가 자료 품질이 좋은 교과서 출판사 사이트 추천 요청.",
+  "taggedAt": "2026-08-12T04:58:27.187Z"
 }

@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "이럴 땐 이런 말!",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "위두랑 과제 상호열람 관련 형평성 고민 에세이.",
+  "taggedAt": "2026-08-12T03:16:27.547Z"
 }

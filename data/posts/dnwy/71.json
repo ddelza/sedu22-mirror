@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "이럴 땐 이런 말!",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "관찰의 중요성에 대한 시 인용 에세이(암석/별 관찰 언급, 특정 단원 지도 아님).",
+  "taggedAt": "2026-08-12T03:17:24.882Z"
 }

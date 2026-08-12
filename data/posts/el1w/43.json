@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "과학교사K (유튜브)",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "생물의 다양성",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "생물의 다양성 단원 영상(중1).",
+  "taggedAt": "2026-08-12T03:30:04.352Z"
 }

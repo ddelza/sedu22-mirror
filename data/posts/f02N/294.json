@@ -16,6 +16,13 @@
       "category": "게시판별 분류",
       "topic": "옹알이(익명게시판)",
       "confidence": "high"
+    },
+    {
+      "category": "과학교사 업무",
+      "topic": "과학 행사",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "과학부 조직 및 과학과 행사(그리기/글쓰기) 운영 문의.",
+  "taggedAt": "2026-08-12T04:44:11.388Z"
 }

@@ -16,6 +16,15 @@
       "category": "게시판별 분류",
       "topic": "옹알이(익명게시판)",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "화학 반응에서의 규칙성",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "화학 변화 정의(원자간 결합의 끊어짐/형성) 빈칸 확인 질문.",
+  "taggedAt": "2026-08-12T05:01:07.822Z"
 }

@@ -16,6 +16,13 @@
       "category": "게시판별 분류",
       "topic": "옹알이(익명게시판)",
       "confidence": "high"
+    },
+    {
+      "category": "과학교사 업무",
+      "topic": "과학실 관리",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "소규모 학교 과학과 예산(운영비/비품비) 집행 품목 추천 요청.",
+  "taggedAt": "2026-08-12T04:57:09.284Z"
 }

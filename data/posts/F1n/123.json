@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "수업 Ideas",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "노래와 학생 사진을 활용한 2학기 시작 이벤트 공유.",
+  "taggedAt": "2026-08-12T05:02:24.677Z"
 }

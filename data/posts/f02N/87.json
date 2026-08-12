@@ -16,6 +16,15 @@
       "category": "게시판별 분류",
       "topic": "옹알이(익명게시판)",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "물질의 특성",
+      "confidence": "low"
     }
-  ]
+  ],
+  "tagsNote": "냉장고 속 탄산수가 어는 현상 관찰 및 원인 문의.",
+  "taggedAt": "2026-08-12T04:58:27.147Z"
 }

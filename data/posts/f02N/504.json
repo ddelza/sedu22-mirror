@@ -16,6 +16,13 @@
       "category": "게시판별 분류",
       "topic": "옹알이(익명게시판)",
       "confidence": "high"
+    },
+    {
+      "category": "과학교사 업무",
+      "topic": "과학실 관리",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "약품 보관 과학실에서 타 학교행사(염색 등) 진행 관련 안전 우려.",
+  "taggedAt": "2026-08-12T04:49:23.630Z"
 }

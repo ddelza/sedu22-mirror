@@ -17,6 +17,13 @@
       "category": "게시판별 분류",
       "topic": "AI도구 활용하기",
       "confidence": "high"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "생성형 AI 도구",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "구글 Gemini API 구버전 삭제 안내(웹앱 오작동 대응).",
+  "taggedAt": "2026-08-12T03:55:07.780Z"
 }

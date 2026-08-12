@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "(고교)물리수업 이야기",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "물리학 실험 교과서/수업 운영 문의(공동교육과정) — 자료 행정.",
+  "taggedAt": "2026-08-12T03:32:41.297Z"
 }

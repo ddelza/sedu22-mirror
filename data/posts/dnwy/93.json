@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "이럴 땐 이런 말!",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "에너지 절약 습관에 대한 개인적 소회(기후위기 언급, 특정 단원 지도 아님).",
+  "taggedAt": "2026-08-12T03:18:58.461Z"
 }

@@ -16,6 +16,15 @@
       "category": "게시판별 분류",
       "topic": "옹알이(익명게시판)",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "세특 작성에 과도한 시간이 소요되는 것에 대한 고충 토로.",
+  "taggedAt": "2026-08-12T04:55:49.827Z"
 }

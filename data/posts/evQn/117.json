@@ -17,6 +17,20 @@
       "category": "게시판별 분류",
       "topic": "(고교)화학수업 이야기",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "고등학교",
+      "subject": "화학Ⅰ",
+      "unit": "역동적인 화학 반응",
+      "confidence": "medium"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "MBL센서",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "화학탐구실험 프로젝트5(분광광도계 잔류염소 농도 결정, 지능형과학실 센서 활용).",
+  "taggedAt": "2026-08-12T03:38:32.884Z"
 }

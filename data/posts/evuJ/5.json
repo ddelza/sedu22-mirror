@@ -17,6 +17,13 @@
       "category": "게시판별 분류",
       "topic": "AI도구 활용하기",
       "confidence": "high"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "앱/프로그램",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "휴대폰으로 PPT 수업영상 만드는 방법(모비즌).",
+  "taggedAt": "2026-08-12T03:58:15.973Z"
 }

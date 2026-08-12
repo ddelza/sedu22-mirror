@@ -16,6 +16,15 @@
       "category": "게시판별 분류",
       "topic": "옹알이(익명게시판)",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "물질의 세 가지 상태",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "물+에탄올 혼합 시 부피감소 현상 입자설 서술형 채점 문의.",
+  "taggedAt": "2026-08-12T04:48:14.914Z"
 }

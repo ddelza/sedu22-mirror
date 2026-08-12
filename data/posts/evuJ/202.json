@@ -17,6 +17,13 @@
       "category": "게시판별 분류",
       "topic": "AI도구 활용하기",
       "confidence": "high"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "앱/프로그램",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "구글미트 소그룹(Breakout rooms) 확장프로그램 설치법.",
+  "taggedAt": "2026-08-12T03:50:05.405Z"
 }

@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "(고교)생명과학수업 이야기",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "고등학교",
+      "subject": "생명과학Ⅰ",
+      "unit": "생명과학의 이해",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "생명의 특성 빙고게임(생물과 무생물 비교).",
+  "taggedAt": "2026-08-12T03:15:16.319Z"
 }

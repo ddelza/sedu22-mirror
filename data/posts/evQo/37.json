@@ -17,6 +17,20 @@
       "category": "게시판별 분류",
       "topic": "(고교)지구과학수업 이야기",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "고등학교",
+      "subject": "지구과학Ⅰ",
+      "unit": "지권의 변동",
+      "confidence": "high"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "AR/VR",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "미국 유타 역단층 3D 가상 지질 노두(드론 촬영 기반).",
+  "taggedAt": "2026-08-12T03:45:53.189Z"
 }

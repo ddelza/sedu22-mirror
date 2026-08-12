@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "(고교)화학수업 이야기",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "고등학교",
+      "subject": "통합과학2",
+      "unit": "환경과 에너지",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "교과서에 없는 수소차 이야기(2022개정 통합과학 명시).",
+  "taggedAt": "2026-08-12T03:38:32.901Z"
 }

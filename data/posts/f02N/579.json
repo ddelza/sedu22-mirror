@@ -16,6 +16,13 @@
       "category": "게시판별 분류",
       "topic": "옹알이(익명게시판)",
       "confidence": "high"
+    },
+    {
+      "category": "과학교사 업무",
+      "topic": "과학실 관리",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "알콜온도계 파손 시 냄새로 성분(에탄올/메탄올) 추정 문의.",
+  "taggedAt": "2026-08-12T04:51:56.073Z"
 }

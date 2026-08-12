@@ -16,6 +16,13 @@
       "category": "게시판별 분류",
       "topic": "옹알이(익명게시판)",
       "confidence": "high"
+    },
+    {
+      "category": "과학교사 업무",
+      "topic": "동아리 운영",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "과학동아리 인원 유지 및 신규 동아리 개설 관련 갈등.",
+  "taggedAt": "2026-08-12T04:38:49.314Z"
 }

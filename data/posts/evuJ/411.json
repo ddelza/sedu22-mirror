@@ -17,6 +17,18 @@
       "category": "게시판별 분류",
       "topic": "AI도구 활용하기",
       "confidence": "high"
+    },
+    {
+      "category": "과학교사 업무",
+      "topic": "과학 행사",
+      "confidence": "medium"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "생성형 AI 도구",
+      "confidence": "low"
     }
-  ]
+  ],
+  "tagsNote": "행사용 인생네컷 무료 웹앱(과학의 날 등).",
+  "taggedAt": "2026-08-12T03:58:15.945Z"
 }

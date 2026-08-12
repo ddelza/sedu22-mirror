@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "과학교사K (유튜브)",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "재해·재난과 안전",
+      "confidence": "low"
     }
-  ]
+  ],
+  "tagsNote": "비누/손소독제 세균제거효과 비교 탐구 영상.",
+  "taggedAt": "2026-08-12T03:30:04.338Z"
 }

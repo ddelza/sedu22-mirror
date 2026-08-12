@@ -16,6 +16,18 @@
       "category": "게시판별 분류",
       "topic": "옹알이(익명게시판)",
       "confidence": "high"
+    },
+    {
+      "category": "과학교사 업무",
+      "topic": "과학실 관리",
+      "confidence": "high"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "MBL센서",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "지능형/미래형 과학교실 예산으로 생물실 유전공학 기자재(전기영동장치 등) 구매 관련.",
+  "taggedAt": "2026-08-12T04:51:56.139Z"
 }

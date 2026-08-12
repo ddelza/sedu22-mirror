@@ -17,6 +17,13 @@
       "category": "게시판별 분류",
       "topic": "자유학기 수업",
       "confidence": "high"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "아두이노",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "스마트폰 어플 활용 SW교육-아두이노 수업(1).",
+  "taggedAt": "2026-08-12T03:21:38.479Z"
 }

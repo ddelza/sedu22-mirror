@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "(고교)생명과학수업 이야기",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "고등학교",
+      "subject": "생명과학Ⅰ",
+      "unit": "사람의 물질대사",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "요소분해효소 실험 대조군(증류수+BTB) 색변화 질문.",
+  "taggedAt": "2026-08-12T03:16:27.505Z"
 }

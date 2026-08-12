@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "(고교)화학수업 이야기",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "고등학교",
+      "subject": "화학Ⅰ",
+      "unit": "화학의 첫걸음",
+      "confidence": "low"
     }
-  ]
+  ],
+  "tagsNote": "고체 시료 질량 측정 시 약포지 사용 이유 고찰.",
+  "taggedAt": "2026-08-12T03:38:32.898Z"
 }

@@ -17,6 +17,13 @@
       "category": "게시판별 분류",
       "topic": "AI도구 활용하기",
       "confidence": "high"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "앱/프로그램",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "인터랙티브 단원마무리 슬라이드 퍼즐 사이트 소개.",
+  "taggedAt": "2026-08-12T03:55:07.752Z"
 }

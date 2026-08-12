@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "과학쌤의 짤주머니",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "고등학교",
+      "subject": "화학Ⅰ",
+      "unit": "원자의 세계",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "희귀원소 오스뮴(전자배치) 소개.",
+  "taggedAt": "2026-08-12T04:24:08.397Z"
 }

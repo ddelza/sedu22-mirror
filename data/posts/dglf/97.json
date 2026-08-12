@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "(고교)생명과학수업 이야기",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "고등학교",
+      "subject": "생명과학",
+      "unit": "생명의 연속성과 다양성",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "자연선택에서 선택압을 받은 개체의 생존/사망 개념 질문.",
+  "taggedAt": "2026-08-12T03:16:27.509Z"
 }

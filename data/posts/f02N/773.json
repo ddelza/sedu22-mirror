@@ -16,6 +16,15 @@
       "category": "게시판별 분류",
       "topic": "옹알이(익명게시판)",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "고등학교",
+      "subject": "화학Ⅰ",
+      "unit": "원자의 세계",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "동위원소가 같은 원자 종류인지에 대한 개념 확인 질문.",
+  "taggedAt": "2026-08-12T04:55:49.830Z"
 }

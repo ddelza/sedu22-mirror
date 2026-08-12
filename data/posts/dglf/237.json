@@ -17,6 +17,13 @@
       "category": "게시판별 분류",
       "topic": "(고교)생명과학수업 이야기",
       "confidence": "high"
+    },
+    {
+      "category": "과학교사 업무",
+      "topic": "과학 행사",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "과학의 날 행사용 생명과학 파트 강연 동영상 자료.",
+  "taggedAt": "2026-08-12T03:12:26.764Z"
 }

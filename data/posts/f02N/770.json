@@ -16,6 +16,13 @@
       "category": "게시판별 분류",
       "topic": "옹알이(익명게시판)",
       "confidence": "high"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "MBL센서",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "과학실현대화 온도/속도 센서(태블릿 블루투스 연결) 수업 활용 방법 문의.",
+  "taggedAt": "2026-08-12T04:55:49.828Z"
 }

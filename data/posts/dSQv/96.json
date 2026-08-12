@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "자유학기 수업",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "게이미피케이션 활용 주제선택 수업(게임리터러시 연구회).",
+  "taggedAt": "2026-08-12T03:29:01.343Z"
 }

@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "(고교)물리수업 이야기",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "고등학교",
+      "subject": "물리학Ⅰ",
+      "unit": "역학과 에너지",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "미니냉장고 만들기(열역학) 경험 문의.",
+  "taggedAt": "2026-08-12T03:35:30.462Z"
 }

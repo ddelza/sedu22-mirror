@@ -16,6 +16,15 @@
       "category": "게시판별 분류",
       "topic": "옹알이(익명게시판)",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "힘과 운동",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "고무밴드(원형) 탄성력 방향 표시 방법 질문.",
+  "taggedAt": "2026-08-12T04:46:42.210Z"
 }

@@ -16,6 +16,13 @@
       "category": "게시판별 분류",
       "topic": "옹알이(익명게시판)",
       "confidence": "high"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "앱/프로그램",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "개별 맞춤형 교육용 에듀테크 추천 요청.",
+  "taggedAt": "2026-08-12T04:45:29.800Z"
 }

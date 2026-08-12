@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "(고교)물리수업 이야기",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "고등학교",
+      "subject": "통합과학",
+      "unit": "발전과 신재생 에너지",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "발전기 원리 설명 문장(통합과학 학습지) 검토 요청.",
+  "taggedAt": "2026-08-12T03:36:53.773Z"
 }

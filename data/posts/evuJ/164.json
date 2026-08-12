@@ -17,6 +17,20 @@
       "category": "게시판별 분류",
       "topic": "AI도구 활용하기",
       "confidence": "high"
+    },
+    {
+      "category": "과학교사 업무",
+      "topic": "동아리 운영",
+      "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "고등학교",
+      "subject": "통합과학",
+      "unit": "발전과 신재생 에너지",
+      "confidence": "low"
     }
-  ]
+  ],
+  "tagsNote": "영화속 과학탐구반(체르노빌, 원자력 소재) 동아리 자료.",
+  "taggedAt": "2026-08-12T03:48:50.879Z"
 }

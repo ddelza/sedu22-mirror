@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "(고교)지구과학수업 이야기",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "수권과 해수의 순환",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "혼합층 특징(대류/바람) 서술 채점 질문(중학교 수권).",
+  "taggedAt": "2026-08-12T03:47:18.772Z"
 }

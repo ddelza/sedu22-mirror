@@ -17,6 +17,13 @@
       "category": "게시판별 분류",
       "topic": "AI도구 활용하기",
       "confidence": "high"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "생성형 AI 도구",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "챗GPT 오답(수정체 두께) 팩트체크 방법 논의.",
+  "taggedAt": "2026-08-12T03:51:18.273Z"
 }

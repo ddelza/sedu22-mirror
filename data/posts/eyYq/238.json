@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "과학쌤의 짤주머니",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "고등학교",
+      "subject": "통합과학1",
+      "unit": "과학의 기초",
+      "confidence": "low"
     }
-  ]
+  ],
+  "tagsNote": "0칼로리 물과 단위(무게) 소재 유머.",
+  "taggedAt": "2026-08-12T04:24:08.409Z"
 }

@@ -17,6 +17,20 @@
       "category": "게시판별 분류",
       "topic": "AI도구 활용하기",
       "confidence": "high"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "생성형 AI 도구",
+      "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "고등학교",
+      "subject": "생명과학Ⅰ",
+      "unit": "사람의 물질대사",
+      "confidence": "low"
     }
-  ]
+  ],
+  "tagsNote": "챗GPT 프롬프트44(TCA회로 과학동화+팟캐스트+Vrew 영상 제작).",
+  "taggedAt": "2026-08-12T03:53:51.202Z"
 }

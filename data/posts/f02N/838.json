@@ -16,6 +16,15 @@
       "category": "게시판별 분류",
       "topic": "옹알이(익명게시판)",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "태양계와 별",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "지구 공전에 따른 6개월 후 서쪽 하늘 별자리 판별 문제 검토.",
+  "taggedAt": "2026-08-12T04:57:09.278Z"
 }

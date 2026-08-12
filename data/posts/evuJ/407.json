@@ -17,6 +17,13 @@
       "category": "게시판별 분류",
       "topic": "AI도구 활용하기",
       "confidence": "high"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "생성형 AI 도구",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "이미지 생성 프롬프트(픽셀만화 스타일) 공유.",
+  "taggedAt": "2026-08-12T03:56:56.793Z"
 }

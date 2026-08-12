@@ -16,6 +16,15 @@
       "category": "게시판별 분류",
       "topic": "옹알이(익명게시판)",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "고등학교",
+      "subject": "생명과학Ⅰ",
+      "unit": "항상성과 몸의 조절",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "신경신호 전달 방향성과 호르몬 표적기관 특이성 비교 질문.",
+  "taggedAt": "2026-08-12T04:49:23.612Z"
 }

@@ -16,6 +16,15 @@
       "category": "게시판별 분류",
       "topic": "옹알이(익명게시판)",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "게시판이 학년별에서 영역별 분류로 바뀌어 자료 검색이 어려워진 것에 대한 불만.",
+  "taggedAt": "2026-08-12T05:01:07.869Z"
 }

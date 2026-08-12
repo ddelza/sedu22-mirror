@@ -17,6 +17,20 @@
       "category": "게시판별 분류",
       "topic": "자유학기 수업",
       "confidence": "high"
+    },
+    {
+      "category": "과학교사 업무",
+      "topic": "동아리 운영",
+      "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "기권과 날씨",
+      "confidence": "low"
     }
-  ]
+  ],
+  "tagsNote": "기후생태환경 NIE 공동수업 디자인(환경동아리 겸).",
+  "taggedAt": "2026-08-12T03:23:00.646Z"
 }

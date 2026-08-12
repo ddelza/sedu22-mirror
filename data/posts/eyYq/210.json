@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "과학쌤의 짤주머니",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "고등학교",
+      "subject": "지구과학Ⅰ",
+      "unit": "별과 외계 행성계",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "카이퍼 벨트/카이퍼 소개 이미지.",
+  "taggedAt": "2026-08-12T04:22:41.895Z"
 }

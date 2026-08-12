@@ -17,6 +17,13 @@
       "category": "게시판별 분류",
       "topic": "AI도구 활용하기",
       "confidence": "high"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "생성형 AI 도구",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "물리학 실험 주제 선정/설계 도우미 챗봇 제작.",
+  "taggedAt": "2026-08-12T03:51:18.272Z"
 }

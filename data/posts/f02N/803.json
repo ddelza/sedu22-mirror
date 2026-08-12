@@ -16,6 +16,15 @@
       "category": "게시판별 분류",
       "topic": "옹알이(익명게시판)",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "학부모가 자녀 진로(전기전자) 관련 한국사 인물 추천 요청.",
+  "taggedAt": "2026-08-12T04:57:09.254Z"
 }

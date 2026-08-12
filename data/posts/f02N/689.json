@@ -16,6 +16,15 @@
       "category": "게시판별 분류",
       "topic": "옹알이(익명게시판)",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "중2/중3 두 교사 분반 수업 운영(단원 분배, 평가계획서 작성) 문의.",
+  "taggedAt": "2026-08-12T04:54:27.543Z"
 }

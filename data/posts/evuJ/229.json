@@ -17,6 +17,13 @@
       "category": "게시판별 분류",
       "topic": "AI도구 활용하기",
       "confidence": "high"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "앱/프로그램",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "줌 주석기능을 이용한 쌍방향 의견표시 활용법.",
+  "taggedAt": "2026-08-12T03:51:18.237Z"
 }

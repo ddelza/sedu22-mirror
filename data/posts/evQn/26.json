@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "(고교)화학수업 이야기",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "고등학교",
+      "subject": "화학Ⅰ",
+      "unit": "화학 결합과 분자의 세계",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "에탄올(극성)과 사이클로헥세인(무극성) 혼합 여부 질문.",
+  "taggedAt": "2026-08-12T03:42:56.109Z"
 }

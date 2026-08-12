@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "자유학기 수업",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "식물과 에너지",
+      "confidence": "low"
     }
-  ]
+  ],
+  "tagsNote": "식물을 이용한 의상/생물 디자인하기(활동지 공유).",
+  "taggedAt": "2026-08-12T03:24:21.058Z"
 }

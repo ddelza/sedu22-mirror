@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "과학쌤의 짤주머니",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "고등학교",
+      "subject": "물리학Ⅰ",
+      "unit": "물질과 전자기장",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "MRI 원리(솔레노이드/전류자기장) 소재.",
+  "taggedAt": "2026-08-12T04:21:13.786Z"
 }

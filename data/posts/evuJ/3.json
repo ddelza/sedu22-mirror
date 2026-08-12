@@ -17,6 +17,13 @@
       "category": "게시판별 분류",
       "topic": "AI도구 활용하기",
       "confidence": "high"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "앱/프로그램",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "아이패드/프로크리에이트로 수업영상 제작법 공유.",
+  "taggedAt": "2026-08-12T03:53:51.190Z"
 }

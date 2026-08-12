@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "연구하는 교사 (Teacher as Researcher)",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "고등학교",
+      "subject": "화학Ⅰ",
+      "unit": "원자의 세계",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "오비탈 참고자료(화학1 2단원 수업용).",
+  "taggedAt": "2026-08-12T04:16:53.918Z"
 }

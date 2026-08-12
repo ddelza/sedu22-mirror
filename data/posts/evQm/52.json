@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "(고교)물리수업 이야기",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "고등학교",
+      "subject": "물리학Ⅰ",
+      "unit": "물질과 전자기장",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "전자기유도(변압기 유도기전력/전류) 질문.",
+  "taggedAt": "2026-08-12T03:36:53.769Z"
 }

@@ -193,7 +193,7 @@ const tree = buildTree();
 const taggedCount = posts.filter((p) => p.tags && p.tags.length > 0).length;
 const unclassifiedCount = posts.filter((p) => p.tags && p.tags.some((t) => t.unit === '미분류')).length;
 
-const out = `window.SITE_DATA = ${JSON.stringify({ posts, tree }, null, 0)};\n`;
+const out = `window.SITE_DATA = ${JSON.stringify({ posts, tree, generatedAt: new Date().toISOString() }, null, 0)};\n`;
 fs.writeFileSync(path.join(ROOT, 'site-data.js'), out);
 
 console.log(`게시글 ${posts.length}건 (태그있음 ${taggedCount}건, 그중 미분류 ${unclassifiedCount}건)`);

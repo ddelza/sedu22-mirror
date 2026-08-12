@@ -17,6 +17,13 @@
       "category": "게시판별 분류",
       "topic": "(고교)화학수업 이야기",
       "confidence": "high"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "앱/프로그램",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "스마트폰을 이용한 미량 분석법 고찰.",
+  "taggedAt": "2026-08-12T03:42:56.118Z"
 }

@@ -16,6 +16,13 @@
       "category": "게시판별 분류",
       "topic": "옹알이(익명게시판)",
       "confidence": "high"
+    },
+    {
+      "category": "과학교사 업무",
+      "topic": "과학 행사",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "과학의 달 글쓰기 부문 출제 문항 참고자료 문의.",
+  "taggedAt": "2026-08-12T04:55:49.811Z"
 }

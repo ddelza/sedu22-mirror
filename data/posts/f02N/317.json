@@ -16,6 +16,15 @@
       "category": "게시판별 분류",
       "topic": "옹알이(익명게시판)",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "고등학교",
+      "subject": "통합과학",
+      "unit": "물질의 규칙성과 결합",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "저학력 학생 대상 통합과학 1단원(빅뱅/주기율표) 지도 고민.",
+  "taggedAt": "2026-08-12T04:45:29.810Z"
 }

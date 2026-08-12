@@ -16,6 +16,13 @@
       "category": "게시판별 분류",
       "topic": "옹알이(익명게시판)",
       "confidence": "high"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "앱/프로그램",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "구글 스프레드시트 그래프 세로축 값 반전 방법 문의.",
+  "taggedAt": "2026-08-12T04:54:27.544Z"
 }

@@ -16,6 +16,13 @@
       "category": "게시판별 분류",
       "topic": "옹알이(익명게시판)",
       "confidence": "high"
+    },
+    {
+      "category": "과학교사 업무",
+      "topic": "동아리 운영",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "여중 3학년 과학동아리 2시간 활동자료 추천 요청.",
+  "taggedAt": "2026-08-12T04:51:56.097Z"
 }

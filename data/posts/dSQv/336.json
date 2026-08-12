@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "자유학기 수업",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "고등학교",
+      "subject": "화학Ⅰ",
+      "unit": "역동적인 화학 반응",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "식초 속 아세트산 함량 정량분석 실험(화학1 교육과정).",
+  "taggedAt": "2026-08-12T03:26:25.435Z"
 }

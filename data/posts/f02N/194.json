@@ -16,6 +16,18 @@
       "category": "게시판별 분류",
       "topic": "옹알이(익명게시판)",
       "confidence": "high"
+    },
+    {
+      "category": "과학교사 업무",
+      "topic": "과학실 관리",
+      "confidence": "high"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "메이커/3D프린팅",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "3D프린터 다수 설치/환기 관련 안전 우려.",
+  "taggedAt": "2026-08-12T04:38:49.318Z"
 }

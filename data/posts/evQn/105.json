@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "(고교)화학수업 이야기",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "고등학교",
+      "subject": "통합과학",
+      "unit": "자연의 구성 물질",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "규산염 광물의 전기적 중성 원리 질문(통합과학 명시).",
+  "taggedAt": "2026-08-12T03:38:32.849Z"
 }

@@ -17,6 +17,18 @@
       "category": "게시판별 분류",
       "topic": "자유학기 수업",
       "confidence": "high"
+    },
+    {
+      "category": "과학교사 업무",
+      "topic": "동아리 운영",
+      "confidence": "medium"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "아두이노",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "스마트폰 어플/아두이노 SW동아리 활동(2).",
+  "taggedAt": "2026-08-12T03:21:38.480Z"
 }

@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "과학쌤의 짤주머니",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "동물과 에너지",
+      "confidence": "low"
     }
-  ]
+  ],
+  "tagsNote": "무당벌레 비행 습성 짧은 자료.",
+  "taggedAt": "2026-08-12T04:18:08.744Z"
 }

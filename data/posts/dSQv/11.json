@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "자유학기 수업",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "생물의 구성과 다양성",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "현미경 관찰용 식물 재료(마늘쫑, 봉선화, 목련잎) 정보 공유.",
+  "taggedAt": "2026-08-12T03:18:58.475Z"
 }

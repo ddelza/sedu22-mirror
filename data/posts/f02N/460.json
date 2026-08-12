@@ -16,6 +16,15 @@
       "category": "게시판별 분류",
       "topic": "옹알이(익명게시판)",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "고등학교",
+      "subject": "통합과학",
+      "unit": "과학기술의 유용성과 위험성",
+      "confidence": "low"
     }
-  ]
+  ],
+  "tagsNote": "누리호 3차 발사 성공 관련 학생 설명 방법 문의.",
+  "taggedAt": "2026-08-12T04:48:14.931Z"
 }

@@ -17,6 +17,13 @@
       "category": "게시판별 분류",
       "topic": "자유학기 수업",
       "confidence": "high"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "AR/VR",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "구글 카드보드 키트 추천 요청(3D 영상 수업).",
+  "taggedAt": "2026-08-12T03:21:38.468Z"
 }

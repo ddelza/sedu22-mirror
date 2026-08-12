@@ -17,6 +17,13 @@
       "category": "게시판별 분류",
       "topic": "자유학기 수업",
       "confidence": "high"
+    },
+    {
+      "category": "과학교사 업무",
+      "topic": "과학 행사",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "과학의 달 행사(물컵 낙하 실험) 계획서 작성.",
+  "taggedAt": "2026-08-12T03:27:43.386Z"
 }

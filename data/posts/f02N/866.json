@@ -16,6 +16,13 @@
       "category": "게시판별 분류",
       "topic": "옹알이(익명게시판)",
       "confidence": "high"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "앱/프로그램",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "학습지 기반 포트폴리오 수행평가 설계(팅커벨 워크시트 활용) 고민.",
+  "taggedAt": "2026-08-12T04:58:27.142Z"
 }

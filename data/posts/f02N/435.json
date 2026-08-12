@@ -16,6 +16,15 @@
       "category": "게시판별 분류",
       "topic": "옹알이(익명게시판)",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "고등학교",
+      "subject": "생명과학Ⅰ",
+      "unit": "항상성과 몸의 조절",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "Na+-K+ 펌프 관련 서술형 답안 표기 채점 기준 문의.",
+  "taggedAt": "2026-08-12T04:48:14.902Z"
 }

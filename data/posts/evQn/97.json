@@ -16,6 +16,15 @@
       "category": "게시판별 분류",
       "topic": "(고교)화학수업 이야기",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "고등학교",
+      "subject": "화학Ⅰ",
+      "unit": "화학의 첫걸음",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "압력에 따른 기체 용해도 곡선 자료 요청.",
+  "taggedAt": "2026-08-12T03:45:53.152Z"
 }

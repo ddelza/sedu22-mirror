@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "(고교)화학수업 이야기",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "고등학교",
+      "subject": "화학Ⅰ",
+      "unit": "화학의 첫걸음",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "탄산칼슘-염산 양적관계 실험 결과(1:0.7) 오차 원인 질문.",
+  "taggedAt": "2026-08-12T03:45:53.140Z"
 }

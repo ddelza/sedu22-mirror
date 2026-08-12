@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "연구하는 교사 (Teacher as Researcher)",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "고등학교",
+      "subject": "물리학Ⅰ",
+      "unit": "역학과 에너지",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "바닥 마찰력 발생 원리(돌림힘 관점) 심화 설명.",
+  "taggedAt": "2026-08-12T04:18:08.695Z"
 }

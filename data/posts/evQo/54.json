@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "(고교)지구과학수업 이야기",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "2026 지구과학올림피아드 접수 홍보.",
+  "taggedAt": "2026-08-12T03:47:18.779Z"
 }

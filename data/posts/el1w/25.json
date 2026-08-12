@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "과학교사K (유튜브)",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "생물의 다양성",
+      "confidence": "low"
     }
-  ]
+  ],
+  "tagsNote": "세계 과학관 탐방(공룡 어린이 박물관) 소개.",
+  "taggedAt": "2026-08-12T03:29:01.369Z"
 }

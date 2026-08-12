@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "(고교)화학수업 이야기",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "고등학교",
+      "subject": "화학Ⅰ",
+      "unit": "원자의 세계",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "음극선 실험(전자의 이중성) 수업 준비 질문.",
+  "taggedAt": "2026-08-12T03:44:21.910Z"
 }

@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "이럴 땐 이런 말!",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "고등학교",
+      "subject": "생명과학Ⅰ",
+      "unit": "유전",
+      "confidence": "low"
     }
-  ]
+  ],
+  "tagsNote": "혈액형 판정 실험 오차 대응 사례(학급운영 에세이 형식).",
+  "taggedAt": "2026-08-12T03:16:27.519Z"
 }

@@ -17,6 +17,20 @@
       "category": "게시판별 분류",
       "topic": "AI도구 활용하기",
       "confidence": "high"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "앱/프로그램",
+      "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "물질의 구성",
+      "confidence": "low"
     }
-  ]
+  ],
+  "tagsNote": "엔트리 프로그램(원소기호 퀴즈 등) 온라인 수업 활용.",
+  "taggedAt": "2026-08-12T03:58:15.998Z"
 }

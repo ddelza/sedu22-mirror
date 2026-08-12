@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "(고교)지구과학수업 이야기",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "고등학교",
+      "subject": "지구과학Ⅰ",
+      "unit": "지권의 변동",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "맨틀대류/판운동 원동력 최신 학설 답변(31 후속).",
+  "taggedAt": "2026-08-12T03:45:53.184Z"
 }

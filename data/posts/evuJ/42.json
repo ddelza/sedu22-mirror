@@ -17,6 +17,13 @@
       "category": "게시판별 분류",
       "topic": "AI도구 활용하기",
       "confidence": "high"
+    },
+    {
+      "category": "과학교사 업무",
+      "topic": "교원연수",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "네이버 밴드 원격수업 활용 연수 안내.",
+  "taggedAt": "2026-08-12T03:58:15.951Z"
 }

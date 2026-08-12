@@ -16,6 +16,15 @@
       "category": "게시판별 분류",
       "topic": "옹알이(익명게시판)",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "열과 우리 생활",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "온도계에 알코올이 사용되는 이유(열팽창 특성) 질문.",
+  "taggedAt": "2026-08-12T04:54:27.580Z"
 }

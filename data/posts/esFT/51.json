@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "교과 세특 공유",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "생명과학과 면접 문항 및 출제 근거 공유.",
+  "taggedAt": "2026-08-12T03:32:41.261Z"
 }

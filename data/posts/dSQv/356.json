@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "자유학기 수업",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "생물의 다양성",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "기후생태환경교육 '슬기로운 식물생활'(1학년 생물다양성 단원 명시).",
+  "taggedAt": "2026-08-12T03:26:25.466Z"
 }

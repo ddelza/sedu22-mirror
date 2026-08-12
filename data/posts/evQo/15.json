@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "(고교)지구과학수업 이야기",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "고등학교",
+      "subject": "지구과학Ⅰ",
+      "unit": "대기와 해양의 변화",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "구름 종류 식별 도움 요청.",
+  "taggedAt": "2026-08-12T03:45:53.161Z"
 }

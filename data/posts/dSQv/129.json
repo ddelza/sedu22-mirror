@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "자유학기 수업",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "토론/논술 중심 자유학기 과학 수업 결과물 — 특정 단원 아닌 형식.",
+  "taggedAt": "2026-08-12T03:18:58.493Z"
 }

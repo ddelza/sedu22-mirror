@@ -16,6 +16,15 @@
       "category": "게시판별 분류",
       "topic": "옹알이(익명게시판)",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "고등학교",
+      "subject": "지구과학Ⅰ",
+      "unit": "지구의 형성과 변화",
+      "confidence": "low"
     }
-  ]
+  ],
+  "tagsNote": "지오이드와 우주에서 본 지구 모양이 다른 이유 질문.",
+  "taggedAt": "2026-08-12T04:46:42.185Z"
 }

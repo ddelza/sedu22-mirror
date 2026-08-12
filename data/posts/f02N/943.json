@@ -16,6 +16,15 @@
       "category": "게시판별 분류",
       "topic": "옹알이(익명게시판)",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "학군이 다른 학교로 옮긴 후 생활지도 위주 수업 운영의 어려움 토로.",
+  "taggedAt": "2026-08-12T04:59:41.506Z"
 }

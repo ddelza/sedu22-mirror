@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "(고교)생명과학수업 이야기",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "진로선택과목 성취도 A 관련 수업/평가 전략 공유 — 평가행정 성격.",
+  "taggedAt": "2026-08-12T03:13:59.111Z"
 }

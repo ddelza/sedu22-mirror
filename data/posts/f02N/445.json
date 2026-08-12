@@ -16,6 +16,15 @@
       "category": "게시판별 분류",
       "topic": "옹알이(익명게시판)",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "고등학교",
+      "subject": "화학Ⅰ",
+      "unit": "화학 결합과 물질의 성질",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "액체 상태 흑연의 전기전도성 여부 질문.",
+  "taggedAt": "2026-08-12T04:48:14.913Z"
 }

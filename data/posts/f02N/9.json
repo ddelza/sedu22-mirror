@@ -16,6 +16,13 @@
       "category": "게시판별 분류",
       "topic": "옹알이(익명게시판)",
       "confidence": "high"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "메이커/3D프린팅",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "메이커스 교실(3D프린터/아두이노/코딩) 운영 준비 스트레스 토로.",
+  "taggedAt": "2026-08-12T04:59:41.452Z"
 }

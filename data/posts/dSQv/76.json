@@ -17,6 +17,13 @@
       "category": "게시판별 분류",
       "topic": "자유학기 수업",
       "confidence": "high"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "메이커/3D프린팅",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "학교용 3D 프린터 추천 요청.",
+  "taggedAt": "2026-08-12T03:27:43.437Z"
 }

@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "(고교)물리수업 이야기",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "고등학교",
+      "subject": "물리학Ⅰ",
+      "unit": "파동과 정보통신",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "빛 회절 실험(푸아송의 점) 아이디어.",
+  "taggedAt": "2026-08-12T03:36:53.794Z"
 }

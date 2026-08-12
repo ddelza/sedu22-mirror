@@ -17,6 +17,13 @@
       "category": "게시판별 분류",
       "topic": "수업 Ideas",
       "confidence": "high"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "앱/프로그램",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "유튜브 영상 다운로드 프로그램 사용법 공유.",
+  "taggedAt": "2026-08-12T05:02:24.696Z"
 }

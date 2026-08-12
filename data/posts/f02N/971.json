@@ -16,6 +16,15 @@
       "category": "게시판별 분류",
       "topic": "옹알이(익명게시판)",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "기권과 날씨",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "수은기둥 기울임에 따른 중력효과 감소(기압계 원리) 설명 요청.",
+  "taggedAt": "2026-08-12T05:01:07.844Z"
 }

@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "수업 Ideas",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "학생용/교사용 학습지를 한 파일로 만드는 제작 팁 공유.",
+  "taggedAt": "2026-08-12T05:02:24.682Z"
 }

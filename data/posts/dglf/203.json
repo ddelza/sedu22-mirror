@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "(고교)생명과학수업 이야기",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "고등학교",
+      "subject": "통합과학",
+      "unit": "생태계와 환경",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "온실기체 영상자료 요청(차이나는 클라스 137회).",
+  "taggedAt": "2026-08-12T03:12:26.716Z"
 }

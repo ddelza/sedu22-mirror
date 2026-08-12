@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "(고교)생명과학수업 이야기",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "고등학교",
+      "subject": "생명과학Ⅰ",
+      "unit": "유전",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "NCBI/알파폴드 활용 단백질 구조 탐구 수행평가.",
+  "taggedAt": "2026-08-12T03:13:59.128Z"
 }

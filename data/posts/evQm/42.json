@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "(고교)물리수업 이야기",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "고등학교",
+      "subject": "물리학Ⅰ",
+      "unit": "역학과 에너지",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "수업일기2(평형과 안정성, 당근 이등분 미션) 정리.",
+  "taggedAt": "2026-08-12T03:35:30.469Z"
 }

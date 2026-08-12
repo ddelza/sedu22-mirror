@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "과학쌤의 짤주머니",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "고등학교",
+      "subject": "물리학",
+      "unit": "빛과 물질",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "별의 색-온도 관계(흑체복사, 빈의 변위법칙) 이미지.",
+  "taggedAt": "2026-08-12T04:35:05.635Z"
 }

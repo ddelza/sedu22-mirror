@@ -1,0 +1,312 @@
+<!doctype html>
+<html lang="ko">
+<head>
+<meta charset="utf-8">
+<title>설정 — 재과만(sedu22) 카페 미러</title>
+<script>(function(){try{var t=localStorage.getItem('sedu22_theme');if(t)document.documentElement.setAttribute('data-theme',t);}catch(e){}})();</script>
+<style>
+  * { box-sizing: border-box; }
+
+  :root {
+    --bg: #f5f6f8; --surface: #ffffff; --text: #1a1a1a; --text-muted: #888888;
+    --border: #d0d6e2; --nav-bg: #1a3d7c; --nav-text: #d8e3ff; --accent: #1a3d7c; --accent-soft: #e6ebf5;
+    --danger: #c0392b; --danger-soft: #fbe9e7; --font-body: -apple-system, "Apple SD Gothic Neo", "Malgun Gothic", sans-serif;
+  }
+  :root[data-theme="forest"] { --bg:#f5f8f5; --surface:#ffffff; --text:#1a1a1a; --text-muted:#7d9c8c; --border:#d6e8de; --nav-bg:#2d6a4f; --nav-text:#d2ece1; --accent:#2d6a4f; --accent-soft:#e3f1ea; }
+  :root[data-theme="lavender"] { --bg:#f7f5fb; --surface:#ffffff; --text:#1a1a1a; --text-muted:#8c81a6; --border:#e0daf0; --nav-bg:#5b4b8a; --nav-text:#e3ddf5; --accent:#5b4b8a; --accent-soft:#ece7f7; }
+  :root[data-theme="slate"] { --bg:#f6f6f7; --surface:#ffffff; --text:#1a1a1a; --text-muted:#838c98; --border:#dde1e6; --nav-bg:#3d4a5c; --nav-text:#dbe2ea; --accent:#3d4a5c; --accent-soft:#e7eaee; }
+  :root[data-theme="dark-navy"] { --bg:#1b1f27; --surface:#242a35; --text:#e8e9ec; --text-muted:#adb8c8; --border:#353d4a; --nav-bg:#141821; --nav-text:#b8c9ef; --accent:#7da3e8; --accent-soft:#2a3344; }
+  :root[data-theme="dark-forest"] { --bg:#1a211d; --surface:#232b26; --text:#e6ece8; --text-muted:#a8beaa; --border:#34433a; --nav-bg:#141a17; --nav-text:#bcdfca; --accent:#5fae84; --accent-soft:#26352c; }
+  :root[data-theme="dark-plum"] { --bg:#201a24; --surface:#2a232f; --text:#ece6ef; --text-muted:#bdb3c8; --border:#3d3444; --nav-bg:#18131b; --nav-text:#d8c6e8; --accent:#a87fd0; --accent-soft:#322a3a; }
+  :root[data-theme="apple"] { --bg:#f5f5f7; --surface:#ffffff; --text:#1d1d1f; --text-muted:#6e6e73; --border:#d2d2d7; --nav-bg:#000000; --nav-text:rgba(255,255,255,0.85); --accent:#0066cc; --accent-soft:rgba(0,102,204,0.1); --font-body:-apple-system,"SF Pro Display","SF Pro Text",BlinkMacSystemFont,"Apple SD Gothic Neo","Malgun Gothic",system-ui,sans-serif; }
+  :root[data-theme="claude"] { --bg:#faf9f5; --surface:#f0e9df; --text:#141413; --text-muted:#8a7a65; --border:#ddd4c4; --nav-bg:#181715; --nav-text:#faf9f5; --accent:#cc785c; --accent-soft:#f5ede3; --font-body:"Nanum Myeongjo",Georgia,"Times New Roman","Batang","Apple SD Gothic Neo","Malgun Gothic",serif; }
+  :root[data-theme="notion"] { --bg:#ffffff; --surface:#f6f5f4; --text:#1a1a1a; --text-muted:#787671; --border:#e5e3df; --nav-bg:#0a1530; --nav-text:#ffffff; --accent:#5645d4; --accent-soft:#ede9fa; --font-body:"Noto Sans KR","Segoe UI",-apple-system,BlinkMacSystemFont,"Apple SD Gothic Neo","Malgun Gothic",system-ui,sans-serif; }
+
+  body { font-family: var(--font-body); margin: 0; background: var(--bg); color: var(--text); }
+
+  header { background: var(--nav-bg); color: var(--nav-text); padding: 12px 20px; display: flex; align-items: center; gap: 16px; flex-wrap: wrap; }
+  header h1 { margin: 0; font-size: 16px; font-weight: 600; }
+  header a.back { color: var(--nav-text); opacity: 0.85; text-decoration: none; font-size: 13px; padding: 6px 10px; border-radius: 6px; }
+  header a.back:hover { background: rgba(255,255,255,0.15); opacity: 1; }
+
+  .settings-wrap { display: flex; max-width: 980px; margin: 0 auto; min-height: calc(100vh - 53px); }
+
+  .settings-menu { width: 200px; flex-shrink: 0; padding: 24px 12px; border-right: 1px solid var(--border); }
+  .settings-menu-item {
+    display: block; width: 100%; text-align: left; background: none; border: none; color: var(--text);
+    font-family: inherit; font-size: 14px; padding: 10px 12px; border-radius: 8px; cursor: pointer; margin-bottom: 4px;
+  }
+  .settings-menu-item:hover { background: var(--accent-soft); }
+  .settings-menu-item.active { background: var(--accent); color: var(--nav-text); font-weight: 600; }
+
+  .settings-content { flex: 1; padding: 24px 28px 60px; min-width: 0; }
+  .settings-panel { display: none; }
+  .settings-panel.active { display: block; }
+  .settings-content h2 { font-size: 1.2rem; margin: 0 0 4px; }
+  .settings-content .sub { font-size: 0.85rem; color: var(--text-muted); margin-bottom: 4px; }
+  .note {
+    font-size: 0.8rem; color: var(--text-muted); background: var(--surface); border: 1px solid var(--border);
+    border-radius: 10px; padding: 10px 14px; margin: 14px 0 22px; line-height: 1.6;
+  }
+  .section-label { font-size: 0.85rem; font-weight: 700; color: var(--text-muted); margin: 24px 0 10px; }
+  .section-label:first-of-type { margin-top: 0; }
+
+  .theme-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(150px, 1fr)); gap: 14px; }
+  .theme-card {
+    border: 2px solid var(--border); border-radius: 14px; overflow: hidden; cursor: pointer;
+    background: var(--surface); transition: transform 0.1s, box-shadow 0.1s;
+  }
+  .theme-card:hover { transform: translateY(-2px); box-shadow: 0 4px 12px rgba(0,0,0,0.1); }
+  .theme-card.selected { border-color: var(--accent); box-shadow: 0 0 0 3px var(--accent-soft); }
+  .theme-preview { height: 52px; display: flex; }
+  .theme-preview .nav-strip { flex: 1; }
+  .theme-preview .body-strip { width: 34px; display: flex; align-items: center; justify-content: center; }
+  .theme-preview .accent-dot { width: 15px; height: 15px; border-radius: 50%; }
+  .theme-name { padding: 9px 11px; font-size: 0.85rem; font-weight: 600; display: flex; align-items: center; gap: 6px; color: var(--text); }
+  .theme-name .check { color: var(--accent); font-weight: 700; visibility: hidden; }
+  .theme-card.selected .check { visibility: visible; }
+
+  .storage-actions { display: flex; flex-direction: column; gap: 12px; max-width: 480px; }
+  .storage-action {
+    display: flex; align-items: center; justify-content: space-between; gap: 12px;
+    background: var(--surface); border: 1px solid var(--border); border-radius: 10px; padding: 14px 16px;
+  }
+  .storage-action .label { font-size: 0.92rem; font-weight: 600; }
+  .storage-action .desc { font-size: 0.78rem; color: var(--text-muted); margin-top: 2px; }
+  .btn {
+    border: 1px solid var(--accent); background: var(--accent-soft); color: var(--accent); border-radius: 8px;
+    padding: 8px 14px; font-size: 0.85rem; font-weight: 600; cursor: pointer; font-family: inherit; white-space: nowrap;
+  }
+  .btn:hover { opacity: 0.85; }
+  .btn.danger { border-color: var(--danger); background: var(--danger-soft); color: var(--danger); }
+  .btn.solid { background: var(--accent); color: var(--nav-text); }
+  .btn.solid.danger { background: var(--danger); color: #fff; }
+  .btn.ghost { background: none; }
+
+  #importFileInput { display: none; }
+  #importResultMsg { font-size: 0.8rem; margin-top: 8px; }
+  #importResultMsg.ok { color: var(--accent); }
+  #importResultMsg.err { color: var(--danger); }
+
+  #confirmBg { display: none; position: fixed; inset: 0; background: rgba(0,0,0,.5); z-index: 100; align-items: center; justify-content: center; padding: 20px; }
+  #confirmBg.show { display: flex; }
+  #confirmBox { background: var(--surface); color: var(--text); border-radius: 12px; max-width: 420px; width: 100%; padding: 24px; }
+  #confirmBox h3 { margin: 0 0 10px; font-size: 1.05rem; }
+  #confirmBox ul { margin: 10px 0 18px; padding-left: 20px; font-size: 0.88rem; line-height: 1.6; color: var(--text-muted); }
+  #confirmBox .actions { display: flex; justify-content: flex-end; gap: 8px; }
+
+  @media (max-width: 700px) {
+    .settings-wrap { flex-direction: column; }
+    .settings-menu { width: 100%; display: flex; gap: 4px; border-right: none; border-bottom: 1px solid var(--border); padding: 12px; overflow-x: auto; }
+    .settings-menu-item { width: auto; white-space: nowrap; margin-bottom: 0; }
+  }
+</style>
+</head>
+<body>
+
+<header>
+  <h1>⚙️ 설정</h1>
+  <a class="back" href="explore.html">← 수업자료 둘러보기로 돌아가기</a>
+</header>
+
+<div class="settings-wrap">
+  <aside class="settings-menu">
+    <button class="settings-menu-item active" data-panel="theme">🎨 테마 설정</button>
+    <button class="settings-menu-item" data-panel="storage">💾 로컬 저장</button>
+  </aside>
+
+  <section class="settings-content">
+
+    <div class="settings-panel active" id="panel-theme">
+      <h2>화면 테마</h2>
+      <p class="sub">마음에 드는 색상 테마를 골라보세요.</p>
+      <div class="note">
+        ⚠️ 이 설정은 <b>이 브라우저(이 기기)</b>에만 저장됩니다. 다른 컴퓨터/스마트폰으로 접속하면 기본 테마로 보여요.
+        같은 기기, 같은 브라우저로 다시 들어오면 골라두신 테마가 그대로 적용됩니다.
+      </div>
+
+      <div class="section-label">밝은 테마</div>
+      <div class="theme-grid" id="lightGrid"></div>
+
+      <div class="section-label">어두운 테마</div>
+      <div class="theme-grid" id="darkGrid"></div>
+
+      <div class="section-label">브랜드 테마</div>
+      <div class="theme-grid" id="brandGrid"></div>
+    </div>
+
+    <div class="settings-panel" id="panel-storage">
+      <h2>로컬 저장</h2>
+      <p class="sub">이 기기, 이 브라우저에 저장된 설정값(테마, 장바구니 등)을 관리합니다.</p>
+      <div class="note">
+        ⚠️ 여기서 저장되는 값은 서버가 아니라 <b>이 브라우저에만</b> 남습니다. 브라우저 데이터를 지우거나 다른 기기로
+        바꾸면 사라지므로, 소중한 설정은 <b>내보내기</b>로 파일을 받아두고 필요할 때 <b>불러오기</b>로 복원하세요.
+      </div>
+
+      <div class="storage-actions">
+        <div class="storage-action">
+          <div>
+            <div class="label">⬇️ 설정 내보내기</div>
+            <div class="desc">현재 테마, 장바구니 목록을 파일(.json)로 내려받습니다.</div>
+          </div>
+          <button class="btn" id="exportBtn">내보내기</button>
+        </div>
+
+        <div class="storage-action">
+          <div>
+            <div class="label">⬆️ 설정 불러오기</div>
+            <div class="desc">내보내기 했던 파일을 선택하면 이 기기에 그대로 적용됩니다.</div>
+          </div>
+          <button class="btn" id="importBtn">불러오기</button>
+          <input type="file" id="importFileInput" accept="application/json,.json">
+        </div>
+
+        <div class="storage-action">
+          <div>
+            <div class="label">🗑️ 초기화</div>
+            <div class="desc">이 브라우저에 저장된 모든 설정값을 지웁니다.</div>
+          </div>
+          <button class="btn danger" id="resetBtn">초기화</button>
+        </div>
+      </div>
+
+      <div id="importResultMsg"></div>
+    </div>
+
+  </section>
+</div>
+
+<div id="confirmBg">
+  <div id="confirmBox">
+    <h3>정말 초기화할까요?</h3>
+    <p style="font-size:0.88rem;color:var(--text-muted);margin:0 0 6px;">아래 항목이 이 브라우저에서 모두 삭제됩니다:</p>
+    <ul id="confirmList"></ul>
+    <div class="actions">
+      <button class="btn ghost" id="confirmCancel">취소</button>
+      <button class="btn solid danger" id="confirmOk">초기화</button>
+    </div>
+  </div>
+</div>
+
+<script src="shared.js"></script>
+<script>
+const LOCAL = window.Sedu22Local;
+LOCAL.loadThemeFontIfNeeded();
+
+// ---------------- 좌측 메뉴 ----------------
+document.querySelectorAll('.settings-menu-item').forEach((btn) => {
+  btn.addEventListener('click', () => {
+    document.querySelectorAll('.settings-menu-item').forEach((b) => b.classList.toggle('active', b === btn));
+    document.querySelectorAll('.settings-panel').forEach((p) => p.classList.toggle('active', p.id === 'panel-' + btn.dataset.panel));
+  });
+});
+
+// ---------------- 테마 설정 ----------------
+function currentTheme() { return LOCAL.getTheme(); }
+
+function applyTheme(key) {
+  LOCAL.setTheme(key);
+  LOCAL.loadThemeFontIfNeeded();
+  renderThemeGrids();
+}
+
+function themeCardHtml(t, selected) {
+  return `<div class="theme-card${selected ? ' selected' : ''}" data-theme="${t.key}" data-action="apply-theme">
+    <div class="theme-preview">
+      <div class="nav-strip"></div>
+      <div class="body-strip"><div class="accent-dot"></div></div>
+    </div>
+    <div class="theme-name"><span class="check">✓</span> ${t.name}</div>
+  </div>`;
+}
+
+function renderThemeGrids() {
+  const sel = currentTheme();
+  const THEMES = LOCAL.THEMES;
+  document.getElementById('lightGrid').innerHTML = THEMES.filter(t => t.group === 'light').map(t => themeCardHtml(t, t.key === sel)).join('');
+  document.getElementById('darkGrid').innerHTML = THEMES.filter(t => t.group === 'dark').map(t => themeCardHtml(t, t.key === sel)).join('');
+  document.getElementById('brandGrid').innerHTML = THEMES.filter(t => t.group === 'brand').map(t => themeCardHtml(t, t.key === sel)).join('');
+
+  // 각 카드의 미리보기 색상을 칠한다: <html>의 data-theme을 순간적으로 바꿔가며
+  // getComputedStyle로 읽고 곧바로 원래 값으로 되돌린다(동기 코드라 화면 깜빡임 없음).
+  const root = document.documentElement;
+  const originalTheme = root.getAttribute('data-theme');
+  document.querySelectorAll('.theme-card').forEach((card) => {
+    const key = card.dataset.theme;
+    if (key) root.setAttribute('data-theme', key); else root.removeAttribute('data-theme');
+    const cs = getComputedStyle(root);
+    card.querySelector('.nav-strip').style.background = cs.getPropertyValue('--nav-bg').trim();
+    card.querySelector('.body-strip').style.background = cs.getPropertyValue('--bg').trim();
+    card.querySelector('.accent-dot').style.background = cs.getPropertyValue('--accent').trim();
+  });
+  if (originalTheme) root.setAttribute('data-theme', originalTheme); else root.removeAttribute('data-theme');
+
+  document.querySelectorAll('[data-action="apply-theme"]').forEach((card) => {
+    card.addEventListener('click', () => applyTheme(card.dataset.theme));
+  });
+}
+renderThemeGrids();
+
+// ---------------- 로컬 저장: 내보내기 ----------------
+document.getElementById('exportBtn').addEventListener('click', () => {
+  const data = LOCAL.exportSettings();
+  const blob = new Blob([JSON.stringify(data, null, 2)], { type: 'application/json' });
+  const url = URL.createObjectURL(blob);
+  const a = document.createElement('a');
+  const stamp = new Date().toISOString().slice(0, 10);
+  a.href = url;
+  a.download = `sedu22-mirror-settings-${stamp}.json`;
+  document.body.appendChild(a);
+  a.click();
+  a.remove();
+  URL.revokeObjectURL(url);
+});
+
+// ---------------- 로컬 저장: 불러오기 ----------------
+const importInput = document.getElementById('importFileInput');
+document.getElementById('importBtn').addEventListener('click', () => importInput.click());
+importInput.addEventListener('change', () => {
+  const file = importInput.files && importInput.files[0];
+  if (!file) return;
+  const msgEl = document.getElementById('importResultMsg');
+  const reader = new FileReader();
+  reader.onload = () => {
+    try {
+      const data = JSON.parse(reader.result);
+      LOCAL.importSettings(data);
+      msgEl.textContent = '설정을 불러왔습니다. 화면을 새로고침해서 적용합니다...';
+      msgEl.className = 'ok';
+      setTimeout(() => location.reload(), 700);
+    } catch (e) {
+      msgEl.textContent = '불러오기에 실패했습니다: ' + e.message;
+      msgEl.className = 'err';
+    }
+  };
+  reader.onerror = () => {
+    msgEl.textContent = '파일을 읽을 수 없습니다.';
+    msgEl.className = 'err';
+  };
+  reader.readAsText(file);
+  importInput.value = '';
+});
+
+// ---------------- 로컬 저장: 초기화 ----------------
+document.getElementById('resetBtn').addEventListener('click', () => {
+  document.getElementById('confirmList').innerHTML =
+    LOCAL.MANAGED_KEYS.map((m) => `<li>${m.label}</li>`).join('');
+  document.getElementById('confirmBg').classList.add('show');
+});
+document.getElementById('confirmCancel').addEventListener('click', () => {
+  document.getElementById('confirmBg').classList.remove('show');
+});
+document.getElementById('confirmBg').addEventListener('click', (e) => {
+  if (e.target.id === 'confirmBg') document.getElementById('confirmBg').classList.remove('show');
+});
+document.getElementById('confirmOk').addEventListener('click', () => {
+  LOCAL.resetSettings();
+  document.getElementById('confirmBg').classList.remove('show');
+  location.reload();
+});
+</script>
+</body>
+</html>

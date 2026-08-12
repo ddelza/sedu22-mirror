@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "자유학기 수업",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "화학 반응의 규칙과 에너지 변화",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "오호 캡슐 속 지시약의 산/염기 반응 색변화 실험.",
+  "taggedAt": "2026-08-12T03:24:21.041Z"
 }

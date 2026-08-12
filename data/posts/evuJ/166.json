@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "AI도구 활용하기",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "고등학교",
+      "subject": "물리학",
+      "unit": "빛과 물질",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "아인슈타인-에딩턴(일반상대성이론 검증) 영상 활동지.",
+  "taggedAt": "2026-08-12T03:48:50.882Z"
 }

@@ -17,6 +17,13 @@
       "category": "게시판별 분류",
       "topic": "(고교)물리수업 이야기",
       "confidence": "high"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "메이커/3D프린팅",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "3D프린터 원리와 물리학 연관성 자문 요청.",
+  "taggedAt": "2026-08-12T03:35:30.446Z"
 }

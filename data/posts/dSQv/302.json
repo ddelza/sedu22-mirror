@@ -17,6 +17,13 @@
       "category": "게시판별 분류",
       "topic": "자유학기 수업",
       "confidence": "high"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "앱/프로그램",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "과학신문반 코딩 주제(간단 코딩 어플/게임 활용).",
+  "taggedAt": "2026-08-12T03:24:21.074Z"
 }

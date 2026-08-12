@@ -16,6 +16,15 @@
       "category": "게시판별 분류",
       "topic": "옹알이(익명게시판)",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "고등학교",
+      "subject": "통합과학",
+      "unit": "역학적 시스템",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "중력가속도 변화와 수평 가속 난이도 관계 질문(통합과학).",
+  "taggedAt": "2026-08-12T04:48:14.891Z"
 }

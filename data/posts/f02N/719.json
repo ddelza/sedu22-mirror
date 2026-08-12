@@ -16,6 +16,15 @@
       "category": "게시판별 분류",
       "topic": "옹알이(익명게시판)",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "고등학교",
+      "subject": "지구과학Ⅰ",
+      "unit": "별의 물리량과 스펙트럼",
+      "confidence": "low"
     }
-  ]
+  ],
+  "tagsNote": "LED 조명을 분광기로 관찰 시 연속스펙트럼으로 보이는 이유 질문.",
+  "taggedAt": "2026-08-12T04:54:27.573Z"
 }

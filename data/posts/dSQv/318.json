@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "자유학기 수업",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "진로융합활동 자료(진로교육원 연수 자료) — 특정 단원 아님.",
+  "taggedAt": "2026-08-12T03:26:25.410Z"
 }

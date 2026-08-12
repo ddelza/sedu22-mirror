@@ -16,6 +16,15 @@
       "category": "게시판별 분류",
       "topic": "옹알이(익명게시판)",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "생물의 다양성",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "광학현미경 접안렌즈 방향(관찰 자세) 정확한 사용법 질문.",
+  "taggedAt": "2026-08-12T05:01:07.858Z"
 }

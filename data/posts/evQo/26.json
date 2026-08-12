@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "(고교)지구과학수업 이야기",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "고등학교",
+      "subject": "지구과학Ⅰ",
+      "unit": "별과 외계 행성계",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "천동설-지동설 우주관 비교 시뮬레이션.",
+  "taggedAt": "2026-08-12T03:45:53.173Z"
 }

@@ -16,6 +16,15 @@
       "category": "게시판별 분류",
       "topic": "옹알이(익명게시판)",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "자극과 반응",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "무조건반사/의식적 반응 경로(얼굴 감각) 출제 시 선행학습 위반 여부 문의.",
+  "taggedAt": "2026-08-12T05:01:07.838Z"
 }

@@ -16,6 +16,15 @@
       "category": "게시판별 분류",
       "topic": "옹알이(익명게시판)",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "자극과 반응",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "통점/통각점, 맛세포/미각세포 표기 서답형 정답 인정 여부 문의.",
+  "taggedAt": "2026-08-12T04:48:14.901Z"
 }

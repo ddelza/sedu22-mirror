@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "(고교)생명과학수업 이야기",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "코로나 시기 온라인 수업 준비 관련 소회 — 특정 단원 아님.",
+  "taggedAt": "2026-08-12T03:15:16.332Z"
 }

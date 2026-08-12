@@ -17,6 +17,13 @@
       "category": "게시판별 분류",
       "topic": "(고교)물리수업 이야기",
       "confidence": "high"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "MBL센서",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "무선 센서(MBL 물리 세트) 구입 추천 요청.",
+  "taggedAt": "2026-08-12T03:32:41.281Z"
 }

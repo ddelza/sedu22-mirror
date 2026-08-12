@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "(고교)화학수업 이야기",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "고등학교",
+      "subject": "화학Ⅰ",
+      "unit": "화학의 첫걸음",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "증발 속도 용어 논쟁 후속(EBS 교재 정정 문의).",
+  "taggedAt": "2026-08-12T03:42:56.106Z"
 }

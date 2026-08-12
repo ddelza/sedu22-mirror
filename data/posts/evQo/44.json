@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "(고교)지구과학수업 이야기",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "고등학교",
+      "subject": "통합과학",
+      "unit": "지구 시스템",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "페렐 순환 방향(교과서 vs 지도서 불일치) 질문(통합과학 명시).",
+  "taggedAt": "2026-08-12T03:47:18.769Z"
 }

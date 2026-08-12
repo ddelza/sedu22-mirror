@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "(고교)화학수업 이야기",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "'물질과 에너지' 단원 십자말 퍼즐 자료(현행 단원 인덱스와 정확히 매칭 안 됨).",
+  "taggedAt": "2026-08-12T03:42:56.099Z"
 }

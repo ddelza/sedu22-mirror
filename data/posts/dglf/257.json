@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "(고교)생명과학수업 이야기",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "고등학교",
+      "subject": "생명과학Ⅰ",
+      "unit": "사람의 물질대사",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "생명과학II 효소 형광 실험 수행평가.",
+  "taggedAt": "2026-08-12T03:13:59.126Z"
 }

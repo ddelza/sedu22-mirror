@@ -17,6 +17,13 @@
       "category": "게시판별 분류",
       "topic": "AI도구 활용하기",
       "confidence": "high"
+    },
+    {
+      "category": "과학교사 업무",
+      "topic": "동아리 운영",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "온라인 과학동아리 콘텐츠(부분일식) 고민.",
+  "taggedAt": "2026-08-12T03:47:18.797Z"
 }

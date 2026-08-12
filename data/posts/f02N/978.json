@@ -16,6 +16,13 @@
       "category": "게시판별 분류",
       "topic": "옹알이(익명게시판)",
       "confidence": "high"
+    },
+    {
+      "category": "과학교사 업무",
+      "topic": "과학실 관리",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "과학교사 협의 없이 관리자 승인으로 과학실이 타용도 사용되는 관행 문의.",
+  "taggedAt": "2026-08-12T05:01:07.850Z"
 }

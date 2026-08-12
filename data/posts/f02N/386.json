@@ -16,6 +16,15 @@
       "category": "게시판별 분류",
       "topic": "옹알이(익명게시판)",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "화학 반응에서의 규칙성",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "상한 우유(곰팡이) 질량보존법칙 동기유발 질문.",
+  "taggedAt": "2026-08-12T04:46:42.192Z"
 }

@@ -17,6 +17,13 @@
       "category": "게시판별 분류",
       "topic": "연구하는 교사 (Teacher as Researcher)",
       "confidence": "high"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "생성형 AI 도구",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "재과만 DB와 챗GPT 결합 수업지도안 제작 아이디어.",
+  "taggedAt": "2026-08-12T04:14:05.279Z"
 }

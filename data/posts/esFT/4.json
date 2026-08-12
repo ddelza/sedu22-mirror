@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "교과 세특 공유",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "세특 빅데이터화 아이디어 제안.",
+  "taggedAt": "2026-08-12T03:32:41.214Z"
 }

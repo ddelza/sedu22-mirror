@@ -17,6 +17,13 @@
       "category": "게시판별 분류",
       "topic": "자유학기 수업",
       "confidence": "high"
+    },
+    {
+      "category": "과학교사 업무",
+      "topic": "교원연수",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "학교 자체 과학과 연수 강사 초청 관련 조언 요청.",
+  "taggedAt": "2026-08-12T03:20:18.638Z"
 }

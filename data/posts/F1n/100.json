@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "수업 Ideas",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "힘과 운동",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "무게중심 관련 수업 실험 추천 요청.",
+  "taggedAt": "2026-08-12T05:01:07.872Z"
 }

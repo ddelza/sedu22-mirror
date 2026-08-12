@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "교과 세특 공유",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "생명과학과 합격생 면접 후기(세특 활용 사례).",
+  "taggedAt": "2026-08-12T03:32:41.257Z"
 }

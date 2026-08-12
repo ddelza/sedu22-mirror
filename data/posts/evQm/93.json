@@ -17,6 +17,13 @@
       "category": "게시판별 분류",
       "topic": "(고교)물리수업 이야기",
       "confidence": "high"
+    },
+    {
+      "category": "과학교사 업무",
+      "topic": "과학실 관리",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "오실로스코프/직류교류전원장치 등 과학실 기자재 구입 추천 요청.",
+  "taggedAt": "2026-08-12T03:38:32.832Z"
 }

@@ -16,6 +16,15 @@
       "category": "게시판별 분류",
       "topic": "옹알이(익명게시판)",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "힘과 운동",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "몸무게(체중계 측정값)와 질량의 관계 질문.",
+  "taggedAt": "2026-08-12T04:46:42.215Z"
 }

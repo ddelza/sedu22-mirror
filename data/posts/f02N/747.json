@@ -16,6 +16,13 @@
       "category": "게시판별 분류",
       "topic": "옹알이(익명게시판)",
       "confidence": "high"
+    },
+    {
+      "category": "과학교사 업무",
+      "topic": "동아리 운영",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "천체관측 동아리 지도용 별자리/관측원리 참고도서 추천 요청.",
+  "taggedAt": "2026-08-12T04:55:49.809Z"
 }

@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "과학쌤의 짤주머니",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "운동과 에너지",
+      "confidence": "low"
     }
-  ]
+  ],
+  "tagsNote": "드라마 제목(속도 단위) 소재 물리학자 유머.",
+  "taggedAt": "2026-08-12T04:19:43.119Z"
 }

@@ -17,6 +17,20 @@
       "category": "게시판별 분류",
       "topic": "연구하는 교사 (Teacher as Researcher)",
       "confidence": "high"
+    },
+    {
+      "category": "과학교사 업무",
+      "topic": "교원연수",
+      "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "고등학교",
+      "subject": "통합과학",
+      "unit": "생명 시스템",
+      "confidence": "low"
     }
-  ]
+  ],
+  "tagsNote": "제주 스타브릿지센터 개발 프로그램(미생물, 통합과학 연계) 소개.",
+  "taggedAt": "2026-08-12T04:16:53.939Z"
 }

@@ -17,6 +17,13 @@
       "category": "게시판별 분류",
       "topic": "자유학기 수업",
       "confidence": "high"
+    },
+    {
+      "category": "과학교사 업무",
+      "topic": "동아리 운영",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "환경동아리 쓰레기 관련 구글폼 자료.",
+  "taggedAt": "2026-08-12T03:21:38.477Z"
 }

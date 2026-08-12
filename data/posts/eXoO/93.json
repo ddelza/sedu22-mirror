@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "연구하는 교사 (Teacher as Researcher)",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "기권과 날씨",
+      "confidence": "low"
     }
-  ]
+  ],
+  "tagsNote": "'미세먼지를 줄여라' 공동탐구 교사팀 모집(창의재단).",
+  "taggedAt": "2026-08-12T04:18:08.684Z"
 }

@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "과학쌤의 짤주머니",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "고등학교",
+      "subject": "통합과학",
+      "unit": "생태계와 환경",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "먹이사슬/먹이그물(반딧불이-개구리) 영상.",
+  "taggedAt": "2026-08-12T04:22:41.866Z"
 }

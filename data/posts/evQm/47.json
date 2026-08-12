@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "(고교)물리수업 이야기",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "고등학교",
+      "subject": "통합과학",
+      "unit": "역학적 시스템",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "역학적 시스템 문제(충돌 조건) 질문(통합과학 명시).",
+  "taggedAt": "2026-08-12T03:36:53.761Z"
 }

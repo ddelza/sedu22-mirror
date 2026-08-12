@@ -17,6 +17,13 @@
       "category": "게시판별 분류",
       "topic": "수업 Ideas",
       "confidence": "high"
+    },
+    {
+      "category": "과학교사 업무",
+      "topic": "과학실 관리",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "핫플레이트 조별 사용 시 과학실 전력 다운 주의 안내.",
+  "taggedAt": "2026-08-12T05:02:24.694Z"
 }

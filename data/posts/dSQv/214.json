@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "자유학기 수업",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "생물의 구성과 다양성",
+      "confidence": "low"
     }
-  ]
+  ],
+  "tagsNote": "비즈로 박테리오파지 열쇠고리 만들기(코로나 연계).",
+  "taggedAt": "2026-08-12T03:21:38.488Z"
 }

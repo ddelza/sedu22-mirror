@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "과학쌤의 짤주머니",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "고등학교",
+      "subject": "화학Ⅰ",
+      "unit": "화학 결합과 분자의 세계",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "탄소 동소체/탄소연대측정 소재 언어유희 자료.",
+  "taggedAt": "2026-08-12T04:18:08.742Z"
 }

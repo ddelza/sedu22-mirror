@@ -16,6 +16,13 @@
       "category": "게시판별 분류",
       "topic": "옹알이(익명게시판)",
       "confidence": "high"
+    },
+    {
+      "category": "과학교사 업무",
+      "topic": "과학실 관리",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "과다 보유 유리기구(비커/실린더) 폐기/수거 방법 문의.",
+  "taggedAt": "2026-08-12T04:59:41.501Z"
 }

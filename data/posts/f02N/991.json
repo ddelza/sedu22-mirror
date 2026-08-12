@@ -16,6 +16,15 @@
       "category": "게시판별 분류",
       "topic": "옹알이(익명게시판)",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "열과 우리 생활",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "에어컨 앞 시원함을 느끼는 원리(열의 이동 방식) 질문.",
+  "taggedAt": "2026-08-12T05:01:07.865Z"
 }

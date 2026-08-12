@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "(고교)생명과학수업 이야기",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "고등학교",
+      "subject": "생명과학Ⅰ",
+      "unit": "생명과학의 이해",
+      "confidence": "low"
     }
-  ]
+  ],
+  "tagsNote": "성균관대 K-mooc 생명과학 강의 영상 소개.",
+  "taggedAt": "2026-08-12T03:13:59.143Z"
 }

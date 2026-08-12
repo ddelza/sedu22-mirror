@@ -17,6 +17,13 @@
       "category": "게시판별 분류",
       "topic": "AI도구 활용하기",
       "confidence": "high"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "생성형 AI 도구",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "챗GPT 프롬프트52(GPT가 선호하는 어투/구조).",
+  "taggedAt": "2026-08-12T03:55:07.752Z"
 }

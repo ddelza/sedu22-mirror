@@ -16,6 +16,13 @@
       "category": "게시판별 분류",
       "topic": "옹알이(익명게시판)",
       "confidence": "high"
+    },
+    {
+      "category": "과학교사 업무",
+      "topic": "과학실 관리",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "초보 과학부장의 연간 업무 전반 파악 어려움 토로.",
+  "taggedAt": "2026-08-12T04:59:41.461Z"
 }

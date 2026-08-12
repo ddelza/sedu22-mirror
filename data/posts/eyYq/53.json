@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "과학쌤의 짤주머니",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "화학 반응의 규칙과 에너지 변화",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "구리 산화(녹슴, 국회의사당 지붕) 사례.",
+  "taggedAt": "2026-08-12T04:35:05.653Z"
 }

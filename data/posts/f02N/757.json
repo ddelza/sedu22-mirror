@@ -16,6 +16,13 @@
       "category": "게시판별 분류",
       "topic": "옹알이(익명게시판)",
       "confidence": "high"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "아두이노",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "레고 에듀케이션(스파이크 프라임) 코딩수업 경험 문의.",
+  "taggedAt": "2026-08-12T04:55:49.815Z"
 }

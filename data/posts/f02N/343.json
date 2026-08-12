@@ -16,6 +16,13 @@
       "category": "게시판별 분류",
       "topic": "옹알이(익명게시판)",
       "confidence": "high"
+    },
+    {
+      "category": "과학교사 업무",
+      "topic": "과학 행사",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "과제연구/공모전 명칭 변경 아이디어 요청.",
+  "taggedAt": "2026-08-12T04:45:29.847Z"
 }

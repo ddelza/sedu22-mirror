@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "자유학기 수업",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "재해·재난과 안전",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "방어작용 프로젝트 자료(손소독제 관련, 183 답글).",
+  "taggedAt": "2026-08-12T03:21:38.456Z"
 }

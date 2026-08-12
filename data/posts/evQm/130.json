@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "(고교)물리수업 이야기",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "고등학교",
+      "subject": "물리학",
+      "unit": "힘과 에너지",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "등속원운동 실험(마이크로비트 활용) 수업 및 수행평가.",
+  "taggedAt": "2026-08-12T03:34:06.468Z"
 }

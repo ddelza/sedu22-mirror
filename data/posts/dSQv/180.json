@@ -17,6 +17,13 @@
       "category": "게시판별 분류",
       "topic": "자유학기 수업",
       "confidence": "high"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "메이커/3D프린팅",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "3D펜 추천 요청.",
+  "taggedAt": "2026-08-12T03:20:18.648Z"
 }
