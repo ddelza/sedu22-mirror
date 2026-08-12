@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "수업 Ideas",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "고등학교",
+      "subject": "통합과학",
+      "unit": "지구 시스템",
+      "confidence": "low"
     }
-  ]
+  ],
+  "tagsNote": "지질시대 미등장 교육과정 논의 및 작가되어 탐구하기 수업사례 소개.",
+  "taggedAt": "2026-08-12T08:55:07.525Z"
 }

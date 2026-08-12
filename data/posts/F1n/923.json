@@ -17,6 +17,13 @@
       "category": "게시판별 분류",
       "topic": "수업 Ideas",
       "confidence": "high"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "생성형 AI 도구",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "구글 AI 툴 조합으로 활동지 제작하는 방법 공유.",
+  "taggedAt": "2026-08-12T09:00:30.101Z"
 }

@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "수업 Ideas",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "모둠 역할 소속감을 높이는 모둠만들기 게임 공유.",
+  "taggedAt": "2026-08-12T08:51:15.950Z"
 }

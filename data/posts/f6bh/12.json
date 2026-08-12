@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "2022 개정교육과정",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "2022 개정교육과정 신설 논의 중인 과학 진로교과목 목록 안내.",
+  "taggedAt": "2026-08-12T09:02:58.380Z"
 }

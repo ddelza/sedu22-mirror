@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "수업 Ideas",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "박스주사위를 활용한 단원/개념마무리 게임 소개.",
+  "taggedAt": "2026-08-12T08:49:54.504Z"
 }

@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "수업 Ideas",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "지권의 변화",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "영화 '한반도의 공룡 점박이' 감상 및 공룡 맞추기 학기말 활동 공유.",
+  "taggedAt": "2026-08-12T08:57:43.702Z"
 }

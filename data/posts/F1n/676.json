@@ -17,6 +17,13 @@
       "category": "게시판별 분류",
       "topic": "수업 Ideas",
       "confidence": "high"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "AR/VR",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "메타버스(ZEP) 통합과학 미로탈출 수업 콘텐츠 공유.",
+  "taggedAt": "2026-08-12T08:52:32.348Z"
 }

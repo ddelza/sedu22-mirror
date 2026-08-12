@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "수업 Ideas",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "교사의 역할에 대한 일반적 성찰 의견.",
+  "taggedAt": "2026-08-12T08:41:25.577Z"
 }

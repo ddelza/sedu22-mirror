@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "수업 Ideas",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "중학교 과학 2009개정-2015개정 내용요소 비교자료 공유.",
+  "taggedAt": "2026-08-12T08:48:40.799Z"
 }

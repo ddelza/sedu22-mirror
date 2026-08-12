@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "수업 Ideas",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "물질의 구성",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "친환경 오로라 불꽃 가루(금속 불꽃반응) 제작 및 독성 분석 활동 공유.",
+  "taggedAt": "2026-08-12T08:59:09.263Z"
 }

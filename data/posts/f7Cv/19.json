@@ -17,6 +17,13 @@
       "category": "게시판별 분류",
       "topic": "재과만 talk talk 행사 안내",
       "confidence": "high"
+    },
+    {
+      "category": "과학교사 업무",
+      "topic": "교원연수",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "12월 '재과만 톡톡'(4회) 초대손님 준비 안내.",
+  "taggedAt": "2026-08-12T09:11:50.654Z"
 }

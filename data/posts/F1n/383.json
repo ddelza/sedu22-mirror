@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "수업 Ideas",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "여러 가지 힘",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "탄성력 수업 연계 탱탱볼 만들기 팁 요청.",
+  "taggedAt": "2026-08-12T08:44:53.497Z"
 }

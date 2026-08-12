@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "수업 Ideas",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "태양계",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "개학일 개기월식(정월대보름) 연계 이미지/현수막 자료 공유.",
+  "taggedAt": "2026-08-12T08:59:09.269Z"
 }

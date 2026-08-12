@@ -17,6 +17,13 @@
       "category": "게시판별 분류",
       "topic": "수업 Ideas",
       "confidence": "high"
+    },
+    {
+      "category": "과학교사 업무",
+      "topic": "과학실 관리",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "과학실에 꼭 필요한 물품(코팅기 등) 안내.",
+  "taggedAt": "2026-08-12T08:42:35.650Z"
 }

@@ -17,6 +17,13 @@
       "category": "게시판별 분류",
       "topic": "수업 Ideas",
       "confidence": "high"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "교육용 단말기(태블릿/크롬북)",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "팀즈+갤럭시탭 조합 전자필기장 활용 도전 소개.",
+  "taggedAt": "2026-08-12T08:52:32.375Z"
 }

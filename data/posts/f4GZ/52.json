@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "멘델 프로젝트(2021~)",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "생식과 유전",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "멘델 프로젝트 후속 실내재배용 속성배추 품종 탐색 공유.",
+  "taggedAt": "2026-08-12T09:02:58.373Z"
 }

@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "수업 Ideas",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "미국 대학 교수 제안 기후위기 공동수업 프로젝트 참여 홍보.",
+  "taggedAt": "2026-08-12T09:01:46.570Z"
 }

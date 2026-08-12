@@ -17,6 +17,13 @@
       "category": "게시판별 분류",
       "topic": "수업 Ideas",
       "confidence": "high"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "앱/프로그램",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "실시간 문제풀이/링크공유 수업도구 '클래스툴' 사용 후기 공유.",
+  "taggedAt": "2026-08-12T08:52:32.374Z"
 }

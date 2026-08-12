@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "수업 Ideas",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "과학 소개 및 이름 빙고를 결합한 첫시간 수업 사례 공유.",
+  "taggedAt": "2026-08-12T08:47:26.002Z"
 }

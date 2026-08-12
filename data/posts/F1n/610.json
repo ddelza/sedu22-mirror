@@ -17,6 +17,13 @@
       "category": "게시판별 분류",
       "topic": "수업 Ideas",
       "confidence": "high"
+    },
+    {
+      "category": "과학교사 업무",
+      "topic": "과학 행사",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "발명대회 연계 학기말 발명 아이디어 수업 공유.",
+  "taggedAt": "2026-08-12T08:49:54.505Z"
 }

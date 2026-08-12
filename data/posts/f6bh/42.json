@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "2022 개정교육과정",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "고1 통합과학 수행평가(논술형) 설계 방법 문의.",
+  "taggedAt": "2026-08-12T09:11:50.645Z"
 }

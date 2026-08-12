@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "수업 Ideas",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "학기말/세특 활용 미디어 속 과학 오류 찾기 수업 공유.",
+  "taggedAt": "2026-08-12T08:49:54.493Z"
 }

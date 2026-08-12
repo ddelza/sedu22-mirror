@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "수업 Ideas",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "교사가 먼저 경청하는 교실문화 조성에 대한 생각 공유.",
+  "taggedAt": "2026-08-12T08:55:07.516Z"
 }

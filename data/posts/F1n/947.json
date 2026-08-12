@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "수업 Ideas",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "초등학교 2022개정 교육과정 학년별 적용 시기에 대한 학부모 관점 의문.",
+  "taggedAt": "2026-08-12T09:00:30.113Z"
 }

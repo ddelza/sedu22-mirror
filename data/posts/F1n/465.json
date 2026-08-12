@@ -17,6 +17,13 @@
       "category": "게시판별 분류",
       "topic": "수업 Ideas",
       "confidence": "high"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "앱/프로그램",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "활동수업 소음 자동 감지 소음경보기 타이머 앱 소개.",
+  "taggedAt": "2026-08-12T08:47:25.985Z"
 }

@@ -17,6 +17,13 @@
       "category": "게시판별 분류",
       "topic": "수업 Ideas",
       "confidence": "high"
+    },
+    {
+      "category": "과학교사 업무",
+      "topic": "과학실 관리",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "알코올램프 대체 전기 하이라이트 사용 가능 여부 문의.",
+  "taggedAt": "2026-08-12T08:43:39.840Z"
 }

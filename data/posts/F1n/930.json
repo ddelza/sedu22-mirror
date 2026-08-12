@@ -17,6 +17,20 @@
       "category": "게시판별 분류",
       "topic": "수업 Ideas",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "물질의 구성",
+      "confidence": "high"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "앱/프로그램",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "중2 물질의 구성 단원 구글렌즈 활용 꽃 원자 조사 야외수업 공유.",
+  "taggedAt": "2026-08-12T09:00:30.105Z"
 }

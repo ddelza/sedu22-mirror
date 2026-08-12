@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "수업 Ideas",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "빛과 파동",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "학기말 빛(홀로스펙스 필름) 주제 부스 운영 자료 및 팁 공유.",
+  "taggedAt": "2026-08-12T08:56:23.370Z"
 }

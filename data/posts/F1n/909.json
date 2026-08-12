@@ -17,6 +17,13 @@
       "category": "게시판별 분류",
       "topic": "수업 Ideas",
       "confidence": "high"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "앱/프로그램",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "보기 전용 공유된 구글 도구를 수정 가능하게 바꾸는 방법 안내.",
+  "taggedAt": "2026-08-12T08:59:09.268Z"
 }

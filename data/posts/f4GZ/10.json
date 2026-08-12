@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "멘델 프로젝트(2021~)",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "생식과 유전",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "멘델 프로젝트 4월 중순 파종/모종 진행상황 중간보고.",
+  "taggedAt": "2026-08-12T09:01:46.595Z"
 }

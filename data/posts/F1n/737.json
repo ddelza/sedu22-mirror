@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "수업 Ideas",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "'은혜로운 과학생활' 유튜브를 활용한 자기주도학습 활동 소개.",
+  "taggedAt": "2026-08-12T08:53:47.291Z"
 }

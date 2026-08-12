@@ -17,6 +17,13 @@
       "category": "게시판별 분류",
       "topic": "수업 Ideas",
       "confidence": "high"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "교육용 단말기(태블릿/크롬북)",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "저비용(60만원)으로 구성하는 스마트교실(태블릿) 노하우 공개.",
+  "taggedAt": "2026-08-12T08:47:25.998Z"
 }

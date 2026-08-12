@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "수업 Ideas",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "식당 호출벨을 모둠퀴즈 버저로 활용하는 아이디어 공유.",
+  "taggedAt": "2026-08-12T08:49:54.502Z"
 }

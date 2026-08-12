@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "수업 Ideas",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "발표수업에 활용하기 좋은 유튜브 애니메이션 영상 자료 팁 공유.",
+  "taggedAt": "2026-08-12T08:41:25.581Z"
 }

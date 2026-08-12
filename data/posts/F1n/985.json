@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "수업 Ideas",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "교무실 앞 소규모 투표공간('당근은 언제 죽었을까') 설치 공유.",
+  "taggedAt": "2026-08-12T09:01:46.584Z"
 }

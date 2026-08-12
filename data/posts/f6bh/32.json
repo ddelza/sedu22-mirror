@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "2022 개정교육과정",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "개념기반 탐구학습 관련 에릭 프롬 '소유냐 존재냐' 인용 성찰.",
+  "taggedAt": "2026-08-12T09:11:50.639Z"
 }

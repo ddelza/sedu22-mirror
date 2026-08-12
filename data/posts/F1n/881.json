@@ -17,6 +17,20 @@
       "category": "게시판별 분류",
       "topic": "수업 Ideas",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "태양계",
+      "confidence": "high"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "앱/프로그램",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "바이브코딩으로 제작한 중1 태양계 천체 특징 학습 웹앱 공유.",
+  "taggedAt": "2026-08-12T08:59:09.246Z"
 }

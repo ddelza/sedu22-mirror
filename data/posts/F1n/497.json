@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "수업 Ideas",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "형성평가 문제풀이 시 모둠 토의를 통한 집중력 향상 방법 공유.",
+  "taggedAt": "2026-08-12T08:47:26.009Z"
 }

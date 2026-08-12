@@ -17,6 +17,13 @@
       "category": "게시판별 분류",
       "topic": "수업 Ideas",
       "confidence": "high"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "앱/프로그램",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "발표자/선물 추첨용 회전추첨판(2.1버전) 속도조절 기능 추가 안내.",
+  "taggedAt": "2026-08-12T08:53:47.279Z"
 }

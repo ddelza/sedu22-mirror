@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "수업 Ideas",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "기체의 성질",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "진공실험장치(초코파이/사이다)로 기체 용해도 등을 보여주는 실험 소개.",
+  "taggedAt": "2026-08-12T08:59:09.260Z"
 }

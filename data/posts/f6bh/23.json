@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "2022 개정교육과정",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "2022 개정교육과정(중학교용) 현장교사 의견수렴 요청.",
+  "taggedAt": "2026-08-12T09:11:50.633Z"
 }

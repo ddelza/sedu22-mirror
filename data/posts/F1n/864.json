@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "수업 Ideas",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "학자시 교육과정용 과학적 사고력/윤리적 태도 토론 주제 모음 공유.",
+  "taggedAt": "2026-08-12T08:57:43.704Z"
 }

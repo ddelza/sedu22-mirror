@@ -17,6 +17,13 @@
       "category": "게시판별 분류",
       "topic": "수업 Ideas",
       "confidence": "high"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "AR/VR",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "게더타운을 이용한 수업용 방탈출 콘텐츠 제작 방법 영상 공유.",
+  "taggedAt": "2026-08-12T08:49:54.521Z"
 }

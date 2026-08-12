@@ -17,6 +17,13 @@
       "category": "게시판별 분류",
       "topic": "수업 Ideas",
       "confidence": "high"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "교육용 단말기(태블릿/크롬북)",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "구글 Family Link를 이용한 학생 태블릿 제어(스마트교실) 방법 소개.",
+  "taggedAt": "2026-08-12T08:47:25.997Z"
 }

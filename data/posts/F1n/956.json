@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "수업 Ideas",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "겨울방학 연수에서 소개받은 '빠르게 실패하기' 책 나눔.",
+  "taggedAt": "2026-08-12T09:00:30.115Z"
 }

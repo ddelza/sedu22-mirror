@@ -17,6 +17,13 @@
       "category": "게시판별 분류",
       "topic": "수업 Ideas",
       "confidence": "high"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "메이커/3D프린팅",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "편백나무 조각을 이용한 실루엣 커팅(레이저커팅) 만들기 활동 공유.",
+  "taggedAt": "2026-08-12T08:46:03.989Z"
 }

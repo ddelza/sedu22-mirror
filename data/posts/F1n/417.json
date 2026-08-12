@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "수업 Ideas",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "생리대/생리컵 안전성 관련 학생 대상 이야기 소재 공유.",
+  "taggedAt": "2026-08-12T08:46:03.990Z"
 }

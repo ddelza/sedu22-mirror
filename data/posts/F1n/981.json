@@ -17,6 +17,13 @@
       "category": "게시판별 분류",
       "topic": "수업 Ideas",
       "confidence": "high"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "생성형 AI 도구",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "재과만 자체 제작 AI 수업지도안 생성기 소개.",
+  "taggedAt": "2026-08-12T09:01:46.579Z"
 }

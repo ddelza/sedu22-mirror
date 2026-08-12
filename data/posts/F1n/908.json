@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "수업 Ideas",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "생물의 다양성",
+      "confidence": "low"
     }
-  ]
+  ],
+  "tagsNote": "중1 주제선택 '현미경 사진 작가반' 운영계획 공유.",
+  "taggedAt": "2026-08-12T08:59:09.267Z"
 }

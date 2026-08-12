@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "수업 Ideas",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "물질의 특성",
+      "confidence": "low"
     }
-  ]
+  ],
+  "tagsNote": "물질의 용해 등 광고를 활용한 수업 아이디어 소개.",
+  "taggedAt": "2026-08-12T08:57:43.684Z"
 }

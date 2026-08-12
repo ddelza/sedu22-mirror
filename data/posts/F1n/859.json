@@ -17,6 +17,13 @@
       "category": "게시판별 분류",
       "topic": "수업 Ideas",
       "confidence": "high"
+    },
+    {
+      "category": "과학교사 업무",
+      "topic": "교원연수",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "경남중등화학교육연구회 화학탐구 프로젝트 자료 공동개발 참여 모집.",
+  "taggedAt": "2026-08-12T08:57:43.698Z"
 }

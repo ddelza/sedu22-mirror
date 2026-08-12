@@ -17,6 +17,13 @@
       "category": "게시판별 분류",
       "topic": "수업 Ideas",
       "confidence": "high"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "AR/VR",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "HP Reveal 앱을 이용한 증강현실 제작 방법 소개.",
+  "taggedAt": "2026-08-12T08:47:25.988Z"
 }

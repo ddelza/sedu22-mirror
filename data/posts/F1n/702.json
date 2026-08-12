@@ -17,6 +17,13 @@
       "category": "게시판별 분류",
       "topic": "수업 Ideas",
       "confidence": "high"
+    },
+    {
+      "category": "과학교사 업무",
+      "topic": "동아리 운영",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "중3 대상 식물 동아리 활동자료(7) 공유.",
+  "taggedAt": "2026-08-12T08:52:32.369Z"
 }

@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "2022 개정교육과정",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "2022 교육과정 개념기반 탐구학습의 3가지 질문 유형 설명.",
+  "taggedAt": "2026-08-12T09:11:50.642Z"
 }

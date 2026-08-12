@@ -18,10 +18,10 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": "2015",
-      "schoolLevel": "고등학교",
-      "subject": "물리학Ⅱ",
-      "unit": "시공간과 상대성",
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
       "confidence": "low"
     }
   ],

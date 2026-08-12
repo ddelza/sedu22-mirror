@@ -17,6 +17,13 @@
       "category": "게시판별 분류",
       "topic": "수업 Ideas",
       "confidence": "high"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "앱/프로그램",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "윈도우10 미라캐스트를 이용한 안드로이드폰 화면 미러링 방법 안내.",
+  "taggedAt": "2026-08-12T08:44:53.505Z"
 }

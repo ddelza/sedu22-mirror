@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "수업 Ideas",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "학기말 생태전환교육(물 부족 웹툰 제작) 수업 공유.",
+  "taggedAt": "2026-08-12T08:57:43.700Z"
 }

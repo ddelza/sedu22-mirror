@@ -17,6 +17,13 @@
       "category": "게시판별 분류",
       "topic": "수업 Ideas",
       "confidence": "high"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "앱/프로그램",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "비틀리(bit.ly)를 이용한 한글 링크 단축 방법 공유.",
+  "taggedAt": "2026-08-12T08:52:32.356Z"
 }

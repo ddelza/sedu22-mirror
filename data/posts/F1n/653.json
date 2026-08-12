@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "수업 Ideas",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "학기말 영상+도서 발췌 빈칸 맞추기 과학도서(파란하늘 빨간지구) 소개.",
+  "taggedAt": "2026-08-12T08:51:15.961Z"
 }

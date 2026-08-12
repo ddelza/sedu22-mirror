@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "수업 Ideas",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "영화 '프로젝트 헤일메리' 기반 과학적 탐구방법 수업 아이디어 공유.",
+  "taggedAt": "2026-08-12T09:01:46.576Z"
 }

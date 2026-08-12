@@ -17,6 +17,13 @@
       "category": "게시판별 분류",
       "topic": "수업 Ideas",
       "confidence": "high"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "교육용 단말기(태블릿/크롬북)",
+      "confidence": "low"
     }
-  ]
+  ],
+  "tagsNote": "스마트폰 슈퍼슬로우모션으로 벌 날갯짓 초고속 촬영한 수업활용 아이디어.",
+  "taggedAt": "2026-08-12T08:47:25.981Z"
 }

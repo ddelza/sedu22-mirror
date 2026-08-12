@@ -17,6 +17,13 @@
       "category": "게시판별 분류",
       "topic": "수업 Ideas",
       "confidence": "high"
+    },
+    {
+      "category": "과학교사 업무",
+      "topic": "동아리 운영",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "고등학교 생물실험 동아리 운영 방향 고민.",
+  "taggedAt": "2026-08-12T08:56:23.391Z"
 }

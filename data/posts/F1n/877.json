@@ -17,6 +17,22 @@
       "category": "게시판별 분류",
       "topic": "수업 Ideas",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "기체의 성질",
+      "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "열과 우리 생활",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "보일샤를의 법칙 및 열의 이동(전도/대류/복사) 실생활 사례 짝활동지 공유.",
+  "taggedAt": "2026-08-12T08:57:43.711Z"
 }

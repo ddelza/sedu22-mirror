@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "수업 Ideas",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "교무실 앞 공간을 미니과학관/학습공간으로 조성하는 방법 공유.",
+  "taggedAt": "2026-08-12T08:47:25.995Z"
 }

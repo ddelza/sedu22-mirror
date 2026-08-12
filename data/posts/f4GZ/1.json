@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "멘델 프로젝트(2021~)",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "생식과 유전",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "전국 교사 공동 완두 재배 멘델 유전법칙 검증 프로젝트 소개.",
+  "taggedAt": "2026-08-12T09:01:46.594Z"
 }

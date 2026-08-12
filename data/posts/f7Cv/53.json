@@ -17,6 +17,13 @@
       "category": "게시판별 분류",
       "topic": "재과만 talk talk 행사 안내",
       "confidence": "high"
+    },
+    {
+      "category": "과학교사 업무",
+      "topic": "교원연수",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "재과만 톡톡(재과만 톡톡 20회 드디어 20회(^^) 행사 안내 - 열 받지 말고 줄 수 있는 우리생활) 행사 안내/후기.",
+  "taggedAt": "2026-08-12T09:12:28.031Z"
 }

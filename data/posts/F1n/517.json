@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "수업 Ideas",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "식물과 에너지",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "광합성 영상제작 프로젝트 및 빅히스토리 연계 수업 공유.",
+  "taggedAt": "2026-08-12T08:48:40.810Z"
 }

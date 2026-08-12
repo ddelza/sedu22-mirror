@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "수업 Ideas",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "12월 중3 다양한 활동(영상시청, 마시멜로챌린지 등) 모음 공유.",
+  "taggedAt": "2026-08-12T08:44:53.494Z"
 }

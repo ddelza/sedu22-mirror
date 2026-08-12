@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "수업 Ideas",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "고등학교 과학과제연구 물화생지별 실험주제 참고 사이트 요청.",
+  "taggedAt": "2026-08-12T08:49:54.507Z"
 }

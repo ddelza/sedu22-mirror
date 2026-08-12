@@ -17,6 +17,13 @@
       "category": "게시판별 분류",
       "topic": "수업 Ideas",
       "confidence": "high"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "교육용 단말기(태블릿/크롬북)",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "태블릿 수업 시 교과학습방을 통한 수업 링크 공유 방법 소개.",
+  "taggedAt": "2026-08-12T08:52:32.359Z"
 }

@@ -17,6 +17,13 @@
       "category": "게시판별 분류",
       "topic": "수업 Ideas",
       "confidence": "high"
+    },
+    {
+      "category": "과학교사 업무",
+      "topic": "교원연수",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "수업혁신 관련 교원연수 강사 추천 요청.",
+  "taggedAt": "2026-08-12T08:44:53.504Z"
 }

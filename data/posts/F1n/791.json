@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "수업 Ideas",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "자극과 반응",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "감각기관별 전문가 소주제를 학생이 직접 정하는 직소2 협동학습(1차시) 공유.",
+  "taggedAt": "2026-08-12T08:56:23.363Z"
 }

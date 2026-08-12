@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "수업 Ideas",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "기체의 성질",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "중1 보일법칙/샤를법칙 스탑모션 앱 활용 공개수업 사례 공유.",
+  "taggedAt": "2026-08-12T08:59:09.251Z"
 }

@@ -17,6 +17,13 @@
       "category": "게시판별 분류",
       "topic": "수업 Ideas",
       "confidence": "high"
+    },
+    {
+      "category": "과학교사 업무",
+      "topic": "과학실 관리",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "지능형과학실 전자칠판(OPS 기능 유무) 구매 고민.",
+  "taggedAt": "2026-08-12T09:01:46.591Z"
 }

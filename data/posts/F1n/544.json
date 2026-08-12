@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "수업 Ideas",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "고등학교",
+      "subject": "화학Ⅰ",
+      "unit": "역동적인 화학 반응",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "물의 전기분해와 차아염소산(코로나 방역 약품) 연계 수업 이론 문의.",
+  "taggedAt": "2026-08-12T08:48:40.830Z"
 }

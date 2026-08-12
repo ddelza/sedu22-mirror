@@ -17,6 +17,13 @@
       "category": "게시판별 분류",
       "topic": "수업 Ideas",
       "confidence": "high"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "생성형 AI 도구",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "SUNO AI 노래를 활용한 대단원 도입/마무리 활동 플랫폼 구상 공유.",
+  "taggedAt": "2026-08-12T08:59:09.273Z"
 }

@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "수업 Ideas",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "기후변화 환경도서 '파란하늘 빨간지구' 서평 공유.",
+  "taggedAt": "2026-08-12T08:51:15.987Z"
 }

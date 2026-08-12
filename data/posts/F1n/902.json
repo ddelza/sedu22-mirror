@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "수업 Ideas",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "중2 학기말 복습용 가로세로 낱말퍼즐 자료 공유.",
+  "taggedAt": "2026-08-12T08:59:09.261Z"
 }

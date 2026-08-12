@@ -17,6 +17,13 @@
       "category": "게시판별 분류",
       "topic": "수업 Ideas",
       "confidence": "high"
+    },
+    {
+      "category": "과학교사 업무",
+      "topic": "과학 행사",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "발명의 날 발명품 소개 및 학생 발명 아이디어 발굴 활동 공유.",
+  "taggedAt": "2026-08-12T08:51:15.953Z"
 }

@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "수업 Ideas",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "'사물궁이' 도서를 활용한 학년말 과학 궁금증 해결 수업 공유.",
+  "taggedAt": "2026-08-12T08:59:09.259Z"
 }

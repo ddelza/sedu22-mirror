@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "수업 Ideas",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "기권과 날씨",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "노르망디 상륙작전 기상학 소재 영화 'Pressure' 소개.",
+  "taggedAt": "2026-08-12T09:01:46.577Z"
 }

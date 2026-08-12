@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "수업 Ideas",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "화학 반응의 규칙과 에너지 변화",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "물리변화/화학변화 예시 찾기 아날로그 빙고게임 소개.",
+  "taggedAt": "2026-08-12T08:55:07.507Z"
 }

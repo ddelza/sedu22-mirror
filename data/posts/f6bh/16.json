@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "2022 개정교육과정",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "물질의 구성",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "2022개정 중학교 과학(화학단원) 시안에 대한 현장교사 의견 요청.",
+  "taggedAt": "2026-08-12T09:02:58.383Z"
 }

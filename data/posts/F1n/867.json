@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "수업 Ideas",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "태양계",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "중1 태양계 단원 수행평가(달의 위상, 행성 특징) 아이디어 고민.",
+  "taggedAt": "2026-08-12T08:57:43.706Z"
 }

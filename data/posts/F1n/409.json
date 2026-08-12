@@ -17,6 +17,13 @@
       "category": "게시판별 분류",
       "topic": "수업 Ideas",
       "confidence": "high"
+    },
+    {
+      "category": "과학교사 업무",
+      "topic": "과학실 관리",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "통합과학 예산(1500만원) 교구 구입 품목 문의.",
+  "taggedAt": "2026-08-12T08:46:03.987Z"
 }

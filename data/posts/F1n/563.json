@@ -17,6 +17,13 @@
       "category": "게시판별 분류",
       "topic": "수업 Ideas",
       "confidence": "high"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "교육용 단말기(태블릿/크롬북)",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "온라인수업 대비 태블릿-학교컴퓨터 연결용 무선 미러링기기 추천 요청.",
+  "taggedAt": "2026-08-12T08:48:40.842Z"
 }

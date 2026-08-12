@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "수업 Ideas",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "시각자료 제작이 어려운 학생을 위한 초간단 인포그래픽 만들기 활동 공유.",
+  "taggedAt": "2026-08-12T08:55:07.518Z"
 }

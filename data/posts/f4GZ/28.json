@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "멘델 프로젝트(2021~)",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "생식과 유전",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "초파리 실험 1단계(암수 구분 및 격리) 진행상황 공유.",
+  "taggedAt": "2026-08-12T09:01:46.606Z"
 }

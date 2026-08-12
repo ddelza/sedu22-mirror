@@ -17,6 +17,13 @@
       "category": "게시판별 분류",
       "topic": "수업 Ideas",
       "confidence": "high"
+    },
+    {
+      "category": "과학교사 업무",
+      "topic": "과학실 관리",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "2022개정 중1,2 탐구활동 실험물품 정리 자료(교구기준안) 공유.",
+  "taggedAt": "2026-08-12T08:59:09.264Z"
 }

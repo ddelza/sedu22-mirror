@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "수업 Ideas",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "고등학교",
+      "subject": "생명과학Ⅰ",
+      "unit": "항상성과 몸의 조절",
+      "confidence": "low"
     }
-  ]
+  ],
+  "tagsNote": "고혈압 등 신체 변화를 컵 모형으로 표현하는 수업모형 자료 공유.",
+  "taggedAt": "2026-08-12T08:56:23.386Z"
 }

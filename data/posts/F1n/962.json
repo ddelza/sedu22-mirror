@@ -17,6 +17,13 @@
       "category": "게시판별 분류",
       "topic": "수업 Ideas",
       "confidence": "high"
+    },
+    {
+      "category": "과학교사 업무",
+      "topic": "동아리 운영",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "환경동아리 기후위기 대응 독서반 첫 시간(개구리의 날 홍보) 활동 공유.",
+  "taggedAt": "2026-08-12T09:00:30.120Z"
 }

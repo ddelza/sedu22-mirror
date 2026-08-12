@@ -17,6 +17,13 @@
       "category": "게시판별 분류",
       "topic": "수업 Ideas",
       "confidence": "high"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "앱/프로그램",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "학생 활동 사진 업로드/추천용 에듀테크(패들렛/띵커벨) 추천 요청.",
+  "taggedAt": "2026-08-12T08:57:43.690Z"
 }

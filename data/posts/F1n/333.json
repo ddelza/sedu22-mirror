@@ -17,6 +17,13 @@
       "category": "게시판별 분류",
       "topic": "수업 Ideas",
       "confidence": "high"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "앱/프로그램",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "모둠뽑기용 동물달리기(swf) 프로그램 공유.",
+  "taggedAt": "2026-08-12T08:43:39.828Z"
 }

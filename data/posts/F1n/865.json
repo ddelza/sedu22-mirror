@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "수업 Ideas",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "물질의 구성",
+      "confidence": "low"
     }
-  ]
+  ],
+  "tagsNote": "학기말 학년 전체 프로그램(브레인 아카데미+원소력) 구상 공유.",
+  "taggedAt": "2026-08-12T08:57:43.704Z"
 }

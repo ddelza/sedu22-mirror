@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "수업 Ideas",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "고등학교 학기말 수업량 유연화 주간 6차시 질문수업 강좌 공유.",
+  "taggedAt": "2026-08-12T08:57:43.709Z"
 }

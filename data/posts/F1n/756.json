@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "수업 Ideas",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "생명과학 신규교사의 강의식 수업 탈피 관련 조언 요청.",
+  "taggedAt": "2026-08-12T08:55:07.506Z"
 }

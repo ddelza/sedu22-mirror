@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "수업 Ideas",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "고등학교",
+      "subject": "생명과학Ⅰ",
+      "unit": "항상성과 몸의 조절",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "삼투압 개념을 쉽게 설명하는 방법 고민.",
+  "taggedAt": "2026-08-12T08:42:35.639Z"
 }

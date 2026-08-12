@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "수업 Ideas",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "김홍도 '씨름' 그림을 활용한 개학 초 흥미유발 자료 공유.",
+  "taggedAt": "2026-08-12T08:49:54.480Z"
 }

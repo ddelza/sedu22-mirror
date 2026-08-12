@@ -17,6 +17,20 @@
       "category": "게시판별 분류",
       "topic": "수업 Ideas",
       "confidence": "high"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "생성형 AI 도구",
+      "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "고등학교",
+      "subject": "통합과학",
+      "unit": "물질의 규칙성과 결합",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "고1 통합과학 Askup 챗봇 활용 '나와 닮은 원소 찾기' 수업 아이디어 공유.",
+  "taggedAt": "2026-08-12T08:52:32.362Z"
 }

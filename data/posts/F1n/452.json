@@ -17,6 +17,13 @@
       "category": "게시판별 분류",
       "topic": "수업 Ideas",
       "confidence": "high"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "앱/프로그램",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "갤럭시 스마트폰 미러링 실물화상기 앱 가로모드 지원 관련 팁.",
+  "taggedAt": "2026-08-12T08:46:04.009Z"
 }

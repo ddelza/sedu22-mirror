@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "수업 Ideas",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "인간형 로봇 관련 법제화 카드뉴스 기반 토론 소재 공유.",
+  "taggedAt": "2026-08-12T08:43:39.817Z"
 }

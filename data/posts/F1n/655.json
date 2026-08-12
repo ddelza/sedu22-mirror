@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "수업 Ideas",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "EBSi 기출문제를 활용한 학생 주도 문제풀이 도전활동 소개.",
+  "taggedAt": "2026-08-12T08:51:15.962Z"
 }

@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "수업 Ideas",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "고등학교",
+      "subject": "화학Ⅰ",
+      "unit": "원자의 세계",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "주기율표(전자껍질, 원자가전자) 관련 유튜브 영상 추천.",
+  "taggedAt": "2026-08-12T08:59:09.247Z"
 }

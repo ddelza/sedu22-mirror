@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "수업 Ideas",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "해외 과학캠프(캄보디아) 준비용 초간단 CD팽이 만들기 프로그램 검토.",
+  "taggedAt": "2026-08-12T08:55:07.530Z"
 }

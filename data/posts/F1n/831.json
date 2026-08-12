@@ -17,6 +17,13 @@
       "category": "게시판별 분류",
       "topic": "수업 Ideas",
       "confidence": "high"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "생성형 AI 도구",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "AI/디지털/에듀테크 관련 수업자료(인공지능 융합 교육과정 설계안) 공유.",
+  "taggedAt": "2026-08-12T08:56:23.391Z"
 }

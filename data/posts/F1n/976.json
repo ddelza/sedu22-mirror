@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "수업 Ideas",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "빛과 파동",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "중2 빛의 굴절 원리 2인3각 체험 활동 공유.",
+  "taggedAt": "2026-08-12T09:01:46.575Z"
 }

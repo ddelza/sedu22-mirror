@@ -17,6 +17,13 @@
       "category": "게시판별 분류",
       "topic": "수업 Ideas",
       "confidence": "high"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "앱/프로그램",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "교과서 이미지 분류와 바이브코딩 카드뒤집기 결합 복습 활동(3학년) 공유.",
+  "taggedAt": "2026-08-12T08:59:09.255Z"
 }

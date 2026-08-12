@@ -17,6 +17,18 @@
       "category": "게시판별 분류",
       "topic": "수업 Ideas",
       "confidence": "high"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "AR/VR",
+      "confidence": "high"
+    },
+    {
+      "category": "과학교사 업무",
+      "topic": "과학실 관리",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "ZEP 메타버스 기반 실험실 안전교육 수업(V2.0) 업데이트 안내.",
+  "taggedAt": "2026-08-12T08:51:15.964Z"
 }

@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "수업 Ideas",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "학기말 실험재료비 활용 다양한 미니실험(열기구, 편광모자이크 등) 모음 공유.",
+  "taggedAt": "2026-08-12T08:52:32.348Z"
 }

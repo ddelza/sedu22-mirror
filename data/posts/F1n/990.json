@@ -17,6 +17,13 @@
       "category": "게시판별 분류",
       "topic": "수업 Ideas",
       "confidence": "high"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "생성형 AI 도구",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "진로 탐구보고서 소재 발굴에 AI를 활용하는 학생 사례 공유.",
+  "taggedAt": "2026-08-12T09:01:46.589Z"
 }

@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "수업 Ideas",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "학습지 검사 시 엄지척/엄지꽝 도장 피드백 방식 공유.",
+  "taggedAt": "2026-08-12T08:55:07.505Z"
 }

@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "수업 Ideas",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "생식과 유전",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "완두콩 키우기 키트를 이용한 멘델법칙 검증 활동 경험 공유.",
+  "taggedAt": "2026-08-12T08:49:54.501Z"
 }

@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "수업 Ideas",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "중1 1단원 과학탐구 설계 수업(패들렛 활용) 진행 후기 공유.",
+  "taggedAt": "2026-08-12T09:00:30.104Z"
 }

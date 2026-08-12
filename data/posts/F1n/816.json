@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "수업 Ideas",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "고등학교",
+      "subject": "물리학Ⅰ",
+      "unit": "역학과 에너지",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "예비 고2 물리학 보충수업(뉴턴역학/전자기학/파동) 아이디어 요청.",
+  "taggedAt": "2026-08-12T08:56:23.381Z"
 }

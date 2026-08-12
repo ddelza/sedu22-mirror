@@ -17,6 +17,13 @@
       "category": "게시판별 분류",
       "topic": "수업 Ideas",
       "confidence": "high"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "생성형 AI 도구",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "제미나이 나노바나나로 만든 만화를 활용한 수업 관심끌기 사례 공유.",
+  "taggedAt": "2026-08-12T09:00:30.098Z"
 }

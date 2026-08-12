@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "수업 Ideas",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "뇌과학 서적 기반 5분 단위 수업 활동 아이디어 모음.",
+  "taggedAt": "2026-08-12T08:42:35.633Z"
 }

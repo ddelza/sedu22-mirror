@@ -17,6 +17,13 @@
       "category": "게시판별 분류",
       "topic": "수업 Ideas",
       "confidence": "high"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "앱/프로그램",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "개인과제 제출방(포트폴리오) 운영 방법 소개.",
+  "taggedAt": "2026-08-12T08:52:32.358Z"
 }

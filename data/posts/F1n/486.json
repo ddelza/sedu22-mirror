@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "수업 Ideas",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "고등학교",
+      "subject": "생명과학Ⅰ",
+      "unit": "생명과학의 이해",
+      "confidence": "low"
     }
-  ]
+  ],
+  "tagsNote": "영화 '가타카' 학습지 자료 뒤늦은 공유.",
+  "taggedAt": "2026-08-12T08:47:26.001Z"
 }

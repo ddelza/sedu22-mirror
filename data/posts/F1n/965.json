@@ -17,6 +17,13 @@
       "category": "게시판별 분류",
       "topic": "수업 Ideas",
       "confidence": "high"
+    },
+    {
+      "category": "과학교사 업무",
+      "topic": "과학 행사",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "전교생 대상 탄소중립 환경공모전(교내대회) 운영 및 작품 소개.",
+  "taggedAt": "2026-08-12T09:00:30.123Z"
 }

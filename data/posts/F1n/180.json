@@ -17,6 +17,13 @@
       "category": "게시판별 분류",
       "topic": "수업 Ideas",
       "confidence": "high"
+    },
+    {
+      "category": "과학교사 업무",
+      "topic": "동아리 운영",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "체험 위주 과학동아리 활동장소 추천 요청.",
+  "taggedAt": "2026-08-12T08:41:25.554Z"
 }

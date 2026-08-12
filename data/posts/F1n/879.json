@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "수업 Ideas",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "학년말 전단원 복습용 교과서 이미지 분류 활동(2,3학년) 공유.",
+  "taggedAt": "2026-08-12T08:59:09.243Z"
 }

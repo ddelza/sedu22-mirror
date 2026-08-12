@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "멘델 프로젝트(2021~)",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "생식과 유전",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "멘델 프로젝트를 수행하는 교육적 의의에 대한 동료교사 논의.",
+  "taggedAt": "2026-08-12T09:02:58.371Z"
 }

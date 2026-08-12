@@ -17,6 +17,13 @@
       "category": "게시판별 분류",
       "topic": "재과만 talk talk 행사 안내",
       "confidence": "high"
+    },
+    {
+      "category": "과학교사 업무",
+      "topic": "교원연수",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "재과만 톡톡(재과만톡톡 26회 행사 안내 - 재과만 바캉스-과학교사의 여행지 추천) 행사 안내/후기.",
+  "taggedAt": "2026-08-12T09:12:28.038Z"
 }

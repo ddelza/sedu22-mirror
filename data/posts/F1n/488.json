@@ -17,6 +17,13 @@
       "category": "게시판별 분류",
       "topic": "수업 Ideas",
       "confidence": "high"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "앱/프로그램",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "태블릿 모둠수업용 가상실험 스마트폰 앱 모음 제작 공유.",
+  "taggedAt": "2026-08-12T08:47:26.003Z"
 }

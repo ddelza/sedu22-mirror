@@ -17,6 +17,13 @@
       "category": "게시판별 분류",
       "topic": "수업 Ideas",
       "confidence": "high"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "앱/프로그램",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "이미지 추가 기능이 포함된 학습용 도블게임 제작 프로그램(2.0) 소개.",
+  "taggedAt": "2026-08-12T09:01:46.585Z"
 }
