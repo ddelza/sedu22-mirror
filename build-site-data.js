@@ -1,23 +1,37 @@
 // data/posts/**/*.json (태그 포함) + curriculum/*_ai.md(성취기준 문장)을 합쳐
-// explore.html이 그대로 <script src>로 불러 쓸 수 있는 site-data.js를 생성한다.
+// explore.html이 fetch()로 불러 쓸 수 있는 site-data/ 폴더(게시판별 JSON + manifest.json)를 생성한다.
 // 태그 백필이 더 진행되면 이 스크립트만 다시 돌리면 됨(AI 호출 없음, 순수 파일 처리).
+//
+// 예전에는 전체 게시글을 site-data.js 한 파일(75MB+, 한 줄짜리)에 몰아넣었는데,
+// 커밋할 때마다 git이 이 파일 전체를 거의 델타 압축 없이 새로 저장해서 저장소가 급격히
+// 불어났다. 게시판별로 쪼개서 각 파일을 사람이 읽을 수 있게(줄바꿈 있게) 저장하면
+// 실제로 바뀐 게시판만 diff가 발생해서 이 문제가 해결된다.
 const fs = require('fs');
 const path = require('path');
 
 const ROOT = __dirname;
 const POSTS_DIR = path.join(ROOT, 'data', 'posts');
 const CURRICULUM_DIR = path.join(ROOT, 'curriculum');
+const SITE_DATA_DIR = path.join(ROOT, 'site-data');
 
-// ---------- 1. 게시글 로드 ----------
-function loadPosts() {
-  const posts = [];
+// created "YY.MM.DD" 기준 최신순 정렬 (파싱 실패하면 맨 뒤로)
+function sortKey(p) {
+  const m = (p.created || '').match(/^(\d{2})\.(\d{2})\.(\d{2})/);
+  if (!m) return '000000';
+  return m[1] + m[2] + m[3];
+}
+
+// ---------- 1. 게시글 로드 (게시판별로 묶어서 반환) ----------
+function loadPostsByBoard() {
+  const byBoard = new Map(); // fldid -> { board, posts: [] }
   for (const fldid of fs.readdirSync(POSTS_DIR)) {
     const boardDir = path.join(POSTS_DIR, fldid);
     if (!fs.statSync(boardDir).isDirectory()) continue;
     for (const f of fs.readdirSync(boardDir)) {
       if (!f.endsWith('.json')) continue;
       const post = JSON.parse(fs.readFileSync(path.join(boardDir, f), 'utf8'));
-      posts.push({
+      if (!byBoard.has(fldid)) byBoard.set(fldid, { board: post.boardName, posts: [] });
+      byBoard.get(fldid).posts.push({
         id: `${post.fldid}-${post.dataid}`,
         fldid: post.fldid,
         board: post.boardName,
@@ -32,14 +46,10 @@ function loadPosts() {
       });
     }
   }
-  // created "YY.MM.DD" 기준 최신순 정렬 (파싱 실패하면 맨 뒤로)
-  function sortKey(p) {
-    const m = (p.created || '').match(/^(\d{2})\.(\d{2})\.(\d{2})/);
-    if (!m) return '000000';
-    return m[1] + m[2] + m[3];
+  for (const entry of byBoard.values()) {
+    entry.posts.sort((a, b) => sortKey(b).localeCompare(sortKey(a)));
   }
-  posts.sort((a, b) => sortKey(b).localeCompare(sortKey(a)));
-  return posts;
+  return byBoard;
 }
 
 // ---------- 2. 교육과정 트리 + 성취기준 문장 추출 ----------
@@ -186,15 +196,41 @@ function buildTree() {
   return tree;
 }
 
-// ---------- 3. 조립 & 저장 ----------
-const posts = loadPosts();
+// ---------- 3. 조립 & 저장 (게시판별 JSON + manifest.json) ----------
+const byBoard = loadPostsByBoard();
 const tree = buildTree();
 
-const taggedCount = posts.filter((p) => p.tags && p.tags.length > 0).length;
-const unclassifiedCount = posts.filter((p) => p.tags && p.tags.some((t) => t.unit === '미분류')).length;
+let totalPosts = 0, taggedCount = 0, unclassifiedCount = 0, totalBytes = 0;
+const boards = [];
 
-const out = `window.SITE_DATA = ${JSON.stringify({ posts, tree, generatedAt: new Date().toISOString() }, null, 0)};\n`;
-fs.writeFileSync(path.join(ROOT, 'site-data.js'), out);
+// 이전 실행에서 남은 게시판 파일이 있으면(게시판 삭제/fldid 변경 등) 정리하고 새로 쓴다.
+fs.mkdirSync(SITE_DATA_DIR, { recursive: true });
+for (const f of fs.readdirSync(SITE_DATA_DIR)) {
+  if (f.endsWith('.json')) fs.unlinkSync(path.join(SITE_DATA_DIR, f));
+}
 
-console.log(`게시글 ${posts.length}건 (태그있음 ${taggedCount}건, 그중 미분류 ${unclassifiedCount}건)`);
-console.log(`site-data.js 생성 완료 (${(out.length / 1024 / 1024).toFixed(1)} MB)`);
+for (const [fldid, { board, posts }] of [...byBoard.entries()].sort((a, b) => a[0].localeCompare(b[0]))) {
+  totalPosts += posts.length;
+  for (const p of posts) {
+    if (p.tags && p.tags.length > 0) {
+      taggedCount++;
+      if (p.tags.some((t) => t.unit === '미분류')) unclassifiedCount++;
+    }
+  }
+  // indent 2로 사람이 읽을 수 있게 저장 -> 다음에 태그 몇 개만 바뀌어도 git diff가 해당 줄만 잡아낸다.
+  const json = JSON.stringify(posts, null, 2) + '\n';
+  fs.writeFileSync(path.join(SITE_DATA_DIR, `${fldid}.json`), json);
+  totalBytes += Buffer.byteLength(json);
+  boards.push({ fldid, board, count: posts.length });
+}
+
+const manifest = { boards, tree, generatedAt: new Date().toISOString() };
+const manifestJson = JSON.stringify(manifest, null, 2) + '\n';
+fs.writeFileSync(path.join(SITE_DATA_DIR, 'manifest.json'), manifestJson);
+
+// 예전 산출물(site-data.js)이 남아있으면 explore.html이 실수로 그걸 계속 읽는 일이 없도록 지운다.
+const legacyPath = path.join(ROOT, 'site-data.js');
+if (fs.existsSync(legacyPath)) fs.unlinkSync(legacyPath);
+
+console.log(`게시글 ${totalPosts}건 (태그있음 ${taggedCount}건, 그중 미분류 ${unclassifiedCount}건), 게시판 ${boards.length}개`);
+console.log(`site-data/ 생성 완료 (게시판 JSON 합계 ${(totalBytes / 1024 / 1024).toFixed(1)} MB + manifest.json)`);

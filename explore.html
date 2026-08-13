@@ -169,12 +169,25 @@
 </div>
 
 <script src="shared.js"></script>
-<script src="site-data.js"></script>
-<script>
+<script type="module">
 const LOCAL = window.Sedu22Local;
 LOCAL.loadThemeFontIfNeeded();
 
-const { posts, tree, generatedAt } = window.SITE_DATA;
+// site-data.js(75MB+ 단일 파일) 대신 게시판별로 쪼갠 site-data/*.json을 병렬로 불러와 합친다.
+// (build-site-data.js가 게시판마다 하나씩 만들어둔 파일 + manifest.json)
+const manifest = await (await fetch('site-data/manifest.json')).json();
+const boardPosts = await Promise.all(
+  manifest.boards.map((b) => fetch(`site-data/${b.fldid}.json`).then((r) => r.json()))
+);
+const posts = boardPosts.flat();
+// 게시판별로는 이미 최신순 정렬되어 있으므로, 합친 뒤 전체 기준으로 다시 정렬한다.
+function sortKey(p) {
+  const m = (p.created || '').match(/^(\d{2})\.(\d{2})\.(\d{2})/);
+  return m ? m[1] + m[2] + m[3] : '000000';
+}
+posts.sort((a, b) => sortKey(b).localeCompare(sortKey(a)));
+const tree = manifest.tree;
+const generatedAt = manifest.generatedAt;
 const PAGE_SIZE = 20;
 
 let state = { view: 'home', page: 1, filter: null }; // filter: {curriculumYear,schoolLevel,subject,unit} or {unit:'미분류'} or null

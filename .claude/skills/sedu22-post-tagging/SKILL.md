@@ -14,7 +14,7 @@ description: Continue tagging sedu22-mirror cafe posts with Korean science curri
 1. `node scripts/next-batch.js [배치크기]` — 아직 `tags` 필드가 없는 글을 배치크기만큼(기본 40) 골라서 `scratch/batch.json`에 `{id, board, title, content}` 형태로 저장하고, 전체 남은 미태깅 건수를 출력한다.
 2. **네가 `scratch/batch.json`을 읽고, 아래 "분류 규칙"에 따라 각 글을 판단한다.** 배치 전체를 한 번에 판단해서 `scratch/result.json`에 `[{id, tags, tagsNote}, ...]` 배열로 써라(Write 툴 사용).
 3. `node scripts/apply-batch.js` — `scratch/result.json`을 읽어서 각 게시글 JSON 파일에 `tags`/`tagsNote`/`taggedAt`을 써넣는다. 이미 태깅된 파일은 자동으로 건너뛴다(안전장치).
-4. **`node build-site-data.js`는 사용자가 명시적으로 요청하기 전까지 돌리지 않는다.** (2026-08-12부터 방침 변경 — 예전에는 배치마다 즉시 반영했지만, 사용자가 "내가 시키기 전에는 사이트 재빌드하지 말고 데이터만 쌓아둬라"고 지시함.) 태깅 결과는 `data/posts/*.json`에 계속 쌓이고, `curriculum/unit-correlations.json`(아래 "상관계수 테이블" 절 참고)도 계속 갱신하되, `site-data.js`/`explore.html` 반영과 git 커밋·푸시는 사용자가 "이제 반영해줘"라고 할 때만 한다.
+4. **`node build-site-data.js`는 사용자가 명시적으로 요청하기 전까지 돌리지 않는다.** (2026-08-12부터 방침 변경 — 예전에는 배치마다 즉시 반영했지만, 사용자가 "내가 시키기 전에는 사이트 재빌드하지 말고 데이터만 쌓아둬라"고 지시함.) 태깅 결과는 `data/posts/*.json`에 계속 쌓이고, `curriculum/unit-correlations.json`(아래 "상관계수 테이블" 절 참고)도 계속 갱신하되, `site-data/`(게시판별 JSON + manifest.json, 2026-08-13부터 `site-data.js` 단일 파일에서 이 구조로 변경됨 — git 커밋 용량 문제 때문)/`explore.html` 반영과 git 커밋·푸시는 사용자가 "이제 반영해줘"라고 할 때만 한다.
 5. 1~3을 반복한다(4는 보류). `next-batch.js`가 출력하는 "전체 남은 미태깅" 숫자가 0이 될 때까지, 또는 사용자가 그만하라고 할 때까지.
 
 한 배치(40건)를 처리할 때마다 남은 건수를 사용자에게 짧게 알려주고 계속 진행해라. 수천 건 단위 작업이니 중간에 매번 "계속할까요?"라고 묻지 말고, 사용자가 멈추라고 하기 전까지는 계속 배치를 돌려라. 다만 세션이 길어져 context가 걱정되면 몇 배치마다 진행 상황을 요약해서 알려줘도 된다.
