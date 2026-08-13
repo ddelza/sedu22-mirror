@@ -19,13 +19,13 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
+      "curriculumYear": "2022",
+      "schoolLevel": "고등학교",
+      "subject": "과학의 역사와 문화",
       "unit": "미분류",
       "confidence": "medium"
     }
   ],
-  "tagsNote": "천동설/지동설 소재 애니메이션(과학사 수업 활용) 소개.",
-  "taggedAt": "2026-08-12T13:40:41.894Z"
+  "tagsNote": "천동설-지동설 전환을 다룬 애니메이션 '지.지구의 운동에 대하여' 시청 소개.",
+  "taggedAt": "2026-08-13T13:57:29.841Z"
 }

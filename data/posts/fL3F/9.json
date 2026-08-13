@@ -19,13 +19,13 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
-      "confidence": "medium"
+      "curriculumYear": "2022",
+      "schoolLevel": "고등학교",
+      "subject": "전자기와 양자",
+      "unit": "양자와 미시세계",
+      "confidence": "high"
     }
   ],
-  "tagsNote": "정사영으로 불확정성 원리를 이해하는 심화 칼럼(4화).",
-  "taggedAt": "2026-08-12T13:40:41.891Z"
+  "tagsNote": "정사영 개념으로 불확정성 원리를 재해석하는 연재글(네번째 이야기).",
+  "taggedAt": "2026-08-13T13:57:29.847Z"
 }

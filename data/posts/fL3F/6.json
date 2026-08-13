@@ -19,13 +19,13 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
-      "confidence": "medium"
+      "curriculumYear": "2022",
+      "schoolLevel": "고등학교",
+      "subject": "전자기와 양자",
+      "unit": "양자와 미시세계",
+      "confidence": "high"
     }
   ],
-  "tagsNote": "양자역학 학습 중 생기는 오개념 정리 칼럼.",
-  "taggedAt": "2026-08-12T13:40:41.888Z"
+  "tagsNote": "양자역학을 공부하며 생기는 대표적 오개념들을 정리한 글.",
+  "taggedAt": "2026-08-13T13:57:29.846Z"
 }

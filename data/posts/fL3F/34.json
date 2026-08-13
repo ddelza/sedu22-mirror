@@ -21,11 +21,11 @@
     {
       "curriculumYear": null,
       "schoolLevel": null,
-      "subject": null,
+      "subject": "지구과학",
       "unit": "미분류",
-      "confidence": "medium"
+      "confidence": "low"
     }
   ],
-  "tagsNote": "지구본을 이용한 에라토스테네스 실험 방법 문의.",
-  "taggedAt": "2026-08-12T13:39:02.249Z"
+  "tagsNote": "지구본(지구모형)으로 에라토스테네스 지구크기 측정 실험을 함께 해보자는 제안.",
+  "taggedAt": "2026-08-13T13:57:29.863Z"
 }

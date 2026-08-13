@@ -21,11 +21,11 @@
     {
       "curriculumYear": null,
       "schoolLevel": null,
-      "subject": null,
+      "subject": "지구과학",
       "unit": "미분류",
-      "confidence": "medium"
+      "confidence": "low"
     }
   ],
-  "tagsNote": "에라토스테네스 지구크기 측정 3월 일정 공유.",
-  "taggedAt": "2026-08-12T13:39:02.246Z"
+  "tagsNote": "에라토스테네스 지구크기 측정 3월 일정 데이터 공유(구글어스 링크 포함).",
+  "taggedAt": "2026-08-13T13:57:29.861Z"
 }

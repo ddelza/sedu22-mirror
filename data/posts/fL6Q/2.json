@@ -20,12 +20,12 @@
     },
     {
       "curriculumYear": null,
-      "schoolLevel": null,
+      "schoolLevel": "고등학교",
       "subject": null,
       "unit": "미분류",
-      "confidence": "high"
+      "confidence": "low"
     }
   ],
-  "tagsNote": "과학적 문해력의 중요성(내용 없음) 게시글.",
-  "taggedAt": "2026-08-12T13:40:41.896Z"
+  "tagsNote": "과학적 문해력(리터러시)의 중요성을 다룬 짧은 글(본문 없음, 특정 단원과 무관).",
+  "taggedAt": "2026-08-13T13:57:29.837Z"
 }

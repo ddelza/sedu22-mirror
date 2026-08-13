@@ -19,13 +19,13 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
+      "curriculumYear": "2022",
+      "schoolLevel": "고등학교",
+      "subject": "기후변화와 환경생태",
       "unit": "미분류",
       "confidence": "medium"
     }
   ],
-  "tagsNote": "기후변화와 환경생태 과목 수업 진행 방법 문의.",
-  "taggedAt": "2026-08-12T13:40:41.896Z"
+  "tagsNote": "신규 교사가 기후변화와 환경생태 수업·수행평가 방식을 묻는 질문.",
+  "taggedAt": "2026-08-13T13:57:29.843Z"
 }

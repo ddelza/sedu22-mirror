@@ -19,13 +19,13 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
-      "confidence": "medium"
+      "curriculumYear": "2022",
+      "schoolLevel": "고등학교",
+      "subject": "전자기와 양자",
+      "unit": "양자와 미시세계",
+      "confidence": "high"
     }
   ],
-  "tagsNote": "불확정성 원리 핵심 이해(심화 칼럼, 3화).",
-  "taggedAt": "2026-08-12T13:39:02.227Z"
+  "tagsNote": "하이젠베르크 불확정성 원리의 핵심을 다루는 연재글(세번째 이야기).",
+  "taggedAt": "2026-08-13T13:57:29.851Z"
 }

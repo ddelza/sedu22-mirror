@@ -20,12 +20,12 @@
     },
     {
       "curriculumYear": null,
-      "schoolLevel": null,
+      "schoolLevel": "고등학교",
       "subject": null,
       "unit": "미분류",
-      "confidence": "high"
+      "confidence": "low"
     }
   ],
-  "tagsNote": "수능 후 영화(엘리멘탈, 다크워터스) 감상 소감문 자료 공유.",
-  "taggedAt": "2026-08-12T13:40:41.893Z"
+  "tagsNote": "고3 수능 종료 후 영화(엘리멘탈/다크워터스) 감상 소감문 작성 자료 공유(특정 단원과 무관).",
+  "taggedAt": "2026-08-13T13:57:29.840Z"
 }

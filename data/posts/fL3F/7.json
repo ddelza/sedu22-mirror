@@ -19,13 +19,13 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
+      "curriculumYear": "2022",
+      "schoolLevel": "고등학교",
+      "subject": "전자기와 양자",
+      "unit": "양자와 미시세계",
       "confidence": "medium"
     }
   ],
-  "tagsNote": "측정 가능한 물리량은 입자의 위치뿐이라는 심화 칼럼.",
-  "taggedAt": "2026-08-12T13:40:41.889Z"
+  "tagsNote": "입자의 위치 측정을 중심으로 양자역학적 관측의 의미를 설명.",
+  "taggedAt": "2026-08-13T13:57:29.847Z"
 }

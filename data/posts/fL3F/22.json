@@ -20,12 +20,12 @@
     },
     {
       "curriculumYear": null,
-      "schoolLevel": null,
+      "schoolLevel": "고등학교",
       "subject": null,
       "unit": "미분류",
-      "confidence": "medium"
+      "confidence": "low"
     }
   ],
-  "tagsNote": "과학 법칙의 수학적 서술 가능성에 대한 심화 칼럼.",
-  "taggedAt": "2026-08-12T13:39:02.237Z"
+  "tagsNote": "자연법칙이 수학적 틀로 기술 가능한 이유를 논한 과학철학 에세이(특정 단원과 무관).",
+  "taggedAt": "2026-08-13T13:57:29.855Z"
 }

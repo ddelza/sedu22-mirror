@@ -19,13 +19,13 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
-      "confidence": "medium"
+      "curriculumYear": "2022",
+      "schoolLevel": "고등학교",
+      "subject": "전자기와 양자",
+      "unit": "양자와 미시세계",
+      "confidence": "high"
     }
   ],
-  "tagsNote": "양자화의 분류와 발생 조건 심화 칼럼.",
-  "taggedAt": "2026-08-12T13:39:02.234Z"
+  "tagsNote": "흑체복사에서 시작된 물리량의 양자화를 분류하고 발생 원인을 설명하는 연재글.",
+  "taggedAt": "2026-08-13T13:57:29.844Z"
 }

@@ -19,13 +19,13 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
+      "curriculumYear": "2022",
+      "schoolLevel": "고등학교",
+      "subject": "과학의 역사와 문화",
       "unit": "미분류",
-      "confidence": "high"
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "과학사/과학자/과학철학/빅히스토리 영상 자료 공유.",
-  "taggedAt": "2026-08-12T13:40:41.892Z"
+  "tagsNote": "과학사·과학자·과학철학·빅히스토리 영상 모음 공유(특정 단원 한정 아님).",
+  "taggedAt": "2026-08-13T13:57:29.834Z"
 }

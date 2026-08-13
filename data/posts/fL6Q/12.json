@@ -19,11 +19,13 @@
       "confidence": "high"
     },
     {
-      "category": "과학교사 업무",
-      "topic": "과학실 관리",
+      "curriculumYear": "2022",
+      "schoolLevel": "고등학교",
+      "subject": null,
+      "unit": "미분류",
       "confidence": "low"
     }
   ],
-  "tagsNote": "기환생·과학사 내용을 담은 과학실 블라인드 이미지 공유.",
-  "taggedAt": "2026-08-12T13:40:41.895Z"
+  "tagsNote": "기후변화와환경생태·과학사 내용을 담아 만든 과학실 블라인드 이미지 공유(두 과목 융합, 특정 단원 한정 아님).",
+  "taggedAt": "2026-08-13T13:57:29.842Z"
 }

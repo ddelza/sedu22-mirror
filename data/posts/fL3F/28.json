@@ -21,11 +21,11 @@
     {
       "curriculumYear": null,
       "schoolLevel": null,
-      "subject": null,
+      "subject": "지구과학",
       "unit": "미분류",
-      "confidence": "medium"
+      "confidence": "low"
     }
   ],
-  "tagsNote": "에라토스테네스 지구크기 측정 전국단위 실험 베타테스트 공유.",
-  "taggedAt": "2026-08-12T13:39:02.242Z"
+  "tagsNote": "에라토스테네스 방법으로 실제 지구 크기를 측정하는 전국단위 실험 베타테스트(중·고 공동 참여, 특정 학교급 한정 아님).",
+  "taggedAt": "2026-08-13T13:57:29.859Z"
 }

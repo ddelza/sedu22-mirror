@@ -21,11 +21,11 @@
     {
       "curriculumYear": null,
       "schoolLevel": null,
-      "subject": null,
+      "subject": "지구과학",
       "unit": "미분류",
-      "confidence": "medium"
+      "confidence": "low"
     }
   ],
-  "tagsNote": "에라토스테네스 실험의 동시성·경도 개념 심화 설명.",
-  "taggedAt": "2026-08-12T13:39:02.250Z"
+  "tagsNote": "에라토스테네스 실험이 갖는 '동시성' 개념과 경도의 의미를 논한 글.",
+  "taggedAt": "2026-08-13T13:57:29.864Z"
 }

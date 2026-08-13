@@ -20,12 +20,12 @@
     },
     {
       "curriculumYear": null,
-      "schoolLevel": null,
+      "schoolLevel": "고등학교",
       "subject": null,
       "unit": "미분류",
-      "confidence": "medium"
+      "confidence": "low"
     }
   ],
-  "tagsNote": "과학자들과 철학자들의 시간 개념 심화 칼럼(2화).",
-  "taggedAt": "2026-08-12T13:39:02.233Z"
+  "tagsNote": "시간과 공간의 의미를 과학사·철학적으로 논한 에세이(특정 단원과 무관).",
+  "taggedAt": "2026-08-13T13:57:29.854Z"
 }

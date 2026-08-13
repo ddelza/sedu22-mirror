@@ -19,13 +19,13 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
-      "confidence": "medium"
+      "curriculumYear": "2022",
+      "schoolLevel": "고등학교",
+      "subject": "전자기와 양자",
+      "unit": "양자와 미시세계",
+      "confidence": "high"
     }
   ],
-  "tagsNote": "불확정성원리 '교란' 용어의 의미 칼럼.",
-  "taggedAt": "2026-08-12T13:39:02.241Z"
+  "tagsNote": "불확정성 원리에서 사용하는 '교란'이라는 용어의 의미를 재검토.",
+  "taggedAt": "2026-08-13T13:57:29.858Z"
 }

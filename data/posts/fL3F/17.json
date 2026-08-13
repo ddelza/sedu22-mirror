@@ -20,12 +20,12 @@
     },
     {
       "curriculumYear": null,
-      "schoolLevel": null,
+      "schoolLevel": "고등학교",
       "subject": null,
       "unit": "미분류",
-      "confidence": "medium"
+      "confidence": "low"
     }
   ],
-  "tagsNote": "자연현상이란 무엇인가 심화 칼럼(1화).",
-  "taggedAt": "2026-08-12T13:39:02.232Z"
+  "tagsNote": "자연현상을 입자의 운동으로 설명하는 과학의 정의를 논한 에세이(특정 단원과 무관).",
+  "taggedAt": "2026-08-13T13:57:29.853Z"
 }

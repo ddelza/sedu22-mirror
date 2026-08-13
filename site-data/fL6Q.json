@@ -17,9 +17,9 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "기후변화와 환경생태",
         "unit": "미분류",
         "confidence": "medium"
       }
@@ -43,8 +43,10 @@
         "confidence": "high"
       },
       {
-        "category": "과학교사 업무",
-        "topic": "과학실 관리",
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": null,
+        "unit": "미분류",
         "confidence": "low"
       }
     ]
@@ -67,9 +69,9 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "과학의 역사와 문화",
         "unit": "미분류",
         "confidence": "medium"
       }
@@ -94,10 +96,10 @@
       },
       {
         "curriculumYear": null,
-        "schoolLevel": null,
+        "schoolLevel": "고등학교",
         "subject": null,
         "unit": "미분류",
-        "confidence": "high"
+        "confidence": "low"
       }
     ]
   },
@@ -119,11 +121,11 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "융합과학 탐구",
         "unit": "미분류",
-        "confidence": "high"
+        "confidence": "medium"
       }
     ]
   },
@@ -145,9 +147,9 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "기후변화와 환경생태",
         "unit": "미분류",
         "confidence": "medium"
       }
@@ -171,11 +173,11 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
+        "curriculumYear": "2015",
+        "schoolLevel": "고등학교",
+        "subject": "생활과 과학",
         "unit": "미분류",
-        "confidence": "high"
+        "confidence": "medium"
       }
     ]
   },
@@ -197,9 +199,9 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
+        "curriculumYear": "2015",
+        "schoolLevel": "고등학교",
+        "subject": "과학과제연구",
         "unit": "미분류",
         "confidence": "medium"
       }
@@ -223,11 +225,11 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "융합과학 탐구",
         "unit": "미분류",
-        "confidence": "high"
+        "confidence": "medium"
       }
     ]
   },
@@ -250,10 +252,10 @@
       },
       {
         "curriculumYear": null,
-        "schoolLevel": null,
+        "schoolLevel": "고등학교",
         "subject": null,
         "unit": "미분류",
-        "confidence": "high"
+        "confidence": "low"
       }
     ]
   },
@@ -275,11 +277,11 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "과학의 역사와 문화",
         "unit": "미분류",
-        "confidence": "high"
+        "confidence": "medium"
       }
     ]
   }

@@ -19,13 +19,13 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
-      "confidence": "medium"
+      "curriculumYear": "2022",
+      "schoolLevel": "고등학교",
+      "subject": "전자기와 양자",
+      "unit": "양자와 미시세계",
+      "confidence": "high"
     }
   ],
-  "tagsNote": "결어긋남(Decoherence) 개념 심화 칼럼(6화).",
-  "taggedAt": "2026-08-12T13:39:02.225Z"
+  "tagsNote": "미시세계와 거시세계를 나누는 결어긋남(Decoherence) 개념 설명(여섯번째 이야기).",
+  "taggedAt": "2026-08-13T13:57:29.849Z"
 }

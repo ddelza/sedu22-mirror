@@ -20,12 +20,12 @@
     },
     {
       "curriculumYear": null,
-      "schoolLevel": null,
+      "schoolLevel": "고등학교",
       "subject": null,
       "unit": "미분류",
-      "confidence": "medium"
+      "confidence": "low"
     }
   ],
-  "tagsNote": "근대과학 관점에서 본 과학교육의 의미 칼럼.",
-  "taggedAt": "2026-08-12T13:40:41.887Z"
+  "tagsNote": "근대과학의 관점에서 과학교육이 학생에게 갖는 의미를 논한 에세이(특정 단원과 무관).",
+  "taggedAt": "2026-08-13T13:57:29.845Z"
 }

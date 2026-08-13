@@ -19,13 +19,13 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
+      "curriculumYear": "2022",
+      "schoolLevel": "고등학교",
+      "subject": "역학과 에너지",
+      "unit": "시공간과 운동",
       "confidence": "medium"
     }
   ],
-  "tagsNote": "부피력 개념 정정 칼럼(관성력 관련).",
-  "taggedAt": "2026-08-12T13:39:02.237Z"
+  "tagsNote": "비관성계에서의 알짜힘과 관성력(부피력) 개념을 스스로 점검·수정하는 글.",
+  "taggedAt": "2026-08-13T13:57:29.856Z"
 }

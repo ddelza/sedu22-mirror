@@ -19,13 +19,13 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
-      "confidence": "medium"
+      "curriculumYear": "2022",
+      "schoolLevel": "고등학교",
+      "subject": "전자기와 양자",
+      "unit": "양자와 미시세계",
+      "confidence": "high"
     }
   ],
-  "tagsNote": "양자역학이란(심화 칼럼, 10화).",
-  "taggedAt": "2026-08-12T13:39:02.226Z"
+  "tagsNote": "양자역학이 무엇을 말하는가에 대한 연재글 결론(열번째 이야기).",
+  "taggedAt": "2026-08-13T13:57:29.850Z"
 }

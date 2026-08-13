@@ -19,13 +19,13 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
-      "confidence": "medium"
+      "curriculumYear": "2022",
+      "schoolLevel": "고등학교",
+      "subject": "전자기와 양자",
+      "unit": "양자와 미시세계",
+      "confidence": "high"
     }
   ],
-  "tagsNote": "슈뢰딩거의 고양이 의미(심화 양자역학 칼럼, 5화).",
-  "taggedAt": "2026-08-12T13:39:02.224Z"
+  "tagsNote": "슈뢰딩거의 고양이 사고실험의 의미를 설명하는 연재글(다섯번째 이야기).",
+  "taggedAt": "2026-08-13T13:57:29.848Z"
 }

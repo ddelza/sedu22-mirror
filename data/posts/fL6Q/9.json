@@ -19,13 +19,13 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
+      "curriculumYear": "2022",
+      "schoolLevel": "고등학교",
+      "subject": "융합과학 탐구",
       "unit": "미분류",
-      "confidence": "high"
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "융합과학 교과서 PDF 공유 요청(2).",
-  "taggedAt": "2026-08-12T13:40:41.901Z"
+  "tagsNote": "융합과학을 맡게 된 교사가 교과서 PDF 파일을 구하는 질문.",
+  "taggedAt": "2026-08-13T13:57:29.840Z"
 }

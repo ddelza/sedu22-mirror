@@ -19,13 +19,13 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
+      "curriculumYear": "2022",
+      "schoolLevel": "고등학교",
+      "subject": "기후변화와 환경생태",
       "unit": "미분류",
       "confidence": "medium"
     }
   ],
-  "tagsNote": "기후변화와 환경생태 과목 수업 진행 방법 문의(2).",
-  "taggedAt": "2026-08-12T13:40:41.900Z"
+  "tagsNote": "첫 기간제로 기후변화와 환경생태를 맡게 된 교사의 수업 방식 고민.",
+  "taggedAt": "2026-08-13T13:57:29.839Z"
 }

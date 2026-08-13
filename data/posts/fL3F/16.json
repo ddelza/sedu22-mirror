@@ -20,12 +20,12 @@
     },
     {
       "curriculumYear": null,
-      "schoolLevel": null,
+      "schoolLevel": "고등학교",
       "subject": null,
       "unit": "미분류",
-      "confidence": "medium"
+      "confidence": "low"
     }
   ],
-  "tagsNote": "학문으로서의 물리학이란 무엇인가 심화 칼럼.",
-  "taggedAt": "2026-08-12T13:39:02.231Z"
+  "tagsNote": "물리학(과학)이 학문 체계에서 차지하는 위치를 논한 에세이(특정 단원과 무관).",
+  "taggedAt": "2026-08-13T13:57:29.853Z"
 }

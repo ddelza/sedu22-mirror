@@ -131,7 +131,10 @@ function buildTree() {
   }
 
   // 2015 고등학교: 과목별로 나뉨. "## 과목명 (pp..)" -> "#### (N) 단원명 (p..)"
+  // "## 목차 (p.3)", "## 전반부 (pp.1–36) 개요 (스킵/요약)"처럼 안내용 "##" 헤딩도
+  // 과목명 정규식에 우연히 걸려서 0건짜리 가짜 과목으로 트리에 섞여 들어가므로 제외한다.
   {
+    const NON_SUBJECT_HEADINGS_2015_HS = new Set(['목차', '전반부']);
     const text = fs.readFileSync(path.join(CURRICULUM_DIR, '2015_hs_ai.md'), 'utf8');
     const lines = text.split('\n');
     let subject = null;
@@ -139,6 +142,11 @@ function buildTree() {
     const bySubject = {};
     for (const line of lines) {
       const subjM = line.match(/^## ([가-힣A-Za-zⅠ]+)\s*\(pp?\.\d/);
+      if (subjM && NON_SUBJECT_HEADINGS_2015_HS.has(subjM[1])) {
+        subject = null;
+        currentUnit = null;
+        continue;
+      }
       if (subjM) {
         subject = subjM[1];
         if (!bySubject[subject]) bySubject[subject] = {};
@@ -163,7 +171,10 @@ function buildTree() {
   }
 
   // 2022 고등학교: "## 과목명" -> "### (N) 단원명"
+  // "## 성취수준 표기 안내", "## 부록: 예시 평가 도구 표본 확인"처럼 본문 앞뒤 안내 섹션도
+  // "##"으로 시작해서 과목명 정규식에 걸리므로 제외한다.
   {
+    const NON_SUBJECT_HEADINGS_2022_HS = new Set(['성취수준 표기 안내', '부록: 예시 평가 도구 표본 확인']);
     const text = fs.readFileSync(path.join(CURRICULUM_DIR, '2022_hs_ai.md'), 'utf8');
     const lines = text.split('\n');
     let subject = null;
@@ -172,6 +183,11 @@ function buildTree() {
     for (const line of lines) {
       const unitM = line.match(/^### \(\d+\) (.+)$/);
       const subjM = !unitM && line.match(/^## ([^\n(]+?)\s*$/);
+      if (subjM && NON_SUBJECT_HEADINGS_2022_HS.has(subjM[1].trim())) {
+        subject = null;
+        currentUnit = null;
+        continue;
+      }
       if (unitM && subject) {
         currentUnit = unitM[1].trim();
         if (!bySubject[subject][currentUnit]) bySubject[subject][currentUnit] = [];

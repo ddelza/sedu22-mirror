@@ -19,13 +19,13 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
+      "curriculumYear": "2015",
+      "schoolLevel": "고등학교",
+      "subject": "과학과제연구",
       "unit": "미분류",
       "confidence": "medium"
     }
   ],
-  "tagsNote": "과학과제연구 학습활동지(탐구방법/연구윤리/보고서쓰기) 공유.",
-  "taggedAt": "2026-08-12T13:40:41.898Z"
+  "tagsNote": "과학의 탐구 방법·연구윤리·탐구보고서쓰기를 다룬 과학과제연구 학습활동지 모음 공유.",
+  "taggedAt": "2026-08-13T13:57:29.838Z"
 }

@@ -20,12 +20,12 @@
     },
     {
       "curriculumYear": null,
-      "schoolLevel": null,
+      "schoolLevel": "고등학교",
       "subject": null,
       "unit": "미분류",
-      "confidence": "medium"
+      "confidence": "low"
     }
   ],
-  "tagsNote": "자연상수 e의 과학적 의미에 대한 심화 칼럼.",
-  "taggedAt": "2026-08-12T13:40:41.886Z"
+  "tagsNote": "자연상수 e가 과학적으로 갖는 의미를 다룬 에세이(특정 교육과정 단원 한정 아님).",
+  "taggedAt": "2026-08-13T13:57:29.845Z"
 }

@@ -17,10 +17,10 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "역학과 에너지",
+        "unit": "열과 에너지",
         "confidence": "medium"
       }
     ]
@@ -76,11 +76,11 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
-        "confidence": "medium"
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "전자기와 양자",
+        "unit": "양자와 미시세계",
+        "confidence": "high"
       }
     ]
   },
@@ -104,9 +104,9 @@
       {
         "curriculumYear": null,
         "schoolLevel": null,
-        "subject": null,
+        "subject": "지구과학",
         "unit": "미분류",
-        "confidence": "medium"
+        "confidence": "low"
       }
     ]
   },
@@ -130,9 +130,9 @@
       {
         "curriculumYear": null,
         "schoolLevel": null,
-        "subject": null,
+        "subject": "지구과학",
         "unit": "미분류",
-        "confidence": "medium"
+        "confidence": "low"
       }
     ]
   },
@@ -154,10 +154,10 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "역학과 에너지",
+        "unit": "시공간과 운동",
         "confidence": "medium"
       }
     ]
@@ -180,10 +180,10 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "역학과 에너지",
+        "unit": "시공간과 운동",
         "confidence": "medium"
       }
     ]
@@ -208,9 +208,9 @@
       {
         "curriculumYear": null,
         "schoolLevel": null,
-        "subject": null,
+        "subject": "지구과학",
         "unit": "미분류",
-        "confidence": "medium"
+        "confidence": "low"
       }
     ]
   },
@@ -232,10 +232,10 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "역학과 에너지",
+        "unit": "시공간과 운동",
         "confidence": "medium"
       }
     ]
@@ -260,9 +260,9 @@
       {
         "curriculumYear": null,
         "schoolLevel": null,
-        "subject": null,
+        "subject": "지구과학",
         "unit": "미분류",
-        "confidence": "medium"
+        "confidence": "low"
       }
     ]
   },
@@ -285,10 +285,10 @@
       },
       {
         "curriculumYear": null,
-        "schoolLevel": null,
+        "schoolLevel": "고등학교",
         "subject": null,
         "unit": "미분류",
-        "confidence": "medium"
+        "confidence": "low"
       }
     ]
   },
@@ -312,9 +312,9 @@
       {
         "curriculumYear": null,
         "schoolLevel": null,
-        "subject": null,
+        "subject": "지구과학",
         "unit": "미분류",
-        "confidence": "medium"
+        "confidence": "low"
       }
     ]
   },
@@ -338,9 +338,9 @@
       {
         "curriculumYear": null,
         "schoolLevel": null,
-        "subject": null,
+        "subject": "지구과학",
         "unit": "미분류",
-        "confidence": "medium"
+        "confidence": "low"
       }
     ]
   },
@@ -364,9 +364,9 @@
       {
         "curriculumYear": null,
         "schoolLevel": null,
-        "subject": null,
+        "subject": "지구과학",
         "unit": "미분류",
-        "confidence": "medium"
+        "confidence": "low"
       }
     ]
   },
@@ -390,9 +390,9 @@
       {
         "curriculumYear": null,
         "schoolLevel": null,
-        "subject": null,
+        "subject": "지구과학",
         "unit": "미분류",
-        "confidence": "medium"
+        "confidence": "low"
       }
     ]
   },
@@ -440,11 +440,11 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
-        "confidence": "medium"
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "전자기와 양자",
+        "unit": "양자와 미시세계",
+        "confidence": "high"
       }
     ]
   },
@@ -493,10 +493,10 @@
       },
       {
         "curriculumYear": null,
-        "schoolLevel": null,
+        "schoolLevel": "고등학교",
         "subject": null,
         "unit": "미분류",
-        "confidence": "medium"
+        "confidence": "low"
       }
     ]
   },
@@ -519,10 +519,10 @@
       },
       {
         "curriculumYear": null,
-        "schoolLevel": null,
+        "schoolLevel": "고등학교",
         "subject": null,
         "unit": "미분류",
-        "confidence": "medium"
+        "confidence": "low"
       }
     ]
   },
@@ -548,7 +548,7 @@
         "schoolLevel": null,
         "subject": null,
         "unit": "미분류",
-        "confidence": "medium"
+        "confidence": "low"
       }
     ]
   },
@@ -596,11 +596,11 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
-        "confidence": "medium"
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "전자기와 양자",
+        "unit": "양자와 미시세계",
+        "confidence": "high"
       }
     ]
   },
@@ -622,11 +622,11 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
-        "confidence": "medium"
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "전자기와 양자",
+        "unit": "양자와 미시세계",
+        "confidence": "high"
       }
     ]
   },
@@ -674,10 +674,10 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "전자기와 양자",
+        "unit": "양자와 미시세계",
         "confidence": "medium"
       }
     ]
@@ -701,10 +701,10 @@
       },
       {
         "curriculumYear": null,
-        "schoolLevel": null,
+        "schoolLevel": "고등학교",
         "subject": null,
         "unit": "미분류",
-        "confidence": "medium"
+        "confidence": "low"
       }
     ]
   },
@@ -727,10 +727,10 @@
       },
       {
         "curriculumYear": null,
-        "schoolLevel": null,
+        "schoolLevel": "고등학교",
         "subject": null,
         "unit": "미분류",
-        "confidence": "medium"
+        "confidence": "low"
       }
     ]
   },
@@ -753,10 +753,10 @@
       },
       {
         "curriculumYear": null,
-        "schoolLevel": null,
+        "schoolLevel": "고등학교",
         "subject": null,
         "unit": "미분류",
-        "confidence": "medium"
+        "confidence": "low"
       }
     ]
   },
@@ -778,11 +778,11 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
-        "confidence": "medium"
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "전자기와 양자",
+        "unit": "양자와 미시세계",
+        "confidence": "high"
       }
     ]
   },
@@ -804,11 +804,11 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
-        "confidence": "medium"
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "전자기와 양자",
+        "unit": "양자와 미시세계",
+        "confidence": "high"
       }
     ]
   },
@@ -830,11 +830,11 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
-        "confidence": "medium"
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "전자기와 양자",
+        "unit": "양자와 미시세계",
+        "confidence": "high"
       }
     ]
   },
@@ -856,11 +856,11 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
-        "confidence": "medium"
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "전자기와 양자",
+        "unit": "양자와 미시세계",
+        "confidence": "high"
       }
     ]
   },
@@ -882,11 +882,11 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
-        "confidence": "medium"
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "전자기와 양자",
+        "unit": "양자와 미시세계",
+        "confidence": "high"
       }
     ]
   },
@@ -908,11 +908,11 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
-        "confidence": "medium"
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "전자기와 양자",
+        "unit": "양자와 미시세계",
+        "confidence": "high"
       }
     ]
   },
@@ -934,11 +934,11 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
-        "confidence": "medium"
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "전자기와 양자",
+        "unit": "양자와 미시세계",
+        "confidence": "high"
       }
     ]
   }

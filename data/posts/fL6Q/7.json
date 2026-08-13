@@ -19,13 +19,13 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
+      "curriculumYear": "2015",
+      "schoolLevel": "고등학교",
+      "subject": "생활과 과학",
       "unit": "미분류",
-      "confidence": "high"
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "생활과 과학 수업 참고 영상 모음 자료 공유.",
-  "taggedAt": "2026-08-12T13:40:41.899Z"
+  "tagsNote": "전자칠판 수업에 활용한 생활과과학 참고 동영상 자료 모음 공유.",
+  "taggedAt": "2026-08-13T13:57:29.839Z"
 }

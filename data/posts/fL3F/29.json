@@ -21,11 +21,11 @@
     {
       "curriculumYear": null,
       "schoolLevel": null,
-      "subject": null,
+      "subject": "지구과학",
       "unit": "미분류",
-      "confidence": "medium"
+      "confidence": "low"
     }
   ],
-  "tagsNote": "전국단위 상설 에라토스테네스 지구크기 측정 실험 계획 공유.",
-  "taggedAt": "2026-08-12T13:39:02.243Z"
+  "tagsNote": "전국 중·고교가 함께하는 '전국단위 에라토스테네스 지구크기 측정 실험' 상설 진행 안내.",
+  "taggedAt": "2026-08-13T13:57:29.860Z"
 }
