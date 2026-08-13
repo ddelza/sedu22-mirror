@@ -17,6 +17,22 @@
       "category": "게시판별 분류",
       "topic": "중학교 지구과학수업 이야기",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "기권과 날씨",
+      "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "날씨와 기후변화",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "대기가 지구복사에너지를 흡수하는 온실효과 그림과 복사평형 성립 여부 해석에 대한 질문.",
+  "taggedAt": "2026-08-13T12:15:58.684Z"
 }

@@ -17,6 +17,22 @@
       "category": "게시판별 분류",
       "topic": "중학교 생물수업 이야기",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "생식과 유전",
+      "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "생식과 유전",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "달걀 껍질 밖에서 병아리를 부화시킨 일본 실험 영상 소개.",
+  "taggedAt": "2026-08-13T04:21:21.347Z"
 }

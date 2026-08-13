@@ -17,6 +17,36 @@
       "category": "게시판별 분류",
       "topic": "중학교 지구과학수업 이야기",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "지권의 변화",
+      "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "지권의 변화",
+      "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "수권과 해수의 순환",
+      "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "수권과 해수의 순환",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "1학년 2단원(지권)과 7단원(수권)을 묶어 재편성해 가르치는 것이 어떨지에 대한 의견 요청.",
+  "taggedAt": "2026-08-13T11:49:45.433Z"
 }

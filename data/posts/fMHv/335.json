@@ -17,6 +17,22 @@
       "category": "게시판별 분류",
       "topic": "중학교 지구과학수업 이야기",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "지권의 변화",
+      "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "지권의 변화",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "중간고사 대비 자습 시간에 초성퀴즈로 교과서를 복습하는 활동지 공유.",
+  "taggedAt": "2026-08-13T11:49:45.444Z"
 }

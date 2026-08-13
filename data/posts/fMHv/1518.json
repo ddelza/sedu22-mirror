@@ -17,6 +17,22 @@
       "category": "게시판별 분류",
       "topic": "중학교 지구과학수업 이야기",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "별과 우주",
+      "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "별과 우주",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "별들의 색깔이 다른 이유를 묻는 문제에 대한 검토 요청.",
+  "taggedAt": "2026-08-13T05:20:09.024Z"
 }

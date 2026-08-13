@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "사이버 교사연수",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "low"
     }
-  ]
+  ],
+  "tagsNote": "대한민국 중등 과학교사 수·교사 1인당 학생수 등 OECD 비교 통계 공유(특정 단원과 무관).",
+  "taggedAt": "2026-08-13T13:13:51.995Z"
 }

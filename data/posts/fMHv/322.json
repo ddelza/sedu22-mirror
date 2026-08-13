@@ -17,6 +17,22 @@
       "category": "게시판별 분류",
       "topic": "중학교 지구과학수업 이야기",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "수권과 해수의 순환",
+      "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "수권과 해수의 순환",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "해수의 수온 연직 분포 실험 진행 팁(초기값 기록, 바람 세기 조절)에 대한 답글.",
+  "taggedAt": "2026-08-13T11:49:45.429Z"
 }

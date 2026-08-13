@@ -17,6 +17,22 @@
       "category": "게시판별 분류",
       "topic": "중학교 지구과학수업 이야기",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "지권의 변화",
+      "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "지권의 변화",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "학교 내 암석이 부족해 화단 주변으로 대체 진행한 암석 관찰 야외수업 후기.",
+  "taggedAt": "2026-08-13T12:22:01.833Z"
 }

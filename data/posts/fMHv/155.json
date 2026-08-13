@@ -17,6 +17,22 @@
       "category": "게시판별 분류",
       "topic": "중학교 지구과학수업 이야기",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "지권의 변화",
+      "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "지권의 변화",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "지진 피해를 줄이기 위한 실천 방안을 탐구하는 지역사회 연계 수업 계획.",
+  "taggedAt": "2026-08-13T05:20:09.056Z"
 }

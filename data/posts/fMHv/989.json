@@ -17,6 +17,22 @@
       "category": "게시판별 분류",
       "topic": "중학교 지구과학수업 이야기",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "기권과 날씨",
+      "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "태양계",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "오로라가 태양 활동이 활발할 때만 발생하는지 항상 발생하는지에 대한 질문.",
+  "taggedAt": "2026-08-13T12:29:51.528Z"
 }

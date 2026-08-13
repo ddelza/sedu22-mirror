@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "평가 Ideas",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "빛과 파동",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "대화체·설명책 형식으로 만든 빛 단원 서술형 문항 공유(물리 내용, 지구과학 게시판과 다른 일반 게시판에 교차 게시됨).",
+  "taggedAt": "2026-08-13T13:08:11.330Z"
 }

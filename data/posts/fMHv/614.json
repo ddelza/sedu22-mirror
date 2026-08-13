@@ -17,6 +17,22 @@
       "category": "게시판별 분류",
       "topic": "중학교 지구과학수업 이야기",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "기권과 날씨",
+      "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "날씨와 기후변화",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "비상교과서 기준으로 A4 용지를 접어 만드는 대기권 층상구조 모형 제작 자료 공유.",
+  "taggedAt": "2026-08-13T12:14:29.557Z"
 }

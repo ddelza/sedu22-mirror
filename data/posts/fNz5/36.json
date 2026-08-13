@@ -17,6 +17,20 @@
       "category": "게시판별 분류",
       "topic": "센서로 하는 과학실험(최효석)",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "low"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "센서/데이터로깅",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "천재교육 실험책 제작 의뢰로 만든 디지털 센서(이지메이커) 가이드북 시리즈의 소개 및 기본 사용법(0편).",
+  "taggedAt": "2026-08-13T12:59:39.580Z"
 }

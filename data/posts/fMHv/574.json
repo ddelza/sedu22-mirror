@@ -17,6 +17,22 @@
       "category": "게시판별 분류",
       "topic": "중학교 지구과학수업 이야기",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "기권과 날씨",
+      "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "날씨와 기후변화",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "강수 과정에서 -40도를 얼음알갱이 존재 기준으로 삼는 이유와 기단 간 밀도 차이에 대한 비전공 교사 질문.",
+  "taggedAt": "2026-08-13T12:11:20.280Z"
 }

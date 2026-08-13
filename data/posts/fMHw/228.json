@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "중학교 환경&기술&재해안전&기타",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "low"
     }
-  ]
+  ],
+  "tagsNote": "중2 미래엔 교과서 PPT 자료를 구하는 요청(구체적 단원 불명확).",
+  "taggedAt": "2026-08-13T12:46:21.307Z"
 }

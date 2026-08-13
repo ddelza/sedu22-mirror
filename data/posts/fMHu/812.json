@@ -17,6 +17,22 @@
       "category": "게시판별 분류",
       "topic": "중학교 생물수업 이야기",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "자극과 반응",
+      "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "자극과 반응",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "빛과 파동 학습 전 섬모체·수정체 조절 설명 방법 아이디어 요청.",
+  "taggedAt": "2026-08-13T04:24:17.222Z"
 }

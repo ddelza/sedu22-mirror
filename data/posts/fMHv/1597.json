@@ -17,6 +17,27 @@
       "category": "게시판별 분류",
       "topic": "중학교 지구과학수업 이야기",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "지권의 변화",
+      "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "지권의 변화",
+      "confidence": "high"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "앱/프로그램",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "7가지 광물 표본 사진을 활용한 광물 특성 가상 시뮬레이션 및 문제풀이 웹앱 공유.",
+  "taggedAt": "2026-08-13T05:23:34.840Z"
 }

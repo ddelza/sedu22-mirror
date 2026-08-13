@@ -17,6 +17,27 @@
       "category": "게시판별 분류",
       "topic": "중학교 지구과학수업 이야기",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "태양계",
+      "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "태양계",
+      "confidence": "high"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "앱/프로그램",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "행성 크기·질량·밀도를 3D와 그래프로 비교하는 태양계 행성 시뮬레이션·분류 게임 웹앱 공유.",
+  "taggedAt": "2026-08-13T05:21:50.476Z"
 }

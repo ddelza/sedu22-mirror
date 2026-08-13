@@ -17,6 +17,22 @@
       "category": "게시판별 분류",
       "topic": "중학교 지구과학수업 이야기",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "기권과 날씨",
+      "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "날씨와 기후변화",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "온실기체 중 수증기 고려 여부에 따른 온난화 문제 보기 해석에 대한 조언 요청.",
+  "taggedAt": "2026-08-13T05:20:09.028Z"
 }

@@ -17,6 +17,22 @@
       "category": "게시판별 분류",
       "topic": "중학교 생물수업 이야기",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "자극과 반응",
+      "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "자극과 반응",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "중간뇌가 중추인 반사(동공반사·안구운동)의 범위에 대한 질문.",
+  "taggedAt": "2026-08-13T04:11:05.141Z"
 }

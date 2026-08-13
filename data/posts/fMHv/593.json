@@ -17,6 +17,27 @@
       "category": "게시판별 분류",
       "topic": "중학교 지구과학수업 이야기",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "기권과 날씨",
+      "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "날씨와 기후변화",
+      "confidence": "high"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "앱/프로그램",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "마이크로비트로 온도 데이터를 측정한 물체의 복사평형 실험 도전 후기 공유.",
+  "taggedAt": "2026-08-13T12:12:52.269Z"
 }

@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "중학교 환경&기술&재해안전&기타",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "low"
     }
-  ]
+  ],
+  "tagsNote": "한글파일에서 학습지 정답을 PPT처럼 하나씩 보이게 하는 방법을 묻는 기술적 질문(특정 단원과 무관).",
+  "taggedAt": "2026-08-13T12:46:21.311Z"
 }

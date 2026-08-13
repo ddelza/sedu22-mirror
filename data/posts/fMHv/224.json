@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "중학교 지구과학수업 이야기",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "low"
     }
-  ]
+  ],
+  "tagsNote": "드라이아이스에 물을 부었을 때 물이 주변으로 튕기는 현상의 원인에 대한 질문(특정 단원 명시 없음).",
+  "taggedAt": "2026-08-13T05:27:15.724Z"
 }

@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "중학교 환경&기술&재해안전&기타",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "low"
     }
-  ]
+  ],
+  "tagsNote": "1년간 백지 형태로 작성한 2014년 중1 과학 학생 학습지 모음 공유(여러 단원 포괄).",
+  "taggedAt": "2026-08-13T12:58:04.745Z"
 }

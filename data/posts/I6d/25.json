@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "평가 Ideas",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "low"
     }
-  ]
+  ],
+  "tagsNote": "자유탐구보고서 채점에 대한 조별 상호평가 양식 및 팁 답글(특정 단원과 무관).",
+  "taggedAt": "2026-08-13T13:10:14.915Z"
 }

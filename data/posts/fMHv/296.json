@@ -17,6 +17,22 @@
       "category": "게시판별 분류",
       "topic": "중학교 지구과학수업 이야기",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "지권의 변화",
+      "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "지권의 변화",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "자신과 닮은 암석을 골라 특징과 성격을 매칭해 설명하는 창의 활동 공유.",
+  "taggedAt": "2026-08-13T05:30:34.572Z"
 }

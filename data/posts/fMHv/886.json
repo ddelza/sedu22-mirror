@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "중학교 지구과학수업 이야기",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "low"
     }
-  ]
+  ],
+  "tagsNote": "'해상도' 비유를 활용한 첫시간 동기부여 이야기를 다시 찾아 소개하는 글(특정 지구과학 단원 아님).",
+  "taggedAt": "2026-08-13T12:25:11.217Z"
 }

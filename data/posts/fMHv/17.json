@@ -17,6 +17,27 @@
       "category": "게시판별 분류",
       "topic": "중학교 지구과학수업 이야기",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "지권의 변화",
+      "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "지권의 변화",
+      "confidence": "high"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "온라인 수업 자료",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "PPT 3D 삽입 기능을 활용해 온라인으로 암석을 입체 관찰하는 자료 제작법 공유.",
+  "taggedAt": "2026-08-13T05:23:34.881Z"
 }

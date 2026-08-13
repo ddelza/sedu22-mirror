@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "중학교 지구과학수업 이야기",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "지권의 변화",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "배움의 공동체·하브루타 방식을 적용해 만든 미래엔 1·2단원 학생활동중심 학습지 공유.",
+  "taggedAt": "2026-08-13T12:20:28.498Z"
 }

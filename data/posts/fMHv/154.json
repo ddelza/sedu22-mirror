@@ -17,6 +17,22 @@
       "category": "게시판별 분류",
       "topic": "중학교 지구과학수업 이야기",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "지권의 변화",
+      "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "지권의 변화",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "흑운모의 실제 조흔색이 흰색으로 나오는 현상을 학생들에게 설명하는 방법에 대한 질문.",
+  "taggedAt": "2026-08-13T05:20:09.050Z"
 }

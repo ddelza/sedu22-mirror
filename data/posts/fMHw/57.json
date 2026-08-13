@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "중학교 환경&기술&재해안전&기타",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "low"
     }
-  ]
+  ],
+  "tagsNote": "신규교사가 8단원 인류 문명 도입에 활용한 게임 트레일러 영상 소개(특정 지구과학 단원 아님).",
+  "taggedAt": "2026-08-13T12:58:04.712Z"
 }

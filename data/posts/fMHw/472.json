@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "중학교 환경&기술&재해안전&기타",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "low"
     }
-  ]
+  ],
+  "tagsNote": "특별실 사용 제한 상황에서 3학년 1학기 수행평가 방법에 대한 고민(구체적 단원 불명확).",
+  "taggedAt": "2026-08-13T12:55:32.300Z"
 }

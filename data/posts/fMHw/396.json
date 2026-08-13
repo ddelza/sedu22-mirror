@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "중학교 환경&기술&재해안전&기타",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "low"
     }
-  ]
+  ],
+  "tagsNote": "자유학기 2학년 대상 수행평가 안내 영상을 제작해 공유(특정 단원과 무관).",
+  "taggedAt": "2026-08-13T12:52:37.719Z"
 }

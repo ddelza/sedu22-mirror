@@ -17,6 +17,22 @@
       "category": "게시판별 분류",
       "topic": "중학교 지구과학수업 이야기",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "수권과 해수의 순환",
+      "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "수권과 해수의 순환",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "7단원 지구상의 물 도입에서 싱크홀을 소재로 물의 중요성을 토론한 수업 후기.",
+  "taggedAt": "2026-08-13T05:30:34.581Z"
 }

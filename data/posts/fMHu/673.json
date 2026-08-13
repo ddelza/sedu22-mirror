@@ -17,6 +17,27 @@
       "category": "게시판별 분류",
       "topic": "중학교 생물수업 이야기",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "식물과 에너지",
+      "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "식물과 에너지",
+      "confidence": "high"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "AR/VR",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "싸이언스레벨업 AR을 활용한 식물의 구조 학습 수업 공유.",
+  "taggedAt": "2026-08-13T04:18:20.637Z"
 }

@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "중학교 환경&기술&재해안전&기타",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "low"
     }
-  ]
+  ],
+  "tagsNote": "비상교과서 1~4단원 복습용 카훗(상식퀴즈 포함) 공유(구체적 단원 불명확).",
+  "taggedAt": "2026-08-13T12:55:32.295Z"
 }

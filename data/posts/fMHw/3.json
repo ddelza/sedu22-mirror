@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "중학교 환경&기술&재해안전&기타",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "low"
     }
-  ]
+  ],
+  "tagsNote": "연극을 통해 직업과 과학의 관련성을 배우는 7단원 '과학과 나의 미래' 수업 공유(특정 지구과학 단원 아님).",
+  "taggedAt": "2026-08-13T12:47:52.453Z"
 }

@@ -17,6 +17,22 @@
       "category": "게시판별 분류",
       "topic": "중학교 지구과학수업 이야기",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "지권의 변화",
+      "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "지권의 변화",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "지구온난화와 연계해 지구계 구성요소(지권·수권·기권·생물권) 상호작용을 도입하는 수업 설계 공유.",
+  "taggedAt": "2026-08-13T05:25:30.516Z"
 }

@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "중학교 환경&기술&재해안전&기타",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "low"
     }
-  ]
+  ],
+  "tagsNote": "혁신학교 4년차 교사가 처음 맡은 2학년 수업에서 시도한 여러 아이디어 소개(특정 단원 한정 아님).",
+  "taggedAt": "2026-08-13T12:51:02.885Z"
 }

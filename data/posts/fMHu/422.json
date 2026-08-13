@@ -17,6 +17,22 @@
       "category": "게시판별 분류",
       "topic": "중학교 생물수업 이야기",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "동물과 에너지",
+      "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "동물과 에너지",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "융털에서 흡수된 영양소의 이동 경로(대장 vs 심장) 오류 확인 질문.",
+  "taggedAt": "2026-08-13T04:08:17.323Z"
 }

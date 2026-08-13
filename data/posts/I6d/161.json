@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "평가 Ideas",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": "고등학교",
+      "subject": "통합과학",
+      "unit": "산화와 환원 반응",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "고1 통합과학 산화·환원 물질 판별 서술형 문항 채점에 대한 화학 비전공 교사의 도움 요청.",
+  "taggedAt": "2026-08-13T13:04:51.237Z"
 }

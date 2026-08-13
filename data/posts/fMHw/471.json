@@ -17,6 +17,22 @@
       "category": "게시판별 분류",
       "topic": "중학교 환경&기술&재해안전&기타",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "운동과 에너지",
+      "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "운동과 에너지",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "일·에너지·역학적 에너지를 함께 배우도록 물리 단원(3·6단원) 순서를 재구성하는 방안 문의(물리 내용, 지구과학 게시판과 다른 일반 게시판에 교차 게시됨).",
+  "taggedAt": "2026-08-13T12:55:32.300Z"
 }

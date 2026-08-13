@@ -17,6 +17,20 @@
       "category": "게시판별 분류",
       "topic": "센서로 하는 과학실험(최효석)",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": "고등학교",
+      "subject": "화학",
+      "unit": "중화반응",
+      "confidence": "medium"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "센서/데이터로깅",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "pH·수온 센서로 수산화나트륨과 염산의 중화반응을 관찰하는 실험(37편).",
+  "taggedAt": "2026-08-13T13:02:02.140Z"
 }

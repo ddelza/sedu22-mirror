@@ -17,6 +17,22 @@
       "category": "게시판별 분류",
       "topic": "중학교 지구과학수업 이야기",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "태양계",
+      "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "태양계",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "부분월식이 개기월식 과정의 한 단계를 가리키는지에 대한 그림 기반 질문.",
+  "taggedAt": "2026-08-13T12:28:12.648Z"
 }

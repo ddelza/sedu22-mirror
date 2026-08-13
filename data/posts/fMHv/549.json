@@ -17,6 +17,27 @@
       "category": "게시판별 분류",
       "topic": "중학교 지구과학수업 이야기",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "수권과 해수의 순환",
+      "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "수권과 해수의 순환",
+      "confidence": "high"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "온라인 수업 자료",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "'바다타임' 사이트에서 서해·남해 조석현상 자료를 조사·비교하는 수업 공유.",
+  "taggedAt": "2026-08-13T12:11:20.260Z"
 }

@@ -17,6 +17,22 @@
       "category": "게시판별 분류",
       "topic": "중학교 생물수업 이야기",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "자극과 반응",
+      "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "자극과 반응",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "의식적 반응 전달경로에서 대뇌·연합신경·척수 관계 질문.",
+  "taggedAt": "2026-08-13T04:31:44.137Z"
 }

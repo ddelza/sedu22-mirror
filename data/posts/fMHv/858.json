@@ -17,6 +17,22 @@
       "category": "게시판별 분류",
       "topic": "중학교 지구과학수업 이야기",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "운동과 에너지",
+      "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "운동과 에너지",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "혁신학교 모둠수업 방식으로 재구성한 운동 부분 학습지 공유(물리 내용, 지구과학 게시판에 교차 게시됨).",
+  "taggedAt": "2026-08-13T12:23:37.891Z"
 }

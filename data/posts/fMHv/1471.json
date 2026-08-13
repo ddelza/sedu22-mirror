@@ -17,6 +17,22 @@
       "category": "게시판별 분류",
       "topic": "중학교 지구과학수업 이야기",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "태양계",
+      "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "태양계",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "태양계 행성 특징을 알아낼 수 있었던 관측 기술적 배경에 대한 설명 자료.",
+  "taggedAt": "2026-08-13T05:15:57.527Z"
 }

@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "사이버 교사연수",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "low"
     }
-  ]
+  ],
+  "tagsNote": "이혁규 교수 강연에서 나온 '프로교사가 되기 위한 6가지 조건' 정리(특정 단원과 무관).",
+  "taggedAt": "2026-08-13T13:16:31.651Z"
 }

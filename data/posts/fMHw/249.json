@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "중학교 환경&기술&재해안전&기타",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "low"
     }
-  ]
+  ],
+  "tagsNote": "중3 1~2학기 전체 내용을 다루는 학기말 골든벨 총정리 PPT 공유(특정 단원 한정 아님).",
+  "taggedAt": "2026-08-13T12:46:21.324Z"
 }

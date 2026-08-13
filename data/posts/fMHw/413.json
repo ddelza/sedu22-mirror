@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "중학교 환경&기술&재해안전&기타",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "low"
     }
-  ]
+  ],
+  "tagsNote": "학생 1인 1수업 방식으로 진행한 중3 학기말 전체 내용 정리 및 문제 풀이 수업 공유(특정 단원 한정 아님).",
+  "taggedAt": "2026-08-13T12:54:04.682Z"
 }

@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "좋은 글 & 책",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "low"
     }
-  ]
+  ],
+  "tagsNote": "수호믈린스키 글을 패러디해 아이 개개인의 소중함을 강조한 글(특정 단원과 무관).",
+  "taggedAt": "2026-08-13T13:16:31.665Z"
 }

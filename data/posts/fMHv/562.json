@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "중학교 지구과학수업 이야기",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "수권과 해수의 순환",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "교과서마다 범위 편차가 있는 7-1단원(수권의 분포와 활용) 수업계획·자료·평가자료 공유.",
+  "taggedAt": "2026-08-13T12:11:20.271Z"
 }

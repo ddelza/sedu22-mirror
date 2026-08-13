@@ -17,6 +17,27 @@
       "category": "게시판별 분류",
       "topic": "중학교 지구과학수업 이야기",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "태양계",
+      "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "태양계",
+      "confidence": "medium"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "AR/VR",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "에듀넷 웹 실감형콘텐츠로 대체된 화성 관련 VR 콘텐츠 '화성탈출' 접속 안내 및 활동지 공유.",
+  "taggedAt": "2026-08-13T12:18:56.892Z"
 }

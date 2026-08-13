@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "중학교 지구과학수업 이야기",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "수권과 해수의 순환",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "비상교과서 기준으로 재편성한 7단원(마지막 단원) 학생용 활동지 공유.",
+  "taggedAt": "2026-08-13T12:09:49.023Z"
 }

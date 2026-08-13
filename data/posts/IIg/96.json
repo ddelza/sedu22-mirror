@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "사이버 교사연수",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "물질의 구성",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "마이크로티칭 수업컨설팅 연수에서 시연한 '원소기호를 활용한 의미 만들기' 10분 수업 동영상 공유.",
+  "taggedAt": "2026-08-13T13:16:31.653Z"
 }

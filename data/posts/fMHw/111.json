@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "중학교 환경&기술&재해안전&기타",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "low"
     }
-  ]
+  ],
+  "tagsNote": "4년 만의 복직을 앞두고 2학기 과정중심평가 아이디어를 구하는 질문(특정 단원과 무관).",
+  "taggedAt": "2026-08-13T12:29:51.545Z"
 }

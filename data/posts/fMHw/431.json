@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "중학교 환경&기술&재해안전&기타",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "low"
     }
-  ]
+  ],
+  "tagsNote": "비상교과서 핵심정리 학습지를 편집한 중1~3학년 취약시기 총정리 자료 공유(여러 단원 포괄).",
+  "taggedAt": "2026-08-13T12:54:04.695Z"
 }

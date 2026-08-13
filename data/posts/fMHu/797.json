@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "중학교 생물수업 이야기",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "EBS 배움너머·배움플러스 자료 추천(특정 단원 아님).",
+  "taggedAt": "2026-08-13T04:24:17.210Z"
 }

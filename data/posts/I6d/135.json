@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "평가 Ideas",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "low"
     }
-  ]
+  ],
+  "tagsNote": "출제 오류를 줄이기 위한 '단, ~한다' 조건 문구 모음 공동 작성 제안(특정 단원과 무관).",
+  "taggedAt": "2026-08-13T13:03:29.983Z"
 }

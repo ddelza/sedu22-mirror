@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "중학교 환경&기술&재해안전&기타",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "low"
     }
-  ]
+  ],
+  "tagsNote": "하이러닝 수업 후 종이학습지를 원하는 학생을 위한 2·4단원 그림 총정리 파일 공유(구체적 단원 불명확).",
+  "taggedAt": "2026-08-13T12:34:22.702Z"
 }

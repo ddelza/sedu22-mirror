@@ -17,6 +17,20 @@
       "category": "게시판별 분류",
       "topic": "센서로 하는 과학실험(최효석)",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "low"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "센서/데이터로깅",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "열평형·비열 실험을 위해 처음 제작한 센서 실험 가이드 종이 소개(31편, 특정 단원 한정 아님).",
+  "taggedAt": "2026-08-13T13:02:02.134Z"
 }

@@ -17,6 +17,20 @@
       "category": "게시판별 분류",
       "topic": "센서로 하는 과학실험(최효석)",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "low"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "센서/데이터로깅",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "이지온에서 지능형 과학실 ON으로 센서 데이터를 전송하는 기술적 방법 안내(22편, 특정 단원과 무관).",
+  "taggedAt": "2026-08-13T13:02:02.128Z"
 }

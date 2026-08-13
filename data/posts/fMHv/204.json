@@ -17,6 +17,27 @@
       "category": "게시판별 분류",
       "topic": "중학교 지구과학수업 이야기",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "지권의 변화",
+      "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "지권의 변화",
+      "confidence": "high"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "AR/VR",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "실감형 콘텐츠로 화성암 생성과정을 보고, 재활용품으로 암석·광물을 전시·관찰한 수행평가 준비 활동.",
+  "taggedAt": "2026-08-13T05:25:30.510Z"
 }

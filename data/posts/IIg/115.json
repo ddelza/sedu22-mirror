@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "사이버 교사연수",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "low"
     }
-  ]
+  ],
+  "tagsNote": "신규교사의 강의식 수업 참관과 임용고사 준비 사이의 간극에 대한 고민글(특정 단원과 무관).",
+  "taggedAt": "2026-08-13T13:13:51.983Z"
 }

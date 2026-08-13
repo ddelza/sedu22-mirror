@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "평가 Ideas",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "low"
     }
-  ]
+  ],
+  "tagsNote": "수업태도 반영 동료평가에서 담합 문제를 겪고 좋은 방법을 구하는 질문(특정 단원과 무관).",
+  "taggedAt": "2026-08-13T13:12:37.806Z"
 }

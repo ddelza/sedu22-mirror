@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "중학교 환경&기술&재해안전&기타",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "low"
     }
-  ]
+  ],
+  "tagsNote": "3학년 원서 작성 이후 진행할 골든벨 문제 자료를 요청하는 글(구체적 단원 불명확).",
+  "taggedAt": "2026-08-13T12:55:32.308Z"
 }

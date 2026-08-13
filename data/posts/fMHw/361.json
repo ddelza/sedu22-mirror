@@ -17,6 +17,22 @@
       "category": "게시판별 분류",
       "topic": "중학교 환경&기술&재해안전&기타",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "파동",
+      "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "파동",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "목소리가 닮는 이유를 다룬 스펀지 방송 영상 요청에 따른 공유(물리 내용, 지구과학 게시판과 다른 일반 게시판에 교차 게시됨).",
+  "taggedAt": "2026-08-13T12:51:02.889Z"
 }

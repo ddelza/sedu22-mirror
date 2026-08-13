@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "사이버 교사연수",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "low"
     }
-  ]
+  ],
+  "tagsNote": "필름통 온도계 아이디어가 탐구활동으로 발전한 과정을 다룬 '나만의 과학수업 브랜드 만들기' 발표 자료(특정 단원 한정 아님, 탐구방법론 중심).",
+  "taggedAt": "2026-08-13T13:15:05.059Z"
 }

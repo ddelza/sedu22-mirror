@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "중학교 지구과학수업 이야기",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "low"
     }
-  ]
+  ],
+  "tagsNote": "한국교육과정평가원에서 개발한 중학교 1학년 과학 정의적 특성 함양 프로그램 소개(특정 단원 한정 아님).",
+  "taggedAt": "2026-08-13T05:30:34.581Z"
 }

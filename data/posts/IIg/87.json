@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "사이버 교사연수",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "low"
     }
-  ]
+  ],
+  "tagsNote": "하브루타·배움의공동체 수업에서 토론 중심 평가를 어떻게 할지 묻는 질문(특정 단원과 무관, 관성 수업 영상 언급은 참고용).",
+  "taggedAt": "2026-08-13T13:16:31.648Z"
 }

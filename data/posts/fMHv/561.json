@@ -17,6 +17,22 @@
       "category": "게시판별 분류",
       "topic": "중학교 지구과학수업 이야기",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "수권과 해수의 순환",
+      "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "수권과 해수의 순환",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "개정 교과서에서 퍼밀 대신 psu 단위를 쓰는 것과 두 단위의 차이에 대한 질문.",
+  "taggedAt": "2026-08-13T12:11:20.270Z"
 }

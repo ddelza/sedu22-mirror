@@ -17,6 +17,22 @@
       "category": "게시판별 분류",
       "topic": "중학교 지구과학수업 이야기",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "운동과 에너지",
+      "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "운동과 에너지",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "낙하하는 물체의 다중섬광사진을 스마트폰 연사 앱으로 촬영하는 방법 소개(물리 내용, 지구과학 게시판에 교차 게시됨).",
+  "taggedAt": "2026-08-13T05:23:34.867Z"
 }

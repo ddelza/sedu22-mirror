@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "중학교 환경&기술&재해안전&기타",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "low"
     }
-  ]
+  ],
+  "tagsNote": "QR코드로 제작한 안전교육 5분 동영상 자료 공유(특정 단원과 무관).",
+  "taggedAt": "2026-08-13T12:31:15.875Z"
 }

@@ -17,6 +17,22 @@
       "category": "게시판별 분류",
       "topic": "중학교 환경&기술&재해안전&기타",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "전기와 자기",
+      "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "전기와 자기",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "공사장 안전모에 달린 전구들이 직렬·병렬 중 어느 연결인지에 대한 실생활 적용 질문(물리 내용, 지구과학 게시판과 다른 일반 게시판에 교차 게시됨).",
+  "taggedAt": "2026-08-13T12:47:52.435Z"
 }

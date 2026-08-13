@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "중학교 생물수업 이야기",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "신규교사의 조언 요청 글(구체적 단원 내용 불명확).",
+  "taggedAt": "2026-08-13T04:24:17.229Z"
 }

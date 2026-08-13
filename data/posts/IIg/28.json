@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "사이버 교사연수",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "low"
     }
-  ]
+  ],
+  "tagsNote": "한국교육과정평가원 '수업장학' 연구보고서 중 동료 장학 실천 사례 발췌 공유(특정 단원과 무관).",
+  "taggedAt": "2026-08-13T13:15:05.054Z"
 }

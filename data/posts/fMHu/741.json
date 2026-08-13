@@ -17,6 +17,22 @@
       "category": "게시판별 분류",
       "topic": "중학교 생물수업 이야기",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "식물과 에너지",
+      "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "식물과 에너지",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "배추 잎 구조(줄기·잎맥) 관찰 실험 관련 질문.",
+  "taggedAt": "2026-08-13T04:21:21.349Z"
 }

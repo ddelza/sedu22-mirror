@@ -17,6 +17,22 @@
       "category": "게시판별 분류",
       "topic": "중학교 지구과학수업 이야기",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "생물의 구성과 다양성",
+      "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "생물의 구성과 다양성",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "달개비 잎으로 공변세포 표본을 만들다 벌레가 나온 관찰 수업 에피소드(생물 내용, 지구과학 게시판에 교차 게시됨).",
+  "taggedAt": "2026-08-13T12:23:37.890Z"
 }

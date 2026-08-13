@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "평가 Ideas",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "low"
     }
-  ]
+  ],
+  "tagsNote": "미래핵심역량(4C) 점검을 위한 학습 후 학생설문지 양식 공유(특정 단원과 무관).",
+  "taggedAt": "2026-08-13T13:12:37.821Z"
 }

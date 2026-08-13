@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "평가 Ideas",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "low"
     }
-  ]
+  ],
+  "tagsNote": "영재고 진학을 위한 조기졸업 시험 출제 방식(과목 범위 포함)을 묻는 질문(특정 단원과 무관).",
+  "taggedAt": "2026-08-13T13:10:14.922Z"
 }

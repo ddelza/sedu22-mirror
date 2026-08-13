@@ -17,6 +17,20 @@
       "category": "게시판별 분류",
       "topic": "센서로 하는 과학실험(최효석)",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": "고등학교",
+      "subject": "물리학",
+      "unit": "탄성력과 역학적 에너지",
+      "confidence": "medium"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "센서/데이터로깅",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "용수철 직렬·병렬 연결에 따른 탄성계수 변화가 역학적 에너지에 미치는 영향을 탐구하는 실험 구상(38편).",
+  "taggedAt": "2026-08-13T13:02:02.141Z"
 }

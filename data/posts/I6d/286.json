@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "평가 Ideas",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "미분류",
+      "confidence": "low"
     }
-  ]
+  ],
+  "tagsNote": "중2 1학기 교수학습·수행평가 계획(지권의 변화→물질의 특성→빛과 파동→물질의 구성 순) 공유(여러 단원 포괄).",
+  "taggedAt": "2026-08-13T13:11:29.192Z"
 }

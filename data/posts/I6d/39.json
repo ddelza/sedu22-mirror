@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "평가 Ideas",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "low"
     }
-  ]
+  ],
+  "tagsNote": "한국교육과정평가원의 성취평가제 관련 예시 문항 자료 공유(특정 단원과 무관).",
+  "taggedAt": "2026-08-13T13:11:29.208Z"
 }

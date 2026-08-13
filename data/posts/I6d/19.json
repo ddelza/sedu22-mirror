@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "평가 Ideas",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "low"
     }
-  ]
+  ],
+  "tagsNote": "중1·중3 중간고사 문항 일부를 공유하며 문항 나눔을 제안하는 글(특정 단원과 무관).",
+  "taggedAt": "2026-08-13T13:08:11.316Z"
 }

@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "중학교 환경&기술&재해안전&기타",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "low"
     }
-  ]
+  ],
+  "tagsNote": "문제 사진만 첨부된 정답 문의(구체적 단원 내용 확인 불가).",
+  "taggedAt": "2026-08-13T12:51:02.876Z"
 }

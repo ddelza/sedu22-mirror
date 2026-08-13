@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "사이버 교사연수",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "low"
     }
-  ]
+  ],
+  "tagsNote": "STEAM 연수를 듣고 자신의 시범학교 STEAM 실천과 일치함을 확인한 소감글(특정 단원과 무관).",
+  "taggedAt": "2026-08-13T13:15:05.053Z"
 }

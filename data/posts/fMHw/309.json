@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "중학교 환경&기술&재해안전&기타",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "low"
     }
-  ]
+  ],
+  "tagsNote": "제출한 진도계획표보다 진도가 앞서갔을 때 고사출제 범위와 선행학습 기준에 대한 질문(특정 단원과 무관).",
+  "taggedAt": "2026-08-13T12:49:29.316Z"
 }

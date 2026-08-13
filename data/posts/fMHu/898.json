@@ -17,6 +17,27 @@
       "category": "게시판별 분류",
       "topic": "중학교 생물수업 이야기",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "식물과 에너지",
+      "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "식물과 에너지",
+      "confidence": "high"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "MBL센서",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "정량적 산소 측정이 가능한 시판 광합성 실험장치 사용 경험 문의.",
+  "taggedAt": "2026-08-13T04:27:08.435Z"
 }

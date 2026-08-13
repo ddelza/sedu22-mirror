@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "중학교 환경&기술&재해안전&기타",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "소화·순환·호흡·배설",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "'비타민'과 '바이타민' 표기 중 어느 것으로 가르치는지에 대한 용어 질문(생물 내용, 지구과학 게시판과 다른 일반 게시판에 교차 게시됨).",
+  "taggedAt": "2026-08-13T12:51:02.898Z"
 }

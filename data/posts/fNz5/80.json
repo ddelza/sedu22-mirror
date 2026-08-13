@@ -17,6 +17,20 @@
       "category": "게시판별 분류",
       "topic": "센서로 하는 과학실험(최효석)",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": "고등학교",
+      "subject": "물리학",
+      "unit": "빛의 편광",
+      "confidence": "medium"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "센서/데이터로깅",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "편광 필름 2장의 회전 각도에 따른 빛의 밝기 변화를 밝기센서로 자동 측정하는 고등버전 실험(44편).",
+  "taggedAt": "2026-08-13T13:02:02.145Z"
 }

@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "중학교 환경&기술&재해안전&기타",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "low"
     }
-  ]
+  ],
+  "tagsNote": "동기부여가 부족한 8단원 과학과 인류문명 수업을 위한 미래신문 만들기 활동 공유(특정 지구과학 단원 아님).",
+  "taggedAt": "2026-08-13T12:58:04.710Z"
 }

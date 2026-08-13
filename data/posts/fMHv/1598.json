@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "중학교 지구과학수업 이야기",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "지권의 변화",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "해안에서 멀어질수록 퇴적물 크기가 작아진다는 개념과 역암·사암·이암 생성장소 문제 사이의 모순으로 보이는 부분에 대한 질문.",
+  "taggedAt": "2026-08-13T05:23:34.840Z"
 }

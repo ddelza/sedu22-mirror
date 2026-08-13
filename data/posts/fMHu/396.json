@@ -17,6 +17,22 @@
       "category": "게시판별 분류",
       "topic": "중학교 생물수업 이야기",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "동물과 에너지",
+      "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "동물과 에너지",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "아밀라아제 녹말 소화 실험 키트의 대조군(끓인 침·얼음 침) 결과 해석 질문.",
+  "taggedAt": "2026-08-13T04:08:17.296Z"
 }

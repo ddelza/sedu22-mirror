@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "평가 Ideas",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "low"
     }
-  ]
+  ],
+  "tagsNote": "단원 도입부에 활용하는 과학 마인드맵 만들기 활동 소개(특정 단원과 무관).",
+  "taggedAt": "2026-08-13T13:12:37.801Z"
 }

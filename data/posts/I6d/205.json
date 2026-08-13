@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "평가 Ideas",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "low"
     }
-  ]
+  ],
+  "tagsNote": "수행평가에 0점을 줘도 되는지에 대한 지침 해석 질문(특정 단원과 무관).",
+  "taggedAt": "2026-08-13T13:08:11.327Z"
 }

@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "중학교 환경&기술&재해안전&기타",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "low"
     }
-  ]
+  ],
+  "tagsNote": "지역 특성과 서술형 평가 문화를 언급하며 '의인 100명 프로젝트' 계획을 나누는 글(특정 단원과 무관).",
+  "taggedAt": "2026-08-13T12:58:04.731Z"
 }

@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "중학교 지구과학수업 이야기",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "지권의 변화",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "지구계 개념 설명에 나오는 예시들을 재해석해보는 교과서 수정 프로젝트 글.",
+  "taggedAt": "2026-08-13T05:30:34.576Z"
 }

@@ -17,6 +17,22 @@
       "category": "게시판별 분류",
       "topic": "중학교 지구과학수업 이야기",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "생물의 구성과 다양성",
+      "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "생물의 구성과 다양성",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "닭의장풀 공변세포 관찰 중 발견한 다각형 결정체의 정체를 묻는 질문(생물 내용, 지구과학 게시판에 교차 게시됨).",
+  "taggedAt": "2026-08-13T05:25:30.467Z"
 }

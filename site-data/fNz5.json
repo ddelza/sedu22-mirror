@@ -15,6 +15,18 @@
         "category": "게시판별 분류",
         "topic": "센서로 하는 과학실험(최효석)",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "low"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "센서/데이터로깅",
+        "confidence": "high"
       }
     ]
   },
@@ -33,6 +45,18 @@
       {
         "category": "게시판별 분류",
         "topic": "센서로 하는 과학실험(최효석)",
+        "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "low"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "센서/데이터로깅",
         "confidence": "high"
       }
     ]
@@ -53,6 +77,18 @@
         "category": "게시판별 분류",
         "topic": "센서로 하는 과학실험(최효석)",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "화학",
+        "unit": "산과 염기의 세기",
+        "confidence": "medium"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "센서/데이터로깅",
+        "confidence": "high"
       }
     ]
   },
@@ -71,6 +107,18 @@
       {
         "category": "게시판별 분류",
         "topic": "센서로 하는 과학실험(최효석)",
+        "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": "고등학교",
+        "subject": "물리학",
+        "unit": "탄성력과 역학적 에너지",
+        "confidence": "medium"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "센서/데이터로깅",
         "confidence": "high"
       }
     ]
@@ -91,6 +139,18 @@
         "category": "게시판별 분류",
         "topic": "센서로 하는 과학실험(최효석)",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": "고등학교",
+        "subject": "물리학",
+        "unit": "회전운동과 병진운동",
+        "confidence": "medium"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "센서/데이터로깅",
+        "confidence": "high"
       }
     ]
   },
@@ -109,6 +169,18 @@
       {
         "category": "게시판별 분류",
         "topic": "센서로 하는 과학실험(최효석)",
+        "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": "고등학교",
+        "subject": "물리학",
+        "unit": "빛의 편광",
+        "confidence": "medium"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "센서/데이터로깅",
         "confidence": "high"
       }
     ]
@@ -129,6 +201,18 @@
         "category": "게시판별 분류",
         "topic": "센서로 하는 과학실험(최효석)",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": "고등학교",
+        "subject": "화학",
+        "unit": "전기분해",
+        "confidence": "medium"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "센서/데이터로깅",
+        "confidence": "high"
       }
     ]
   },
@@ -148,6 +232,18 @@
         "category": "게시판별 분류",
         "topic": "센서로 하는 과학실험(최효석)",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "low"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "센서/데이터로깅",
+        "confidence": "medium"
       }
     ]
   },
@@ -166,6 +262,18 @@
       {
         "category": "게시판별 분류",
         "topic": "센서로 하는 과학실험(최효석)",
+        "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": "고등학교",
+        "subject": "화학",
+        "unit": "전기분해",
+        "confidence": "medium"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "센서/데이터로깅",
         "confidence": "high"
       }
     ]
@@ -186,6 +294,18 @@
         "category": "게시판별 분류",
         "topic": "센서로 하는 과학실험(최효석)",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": "고등학교",
+        "subject": "물리학",
+        "unit": "빛의 스펙트럼과 적외선",
+        "confidence": "medium"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "센서/데이터로깅",
+        "confidence": "high"
       }
     ]
   },
@@ -204,6 +324,18 @@
       {
         "category": "게시판별 분류",
         "topic": "센서로 하는 과학실험(최효석)",
+        "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": "고등학교",
+        "subject": "물리학",
+        "unit": "탄성력과 역학적 에너지",
+        "confidence": "medium"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "센서/데이터로깅",
         "confidence": "high"
       }
     ]
@@ -224,6 +356,18 @@
         "category": "게시판별 분류",
         "topic": "센서로 하는 과학실험(최효석)",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "low"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "AI",
+        "confidence": "high"
       }
     ]
   },
@@ -242,6 +386,18 @@
       {
         "category": "게시판별 분류",
         "topic": "센서로 하는 과학실험(최효석)",
+        "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": "고등학교",
+        "subject": "화학",
+        "unit": "중화반응",
+        "confidence": "medium"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "센서/데이터로깅",
         "confidence": "high"
       }
     ]
@@ -262,6 +418,18 @@
         "category": "게시판별 분류",
         "topic": "센서로 하는 과학실험(최효석)",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": "고등학교",
+        "subject": "물리학",
+        "unit": "뉴턴 운동 법칙",
+        "confidence": "medium"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "센서/데이터로깅",
+        "confidence": "high"
       }
     ]
   },
@@ -280,6 +448,18 @@
       {
         "category": "게시판별 분류",
         "topic": "센서로 하는 과학실험(최효석)",
+        "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": "고등학교",
+        "subject": "물리학",
+        "unit": "뉴턴 운동 법칙",
+        "confidence": "medium"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "센서/데이터로깅",
         "confidence": "high"
       }
     ]
@@ -300,6 +480,18 @@
         "category": "게시판별 분류",
         "topic": "센서로 하는 과학실험(최효석)",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "low"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "센서/데이터로깅",
+        "confidence": "high"
       }
     ]
   },
@@ -318,6 +510,18 @@
       {
         "category": "게시판별 분류",
         "topic": "센서로 하는 과학실험(최효석)",
+        "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "low"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "센서/데이터로깅",
         "confidence": "high"
       }
     ]
@@ -338,6 +542,18 @@
         "category": "게시판별 분류",
         "topic": "센서로 하는 과학실험(최효석)",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "low"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "센서/데이터로깅",
+        "confidence": "high"
       }
     ]
   },
@@ -356,6 +572,18 @@
       {
         "category": "게시판별 분류",
         "topic": "센서로 하는 과학실험(최효석)",
+        "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "low"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "센서/데이터로깅",
         "confidence": "high"
       }
     ]
@@ -376,6 +604,18 @@
         "category": "게시판별 분류",
         "topic": "센서로 하는 과학실험(최효석)",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": "고등학교",
+        "subject": "화학",
+        "unit": "기체의 압력과 온도",
+        "confidence": "medium"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "센서/데이터로깅",
+        "confidence": "high"
       }
     ]
   },
@@ -394,6 +634,18 @@
       {
         "category": "게시판별 분류",
         "topic": "센서로 하는 과학실험(최효석)",
+        "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": "고등학교",
+        "subject": "화학",
+        "unit": "기체의 압력과 온도",
+        "confidence": "medium"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "센서/데이터로깅",
         "confidence": "high"
       }
     ]
@@ -414,6 +666,18 @@
         "category": "게시판별 분류",
         "topic": "센서로 하는 과학실험(최효석)",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": "고등학교",
+        "subject": "물리학",
+        "unit": "전류에 의한 자기장",
+        "confidence": "medium"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "센서/데이터로깅",
+        "confidence": "high"
       }
     ]
   },
@@ -432,6 +696,18 @@
       {
         "category": "게시판별 분류",
         "topic": "센서로 하는 과학실험(최효석)",
+        "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": "고등학교",
+        "subject": "물리학",
+        "unit": "전력과 열량",
+        "confidence": "medium"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "센서/데이터로깅",
         "confidence": "high"
       }
     ]
@@ -452,6 +728,18 @@
         "category": "게시판별 분류",
         "topic": "센서로 하는 과학실험(최효석)",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": "고등학교",
+        "subject": "물리학",
+        "unit": "렌즈와 초점거리",
+        "confidence": "medium"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "센서/데이터로깅",
+        "confidence": "high"
       }
     ]
   },
@@ -470,6 +758,18 @@
       {
         "category": "게시판별 분류",
         "topic": "센서로 하는 과학실험(최효석)",
+        "confidence": "high"
+      },
+      {
+        "curriculumYear": "2015",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "여러 가지 화학 반응",
+        "confidence": "medium"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "센서/데이터로깅",
         "confidence": "high"
       }
     ]
@@ -490,6 +790,18 @@
         "category": "게시판별 분류",
         "topic": "센서로 하는 과학실험(최효석)",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": "2015",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "운동과 에너지",
+        "confidence": "high"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "센서/데이터로깅",
+        "confidence": "high"
       }
     ]
   },
@@ -508,6 +820,18 @@
       {
         "category": "게시판별 분류",
         "topic": "센서로 하는 과학실험(최효석)",
+        "confidence": "high"
+      },
+      {
+        "curriculumYear": "2015",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "화학 반응에서의 에너지 출입",
+        "confidence": "high"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "센서/데이터로깅",
         "confidence": "high"
       }
     ]
@@ -528,6 +852,18 @@
         "category": "게시판별 분류",
         "topic": "센서로 하는 과학실험(최효석)",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "low"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "센서/데이터로깅",
+        "confidence": "high"
       }
     ]
   },
@@ -546,6 +882,18 @@
       {
         "category": "게시판별 분류",
         "topic": "센서로 하는 과학실험(최효석)",
+        "confidence": "high"
+      },
+      {
+        "curriculumYear": "2015",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "기권과 날씨",
+        "confidence": "medium"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "센서/데이터로깅",
         "confidence": "high"
       }
     ]
@@ -566,6 +914,18 @@
         "category": "게시판별 분류",
         "topic": "센서로 하는 과학실험(최효석)",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": "2015",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "전기와 자기",
+        "confidence": "high"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "센서/데이터로깅",
+        "confidence": "high"
       }
     ]
   },
@@ -584,6 +944,18 @@
       {
         "category": "게시판별 분류",
         "topic": "센서로 하는 과학실험(최효석)",
+        "confidence": "high"
+      },
+      {
+        "curriculumYear": "2015",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "기권과 날씨",
+        "confidence": "high"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "센서/데이터로깅",
         "confidence": "high"
       }
     ]
@@ -604,6 +976,18 @@
         "category": "게시판별 분류",
         "topic": "센서로 하는 과학실험(최효석)",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": "고등학교",
+        "subject": "화학",
+        "unit": "기체의 용해도",
+        "confidence": "low"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "센서/데이터로깅",
+        "confidence": "high"
       }
     ]
   },
@@ -622,6 +1006,18 @@
       {
         "category": "게시판별 분류",
         "topic": "센서로 하는 과학실험(최효석)",
+        "confidence": "high"
+      },
+      {
+        "curriculumYear": "2015",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "열과 우리 생활",
+        "confidence": "medium"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "센서/데이터로깅",
         "confidence": "high"
       }
     ]
@@ -642,6 +1038,18 @@
         "category": "게시판별 분류",
         "topic": "센서로 하는 과학실험(최효석)",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": "2015",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "자극과 반응",
+        "confidence": "medium"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "센서/데이터로깅",
+        "confidence": "high"
       }
     ]
   },
@@ -660,6 +1068,18 @@
       {
         "category": "게시판별 분류",
         "topic": "센서로 하는 과학실험(최효석)",
+        "confidence": "high"
+      },
+      {
+        "curriculumYear": "2015",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "수권과 해수의 순환",
+        "confidence": "high"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "센서/데이터로깅",
         "confidence": "high"
       }
     ]
@@ -680,6 +1100,18 @@
         "category": "게시판별 분류",
         "topic": "센서로 하는 과학실험(최효석)",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": "2015",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "물질의 상태변화",
+        "confidence": "medium"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "센서/데이터로깅",
+        "confidence": "high"
       }
     ]
   },
@@ -698,6 +1130,18 @@
       {
         "category": "게시판별 분류",
         "topic": "센서로 하는 과학실험(최효석)",
+        "confidence": "high"
+      },
+      {
+        "curriculumYear": "2015",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "별과 우주",
+        "confidence": "medium"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "센서/데이터로깅",
         "confidence": "high"
       }
     ]
@@ -718,6 +1162,18 @@
         "category": "게시판별 분류",
         "topic": "센서로 하는 과학실험(최효석)",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": "2015",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "물질의 특성",
+        "confidence": "medium"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "센서/데이터로깅",
+        "confidence": "high"
       }
     ]
   },
@@ -736,6 +1192,18 @@
       {
         "category": "게시판별 분류",
         "topic": "센서로 하는 과학실험(최효석)",
+        "confidence": "high"
+      },
+      {
+        "curriculumYear": "2015",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "기권과 날씨",
+        "confidence": "medium"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "센서/데이터로깅",
         "confidence": "high"
       }
     ]
@@ -756,6 +1224,18 @@
         "category": "게시판별 분류",
         "topic": "센서로 하는 과학실험(최효석)",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": "2015",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "화학 반응에서의 에너지 출입",
+        "confidence": "medium"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "센서/데이터로깅",
+        "confidence": "high"
       }
     ]
   },
@@ -774,6 +1254,18 @@
       {
         "category": "게시판별 분류",
         "topic": "센서로 하는 과학실험(최효석)",
+        "confidence": "high"
+      },
+      {
+        "curriculumYear": "2015",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "물질의 특성",
+        "confidence": "medium"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "센서/데이터로깅",
         "confidence": "high"
       }
     ]
@@ -794,6 +1286,18 @@
         "category": "게시판별 분류",
         "topic": "센서로 하는 과학실험(최효석)",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": "2015",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "물질의 특성",
+        "confidence": "high"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "센서/데이터로깅",
+        "confidence": "high"
       }
     ]
   },
@@ -812,6 +1316,18 @@
       {
         "category": "게시판별 분류",
         "topic": "센서로 하는 과학실험(최효석)",
+        "confidence": "high"
+      },
+      {
+        "curriculumYear": "2015",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "열과 우리 생활",
+        "confidence": "high"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "센서/데이터로깅",
         "confidence": "high"
       }
     ]
@@ -832,6 +1348,18 @@
         "category": "게시판별 분류",
         "topic": "센서로 하는 과학실험(최효석)",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": "2015",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "물질의 상태변화",
+        "confidence": "medium"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "센서/데이터로깅",
+        "confidence": "high"
       }
     ]
   },
@@ -850,6 +1378,18 @@
       {
         "category": "게시판별 분류",
         "topic": "센서로 하는 과학실험(최효석)",
+        "confidence": "high"
+      },
+      {
+        "curriculumYear": "2015",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "열과 우리 생활",
+        "confidence": "medium"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "센서/데이터로깅",
         "confidence": "high"
       }
     ]
@@ -870,6 +1410,18 @@
         "category": "게시판별 분류",
         "topic": "센서로 하는 과학실험(최효석)",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": "2015",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "열과 우리 생활",
+        "confidence": "medium"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "센서/데이터로깅",
+        "confidence": "high"
       }
     ]
   },
@@ -888,6 +1440,18 @@
       {
         "category": "게시판별 분류",
         "topic": "센서로 하는 과학실험(최효석)",
+        "confidence": "high"
+      },
+      {
+        "curriculumYear": "2015",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "기체의 성질",
+        "confidence": "high"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "센서/데이터로깅",
         "confidence": "high"
       }
     ]
@@ -908,6 +1472,18 @@
         "category": "게시판별 분류",
         "topic": "센서로 하는 과학실험(최효석)",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": "2015",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "식물과 에너지",
+        "confidence": "medium"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "센서/데이터로깅",
+        "confidence": "high"
       }
     ]
   },
@@ -927,6 +1503,18 @@
         "category": "게시판별 분류",
         "topic": "센서로 하는 과학실험(최효석)",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": "2015",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "기체의 성질",
+        "confidence": "medium"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "센서/데이터로깅",
+        "confidence": "high"
       }
     ]
   },
@@ -945,6 +1533,18 @@
       {
         "category": "게시판별 분류",
         "topic": "센서로 하는 과학실험(최효석)",
+        "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "low"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "센서/데이터로깅",
         "confidence": "high"
       }
     ]

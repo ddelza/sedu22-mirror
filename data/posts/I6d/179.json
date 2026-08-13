@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "평가 Ideas",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "low"
     }
-  ]
+  ],
+  "tagsNote": "시험 전 학습지 검사를 겸한 1:1 학습활동 면담 진행 방법 공유(특정 단원과 무관).",
+  "taggedAt": "2026-08-13T13:04:51.247Z"
 }

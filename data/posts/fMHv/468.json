@@ -17,6 +17,20 @@
       "category": "게시판별 분류",
       "topic": "중학교 지구과학수업 이야기",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "태양계",
+      "confidence": "high"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "온라인 수업 자료",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "방탈출 게임을 응용한 '지구무사귀환 프로젝트' 태양계 행성 특징 강의와 구글설문지 자료 공유.",
+  "taggedAt": "2026-08-13T12:08:13.572Z"
 }

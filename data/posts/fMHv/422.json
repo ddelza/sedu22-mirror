@@ -17,6 +17,22 @@
       "category": "게시판별 분류",
       "topic": "중학교 지구과학수업 이야기",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "태양계",
+      "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "태양계",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "동서남북 하늘에서 천체가 이동하는 것처럼 보이는 방향을 정리한 별의 일주운동 학습 자료 공유.",
+  "taggedAt": "2026-08-13T12:05:07.504Z"
 }

@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "평가 Ideas",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "low"
     }
-  ]
+  ],
+  "tagsNote": "신규교사가 지구과학1·2 중간·기말 진도 범위를 다른 학교와 비교해보는 질문(특정 단원과 무관).",
+  "taggedAt": "2026-08-13T13:04:51.235Z"
 }

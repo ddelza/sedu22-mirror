@@ -17,6 +17,22 @@
       "category": "게시판별 분류",
       "topic": "중학교 생물수업 이야기",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "동물과 에너지",
+      "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "동물과 에너지",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "소화·호흡·순환의 유기적 연관성을 강조하는 스토리텔링 수업 공유.",
+  "taggedAt": "2026-08-13T04:24:17.219Z"
 }

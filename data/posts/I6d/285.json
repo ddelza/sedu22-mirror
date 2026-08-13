@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "평가 Ideas",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": "고등학교",
+      "subject": "지구과학",
+      "unit": "미분류",
+      "confidence": "low"
     }
-  ]
+  ],
+  "tagsNote": "고2 지구과학(2022개정), 고3 지구과학2(2015개정) 평가계획서 공유(과목 전체, 특정 단원 한정 아님).",
+  "taggedAt": "2026-08-13T13:11:29.192Z"
 }

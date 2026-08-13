@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "중학교 환경&기술&재해안전&기타",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "low"
     }
-  ]
+  ],
+  "tagsNote": "고1 3월 모의고사를 원격수업용 구글설문지로 재구성한 자료 공유(중학교 교육과정과 무관).",
+  "taggedAt": "2026-08-13T12:46:21.329Z"
 }

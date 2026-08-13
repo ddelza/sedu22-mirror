@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "중학교 환경&기술&재해안전&기타",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "low"
     }
-  ]
+  ],
+  "tagsNote": "이비인후·발성·단세포 등 추가 인체 그림자료를 선별해 받은 후기(여러 생물 단원 포괄).",
+  "taggedAt": "2026-08-13T12:51:02.881Z"
 }

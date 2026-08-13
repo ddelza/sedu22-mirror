@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "평가 Ideas",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "low"
     }
-  ]
+  ],
+  "tagsNote": "학생부 종합전형 확대를 기대하며 '돈 래그' 사례를 소개하는 글(특정 단원과 무관).",
+  "taggedAt": "2026-08-13T13:03:29.965Z"
 }

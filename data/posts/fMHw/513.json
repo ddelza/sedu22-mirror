@@ -17,6 +17,22 @@
       "category": "게시판별 분류",
       "topic": "중학교 환경&기술&재해안전&기타",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "생물의 다양성",
+      "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "기권과 날씨",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "생물다양성·탄소중립생활을 그리는 자유학기 에코백 만들기 활동에 쓸 에코백 구입처 추천 요청.",
+  "taggedAt": "2026-08-13T12:56:59.885Z"
 }

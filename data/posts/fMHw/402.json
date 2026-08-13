@@ -17,6 +17,22 @@
       "category": "게시판별 분류",
       "topic": "중학교 환경&기술&재해안전&기타",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "기권과 날씨",
+      "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "날씨와 기후변화",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "기후위기 수업 후 국가·사회·기업에 지구를 구할 제안을 담은 방학 과제 결과물 공유.",
+  "taggedAt": "2026-08-13T12:52:37.724Z"
 }

@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "중학교 환경&기술&재해안전&기타",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "low"
     }
-  ]
+  ],
+  "tagsNote": "고1 과학탐구실험 시간에 진행한 대기압·표면장력 실험 절차에 대한 질문(중학교 교육과정과 무관).",
+  "taggedAt": "2026-08-13T12:52:37.709Z"
 }

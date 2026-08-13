@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "중학교 환경&기술&재해안전&기타",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "low"
     }
-  ]
+  ],
+  "tagsNote": "비상교과서 활동을 이용한 1학년 2학기말 생기부 기재용 조별활동 진행 소개(특정 단원 한정 아님).",
+  "taggedAt": "2026-08-13T12:58:04.733Z"
 }

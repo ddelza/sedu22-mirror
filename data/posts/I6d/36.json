@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "평가 Ideas",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "미분류",
+      "confidence": "low"
     }
-  ]
+  ],
+  "tagsNote": "자유학기제·정의적영역 평가를 포함한 2015학년 평가계획 수립을 위해 사례를 구하는 질문(특정 단원과 무관).",
+  "taggedAt": "2026-08-13T13:11:29.206Z"
 }

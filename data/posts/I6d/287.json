@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "평가 Ideas",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "low"
     }
-  ]
+  ],
+  "tagsNote": "모둠 산출물은 공유하되 개별 사고 과정을 평가하는 프로젝트 수행평가 방법 소개(특정 단원과 무관).",
+  "taggedAt": "2026-08-13T13:11:29.193Z"
 }

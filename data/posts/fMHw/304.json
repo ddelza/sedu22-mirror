@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "중학교 환경&기술&재해안전&기타",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "low"
     }
-  ]
+  ],
+  "tagsNote": "한국과학창의재단 과학 발표대회 참가 시 공결 처리 여부를 묻는 행정 질문(특정 단원과 무관).",
+  "taggedAt": "2026-08-13T12:49:29.312Z"
 }

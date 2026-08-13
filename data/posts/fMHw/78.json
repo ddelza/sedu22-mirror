@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "중학교 환경&기술&재해안전&기타",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "low"
     }
-  ]
+  ],
+  "tagsNote": "생명 존중·동물 보호를 주제로 학기말에 보여줄 다큐 영화 '생츄어리'에 대한 의견을 구하는 질문(특정 단원과 무관).",
+  "taggedAt": "2026-08-13T12:58:04.734Z"
 }

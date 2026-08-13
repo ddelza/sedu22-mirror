@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "평가 Ideas",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "low"
     }
-  ]
+  ],
+  "tagsNote": "중학교 지필고사 출제 참고 사이트를 서로 공유하자는 요청(특정 단원과 무관).",
+  "taggedAt": "2026-08-13T13:08:11.325Z"
 }

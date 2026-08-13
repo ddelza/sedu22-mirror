@@ -17,6 +17,22 @@
       "category": "게시판별 분류",
       "topic": "중학교 생물수업 이야기",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "생식과 유전",
+      "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "생식과 유전",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "야생 딸기의 배수체 형성 과정을 다룬 기사 소개(흰땃딸기 관찰 계기).",
+  "taggedAt": "2026-08-13T04:15:19.364Z"
 }

@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "평가 Ideas",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "low"
     }
-  ]
+  ],
+  "tagsNote": "1학년 2학기 교수학습 평가계획(AI 도움 작성) 공유(특정 단원 한정 아님).",
+  "taggedAt": "2026-08-13T13:10:14.903Z"
 }

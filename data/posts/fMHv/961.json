@@ -17,6 +17,22 @@
       "category": "게시판별 분류",
       "topic": "중학교 지구과학수업 이야기",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "파동",
+      "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "파동",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "소리의 발생을 보여주는 수업용 영상 자료 공유(물리 내용, 지구과학 게시판에 교차 게시됨).",
+  "taggedAt": "2026-08-13T12:28:12.648Z"
 }

@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "중학교 환경&기술&재해안전&기타",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "low"
     }
-  ]
+  ],
+  "tagsNote": "자유학기제 진로체험 관련 EBS 뉴스 '드림주니어' 유튜브 재생목록 소개(특정 단원과 무관).",
+  "taggedAt": "2026-08-13T12:31:15.863Z"
 }

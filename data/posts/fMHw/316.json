@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "중학교 환경&기술&재해안전&기타",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "low"
     }
-  ]
+  ],
+  "tagsNote": "융합교육으로 타 교과 교사도 과학실을 쓰게 되며 필요해진 전교직원 대상 실험실 안전교육 내용 구성에 대한 조언 요청.",
+  "taggedAt": "2026-08-13T12:49:29.320Z"
 }

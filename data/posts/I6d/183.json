@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "평가 Ideas",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "low"
     }
-  ]
+  ],
+  "tagsNote": "고등학교 지필고사 논술형(서답형) 비중 50% 운영 경험과 학생 설문 결과 공유(특정 단원과 무관).",
+  "taggedAt": "2026-08-13T13:04:51.250Z"
 }

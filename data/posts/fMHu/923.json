@@ -17,6 +17,22 @@
       "category": "게시판별 분류",
       "topic": "중학교 생물수업 이야기",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "물질의 특성",
+      "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "물질의 특성",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "크로마토그래피 활용 예시(혈액·향기·색소 분리 등) 채점 기준 교차검토 질문.",
+  "taggedAt": "2026-08-13T04:28:48.940Z"
 }

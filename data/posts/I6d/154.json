@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "평가 Ideas",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "low"
     }
-  ]
+  ],
+  "tagsNote": "발명 수행평가 보고서 양식·안내·평가계획 등 보고서 수행평가 자료 모음 공유(특정 단원과 무관).",
+  "taggedAt": "2026-08-13T13:04:51.232Z"
 }

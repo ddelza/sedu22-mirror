@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "평가 Ideas",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "low"
     }
-  ]
+  ],
+  "tagsNote": "2013년 학생 수업평가서 결과를 바탕으로 다음 해 수업 방침을 정리한 글(특정 단원과 무관).",
+  "taggedAt": "2026-08-13T13:03:29.958Z"
 }

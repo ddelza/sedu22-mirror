@@ -17,6 +17,20 @@
       "category": "게시판별 분류",
       "topic": "센서로 하는 과학실험(최효석)",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": "고등학교",
+      "subject": "물리학",
+      "unit": "빛의 스펙트럼과 적외선",
+      "confidence": "medium"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "센서/데이터로깅",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "여러 온도계를 동시에 활용해 허셜의 적외선 발견 실험을 재구성하는 구상(41편).",
+  "taggedAt": "2026-08-13T13:02:02.143Z"
 }

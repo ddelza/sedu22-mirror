@@ -17,6 +17,22 @@
       "category": "게시판별 분류",
       "topic": "중학교 생물수업 이야기",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "식물과 에너지",
+      "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "식물과 에너지",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "학교에 있던 빨간색 BTB 용액을 광합성 실험에 쓸 수 있는지 질문.",
+  "taggedAt": "2026-08-13T04:27:08.425Z"
 }

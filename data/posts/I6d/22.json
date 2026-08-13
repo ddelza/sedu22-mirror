@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "평가 Ideas",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "low"
     }
-  ]
+  ],
+  "tagsNote": "3학년 단원 수행평가 아이디어를 구하는 짧은 질문(구체적 단원 불명확).",
+  "taggedAt": "2026-08-13T13:08:11.337Z"
 }

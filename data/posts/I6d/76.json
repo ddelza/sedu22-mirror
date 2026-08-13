@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "평가 Ideas",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "low"
     }
-  ]
+  ],
+  "tagsNote": "2017년 부산 지역 서·논술형 지필 반영 비율 지침 공유(특정 단원과 무관).",
+  "taggedAt": "2026-08-13T13:12:37.818Z"
 }

@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "중학교 환경&기술&재해안전&기타",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "low"
     }
-  ]
+  ],
+  "tagsNote": "비상 사이트 문제의 오답 선지 이유를 묻는 질문(구체적 단원 내용 확인 불가).",
+  "taggedAt": "2026-08-13T12:52:37.721Z"
 }

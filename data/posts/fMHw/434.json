@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "중학교 환경&기술&재해안전&기타",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "low"
     }
-  ]
+  ],
+  "tagsNote": "학기말 활용을 고려 중인 SBS 창사특집 다큐 '고래와 나' 소개(특정 단원 한정 아님).",
+  "taggedAt": "2026-08-13T12:54:04.697Z"
 }

@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "평가 Ideas",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "low"
     }
-  ]
+  ],
+  "tagsNote": "정기고사 후 아쉬운 문항을 다음 사용을 위해 수정해보는 습관 공유(특정 단원과 무관).",
+  "taggedAt": "2026-08-13T13:12:37.805Z"
 }

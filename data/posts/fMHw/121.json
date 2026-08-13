@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "중학교 환경&기술&재해안전&기타",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "low"
     }
-  ]
+  ],
+  "tagsNote": "긴 온라인수업 후 등교 첫 수업을 규칙 소개와 비주얼씽킹 정리로 계획하는 방안 논의(특정 단원과 무관).",
+  "taggedAt": "2026-08-13T12:31:15.864Z"
 }

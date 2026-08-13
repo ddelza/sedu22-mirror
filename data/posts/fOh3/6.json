@@ -17,6 +17,20 @@
       "category": "게시판별 분류",
       "topic": "수업 촉매노트(김지희)",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "low"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "AI",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "2023년 연수에서 처음 접한 AI 코스웨어 프로그램(에스덕) 소개(특정 단원과 무관).",
+  "taggedAt": "2026-08-13T13:03:29.956Z"
 }

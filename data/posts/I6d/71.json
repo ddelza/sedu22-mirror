@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "평가 Ideas",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "low"
     }
-  ]
+  ],
+  "tagsNote": "음악 수업 사례를 빌려 '참(authentic) 수행평가'의 의미를 논하는 글(특정 단원과 무관).",
+  "taggedAt": "2026-08-13T13:12:37.815Z"
 }

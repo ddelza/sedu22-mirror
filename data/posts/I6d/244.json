@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "평가 Ideas",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "고등학교",
+      "subject": "생명과학1",
+      "unit": "미분류",
+      "confidence": "low"
     }
-  ]
+  ],
+  "tagsNote": "매시간 '나의 질문'을 작성하고 AI와 탐구하는 생명과학 질문탐구 수행평가 계획(특정 단원 한정 아님).",
+  "taggedAt": "2026-08-13T13:10:14.911Z"
 }

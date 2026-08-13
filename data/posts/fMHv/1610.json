@@ -17,6 +17,27 @@
       "category": "게시판별 분류",
       "topic": "중학교 지구과학수업 이야기",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "기권과 날씨",
+      "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "날씨와 기후변화",
+      "confidence": "high"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "AI",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "기단을 학원로맨스물 주인공으로 의인화하는 AI 활용 창작 활동 공유.",
+  "taggedAt": "2026-08-13T05:23:34.854Z"
 }

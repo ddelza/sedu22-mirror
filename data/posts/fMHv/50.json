@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "중학교 지구과학수업 이야기",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "지권의 변화",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "동학년 반복 지도 경험을 바탕으로 5~6차시로 진행한 암석과 광물 전문가 지식시장 수행평가 공유.",
+  "taggedAt": "2026-08-13T12:09:48.998Z"
 }

@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "평가 Ideas",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "low"
     }
-  ]
+  ],
+  "tagsNote": "교원평가 학생 만족도 자유서술식 응답 결과 공유(특정 단원과 무관).",
+  "taggedAt": "2026-08-13T13:11:29.207Z"
 }

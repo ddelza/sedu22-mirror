@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "평가 Ideas",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "low"
     }
-  ]
+  ],
+  "tagsNote": "온라인 카페를 활용한 과학수업일기 작성 아이디어 논의(특정 단원과 무관).",
+  "taggedAt": "2026-08-13T13:12:37.802Z"
 }

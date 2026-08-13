@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "중학교 지구과학수업 이야기",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "태양계",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "신규교사가 비상 교과서 기준으로 만든 3단원 태양계 수업 자료(읽기 전용 템플릿) 공유.",
+  "taggedAt": "2026-08-13T11:51:32.501Z"
 }

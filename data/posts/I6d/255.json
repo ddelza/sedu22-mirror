@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "평가 Ideas",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "고등학교",
+      "subject": "생명과학1",
+      "unit": "세포호흡",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "영상을 시청하고 세포호흡 관점에서 감상문을 제출하는 수행평가 아이디어 공유.",
+  "taggedAt": "2026-08-13T13:10:14.920Z"
 }

@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "중학교 환경&기술&재해안전&기타",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "low"
     }
-  ]
+  ],
+  "tagsNote": "진로캠프 외부강사 사례를 참고한 디자인더퓨처카드 활용 진로 수업 소개(특정 지구과학 단원 아님).",
+  "taggedAt": "2026-08-13T12:56:59.876Z"
 }

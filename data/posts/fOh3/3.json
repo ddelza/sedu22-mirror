@@ -17,6 +17,20 @@
       "category": "게시판별 분류",
       "topic": "수업 촉매노트(김지희)",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "low"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "AI",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "AI 시뮬레이션 수행평가에서 학생 결과물 깃허브 업로드를 자동화한 개선 사례(특정 단원과 무관).",
+  "taggedAt": "2026-08-13T13:02:02.150Z"
 }

@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "중학교 환경&기술&재해안전&기타",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "low"
     }
-  ]
+  ],
+  "tagsNote": "만화를 활용한 미래 과학과 직업 관련 과학글쓰기 자료 공유(특정 지구과학 단원 아님).",
+  "taggedAt": "2026-08-13T12:32:48.921Z"
 }

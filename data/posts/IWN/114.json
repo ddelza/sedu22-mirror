@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "좋은 글 & 책",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "고등학교",
+      "subject": "물리학",
+      "unit": "미분류",
+      "confidence": "low"
     }
-  ]
+  ],
+  "tagsNote": "양자물리에 관심 있는 중3 학생을 위한 추천도서를 구하는 질문(과목 전체, 특정 단원 한정 아님).",
+  "taggedAt": "2026-08-13T13:16:31.661Z"
 }

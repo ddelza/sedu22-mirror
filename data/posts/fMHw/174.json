@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "중학교 환경&기술&재해안전&기타",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "열",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "미래엔 교과서 4단원 '열에너지' 정의 오류에 대한 출판사 수정 답변 공유(물리 내용, 지구과학 게시판과 다른 일반 게시판에 교차 게시됨).",
+  "taggedAt": "2026-08-13T12:32:48.915Z"
 }

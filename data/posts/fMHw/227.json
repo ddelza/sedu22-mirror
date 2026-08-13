@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "중학교 환경&기술&재해안전&기타",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "low"
     }
-  ]
+  ],
+  "tagsNote": "만들기 제품 설명서 PDF 30개를 학생들이 개인 탭으로 받아볼 수 있는 방법을 묻는 기술적 질문(특정 단원과 무관).",
+  "taggedAt": "2026-08-13T12:34:22.707Z"
 }

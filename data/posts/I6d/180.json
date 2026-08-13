@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "평가 Ideas",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "low"
     }
-  ]
+  ],
+  "tagsNote": "과학탐구실험 성취평가제에서 A등급 비율이 예상보다 높을 때 처리 방법을 묻는 질문(특정 단원과 무관).",
+  "taggedAt": "2026-08-13T13:04:51.248Z"
 }

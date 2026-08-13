@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "중학교 환경&기술&재해안전&기타",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "low"
     }
-  ]
+  ],
+  "tagsNote": "비상 활동지를 기반으로 만든 띵커벨 워크시트·퀴즈 계정을 소개하는 글(여러 단원 포괄).",
+  "taggedAt": "2026-08-13T12:54:04.703Z"
 }

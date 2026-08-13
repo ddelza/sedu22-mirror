@@ -17,6 +17,27 @@
       "category": "게시판별 분류",
       "topic": "중학교 지구과학수업 이야기",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "기권과 날씨",
+      "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "날씨와 기후변화",
+      "confidence": "high"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "온라인 수업 자료",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "기존 구름송 놀토를 캔바로 다시 제작해 소절별 다시듣기 기능을 추가한 버전 공유.",
+  "taggedAt": "2026-08-13T12:14:29.564Z"
 }

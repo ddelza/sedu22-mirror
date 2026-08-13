@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "중학교 지구과학수업 이야기",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "태양계",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "탐구·보고서·달 모양 3단계로 진행하는 달의 위상 변화 수행평가 자료 공유.",
+  "taggedAt": "2026-08-13T12:05:07.491Z"
 }

@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "평가 Ideas",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "low"
     }
-  ]
+  ],
+  "tagsNote": "단원말·학년말 학생 피드백 설문 양식 공유 및 활용 제안(특정 단원과 무관).",
+  "taggedAt": "2026-08-13T13:10:14.908Z"
 }

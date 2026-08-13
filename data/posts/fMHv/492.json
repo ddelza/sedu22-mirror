@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "중학교 지구과학수업 이야기",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "태양계",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "제한된 등교일수 속에 진행한 '지구와 달' 단원 3월 3주차 수업기록 공유.",
+  "taggedAt": "2026-08-13T12:08:13.591Z"
 }

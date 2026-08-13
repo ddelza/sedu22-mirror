@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "좋은 글 & 책",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "low"
     }
-  ]
+  ],
+  "tagsNote": "물리 관련 과학도서 '아빠, 물리가 뭐예요?' 소개 기사 링크 공유(특정 단원과 무관).",
+  "taggedAt": "2026-08-13T13:16:31.663Z"
 }

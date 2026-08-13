@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "평가 Ideas",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "low"
     }
-  ]
+  ],
+  "tagsNote": "논술·구술 비율을 고민하는 중3 1학기 평가계획 구상 공유(특정 단원과 무관).",
+  "taggedAt": "2026-08-13T13:08:11.321Z"
 }

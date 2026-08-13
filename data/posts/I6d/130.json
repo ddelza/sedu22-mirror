@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "평가 Ideas",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "low"
     }
-  ]
+  ],
+  "tagsNote": "수업·평가 혁신 세미나에서 소개된 조선시대 과거 시험 문제 사례(특정 단원과 무관).",
+  "taggedAt": "2026-08-13T13:03:29.980Z"
 }

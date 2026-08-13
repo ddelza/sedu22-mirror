@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "중학교 환경&기술&재해안전&기타",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "low"
     }
-  ]
+  ],
+  "tagsNote": "고1 3월 모의고사(중학교 전 범위) 난이도에 대한 소감 공유(중학교 단원 한정 아님).",
+  "taggedAt": "2026-08-13T12:49:29.333Z"
 }

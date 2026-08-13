@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "중학교 환경&기술&재해안전&기타",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "low"
     }
-  ]
+  ],
+  "tagsNote": "1학년 1학기(1~4단원) 과학 수업용 물품 구매 추천을 요청하는 질문(구체적 단원 불명확).",
+  "taggedAt": "2026-08-13T12:34:22.683Z"
 }

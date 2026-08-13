@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "중학교 환경&기술&재해안전&기타",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "low"
     }
-  ]
+  ],
+  "tagsNote": "주제선택 수업용 지문 검출 실험(분말법·액체법) 예비실험 중 닌히드린 용액 반응 실패 관련 질문(특정 교육과정 단원과 무관).",
+  "taggedAt": "2026-08-13T12:32:48.916Z"
 }

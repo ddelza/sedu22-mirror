@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "사이버 교사연수",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "low"
     }
-  ]
+  ],
+  "tagsNote": "김영학 선생님과의 멘토링 인연을 계기로 시작한 초보교사의 작은 모임·수업 나눔 소감글(특정 단원과 무관).",
+  "taggedAt": "2026-08-13T13:16:31.653Z"
 }

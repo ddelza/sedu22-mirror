@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "평가 Ideas",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "low"
     }
-  ]
+  ],
+  "tagsNote": "수행평가 개요 입력 시 AI가 2학기 평가계획을 만들어주는 앱 공개(여름방학 선물, 특정 단원과 무관).",
+  "taggedAt": "2026-08-13T13:11:29.203Z"
 }

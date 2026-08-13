@@ -17,6 +17,27 @@
       "category": "게시판별 분류",
       "topic": "중학교 지구과학수업 이야기",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "지권의 변화",
+      "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "지권의 변화",
+      "confidence": "high"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "온라인 수업 자료",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "암석의 순환까지 다루는 온라인 학습용 단어찾기 퍼즐 과제 공유.",
+  "taggedAt": "2026-08-13T05:23:34.842Z"
 }

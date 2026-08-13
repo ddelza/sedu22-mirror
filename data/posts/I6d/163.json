@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "평가 Ideas",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "low"
     }
-  ]
+  ],
+  "tagsNote": "고등학교 생명과학 평가문항 공유용 오픈채팅방 개설 안내(특정 단원과 무관).",
+  "taggedAt": "2026-08-13T13:04:51.239Z"
 }

@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "중학교 지구과학수업 이야기",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "태양계",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "다른 선생님 아이디어를 참고해 진행한 태양계 천체 홍보 프로젝트 수업 자료 나눔.",
+  "taggedAt": "2026-08-13T12:29:51.533Z"
 }

@@ -17,6 +17,22 @@
       "category": "게시판별 분류",
       "topic": "중학교 지구과학수업 이야기",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "별과 우주",
+      "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "별과 우주",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "황도 12궁을 접어 세우는 방식으로 만든 지구의 공전에 따른 별자리 변화 활동지 미리캔버스 버전 공유.",
+  "taggedAt": "2026-08-13T12:08:13.593Z"
 }

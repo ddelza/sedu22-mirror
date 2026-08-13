@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "중학교 환경&기술&재해안전&기타",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "low"
     }
-  ]
+  ],
+  "tagsNote": "수업과 무관한 MSDS 게시판 양식을 구하는 행정 요청(특정 단원과 무관).",
+  "taggedAt": "2026-08-13T12:56:59.887Z"
 }

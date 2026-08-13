@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "평가 Ideas",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "포화 수증기량과 이슬점",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "포화수증기 관련 내용을 과학송으로 만드는 수행평가 아이디어와 평가기준을 구하는 질문.",
+  "taggedAt": "2026-08-13T13:12:37.812Z"
 }

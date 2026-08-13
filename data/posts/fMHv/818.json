@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "중학교 지구과학수업 이야기",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "low"
     }
-  ]
+  ],
+  "tagsNote": "복직을 앞두고 자유학년제 1학년 평가계획·주제활동 편성 방식에 대한 고민 공유(여러 단원 포괄).",
+  "taggedAt": "2026-08-13T12:22:01.826Z"
 }

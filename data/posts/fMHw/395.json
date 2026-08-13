@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "중학교 환경&기술&재해안전&기타",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "태양계",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "행성 여행 홍보하기 수행평가의 포트폴리오 등급(A~D) 구분 기준을 묻는 질문.",
+  "taggedAt": "2026-08-13T12:52:37.718Z"
 }

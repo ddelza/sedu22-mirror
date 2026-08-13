@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "평가 Ideas",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "low"
     }
-  ]
+  ],
+  "tagsNote": "논술형 40% 확보 후 남은 비논술형 수행평가 항목 구성에 대한 저경력 교사의 고민(특정 단원과 무관).",
+  "taggedAt": "2026-08-13T13:08:11.340Z"
 }

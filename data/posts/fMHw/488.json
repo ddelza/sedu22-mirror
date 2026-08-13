@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "중학교 환경&기술&재해안전&기타",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "low"
     }
-  ]
+  ],
+  "tagsNote": "2015학년도 중학교 과학과 1학기 1~3학년 성취수준(A~E) 파일 공유 및 필요성에 대한 의문(여러 단원 포괄).",
+  "taggedAt": "2026-08-13T12:56:59.866Z"
 }

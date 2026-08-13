@@ -17,6 +17,22 @@
       "category": "게시판별 분류",
       "topic": "중학교 지구과학수업 이야기",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "기권과 날씨",
+      "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "날씨와 기후변화",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "에너지양(%) 변화를 나타낸 그림 문제에서 E값 증가 여부에 대한 검토 요청.",
+  "taggedAt": "2026-08-13T12:14:29.561Z"
 }

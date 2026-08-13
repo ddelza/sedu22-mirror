@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "평가 Ideas",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "low"
     }
-  ]
+  ],
+  "tagsNote": "교과서 개정에 따른 2학년 교수학습계획 참고자료를 구하는 질문(특정 단원과 무관).",
+  "taggedAt": "2026-08-13T13:11:29.189Z"
 }

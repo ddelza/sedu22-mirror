@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "중학교 환경&기술&재해안전&기타",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "low"
     }
-  ]
+  ],
+  "tagsNote": "게이미피케이션 요소를 적용한 중1 과학 창의성 퀴즈 개발 논문 소개(특정 단원과 무관).",
+  "taggedAt": "2026-08-13T12:32:48.908Z"
 }

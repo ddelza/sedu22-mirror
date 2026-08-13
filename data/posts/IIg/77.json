@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "사이버 교사연수",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "low"
     }
-  ]
+  ],
+  "tagsNote": "신규 교사 두 명과 나눈 수업 관련 대화를 정리해 공유한 글(특정 단원과 무관).",
+  "taggedAt": "2026-08-13T13:15:05.069Z"
 }

@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "중학교 지구과학수업 이야기",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "태양계",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "과거 학생들과 진행했던 달의 위상변화 관찰 일지 자료를 정리하며 회고.",
+  "taggedAt": "2026-08-13T12:05:07.480Z"
 }

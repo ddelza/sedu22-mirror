@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "중학교 환경&기술&재해안전&기타",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "low"
     }
-  ]
+  ],
+  "tagsNote": "닮은 목소리·파장 서프라이즈·런닝맨 밀도 등 여러 영상 자료에 대한 감사 인사(여러 단원 포괄).",
+  "taggedAt": "2026-08-13T12:51:02.885Z"
 }

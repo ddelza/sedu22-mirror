@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "중학교 지구과학수업 이야기",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "low"
     }
-  ]
+  ],
+  "tagsNote": "2014 KAIST 과학영재학교 문제 풀이를 요청하는 게시글(구체적 단원 내용 확인 불가).",
+  "taggedAt": "2026-08-13T12:23:37.902Z"
 }

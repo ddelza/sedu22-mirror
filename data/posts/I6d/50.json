@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "평가 Ideas",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "원자와 분자",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "'지식채널e 빈공간' 영상을 활용한 원자관련 시험문제 공유.",
+  "taggedAt": "2026-08-13T13:12:37.804Z"
 }

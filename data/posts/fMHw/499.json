@@ -17,6 +17,22 @@
       "category": "게시판별 분류",
       "topic": "중학교 환경&기술&재해안전&기타",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "태양계",
+      "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "별과 우주",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "3단원·7단원 수업에 임팩트 있게 활용하는 '우주의 끝을 찾아서' 영상 자료 공유.",
+  "taggedAt": "2026-08-13T12:56:59.875Z"
 }

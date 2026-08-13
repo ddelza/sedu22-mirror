@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "평가 Ideas",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "low"
     }
-  ]
+  ],
+  "tagsNote": "고1 과학 시험에 요약 참고지(컨닝페이퍼)를 허용하는 오픈북 변형 아이디어 소개(특정 단원과 무관).",
+  "taggedAt": "2026-08-13T13:12:37.803Z"
 }

@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "중학교 환경&기술&재해안전&기타",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "low"
     }
-  ]
+  ],
+  "tagsNote": "2학년 1학기 수행평가 항목(1~4단원 모둠활동 중심)에 대한 조언 요청(구체적 단원 불명확).",
+  "taggedAt": "2026-08-13T12:46:21.332Z"
 }

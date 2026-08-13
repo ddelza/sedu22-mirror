@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "수업 촉매노트(김지희)",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": "고등학교",
+      "subject": "화학",
+      "unit": "미분류",
+      "confidence": "low"
     }
-  ]
+  ],
+  "tagsNote": "'기초 화학 사전' 책을 이용한 개념도 작성 독서 수행평가 시도와 개선점 공유.",
+  "taggedAt": "2026-08-13T13:02:02.154Z"
 }

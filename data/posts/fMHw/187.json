@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "중학교 환경&기술&재해안전&기타",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "low"
     }
-  ]
+  ],
+  "tagsNote": "천재교과서 기준 1학년 과학 학습지 통합본 공유(특정 단원 한정 아님).",
+  "taggedAt": "2026-08-13T12:32:48.923Z"
 }

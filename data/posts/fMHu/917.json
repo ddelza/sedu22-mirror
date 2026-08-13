@@ -17,6 +17,22 @@
       "category": "게시판별 분류",
       "topic": "중학교 생물수업 이야기",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "동물과 에너지",
+      "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "동물과 에너지",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "우유·아침햇살 영양소 검출 실험 결과와 반응 구분의 어려움 공유.",
+  "taggedAt": "2026-08-13T04:28:48.935Z"
 }

@@ -17,6 +17,27 @@
       "category": "게시판별 분류",
       "topic": "중학교 지구과학수업 이야기",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "지권의 변화",
+      "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "지권의 변화",
+      "confidence": "high"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "메타버스",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "ZEP 정책 변경으로 막힌 지권의 구조 방탈출 맵 관리자 권한 공유 방식에 대한 대안 안내.",
+  "taggedAt": "2026-08-13T12:06:46.576Z"
 }

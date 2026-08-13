@@ -17,6 +17,22 @@
       "category": "게시판별 분류",
       "topic": "중학교 생물수업 이야기",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "식물과 에너지",
+      "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "식물과 에너지",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "비비추 대신 꽃집에서 구할 수 있는 공변세포 관찰용 식물 추천 요청.",
+  "taggedAt": "2026-08-13T04:22:54.701Z"
 }

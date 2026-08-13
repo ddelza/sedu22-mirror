@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "평가 Ideas",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "low"
     }
-  ]
+  ],
+  "tagsNote": "심화·진로연계 보고서형 수행평가에서 AI 남용 문제를 막을 방법을 묻는 고민글(특정 단원과 무관).",
+  "taggedAt": "2026-08-13T13:10:14.903Z"
 }

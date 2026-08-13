@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "사이버 교사연수",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "low"
     }
-  ]
+  ],
+  "tagsNote": "교사 전문성 수준에 따른 국가수준 교육과정 표준화 필요성을 논한 글(특정 단원과 무관).",
+  "taggedAt": "2026-08-13T13:16:31.650Z"
 }

@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "사이버 교사연수",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "low"
     }
-  ]
+  ],
+  "tagsNote": "연수·대화 내용을 녹음해 반복 청취하며 배움을 흘려보내지 않으려는 습관 소개(특정 단원과 무관).",
+  "taggedAt": "2026-08-13T13:13:51.978Z"
 }

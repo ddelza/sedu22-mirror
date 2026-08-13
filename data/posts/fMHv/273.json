@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "중학교 지구과학수업 이야기",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "low"
     }
-  ]
+  ],
+  "tagsNote": "5·6단원 학습 내용을 스스로 정리해보는 셀프노트 활동 공유(특정 단원 내용 언급 없음).",
+  "taggedAt": "2026-08-13T05:28:53.046Z"
 }

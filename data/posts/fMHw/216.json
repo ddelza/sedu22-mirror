@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "중학교 환경&기술&재해안전&기타",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "low"
     }
-  ]
+  ],
+  "tagsNote": "중2 2학기(5~8단원) 분량 차이를 고려해 단원 순서를 바꿔 가르쳐도 되는지에 대한 질문(구체적 단원 불명확).",
+  "taggedAt": "2026-08-13T12:34:22.700Z"
 }

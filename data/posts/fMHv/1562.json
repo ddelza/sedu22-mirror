@@ -17,6 +17,27 @@
       "category": "게시판별 분류",
       "topic": "중학교 지구과학수업 이야기",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "태양계",
+      "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "태양계",
+      "confidence": "high"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "AI",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "본그림자·반그림자 위치별 일식 모양을 보여주는 AI 제작 시뮬레이션 공유.",
+  "taggedAt": "2026-08-13T05:21:50.477Z"
 }

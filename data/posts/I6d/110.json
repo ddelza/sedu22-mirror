@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "평가 Ideas",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "low"
     }
-  ]
+  ],
+  "tagsNote": "객관식 문항 오류(뇌의 구조와 기능 관련) 경험을 계기로 서술형 평가 비중을 늘려간 과정 공유(특정 단원과 무관).",
+  "taggedAt": "2026-08-13T13:03:29.963Z"
 }

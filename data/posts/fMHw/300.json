@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "중학교 환경&기술&재해안전&기타",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "태양계",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "달의 크기 비례식 측정 활동에 필요한 10미터 줄자를 오프라인에서 구매하는 방법을 묻는 질문.",
+  "taggedAt": "2026-08-13T12:49:29.308Z"
 }

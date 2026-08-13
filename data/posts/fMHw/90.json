@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "중학교 환경&기술&재해안전&기타",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "low"
     }
-  ]
+  ],
+  "tagsNote": "자유학기제 진로 수행평가에 도서관 과학동아 잡지를 활용한 사례 공유(특정 단원과 무관).",
+  "taggedAt": "2026-08-13T12:58:04.744Z"
 }

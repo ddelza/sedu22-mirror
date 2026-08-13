@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "평가 Ideas",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "low"
     }
-  ]
+  ],
+  "tagsNote": "유사과학 사례 조사·발표를 2학기 평가계획으로 제안하며 아이디어를 구하는 질문(특정 단원과 무관).",
+  "taggedAt": "2026-08-13T13:04:51.252Z"
 }

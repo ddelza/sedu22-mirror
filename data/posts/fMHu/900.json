@@ -17,6 +17,22 @@
       "category": "게시판별 분류",
       "topic": "중학교 생물수업 이야기",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "운동과 에너지",
+      "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "운동과 에너지",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "탄성력에 의한 위치에너지 학습 후 씨앗모형 만들기 활동 공유(물리 내용, 생물 게시판에 교차 게시됨).",
+  "taggedAt": "2026-08-13T04:28:48.918Z"
 }

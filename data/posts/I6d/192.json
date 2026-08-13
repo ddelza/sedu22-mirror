@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "평가 Ideas",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "low"
     }
-  ]
+  ],
+  "tagsNote": "경기도교육청 전국연합학력평가 온라인 시험지 제공 사이트 소개(특정 단원과 무관).",
+  "taggedAt": "2026-08-13T13:08:11.319Z"
 }

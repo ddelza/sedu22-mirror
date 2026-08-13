@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "평가 Ideas",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "low"
     }
-  ]
+  ],
+  "tagsNote": "학습지·공책 검사용 도장판 태도 평가 도구 공유(특정 단원과 무관).",
+  "taggedAt": "2026-08-13T13:11:29.205Z"
 }

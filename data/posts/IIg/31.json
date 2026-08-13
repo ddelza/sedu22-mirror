@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "사이버 교사연수",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "low"
     }
-  ]
+  ],
+  "tagsNote": "'수업'(이혁규)에서 발췌한 교사 전문성(성찰적·임상적) 개념 소개(특정 단원과 무관).",
+  "taggedAt": "2026-08-13T13:15:05.056Z"
 }

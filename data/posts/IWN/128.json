@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "좋은 글 & 책",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "low"
     }
-  ]
+  ],
+  "tagsNote": "종자은행을 만든 식물학자 바빌로프의 이야기를 다룬 <지상의 모든 음식은 어디에서 오는가> 소개(특정 단원과 무관).",
+  "taggedAt": "2026-08-13T13:16:31.669Z"
 }

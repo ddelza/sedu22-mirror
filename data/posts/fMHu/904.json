@@ -17,6 +17,22 @@
       "category": "게시판별 분류",
       "topic": "중학교 생물수업 이야기",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "열과 우리 생활",
+      "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "열",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "초고층건물 빛 반사 지점의 온도 상승 기사 소개(물리 내용, 생물 게시판에 교차 게시됨).",
+  "taggedAt": "2026-08-13T04:28:48.920Z"
 }

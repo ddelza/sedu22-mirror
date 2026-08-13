@@ -17,6 +17,20 @@
       "category": "게시판별 분류",
       "topic": "센서로 하는 과학실험(최효석)",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "low"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "AI",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "AI 챗봇과 바이브 코딩으로 센서 실험 주제·시뮬레이션을 만드는 동아리 활동 기록(39편, 특정 단원과 무관).",
+  "taggedAt": "2026-08-13T13:02:02.142Z"
 }

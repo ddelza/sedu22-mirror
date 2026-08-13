@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "평가 Ideas",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "low"
     }
-  ]
+  ],
+  "tagsNote": "시험 일주일 전 진행한 두 번째 1:1 학습활동 면담(정오표 활용) 방법 공유(특정 단원과 무관).",
+  "taggedAt": "2026-08-13T13:04:51.249Z"
 }

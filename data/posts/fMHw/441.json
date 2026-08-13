@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "중학교 환경&기술&재해안전&기타",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "low"
     }
-  ]
+  ],
+  "tagsNote": "다른 학년용 빙고 자료를 중3에 맞게 수정한 과학 OT 빙고판 공유(특정 단원과 무관).",
+  "taggedAt": "2026-08-13T12:54:04.703Z"
 }

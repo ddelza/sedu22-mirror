@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "중학교 환경&기술&재해안전&기타",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "low"
     }
-  ]
+  ],
+  "tagsNote": "구글 스프레드시트·슬라이드와 챗봇을 활용한 전단원 성장일기 수행평가 자료 공유(특정 단원 한정 아님).",
+  "taggedAt": "2026-08-13T12:32:48.905Z"
 }

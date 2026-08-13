@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "중학교 지구과학수업 이야기",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "low"
     }
-  ]
+  ],
+  "tagsNote": "학생들과 만드는 설탕뽑기(달고나) 과자가 판에서 잘 떨어지지 않는 문제에 대한 팁 요청(특정 단원과 무관).",
+  "taggedAt": "2026-08-13T05:27:15.721Z"
 }

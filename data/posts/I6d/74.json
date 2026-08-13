@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "평가 Ideas",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "low"
     }
-  ]
+  ],
+  "tagsNote": "자유학기 하브루타 수업에서 학생 스스로 질문을 만드는 자기평가-질문일기쓰기 활동 공유(특정 단원과 무관).",
+  "taggedAt": "2026-08-13T13:12:37.817Z"
 }

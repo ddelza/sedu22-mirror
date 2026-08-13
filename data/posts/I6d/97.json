@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "평가 Ideas",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "low"
     }
-  ]
+  ],
+  "tagsNote": "정답 암기가 아닌 스스로 생각하는 힘을 기르는 시험문제 유형에 대한 논의(특정 단원과 무관).",
+  "taggedAt": "2026-08-13T13:13:51.972Z"
 }

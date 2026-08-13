@@ -17,6 +17,22 @@
       "category": "게시판별 분류",
       "topic": "중학교 생물수업 이야기",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "생식과 유전",
+      "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "생식과 유전",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "패들렛을 활용한 생식세포분열(감수분열) 온오프라인 연계 후속 활동 공유.",
+  "taggedAt": "2026-08-13T04:16:43.781Z"
 }

@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "중학교 지구과학수업 이야기",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "low"
     }
-  ]
+  ],
+  "tagsNote": "다른 선생님 활동을 응용한 '복불복' 게임 소개(구체적 단원 내용은 불명확).",
+  "taggedAt": "2026-08-13T11:49:45.456Z"
 }

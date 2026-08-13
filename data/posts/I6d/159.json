@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "평가 Ideas",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "low"
     }
-  ]
+  ],
+  "tagsNote": "고1 통합과학 페임랩 수행평가 평가요소를 구하는 질문(특정 단원과 무관).",
+  "taggedAt": "2026-08-13T13:04:51.236Z"
 }

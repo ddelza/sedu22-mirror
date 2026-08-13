@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "평가 Ideas",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "low"
     }
-  ]
+  ],
+  "tagsNote": "매시간 검사한 학습지를 모아 학기 중 두 번 자기평가하는 초간단 학습지 검사법(2) 소개(특정 단원과 무관).",
+  "taggedAt": "2026-08-13T13:10:14.923Z"
 }

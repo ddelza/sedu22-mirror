@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "평가 Ideas",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "비열과 열팽창",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "중1 3단원 '열의 이동'과 '비열과 열팽창'에서 볼만한 수행평가 자료를 구하는 질문.",
+  "taggedAt": "2026-08-13T13:11:29.189Z"
 }

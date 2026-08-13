@@ -17,6 +17,22 @@
       "category": "게시판별 분류",
       "topic": "중학교 지구과학수업 이야기",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "별과 우주",
+      "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "별과 우주",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "황도 12궁에서 별자리가 태양 쪽에 있는 달과 실제 별자리 관측 시기 사이 날짜 차이를 설명하는 방법에 대한 질문.",
+  "taggedAt": "2026-08-13T12:09:49.001Z"
 }

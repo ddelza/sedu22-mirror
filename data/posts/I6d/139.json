@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "평가 Ideas",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "low"
     }
-  ]
+  ],
+  "tagsNote": "전국 중·고등학교 평가계획을 열람할 수 있는 학교알리미 사이트 소개(특정 단원과 무관).",
+  "taggedAt": "2026-08-13T13:03:29.985Z"
 }

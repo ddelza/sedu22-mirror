@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "중학교 환경&기술&재해안전&기타",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "low"
     }
-  ]
+  ],
+  "tagsNote": "수업활동·준비물이 포함된 1학년 2학기 작년 진도표 공유(특정 단원 한정 아님).",
+  "taggedAt": "2026-08-13T12:58:04.745Z"
 }

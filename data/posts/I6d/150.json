@@ -17,6 +17,22 @@
       "category": "게시판별 분류",
       "topic": "평가 Ideas",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "지권의 변화",
+      "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "여러 가지 힘",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "제한된 실험 환경에서 진행한 중1 1학기 평가(광물 분류하기, 힘의 표현 UCC) 방법 공유.",
+  "taggedAt": "2026-08-13T13:04:51.230Z"
 }

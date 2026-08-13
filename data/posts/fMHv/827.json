@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "중학교 지구과학수업 이야기",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "low"
     }
-  ]
+  ],
+  "tagsNote": "중1 과학 여러 단원의 실험을 집에서 할 수 있게 만든 '신과람샘' 실험 꾸러미 영상 소개(특정 단원 한정 아님).",
+  "taggedAt": "2026-08-13T12:22:01.832Z"
 }

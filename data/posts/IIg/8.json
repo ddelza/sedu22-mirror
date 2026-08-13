@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "사이버 교사연수",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "low"
     }
-  ]
+  ],
+  "tagsNote": "국외·국제화 연수를 바탕으로 영재지도교사의 영어능력 대 수업능력을 논한 동영상(특정 단원과 무관).",
+  "taggedAt": "2026-08-13T13:15:05.071Z"
 }

@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "평가 Ideas",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "고등학교",
+      "subject": "화학",
+      "unit": "용액의 농도",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "Beer 법칙을 이용해 핸드폰으로 용액 밝기를 측정, 농도를 구하는 실험 수행평가 사례 공유.",
+  "taggedAt": "2026-08-13T13:10:14.906Z"
 }

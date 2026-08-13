@@ -17,6 +17,22 @@
       "category": "게시판별 분류",
       "topic": "중학교 지구과학수업 이야기",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "물질 변화에서의 규칙성",
+      "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "물질 변화",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "같은 방식으로 세팅했는데 조별로 결과가 다르게 나온 물분해 실험 원인에 대한 질문(화학 내용, 지구과학 게시판에 교차 게시됨).",
+  "taggedAt": "2026-08-13T12:28:12.645Z"
 }

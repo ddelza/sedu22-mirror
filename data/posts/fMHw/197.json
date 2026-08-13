@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "중학교 환경&기술&재해안전&기타",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "low"
     }
-  ]
+  ],
+  "tagsNote": "노트필기와 빈칸 채우기 학습지 사이에서 고민하는 수업 방식 논의(특정 단원과 무관).",
+  "taggedAt": "2026-08-13T12:34:22.686Z"
 }

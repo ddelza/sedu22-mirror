@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "평가 Ideas",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "low"
     }
-  ]
+  ],
+  "tagsNote": "중학교 1학년 1학기 교수학습 및 평가운영 계획 공유(특정 단원 한정 아님).",
+  "taggedAt": "2026-08-13T13:10:14.918Z"
 }

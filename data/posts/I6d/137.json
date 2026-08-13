@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "평가 Ideas",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "low"
     }
-  ]
+  ],
+  "tagsNote": "책 '팀기반 학습'을 참고해 정리한 동료평가 점수 부여 방법(특정 단원과 무관).",
+  "taggedAt": "2026-08-13T13:03:29.984Z"
 }

@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "평가 Ideas",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "low"
     }
-  ]
+  ],
+  "tagsNote": "역량 중심 수업과 학생들의 경쟁·등급 심리 사이의 괴리를 다루는 성찰글(특정 단원과 무관).",
+  "taggedAt": "2026-08-13T13:12:37.822Z"
 }

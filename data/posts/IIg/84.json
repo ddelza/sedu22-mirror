@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "사이버 교사연수",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "low"
     }
-  ]
+  ],
+  "tagsNote": "'인문학으로 보는 과학사' 직무연수에서 들은 김영학 선생님 강연 소감글(특정 단원과 무관).",
+  "taggedAt": "2026-08-13T13:16:31.646Z"
 }

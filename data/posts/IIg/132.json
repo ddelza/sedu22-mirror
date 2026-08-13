@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "사이버 교사연수",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "생물의 구성과 다양성",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "생명체의 구성물질과 세포의 구조·기능을 모둠 역할분담으로 조사해 포스터로 만드는 프로젝트 수업 사례(실패 사례 포함).",
+  "taggedAt": "2026-08-13T13:13:51.986Z"
 }

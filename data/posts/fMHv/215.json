@@ -17,6 +17,22 @@
       "category": "게시판별 분류",
       "topic": "중학교 지구과학수업 이야기",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "생물의 구성과 다양성",
+      "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "생물의 구성과 다양성",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "하이그로필라 수초 잎 현미경 관찰 사진에서 관찰된 구조물의 정체에 대한 논의(생물 내용, 지구과학 게시판에 교차 게시됨).",
+  "taggedAt": "2026-08-13T05:27:15.717Z"
 }

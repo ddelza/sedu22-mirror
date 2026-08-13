@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "중학교 환경&기술&재해안전&기타",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "low"
     }
-  ]
+  ],
+  "tagsNote": "여름방학 자유탐구보고서 과제 운영 방식(자율참여 전환) 공유(특정 단원과 무관).",
+  "taggedAt": "2026-08-13T12:31:15.885Z"
 }

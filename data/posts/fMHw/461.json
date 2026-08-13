@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "중학교 환경&기술&재해안전&기타",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "low"
     }
-  ]
+  ],
+  "tagsNote": "2~4단원 내용을 다루는 학기말 클래스카드 배틀 세트 공유(구체적 단원 불명확).",
+  "taggedAt": "2026-08-13T12:55:32.293Z"
 }

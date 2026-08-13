@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "중학교 환경&기술&재해안전&기타",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "low"
     }
-  ]
+  ],
+  "tagsNote": "신직업 아이디어 공모전을 7단원 수업과 연계해 소개한 활동 공유(특정 지구과학 단원 아님).",
+  "taggedAt": "2026-08-13T12:34:22.681Z"
 }

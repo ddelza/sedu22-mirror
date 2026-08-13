@@ -17,6 +17,20 @@
       "category": "게시판별 분류",
       "topic": "센서로 하는 과학실험(최효석)",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": "고등학교",
+      "subject": "물리학",
+      "unit": "탄성력과 역학적 에너지",
+      "confidence": "medium"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "센서/데이터로깅",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "용수철 탄성계수 변화에 따른 물체의 왕복 운동을 분석하는 실험(46편).",
+  "taggedAt": "2026-08-13T13:02:02.146Z"
 }

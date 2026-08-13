@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "평가 Ideas",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "low"
     }
-  ]
+  ],
+  "tagsNote": "1등급 인원 관리에 대한 상대평가 제도의 아쉬움을 나누는 소감 글(특정 단원과 무관).",
+  "taggedAt": "2026-08-13T13:08:11.320Z"
 }

@@ -17,6 +17,20 @@
       "category": "게시판별 분류",
       "topic": "센서로 하는 과학실험(최효석)",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "low"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "센서/데이터로깅",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "STEAM클럽 예산으로 개설한 센서·코딩 연합 동아리(센서메이커스·비트메이커스) 운영 계획(32편, 특정 단원과 무관).",
+  "taggedAt": "2026-08-13T13:02:02.135Z"
 }

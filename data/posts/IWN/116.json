@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "좋은 글 & 책",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "low"
     }
-  ]
+  ],
+  "tagsNote": "KBS1FM 라디오에 재과만 선생님들을 응원하는 사연·신청곡을 보냈다는 안내(특정 단원과 무관).",
+  "taggedAt": "2026-08-13T13:16:31.663Z"
 }

@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "평가 Ideas",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "미분류",
+      "confidence": "low"
     }
-  ]
+  ],
+  "tagsNote": "중2 1학기 수행평가 척도표 관련 문의에 대한 추가 자료 공유(특정 단원 명시 없음).",
+  "taggedAt": "2026-08-13T13:11:29.195Z"
 }

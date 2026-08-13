@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "좋은 글 & 책",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "low"
     }
-  ]
+  ],
+  "tagsNote": "스승의 날을 맞아 조동화 시 '나 하나 꽃피어'를 인용한 교사 응원글(특정 단원과 무관).",
+  "taggedAt": "2026-08-13T13:16:31.656Z"
 }

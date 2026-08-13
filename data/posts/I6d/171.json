@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "평가 Ideas",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "low"
     }
-  ]
+  ],
+  "tagsNote": "지필평가 부담 때문에 세특 작성이 어렵다는 새로운 평가 방법 모색 고민(특정 단원과 무관).",
+  "taggedAt": "2026-08-13T13:04:51.242Z"
 }

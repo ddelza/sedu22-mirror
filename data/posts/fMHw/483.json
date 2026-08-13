@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "중학교 환경&기술&재해안전&기타",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "태양계",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "독서 수행평가와 융합해 진행한 화성 여행안내 포스터 만들기 학생 작품 공유.",
+  "taggedAt": "2026-08-13T12:56:59.863Z"
 }

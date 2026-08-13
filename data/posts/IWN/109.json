@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "좋은 글 & 책",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "low"
     }
-  ]
+  ],
+  "tagsNote": "통합과학·과학탐구실험 등 과정중심평가 사례가 실린 <과정중심평가> 도서 추천(특정 단원 한정 아님).",
+  "taggedAt": "2026-08-13T13:16:31.658Z"
 }

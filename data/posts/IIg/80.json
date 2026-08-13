@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "사이버 교사연수",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "low"
     }
-  ]
+  ],
+  "tagsNote": "핀란드 교사 훈련 사례를 들며 고립된 '단독자의 삶'에서 벗어나는 협력적 교직문화를 논한 글(특정 단원과 무관).",
+  "taggedAt": "2026-08-13T13:15:05.071Z"
 }

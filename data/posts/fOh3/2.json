@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "수업 촉매노트(김지희)",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": "고등학교",
+      "subject": "생명과학",
+      "unit": "생태계",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "포켓몬 생태도감 책을 생태계 수업 자료로 활용하려는 아이디어(고등학교 대상).",
+  "taggedAt": "2026-08-13T13:02:02.149Z"
 }

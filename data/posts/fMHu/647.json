@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "중학교 생물수업 이야기",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "액화수지·투명반구·OHP필름을 이용한 세포모형 만들기 자료(대상 단원 불명확).",
+  "taggedAt": "2026-08-13T04:18:20.611Z"
 }

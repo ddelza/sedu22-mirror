@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "평가 Ideas",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "low"
     }
-  ]
+  ],
+  "tagsNote": "등사 인쇄 시 흐려지는 시험지 그림을 미리 확인하는 앱 소개(특정 단원과 무관).",
+  "taggedAt": "2026-08-13T13:03:29.964Z"
 }

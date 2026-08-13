@@ -15,6 +15,20 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": "2015",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "생물의 다양성",
+        "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2015",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "기권과 날씨",
+        "confidence": "medium"
       }
     ]
   },
@@ -34,6 +48,13 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "low"
       }
     ]
   },
@@ -53,6 +74,13 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "low"
       }
     ]
   },
@@ -72,6 +100,13 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "low"
       }
     ]
   },
@@ -91,6 +126,13 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "low"
       }
     ]
   },
@@ -110,6 +152,13 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "low"
       }
     ]
   },
@@ -129,6 +178,13 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "low"
       }
     ]
   },
@@ -148,6 +204,13 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "low"
       }
     ]
   },
@@ -167,6 +230,13 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "low"
       }
     ]
   },
@@ -186,6 +256,13 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "low"
       }
     ]
   },
@@ -205,6 +282,20 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": "2015",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "기권과 날씨",
+        "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "날씨와 기후변화",
+        "confidence": "medium"
       }
     ]
   },
@@ -224,6 +315,20 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": "2015",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "지권의 변화",
+        "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "지권의 변화",
+        "confidence": "medium"
       }
     ]
   },
@@ -243,6 +348,13 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "low"
       }
     ]
   },
@@ -261,6 +373,20 @@
       {
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
+        "confidence": "high"
+      },
+      {
+        "curriculumYear": "2015",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "수권과 해수의 순환",
+        "confidence": "high"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "수권과 해수의 순환",
         "confidence": "high"
       }
     ]
@@ -281,6 +407,25 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": "2015",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "열과 우리 생활",
+        "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "열",
+        "confidence": "medium"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "AI",
+        "confidence": "high"
       }
     ]
   },
@@ -300,6 +445,13 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "low"
       }
     ]
   },
@@ -319,6 +471,13 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "low"
       }
     ]
   },
@@ -338,6 +497,20 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": "2015",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "열과 우리 생활",
+        "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "열",
+        "confidence": "medium"
       }
     ]
   },
@@ -356,6 +529,20 @@
       {
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
+        "confidence": "high"
+      },
+      {
+        "curriculumYear": "2015",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "물질의 특성",
+        "confidence": "high"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "물질의 특성",
         "confidence": "high"
       }
     ]
@@ -376,6 +563,13 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "low"
       }
     ]
   },
@@ -395,6 +589,13 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "low"
       }
     ]
   },
@@ -414,6 +615,13 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "low"
       }
     ]
   },
@@ -433,6 +641,13 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "low"
       }
     ]
   },
@@ -452,6 +667,13 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": "2015",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "자극과 반응",
+        "confidence": "medium"
       }
     ]
   },
@@ -471,6 +693,25 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": "2015",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "열과 우리 생활",
+        "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "열",
+        "confidence": "medium"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "센서/데이터로깅",
+        "confidence": "medium"
       }
     ]
   },
@@ -490,6 +731,13 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "low"
       }
     ]
   },
@@ -509,6 +757,13 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "low"
       }
     ]
   },
@@ -528,6 +783,13 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "low"
       }
     ]
   },
@@ -547,6 +809,20 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": "2015",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "물질 변화에서의 규칙성",
+        "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "물질 변화",
+        "confidence": "medium"
       }
     ]
   },
@@ -566,6 +842,13 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "low"
       }
     ]
   },
@@ -585,6 +868,13 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "low"
       }
     ]
   },
@@ -604,6 +894,20 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": "2015",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "운동과 에너지",
+        "confidence": "low"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "운동과 에너지",
+        "confidence": "low"
       }
     ]
   },
@@ -623,6 +927,13 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "low"
       }
     ]
   },
@@ -641,6 +952,20 @@
       {
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
+        "confidence": "high"
+      },
+      {
+        "curriculumYear": "2015",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "기권과 날씨",
+        "confidence": "high"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "날씨와 기후변화",
         "confidence": "high"
       }
     ]
@@ -661,6 +986,20 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": "2015",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "열과 우리 생활",
+        "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "열",
+        "confidence": "medium"
       }
     ]
   },
@@ -680,6 +1019,13 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "low"
       }
     ]
   },
@@ -699,6 +1045,13 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "low"
       }
     ]
   },
@@ -718,6 +1071,13 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "low"
       }
     ]
   },
@@ -737,6 +1097,13 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "low"
       }
     ]
   },
@@ -756,6 +1123,13 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": "2015",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "여러 가지 화학 반응",
+        "confidence": "medium"
       }
     ]
   },
@@ -775,6 +1149,13 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "low"
       }
     ]
   },
@@ -794,6 +1175,13 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "low"
       }
     ]
   },
@@ -813,6 +1201,13 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "low"
       }
     ]
   },
@@ -832,6 +1227,13 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "low"
       }
     ]
   },
@@ -851,6 +1253,13 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "열",
+        "confidence": "medium"
       }
     ]
   },
@@ -870,6 +1279,13 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "low"
       }
     ]
   },
@@ -889,6 +1305,13 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "low"
       }
     ]
   },
@@ -908,6 +1331,13 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "low"
       }
     ]
   },
@@ -927,6 +1357,13 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "low"
       }
     ]
   },
@@ -946,6 +1383,13 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "low"
       }
     ]
   },
@@ -965,6 +1409,13 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "low"
       }
     ]
   },
@@ -984,6 +1435,13 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "low"
       }
     ]
   },
@@ -1003,6 +1461,13 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "low"
       }
     ]
   },
@@ -1022,6 +1487,13 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "low"
       }
     ]
   },
@@ -1041,6 +1513,13 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "low"
       }
     ]
   },
@@ -1060,6 +1539,13 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "low"
       }
     ]
   },
@@ -1079,6 +1565,13 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "low"
       }
     ]
   },
@@ -1098,6 +1591,13 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "low"
       }
     ]
   },
@@ -1117,6 +1617,13 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "low"
       }
     ]
   },
@@ -1136,6 +1643,13 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "low"
       }
     ]
   },
@@ -1155,6 +1669,20 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": "2015",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "파동",
+        "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "파동",
+        "confidence": "medium"
       }
     ]
   },
@@ -1174,6 +1702,20 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": "2015",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "생식과 유전",
+        "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "생식과 유전",
+        "confidence": "medium"
       }
     ]
   },
@@ -1192,6 +1734,20 @@
       {
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
+        "confidence": "high"
+      },
+      {
+        "curriculumYear": "2015",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "지권의 변화",
+        "confidence": "high"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "지권의 변화",
         "confidence": "high"
       }
     ]
@@ -1212,6 +1768,20 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": "2015",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "운동과 에너지",
+        "confidence": "high"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "운동과 에너지",
+        "confidence": "high"
       }
     ]
   },
@@ -1231,6 +1801,20 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": "2015",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "운동과 에너지",
+        "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "운동과 에너지",
+        "confidence": "medium"
       }
     ]
   },
@@ -1250,6 +1834,20 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": "2015",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "생식과 유전",
+        "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "생식과 유전",
+        "confidence": "medium"
       }
     ]
   },
@@ -1269,6 +1867,13 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "low"
       }
     ]
   },
@@ -1288,6 +1893,13 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "low"
       }
     ]
   },
@@ -1307,6 +1919,13 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "low"
       }
     ]
   },
@@ -1326,6 +1945,13 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "low"
       }
     ]
   },
@@ -1345,6 +1971,13 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "low"
       }
     ]
   },
@@ -1364,6 +1997,13 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "low"
       }
     ]
   },
@@ -1383,6 +2023,13 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "low"
       }
     ]
   },
@@ -1402,6 +2049,13 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "low"
       }
     ]
   },
@@ -1421,6 +2075,13 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "low"
       }
     ]
   },
@@ -1440,6 +2101,20 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": "2015",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "물질의 특성",
+        "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "물질의 특성",
+        "confidence": "medium"
       }
     ]
   },
@@ -1459,6 +2134,13 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "low"
       }
     ]
   },
@@ -1478,6 +2160,13 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "low"
       }
     ]
   },
@@ -1497,6 +2186,13 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "low"
       }
     ]
   },
@@ -1516,6 +2212,20 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": "2015",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "빛과 파동",
+        "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "빛",
+        "confidence": "medium"
       }
     ]
   },
@@ -1535,6 +2245,13 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": "2015",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "자극과 반응",
+        "confidence": "medium"
       }
     ]
   },
@@ -1554,6 +2271,20 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": "2015",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "물질의 상태변화",
+        "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "물질의 상태변화",
+        "confidence": "medium"
       }
     ]
   },
@@ -1573,6 +2304,13 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "low"
       }
     ]
   },
@@ -1592,6 +2330,13 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "low"
       }
     ]
   },
@@ -1611,6 +2356,13 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "low"
       }
     ]
   },
@@ -1630,6 +2382,20 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": "2015",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "기체의 성질",
+        "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "기체의 성질",
+        "confidence": "medium"
       }
     ]
   },
@@ -1649,6 +2415,13 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "low"
       }
     ]
   },
@@ -1668,6 +2441,13 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "low"
       }
     ]
   },
@@ -1687,6 +2467,13 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "low"
       }
     ]
   },
@@ -1706,6 +2493,13 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "low"
       }
     ]
   },
@@ -1725,6 +2519,13 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "low"
       }
     ]
   },
@@ -1744,6 +2545,13 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "low"
       }
     ]
   },
@@ -1763,6 +2571,13 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "low"
       }
     ]
   },
@@ -1781,6 +2596,20 @@
       {
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
+        "confidence": "high"
+      },
+      {
+        "curriculumYear": "2015",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "지권의 변화",
+        "confidence": "high"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "지권의 변화",
         "confidence": "high"
       }
     ]
@@ -1801,6 +2630,13 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "low"
       }
     ]
   },
@@ -1820,6 +2656,13 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "low"
       }
     ]
   },
@@ -1839,6 +2682,13 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "low"
       }
     ]
   },
@@ -1858,6 +2708,20 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": "2015",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "전기와 자기",
+        "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "전기와 자기",
+        "confidence": "medium"
       }
     ]
   },
@@ -1877,6 +2741,13 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "low"
       }
     ]
   },
@@ -1896,6 +2767,13 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "low"
       }
     ]
   },
@@ -1914,6 +2792,13 @@
       {
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
+        "confidence": "high"
+      },
+      {
+        "curriculumYear": "2015",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "태양계",
         "confidence": "high"
       }
     ]
@@ -1934,6 +2819,13 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "low"
       }
     ]
   },
@@ -1953,6 +2845,20 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": "2015",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "기권과 날씨",
+        "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "날씨와 기후변화",
+        "confidence": "medium"
       }
     ]
   },
@@ -1972,6 +2878,13 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "low"
       }
     ]
   },
@@ -1990,6 +2903,13 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "low"
       }
     ]
   },
@@ -2009,6 +2929,13 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "low"
       }
     ]
   },
@@ -2028,6 +2955,13 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "low"
       }
     ]
   },
@@ -2047,6 +2981,13 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "low"
       }
     ]
   },
@@ -2066,6 +3007,13 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "low"
       }
     ]
   },
@@ -2085,6 +3033,13 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "low"
       }
     ]
   },
@@ -2104,6 +3059,13 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "low"
       }
     ]
   },
@@ -2123,6 +3085,13 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "low"
       }
     ]
   },
@@ -2142,6 +3111,13 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "low"
       }
     ]
   },
@@ -2161,6 +3137,13 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "low"
       }
     ]
   },
@@ -2180,6 +3163,13 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "low"
       }
     ]
   },
@@ -2199,6 +3189,20 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": "2015",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "파동",
+        "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "파동",
+        "confidence": "medium"
       }
     ]
   },
@@ -2218,6 +3222,13 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "low"
       }
     ]
   },
@@ -2237,6 +3248,20 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": "2015",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "파동",
+        "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "파동",
+        "confidence": "medium"
       }
     ]
   },
@@ -2256,6 +3281,13 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "low"
       }
     ]
   },
@@ -2275,6 +3307,13 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "low"
       }
     ]
   },
@@ -2294,6 +3333,13 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "low"
       }
     ]
   },
@@ -2313,6 +3359,13 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "low"
       }
     ]
   },
@@ -2332,6 +3385,13 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "low"
       }
     ]
   },
@@ -2351,6 +3411,13 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "low"
       }
     ]
   },
@@ -2370,6 +3437,13 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "low"
       }
     ]
   },
@@ -2389,6 +3463,20 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": "2015",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "열과 우리 생활",
+        "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "열",
+        "confidence": "medium"
       }
     ]
   },
@@ -2408,6 +3496,20 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": "2015",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "물질의 특성",
+        "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "물질의 특성",
+        "confidence": "medium"
       }
     ]
   },
@@ -2427,6 +3529,13 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "low"
       }
     ]
   },
@@ -2446,6 +3555,20 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": "2015",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "물질의 특성",
+        "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "물질의 특성",
+        "confidence": "medium"
       }
     ]
   },
@@ -2465,6 +3588,20 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": "2015",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "기권과 날씨",
+        "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "날씨와 기후변화",
+        "confidence": "medium"
       }
     ]
   },
@@ -2484,6 +3621,13 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "low"
       }
     ]
   },
@@ -2503,6 +3647,13 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "low"
       }
     ]
   },
@@ -2522,6 +3673,13 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "low"
       }
     ]
   },
@@ -2541,6 +3699,13 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "low"
       }
     ]
   },
@@ -2560,6 +3725,13 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "low"
       }
     ]
   },
@@ -2579,6 +3751,13 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "low"
       }
     ]
   },
@@ -2598,6 +3777,13 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "low"
       }
     ]
   },
@@ -2617,6 +3803,13 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": "2015",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "자극과 반응",
+        "confidence": "medium"
       }
     ]
   },
@@ -2636,6 +3829,13 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "low"
       }
     ]
   },
@@ -2655,6 +3855,13 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "low"
       }
     ]
   },
@@ -2674,6 +3881,20 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": "2015",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "운동과 에너지",
+        "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "운동과 에너지",
+        "confidence": "medium"
       }
     ]
   },
@@ -2693,6 +3914,13 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": "2015",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "화학 반응에서의 에너지 출입",
+        "confidence": "medium"
       }
     ]
   },
@@ -2712,6 +3940,13 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "low"
       }
     ]
   },
@@ -2731,6 +3966,20 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": "2015",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "물질의 구성",
+        "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "물질의 구성",
+        "confidence": "medium"
       }
     ]
   },
@@ -2750,6 +3999,20 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": "2015",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "기권과 날씨",
+        "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "날씨와 기후변화",
+        "confidence": "medium"
       }
     ]
   },
@@ -2768,6 +4031,20 @@
       {
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
+        "confidence": "high"
+      },
+      {
+        "curriculumYear": "2015",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "기권과 날씨",
+        "confidence": "high"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "날씨와 기후변화",
         "confidence": "high"
       }
     ]
@@ -2788,6 +4065,13 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "low"
       }
     ]
   },
@@ -2805,6 +4089,13 @@
       {
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
+        "confidence": "high"
+      },
+      {
+        "curriculumYear": "2015",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "태양계",
         "confidence": "high"
       }
     ]
@@ -2825,6 +4116,13 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "low"
       }
     ]
   },
@@ -2844,6 +4142,20 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": "2015",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "열과 우리 생활",
+        "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "열",
+        "confidence": "medium"
       }
     ]
   },
@@ -2863,6 +4175,13 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "low"
       }
     ]
   },
@@ -2882,6 +4201,13 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "low"
       }
     ]
   },
@@ -2901,6 +4227,13 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "low"
       }
     ]
   },
@@ -2920,6 +4253,13 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "low"
       }
     ]
   },
@@ -2939,6 +4279,13 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "low"
       }
     ]
   },
@@ -2958,6 +4305,13 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "low"
       }
     ]
   },
@@ -2977,6 +4331,13 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "low"
       }
     ]
   },
@@ -2996,6 +4357,13 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "low"
       }
     ]
   },
@@ -3014,6 +4382,20 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": "2015",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "물질의 구성",
+        "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "물질의 구성",
+        "confidence": "medium"
       }
     ]
   },
@@ -3033,6 +4415,13 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "low"
       }
     ]
   },
@@ -3051,6 +4440,20 @@
       {
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
+        "confidence": "high"
+      },
+      {
+        "curriculumYear": "2015",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "지권의 변화",
+        "confidence": "high"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "지권의 변화",
         "confidence": "high"
       }
     ]
@@ -3071,6 +4474,13 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "low"
       }
     ]
   },
@@ -3090,6 +4500,13 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "low"
       }
     ]
   },
@@ -3109,6 +4526,13 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "low"
       }
     ]
   },
@@ -3128,6 +4552,13 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "low"
       }
     ]
   },
@@ -3147,6 +4578,13 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "low"
       }
     ]
   },
@@ -3166,6 +4604,13 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "low"
       }
     ]
   },
@@ -3185,6 +4630,13 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": "2015",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "자극과 반응",
+        "confidence": "low"
       }
     ]
   },
@@ -3204,6 +4656,13 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "low"
       }
     ]
   },
@@ -3223,6 +4682,13 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "low"
       }
     ]
   },
@@ -3242,6 +4708,13 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "low"
       }
     ]
   },
@@ -3261,6 +4734,13 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "low"
       }
     ]
   },
@@ -3279,6 +4759,20 @@
       {
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
+        "confidence": "high"
+      },
+      {
+        "curriculumYear": "2015",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "물질의 특성",
+        "confidence": "high"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "물질의 특성",
         "confidence": "high"
       }
     ]
@@ -3299,6 +4793,13 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "low"
       }
     ]
   },
@@ -3318,6 +4819,20 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": "2015",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "기권과 날씨",
+        "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2015",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "지권의 변화",
+        "confidence": "medium"
       }
     ]
   },
@@ -3337,6 +4852,13 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "low"
       }
     ]
   },
@@ -3356,6 +4878,13 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "low"
       }
     ]
   },
@@ -3375,6 +4904,13 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "low"
       }
     ]
   },
@@ -3394,6 +4930,13 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "low"
       }
     ]
   },
@@ -3413,6 +4956,13 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "low"
       }
     ]
   },
@@ -3432,6 +4982,13 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "low"
       }
     ]
   },
@@ -3451,6 +5008,13 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "low"
       }
     ]
   },
@@ -3470,6 +5034,13 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "low"
       }
     ]
   },
@@ -3489,6 +5060,13 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "low"
       }
     ]
   },
@@ -3508,6 +5086,13 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "low"
       }
     ]
   },
@@ -3527,6 +5112,13 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "low"
       }
     ]
   },
@@ -3545,6 +5137,13 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": "2015",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "태양계",
+        "confidence": "medium"
       }
     ]
   },
@@ -3564,6 +5163,13 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "low"
       }
     ]
   },
@@ -3583,6 +5189,13 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "low"
       }
     ]
   },
@@ -3602,6 +5215,13 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "low"
       }
     ]
   },
@@ -3621,6 +5241,13 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "low"
       }
     ]
   },
@@ -3640,6 +5267,13 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "low"
       }
     ]
   },
@@ -3659,6 +5293,13 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "low"
       }
     ]
   },
@@ -3678,6 +5319,20 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": "2015",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "지권의 변화",
+        "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "지권의 변화",
+        "confidence": "medium"
       }
     ]
   },
@@ -3697,6 +5352,13 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "low"
       }
     ]
   },
@@ -3716,6 +5378,20 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": "2015",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "기권과 날씨",
+        "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "날씨와 기후변화",
+        "confidence": "medium"
       }
     ]
   },
@@ -3735,6 +5411,20 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": "2015",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "물질의 구성",
+        "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "물질의 구성",
+        "confidence": "medium"
       }
     ]
   },
@@ -3753,6 +5443,13 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "low"
       }
     ]
   },
@@ -3772,6 +5469,20 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": "2015",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "기권과 날씨",
+        "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "날씨와 기후변화",
+        "confidence": "medium"
       }
     ]
   },
@@ -3791,6 +5502,13 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "low"
       }
     ]
   },
@@ -3810,6 +5528,13 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "low"
       }
     ]
   },
@@ -3829,6 +5554,13 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "low"
       }
     ]
   },
@@ -3848,6 +5580,20 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": "2015",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "지권의 변화",
+        "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "지권의 변화",
+        "confidence": "medium"
       }
     ]
   },
@@ -3867,6 +5613,20 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": "2015",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "열과 우리 생활",
+        "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "열",
+        "confidence": "medium"
       }
     ]
   },
@@ -3886,6 +5646,13 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "low"
       }
     ]
   },
@@ -3905,6 +5672,20 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": "2015",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "지권의 변화",
+        "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "지권의 변화",
+        "confidence": "medium"
       }
     ]
   },
@@ -3924,6 +5705,13 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "low"
       }
     ]
   },
@@ -3943,6 +5731,20 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": "2015",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "파동",
+        "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "파동",
+        "confidence": "medium"
       }
     ]
   },
@@ -3962,6 +5764,13 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "low"
       }
     ]
   },
@@ -3980,6 +5789,13 @@
       {
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
+        "confidence": "high"
+      },
+      {
+        "curriculumYear": "2015",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "수권과 해수의 순환",
         "confidence": "high"
       }
     ]
@@ -4000,6 +5816,13 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "low"
       }
     ]
   },
@@ -4019,6 +5842,13 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "low"
       }
     ]
   },
@@ -4038,6 +5868,13 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "low"
       }
     ]
   },
@@ -4057,6 +5894,13 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "low"
       }
     ]
   },
@@ -4076,6 +5920,13 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "low"
       }
     ]
   },
@@ -4095,6 +5946,13 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "low"
       }
     ]
   },
@@ -4114,6 +5972,20 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": "2015",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "물질의 상태변화",
+        "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "물질의 상태변화",
+        "confidence": "medium"
       }
     ]
   },
@@ -4133,6 +6005,13 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": "2015",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "소화·순환·호흡·배설",
+        "confidence": "medium"
       }
     ]
   },
@@ -4152,6 +6031,13 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "low"
       }
     ]
   },
@@ -4171,6 +6057,13 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "low"
       }
     ]
   },
@@ -4190,6 +6083,20 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": "2015",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "물질의 특성",
+        "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "물질의 특성",
+        "confidence": "medium"
       }
     ]
   },
@@ -4209,6 +6116,13 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "low"
       }
     ]
   },
@@ -4228,6 +6142,20 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": "2015",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "생물의 다양성",
+        "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "생물의 다양성",
+        "confidence": "medium"
       }
     ]
   },
@@ -4247,6 +6175,13 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "low"
       }
     ]
   },
@@ -4266,6 +6201,20 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": "2015",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "지권의 변화",
+        "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "지권의 변화",
+        "confidence": "medium"
       }
     ]
   },
@@ -4285,6 +6234,13 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "low"
       }
     ]
   },
@@ -4304,6 +6260,13 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "low"
       }
     ]
   },
@@ -4323,6 +6286,13 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "low"
       }
     ]
   },
@@ -4342,6 +6312,20 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": "2015",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "기권과 날씨",
+        "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "날씨와 기후변화",
+        "confidence": "medium"
       }
     ]
   },
@@ -4361,6 +6345,13 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "low"
       }
     ]
   },
@@ -4380,6 +6371,13 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "low"
       }
     ]
   },
@@ -4399,6 +6397,13 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "low"
       }
     ]
   },
@@ -4418,6 +6423,13 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "low"
       }
     ]
   },
@@ -4436,6 +6448,13 @@
       {
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
+        "confidence": "high"
+      },
+      {
+        "curriculumYear": "2015",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "태양계",
         "confidence": "high"
       }
     ]
@@ -4456,6 +6475,13 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "low"
       }
     ]
   },
@@ -4475,6 +6501,13 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "low"
       }
     ]
   },
@@ -4494,6 +6527,13 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "low"
       }
     ]
   },
@@ -4513,6 +6553,13 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "low"
       }
     ]
   },
@@ -4532,6 +6579,13 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "low"
       }
     ]
   },
@@ -4551,6 +6605,13 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "low"
       }
     ]
   },
@@ -4570,6 +6631,13 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "low"
       }
     ]
   },
@@ -4589,6 +6657,20 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": "2015",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "물질의 구성",
+        "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "물질의 구성",
+        "confidence": "medium"
       }
     ]
   },
@@ -4608,6 +6690,13 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "low"
       }
     ]
   },
@@ -4627,6 +6716,13 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "low"
       }
     ]
   },
@@ -4646,6 +6742,13 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": "2015",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "태양계",
+        "confidence": "medium"
       }
     ]
   },
@@ -4665,6 +6768,13 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "low"
       }
     ]
   },
@@ -4684,6 +6794,20 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": "2015",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "파동",
+        "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "파동",
+        "confidence": "medium"
       }
     ]
   },
@@ -4703,6 +6827,13 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "low"
       }
     ]
   },
@@ -4722,6 +6853,13 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "low"
       }
     ]
   },
@@ -4741,6 +6879,13 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "low"
       }
     ]
   },
@@ -4760,6 +6905,13 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "low"
       }
     ]
   },
@@ -4779,6 +6931,20 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": "2015",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "소화·순환·호흡·배설",
+        "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2015",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "빛과 파동",
+        "confidence": "medium"
       }
     ]
   },
@@ -4798,6 +6964,13 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "low"
       }
     ]
   },
@@ -4817,6 +6990,20 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": "2015",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "물질의 특성",
+        "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "물질의 특성",
+        "confidence": "medium"
       }
     ]
   },
@@ -4836,6 +7023,13 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "low"
       }
     ]
   },
@@ -4855,6 +7049,20 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": "2015",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "기체의 성질",
+        "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "기체의 성질",
+        "confidence": "medium"
       }
     ]
   },
@@ -4874,6 +7082,20 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": "2015",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "지권의 변화",
+        "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "지권의 변화",
+        "confidence": "medium"
       }
     ]
   },
@@ -4892,6 +7114,13 @@
       {
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
+        "confidence": "high"
+      },
+      {
+        "curriculumYear": "2015",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "별과 우주",
         "confidence": "high"
       }
     ]
@@ -4912,6 +7141,13 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "low"
       }
     ]
   },
@@ -4931,6 +7167,13 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "low"
       }
     ]
   },
@@ -4950,6 +7193,13 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "low"
       }
     ]
   },
@@ -4969,6 +7219,13 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "low"
       }
     ]
   },
@@ -4988,6 +7245,13 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "low"
       }
     ]
   },
@@ -5007,6 +7271,13 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "low"
       }
     ]
   },
@@ -5026,6 +7297,13 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "low"
       }
     ]
   },
@@ -5045,6 +7323,13 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "low"
       }
     ]
   },
@@ -5064,6 +7349,13 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "low"
       }
     ]
   },
@@ -5083,6 +7375,13 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "low"
       }
     ]
   },
@@ -5102,6 +7401,13 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "low"
       }
     ]
   },
@@ -5121,6 +7427,13 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "low"
       }
     ]
   },
@@ -5140,6 +7453,13 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "low"
       }
     ]
   },
@@ -5159,6 +7479,13 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "low"
       }
     ]
   },
@@ -5178,6 +7505,13 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "low"
       }
     ]
   },
@@ -5197,6 +7531,13 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "low"
       }
     ]
   },
@@ -5216,6 +7557,13 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "low"
       }
     ]
   },
@@ -5235,6 +7583,13 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "low"
       }
     ]
   },
@@ -5254,6 +7609,20 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": "2015",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "생물의 다양성",
+        "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "생물의 다양성",
+        "confidence": "medium"
       }
     ]
   },
@@ -5273,6 +7642,13 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "low"
       }
     ]
   },
@@ -5292,6 +7668,20 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": "2015",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "물질 변화에서의 규칙성",
+        "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "물질 변화",
+        "confidence": "medium"
       }
     ]
   },
@@ -5311,6 +7701,13 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "low"
       }
     ]
   },
@@ -5330,6 +7727,20 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": "2015",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "지권의 변화",
+        "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "지권의 변화",
+        "confidence": "medium"
       }
     ]
   },
@@ -5349,6 +7760,13 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "low"
       }
     ]
   },
@@ -5368,6 +7786,13 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "low"
       }
     ]
   },
@@ -5387,6 +7812,13 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "low"
       }
     ]
   },
@@ -5406,6 +7838,13 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "low"
       }
     ]
   },
@@ -5425,6 +7864,20 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": "2015",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "지권의 변화",
+        "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "지권의 변화",
+        "confidence": "medium"
       }
     ]
   },
@@ -5444,6 +7897,13 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "low"
       }
     ]
   },
@@ -5463,6 +7923,20 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": "2015",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "운동과 에너지",
+        "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "운동과 에너지",
+        "confidence": "medium"
       }
     ]
   },
@@ -5482,6 +7956,13 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "low"
       }
     ]
   },
@@ -5501,6 +7982,13 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "low"
       }
     ]
   },
@@ -5520,6 +8008,13 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "low"
       }
     ]
   },
@@ -5539,6 +8034,13 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "low"
       }
     ]
   },
@@ -5557,6 +8059,13 @@
       {
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
+        "confidence": "high"
+      },
+      {
+        "curriculumYear": "2015",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "수권과 해수의 순환",
         "confidence": "high"
       }
     ]
@@ -5577,6 +8086,13 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "low"
       }
     ]
   },
@@ -5596,6 +8112,13 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "low"
       }
     ]
   },
@@ -5615,6 +8138,20 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": "2015",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "지권의 변화",
+        "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "지권의 변화",
+        "confidence": "medium"
       }
     ]
   },
@@ -5634,6 +8171,13 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "low"
       }
     ]
   },
@@ -5653,6 +8197,20 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": "2015",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "운동과 에너지",
+        "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "운동과 에너지",
+        "confidence": "medium"
       }
     ]
   },
@@ -5672,6 +8230,13 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "low"
       }
     ]
   },
@@ -5691,6 +8256,13 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "low"
       }
     ]
   },
@@ -5710,6 +8282,13 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "low"
       }
     ]
   },
@@ -5729,6 +8308,20 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": "2015",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "열과 우리 생활",
+        "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "열",
+        "confidence": "medium"
       }
     ]
   },
@@ -5748,6 +8341,13 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "low"
       }
     ]
   },
@@ -5767,6 +8367,13 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "low"
       }
     ]
   },
@@ -5786,6 +8393,13 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "low"
       }
     ]
   },
@@ -5805,6 +8419,20 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": "2015",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "물질의 상태변화",
+        "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "물질의 상태변화",
+        "confidence": "medium"
       }
     ]
   },
@@ -5824,6 +8452,13 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "low"
       }
     ]
   },
@@ -5843,6 +8478,13 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "low"
       }
     ]
   },
@@ -5862,6 +8504,13 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "low"
       }
     ]
   },
@@ -5881,6 +8530,13 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "low"
       }
     ]
   },
@@ -5900,6 +8556,13 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "low"
       }
     ]
   },
@@ -5919,6 +8582,13 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "low"
       }
     ]
   },
@@ -5938,6 +8608,13 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "low"
       }
     ]
   },
@@ -5957,6 +8634,13 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "low"
       }
     ]
   },
@@ -5976,6 +8660,13 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "low"
       }
     ]
   },
@@ -5995,6 +8686,13 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "low"
       }
     ]
   },
@@ -6014,6 +8712,20 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": "2015",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "파동",
+        "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "파동",
+        "confidence": "medium"
       }
     ]
   },
@@ -6033,6 +8745,20 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": "2015",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "물질의 특성",
+        "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "물질의 특성",
+        "confidence": "medium"
       }
     ]
   },
@@ -6052,6 +8778,13 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "low"
       }
     ]
   },
@@ -6071,6 +8804,13 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "low"
       }
     ]
   },
@@ -6089,6 +8829,13 @@
       {
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
+        "confidence": "high"
+      },
+      {
+        "curriculumYear": "2015",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "태양계",
         "confidence": "high"
       }
     ]
@@ -6109,6 +8856,20 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": "2015",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "물질의 특성",
+        "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "물질의 특성",
+        "confidence": "medium"
       }
     ]
   },
@@ -6128,6 +8889,20 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": "2015",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "지권의 변화",
+        "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "지권의 변화",
+        "confidence": "medium"
       }
     ]
   },
@@ -6147,6 +8922,13 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "low"
       }
     ]
   },
@@ -6166,6 +8948,20 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": "2015",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "전기와 자기",
+        "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "전기와 자기",
+        "confidence": "medium"
       }
     ]
   },
@@ -6185,6 +8981,20 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": "2015",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "전기와 자기",
+        "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "전기와 자기",
+        "confidence": "medium"
       }
     ]
   },
@@ -6204,6 +9014,20 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": "2015",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "전기와 자기",
+        "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "전기와 자기",
+        "confidence": "medium"
       }
     ]
   },
@@ -6223,6 +9047,20 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": "2015",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "전기와 자기",
+        "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "전기와 자기",
+        "confidence": "medium"
       }
     ]
   },
@@ -6242,6 +9080,13 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "low"
       }
     ]
   },
@@ -6261,6 +9106,13 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "low"
       }
     ]
   },
@@ -6280,6 +9132,13 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "low"
       }
     ]
   },
@@ -6299,6 +9158,13 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "low"
       }
     ]
   },
@@ -6318,6 +9184,13 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "low"
       }
     ]
   },
@@ -6337,6 +9210,13 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "low"
       }
     ]
   },
@@ -6356,6 +9236,20 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": "2015",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "지권의 변화",
+        "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "지권의 변화",
+        "confidence": "medium"
       }
     ]
   },
@@ -6375,6 +9269,13 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "low"
       }
     ]
   },
@@ -6394,6 +9295,20 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": "2015",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "지권의 변화",
+        "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "지권의 변화",
+        "confidence": "medium"
       }
     ]
   },
@@ -6413,6 +9328,13 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "low"
       }
     ]
   },
@@ -6432,6 +9354,13 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "low"
       }
     ]
   },
@@ -6451,6 +9380,20 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": "2015",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "물질의 구성",
+        "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "물질의 구성",
+        "confidence": "medium"
       }
     ]
   },
@@ -6470,6 +9413,13 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "low"
       }
     ]
   },
@@ -6489,6 +9439,13 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "low"
       }
     ]
   },
@@ -6508,6 +9465,13 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "low"
       }
     ]
   },
@@ -6527,6 +9491,13 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "low"
       }
     ]
   },
@@ -6546,6 +9517,13 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "low"
       }
     ]
   },
@@ -6565,6 +9543,13 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "low"
       }
     ]
   },
@@ -6584,6 +9569,20 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": "2015",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "운동과 에너지",
+        "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "운동과 에너지",
+        "confidence": "medium"
       }
     ]
   },
@@ -6603,6 +9602,13 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "low"
       }
     ]
   },
@@ -6622,6 +9628,13 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "low"
       }
     ]
   },
@@ -6641,6 +9654,13 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "low"
       }
     ]
   },
@@ -6660,6 +9680,13 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "low"
       }
     ]
   },
@@ -6679,6 +9706,20 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": "2015",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "열과 우리 생활",
+        "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "열",
+        "confidence": "medium"
       }
     ]
   },
@@ -6698,6 +9739,20 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": "2015",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "물질의 특성",
+        "confidence": "low"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "물질의 특성",
+        "confidence": "low"
       }
     ]
   },
@@ -6717,6 +9772,13 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "low"
       }
     ]
   },
@@ -6736,6 +9798,13 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "low"
       }
     ]
   },
@@ -6755,6 +9824,13 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "low"
       }
     ]
   },
@@ -6774,6 +9850,13 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "low"
       }
     ]
   },
@@ -6793,6 +9876,13 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "low"
       }
     ]
   },
@@ -6812,6 +9902,13 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "low"
       }
     ]
   },
@@ -6831,6 +9928,13 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "low"
       }
     ]
   },
@@ -6850,6 +9954,13 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "low"
       }
     ]
   },
@@ -6869,6 +9980,13 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "low"
       }
     ]
   },
@@ -6888,6 +10006,13 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "low"
       }
     ]
   },
@@ -6907,6 +10032,20 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": "2015",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "식물과 에너지",
+        "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "식물과 에너지",
+        "confidence": "medium"
       }
     ]
   },
@@ -6926,6 +10065,13 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "low"
       }
     ]
   },
@@ -6945,6 +10091,13 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "low"
       }
     ]
   },
@@ -6964,6 +10117,20 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": "2015",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "태양계",
+        "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2015",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "별과 우주",
+        "confidence": "medium"
       }
     ]
   },
@@ -6983,6 +10150,13 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "low"
       }
     ]
   },
@@ -7002,6 +10176,13 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "low"
       }
     ]
   },
@@ -7021,6 +10202,13 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "low"
       }
     ]
   },
@@ -7040,6 +10228,13 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "low"
       }
     ]
   },
@@ -7059,6 +10254,13 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "low"
       }
     ]
   },
@@ -7078,6 +10280,13 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "low"
       }
     ]
   },
@@ -7097,6 +10306,13 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "low"
       }
     ]
   },
@@ -7116,6 +10332,13 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "low"
       }
     ]
   },
@@ -7135,6 +10358,13 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "low"
       }
     ]
   },
@@ -7154,6 +10384,13 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "low"
       }
     ]
   },
@@ -7173,6 +10410,13 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "low"
       }
     ]
   },
@@ -7192,6 +10436,13 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "low"
       }
     ]
   },
@@ -7211,6 +10462,13 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "low"
       }
     ]
   },
@@ -7230,6 +10488,13 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "low"
       }
     ]
   },
@@ -7249,6 +10514,13 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": "2015",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "별과 우주",
+        "confidence": "medium"
       }
     ]
   },
@@ -7268,6 +10540,13 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "low"
       }
     ]
   },
@@ -7287,6 +10566,13 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "low"
       }
     ]
   },
@@ -7306,6 +10592,20 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": "2015",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "파동",
+        "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "파동",
+        "confidence": "medium"
       }
     ]
   },
@@ -7325,6 +10625,13 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "low"
       }
     ]
   },
@@ -7344,6 +10651,13 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "low"
       }
     ]
   },
@@ -7363,6 +10677,20 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": "2015",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "물질의 특성",
+        "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "물질의 특성",
+        "confidence": "medium"
       }
     ]
   },
@@ -7382,6 +10710,13 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "low"
       }
     ]
   },
@@ -7401,6 +10736,13 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": "2015",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "소화·순환·호흡·배설",
+        "confidence": "medium"
       }
     ]
   },
@@ -7420,6 +10762,13 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": "2015",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "태양계",
+        "confidence": "medium"
       }
     ]
   },
@@ -7439,6 +10788,20 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": "2015",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "태양계",
+        "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2015",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "여러 가지 화학 반응",
+        "confidence": "medium"
       }
     ]
   },
@@ -7458,6 +10821,13 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "low"
       }
     ]
   },
@@ -7477,6 +10847,13 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "low"
       }
     ]
   },
@@ -7496,6 +10873,13 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": "2015",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "운동과 에너지",
+        "confidence": "medium"
       }
     ]
   },
@@ -7515,6 +10899,13 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "low"
       }
     ]
   },
@@ -7534,6 +10925,13 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "low"
       }
     ]
   },
@@ -7553,6 +10951,13 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": "2015",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "운동과 에너지",
+        "confidence": "medium"
       }
     ]
   },
@@ -7572,6 +10977,13 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "low"
       }
     ]
   },
@@ -7591,6 +11003,13 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "low"
       }
     ]
   },
@@ -7610,6 +11029,13 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "low"
       }
     ]
   },
@@ -7629,6 +11055,13 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "low"
       }
     ]
   },
@@ -7648,6 +11081,13 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "low"
       }
     ]
   },
@@ -7667,6 +11107,13 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "low"
       }
     ]
   },
@@ -7686,6 +11133,13 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "low"
       }
     ]
   },
@@ -7705,6 +11159,13 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "low"
       }
     ]
   },
@@ -7724,6 +11185,13 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "low"
       }
     ]
   },
@@ -7743,6 +11211,13 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "low"
       }
     ]
   },
@@ -7762,6 +11237,13 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "low"
       }
     ]
   },
@@ -7780,6 +11262,20 @@
       {
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
+        "confidence": "high"
+      },
+      {
+        "curriculumYear": "2015",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "기권과 날씨",
+        "confidence": "high"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "날씨와 기후변화",
         "confidence": "high"
       }
     ]
@@ -7800,6 +11296,13 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": "2015",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "태양계",
+        "confidence": "medium"
       }
     ]
   },
@@ -7819,6 +11322,13 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "low"
       }
     ]
   },
@@ -7838,6 +11348,13 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "low"
       }
     ]
   },
@@ -7857,6 +11374,13 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": "2015",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "물질의 특성",
+        "confidence": "low"
       }
     ]
   },
@@ -7876,6 +11400,20 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": "2015",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "열과 우리 생활",
+        "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "열",
+        "confidence": "medium"
       }
     ]
   },
@@ -7895,6 +11433,20 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": "2015",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "파동",
+        "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "파동",
+        "confidence": "medium"
       }
     ]
   },
@@ -7914,6 +11466,13 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "low"
       }
     ]
   },
@@ -7933,6 +11492,13 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "low"
       }
     ]
   },
@@ -7952,6 +11518,13 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "low"
       }
     ]
   },
@@ -7971,6 +11544,13 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "low"
       }
     ]
   },
@@ -7990,6 +11570,13 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "low"
       }
     ]
   },
@@ -8009,6 +11596,20 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": "2015",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "식물과 에너지",
+        "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "식물과 에너지",
+        "confidence": "medium"
       }
     ]
   },
@@ -8028,6 +11629,13 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "low"
       }
     ]
   },
@@ -8047,6 +11655,20 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": "2015",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "여러 가지 힘",
+        "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "힘의 작용",
+        "confidence": "medium"
       }
     ]
   },
@@ -8066,6 +11688,13 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "low"
       }
     ]
   },
@@ -8085,6 +11714,13 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "low"
       }
     ]
   },
@@ -8104,6 +11740,13 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "low"
       }
     ]
   },
@@ -8123,6 +11766,13 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": "2015",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "별과 우주",
+        "confidence": "medium"
       }
     ]
   },
@@ -8142,6 +11792,20 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": "2015",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "수권과 해수의 순환",
+        "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "수권과 해수의 순환",
+        "confidence": "medium"
       }
     ]
   },
@@ -8161,6 +11825,20 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": "2015",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "태양계",
+        "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2015",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "별과 우주",
+        "confidence": "medium"
       }
     ]
   },
@@ -8180,6 +11858,20 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": "2015",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "운동과 에너지",
+        "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "운동과 에너지",
+        "confidence": "medium"
       }
     ]
   },
@@ -8199,6 +11891,20 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": "2015",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "물질의 특성",
+        "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "물질의 특성",
+        "confidence": "medium"
       }
     ]
   },
@@ -8218,6 +11924,20 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": "2015",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "기권과 날씨",
+        "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "날씨와 기후변화",
+        "confidence": "medium"
       }
     ]
   },
@@ -8237,6 +11957,13 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "low"
       }
     ]
   },
@@ -8256,6 +11983,20 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": "2015",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "생물의 구성과 다양성",
+        "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "생물의 구성과 다양성",
+        "confidence": "medium"
       }
     ]
   },
@@ -8275,6 +12016,13 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "low"
       }
     ]
   },
@@ -8294,6 +12042,13 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "low"
       }
     ]
   },
@@ -8313,6 +12068,13 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "low"
       }
     ]
   },
@@ -8332,6 +12094,20 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": "2015",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "여러 가지 힘",
+        "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "힘의 작용",
+        "confidence": "medium"
       }
     ]
   },
@@ -8351,6 +12127,13 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "low"
       }
     ]
   },
@@ -8369,6 +12152,13 @@
       {
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
+        "confidence": "high"
+      },
+      {
+        "curriculumYear": "2015",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "생식과 유전",
         "confidence": "high"
       }
     ]
@@ -8389,6 +12179,13 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": "2015",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "생식과 유전",
+        "confidence": "low"
       }
     ]
   },
@@ -8408,6 +12205,13 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "low"
       }
     ]
   },
@@ -8427,6 +12231,13 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "low"
       }
     ]
   },
@@ -8446,6 +12257,13 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "low"
       }
     ]
   },
@@ -8465,6 +12283,13 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "low"
       }
     ]
   },
@@ -8484,6 +12309,13 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": "2015",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "전기와 자기",
+        "confidence": "low"
       }
     ]
   },
@@ -8503,6 +12335,13 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "low"
       }
     ]
   },
@@ -8522,6 +12361,13 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "low"
       }
     ]
   },
@@ -8541,6 +12387,13 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "low"
       }
     ]
   },
@@ -8560,6 +12413,13 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "low"
       }
     ]
   },
@@ -8579,6 +12439,13 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": "2015",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "전기와 자기",
+        "confidence": "medium"
       }
     ]
   },
@@ -8598,6 +12465,13 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "low"
       }
     ]
   },
@@ -8617,6 +12491,13 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "low"
       }
     ]
   },
@@ -8636,6 +12517,13 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "low"
       }
     ]
   },
@@ -8655,6 +12543,13 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "low"
       }
     ]
   },
@@ -8674,6 +12569,13 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "low"
       }
     ]
   },
@@ -8693,6 +12595,13 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "low"
       }
     ]
   },
@@ -8712,6 +12621,13 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "low"
       }
     ]
   },
@@ -8731,6 +12647,13 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "low"
       }
     ]
   },
@@ -8750,6 +12673,20 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": "2015",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "수권과 해수의 순환",
+        "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "수권과 해수의 순환",
+        "confidence": "medium"
       }
     ]
   },
@@ -8769,6 +12706,13 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "low"
       }
     ]
   },
@@ -8788,6 +12732,13 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "low"
       }
     ]
   },
@@ -8806,6 +12757,20 @@
       {
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
+        "confidence": "high"
+      },
+      {
+        "curriculumYear": "2015",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "수권과 해수의 순환",
+        "confidence": "high"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "수권과 해수의 순환",
         "confidence": "high"
       }
     ]
@@ -8826,6 +12791,13 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "low"
       }
     ]
   },
@@ -8845,6 +12817,13 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "low"
       }
     ]
   },
@@ -8864,6 +12843,13 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "low"
       }
     ]
   },
@@ -8883,6 +12869,20 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": "2015",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "식물과 에너지",
+        "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "식물과 에너지",
+        "confidence": "medium"
       }
     ]
   },
@@ -8902,6 +12902,20 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": "2015",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "기체의 성질",
+        "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "기체의 성질",
+        "confidence": "medium"
       }
     ]
   },
@@ -8921,6 +12935,13 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "low"
       }
     ]
   },
@@ -8940,6 +12961,13 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "low"
       }
     ]
   },
@@ -8959,6 +12987,13 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "low"
       }
     ]
   },
@@ -8978,6 +13013,13 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "low"
       }
     ]
   },
@@ -8997,6 +13039,13 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "low"
       }
     ]
   },
@@ -9016,6 +13065,13 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "low"
       }
     ]
   },
@@ -9034,6 +13090,13 @@
       {
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
+        "confidence": "high"
+      },
+      {
+        "curriculumYear": "2015",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "수권과 해수의 순환",
         "confidence": "high"
       }
     ]
@@ -9054,6 +13117,13 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "low"
       }
     ]
   },
@@ -9073,6 +13143,20 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": "2015",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "기권과 날씨",
+        "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "날씨와 기후변화",
+        "confidence": "medium"
       }
     ]
   },
@@ -9092,6 +13176,13 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "low"
       }
     ]
   },
@@ -9111,6 +13202,20 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": "2015",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "물질의 특성",
+        "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "물질의 특성",
+        "confidence": "medium"
       }
     ]
   },
@@ -9130,6 +13235,13 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": "2015",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "소화·순환·호흡·배설",
+        "confidence": "medium"
       }
     ]
   },
@@ -9149,6 +13261,13 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "low"
       }
     ]
   },
@@ -9168,6 +13287,13 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "low"
       }
     ]
   },
@@ -9187,6 +13313,20 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": "2015",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "운동과 에너지",
+        "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "운동과 에너지",
+        "confidence": "medium"
       }
     ]
   },
@@ -9206,6 +13346,13 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "low"
       }
     ]
   },
@@ -9225,6 +13372,13 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "low"
       }
     ]
   },
@@ -9243,6 +13397,13 @@
       {
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
+        "confidence": "high"
+      },
+      {
+        "curriculumYear": "2015",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "수권과 해수의 순환",
         "confidence": "high"
       }
     ]
@@ -9263,6 +13424,20 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": "2015",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "운동과 에너지",
+        "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "운동과 에너지",
+        "confidence": "medium"
       }
     ]
   },
@@ -9282,6 +13457,13 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "low"
       }
     ]
   },
@@ -9301,6 +13483,13 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "low"
       }
     ]
   },
@@ -9320,6 +13509,13 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "low"
       }
     ]
   },
@@ -9339,6 +13535,13 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "low"
       }
     ]
   },
@@ -9358,6 +13561,13 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "low"
       }
     ]
   },
@@ -9377,6 +13587,13 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "low"
       }
     ]
   },
@@ -9396,6 +13613,13 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "low"
       }
     ]
   },
@@ -9415,6 +13639,13 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "low"
       }
     ]
   },
@@ -9434,6 +13665,13 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "low"
       }
     ]
   },
@@ -9453,6 +13691,13 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "low"
       }
     ]
   },
@@ -9472,6 +13717,13 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "low"
       }
     ]
   },
@@ -9491,6 +13743,13 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "low"
       }
     ]
   },
@@ -9510,6 +13769,13 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "low"
       }
     ]
   },
@@ -9529,6 +13795,13 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "low"
       }
     ]
   },
@@ -9548,6 +13821,13 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "low"
       }
     ]
   },
@@ -9567,6 +13847,20 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": "2015",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "태양계",
+        "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2015",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "생식과 유전",
+        "confidence": "medium"
       }
     ]
   },
@@ -9586,6 +13880,13 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "low"
       }
     ]
   },
@@ -9605,6 +13906,13 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "low"
       }
     ]
   },
@@ -9624,6 +13932,13 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": "2015",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "생식과 유전",
+        "confidence": "medium"
       }
     ]
   },
@@ -9643,6 +13958,20 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": "2015",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "수권과 해수의 순환",
+        "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2015",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "기권과 날씨",
+        "confidence": "medium"
       }
     ]
   },
@@ -9662,6 +13991,20 @@
         "category": "게시판별 분류",
         "topic": "중학교 환경&기술&재해안전&기타",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": "2015",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "물질 변화에서의 규칙성",
+        "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2015",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "전기와 자기",
+        "confidence": "medium"
       }
     ]
   }

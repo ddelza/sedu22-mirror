@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "중학교 환경&기술&재해안전&기타",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "low"
     }
-  ]
+  ],
+  "tagsNote": "동아리 시간에 중1 학생들과 볼 만한 과학영화를 추천받는 질문.",
+  "taggedAt": "2026-08-13T12:29:51.540Z"
 }

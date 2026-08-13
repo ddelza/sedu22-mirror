@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "중학교 지구과학수업 이야기",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "기권과 날씨",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "다른 선생님 자료를 일부 수정한 비상교과서 2단원 기권과 날씨 활동지 및 정답지 공유.",
+  "taggedAt": "2026-08-13T12:11:20.276Z"
 }

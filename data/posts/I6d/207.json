@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "평가 Ideas",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "low"
     }
-  ]
+  ],
+  "tagsNote": "신규교사가 지필평가 문항용 그림 자료를 어디서 구하는지 묻는 질문(특정 단원과 무관).",
+  "taggedAt": "2026-08-13T13:08:11.329Z"
 }

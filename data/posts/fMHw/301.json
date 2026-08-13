@@ -16,6 +16,15 @@
       "category": "게시판별 분류",
       "topic": "중학교 환경&기술&재해안전&기타",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "태양계",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "공전에 의한 현상 관련 시험 보기 내용이 수업 필기에 없어 학생들이 항의한 것에 대한 질문.",
+  "taggedAt": "2026-08-13T12:49:29.310Z"
 }

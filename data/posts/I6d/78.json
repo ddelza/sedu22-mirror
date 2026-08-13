@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "평가 Ideas",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "low"
     }
-  ]
+  ],
+  "tagsNote": "협업·의사소통·창의성 등 역량 성장을 묻는 중간고사 서술형 문제 아이디어 제안(특정 단원과 무관).",
+  "taggedAt": "2026-08-13T13:12:37.819Z"
 }

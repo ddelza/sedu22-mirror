@@ -17,6 +17,20 @@
       "category": "게시판별 분류",
       "topic": "센서로 하는 과학실험(최효석)",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": "고등학교",
+      "subject": "물리학",
+      "unit": "회전운동과 병진운동",
+      "confidence": "medium"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "센서/데이터로깅",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "자이로·초음파 센서로 원판의 회전운동과 연결된 물체의 운동을 분석하는 실험(45편).",
+  "taggedAt": "2026-08-13T13:02:02.145Z"
 }

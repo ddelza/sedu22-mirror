@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "평가 Ideas",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "여러 가지 힘",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "중1 '힘의 평형' 서술형 문항에서 핵심용어 없이 서술한 답의 정오 판정을 묻는 채점 고민.",
+  "taggedAt": "2026-08-13T13:11:29.185Z"
 }

@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "중학교 생물수업 이야기",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "접안렌즈 액세서리(디지털 연결) 사용법 해결 후기(특정 단원 아님).",
+  "taggedAt": "2026-08-13T04:21:21.338Z"
 }

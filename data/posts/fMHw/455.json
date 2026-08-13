@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "중학교 환경&기술&재해안전&기타",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "low"
     }
-  ]
+  ],
+  "tagsNote": "과학책 그림을 슈링클스·PS판 열쇠고리로 만드는 학기말 활동(1~4단원 대상) 공유(구체적 단원 불명확).",
+  "taggedAt": "2026-08-13T12:55:32.287Z"
 }

@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "중학교 지구과학수업 이야기",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "태양계",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "동아리 학생들과 한 달간 직접 관측한 태양 흑점 이동으로 태양 자전을 확인한 영상 공유.",
+  "taggedAt": "2026-08-13T12:05:07.497Z"
 }

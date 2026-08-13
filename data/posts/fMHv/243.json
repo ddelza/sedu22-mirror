@@ -17,6 +17,22 @@
       "category": "게시판별 분류",
       "topic": "중학교 지구과학수업 이야기",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "열과 우리 생활",
+      "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "열",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "비열 측정 실험에서 모루끈으로 온도계를 스탠드에 고정하는 팁 공유(물리 내용, 지구과학 게시판에 교차 게시됨).",
+  "taggedAt": "2026-08-13T05:27:15.738Z"
 }

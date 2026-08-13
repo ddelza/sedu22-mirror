@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "중학교 지구과학수업 이야기",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "low"
     }
-  ]
+  ],
+  "tagsNote": "천재교육 신영준 교과서 5단원 학습지를 편집해 공유(구체적 단원명은 언급되지 않음).",
+  "taggedAt": "2026-08-13T05:25:30.475Z"
 }

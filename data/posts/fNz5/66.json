@@ -17,6 +17,20 @@
       "category": "게시판별 분류",
       "topic": "센서로 하는 과학실험(최효석)",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": "고등학교",
+      "subject": "화학",
+      "unit": "기체의 압력과 온도",
+      "confidence": "medium"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "센서/데이터로깅",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "냉각 과정에서 기체의 온도-압력 관계를 무선보드·기압·온도센서로 확인하는 실험(30편).",
+  "taggedAt": "2026-08-13T13:02:02.134Z"
 }

@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "중학교 환경&기술&재해안전&기타",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "별과 우주",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "7단원 별과 우주 수업 중 추석 연휴를 활용한 천체사진 촬영 콘테스트 진행.",
+  "taggedAt": "2026-08-13T12:55:32.285Z"
 }

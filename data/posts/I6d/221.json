@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "평가 Ideas",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "low"
     }
-  ]
+  ],
+  "tagsNote": "한국교육과정평가원의 중학교 과학·고등 통합과학 기출문제 사이트 소개(특정 단원과 무관).",
+  "taggedAt": "2026-08-13T13:08:11.338Z"
 }

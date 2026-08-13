@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "사이버 교사연수",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "low"
     }
-  ]
+  ],
+  "tagsNote": "DNA 추출 실험의 불완전한 순도 논리를 빌려 '칭찬이 양파 성장에 미치는 영향' 탐구 설계를 논하는 글(특정 단원 한정 아님).",
+  "taggedAt": "2026-08-13T13:13:51.988Z"
 }

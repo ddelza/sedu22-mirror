@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "사이버 교사연수",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "low"
     }
-  ]
+  ],
+  "tagsNote": "필름통 폭탄을 이용한 가설연역적 탐구 강의를 물화생지 전공 교사 대상으로 진행한 연수 후기(특정 단원 한정 아님, 탐구방법론 중심).",
+  "taggedAt": "2026-08-13T13:15:05.045Z"
 }

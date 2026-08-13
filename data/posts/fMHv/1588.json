@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "중학교 지구과학수업 이야기",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "지권의 변화",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "화성암 결정 크기 수업에 쓰이던 스테아르산 실험이 2022 개정 교육과정에서 빠진 이유에 대한 질문.",
+  "taggedAt": "2026-08-13T05:21:50.509Z"
 }

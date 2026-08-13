@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "중학교 환경&기술&재해안전&기타",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "low"
     }
-  ]
+  ],
+  "tagsNote": "노션(notion) 앱으로 수업 계획을 정리한 중1 게시판 구성 사례 공유(특정 단원과 무관).",
+  "taggedAt": "2026-08-13T12:32:48.922Z"
 }

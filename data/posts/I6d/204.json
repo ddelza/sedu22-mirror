@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "평가 Ideas",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "low"
     }
-  ]
+  ],
+  "tagsNote": "고3 물리2 오답노트 수행평가 계획서 명칭·영역 작성 사례를 구하는 질문(특정 단원과 무관).",
+  "taggedAt": "2026-08-13T13:08:11.327Z"
 }

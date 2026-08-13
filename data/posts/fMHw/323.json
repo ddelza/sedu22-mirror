@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "중학교 환경&기술&재해안전&기타",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "low"
     }
-  ]
+  ],
+  "tagsNote": "8단원 '과학기술과 인류 문명' 관련 유튜브 영상 기반 2차시 활동지 공유(특정 지구과학 단원 아님).",
+  "taggedAt": "2026-08-13T12:49:29.325Z"
 }

@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "중학교 지구과학수업 이야기",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "기권과 날씨",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "학교 사정상 한 학기 동안 2단원만 진행하는 13차시 교수학습 계획 공유.",
+  "taggedAt": "2026-08-13T12:12:52.255Z"
 }

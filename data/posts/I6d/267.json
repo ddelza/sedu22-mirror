@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "평가 Ideas",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "low"
     }
-  ]
+  ],
+  "tagsNote": "타교 평가계획·타교과 평가계획 참고, 챗GPT 활용 등 2학기 평가계획 작성 tips 공유(특정 단원과 무관).",
+  "taggedAt": "2026-08-13T13:10:14.926Z"
 }

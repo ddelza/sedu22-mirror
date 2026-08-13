@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "중학교 생물수업 이야기",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "학기말 영화 감상 활동지(사운드 오브 뮤직 등) 공유(특정 단원 아님).",
+  "taggedAt": "2026-08-13T04:11:05.127Z"
 }

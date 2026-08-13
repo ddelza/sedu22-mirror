@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "평가 Ideas",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "low"
     }
-  ]
+  ],
+  "tagsNote": "중간고사 출제 아이디어와 그림 자료 출처를 나누자는 제안 글(특정 단원과 무관).",
+  "taggedAt": "2026-08-13T13:03:29.986Z"
 }

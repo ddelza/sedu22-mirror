@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "평가 Ideas",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": null,
+      "subject": "과학",
+      "unit": "미분류",
+      "confidence": "low"
     }
-  ]
+  ],
+  "tagsNote": "2015 과학과 교육과정 원문 및 해설서 파일 공유(과목 전체, 특정 단원 한정 아님).",
+  "taggedAt": "2026-08-13T13:12:37.825Z"
 }

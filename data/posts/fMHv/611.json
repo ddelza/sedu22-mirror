@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "중학교 지구과학수업 이야기",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "low"
     }
-  ]
+  ],
+  "tagsNote": "3학년 학년말 환경교육 프로그램으로 진행한 업사이클링 무드등 만들기 활동일지(특정 단원 한정 아님).",
+  "taggedAt": "2026-08-13T12:12:52.283Z"
 }

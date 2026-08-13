@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "중학교 환경&기술&재해안전&기타",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "수권과 해수의 순환",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "더운 교실에서 시원하게 볼 수 있도록 세종기지·빙하 풍경을 소개하는 자료 재공유.",
+  "taggedAt": "2026-08-13T12:52:37.713Z"
 }

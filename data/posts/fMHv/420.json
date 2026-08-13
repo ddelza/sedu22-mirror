@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "중학교 지구과학수업 이야기",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "low"
     }
-  ]
+  ],
+  "tagsNote": "2학년 2차 지필 이의제기 문항에 대한 지구과학 전공 교사 의견 요청(구체적 단원 내용 확인 어려움).",
+  "taggedAt": "2026-08-13T12:05:07.498Z"
 }

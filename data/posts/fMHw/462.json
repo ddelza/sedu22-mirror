@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "중학교 환경&기술&재해안전&기타",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "low"
     }
-  ]
+  ],
+  "tagsNote": "물화생지 교사 공동 집필을 제안하는 홍보성 글(특정 단원과 무관).",
+  "taggedAt": "2026-08-13T12:55:32.294Z"
 }

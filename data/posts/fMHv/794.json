@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "중학교 지구과학수업 이야기",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "수권과 해수의 순환",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "수자원 단원 마무리에 활용할 만한 '소중한 수자원' 관련 뉴스 자료 공유.",
+  "taggedAt": "2026-08-13T12:20:28.502Z"
 }

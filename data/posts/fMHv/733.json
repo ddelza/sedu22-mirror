@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "중학교 지구과학수업 이야기",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "별과 우주",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "여러 자료를 조합해 급하게 만든 비상교과서 7단원(별과 우주) 수업자료 공유.",
+  "taggedAt": "2026-08-13T12:18:56.876Z"
 }

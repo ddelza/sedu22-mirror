@@ -17,6 +17,22 @@
       "category": "게시판별 분류",
       "topic": "중학교 생물수업 이야기",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "생물의 다양성",
+      "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "생물의 구성과 다양성",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "중1 2단원 생물의 구성과 다양성(동물·식물세포 관찰) 실험 시행착오 기록.",
+  "taggedAt": "2026-08-13T04:12:35.814Z"
 }

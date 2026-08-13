@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "중학교 지구과학수업 이야기",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "기권과 날씨",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "중3 수업을 새로 맡으며 만든 2단원 기권과 날씨 PPT·학습지 제작 진행 상황 공유.",
+  "taggedAt": "2026-08-13T12:11:20.278Z"
 }

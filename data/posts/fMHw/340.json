@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "중학교 환경&기술&재해안전&기타",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "low"
     }
-  ]
+  ],
+  "tagsNote": "자바실험실(javalab.org) 사이트 접속 오류에 대한 문의(특정 단원과 무관).",
+  "taggedAt": "2026-08-13T12:51:02.874Z"
 }

@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "중학교 지구과학수업 이야기",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "low"
     }
-  ]
+  ],
+  "tagsNote": "힘든 학급에서 5·6단원 탐구활동을 모둠별로 반복 진행한 운영 경험 공유(구체적 단원 내용 언급 없음).",
+  "taggedAt": "2026-08-13T05:27:15.720Z"
 }

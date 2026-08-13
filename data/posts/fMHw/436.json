@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "중학교 환경&기술&재해안전&기타",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "low"
     }
-  ]
+  ],
+  "tagsNote": "중3 대상 2시간 블록타임 수업에 할 만한 실험을 추천받는 질문(구체적 단원 불명확).",
+  "taggedAt": "2026-08-13T12:54:04.698Z"
 }

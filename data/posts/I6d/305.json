@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "평가 Ideas",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "low"
     }
-  ]
+  ],
+  "tagsNote": "재과만 AI 문항 생성기 사용 시 지켜야 할 4가지 출제 수칙 안내(특정 단원과 무관).",
+  "taggedAt": "2026-08-13T13:11:29.202Z"
 }

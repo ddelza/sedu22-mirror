@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "중학교 지구과학수업 이야기",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "low"
     }
-  ]
+  ],
+  "tagsNote": "'위기탈출 넘버원' 동영상 다운로드 방법에 대한 답글(단원 내용 없이 다운로드 방법만 설명).",
+  "taggedAt": "2026-08-13T05:30:34.587Z"
 }

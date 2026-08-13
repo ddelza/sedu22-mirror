@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "사이버 교사연수",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "low"
     }
-  ]
+  ],
+  "tagsNote": "학기초·학년말 어색함을 깨는 아이스멜팅(친교) 게임 모음 공유(특정 단원과 무관).",
+  "taggedAt": "2026-08-13T13:15:05.062Z"
 }

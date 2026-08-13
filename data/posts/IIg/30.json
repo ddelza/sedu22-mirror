@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "사이버 교사연수",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "low"
     }
-  ]
+  ],
+  "tagsNote": "타 전공 교사를 위한 화학실험 연수에 적합한 실험을 추천받는 질문(구체적 단원 특정 안됨).",
+  "taggedAt": "2026-08-13T13:15:05.055Z"
 }

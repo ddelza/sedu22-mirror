@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "중학교 지구과학수업 이야기",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "태양계",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "9년 만에 다시 맡은 태양계 단원에서 스토리텔링으로 재구성한 지구 크기 구하기 수업 공유.",
+  "taggedAt": "2026-08-13T12:05:07.492Z"
 }

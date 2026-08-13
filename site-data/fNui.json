@@ -15,6 +15,13 @@
         "category": "게시판별 분류",
         "topic": "(질문하는 십대를 위한 과학탐구) 공유방",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "low"
       }
     ]
   },
@@ -34,6 +41,13 @@
         "category": "게시판별 분류",
         "topic": "(질문하는 십대를 위한 과학탐구) 공유방",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": "2015",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "식물과 에너지",
+        "confidence": "medium"
       }
     ]
   },
@@ -53,6 +67,13 @@
         "category": "게시판별 분류",
         "topic": "(질문하는 십대를 위한 과학탐구) 공유방",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "low"
       }
     ]
   },
@@ -72,6 +93,13 @@
         "category": "게시판별 분류",
         "topic": "(질문하는 십대를 위한 과학탐구) 공유방",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "low"
       }
     ]
   },
@@ -91,6 +119,13 @@
         "category": "게시판별 분류",
         "topic": "(질문하는 십대를 위한 과학탐구) 공유방",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "low"
       }
     ]
   },
@@ -110,6 +145,13 @@
         "category": "게시판별 분류",
         "topic": "(질문하는 십대를 위한 과학탐구) 공유방",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": "2015",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "생물의 구성과 다양성",
+        "confidence": "medium"
       }
     ]
   },
@@ -129,6 +171,13 @@
         "category": "게시판별 분류",
         "topic": "(질문하는 십대를 위한 과학탐구) 공유방",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "low"
       }
     ]
   },
@@ -148,6 +197,13 @@
         "category": "게시판별 분류",
         "topic": "(질문하는 십대를 위한 과학탐구) 공유방",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": "2015",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "소화·순환·호흡·배설",
+        "confidence": "medium"
       }
     ]
   },
@@ -167,6 +223,13 @@
         "category": "게시판별 분류",
         "topic": "(질문하는 십대를 위한 과학탐구) 공유방",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": "2015",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "물질의 특성",
+        "confidence": "medium"
       }
     ]
   },
@@ -186,6 +249,13 @@
         "category": "게시판별 분류",
         "topic": "(질문하는 십대를 위한 과학탐구) 공유방",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "low"
       }
     ]
   },
@@ -205,6 +275,13 @@
         "category": "게시판별 분류",
         "topic": "(질문하는 십대를 위한 과학탐구) 공유방",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": "2015",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "여러 가지 화학 반응",
+        "confidence": "medium"
       }
     ]
   },
@@ -224,6 +301,13 @@
         "category": "게시판별 분류",
         "topic": "(질문하는 십대를 위한 과학탐구) 공유방",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "low"
       }
     ]
   },
@@ -243,6 +327,13 @@
         "category": "게시판별 분류",
         "topic": "(질문하는 십대를 위한 과학탐구) 공유방",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "low"
       }
     ]
   },
@@ -262,6 +353,13 @@
         "category": "게시판별 분류",
         "topic": "(질문하는 십대를 위한 과학탐구) 공유방",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "low"
       }
     ]
   },
@@ -281,6 +379,13 @@
         "category": "게시판별 분류",
         "topic": "(질문하는 십대를 위한 과학탐구) 공유방",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "low"
       }
     ]
   },
@@ -300,6 +405,13 @@
         "category": "게시판별 분류",
         "topic": "(질문하는 십대를 위한 과학탐구) 공유방",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "low"
       }
     ]
   },
@@ -319,6 +431,13 @@
         "category": "게시판별 분류",
         "topic": "(질문하는 십대를 위한 과학탐구) 공유방",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": "2015",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "소화·순환·호흡·배설",
+        "confidence": "medium"
       }
     ]
   },
@@ -338,6 +457,13 @@
         "category": "게시판별 분류",
         "topic": "(질문하는 십대를 위한 과학탐구) 공유방",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "low"
       }
     ]
   }

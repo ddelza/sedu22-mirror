@@ -17,6 +17,20 @@
       "category": "게시판별 분류",
       "topic": "평가 Ideas",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "low"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "온라인 수업 자료",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "크롬북과 구글 워크스페이스를 활용한 CBT 방식 수행평가 진행 사례 공유(특정 단원과 무관).",
+  "taggedAt": "2026-08-13T13:08:11.329Z"
 }

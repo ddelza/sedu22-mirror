@@ -17,6 +17,20 @@
       "category": "게시판별 분류",
       "topic": "센서로 하는 과학실험(최효석)",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": "고등학교",
+      "subject": "화학",
+      "unit": "기체의 용해도",
+      "confidence": "low"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "센서/데이터로깅",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "온도에 따른 기체(이산화탄소)의 용해도 변화를 센서로 확인하는 고등학교 수준 실험(18편).",
+  "taggedAt": "2026-08-13T13:02:02.125Z"
 }

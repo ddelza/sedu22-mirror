@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "중학교 환경&기술&재해안전&기타",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "low"
     }
-  ]
+  ],
+  "tagsNote": "개정된 중3 교과서의 단원 목차(전기와 자기~외권과 우주 개발) 전체를 소개하는 글(단일 단원에 한정되지 않음).",
+  "taggedAt": "2026-08-13T12:47:52.449Z"
 }

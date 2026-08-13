@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "중학교 환경&기술&재해안전&기타",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "low"
     }
-  ]
+  ],
+  "tagsNote": "주제선택 시간에 할 수 있는 1학년 교과서 외 간단한 실험활동을 추천받는 질문(구체적 단원 불명확).",
+  "taggedAt": "2026-08-13T12:31:15.870Z"
 }

@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "중학교 지구과학수업 이야기",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "태양계",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "다른 선생님 자료를 활용해 41장 카드로 진행한 태양계 행성 도둑잡기 활동 후기.",
+  "taggedAt": "2026-08-13T11:51:32.575Z"
 }

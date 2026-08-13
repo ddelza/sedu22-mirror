@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "평가 Ideas",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "고등학교",
+      "subject": "생명과학1",
+      "unit": "미분류",
+      "confidence": "low"
     }
-  ]
+  ],
+  "tagsNote": "신문 스크랩·인포그래픽·심화조사발표로 이어지는 생명과학 이슈 수행평가(두 단원 이상 융합 기사 선택, 특정 단원 한정 아님).",
+  "taggedAt": "2026-08-13T13:10:14.909Z"
 }

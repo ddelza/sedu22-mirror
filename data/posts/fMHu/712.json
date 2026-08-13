@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "중학교 생물수업 이야기",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "수온에 따른 기체 용해도 개념(금붕어 호흡)에 대한 학생 오개념 논의(생물 단원 아님).",
+  "taggedAt": "2026-08-13T04:19:48.793Z"
 }

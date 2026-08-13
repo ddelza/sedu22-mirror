@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "평가 Ideas",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "low"
     }
-  ]
+  ],
+  "tagsNote": "과학탐구실험1 교수학습 및 평가운영 계획·성취수준 예시자료 공유(과목 전체, 특정 단원 한정 아님).",
+  "taggedAt": "2026-08-13T13:10:14.911Z"
 }

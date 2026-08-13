@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "중학교 지구과학수업 이야기",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "태양계",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "혁신학교 공개수업용 태양계 행성탐사 배움중심수업 지도안에 대한 조언 요청.",
+  "taggedAt": "2026-08-13T12:29:51.528Z"
 }

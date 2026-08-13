@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "평가 Ideas",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "low"
     }
-  ]
+  ],
+  "tagsNote": "중1 2학기 수행평가 자료(평가계획 포함) 공유 및 감사 소감글(구체적 단원 불명확).",
+  "taggedAt": "2026-08-13T13:10:14.925Z"
 }

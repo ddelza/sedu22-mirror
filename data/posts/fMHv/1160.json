@@ -17,6 +17,22 @@
       "category": "게시판별 분류",
       "topic": "중학교 지구과학수업 이야기",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "별과 우주",
+      "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "별과 우주",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "강원도 양구군 세계 최대 해시계(앙부일구) 관련 흥미 자료 소개.",
+  "taggedAt": "2026-08-13T04:59:30.927Z"
 }

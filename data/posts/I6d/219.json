@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "평가 Ideas",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "low"
     }
-  ]
+  ],
+  "tagsNote": "중학교 독서 수행평가에 적용할 적절한 성취기준을 묻는 질문(특정 단원과 무관).",
+  "taggedAt": "2026-08-13T13:08:11.336Z"
 }

@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "평가 Ideas",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "low"
     }
-  ]
+  ],
+  "tagsNote": "지필고사를 서술형 100%로 운영하는 학교 사례를 찾는 질문(특정 단원과 무관).",
+  "taggedAt": "2026-08-13T13:03:29.977Z"
 }

@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "중학교 환경&기술&재해안전&기타",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "수권과 해수의 순환",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "'염분이 해수에 미치는 영향' 실험을 담은 2013 인천과학사랑교사모임 자료집 일부 공유.",
+  "taggedAt": "2026-08-13T12:47:52.439Z"
 }

@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "중학교 지구과학수업 이야기",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "수권과 해수의 순환",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "교육부 교수학습자료를 활용한 3차시 수자원의 활용과 가치 인포그래픽·카드뉴스 만들기 활동 공유.",
+  "taggedAt": "2026-08-13T12:11:20.256Z"
 }

@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "중학교 환경&기술&재해안전&기타",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "low"
     }
-  ]
+  ],
+  "tagsNote": "뇌·호흡·세포·눈·청각·골격·후각 등 여러 신체 계통 그림자료(PDF) 공유(여러 생물 단원 포괄).",
+  "taggedAt": "2026-08-13T12:51:02.881Z"
 }

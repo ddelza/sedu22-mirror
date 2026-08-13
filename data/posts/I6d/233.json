@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "평가 Ideas",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "미분류",
+      "confidence": "low"
     }
-  ]
+  ],
+  "tagsNote": "비상교과서 기준 3학년 2학기 교수학습 및 평가운영계획(기권과 날씨/자극과 반응/생식과 유전/별과 우주/과학기술과 인류문명 등 여러 단원 포괄).",
+  "taggedAt": "2026-08-13T13:10:14.904Z"
 }

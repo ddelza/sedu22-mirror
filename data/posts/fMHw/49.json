@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "중학교 환경&기술&재해안전&기타",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "low"
     }
-  ]
+  ],
+  "tagsNote": "노트 정리 형태로 만든 2학년 전체 학습지·PPT 공유(여러 단원 포괄).",
+  "taggedAt": "2026-08-13T12:56:59.867Z"
 }

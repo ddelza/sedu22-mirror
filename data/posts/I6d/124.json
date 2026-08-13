@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "평가 Ideas",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "low"
     }
-  ]
+  ],
+  "tagsNote": "전교생 26명 소규모 중학교의 1~3학년 통합 과학과 평가계획에 대한 조언 요청(특정 단원과 무관).",
+  "taggedAt": "2026-08-13T13:03:29.976Z"
 }

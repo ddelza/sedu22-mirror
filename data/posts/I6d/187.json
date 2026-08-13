@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "평가 Ideas",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "low"
     }
-  ]
+  ],
+  "tagsNote": "서울시교육청이 개발한 수업 연계 서논술형 평가자료 공유(특정 단원과 무관).",
+  "taggedAt": "2026-08-13T13:04:51.253Z"
 }

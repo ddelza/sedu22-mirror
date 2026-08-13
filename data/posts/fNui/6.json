@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "(질문하는 십대를 위한 과학탐구) 공유방",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "소화·순환·호흡·배설",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "전국교육자료전 출품작 '내 몸의 재구성' 인체 관련 교수학습 자료 모음 공유(생물 내용, 지구과학 게시판과 다른 일반 게시판에 교차 게시됨).",
+  "taggedAt": "2026-08-13T12:59:39.577Z"
 }

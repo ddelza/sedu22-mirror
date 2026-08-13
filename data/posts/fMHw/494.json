@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "중학교 환경&기술&재해안전&기타",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "별과 우주",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "마지막 외권 단원 진도를 못 나간 중3 상황에 대한 조언 요청.",
+  "taggedAt": "2026-08-13T12:56:59.871Z"
 }

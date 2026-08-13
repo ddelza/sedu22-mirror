@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "중학교 지구과학수업 이야기",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "수권과 해수의 순환",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "자유학기제에 맞춰 7단원(수권의 구성과 순환)을 먼저 진행하도록 재구성한 수업 공유.",
+  "taggedAt": "2026-08-13T12:20:28.500Z"
 }

@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "중학교 환경&기술&재해안전&기타",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "low"
     }
-  ]
+  ],
+  "tagsNote": "구글드라이브로 관리하는 1학년 수업진도표 작성 방식 공유(특정 단원과 무관).",
+  "taggedAt": "2026-08-13T12:31:15.880Z"
 }

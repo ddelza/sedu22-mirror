@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "중학교 환경&기술&재해안전&기타",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "low"
     }
-  ]
+  ],
+  "tagsNote": "친구와 라포를 형성하는 움직이는 빙고 아이스브레이킹 활동 공유(특정 단원과 무관).",
+  "taggedAt": "2026-08-13T12:46:21.313Z"
 }

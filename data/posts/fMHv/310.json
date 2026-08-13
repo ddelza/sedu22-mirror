@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "중학교 지구과학수업 이야기",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "low"
     }
-  ]
+  ],
+  "tagsNote": "단원마다 6개 주제로 모둠을 나눠 진행하는 전시장 형태 프로젝트 수업 운영 방법 소개(특정 단원 한정 아님).",
+  "taggedAt": "2026-08-13T05:30:34.585Z"
 }

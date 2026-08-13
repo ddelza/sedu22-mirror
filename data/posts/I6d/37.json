@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "평가 Ideas",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "low"
     }
-  ]
+  ],
+  "tagsNote": "학교알리미 정보공시를 활용해 다른 학교 평가계획서를 찾는 팁 공유(특정 단원과 무관).",
+  "taggedAt": "2026-08-13T13:11:29.207Z"
 }

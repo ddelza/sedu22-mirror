@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "중학교 지구과학수업 이야기",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "별과 우주",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "비상·미래엔 교과서를 참고해 만든 별과 우주 학습지(1.별) 및 모자이크 별자리 정답 공유.",
+  "taggedAt": "2026-08-13T12:20:28.483Z"
 }

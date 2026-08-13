@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "평가 Ideas",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "low"
     }
-  ]
+  ],
+  "tagsNote": "NEIS 지필평가통계(도수분포표·구간비교표·정답률비교표) 메뉴 활용법 소개(특정 단원과 무관).",
+  "taggedAt": "2026-08-13T13:08:11.324Z"
 }

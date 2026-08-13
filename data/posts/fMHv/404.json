@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "중학교 지구과학수업 이야기",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "태양계",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "행성 여행 대신 행성 특징을 살린 물품 홍보 광고 만들기 수행평가 활동 공유.",
+  "taggedAt": "2026-08-13T12:05:07.487Z"
 }

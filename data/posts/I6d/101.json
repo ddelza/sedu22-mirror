@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "평가 Ideas",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": "고등학교",
+      "subject": "지구과학",
+      "unit": "별의 특성",
+      "confidence": "low"
     }
-  ]
+  ],
+  "tagsNote": "별과 지구를 이루는 원소가 같다는 도서 내용을 평가문항으로 활용할 수 있을지 묻는 질문.",
+  "taggedAt": "2026-08-13T13:03:29.959Z"
 }

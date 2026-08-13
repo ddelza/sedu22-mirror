@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "평가 Ideas",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "low"
     }
-  ]
+  ],
+  "tagsNote": "학년·과목 특화 및 타교과 활용이 가능한 '재과만 AI 문항 생성기' ver.2 공개(특정 단원과 무관).",
+  "taggedAt": "2026-08-13T13:11:29.201Z"
 }

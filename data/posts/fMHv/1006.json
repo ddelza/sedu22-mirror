@@ -17,6 +17,22 @@
       "category": "게시판별 분류",
       "topic": "중학교 지구과학수업 이야기",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "물질의 특성",
+      "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "물질의 특성",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "밀도 서술형 수행평가에서 질량·부피 자료를 그래프로 나타내지 못하는 문제 공유.",
+  "taggedAt": "2026-08-13T04:33:14.073Z"
 }

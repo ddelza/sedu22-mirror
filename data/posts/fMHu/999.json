@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "중학교 생물수업 이야기",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "모둠 자료조사 및 상호 발표 수업 진행 방식 공유(특정 단원 아님).",
+  "taggedAt": "2026-08-13T04:31:44.150Z"
 }

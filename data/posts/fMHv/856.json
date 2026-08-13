@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "중학교 지구과학수업 이야기",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "low"
     }
-  ]
+  ],
+  "tagsNote": "필기 위주 수업과 학습지 활용 사이의 고민을 공유하는 일반적인 수업 방식 논의(특정 단원 아님).",
+  "taggedAt": "2026-08-13T12:23:37.890Z"
 }

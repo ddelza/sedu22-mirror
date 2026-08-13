@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "평가 Ideas",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "low"
     }
-  ]
+  ],
+  "tagsNote": "경기도교육청의 논술형 평가 도입 방침이 과학교과 성격에 맞는지 묻는 토론글(특정 단원과 무관).",
+  "taggedAt": "2026-08-13T13:12:37.809Z"
 }

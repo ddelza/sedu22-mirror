@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "중학교 환경&기술&재해안전&기타",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "low"
     }
-  ]
+  ],
+  "tagsNote": "한국교육학술정보원의 2015 개정 교육과정 사이버학습 콘텐츠 사이트 소개(특정 단원 한정 아님).",
+  "taggedAt": "2026-08-13T12:29:51.539Z"
 }

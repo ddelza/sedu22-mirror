@@ -17,6 +17,22 @@
       "category": "게시판별 분류",
       "topic": "중학교 지구과학수업 이야기",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "생식과 유전",
+      "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "생식과 유전",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "한천묵을 이용해 세포 크기와 물질 흡수 효율의 관계로 세포분열의 필요성을 보여주는 실험(생물 내용, 지구과학 게시판에 교차 게시됨).",
+  "taggedAt": "2026-08-13T05:25:30.470Z"
 }

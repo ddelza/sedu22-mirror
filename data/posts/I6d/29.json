@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "평가 Ideas",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "low"
     }
-  ]
+  ],
+  "tagsNote": "서술형평가 후 시험지로 자기 점수를 계산해보게 하는 문제풀이 시간 운영 팁(특정 단원과 무관).",
+  "taggedAt": "2026-08-13T13:11:29.194Z"
 }

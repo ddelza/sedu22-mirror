@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "평가 Ideas",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "low"
     }
-  ]
+  ],
+  "tagsNote": "교원평가용 교육활동 소개자료 등록 예시와 작성 방식을 공유하는 글(특정 단원과 무관).",
+  "taggedAt": "2026-08-13T13:13:51.970Z"
 }

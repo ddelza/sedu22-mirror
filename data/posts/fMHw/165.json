@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "중학교 환경&기술&재해안전&기타",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "low"
     }
-  ]
+  ],
+  "tagsNote": "주제선택 시간 남는 1차시에 할 만한 표면장력류의 간단 실험을 추천받는 질문(특정 단원과 무관).",
+  "taggedAt": "2026-08-13T12:32:48.909Z"
 }

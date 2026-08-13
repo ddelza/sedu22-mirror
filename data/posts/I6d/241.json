@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "평가 Ideas",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "low"
     }
-  ]
+  ],
+  "tagsNote": "생기부 작성 도움 무료 연수(클리포) 안내 홍보글(특정 단원과 무관).",
+  "taggedAt": "2026-08-13T13:10:14.909Z"
 }

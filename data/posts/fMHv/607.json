@@ -17,6 +17,20 @@
       "category": "게시판별 분류",
       "topic": "중학교 지구과학수업 이야기",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "기권과 날씨",
+      "confidence": "high"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "앱/프로그램",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "난로 비유를 이용해 대기권 기온분포 형성 원리를 조작해보는 프로그램 배포 자료 공유.",
+  "taggedAt": "2026-08-13T12:12:52.280Z"
 }

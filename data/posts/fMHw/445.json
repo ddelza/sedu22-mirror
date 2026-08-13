@@ -17,6 +17,22 @@
       "category": "게시판별 분류",
       "topic": "중학교 환경&기술&재해안전&기타",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "태양계",
+      "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "별과 우주",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "3단원·7단원 자료로 소개된 다큐 영상의 대체 링크('우주의 끝을 찾아서')를 찾아 공유.",
+  "taggedAt": "2026-08-13T12:54:04.705Z"
 }

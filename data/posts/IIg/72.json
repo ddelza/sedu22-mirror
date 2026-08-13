@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "사이버 교사연수",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "low"
     }
-  ]
+  ],
+  "tagsNote": "경기도과학교육원 북부기초과학교육관 월례 교사 세미나 신청 안내(특정 단원과 무관).",
+  "taggedAt": "2026-08-13T13:15:05.067Z"
 }

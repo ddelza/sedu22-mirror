@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "중학교 환경&기술&재해안전&기타",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "low"
     }
-  ]
+  ],
+  "tagsNote": "비상교육 교과서 부록의 1~3학년 전체 과학 용어 풀이집 공유(여러 단원 포괄).",
+  "taggedAt": "2026-08-13T12:54:04.699Z"
 }

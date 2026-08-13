@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "사이버 교사연수",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "low"
     }
-  ]
+  ],
+  "tagsNote": "전라남도교육청 중등보직교사 직무연수 교재(스트레스 관리, 생활지도 등) 공유(특정 단원과 무관).",
+  "taggedAt": "2026-08-13T13:15:05.051Z"
 }

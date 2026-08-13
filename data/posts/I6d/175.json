@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "평가 Ideas",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "low"
     }
-  ]
+  ],
+  "tagsNote": "조사활동 포함 수행평가에서 핸드폰 사용·부정행위 방지 방법에 대한 고민(특정 단원과 무관).",
+  "taggedAt": "2026-08-13T13:04:51.245Z"
 }

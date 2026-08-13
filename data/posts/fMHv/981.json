@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "중학교 지구과학수업 이야기",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "수권과 해수의 순환",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "지구계 5개 권역과 학년별 배치를 정리하며 시작하는 중2 수권과 해수의 순환 단원 이야기 글.",
+  "taggedAt": "2026-08-13T12:28:12.662Z"
 }

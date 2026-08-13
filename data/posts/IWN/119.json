@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "좋은 글 & 책",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "low"
     }
-  ]
+  ],
+  "tagsNote": "초등 수업·학급운영 아이디어가 유용한 '악마쌤의 착한 공부' 블로그 소개(특정 단원과 무관).",
+  "taggedAt": "2026-08-13T13:16:31.664Z"
 }

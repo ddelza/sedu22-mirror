@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "중학교 환경&기술&재해안전&기타",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "low"
     }
-  ]
+  ],
+  "tagsNote": "1학년 2단원 관련 '호기심천국' 영상을 요청하는 댓글(구체적 단원 불명확).",
+  "taggedAt": "2026-08-13T12:31:15.877Z"
 }

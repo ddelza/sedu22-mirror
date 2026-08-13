@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "평가 Ideas",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "고등학교",
+      "subject": "생명과학1",
+      "unit": "감수분열과 생식세포 형성",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "감수분열 스톱모션 제작, 두 마음 나누기 토론 등 생명과학1 수행평가 양식 공유.",
+  "taggedAt": "2026-08-13T13:10:14.900Z"
 }

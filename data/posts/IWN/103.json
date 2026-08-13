@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "좋은 글 & 책",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "low"
     }
-  ]
+  ],
+  "tagsNote": "학과 선택에 도움되는 진로기반전공선택스토리북 시리즈 도서 소개(특정 단원과 무관).",
+  "taggedAt": "2026-08-13T13:16:31.655Z"
 }

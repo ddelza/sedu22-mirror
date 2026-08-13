@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "중학교 환경&기술&재해안전&기타",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "low"
     }
-  ]
+  ],
+  "tagsNote": "졸업 전 중3 학생의 학원 선행을 위한 매일 조퇴 요청에 대한 교사의 고민(특정 단원과 무관).",
+  "taggedAt": "2026-08-13T12:54:04.681Z"
 }

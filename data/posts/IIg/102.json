@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "사이버 교사연수",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "low"
     }
-  ]
+  ],
+  "tagsNote": "혁신공감학교 진단자료를 바탕으로 실패를 두려워하지 않는 수업 문화를 논하는 운영진 대화 정리(특정 단원과 무관).",
+  "taggedAt": "2026-08-13T13:13:51.975Z"
 }

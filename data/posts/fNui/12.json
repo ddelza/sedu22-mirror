@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "(질문하는 십대를 위한 과학탐구) 공유방",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "여러 가지 화학 반응",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "생수통과 메탄올을 이용한 연소반응 무성영화 동영상 및 안전 유의사항 공유(화학 내용, 지구과학 게시판과 다른 일반 게시판에 교차 게시됨).",
+  "taggedAt": "2026-08-13T12:59:39.569Z"
 }

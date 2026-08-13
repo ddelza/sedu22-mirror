@@ -17,6 +17,20 @@
       "category": "게시판별 분류",
       "topic": "센서로 하는 과학실험(최효석)",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": "고등학교",
+      "subject": "물리학",
+      "unit": "렌즈와 초점거리",
+      "confidence": "medium"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "센서/데이터로깅",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "초음파·밝기 센서를 동시 활용해 렌즈의 초점거리를 찾는 고등학교 수준 실험(26편).",
+  "taggedAt": "2026-08-13T13:02:02.131Z"
 }

@@ -17,6 +17,20 @@
       "category": "게시판별 분류",
       "topic": "중학교 지구과학수업 이야기",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "low"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "앱/프로그램",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "정기고사 이후 남은 시간 과학영화 감상과 핑퐁 앱을 결합해 활용한 방법 고민(특정 단원과 무관).",
+  "taggedAt": "2026-08-13T11:49:45.461Z"
 }

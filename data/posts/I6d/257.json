@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "평가 Ideas",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "low"
     }
-  ]
+  ],
+  "tagsNote": "문항정보표에서 성취기준 1개에 평가기준이 2개로 중복 표시되는 시스템 입력 문제 질문(행정 절차, 특정 단원과 무관).",
+  "taggedAt": "2026-08-13T13:10:14.921Z"
 }

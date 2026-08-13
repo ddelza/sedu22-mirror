@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "평가 Ideas",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "low"
     }
-  ]
+  ],
+  "tagsNote": "시험 문항 오류를 줄이기 위해 정리한 출제 아이디어 자료 공유(특정 단원과 무관).",
+  "taggedAt": "2026-08-13T13:04:51.230Z"
 }

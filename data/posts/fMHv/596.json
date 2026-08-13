@@ -17,6 +17,20 @@
       "category": "게시판별 분류",
       "topic": "중학교 지구과학수업 이야기",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "기권과 날씨",
+      "confidence": "high"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "앱/프로그램",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "대기권이 4개 층으로 나뉘는 원리를 조작해보는 웹 기반 기온분포 가상실험 프로그램 공유.",
+  "taggedAt": "2026-08-13T12:12:52.271Z"
 }

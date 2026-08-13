@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "중학교 지구과학수업 이야기",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "태양계",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "Jigsaw 협동학습 모형을 활용한 태양계 퀴즈 진행 방법 공유.",
+  "taggedAt": "2026-08-13T11:51:32.473Z"
 }

@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "(질문하는 십대를 위한 과학탐구) 공유방",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "low"
     }
-  ]
+  ],
+  "tagsNote": "'나만의 과학수업 만들기'(교육과학사) 출판 소식 공유(특정 단원과 무관).",
+  "taggedAt": "2026-08-13T12:59:39.576Z"
 }

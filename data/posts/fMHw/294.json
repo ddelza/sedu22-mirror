@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "중학교 환경&기술&재해안전&기타",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "low"
     }
-  ]
+  ],
+  "tagsNote": "교육과정 개편 이후 3학년 수행평가 계획 수립 현황을 묻는 질문(구체적 단원 불명확).",
+  "taggedAt": "2026-08-13T12:47:52.449Z"
 }

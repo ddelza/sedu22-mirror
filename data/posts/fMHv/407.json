@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "중학교 지구과학수업 이야기",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "태양계",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "웹캠으로 달의 위상변화를 직관적으로 보여주는 수업 영상 공유.",
+  "taggedAt": "2026-08-13T12:05:07.489Z"
 }

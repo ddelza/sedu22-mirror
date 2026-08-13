@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "중학교 지구과학수업 이야기",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "low"
     }
-  ]
+  ],
+  "tagsNote": "무지개 양초 만들기 활동에서 안전과 진행상 어려움에 대한 노하우 요청(특정 단원과 무관).",
+  "taggedAt": "2026-08-13T05:28:53.032Z"
 }

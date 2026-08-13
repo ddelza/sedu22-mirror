@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "중학교 환경&기술&재해안전&기타",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "low"
     }
-  ]
+  ],
+  "tagsNote": "중2 과학 수업 진행 방식(빈칸 학습지 vs 교사 설명 우선)에 대한 다른 선생님들의 의견을 구하는 질문(특정 단원과 무관).",
+  "taggedAt": "2026-08-13T12:47:52.432Z"
 }

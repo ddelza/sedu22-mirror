@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "중학교 지구과학수업 이야기",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "태양계",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "원격·등교 병행 상황에서 진행한 '태양계의 구성' 3월 첫 2주간 수업기록 공유.",
+  "taggedAt": "2026-08-13T12:08:13.578Z"
 }

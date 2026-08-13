@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "중학교 지구과학수업 이야기",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "low"
     }
-  ]
+  ],
+  "tagsNote": "어떤 실험인지 언급 없이 해본 사람의 조언을 구하는 짧은 질문.",
+  "taggedAt": "2026-08-13T05:20:09.044Z"
 }

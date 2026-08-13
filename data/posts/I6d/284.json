@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "평가 Ideas",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "고등학교",
+      "subject": "지구과학",
+      "unit": "지질 자원과 지형",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "국가지질공원 단원의 단순 암기화를 우려하며 학생 조사 활동형 수행평가를 구상하는 신규교사 질문.",
+  "taggedAt": "2026-08-13T13:11:29.191Z"
 }

@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "중학교 지구과학수업 이야기",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "수권과 해수의 순환",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "2009 교육과정용 장치를 활용한 해수의 연직 수온 분포 실험 준비물 및 진행 방법 공유.",
+  "taggedAt": "2026-08-13T12:11:20.266Z"
 }

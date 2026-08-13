@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "중학교 환경&기술&재해안전&기타",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "low"
     }
-  ]
+  ],
+  "tagsNote": "1단원 '과학이란'에서 활용할 미래기술 관련 동기유발 영상 소개(특정 지구과학 단원 아님).",
+  "taggedAt": "2026-08-13T12:29:51.536Z"
 }

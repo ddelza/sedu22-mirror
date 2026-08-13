@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "평가 Ideas",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "고등학교",
+      "subject": "통합과학1",
+      "unit": "미분류",
+      "confidence": "low"
     }
-  ]
+  ],
+  "tagsNote": "2022 개정 통합과학1 학기 단위 성취수준(A~E) 작성 자료를 구하는 질문(과목 전체, 특정 단원 한정 아님).",
+  "taggedAt": "2026-08-13T13:10:14.914Z"
 }

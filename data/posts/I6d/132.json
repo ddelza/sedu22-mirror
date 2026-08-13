@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "평가 Ideas",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "low"
     }
-  ]
+  ],
+  "tagsNote": "35% 이상 반영해야 하는 논술형 평가 주제(수소자동차·생물다양성 등) 아이디어를 구하는 질문(특정 단원과 무관).",
+  "taggedAt": "2026-08-13T13:03:29.982Z"
 }

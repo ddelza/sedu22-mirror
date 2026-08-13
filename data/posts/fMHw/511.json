@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "중학교 환경&기술&재해안전&기타",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "low"
     }
-  ]
+  ],
+  "tagsNote": "중1 대상 7차시로 진행한 인공지능 시대 윤리 탐구 수업 공유(특정 지구과학 단원 아님).",
+  "taggedAt": "2026-08-13T12:56:59.884Z"
 }

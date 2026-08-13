@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "평가 Ideas",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "low"
     }
-  ]
+  ],
+  "tagsNote": "고3 문과 대상 '생활과 과학'(1단위) 수행평가·정기고사 준비 방법을 묻는 질문(특정 단원과 무관).",
+  "taggedAt": "2026-08-13T13:04:51.225Z"
 }

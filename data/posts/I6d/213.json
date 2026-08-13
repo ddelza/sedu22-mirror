@@ -16,6 +16,15 @@
       "category": "게시판별 분류",
       "topic": "평가 Ideas",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "low"
     }
-  ]
+  ],
+  "tagsNote": "학업 의욕이 낮은 중3 학급에서 지필 1회·수행 2회 운영 시 단원 배치 고민(구체적 단원 불명확).",
+  "taggedAt": "2026-08-13T13:08:11.332Z"
 }

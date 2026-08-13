@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "중학교 지구과학수업 이야기",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "별과 우주",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "북극성 기준 별의 일주운동 방향(반시계)을 '서→동'으로 표현해도 되는지에 대한 질문.",
+  "taggedAt": "2026-08-13T12:26:43.576Z"
 }

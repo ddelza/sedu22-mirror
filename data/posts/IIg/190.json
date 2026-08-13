@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "사이버 교사연수",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "low"
     }
-  ]
+  ],
+  "tagsNote": "겨울방학 중 얻은 과학수업 아이디어를 나누자는 제안글(특정 단원과 무관).",
+  "taggedAt": "2026-08-13T13:15:05.044Z"
 }

@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "중학교 환경&기술&재해안전&기타",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "low"
     }
-  ]
+  ],
+  "tagsNote": "3학년 1~3단원 학기말용 단어찾기 자료(정답 포함) 공유(구체적 단원 불명확).",
+  "taggedAt": "2026-08-13T12:54:04.685Z"
 }

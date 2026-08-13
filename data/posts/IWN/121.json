@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "좋은 글 & 책",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "low"
     }
-  ]
+  ],
+  "tagsNote": "카페 방문 1,000회 이상 회원 명단 공개 및 운영진 초대글(특정 단원과 무관).",
+  "taggedAt": "2026-08-13T13:16:31.665Z"
 }

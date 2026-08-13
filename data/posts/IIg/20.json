@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "사이버 교사연수",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "low"
     }
-  ]
+  ],
+  "tagsNote": "2014년 전남 중학교 과학교사 연수 '과학수업에서 스토리텔링하기(1)' 동영상 공유(특정 단원과 무관).",
+  "taggedAt": "2026-08-13T13:15:05.050Z"
 }

@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "평가 Ideas",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "고등학교",
+      "subject": "물리학",
+      "unit": "미분류",
+      "confidence": "low"
     }
-  ]
+  ],
+  "tagsNote": "고등학교로 갑작스레 이동해 2022개정 물리학을 맡게 된 교사가 수행평가 자료를 구하는 질문(과목 전체, 특정 단원 한정 아님).",
+  "taggedAt": "2026-08-13T13:11:29.190Z"
 }

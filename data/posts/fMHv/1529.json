@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "중학교 지구과학수업 이야기",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "성취기준을 넣은 칭찬도장판 제작 공유(특정 단원과 무관한 학급운영 자료).",
+  "taggedAt": "2026-08-13T05:20:09.043Z"
 }
