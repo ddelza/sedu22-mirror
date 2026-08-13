@@ -17,6 +17,20 @@
       "category": "게시판별 분류",
       "topic": "중학교 화학수업 이야기",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "물질의 구성",
+      "confidence": "high"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "앱/프로그램",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "바이브 코딩으로 만든 2022 천재교과서 2학년 1단원 가상실험 모음 공유.",
+  "taggedAt": "2026-08-12T21:59:47.572Z"
 }

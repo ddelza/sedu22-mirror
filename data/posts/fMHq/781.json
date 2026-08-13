@@ -17,6 +17,22 @@
       "category": "게시판별 분류",
       "topic": "중학교 화학수업 이야기",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "기체의 성질",
+      "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "기체의 성질",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "풍선 위에 올라가기 압력 체험 실험용 물풍선 모양 관련 질문.",
+  "taggedAt": "2026-08-12T22:30:32.995Z"
 }

@@ -17,6 +17,13 @@
       "category": "게시판별 분류",
       "topic": "중학교 화학수업 이야기",
       "confidence": "high"
+    },
+    {
+      "category": "과학교사 업무",
+      "topic": "과학실 관리",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "드라이아이스 안전 보관 방법에 대한 논의.",
+  "taggedAt": "2026-08-12T22:04:38.433Z"
 }

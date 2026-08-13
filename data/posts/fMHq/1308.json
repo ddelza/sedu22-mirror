@@ -17,6 +17,22 @@
       "category": "게시판별 분류",
       "topic": "중학교 화학수업 이야기",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "물질의 특성",
+      "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "물질의 특성",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "기체의 용해도에 영향을 미치는 요인을 설명하는 만화 자료 공유.",
+  "taggedAt": "2026-08-12T22:01:20.133Z"
 }

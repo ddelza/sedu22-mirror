@@ -17,6 +17,22 @@
       "category": "게시판별 분류",
       "topic": "중학교 화학수업 이야기",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "기체의 성질",
+      "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "기체의 성질",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "보일의 법칙 인과관계 서술 순서에 대한 질문.",
+  "taggedAt": "2026-08-12T22:25:45.023Z"
 }

@@ -17,6 +17,22 @@
       "category": "게시판별 분류",
       "topic": "중학교 화학수업 이야기",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "물질의 구성",
+      "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "물질의 구성",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "우유·탄산음료 반응이 앙금생성인지에 대한 질문.",
+  "taggedAt": "2026-08-12T22:32:02.473Z"
 }

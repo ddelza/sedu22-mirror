@@ -17,6 +17,22 @@
       "category": "게시판별 분류",
       "topic": "중학교 화학수업 이야기",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "기체의 성질",
+      "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "기체의 성질",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "보일 법칙에서 압력·부피·충돌횟수 인과관계 및 그래프 축 설정 질문.",
+  "taggedAt": "2026-08-12T22:13:31.783Z"
 }

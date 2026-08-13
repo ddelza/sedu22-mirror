@@ -17,6 +17,22 @@
       "category": "게시판별 분류",
       "topic": "중학교 화학수업 이야기",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "물질의 구성",
+      "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "물질의 구성",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "원소기호·이온식 쪽지시험 미통과 시 빽빽이 벌칙 운영 공유.",
+  "taggedAt": "2026-08-12T22:27:14.765Z"
 }

@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "중학교 생물수업 이야기",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "low"
     }
-  ]
+  ],
+  "tagsNote": "4단원 식물세포·동물세포 현미경 관찰 자료(정확한 대응 단원 불명확).",
+  "taggedAt": "2026-08-12T23:21:50.738Z"
 }

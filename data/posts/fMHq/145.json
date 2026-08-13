@@ -17,6 +17,20 @@
       "category": "게시판별 분류",
       "topic": "중학교 화학수업 이야기",
       "confidence": "high"
+    },
+    {
+      "category": "과학교사 업무",
+      "topic": "과학실 관리",
+      "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "물질의 상태 변화",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "석고 응고 실험 시 발열 관련 안전 주의사항 공유.",
+  "taggedAt": "2026-08-12T22:03:03.473Z"
 }

@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "중학교 생물수업 이야기",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "low"
     }
-  ]
+  ],
+  "tagsNote": "키보드 업사이클링 걱정인형 만들기 방법 문의(환경 관련, 구체 단원 불명확).",
+  "taggedAt": "2026-08-12T23:21:50.722Z"
 }

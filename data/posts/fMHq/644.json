@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "중학교 화학수업 이야기",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "low"
     }
-  ]
+  ],
+  "tagsNote": "2학기 방학숙제로 진행한 동영상 만들기 활동(구체 단원 불명확).",
+  "taggedAt": "2026-08-12T22:24:08.722Z"
 }

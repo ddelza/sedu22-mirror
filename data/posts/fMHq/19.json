@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "중학교 화학수업 이야기",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "low"
     }
-  ]
+  ],
+  "tagsNote": "게더타운을 활용한 4단원 문제풀이 활동(구체 단원 불명확).",
+  "taggedAt": "2026-08-12T22:04:38.447Z"
 }

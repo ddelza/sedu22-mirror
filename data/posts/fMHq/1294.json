@@ -17,6 +17,22 @@
       "category": "게시판별 분류",
       "topic": "중학교 화학수업 이야기",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "화학 반응의 규칙과 에너지 변화",
+      "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "화학 반응의 규칙성",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "1단원(계산 위주 법칙들) 대단원 수업 기록 및 흥미유발 여담 모음 공유.",
+  "taggedAt": "2026-08-12T21:59:47.593Z"
 }

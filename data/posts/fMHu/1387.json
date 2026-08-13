@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "중학교 생물수업 이야기",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "아세트산카민을 이용한 검정말 염색이 잘 되지 않는 문제 질문(대상 단원 특정 어려움).",
+  "taggedAt": "2026-08-12T23:40:37.684Z"
 }

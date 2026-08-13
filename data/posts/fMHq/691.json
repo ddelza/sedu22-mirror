@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "중학교 화학수업 이야기",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "low"
     }
-  ]
+  ],
+  "tagsNote": "2022개정 교육과정 중1 전체 단원 배치 고민(단원 구조 논의).",
+  "taggedAt": "2026-08-12T22:25:45.027Z"
 }

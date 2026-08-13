@@ -17,6 +17,13 @@
       "category": "게시판별 분류",
       "topic": "중학교 생물수업 이야기",
       "confidence": "high"
+    },
+    {
+      "category": "과학교사 업무",
+      "topic": "과학실 관리",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "학교용 디지털 현미경 구매 제품 추천 요청.",
+  "taggedAt": "2026-08-12T23:40:37.691Z"
 }

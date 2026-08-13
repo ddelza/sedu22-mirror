@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "중학교 생물수업 이야기",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "영구프레파라트를 이용한 현미경 사용법 익히기 게임활동(특정 단원 내용 아님).",
+  "taggedAt": "2026-08-12T23:42:04.437Z"
 }

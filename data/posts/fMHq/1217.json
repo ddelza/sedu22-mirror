@@ -17,6 +17,29 @@
       "category": "게시판별 분류",
       "topic": "중학교 화학수업 이야기",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "물질의 상태 변화",
+      "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "물질의 상태 변화",
+      "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "열과 우리 생활",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "얼음 넣은 음료가 시원해지는 현상을 열평형과 융해열 흡수 중 무엇으로 설명할지 질문.",
+  "taggedAt": "2026-08-12T21:58:10.528Z"
 }

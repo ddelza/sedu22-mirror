@@ -17,6 +17,27 @@
       "category": "게시판별 분류",
       "topic": "중학교 화학수업 이야기",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "물질의 특성",
+      "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "물질의 특성",
+      "confidence": "high"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "MBL센서",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "팔미트산·라우르산 어는점 측정에서 MBL 센서 활용 여부 논의.",
+  "taggedAt": "2026-08-12T22:03:03.464Z"
 }

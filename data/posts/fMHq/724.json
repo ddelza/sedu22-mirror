@@ -16,6 +16,22 @@
       "category": "게시판별 분류",
       "topic": "중학교 화학수업 이야기",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "화학 반응의 규칙과 에너지 변화",
+      "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "화학 반응의 규칙성",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "화학반응식에서 등호 표기 사용 시 채점 기준 질문.",
+  "taggedAt": "2026-08-12T22:27:14.756Z"
 }

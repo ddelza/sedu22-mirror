@@ -17,6 +17,13 @@
       "category": "게시판별 분류",
       "topic": "중학교 화학수업 이야기",
       "confidence": "high"
+    },
+    {
+      "category": "과학교사 업무",
+      "topic": "과학실 관리",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "시약장 산성용액 병 주변 이상 현상에 대한 안전 관련 질문.",
+  "taggedAt": "2026-08-12T22:30:33.022Z"
 }

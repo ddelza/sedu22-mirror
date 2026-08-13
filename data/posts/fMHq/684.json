@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "중학교 화학수업 이야기",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "low"
     }
-  ]
+  ],
+  "tagsNote": "화생지 교사 공동집필 제안 홍보글(특정 단원 무관).",
+  "taggedAt": "2026-08-12T22:25:45.022Z"
 }

@@ -16,6 +16,13 @@
       "category": "게시판별 분류",
       "topic": "중학교 화학수업 이야기",
       "confidence": "high"
+    },
+    {
+      "category": "과학교사 업무",
+      "topic": "과학실 관리",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "화학물질 관리대장 작성 범위(전체 시약 여부) 문의.",
+  "taggedAt": "2026-08-12T22:27:14.754Z"
 }

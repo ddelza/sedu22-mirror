@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "중학교 화학수업 이야기",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "low"
     }
-  ]
+  ],
+  "tagsNote": "재난구호물품기호 등 두 종류 활동지 공유(구체 화학 단원 불명확).",
+  "taggedAt": "2026-08-12T22:10:34.153Z"
 }

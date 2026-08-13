@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "중학교 생물수업 이야기",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "검정말 구매 후 보관·관리 방법 질문(대상 단원 특정 어려움).",
+  "taggedAt": "2026-08-12T23:40:37.676Z"
 }

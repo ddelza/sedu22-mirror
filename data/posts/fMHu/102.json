@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "중학교 생물수업 이야기",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "low"
     }
-  ]
+  ],
+  "tagsNote": "삼투현상 관련 논문 자료 공유(중학교 교육과정 범위 밖 심화 내용).",
+  "taggedAt": "2026-08-12T23:21:50.729Z"
 }

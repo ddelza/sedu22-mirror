@@ -17,6 +17,13 @@
       "category": "게시판별 분류",
       "topic": "중학교 생물수업 이야기",
       "confidence": "high"
+    },
+    {
+      "category": "과학교사 업무",
+      "topic": "과학실 관리",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "현미경 부착용 모니터 연동 장비 명칭 문의.",
+  "taggedAt": "2026-08-12T23:27:29.183Z"
 }
