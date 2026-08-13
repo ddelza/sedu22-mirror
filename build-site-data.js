@@ -141,7 +141,7 @@ function buildTree() {
     let currentUnit = null;
     const bySubject = {};
     for (const line of lines) {
-      const subjM = line.match(/^## ([가-힣A-Za-zⅠ]+)\s*\(pp?\.\d/);
+      const subjM = line.match(/^## ([가-힣A-Za-zⅠⅡ]+)\s*\(pp?\.\d/);
       if (subjM && NON_SUBJECT_HEADINGS_2015_HS.has(subjM[1])) {
         subject = null;
         currentUnit = null;
