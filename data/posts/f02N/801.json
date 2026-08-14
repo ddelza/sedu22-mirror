@@ -28,8 +28,16 @@
       "subject": "과학",
       "unit": "전기와 자기",
       "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "전기와 자기",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "전기회로를 물의 흐름으로 시각화하는 시뮬레이션 사이트 문의.",
-  "taggedAt": "2026-08-12T04:57:09.251Z"
+  "tagsNote": "전기회로를 물의 흐름으로 시각화하는 시뮬레이션 사이트 문의. [보완: 수평 보완(동일 이름)]",
+  "taggedAt": "2026-08-12T04:57:09.251Z",
+  "verticalReviewedAt": "2026-08-14T02:54:03.485Z"
 }

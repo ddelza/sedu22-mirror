@@ -24,8 +24,16 @@
       "subject": "과학",
       "unit": "물질의 특성",
       "confidence": "low"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "물질의 특성",
+      "confidence": "low"
     }
   ],
-  "tagsNote": "물질의 용해 등 광고를 활용한 수업 아이디어 소개.",
-  "taggedAt": "2026-08-12T08:57:43.684Z"
+  "tagsNote": "물질의 용해 등 광고를 활용한 수업 아이디어 소개. [보완: 수평 보완(동일 이름)]",
+  "taggedAt": "2026-08-12T08:57:43.684Z",
+  "verticalReviewedAt": "2026-08-14T02:59:00.427Z"
 }

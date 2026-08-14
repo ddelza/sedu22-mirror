@@ -28,8 +28,16 @@
       "category": "과학교사 업무",
       "topic": "과학 행사",
       "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "힘의 작용",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "나무젓가락 다리 만들기 활동이 기술가정 수업과 내용 겹쳐 계획 재조정 고민.",
-  "taggedAt": "2026-08-12T04:53:16.432Z"
+  "tagsNote": "나무젓가락 다리 만들기 활동이 기술가정 수업과 내용 겹쳐 계획 재조정 고민. [보완: 수평 보완]",
+  "taggedAt": "2026-08-12T04:53:16.432Z",
+  "verticalReviewedAt": "2026-08-14T02:53:27.566Z"
 }

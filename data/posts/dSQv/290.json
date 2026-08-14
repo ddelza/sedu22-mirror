@@ -24,8 +24,16 @@
       "subject": "과학",
       "unit": "빛과 파동",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "빛과 파동",
+      "confidence": "high"
     }
   ],
-  "tagsNote": "과학탐구활동반 - 빛 VR 실험, 빛이 만드는 색.",
-  "taggedAt": "2026-08-12T03:24:21.054Z"
+  "tagsNote": "과학탐구활동반 - 빛 VR 실험, 빛이 만드는 색. [보완: 수평 보완(동일 이름)]",
+  "taggedAt": "2026-08-12T03:24:21.054Z",
+  "verticalReviewedAt": "2026-08-14T02:26:10.761Z"
 }

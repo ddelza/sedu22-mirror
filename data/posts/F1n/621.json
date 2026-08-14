@@ -24,8 +24,16 @@
       "subject": "과학",
       "unit": "기권과 날씨",
       "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "날씨와 기후변화",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "지구온난화/기후변화 관련 KBS 다큐멘터리 4부작 소개.",
-  "taggedAt": "2026-08-12T08:49:54.520Z"
+  "tagsNote": "지구온난화/기후변화 관련 KBS 다큐멘터리 4부작 소개. [보완: 수평 보완]",
+  "taggedAt": "2026-08-12T08:49:54.520Z",
+  "verticalReviewedAt": "2026-08-14T02:57:38.706Z"
 }

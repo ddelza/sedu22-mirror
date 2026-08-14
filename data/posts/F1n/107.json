@@ -24,8 +24,16 @@
       "subject": "과학",
       "unit": "운동과 에너지",
       "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "운동과 에너지",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "학기말 관성시합(동전잡기 등) 및 오목대회 등 학급게임 활용 후기.",
-  "taggedAt": "2026-08-12T05:02:24.657Z"
+  "tagsNote": "학기말 관성시합(동전잡기 등) 및 오목대회 등 학급게임 활용 후기. [보완: 수평 보완(동일 이름)]",
+  "taggedAt": "2026-08-12T05:02:24.657Z",
+  "verticalReviewedAt": "2026-08-14T02:56:06.669Z"
 }

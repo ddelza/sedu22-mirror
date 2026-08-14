@@ -24,8 +24,16 @@
       "subject": "과학",
       "unit": "별과 우주",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "별과 우주",
+      "confidence": "high"
     }
   ],
-  "tagsNote": "우산(천구)과 별 스티커로 별의 일주운동을 이해하는 중1 수업안 공유.",
-  "taggedAt": "2026-08-12T08:59:09.253Z"
+  "tagsNote": "우산(천구)과 별 스티커로 별의 일주운동을 이해하는 중1 수업안 공유. [보완: 수평 보완(동일 이름)]",
+  "taggedAt": "2026-08-12T08:59:09.253Z",
+  "verticalReviewedAt": "2026-08-14T02:59:40.251Z"
 }

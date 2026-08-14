@@ -24,8 +24,16 @@
       "subject": "과학",
       "unit": "여러 가지 힘",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "힘의 작용",
+      "confidence": "high"
     }
   ],
-  "tagsNote": "여러 가지 힘 단원 영상.",
-  "taggedAt": "2026-08-12T03:30:04.351Z"
+  "tagsNote": "여러 가지 힘 단원 영상. [보완: 수평 보완]",
+  "taggedAt": "2026-08-12T03:30:04.351Z",
+  "verticalReviewedAt": "2026-08-14T02:29:48.748Z"
 }

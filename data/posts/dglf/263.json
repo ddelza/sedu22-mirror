@@ -24,8 +24,23 @@
       "subject": "과학",
       "unit": "생식과 유전",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "생식과 유전",
+      "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "고등학교",
+      "subject": "생명과학Ⅰ",
+      "unit": "유전",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "동물세포 체세포분열 범위(중학교 생식과 유전 수업 중 질문).",
-  "taggedAt": "2026-08-12T03:13:59.132Z"
+  "tagsNote": "동물세포 체세포분열 범위(중학교 생식과 유전 수업 중 질문). [보완: 수평 보완(2022 생식과 유전 누락) + 수직 보완: G0기·텔로미어 등 세포분열 조절에 대한 심화 질문으로 고등학교 '유전' 단원(체세포분열) 수준과 연결됨.]",
+  "taggedAt": "2026-08-12T03:13:59.132Z",
+  "verticalReviewedAt": "2026-08-14T02:16:34.116Z"
 }

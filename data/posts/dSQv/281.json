@@ -24,8 +24,16 @@
       "subject": "과학",
       "unit": "운동과 에너지",
       "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "운동과 에너지",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "누리호 발사(한국형 발사체) 관련 시청 자료.",
-  "taggedAt": "2026-08-12T03:24:21.038Z"
+  "tagsNote": "누리호 발사(한국형 발사체) 관련 시청 자료. [보완: 수평 보완(동일 이름)]",
+  "taggedAt": "2026-08-12T03:24:21.038Z",
+  "verticalReviewedAt": "2026-08-14T02:26:10.754Z"
 }

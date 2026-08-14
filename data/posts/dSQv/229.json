@@ -24,8 +24,16 @@
       "subject": "과학",
       "unit": "물질의 상태 변화",
       "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "물질의 상태 변화",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "폴리스티렌(열가소성 수지) 수축 열쇠고리 만들기 질문.",
-  "taggedAt": "2026-08-12T03:23:00.623Z"
+  "tagsNote": "폴리스티렌(열가소성 수지) 수축 열쇠고리 만들기 질문. [보완: 수평 보완(동일 이름)]",
+  "taggedAt": "2026-08-12T03:23:00.623Z",
+  "verticalReviewedAt": "2026-08-14T02:20:33.493Z"
 }

@@ -29,8 +29,23 @@
       "subject": "과학",
       "unit": "여러 가지 힘",
       "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "힘의 작용",
+      "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "고등학교",
+      "subject": "물리학Ⅱ",
+      "unit": "역학적 상호작용",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "오각형 무게중심 팽이 만들기(3학년 동아리 적용).",
-  "taggedAt": "2026-08-12T03:27:43.377Z"
+  "tagsNote": "오각형 무게중심 팽이 만들기(3학년 동아리 적용). [보완: 수평 보완 + 수직 보완: 오각형 무게중심을 삼각분할 작도로 구하는 심화 활동, 고등학교 물리학Ⅱ '무게중심' 성취기준과 연결.]",
+  "taggedAt": "2026-08-12T03:27:43.377Z",
+  "verticalReviewedAt": "2026-08-14T02:28:28.168Z"
 }

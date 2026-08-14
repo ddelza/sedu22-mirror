@@ -23,8 +23,16 @@
       "subject": "과학",
       "unit": "운동과 에너지",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "운동과 에너지",
+      "confidence": "high"
     }
   ],
-  "tagsNote": "등속운동/일 개념 오개념 확인 질문(미래엔 지도서).",
-  "taggedAt": "2026-08-12T04:38:49.281Z"
+  "tagsNote": "등속운동/일 개념 오개념 확인 질문(미래엔 지도서). [보완: 수평 보완(동일 이름)]",
+  "taggedAt": "2026-08-12T04:38:49.281Z",
+  "verticalReviewedAt": "2026-08-14T02:50:17.327Z"
 }

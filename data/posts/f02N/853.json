@@ -23,8 +23,16 @@
       "subject": "과학",
       "unit": "자극과 반응",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "자극과 반응",
+      "confidence": "high"
     }
   ],
-  "tagsNote": "호르몬 관련 질병 조사 수행평가(인슐린 저항성 인정여부) 채점 문의.",
-  "taggedAt": "2026-08-12T04:58:27.131Z"
+  "tagsNote": "호르몬 관련 질병 조사 수행평가(인슐린 저항성 인정여부) 채점 문의. [보완: 수평 보완(동일 이름)]",
+  "taggedAt": "2026-08-12T04:58:27.131Z",
+  "verticalReviewedAt": "2026-08-14T02:54:42.172Z"
 }

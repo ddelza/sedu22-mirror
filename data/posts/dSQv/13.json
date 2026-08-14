@@ -24,8 +24,16 @@
       "subject": "과학",
       "unit": "생물의 구성과 다양성",
       "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "생물의 다양성",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "자유학기 마지막 현미경 관찰 수업(공원 야외활동).",
-  "taggedAt": "2026-08-12T03:18:58.493Z"
+  "tagsNote": "자유학기 마지막 현미경 관찰 수업(공원 야외활동). [보완: 수평 보완: 2022만 있고 2015 누락.]",
+  "taggedAt": "2026-08-12T03:18:58.493Z",
+  "verticalReviewedAt": "2026-08-14T02:17:53.329Z"
 }

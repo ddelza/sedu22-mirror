@@ -23,8 +23,16 @@
       "subject": "과학",
       "unit": "운동과 에너지",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "운동과 에너지",
+      "confidence": "high"
     }
   ],
-  "tagsNote": "알짜힘 0(등속직선운동)과 지속적인 힘(등가속운동) 설명 방법 질문.",
-  "taggedAt": "2026-08-12T04:57:09.255Z"
+  "tagsNote": "알짜힘 0(등속직선운동)과 지속적인 힘(등가속운동) 설명 방법 질문. [보완: 수평 보완(동일 이름)]",
+  "taggedAt": "2026-08-12T04:57:09.255Z",
+  "verticalReviewedAt": "2026-08-14T02:54:03.486Z"
 }

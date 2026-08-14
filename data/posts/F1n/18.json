@@ -24,8 +24,16 @@
       "subject": "과학",
       "unit": "동물과 에너지",
       "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "동물과 에너지",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "혈관 길이, 콜레스테롤 등 재미있는 생물 상식 공유.",
-  "taggedAt": "2026-08-12T08:41:25.553Z"
+  "tagsNote": "혈관 길이, 콜레스테롤 등 재미있는 생물 상식 공유. [보완: 수평 보완(동일 이름)]",
+  "taggedAt": "2026-08-12T08:41:25.553Z",
+  "verticalReviewedAt": "2026-08-14T02:56:06.675Z"
 }

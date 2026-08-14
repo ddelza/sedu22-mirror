@@ -24,8 +24,16 @@
       "subject": "과학",
       "unit": "여러 가지 힘",
       "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "힘의 작용",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "중3 징검다리 수업(영화 후 비행기 날리기) 활동 공유.",
-  "taggedAt": "2026-08-12T08:44:53.488Z"
+  "tagsNote": "중3 징검다리 수업(영화 후 비행기 날리기) 활동 공유. [보완: 수평 보완]",
+  "taggedAt": "2026-08-12T08:44:53.488Z",
+  "verticalReviewedAt": "2026-08-14T02:56:55.494Z"
 }

@@ -24,8 +24,16 @@
       "subject": "과학",
       "unit": "동물과 에너지",
       "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "동물과 에너지",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "백혈구 관찰(김사액 염색) 실험 시행착오.",
-  "taggedAt": "2026-08-12T03:21:38.476Z"
+  "tagsNote": "백혈구 관찰(김사액 염색) 실험 시행착오. [보완: 수평 보완(동일 이름)]",
+  "taggedAt": "2026-08-12T03:21:38.476Z",
+  "verticalReviewedAt": "2026-08-14T02:20:33.483Z"
 }

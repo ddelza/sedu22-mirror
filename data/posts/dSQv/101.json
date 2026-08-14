@@ -24,8 +24,16 @@
       "subject": "과학",
       "unit": "물질의 특성",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "물질의 특성",
+      "confidence": "high"
     }
   ],
-  "tagsNote": "설탕물 밀도탑 만들고 뒤집기(밀도 개념).",
-  "taggedAt": "2026-08-12T03:18:58.466Z"
+  "tagsNote": "설탕물 밀도탑 만들고 뒤집기(밀도 개념). [보완: 수평 보완: 2015 '물질의 특성'의 2022 대응(동일 이름) 누락.]",
+  "taggedAt": "2026-08-12T03:18:58.466Z",
+  "verticalReviewedAt": "2026-08-14T02:16:34.122Z"
 }

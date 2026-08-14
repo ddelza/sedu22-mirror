@@ -24,8 +24,16 @@
       "subject": "과학",
       "unit": "화학 반응의 규칙과 에너지 변화",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "화학 반응의 규칙성",
+      "confidence": "high"
     }
   ],
-  "tagsNote": "중3 화학반응식 드라마형 수업영상(Atom=Bit 최종화).",
-  "taggedAt": "2026-08-12T03:51:18.231Z"
+  "tagsNote": "중3 화학반응식 드라마형 수업영상(Atom=Bit 최종화). [보완: 수평 보완]",
+  "taggedAt": "2026-08-12T03:51:18.231Z",
+  "verticalReviewedAt": "2026-08-14T02:31:23.312Z"
 }

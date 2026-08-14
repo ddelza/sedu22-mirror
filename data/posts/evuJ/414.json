@@ -29,8 +29,16 @@
       "category": "스마트 수업도구",
       "topic": "생성형 AI 도구",
       "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "날씨와 기후변화",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "영재수업용 대기질 빅데이터(서울시/기상청 API) 웹앱.",
-  "taggedAt": "2026-08-12T03:58:15.948Z"
+  "tagsNote": "영재수업용 대기질 빅데이터(서울시/기상청 API) 웹앱. [보완: 수평 보완]",
+  "taggedAt": "2026-08-12T03:58:15.948Z",
+  "verticalReviewedAt": "2026-08-14T02:32:54.194Z"
 }

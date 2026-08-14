@@ -24,8 +24,16 @@
       "subject": "과학",
       "unit": "기권과 날씨",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "날씨와 기후변화",
+      "confidence": "high"
     }
   ],
-  "tagsNote": "시베리아 기단-미세먼지-응결 관계(중3 기권과 날씨 명시).",
-  "taggedAt": "2026-08-12T04:19:43.099Z"
+  "tagsNote": "시베리아 기단-미세먼지-응결 관계(중3 기권과 날씨 명시). [보완: 수평 보완]",
+  "taggedAt": "2026-08-12T04:19:43.099Z",
+  "verticalReviewedAt": "2026-08-14T02:33:28.716Z"
 }

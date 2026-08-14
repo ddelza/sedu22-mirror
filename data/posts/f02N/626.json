@@ -23,8 +23,16 @@
       "subject": "과학",
       "unit": "동물과 에너지",
       "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "동물과 에너지",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "흡기 시 코의 역할(호흡 효율)에 대한 학생 질문 토론.",
-  "taggedAt": "2026-08-12T04:51:56.140Z"
+  "tagsNote": "흡기 시 코의 역할(호흡 효율)에 대한 학생 질문 토론. [보완: 수평 보완(동일 이름)]",
+  "taggedAt": "2026-08-12T04:51:56.140Z",
+  "verticalReviewedAt": "2026-08-14T02:53:27.558Z"
 }

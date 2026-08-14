@@ -23,8 +23,16 @@
       "subject": "과학",
       "unit": "생식과 유전",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "생식과 유전",
+      "confidence": "high"
     }
   ],
-  "tagsNote": "멘델 두 쌍의 대립형질 잡종2대 순종/잡종 비율 질문.",
-  "taggedAt": "2026-08-12T04:51:56.075Z"
+  "tagsNote": "멘델 두 쌍의 대립형질 잡종2대 순종/잡종 비율 질문. [보완: 수평 보완(동일 이름)]",
+  "taggedAt": "2026-08-12T04:51:56.075Z",
+  "verticalReviewedAt": "2026-08-14T02:52:42.127Z"
 }

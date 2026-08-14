@@ -24,8 +24,16 @@
       "subject": "과학",
       "unit": "전기와 자기",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "전기와 자기",
+      "confidence": "high"
     }
   ],
-  "tagsNote": "전도성 펜을 활용한 전기회로 마을만들기 협동작업.",
-  "taggedAt": "2026-08-12T03:27:43.442Z"
+  "tagsNote": "전도성 펜을 활용한 전기회로 마을만들기 협동작업. [보완: 수평 보완(동일 이름)]",
+  "taggedAt": "2026-08-12T03:27:43.442Z",
+  "verticalReviewedAt": "2026-08-14T02:29:05.136Z"
 }

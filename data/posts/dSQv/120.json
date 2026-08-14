@@ -24,8 +24,16 @@
       "subject": "과학",
       "unit": "운동과 에너지",
       "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "운동과 에너지",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "에어로켓 제작 및 발사(주제선택 수업).",
-  "taggedAt": "2026-08-12T03:18:58.483Z"
+  "tagsNote": "에어로켓 제작 및 발사(주제선택 수업). [보완: 수평 보완: 2015만 있고 2022(동일 이름) 누락.]",
+  "taggedAt": "2026-08-12T03:18:58.483Z",
+  "verticalReviewedAt": "2026-08-14T02:17:53.325Z"
 }

@@ -29,8 +29,16 @@
       "subject": "과학",
       "unit": "기권과 날씨",
       "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "날씨와 기후변화",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "챗GPT 프롬프트5(포화수증기량 증가 원리 질문).",
-  "taggedAt": "2026-08-12T03:51:18.261Z"
+  "tagsNote": "챗GPT 프롬프트5(포화수증기량 증가 원리 질문). [보완: 수평 보완]",
+  "taggedAt": "2026-08-12T03:51:18.261Z",
+  "verticalReviewedAt": "2026-08-14T02:31:23.313Z"
 }

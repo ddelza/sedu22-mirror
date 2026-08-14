@@ -24,8 +24,23 @@
       "subject": "과학",
       "unit": "여러 가지 힘",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "힘의 작용",
+      "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "고등학교",
+      "subject": "물리학Ⅱ",
+      "unit": "역학적 상호작용",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "무게중심 관련 수업 실험 추천 요청.",
-  "taggedAt": "2026-08-12T05:01:07.872Z"
+  "tagsNote": "무게중심 관련 수업 실험 추천 요청. [보완: 수평 보완 + 수직 보완: 무게중심 실험 추천을 요청하는 글로, 고등학교 물리학Ⅱ '무게중심' 성취기준과 연결.]",
+  "taggedAt": "2026-08-12T05:01:07.872Z",
+  "verticalReviewedAt": "2026-08-14T02:56:06.668Z"
 }

@@ -24,8 +24,16 @@
       "subject": "과학",
       "unit": "에너지 전환과 보존",
       "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "운동과 에너지",
+      "confidence": "low"
     }
   ],
-  "tagsNote": "엔트로피 소재 과학자 노래(알쓸신잡3).",
-  "taggedAt": "2026-08-12T03:21:38.494Z"
+  "tagsNote": "엔트로피 소재 과학자 노래(알쓸신잡3). [보완: 수평 보완: 엔트로피(에너지 비가역성) 소재라 '에너지 전환과 보존'의 2022 대응인 '운동과 에너지'로 보완.]",
+  "taggedAt": "2026-08-12T03:21:38.494Z",
+  "verticalReviewedAt": "2026-08-14T02:20:33.487Z"
 }

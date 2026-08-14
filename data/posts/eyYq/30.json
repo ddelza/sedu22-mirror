@@ -24,8 +24,16 @@
       "subject": "과학",
       "unit": "여러 가지 힘",
       "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "힘의 작용",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "다빈치 다리(구조물) 만들기 아이디어.",
-  "taggedAt": "2026-08-12T04:35:05.626Z"
+  "tagsNote": "다빈치 다리(구조물) 만들기 아이디어. [보완: 수평 보완]",
+  "taggedAt": "2026-08-12T04:35:05.626Z",
+  "verticalReviewedAt": "2026-08-14T02:49:05.907Z"
 }

@@ -24,8 +24,16 @@
       "subject": "과학",
       "unit": "식물과 에너지",
       "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "식물과 에너지",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "수정 안 된 밀에 이삭이 열린 이유(생활 속 궁금증).",
-  "taggedAt": "2026-08-12T03:20:18.621Z"
+  "tagsNote": "수정 안 된 밀에 이삭이 열린 이유(생활 속 궁금증). [보완: 수평 보완(동일 이름)]",
+  "taggedAt": "2026-08-12T03:20:18.621Z",
+  "verticalReviewedAt": "2026-08-14T02:19:07.502Z"
 }

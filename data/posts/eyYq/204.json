@@ -24,8 +24,16 @@
       "subject": "과학",
       "unit": "열과 우리 생활",
       "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "열",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "셔츠 색깔에 따른 빛 흡수/온도차 소재.",
-  "taggedAt": "2026-08-12T04:22:41.883Z"
+  "tagsNote": "셔츠 색깔에 따른 빛 흡수/온도차 소재. [보완: 수평 보완]",
+  "taggedAt": "2026-08-12T04:22:41.883Z",
+  "verticalReviewedAt": "2026-08-14T02:47:07.288Z"
 }

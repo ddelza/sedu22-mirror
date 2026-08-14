@@ -24,8 +24,16 @@
       "subject": "과학",
       "unit": "화학 반응의 규칙과 에너지 변화",
       "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "화학 반응의 규칙성",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "광선검 풍선(비닐 속 액체+가루 반응 기체발생) 원리 소개.",
-  "taggedAt": "2026-08-12T03:18:58.470Z"
+  "tagsNote": "광선검 풍선(비닐 속 액체+가루 반응 기체발생) 원리 소개. [보완: 수평 보완: 2015 '화학 반응의 규칙과 에너지 변화'의 2022 대응('화학 반응의 규칙성') 누락.]",
+  "taggedAt": "2026-08-12T03:18:58.470Z",
+  "verticalReviewedAt": "2026-08-14T02:16:34.123Z"
 }

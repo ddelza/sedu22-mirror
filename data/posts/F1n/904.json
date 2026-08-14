@@ -24,8 +24,16 @@
       "subject": "과학",
       "unit": "여러 가지 힘",
       "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "힘의 작용",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "중3 마지막 수업 투석기 만들기 활동 공유.",
-  "taggedAt": "2026-08-12T08:59:09.263Z"
+  "tagsNote": "중3 마지막 수업 투석기 만들기 활동 공유. [보완: 수평 보완]",
+  "taggedAt": "2026-08-12T08:59:09.263Z",
+  "verticalReviewedAt": "2026-08-14T02:59:40.257Z"
 }

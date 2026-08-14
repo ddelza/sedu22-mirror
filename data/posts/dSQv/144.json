@@ -24,8 +24,16 @@
       "subject": "과학",
       "unit": "생물의 구성과 다양성",
       "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "생물의 다양성",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "전자현미경 사진(스몰월드 콘테스트) 소개 자료.",
-  "taggedAt": "2026-08-12T03:20:18.600Z"
+  "tagsNote": "전자현미경 사진(스몰월드 콘테스트) 소개 자료. [보완: 수평 보완: 2022만 있고 2015 누락.]",
+  "taggedAt": "2026-08-12T03:20:18.600Z",
+  "verticalReviewedAt": "2026-08-14T02:17:53.335Z"
 }

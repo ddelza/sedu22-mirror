@@ -24,8 +24,16 @@
       "subject": "과학",
       "unit": "생물의 구성과 다양성",
       "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "생물의 다양성",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "세포/인체 비주얼씽킹 열쇠고리 만들기.",
-  "taggedAt": "2026-08-12T03:18:58.481Z"
+  "tagsNote": "세포/인체 비주얼씽킹 열쇠고리 만들기. [보완: 수평 보완: 2022만 있고 2015 누락.]",
+  "taggedAt": "2026-08-12T03:18:58.481Z",
+  "verticalReviewedAt": "2026-08-14T02:17:53.323Z"
 }

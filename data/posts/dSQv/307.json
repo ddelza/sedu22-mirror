@@ -24,8 +24,16 @@
       "subject": "과학",
       "unit": "여러 가지 힘",
       "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "힘의 작용",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "롤링볼 만들기 재료/시간 관련 질문.",
-  "taggedAt": "2026-08-12T03:24:21.080Z"
+  "tagsNote": "롤링볼 만들기 재료/시간 관련 질문. [보완: 수평 보완]",
+  "taggedAt": "2026-08-12T03:24:21.080Z",
+  "verticalReviewedAt": "2026-08-14T02:26:10.770Z"
 }

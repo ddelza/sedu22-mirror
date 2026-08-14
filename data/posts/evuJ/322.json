@@ -29,8 +29,16 @@
       "subject": "과학",
       "unit": "기권과 날씨",
       "confidence": "low"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "날씨와 기후변화",
+      "confidence": "low"
     }
   ],
-  "tagsNote": "챗GPT로 만든 '기후위기' 유튜브 학습지 공유.",
-  "taggedAt": "2026-08-12T03:53:51.224Z"
+  "tagsNote": "챗GPT로 만든 '기후위기' 유튜브 학습지 공유. [보완: 수평 보완]",
+  "taggedAt": "2026-08-12T03:53:51.224Z",
+  "verticalReviewedAt": "2026-08-14T02:31:23.316Z"
 }

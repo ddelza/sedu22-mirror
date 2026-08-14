@@ -24,8 +24,16 @@
       "subject": "과학",
       "unit": "기권과 날씨",
       "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "날씨와 기후변화",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "'공존을 위한 과학' 지구온난화 영상/학습지 수업.",
-  "taggedAt": "2026-08-12T03:21:38.464Z"
+  "tagsNote": "'공존을 위한 과학' 지구온난화 영상/학습지 수업. [보완: 수평 보완]",
+  "taggedAt": "2026-08-12T03:21:38.464Z",
+  "verticalReviewedAt": "2026-08-14T02:20:33.478Z"
 }

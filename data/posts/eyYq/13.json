@@ -24,8 +24,16 @@
       "subject": "과학",
       "unit": "화학 반응의 규칙과 에너지 변화",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "화학 반응의 규칙성",
+      "confidence": "high"
     }
   ],
-  "tagsNote": "그을음(불완전연소)으로 촛불 붙이기 자료.",
-  "taggedAt": "2026-08-12T04:19:43.104Z"
+  "tagsNote": "그을음(불완전연소)으로 촛불 붙이기 자료. [보완: 수평 보완]",
+  "taggedAt": "2026-08-12T04:19:43.104Z",
+  "verticalReviewedAt": "2026-08-14T02:34:03.033Z"
 }

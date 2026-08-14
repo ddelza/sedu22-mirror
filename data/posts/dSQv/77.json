@@ -24,8 +24,16 @@
       "subject": "과학",
       "unit": "여러 가지 힘",
       "confidence": "low"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "힘의 작용",
+      "confidence": "low"
     }
   ],
-  "tagsNote": "페이퍼 건(공기압) 구입처 문의.",
-  "taggedAt": "2026-08-12T03:27:43.439Z"
+  "tagsNote": "페이퍼 건(공기압) 구입처 문의. [보완: 수평 보완]",
+  "taggedAt": "2026-08-12T03:27:43.439Z",
+  "verticalReviewedAt": "2026-08-14T02:29:05.135Z"
 }

@@ -29,8 +29,16 @@
       "category": "스마트 수업도구",
       "topic": "생성형 AI 도구",
       "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "태양계",
+      "confidence": "high"
     }
   ],
-  "tagsNote": "중2 태양계 단원 제미나이 스토리북 활용 프로젝트 수행평가 공유.",
-  "taggedAt": "2026-08-12T08:57:43.709Z"
+  "tagsNote": "중2 태양계 단원 제미나이 스토리북 활용 프로젝트 수행평가 공유. [보완: 수평 보완(동일 이름)]",
+  "taggedAt": "2026-08-12T08:57:43.709Z",
+  "verticalReviewedAt": "2026-08-14T02:59:00.436Z"
 }

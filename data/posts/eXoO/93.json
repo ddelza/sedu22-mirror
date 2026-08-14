@@ -24,8 +24,16 @@
       "subject": "과학",
       "unit": "기권과 날씨",
       "confidence": "low"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "날씨와 기후변화",
+      "confidence": "low"
     }
   ],
-  "tagsNote": "'미세먼지를 줄여라' 공동탐구 교사팀 모집(창의재단).",
-  "taggedAt": "2026-08-12T04:18:08.684Z"
+  "tagsNote": "'미세먼지를 줄여라' 공동탐구 교사팀 모집(창의재단). [보완: 수평 보완]",
+  "taggedAt": "2026-08-12T04:18:08.684Z",
+  "verticalReviewedAt": "2026-08-14T02:33:28.706Z"
 }

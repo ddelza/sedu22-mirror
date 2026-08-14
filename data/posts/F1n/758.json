@@ -24,8 +24,16 @@
       "subject": "과학",
       "unit": "화학 반응의 규칙과 에너지 변화",
       "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "화학 반응의 규칙성",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "물리변화/화학변화 예시 찾기 아날로그 빙고게임 소개.",
-  "taggedAt": "2026-08-12T08:55:07.507Z"
+  "tagsNote": "물리변화/화학변화 예시 찾기 아날로그 빙고게임 소개. [보완: 수평 보완]",
+  "taggedAt": "2026-08-12T08:55:07.507Z",
+  "verticalReviewedAt": "2026-08-14T02:58:19.736Z"
 }

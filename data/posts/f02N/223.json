@@ -23,8 +23,16 @@
       "subject": "과학",
       "unit": "기체의 성질",
       "confidence": "low"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "기체의 성질",
+      "confidence": "low"
     }
   ],
-  "tagsNote": "뜨거운 물 속 토마토 껍질 터짐 원리 질문.",
-  "taggedAt": "2026-08-12T04:43:00.458Z"
+  "tagsNote": "뜨거운 물 속 토마토 껍질 터짐 원리 질문. [보완: 수평 보완(동일 이름)]",
+  "taggedAt": "2026-08-12T04:43:00.458Z",
+  "verticalReviewedAt": "2026-08-14T02:50:53.535Z"
 }

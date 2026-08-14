@@ -28,8 +28,16 @@
       "category": "과학교사 업무",
       "topic": "과학 행사",
       "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "물질의 상태 변화",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "상태변화 수행평가(과학송 만들기)를 LG사이언스랜드 UCC대회에 출품한 경험 문의.",
-  "taggedAt": "2026-08-12T04:53:16.409Z"
+  "tagsNote": "상태변화 수행평가(과학송 만들기)를 LG사이언스랜드 UCC대회에 출품한 경험 문의. [보완: 수평 보완(동일 이름)]",
+  "taggedAt": "2026-08-12T04:53:16.409Z",
+  "verticalReviewedAt": "2026-08-14T02:53:27.565Z"
 }

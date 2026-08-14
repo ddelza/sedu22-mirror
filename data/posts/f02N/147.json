@@ -23,8 +23,16 @@
       "subject": "과학",
       "unit": "운동과 에너지",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "운동과 에너지",
+      "confidence": "high"
     }
   ],
-  "tagsNote": "자유낙하운동과 공기저항 관계 질문.",
-  "taggedAt": "2026-08-12T04:37:41.531Z"
+  "tagsNote": "자유낙하운동과 공기저항 관계 질문. [보완: 수평 보완(동일 이름)]",
+  "taggedAt": "2026-08-12T04:37:41.531Z",
+  "verticalReviewedAt": "2026-08-14T02:50:17.324Z"
 }

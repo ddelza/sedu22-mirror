@@ -23,8 +23,16 @@
       "subject": "과학",
       "unit": "기권과 날씨",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "날씨와 기후변화",
+      "confidence": "high"
     }
   ],
-  "tagsNote": "중3 온실효과/지구온난화 복사평형 개념 오개념 확인 질문.",
-  "taggedAt": "2026-08-12T04:54:27.572Z"
+  "tagsNote": "중3 온실효과/지구온난화 복사평형 개념 오개념 확인 질문. [보완: 수평 보완]",
+  "taggedAt": "2026-08-12T04:54:27.572Z",
+  "verticalReviewedAt": "2026-08-14T02:53:27.581Z"
 }

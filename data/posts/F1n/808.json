@@ -24,8 +24,16 @@
       "subject": "과학",
       "unit": "물질의 구성",
       "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "물질의 구성",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "학기말 추천 도블 카드게임(원소편) 제작 공유.",
-  "taggedAt": "2026-08-12T08:56:23.375Z"
+  "tagsNote": "학기말 추천 도블 카드게임(원소편) 제작 공유. [보완: 수평 보완(동일 이름)]",
+  "taggedAt": "2026-08-12T08:56:23.375Z",
+  "verticalReviewedAt": "2026-08-14T02:58:19.743Z"
 }

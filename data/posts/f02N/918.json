@@ -23,8 +23,16 @@
       "subject": "과학",
       "unit": "물질의 특성",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "물질의 특성",
+      "confidence": "high"
     }
   ],
-  "tagsNote": "밀도 관련 현상 서술형(배/잠수함 사례) 정답 인정 여부 채점 문의.",
-  "taggedAt": "2026-08-12T04:59:41.479Z"
+  "tagsNote": "밀도 관련 현상 서술형(배/잠수함 사례) 정답 인정 여부 채점 문의. [보완: 수평 보완(동일 이름)]",
+  "taggedAt": "2026-08-12T04:59:41.479Z",
+  "verticalReviewedAt": "2026-08-14T02:55:18.990Z"
 }

@@ -23,8 +23,16 @@
       "subject": "과학",
       "unit": "여러 가지 힘",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "힘의 작용",
+      "confidence": "high"
     }
   ],
-  "tagsNote": "탄성력/탄성체 기준(정도) 질문.",
-  "taggedAt": "2026-08-12T04:38:49.295Z"
+  "tagsNote": "탄성력/탄성체 기준(정도) 질문. [보완: 수평 보완]",
+  "taggedAt": "2026-08-12T04:38:49.295Z",
+  "verticalReviewedAt": "2026-08-14T02:50:53.525Z"
 }

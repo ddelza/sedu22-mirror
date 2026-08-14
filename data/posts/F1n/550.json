@@ -24,8 +24,16 @@
       "subject": "과학",
       "unit": "지권의 변화",
       "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "지권의 변화",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "암석 릴레이 퀴즈를 응용한 연상 게임 아이디어 공유.",
-  "taggedAt": "2026-08-12T08:48:40.837Z"
+  "tagsNote": "암석 릴레이 퀴즈를 응용한 연상 게임 아이디어 공유. [보완: 수평 보완(동일 이름)]",
+  "taggedAt": "2026-08-12T08:48:40.837Z",
+  "verticalReviewedAt": "2026-08-14T02:57:38.698Z"
 }

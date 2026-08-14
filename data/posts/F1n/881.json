@@ -29,8 +29,16 @@
       "category": "스마트 수업도구",
       "topic": "앱/프로그램",
       "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "태양계",
+      "confidence": "high"
     }
   ],
-  "tagsNote": "바이브코딩으로 제작한 중1 태양계 천체 특징 학습 웹앱 공유.",
-  "taggedAt": "2026-08-12T08:59:09.246Z"
+  "tagsNote": "바이브코딩으로 제작한 중1 태양계 천체 특징 학습 웹앱 공유. [보완: 수평 보완(동일 이름)]",
+  "taggedAt": "2026-08-12T08:59:09.246Z",
+  "verticalReviewedAt": "2026-08-14T02:59:00.437Z"
 }

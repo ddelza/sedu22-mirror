@@ -24,8 +24,16 @@
       "subject": "과학",
       "unit": "빛과 파동",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "빛과 파동",
+      "confidence": "high"
     }
   ],
-  "tagsNote": "빛의 합성/굴절 짧은 자료.",
-  "taggedAt": "2026-08-12T04:18:08.751Z"
+  "tagsNote": "빛의 합성/굴절 짧은 자료. [보완: 수평 보완(동일 이름)]",
+  "taggedAt": "2026-08-12T04:18:08.751Z",
+  "verticalReviewedAt": "2026-08-14T02:33:28.710Z"
 }

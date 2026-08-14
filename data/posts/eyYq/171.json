@@ -24,8 +24,16 @@
       "subject": "과학",
       "unit": "여러 가지 힘",
       "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "힘의 작용",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "중력/탄성력(공연예술 퍼포먼스) 소재.",
-  "taggedAt": "2026-08-12T04:21:13.789Z"
+  "tagsNote": "중력/탄성력(공연예술 퍼포먼스) 소재. [보완: 수평 보완]",
+  "taggedAt": "2026-08-12T04:21:13.789Z",
+  "verticalReviewedAt": "2026-08-14T02:34:38.508Z"
 }

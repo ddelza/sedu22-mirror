@@ -24,8 +24,16 @@
       "subject": "과학",
       "unit": "태양계",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "태양계",
+      "confidence": "high"
     }
   ],
-  "tagsNote": "중1 태양계 단원 수행평가(달의 위상, 행성 특징) 아이디어 고민.",
-  "taggedAt": "2026-08-12T08:57:43.706Z"
+  "tagsNote": "중1 태양계 단원 수행평가(달의 위상, 행성 특징) 아이디어 고민. [보완: 수평 보완(동일 이름)]",
+  "taggedAt": "2026-08-12T08:57:43.706Z",
+  "verticalReviewedAt": "2026-08-14T02:59:00.433Z"
 }

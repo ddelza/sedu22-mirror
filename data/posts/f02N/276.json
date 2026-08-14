@@ -23,8 +23,16 @@
       "subject": "과학",
       "unit": "전기와 자기",
       "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "전기와 자기",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "중3 기말 후 네온사인(LED) 만들기 활동 계획.",
-  "taggedAt": "2026-08-12T04:44:11.373Z"
+  "tagsNote": "중3 기말 후 네온사인(LED) 만들기 활동 계획. [보완: 수평 보완(동일 이름)]",
+  "taggedAt": "2026-08-12T04:44:11.373Z",
+  "verticalReviewedAt": "2026-08-14T02:51:27.984Z"
 }

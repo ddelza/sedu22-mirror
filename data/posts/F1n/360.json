@@ -24,8 +24,16 @@
       "subject": "과학",
       "unit": "여러 가지 힘",
       "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "힘의 작용",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "스틱밤 도미노 및 아치형 다리 만들기 활동 공유.",
-  "taggedAt": "2026-08-12T08:44:53.480Z"
+  "tagsNote": "스틱밤 도미노 및 아치형 다리 만들기 활동 공유. [보완: 수평 보완]",
+  "taggedAt": "2026-08-12T08:44:53.480Z",
+  "verticalReviewedAt": "2026-08-14T02:56:55.491Z"
 }

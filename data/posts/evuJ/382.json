@@ -29,8 +29,16 @@
       "category": "스마트 수업도구",
       "topic": "생성형 AI 도구",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "화학 반응의 규칙성",
+      "confidence": "high"
     }
   ],
-  "tagsNote": "화학반응식/질량보존/일정성분비 시뮬레이션(제미나이+구글사이트).",
-  "taggedAt": "2026-08-12T03:56:56.753Z"
+  "tagsNote": "화학반응식/질량보존/일정성분비 시뮬레이션(제미나이+구글사이트). [보완: 수평 보완]",
+  "taggedAt": "2026-08-12T03:56:56.753Z",
+  "verticalReviewedAt": "2026-08-14T02:32:00.663Z"
 }

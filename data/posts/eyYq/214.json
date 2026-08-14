@@ -24,8 +24,16 @@
       "subject": "과학",
       "unit": "빛과 파동",
       "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "빛과 파동",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "빛의 속도 체감 이미지.",
-  "taggedAt": "2026-08-12T04:22:41.903Z"
+  "tagsNote": "빛의 속도 체감 이미지. [보완: 수평 보완(동일 이름)]",
+  "taggedAt": "2026-08-12T04:22:41.903Z",
+  "verticalReviewedAt": "2026-08-14T02:47:54.000Z"
 }

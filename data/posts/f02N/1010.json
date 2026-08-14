@@ -23,8 +23,16 @@
       "subject": "과학",
       "unit": "과학기술과 인류 문명",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "과학과 인류의 지속가능한 삶",
+      "confidence": "high"
     }
   ],
-  "tagsNote": "중3 8단원 과학기술과 인류문명 학기말 수업 운영 문의.",
-  "taggedAt": "2026-08-12T04:36:24.552Z"
+  "tagsNote": "중3 8단원 과학기술과 인류문명 학기말 수업 운영 문의. [보완: 수평 보완]",
+  "taggedAt": "2026-08-12T04:36:24.552Z",
+  "verticalReviewedAt": "2026-08-14T02:49:42.226Z"
 }

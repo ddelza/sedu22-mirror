@@ -24,8 +24,16 @@
       "subject": "과학",
       "unit": "운동과 에너지",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "운동과 에너지",
+      "confidence": "high"
     }
   ],
-  "tagsNote": "운동에너지 문제풀이를 학생 모둠 협력으로 진행한 사례 공유.",
-  "taggedAt": "2026-08-12T08:49:54.495Z"
+  "tagsNote": "운동에너지 문제풀이를 학생 모둠 협력으로 진행한 사례 공유. [보완: 수평 보완(동일 이름)]",
+  "taggedAt": "2026-08-12T08:49:54.495Z",
+  "verticalReviewedAt": "2026-08-14T02:57:38.701Z"
 }

@@ -24,8 +24,16 @@
       "subject": "과학",
       "unit": "기권과 날씨",
       "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "날씨와 기후변화",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "소 메탄가스(온실가스) 관련 지구온난화 소재.",
-  "taggedAt": "2026-08-12T04:21:13.800Z"
+  "tagsNote": "소 메탄가스(온실가스) 관련 지구온난화 소재. [보완: 수평 보완]",
+  "taggedAt": "2026-08-12T04:21:13.800Z",
+  "verticalReviewedAt": "2026-08-14T02:34:38.512Z"
 }

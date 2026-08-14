@@ -24,8 +24,16 @@
       "subject": "과학",
       "unit": "여러 가지 힘",
       "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "힘의 작용",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "과자로 집짓기(구조/하중) 탐구 활동(2).",
-  "taggedAt": "2026-08-12T03:20:18.643Z"
+  "tagsNote": "과자로 집짓기(구조/하중) 탐구 활동(2). [보완: 수평 보완]",
+  "taggedAt": "2026-08-12T03:20:18.643Z",
+  "verticalReviewedAt": "2026-08-14T02:19:07.511Z"
 }

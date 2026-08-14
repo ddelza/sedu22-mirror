@@ -29,8 +29,16 @@
       "subject": "과학",
       "unit": "자극과 반응",
       "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "자극과 반응",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "챗GPT 프롬프트24(음악-집중력 탐구 보고서 피드백).",
-  "taggedAt": "2026-08-12T03:52:36.721Z"
+  "tagsNote": "챗GPT 프롬프트24(음악-집중력 탐구 보고서 피드백). [보완: 수평 보완(동일 이름)]",
+  "taggedAt": "2026-08-12T03:52:36.721Z",
+  "verticalReviewedAt": "2026-08-14T02:31:23.315Z"
 }

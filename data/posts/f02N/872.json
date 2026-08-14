@@ -23,8 +23,16 @@
       "subject": "과학",
       "unit": "자극과 반응",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "자극과 반응",
+      "confidence": "high"
     }
   ],
-  "tagsNote": "동공 크기 조절(빛의 양 vs 교감/부교감신경) 영향력 비교 질문.",
-  "taggedAt": "2026-08-12T04:58:27.152Z"
+  "tagsNote": "동공 크기 조절(빛의 양 vs 교감/부교감신경) 영향력 비교 질문. [보완: 수평 보완(동일 이름)]",
+  "taggedAt": "2026-08-12T04:58:27.152Z",
+  "verticalReviewedAt": "2026-08-14T02:54:42.176Z"
 }

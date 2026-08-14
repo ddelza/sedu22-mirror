@@ -24,8 +24,16 @@
       "subject": "과학",
       "unit": "지권의 변화",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "지권의 변화",
+      "confidence": "high"
     }
   ],
-  "tagsNote": "모아나 배경 화산섬(주상절리/현무암) 소재.",
-  "taggedAt": "2026-08-12T04:36:24.530Z"
+  "tagsNote": "모아나 배경 화산섬(주상절리/현무암) 소재. [보완: 수평 보완(동일 이름)]",
+  "taggedAt": "2026-08-12T04:36:24.530Z",
+  "verticalReviewedAt": "2026-08-14T02:49:42.224Z"
 }

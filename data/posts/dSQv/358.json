@@ -24,8 +24,23 @@
       "subject": "과학",
       "unit": "여러 가지 힘",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "힘의 작용",
+      "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "고등학교",
+      "subject": "물리학Ⅱ",
+      "unit": "역학적 상호작용",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "삼각형 무게중심 팽이 만들기(해외 봉사단 수업 지원).",
-  "taggedAt": "2026-08-12T03:27:43.373Z"
+  "tagsNote": "삼각형 무게중심 팽이 만들기(해외 봉사단 수업 지원). [보완: 수평 보완 + 수직 보완: 중선을 이용한 무게중심 작도로 팽이를 만드는 활동으로, 무게중심 개념을 정량적으로 다뤄 고등학교 물리학Ⅱ '무게중심' 성취기준과 연결.]",
+  "taggedAt": "2026-08-12T03:27:43.373Z",
+  "verticalReviewedAt": "2026-08-14T02:28:28.166Z"
 }

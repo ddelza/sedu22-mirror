@@ -23,8 +23,16 @@
       "subject": "과학",
       "unit": "자극과 반응",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "자극과 반응",
+      "confidence": "high"
     }
   ],
-  "tagsNote": "통점/통각점, 맛세포/미각세포 표기 서답형 정답 인정 여부 문의.",
-  "taggedAt": "2026-08-12T04:48:14.901Z"
+  "tagsNote": "통점/통각점, 맛세포/미각세포 표기 서답형 정답 인정 여부 문의. [보완: 수평 보완(동일 이름)]",
+  "taggedAt": "2026-08-12T04:48:14.901Z",
+  "verticalReviewedAt": "2026-08-14T02:52:05.431Z"
 }

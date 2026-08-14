@@ -29,8 +29,16 @@
       "subject": "과학",
       "unit": "식물과 에너지",
       "confidence": "low"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "식물과 에너지",
+      "confidence": "low"
     }
   ],
-  "tagsNote": "환경동아리 식물 콜라주 친구사랑카드 만들기.",
-  "taggedAt": "2026-08-12T03:24:21.031Z"
+  "tagsNote": "환경동아리 식물 콜라주 친구사랑카드 만들기. [보완: 수평 보완(동일 이름)]",
+  "taggedAt": "2026-08-12T03:24:21.031Z",
+  "verticalReviewedAt": "2026-08-14T02:22:15.362Z"
 }

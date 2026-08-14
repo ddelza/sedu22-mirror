@@ -24,8 +24,16 @@
       "subject": "과학",
       "unit": "식물과 에너지",
       "confidence": "low"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "식물과 에너지",
+      "confidence": "low"
     }
   ],
-  "tagsNote": "나뭇잎아트 선택프로그램 자료.",
-  "taggedAt": "2026-08-12T03:20:18.596Z"
+  "tagsNote": "나뭇잎아트 선택프로그램 자료. [보완: 수평 보완: 2015만 있고 2022(동일 이름) 누락.]",
+  "taggedAt": "2026-08-12T03:20:18.596Z",
+  "verticalReviewedAt": "2026-08-14T02:17:53.334Z"
 }

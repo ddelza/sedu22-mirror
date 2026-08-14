@@ -23,8 +23,16 @@
       "subject": "과학",
       "unit": "기권과 날씨",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "날씨와 기후변화",
+      "confidence": "high"
     }
   ],
-  "tagsNote": "정체전선 기호가 남/북반구에서 동일한지 질문.",
-  "taggedAt": "2026-08-12T04:57:09.242Z"
+  "tagsNote": "정체전선 기호가 남/북반구에서 동일한지 질문. [보완: 수평 보완]",
+  "taggedAt": "2026-08-12T04:57:09.242Z",
+  "verticalReviewedAt": "2026-08-14T02:54:03.484Z"
 }

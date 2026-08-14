@@ -23,8 +23,16 @@
       "subject": "과학",
       "unit": "자극과 반응",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "자극과 반응",
+      "confidence": "high"
     }
   ],
-  "tagsNote": "감각뉴런-연합뉴런-운동뉴런 개수 관계 사실 확인 질문.",
-  "taggedAt": "2026-08-12T04:45:29.793Z"
+  "tagsNote": "감각뉴런-연합뉴런-운동뉴런 개수 관계 사실 확인 질문. [보완: 수평 보완(동일 이름)]",
+  "taggedAt": "2026-08-12T04:45:29.793Z",
+  "verticalReviewedAt": "2026-08-14T02:51:27.986Z"
 }

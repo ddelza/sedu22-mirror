@@ -24,8 +24,16 @@
       "subject": "과학",
       "unit": "식물과 에너지",
       "confidence": "low"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "식물과 에너지",
+      "confidence": "low"
     }
   ],
-  "tagsNote": "나뭇잎아트 2기 공개수업 개선판.",
-  "taggedAt": "2026-08-12T03:23:00.640Z"
+  "tagsNote": "나뭇잎아트 2기 공개수업 개선판. [보완: 수평 보완(동일 이름)]",
+  "taggedAt": "2026-08-12T03:23:00.640Z",
+  "verticalReviewedAt": "2026-08-14T02:22:15.351Z"
 }

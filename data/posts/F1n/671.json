@@ -24,8 +24,16 @@
       "subject": "과학",
       "unit": "물질의 구성",
       "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "물질의 구성",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "학기말 원소기호로 단어 만들기+글짓기 활동 공유.",
-  "taggedAt": "2026-08-12T08:51:15.986Z"
+  "tagsNote": "학기말 원소기호로 단어 만들기+글짓기 활동 공유. [보완: 수평 보완(동일 이름)]",
+  "taggedAt": "2026-08-12T08:51:15.986Z",
+  "verticalReviewedAt": "2026-08-14T02:57:38.709Z"
 }

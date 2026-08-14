@@ -23,8 +23,16 @@
       "subject": "과학",
       "unit": "자극과 반응",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "자극과 반응",
+      "confidence": "high"
     }
   ],
-  "tagsNote": "감각기/감각기관 용어 구분(무릎반사, 피부감각) 질문.",
-  "taggedAt": "2026-08-12T05:01:07.853Z"
+  "tagsNote": "감각기/감각기관 용어 구분(무릎반사, 피부감각) 질문. [보완: 수평 보완(동일 이름)]",
+  "taggedAt": "2026-08-12T05:01:07.853Z",
+  "verticalReviewedAt": "2026-08-14T02:56:06.661Z"
 }

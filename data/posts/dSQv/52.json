@@ -24,8 +24,16 @@
       "subject": "과학",
       "unit": "운동과 에너지",
       "confidence": "low"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "운동과 에너지",
+      "confidence": "low"
     }
   ],
-  "tagsNote": "종이비행기 만드는 방법 자료 요청.",
-  "taggedAt": "2026-08-12T03:27:43.419Z"
+  "tagsNote": "종이비행기 만드는 방법 자료 요청. [보완: 수평 보완(동일 이름)]",
+  "taggedAt": "2026-08-12T03:27:43.419Z",
+  "verticalReviewedAt": "2026-08-14T02:28:28.183Z"
 }

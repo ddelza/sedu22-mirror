@@ -23,8 +23,16 @@
       "subject": "과학",
       "unit": "열과 우리 생활",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "열",
+      "confidence": "high"
     }
   ],
-  "tagsNote": "어는점에서 방출 열에너지와 주변 온도 변화 설명 방법 질문.",
-  "taggedAt": "2026-08-12T04:50:37.963Z"
+  "tagsNote": "어는점에서 방출 열에너지와 주변 온도 변화 설명 방법 질문. [보완: 수평 보완]",
+  "taggedAt": "2026-08-12T04:50:37.963Z",
+  "verticalReviewedAt": "2026-08-14T02:52:42.122Z"
 }

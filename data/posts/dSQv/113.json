@@ -24,8 +24,16 @@
       "subject": "과학",
       "unit": "물질의 상태 변화",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "물질의 상태 변화",
+      "confidence": "high"
     }
   ],
-  "tagsNote": "액체질소 실험 실제 진행 결과 정리(구입비용 포함).",
-  "taggedAt": "2026-08-12T03:18:58.478Z"
+  "tagsNote": "액체질소 실험 실제 진행 결과 정리(구입비용 포함). [보완: 수평 보완: 2015만 있고 2022(동일 이름) 누락.]",
+  "taggedAt": "2026-08-12T03:18:58.478Z",
+  "verticalReviewedAt": "2026-08-14T02:17:53.319Z"
 }

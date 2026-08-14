@@ -23,8 +23,16 @@
       "subject": "과학",
       "unit": "운동과 에너지",
       "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "운동과 에너지",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "역학적 에너지 문제 풀이 검토 요청(세부내용 부족).",
-  "taggedAt": "2026-08-12T04:58:27.126Z"
+  "tagsNote": "역학적 에너지 문제 풀이 검토 요청(세부내용 부족). [보완: 수평 보완(동일 이름)]",
+  "taggedAt": "2026-08-12T04:58:27.126Z",
+  "verticalReviewedAt": "2026-08-14T02:54:42.161Z"
 }

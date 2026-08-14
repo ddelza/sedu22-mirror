@@ -29,8 +29,16 @@
       "category": "스마트 수업도구",
       "topic": "앱/프로그램",
       "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "운동과 에너지",
+      "confidence": "high"
     }
   ],
-  "tagsNote": "자바실험실 시뮬레이션(1단원 여러가지 운동) 활용 학습지 공유.",
-  "taggedAt": "2026-08-12T05:01:07.871Z"
+  "tagsNote": "자바실험실 시뮬레이션(1단원 여러가지 운동) 활용 학습지 공유. [보완: 수평 보완(동일 이름)]",
+  "taggedAt": "2026-08-12T05:01:07.871Z",
+  "verticalReviewedAt": "2026-08-14T02:56:06.667Z"
 }

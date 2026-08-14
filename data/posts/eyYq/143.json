@@ -24,8 +24,16 @@
       "subject": "과학",
       "unit": "지권의 변화",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "지권의 변화",
+      "confidence": "high"
     }
   ],
-  "tagsNote": "지진 발생 시 수영장 물결(쓰나미 축소판) 이미지.",
-  "taggedAt": "2026-08-12T04:19:43.122Z"
+  "tagsNote": "지진 발생 시 수영장 물결(쓰나미 축소판) 이미지. [보완: 수평 보완(동일 이름)]",
+  "taggedAt": "2026-08-12T04:19:43.122Z",
+  "verticalReviewedAt": "2026-08-14T02:34:03.046Z"
 }

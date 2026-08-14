@@ -24,8 +24,16 @@
       "subject": "과학",
       "unit": "빛과 파동",
       "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "빛과 파동",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "빛 주제 부스 운영 자료를 참고해 과학탐구실험 시간에 적용한 후기 공유.",
-  "taggedAt": "2026-08-12T08:56:23.379Z"
+  "tagsNote": "빛 주제 부스 운영 자료를 참고해 과학탐구실험 시간에 적용한 후기 공유. [보완: 수평 보완(동일 이름)]",
+  "taggedAt": "2026-08-12T08:56:23.379Z",
+  "verticalReviewedAt": "2026-08-14T02:59:00.424Z"
 }

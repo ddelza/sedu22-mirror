@@ -24,8 +24,16 @@
       "subject": "과학",
       "unit": "여러 가지 힘",
       "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "힘의 작용",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "빗면/마찰력 소재 문제해결력 이미지.",
-  "taggedAt": "2026-08-12T04:35:05.634Z"
+  "tagsNote": "빗면/마찰력 소재 문제해결력 이미지. [보완: 수평 보완]",
+  "taggedAt": "2026-08-12T04:35:05.634Z",
+  "verticalReviewedAt": "2026-08-14T02:49:05.911Z"
 }

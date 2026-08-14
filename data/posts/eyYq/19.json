@@ -24,8 +24,16 @@
       "subject": "과학",
       "unit": "생식과 유전",
       "confidence": "low"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "생식과 유전",
+      "confidence": "low"
     }
   ],
-  "tagsNote": "태아 발달 과정 gif.",
-  "taggedAt": "2026-08-12T04:22:41.856Z"
+  "tagsNote": "태아 발달 과정 gif. [보완: 수평 보완(동일 이름)]",
+  "taggedAt": "2026-08-12T04:22:41.856Z",
+  "verticalReviewedAt": "2026-08-14T02:47:07.280Z"
 }

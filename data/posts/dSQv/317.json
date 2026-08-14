@@ -24,8 +24,16 @@
       "subject": "과학",
       "unit": "동물과 에너지",
       "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "동물과 에너지",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "호흡 원리(교감/부교감 신경)로 스트레스 관리 배우는 수업.",
-  "taggedAt": "2026-08-12T03:26:25.406Z"
+  "tagsNote": "호흡 원리(교감/부교감 신경)로 스트레스 관리 배우는 수업. [보완: 수평 보완(동일 이름)]",
+  "taggedAt": "2026-08-12T03:26:25.406Z",
+  "verticalReviewedAt": "2026-08-14T02:27:31.724Z"
 }

@@ -24,8 +24,16 @@
       "subject": "과학",
       "unit": "재해·재난과 안전",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "재해·재난과 안전",
+      "confidence": "high"
     }
   ],
-  "tagsNote": "재해재난과 안전 단원 감염병 역학조사 모의활동(자유학년제).",
-  "taggedAt": "2026-08-12T00:25:53.983Z"
+  "tagsNote": "재해재난과 안전 단원 감염병 역학조사 모의활동(자유학년제). [보완: 수평 보완: 2015 '재해·재난과 안전'의 2022 대응(동일 이름) 누락.]",
+  "taggedAt": "2026-08-12T00:25:53.983Z",
+  "verticalReviewedAt": "2026-08-14T02:16:34.112Z"
 }

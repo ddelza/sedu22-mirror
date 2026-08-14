@@ -24,8 +24,16 @@
       "subject": "과학",
       "unit": "생물의 다양성",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "생물의 구성과 다양성",
+      "confidence": "high"
     }
   ],
-  "tagsNote": "국립생물자원관 생물다양성 영상을 활용한 독서 연계 수업 소개.",
-  "taggedAt": "2026-08-12T08:49:54.492Z"
+  "tagsNote": "국립생물자원관 생물다양성 영상을 활용한 독서 연계 수업 소개. [보완: 수평 보완]",
+  "taggedAt": "2026-08-12T08:49:54.492Z",
+  "verticalReviewedAt": "2026-08-14T02:57:38.700Z"
 }

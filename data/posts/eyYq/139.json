@@ -24,8 +24,16 @@
       "subject": "과학",
       "unit": "태양계",
       "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "태양계",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "화성에서 관측된 포보스 일식 현상.",
-  "taggedAt": "2026-08-12T04:19:43.117Z"
+  "tagsNote": "화성에서 관측된 포보스 일식 현상. [보완: 수평 보완(동일 이름)]",
+  "taggedAt": "2026-08-12T04:19:43.117Z",
+  "verticalReviewedAt": "2026-08-14T02:34:03.042Z"
 }

@@ -23,8 +23,16 @@
       "subject": "과학",
       "unit": "지권의 변화",
       "confidence": "low"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "지권의 변화",
+      "confidence": "low"
     }
   ],
-  "tagsNote": "암석/광물 실물 분류 수업의 교육적 가치에 대한 의견 개진.",
-  "taggedAt": "2026-08-12T04:55:49.839Z"
+  "tagsNote": "암석/광물 실물 분류 수업의 교육적 가치에 대한 의견 개진. [보완: 수평 보완(동일 이름)]",
+  "taggedAt": "2026-08-12T04:55:49.839Z",
+  "verticalReviewedAt": "2026-08-14T02:54:03.480Z"
 }

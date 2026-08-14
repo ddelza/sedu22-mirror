@@ -28,8 +28,16 @@
       "category": "스마트 수업도구",
       "topic": "앱/프로그램",
       "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "식물과 에너지",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "패들렛에 다육이 관찰기록(주1회 사진) 정리 방법 문의.",
-  "taggedAt": "2026-08-12T04:51:56.067Z"
+  "tagsNote": "패들렛에 다육이 관찰기록(주1회 사진) 정리 방법 문의. [보완: 수평 보완(동일 이름)]",
+  "taggedAt": "2026-08-12T04:51:56.067Z",
+  "verticalReviewedAt": "2026-08-14T02:52:42.126Z"
 }

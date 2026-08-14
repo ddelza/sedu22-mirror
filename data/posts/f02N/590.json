@@ -23,8 +23,16 @@
       "subject": "과학",
       "unit": "열과 우리 생활",
       "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "열",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "온도 하강과 열에너지 방출 관련 문제 오류 여부 질문.",
-  "taggedAt": "2026-08-12T04:51:56.094Z"
+  "tagsNote": "온도 하강과 열에너지 방출 관련 문제 오류 여부 질문. [보완: 수평 보완]",
+  "taggedAt": "2026-08-12T04:51:56.094Z",
+  "verticalReviewedAt": "2026-08-14T02:52:42.130Z"
 }

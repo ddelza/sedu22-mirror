@@ -29,8 +29,16 @@
       "subject": "과학",
       "unit": "물질의 구성",
       "confidence": "low"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "물질의 구성",
+      "confidence": "low"
     }
   ],
-  "tagsNote": "엔트리 프로그램(원소기호 퀴즈 등) 온라인 수업 활용.",
-  "taggedAt": "2026-08-12T03:58:15.998Z"
+  "tagsNote": "엔트리 프로그램(원소기호 퀴즈 등) 온라인 수업 활용. [보완: 수평 보완(동일 이름)]",
+  "taggedAt": "2026-08-12T03:58:15.998Z",
+  "verticalReviewedAt": "2026-08-14T02:32:54.199Z"
 }

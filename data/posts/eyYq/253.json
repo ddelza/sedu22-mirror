@@ -24,8 +24,16 @@
       "subject": "과학",
       "unit": "빛과 파동",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "빛과 파동",
+      "confidence": "high"
     }
   ],
-  "tagsNote": "투과색/필터 소재 빛과 파동 질문(해시태그 명시).",
-  "taggedAt": "2026-08-12T04:24:08.429Z"
+  "tagsNote": "투과색/필터 소재 빛과 파동 질문(해시태그 명시). [보완: 수평 보완(동일 이름)]",
+  "taggedAt": "2026-08-12T04:24:08.429Z",
+  "verticalReviewedAt": "2026-08-14T02:48:32.648Z"
 }

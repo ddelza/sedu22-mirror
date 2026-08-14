@@ -24,8 +24,16 @@
       "subject": "과학",
       "unit": "생물의 다양성",
       "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "생물의 구성과 다양성",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "곤충에 기생하는 곰팡이(균류) 좀비화 현상.",
-  "taggedAt": "2026-08-12T04:21:13.724Z"
+  "tagsNote": "곤충에 기생하는 곰팡이(균류) 좀비화 현상. [보완: 수평 보완]",
+  "taggedAt": "2026-08-12T04:21:13.724Z",
+  "verticalReviewedAt": "2026-08-14T02:34:03.048Z"
 }

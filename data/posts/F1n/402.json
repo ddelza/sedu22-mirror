@@ -24,8 +24,16 @@
       "subject": "과학",
       "unit": "물질의 특성",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "물질의 특성",
+      "confidence": "high"
     }
   ],
-  "tagsNote": "중2 용해도/밀도 단원 연구수업 실험 아이디어 요청.",
-  "taggedAt": "2026-08-12T08:46:03.984Z"
+  "tagsNote": "중2 용해도/밀도 단원 연구수업 실험 아이디어 요청. [보완: 수평 보완(동일 이름)]",
+  "taggedAt": "2026-08-12T08:46:03.984Z",
+  "verticalReviewedAt": "2026-08-14T02:56:55.501Z"
 }

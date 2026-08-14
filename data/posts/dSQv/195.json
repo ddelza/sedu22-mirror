@@ -24,8 +24,16 @@
       "subject": "과학",
       "unit": "과학기술과 인류 문명",
       "confidence": "low"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "과학과 인류의 지속가능한 삶",
+      "confidence": "low"
     }
   ],
-  "tagsNote": "생활과학 주제선택 미래식량 영상.",
-  "taggedAt": "2026-08-12T03:21:38.466Z"
+  "tagsNote": "생활과학 주제선택 미래식량 영상. [보완: 수평 보완]",
+  "taggedAt": "2026-08-12T03:21:38.466Z",
+  "verticalReviewedAt": "2026-08-14T02:20:33.479Z"
 }

@@ -29,8 +29,16 @@
       "subject": "과학",
       "unit": "동물과 에너지",
       "confidence": "low"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "동물과 에너지",
+      "confidence": "low"
     }
   ],
-  "tagsNote": "제미나이로 만든 혈액순환 과정 시뮬레이션(바이브코딩1).",
-  "taggedAt": "2026-08-12T03:55:07.764Z"
+  "tagsNote": "제미나이로 만든 혈액순환 과정 시뮬레이션(바이브코딩1). [보완: 수평 보완(동일 이름)]",
+  "taggedAt": "2026-08-12T03:55:07.764Z",
+  "verticalReviewedAt": "2026-08-14T02:31:23.321Z"
 }

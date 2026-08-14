@@ -24,8 +24,16 @@
       "subject": "과학",
       "unit": "물질의 상태 변화",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "물질의 상태 변화",
+      "confidence": "high"
     }
   ],
-  "tagsNote": "분자운동과 상태변화 나만의 책 만들기(자유학기 시작 수업).",
-  "taggedAt": "2026-08-12T03:27:43.422Z"
+  "tagsNote": "분자운동과 상태변화 나만의 책 만들기(자유학기 시작 수업). [보완: 수평 보완(동일 이름)]",
+  "taggedAt": "2026-08-12T03:27:43.422Z",
+  "verticalReviewedAt": "2026-08-14T02:29:05.130Z"
 }

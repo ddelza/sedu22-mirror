@@ -24,8 +24,16 @@
       "subject": "과학",
       "unit": "식물과 에너지",
       "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "식물과 에너지",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "현미경으로 채소/과일 물관 찾기 연구수업.",
-  "taggedAt": "2026-08-12T03:27:43.402Z"
+  "tagsNote": "현미경으로 채소/과일 물관 찾기 연구수업. [보완: 수평 보완(동일 이름)]",
+  "taggedAt": "2026-08-12T03:27:43.402Z",
+  "verticalReviewedAt": "2026-08-14T02:28:28.172Z"
 }

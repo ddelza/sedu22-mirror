@@ -23,8 +23,16 @@
       "subject": "과학",
       "unit": "물질의 상태 변화",
       "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "물질의 상태 변화",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "용해와 확산의 차이(잉크/코코아 사례) 개념 질문.",
-  "taggedAt": "2026-08-12T04:54:27.576Z"
+  "tagsNote": "용해와 확산의 차이(잉크/코코아 사례) 개념 질문. [보완: 수평 보완(동일 이름)]",
+  "taggedAt": "2026-08-12T04:54:27.576Z",
+  "verticalReviewedAt": "2026-08-14T02:53:27.582Z"
 }

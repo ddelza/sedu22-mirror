@@ -24,8 +24,16 @@
       "subject": "과학",
       "unit": "운동과 에너지",
       "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "운동과 에너지",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "중2 일과 에너지(골드버그 장치) 연계 자투리시간 뮤직비디오 공유.",
-  "taggedAt": "2026-08-12T08:47:25.991Z"
+  "tagsNote": "중2 일과 에너지(골드버그 장치) 연계 자투리시간 뮤직비디오 공유. [보완: 수평 보완(동일 이름)]",
+  "taggedAt": "2026-08-12T08:47:25.991Z",
+  "verticalReviewedAt": "2026-08-14T02:56:55.506Z"
 }

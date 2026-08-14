@@ -23,8 +23,16 @@
       "subject": "과학",
       "unit": "물질의 특성",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "물질의 특성",
+      "confidence": "high"
     }
   ],
-  "tagsNote": "용해도 값의 단위 표기 여부 질문.",
-  "taggedAt": "2026-08-12T04:59:41.460Z"
+  "tagsNote": "용해도 값의 단위 표기 여부 질문. [보완: 수평 보완(동일 이름)]",
+  "taggedAt": "2026-08-12T04:59:41.460Z",
+  "verticalReviewedAt": "2026-08-14T02:55:18.987Z"
 }

@@ -29,8 +29,16 @@
       "subject": "과학",
       "unit": "에너지 전환과 보존",
       "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "전기와 자기",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "환경동아리 에너지 절약 자료(구글폼).",
-  "taggedAt": "2026-08-12T03:23:00.627Z"
+  "tagsNote": "환경동아리 에너지 절약 자료(구글폼). [보완: 수평 보완: 전기 에너지 절약 소재라 2022 대응은 '전기와 자기'.]",
+  "taggedAt": "2026-08-12T03:23:00.627Z",
+  "verticalReviewedAt": "2026-08-14T02:22:15.343Z"
 }

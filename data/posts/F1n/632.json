@@ -24,8 +24,16 @@
       "subject": "과학",
       "unit": "전기와 자기",
       "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "전기와 자기",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "영재/동아리 수업용 LED 아크릴 무드등 만들기 활동 공유.",
-  "taggedAt": "2026-08-12T08:51:15.945Z"
+  "tagsNote": "영재/동아리 수업용 LED 아크릴 무드등 만들기 활동 공유. [보완: 수평 보완(동일 이름)]",
+  "taggedAt": "2026-08-12T08:51:15.945Z",
+  "verticalReviewedAt": "2026-08-14T02:57:38.707Z"
 }

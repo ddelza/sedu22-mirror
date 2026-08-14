@@ -24,8 +24,16 @@
       "subject": "과학",
       "unit": "식물과 에너지",
       "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "식물과 에너지",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "도깨비풀 씨앗 산포(번식) 생태 이야기.",
-  "taggedAt": "2026-08-12T04:24:08.415Z"
+  "tagsNote": "도깨비풀 씨앗 산포(번식) 생태 이야기. [보완: 수평 보완(동일 이름)]",
+  "taggedAt": "2026-08-12T04:24:08.415Z",
+  "verticalReviewedAt": "2026-08-14T02:48:32.639Z"
 }

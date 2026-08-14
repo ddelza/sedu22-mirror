@@ -31,8 +31,16 @@
       "subject": "과학",
       "unit": "별과 우주",
       "confidence": "low"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "별과 우주",
+      "confidence": "low"
     }
   ],
-  "tagsNote": "별똥별(유성) 색깔과 불꽃반응/에너지준위 관계.",
-  "taggedAt": "2026-08-12T04:19:43.127Z"
+  "tagsNote": "별똥별(유성) 색깔과 불꽃반응/에너지준위 관계. [보완: 수평 보완(동일 이름)]",
+  "taggedAt": "2026-08-12T04:19:43.127Z",
+  "verticalReviewedAt": "2026-08-14T02:34:03.048Z"
 }

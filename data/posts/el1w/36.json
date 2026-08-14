@@ -24,8 +24,16 @@
       "subject": "과학",
       "unit": "지권의 변화",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "지권의 변화",
+      "confidence": "high"
     }
   ],
-  "tagsNote": "광물 단원 영상/활동지/형성평가.",
-  "taggedAt": "2026-08-12T03:30:04.341Z"
+  "tagsNote": "광물 단원 영상/활동지/형성평가. [보완: 수평 보완(동일 이름)]",
+  "taggedAt": "2026-08-12T03:30:04.341Z",
+  "verticalReviewedAt": "2026-08-14T02:29:05.148Z"
 }

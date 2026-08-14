@@ -23,8 +23,16 @@
       "subject": "과학",
       "unit": "생식과 유전",
       "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "생식과 유전",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "태아 성 결정(원시 생식소) 관련 사실 확인 요청.",
-  "taggedAt": "2026-08-12T04:43:00.473Z"
+  "tagsNote": "태아 성 결정(원시 생식소) 관련 사실 확인 요청. [보완: 수평 보완(동일 이름)]",
+  "taggedAt": "2026-08-12T04:43:00.473Z",
+  "verticalReviewedAt": "2026-08-14T02:50:53.538Z"
 }

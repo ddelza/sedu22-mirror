@@ -24,8 +24,16 @@
       "subject": "과학",
       "unit": "전기와 자기",
       "confidence": "low"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "전기와 자기",
+      "confidence": "low"
     }
   ],
-  "tagsNote": "전기 문명 소재 이미지.",
-  "taggedAt": "2026-08-12T04:22:41.854Z"
+  "tagsNote": "전기 문명 소재 이미지. [보완: 수평 보완(동일 이름)]",
+  "taggedAt": "2026-08-12T04:22:41.854Z",
+  "verticalReviewedAt": "2026-08-14T02:47:07.279Z"
 }

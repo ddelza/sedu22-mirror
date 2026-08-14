@@ -24,8 +24,16 @@
       "subject": "과학",
       "unit": "별과 우주",
       "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "별과 우주",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "캡차 이미지 속 별/항성/태양 오개념.",
-  "taggedAt": "2026-08-12T04:24:08.421Z"
+  "tagsNote": "캡차 이미지 속 별/항성/태양 오개념. [보완: 수평 보완(동일 이름)]",
+  "taggedAt": "2026-08-12T04:24:08.421Z",
+  "verticalReviewedAt": "2026-08-14T02:48:32.644Z"
 }

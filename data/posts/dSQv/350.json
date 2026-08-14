@@ -24,8 +24,16 @@
       "subject": "과학",
       "unit": "여러 가지 힘",
       "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "힘의 작용",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "물총/비행기 만들기(놀이를 통한 수업).",
-  "taggedAt": "2026-08-12T03:26:25.456Z"
+  "tagsNote": "물총/비행기 만들기(놀이를 통한 수업). [보완: 수평 보완]",
+  "taggedAt": "2026-08-12T03:26:25.456Z",
+  "verticalReviewedAt": "2026-08-14T02:27:31.738Z"
 }

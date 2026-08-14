@@ -24,8 +24,16 @@
       "subject": "과학",
       "unit": "태양계",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "태양계",
+      "confidence": "high"
     }
   ],
-  "tagsNote": "2021년 월식 사진 공유 게시글.",
-  "taggedAt": "2026-08-12T04:35:05.657Z"
+  "tagsNote": "2021년 월식 사진 공유 게시글. [보완: 수평 보완(동일 이름)]",
+  "taggedAt": "2026-08-12T04:35:05.657Z",
+  "verticalReviewedAt": "2026-08-14T02:49:05.917Z"
 }

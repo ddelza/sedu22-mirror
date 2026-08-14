@@ -24,8 +24,16 @@
       "subject": "과학",
       "unit": "열과 우리 생활",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "열",
+      "confidence": "high"
     }
   ],
-  "tagsNote": "생수 열평형(빨리 미지근해짐) 사례.",
-  "taggedAt": "2026-08-12T04:21:13.814Z"
+  "tagsNote": "생수 열평형(빨리 미지근해짐) 사례. [보완: 수평 보완]",
+  "taggedAt": "2026-08-12T04:21:13.814Z",
+  "verticalReviewedAt": "2026-08-14T02:47:07.275Z"
 }

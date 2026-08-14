@@ -23,8 +23,16 @@
       "subject": "과학",
       "unit": "운동과 에너지",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "운동과 에너지",
+      "confidence": "high"
     }
   ],
-  "tagsNote": "자유낙하 지도 전 뉴턴 가속도 법칙(F=ma) 도입 방식 의견 요청.",
-  "taggedAt": "2026-08-12T04:44:11.390Z"
+  "tagsNote": "자유낙하 지도 전 뉴턴 가속도 법칙(F=ma) 도입 방식 의견 요청. [보완: 수평 보완(동일 이름)]",
+  "taggedAt": "2026-08-12T04:44:11.390Z",
+  "verticalReviewedAt": "2026-08-14T02:51:27.985Z"
 }

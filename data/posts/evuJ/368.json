@@ -29,8 +29,16 @@
       "subject": "과학",
       "unit": "열과 우리 생활",
       "confidence": "low"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "열",
+      "confidence": "low"
     }
   ],
-  "tagsNote": "제미나이 Canvas 실험설계(필름통 온도계) AI 피드백 생성기.",
-  "taggedAt": "2026-08-12T03:55:07.799Z"
+  "tagsNote": "제미나이 Canvas 실험설계(필름통 온도계) AI 피드백 생성기. [보완: 수평 보완]",
+  "taggedAt": "2026-08-12T03:55:07.799Z",
+  "verticalReviewedAt": "2026-08-14T02:32:00.655Z"
 }

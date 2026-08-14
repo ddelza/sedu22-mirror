@@ -24,8 +24,16 @@
       "subject": "과학",
       "unit": "동물과 에너지",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "동물과 에너지",
+      "confidence": "high"
     }
   ],
-  "tagsNote": "중2 순환 단원 학생 참여형 수업 아이디어 요청.",
-  "taggedAt": "2026-08-12T08:57:43.706Z"
+  "tagsNote": "중2 순환 단원 학생 참여형 수업 아이디어 요청. [보완: 수평 보완(동일 이름)]",
+  "taggedAt": "2026-08-12T08:57:43.706Z",
+  "verticalReviewedAt": "2026-08-14T02:59:00.434Z"
 }

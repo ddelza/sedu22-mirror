@@ -23,8 +23,16 @@
       "subject": "과학",
       "unit": "기권과 날씨",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "날씨와 기후변화",
+      "confidence": "high"
     }
   ],
-  "tagsNote": "습도 계산 서답형 소수점 자리 채점 기준 문의.",
-  "taggedAt": "2026-08-12T04:48:14.890Z"
+  "tagsNote": "습도 계산 서답형 소수점 자리 채점 기준 문의. [보완: 수평 보완]",
+  "taggedAt": "2026-08-12T04:48:14.890Z",
+  "verticalReviewedAt": "2026-08-14T02:52:05.429Z"
 }

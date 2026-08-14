@@ -24,8 +24,16 @@
       "subject": "과학",
       "unit": "여러 가지 힘",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "힘의 작용",
+      "confidence": "high"
     }
   ],
-  "tagsNote": "양력/중력/추진력/저항력 설명 후 종이비행기 날리기 대회 활동 공유.",
-  "taggedAt": "2026-08-12T08:44:53.480Z"
+  "tagsNote": "양력/중력/추진력/저항력 설명 후 종이비행기 날리기 대회 활동 공유. [보완: 수평 보완]",
+  "taggedAt": "2026-08-12T08:44:53.480Z",
+  "verticalReviewedAt": "2026-08-14T02:56:55.492Z"
 }

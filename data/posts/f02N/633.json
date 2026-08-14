@@ -23,8 +23,16 @@
       "subject": "과학",
       "unit": "별과 우주",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "별과 우주",
+      "confidence": "high"
     }
   ],
-  "tagsNote": "절대등급 개념(10pc 이동시 밝기 변화) 이해 질문.",
-  "taggedAt": "2026-08-12T04:53:16.395Z"
+  "tagsNote": "절대등급 개념(10pc 이동시 밝기 변화) 이해 질문. [보완: 수평 보완(동일 이름)]",
+  "taggedAt": "2026-08-12T04:53:16.395Z",
+  "verticalReviewedAt": "2026-08-14T02:53:27.561Z"
 }

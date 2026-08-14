@@ -23,8 +23,16 @@
       "subject": "과학",
       "unit": "생식과 유전",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "생식과 유전",
+      "confidence": "high"
     }
   ],
-  "tagsNote": "중3 감수분열 단계 판별 문제(염색분체 색깔) 출제 검토 요청.",
-  "taggedAt": "2026-08-12T04:51:56.118Z"
+  "tagsNote": "중3 감수분열 단계 판별 문제(염색분체 색깔) 출제 검토 요청. [보완: 수평 보완(동일 이름)]",
+  "taggedAt": "2026-08-12T04:51:56.118Z",
+  "verticalReviewedAt": "2026-08-14T02:52:42.132Z"
 }

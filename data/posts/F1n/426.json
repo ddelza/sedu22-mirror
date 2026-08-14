@@ -24,8 +24,16 @@
       "subject": "과학",
       "unit": "생물의 다양성",
       "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "생물의 구성과 다양성",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "과자 분류계통수 만들기 모둠 발표수업 진행방법 공유.",
-  "taggedAt": "2026-08-12T08:46:03.995Z"
+  "tagsNote": "과자 분류계통수 만들기 모둠 발표수업 진행방법 공유. [보완: 수평 보완]",
+  "taggedAt": "2026-08-12T08:46:03.995Z",
+  "verticalReviewedAt": "2026-08-14T02:56:55.502Z"
 }

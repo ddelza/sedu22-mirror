@@ -24,8 +24,16 @@
       "subject": "과학",
       "unit": "동물과 에너지",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "동물과 에너지",
+      "confidence": "high"
     }
   ],
-  "tagsNote": "소화/순환/호흡 학습 후 과학만화 말풍선 달기 활동 사례 공유.",
-  "taggedAt": "2026-08-12T05:02:24.692Z"
+  "tagsNote": "소화/순환/호흡 학습 후 과학만화 말풍선 달기 활동 사례 공유. [보완: 수평 보완(동일 이름)]",
+  "taggedAt": "2026-08-12T05:02:24.692Z",
+  "verticalReviewedAt": "2026-08-14T02:56:06.673Z"
 }

@@ -29,8 +29,16 @@
       "subject": "과학",
       "unit": "동물과 에너지",
       "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "동물과 에너지",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "오징어 해부(방과후+자율동아리 연계) 실험.",
-  "taggedAt": "2026-08-12T03:20:18.617Z"
+  "tagsNote": "오징어 해부(방과후+자율동아리 연계) 실험. [보완: 수평 보완(동일 이름)]",
+  "taggedAt": "2026-08-12T03:20:18.617Z",
+  "verticalReviewedAt": "2026-08-14T02:19:07.501Z"
 }

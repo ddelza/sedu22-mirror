@@ -31,8 +31,16 @@
       "subject": "물리학Ⅰ",
       "unit": "물질과 전자기장",
       "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "전기와 자기",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "나침반 바늘이 지구 자기장을 무시하는 실험 설계 질문.",
-  "taggedAt": "2026-08-12T03:34:06.474Z"
+  "tagsNote": "나침반 바늘이 지구 자기장을 무시하는 실험 설계 질문. [보완: 수평 보완(동일 이름)]",
+  "taggedAt": "2026-08-12T03:34:06.474Z",
+  "verticalReviewedAt": "2026-08-14T02:29:48.760Z"
 }

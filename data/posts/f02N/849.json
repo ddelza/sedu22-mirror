@@ -23,8 +23,16 @@
       "subject": "과학",
       "unit": "화학 반응의 규칙과 에너지 변화",
       "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "화학 반응의 규칙성",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "촛불 겉불꽃 색깔과 완전연소 온도 관계에 대한 관찰 오차 질문.",
-  "taggedAt": "2026-08-12T04:57:09.288Z"
+  "tagsNote": "촛불 겉불꽃 색깔과 완전연소 온도 관계에 대한 관찰 오차 질문. [보완: 수평 보완]",
+  "taggedAt": "2026-08-12T04:57:09.288Z",
+  "verticalReviewedAt": "2026-08-14T02:54:42.160Z"
 }

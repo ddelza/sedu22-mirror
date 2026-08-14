@@ -24,8 +24,16 @@
       "subject": "과학",
       "unit": "빛과 파동",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "빛과 파동",
+      "confidence": "high"
     }
   ],
-  "tagsNote": "학기말 빛(홀로스펙스 필름) 주제 부스 운영 자료 및 팁 공유.",
-  "taggedAt": "2026-08-12T08:56:23.370Z"
+  "tagsNote": "학기말 빛(홀로스펙스 필름) 주제 부스 운영 자료 및 팁 공유. [보완: 수평 보완(동일 이름)]",
+  "taggedAt": "2026-08-12T08:56:23.370Z",
+  "verticalReviewedAt": "2026-08-14T02:58:19.741Z"
 }

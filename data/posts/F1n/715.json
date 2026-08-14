@@ -24,8 +24,16 @@
       "subject": "과학",
       "unit": "생물의 다양성",
       "confidence": "low"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "생물의 구성과 다양성",
+      "confidence": "low"
     }
   ],
-  "tagsNote": "현미경 관찰과 숨은그림찾기를 결합한 학기말 활동 공유.",
-  "taggedAt": "2026-08-12T08:53:47.273Z"
+  "tagsNote": "현미경 관찰과 숨은그림찾기를 결합한 학기말 활동 공유. [보완: 수평 보완]",
+  "taggedAt": "2026-08-12T08:53:47.273Z",
+  "verticalReviewedAt": "2026-08-14T02:58:19.732Z"
 }

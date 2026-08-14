@@ -24,8 +24,16 @@
       "subject": "과학",
       "unit": "여러 가지 힘",
       "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "힘의 작용",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "샤프심 위에 책 올리기(하중 구조) 모둠게임 활동 공유.",
-  "taggedAt": "2026-08-12T08:44:53.483Z"
+  "tagsNote": "샤프심 위에 책 올리기(하중 구조) 모둠게임 활동 공유. [보완: 수평 보완]",
+  "taggedAt": "2026-08-12T08:44:53.483Z",
+  "verticalReviewedAt": "2026-08-14T02:56:55.492Z"
 }

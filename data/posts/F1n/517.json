@@ -24,8 +24,16 @@
       "subject": "과학",
       "unit": "식물과 에너지",
       "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "식물과 에너지",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "광합성 영상제작 프로젝트 및 빅히스토리 연계 수업 공유.",
-  "taggedAt": "2026-08-12T08:48:40.810Z"
+  "tagsNote": "광합성 영상제작 프로젝트 및 빅히스토리 연계 수업 공유. [보완: 수평 보완(동일 이름)]",
+  "taggedAt": "2026-08-12T08:48:40.810Z",
+  "verticalReviewedAt": "2026-08-14T02:57:38.696Z"
 }

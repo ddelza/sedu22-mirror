@@ -24,8 +24,16 @@
       "subject": "과학",
       "unit": "생물의 다양성",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "생물의 구성과 다양성",
+      "confidence": "high"
     }
   ],
-  "tagsNote": "생명의 나무(진화, 생물5계) 자료.",
-  "taggedAt": "2026-08-12T04:35:05.663Z"
+  "tagsNote": "생명의 나무(진화, 생물5계) 자료. [보완: 수평 보완]",
+  "taggedAt": "2026-08-12T04:35:05.663Z",
+  "verticalReviewedAt": "2026-08-14T02:49:42.214Z"
 }

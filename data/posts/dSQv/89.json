@@ -29,8 +29,16 @@
       "subject": "과학",
       "unit": "동물과 에너지",
       "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "동물과 에너지",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "마른멸치 해부(동아리 시간 예정).",
-  "taggedAt": "2026-08-12T03:29:01.336Z"
+  "tagsNote": "마른멸치 해부(동아리 시간 예정). [보완: 수평 보완(동일 이름)]",
+  "taggedAt": "2026-08-12T03:29:01.336Z",
+  "verticalReviewedAt": "2026-08-14T02:29:05.137Z"
 }

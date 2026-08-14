@@ -23,8 +23,16 @@
       "subject": "과학",
       "unit": "기권과 날씨",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "날씨와 기후변화",
+      "confidence": "high"
     }
   ],
-  "tagsNote": "여름철 날씨 특징 서술형(장마/태풍 관련 기단) 채점 고민.",
-  "taggedAt": "2026-08-12T04:55:49.842Z"
+  "tagsNote": "여름철 날씨 특징 서술형(장마/태풍 관련 기단) 채점 고민. [보완: 수평 보완]",
+  "taggedAt": "2026-08-12T04:55:49.842Z",
+  "verticalReviewedAt": "2026-08-14T02:54:03.481Z"
 }

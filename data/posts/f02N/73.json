@@ -23,8 +23,16 @@
       "subject": "과학",
       "unit": "열과 우리 생활",
       "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "열",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "온도계에 알코올이 사용되는 이유(열팽창 특성) 질문.",
-  "taggedAt": "2026-08-12T04:54:27.580Z"
+  "tagsNote": "온도계에 알코올이 사용되는 이유(열팽창 특성) 질문. [보완: 수평 보완]",
+  "taggedAt": "2026-08-12T04:54:27.580Z",
+  "verticalReviewedAt": "2026-08-14T02:53:27.583Z"
 }

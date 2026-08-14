@@ -24,8 +24,16 @@
       "subject": "과학",
       "unit": "여러 가지 힘",
       "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "힘의 작용",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "카프라 쌓기(무게중심) 활동.",
-  "taggedAt": "2026-08-12T03:20:18.614Z"
+  "tagsNote": "카프라 쌓기(무게중심) 활동. [보완: 수평 보완]",
+  "taggedAt": "2026-08-12T03:20:18.614Z",
+  "verticalReviewedAt": "2026-08-14T02:19:07.499Z"
 }

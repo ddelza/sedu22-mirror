@@ -23,8 +23,16 @@
       "subject": "과학",
       "unit": "생식과 유전",
       "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "생식과 유전",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "식물의 성염색체 존재 여부 질문.",
-  "taggedAt": "2026-08-12T04:45:29.818Z"
+  "tagsNote": "식물의 성염색체 존재 여부 질문. [보완: 수평 보완(동일 이름)]",
+  "taggedAt": "2026-08-12T04:45:29.818Z",
+  "verticalReviewedAt": "2026-08-14T02:51:27.989Z"
 }

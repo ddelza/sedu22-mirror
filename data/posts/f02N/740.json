@@ -23,8 +23,16 @@
       "subject": "과학",
       "unit": "물질의 특성",
       "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "물질의 특성",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "요소 결정 벚꽃 만들기 전시 시 결정 유지기간 문의.",
-  "taggedAt": "2026-08-12T04:55:49.802Z"
+  "tagsNote": "요소 결정 벚꽃 만들기 전시 시 결정 유지기간 문의. [보완: 수평 보완(동일 이름)]",
+  "taggedAt": "2026-08-12T04:55:49.802Z",
+  "verticalReviewedAt": "2026-08-14T02:54:03.462Z"
 }

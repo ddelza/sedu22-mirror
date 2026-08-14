@@ -24,8 +24,16 @@
       "subject": "과학",
       "unit": "수권과 해수의 순환",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "수권과 해수의 순환",
+      "confidence": "high"
     }
   ],
-  "tagsNote": "차이나는클라스(바다) 클립영상 퀴즈(중2 7단원 연계).",
-  "taggedAt": "2026-08-12T03:50:05.359Z"
+  "tagsNote": "차이나는클라스(바다) 클립영상 퀴즈(중2 7단원 연계). [보완: 수평 보완(동일 이름)]",
+  "taggedAt": "2026-08-12T03:50:05.359Z",
+  "verticalReviewedAt": "2026-08-14T02:30:33.650Z"
 }

@@ -23,8 +23,16 @@
       "subject": "과학",
       "unit": "물질의 특성",
       "confidence": "low"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "물질의 특성",
+      "confidence": "low"
     }
   ],
-  "tagsNote": "우블렉(비뉴턴유체) 원리를 분자 수준에서 설명하는 방법 질문.",
-  "taggedAt": "2026-08-12T04:50:37.954Z"
+  "tagsNote": "우블렉(비뉴턴유체) 원리를 분자 수준에서 설명하는 방법 질문. [보완: 수평 보완(동일 이름)]",
+  "taggedAt": "2026-08-12T04:50:37.954Z",
+  "verticalReviewedAt": "2026-08-14T02:52:42.121Z"
 }

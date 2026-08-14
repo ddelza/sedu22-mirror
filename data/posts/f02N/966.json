@@ -23,8 +23,16 @@
       "subject": "과학",
       "unit": "기권과 날씨",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "날씨와 기후변화",
+      "confidence": "high"
     }
   ],
-  "tagsNote": "장마전선을 형성하는 기단(시베리아/오호츠크해/북태평양) 판별 질문.",
-  "taggedAt": "2026-08-12T05:01:07.841Z"
+  "tagsNote": "장마전선을 형성하는 기단(시베리아/오호츠크해/북태평양) 판별 질문. [보완: 수평 보완]",
+  "taggedAt": "2026-08-12T05:01:07.841Z",
+  "verticalReviewedAt": "2026-08-14T02:55:18.998Z"
 }

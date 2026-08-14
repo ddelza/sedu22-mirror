@@ -29,8 +29,16 @@
       "category": "스마트 수업도구",
       "topic": "생성형 AI 도구",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "지권의 변화",
+      "confidence": "high"
     }
   ],
-  "tagsNote": "암석 분류 알고리즘 웹앱(중2과학 2단원).",
-  "taggedAt": "2026-08-12T03:56:56.759Z"
+  "tagsNote": "암석 분류 알고리즘 웹앱(중2과학 2단원). [보완: 수평 보완(동일 이름)]",
+  "taggedAt": "2026-08-12T03:56:56.759Z",
+  "verticalReviewedAt": "2026-08-14T02:32:00.664Z"
 }

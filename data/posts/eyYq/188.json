@@ -24,8 +24,16 @@
       "subject": "과학",
       "unit": "생물의 다양성",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "생물의 구성과 다양성",
+      "confidence": "high"
     }
   ],
-  "tagsNote": "토마토 품종 다양성(육종) 사진.",
-  "taggedAt": "2026-08-12T04:22:41.851Z"
+  "tagsNote": "토마토 품종 다양성(육종) 사진. [보완: 수평 보완]",
+  "taggedAt": "2026-08-12T04:22:41.851Z",
+  "verticalReviewedAt": "2026-08-14T02:47:07.278Z"
 }

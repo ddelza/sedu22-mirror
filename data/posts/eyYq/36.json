@@ -24,8 +24,16 @@
       "subject": "과학",
       "unit": "생식과 유전",
       "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "생식과 유전",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "본능/학습 행동(유전 이야깃거리) 시리즈.",
-  "taggedAt": "2026-08-12T04:35:05.632Z"
+  "tagsNote": "본능/학습 행동(유전 이야깃거리) 시리즈. [보완: 수평 보완(동일 이름)]",
+  "taggedAt": "2026-08-12T04:35:05.632Z",
+  "verticalReviewedAt": "2026-08-14T02:49:05.910Z"
 }

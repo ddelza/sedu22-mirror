@@ -23,8 +23,16 @@
       "subject": "과학",
       "unit": "운동과 에너지",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "운동과 에너지",
+      "confidence": "high"
     }
   ],
-  "tagsNote": "일과 에너지 단원 문제의 마찰력 조건 제시 여부 관련 질문.",
-  "taggedAt": "2026-08-12T04:58:27.134Z"
+  "tagsNote": "일과 에너지 단원 문제의 마찰력 조건 제시 여부 관련 질문. [보완: 수평 보완(동일 이름)]",
+  "taggedAt": "2026-08-12T04:58:27.134Z",
+  "verticalReviewedAt": "2026-08-14T02:54:42.173Z"
 }

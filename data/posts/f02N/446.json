@@ -23,8 +23,16 @@
       "subject": "과학",
       "unit": "물질의 상태 변화",
       "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "물질의 상태 변화",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "물+에탄올 혼합 시 부피감소 현상 입자설 서술형 채점 문의.",
-  "taggedAt": "2026-08-12T04:48:14.914Z"
+  "tagsNote": "물+에탄올 혼합 시 부피감소 현상 입자설 서술형 채점 문의. [보완: 수평 보완(동일 이름)]",
+  "taggedAt": "2026-08-12T04:48:14.914Z",
+  "verticalReviewedAt": "2026-08-14T02:52:05.433Z"
 }

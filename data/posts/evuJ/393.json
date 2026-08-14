@@ -29,8 +29,16 @@
       "category": "스마트 수업도구",
       "topic": "생성형 AI 도구",
       "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "물질의 구성",
+      "confidence": "high"
     }
   ],
-  "tagsNote": "원자/분자/이온 학습 웹앱(비상교과서 4-2-1).",
-  "taggedAt": "2026-08-12T03:56:56.767Z"
+  "tagsNote": "원자/분자/이온 학습 웹앱(비상교과서 4-2-1). [보완: 수평 보완(동일 이름)]",
+  "taggedAt": "2026-08-12T03:56:56.767Z",
+  "verticalReviewedAt": "2026-08-14T02:32:00.668Z"
 }

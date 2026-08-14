@@ -24,8 +24,16 @@
       "subject": "과학",
       "unit": "에너지 전환과 보존",
       "confidence": "low"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "운동과 에너지",
+      "confidence": "low"
     }
   ],
-  "tagsNote": "역학적 에너지 소재 유머(요일 흐름 비유).",
-  "taggedAt": "2026-08-12T04:22:41.887Z"
+  "tagsNote": "역학적 에너지 소재 유머(요일 흐름 비유). [보완: 수평 보완: 역학적 에너지 언급으로 2022 '운동과 에너지' 단원과 연결.]",
+  "taggedAt": "2026-08-12T04:22:41.887Z",
+  "verticalReviewedAt": "2026-08-14T02:47:53.997Z"
 }

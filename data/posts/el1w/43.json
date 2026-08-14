@@ -24,8 +24,16 @@
       "subject": "과학",
       "unit": "생물의 다양성",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "생물의 구성과 다양성",
+      "confidence": "high"
     }
   ],
-  "tagsNote": "생물의 다양성 단원 영상(중1).",
-  "taggedAt": "2026-08-12T03:30:04.352Z"
+  "tagsNote": "생물의 다양성 단원 영상(중1). [보완: 수평 보완]",
+  "taggedAt": "2026-08-12T03:30:04.352Z",
+  "verticalReviewedAt": "2026-08-14T02:29:48.749Z"
 }

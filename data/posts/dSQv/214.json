@@ -24,8 +24,16 @@
       "subject": "과학",
       "unit": "생물의 구성과 다양성",
       "confidence": "low"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "생물의 다양성",
+      "confidence": "low"
     }
   ],
-  "tagsNote": "비즈로 박테리오파지 열쇠고리 만들기(코로나 연계).",
-  "taggedAt": "2026-08-12T03:21:38.488Z"
+  "tagsNote": "비즈로 박테리오파지 열쇠고리 만들기(코로나 연계). [보완: 수평 보완]",
+  "taggedAt": "2026-08-12T03:21:38.488Z",
+  "verticalReviewedAt": "2026-08-14T02:20:33.484Z"
 }

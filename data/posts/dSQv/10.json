@@ -24,8 +24,16 @@
       "subject": "과학",
       "unit": "생물의 구성과 다양성",
       "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "생물의 다양성",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "과일 세포(과육세포) 현미경 관찰 자유학기 수업.",
-  "taggedAt": "2026-08-12T03:18:58.465Z"
+  "tagsNote": "과일 세포(과육세포) 현미경 관찰 자유학기 수업. [보완: 수평 보완: 2022 '생물의 구성과 다양성'의 2015 대응('생물의 다양성') 누락.]",
+  "taggedAt": "2026-08-12T03:18:58.465Z",
+  "verticalReviewedAt": "2026-08-14T02:16:34.121Z"
 }

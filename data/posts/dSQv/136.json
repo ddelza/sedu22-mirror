@@ -31,8 +31,23 @@
       "subject": "과학",
       "unit": "물질의 특성",
       "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "과학과 인류의 지속가능한 삶",
+      "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "물질의 특성",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "과학과 주제선택 수업(적정기술+신소재).",
-  "taggedAt": "2026-08-12T03:18:58.498Z"
+  "tagsNote": "과학과 주제선택 수업(적정기술+신소재). [보완: 수평 보완: 2015 두 단원(과학기술과 인류 문명/물질의 특성)의 2022 대응 누락.]",
+  "taggedAt": "2026-08-12T03:18:58.498Z",
+  "verticalReviewedAt": "2026-08-14T02:17:53.333Z"
 }

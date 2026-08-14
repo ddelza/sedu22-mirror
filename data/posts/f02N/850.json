@@ -23,8 +23,16 @@
       "subject": "과학",
       "unit": "전기와 자기",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "전기와 자기",
+      "confidence": "high"
     }
   ],
-  "tagsNote": "중2 저항 혼합연결(병렬 공식 활용) 정량 문제 지도 고민.",
-  "taggedAt": "2026-08-12T04:57:09.289Z"
+  "tagsNote": "중2 저항 혼합연결(병렬 공식 활용) 정량 문제 지도 고민. [보완: 수평 보완(동일 이름)]",
+  "taggedAt": "2026-08-12T04:57:09.289Z",
+  "verticalReviewedAt": "2026-08-14T02:54:42.160Z"
 }

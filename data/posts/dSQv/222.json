@@ -24,8 +24,16 @@
       "subject": "과학",
       "unit": "빛과 파동",
       "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "빛과 파동",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "입체글씨 착시현상 MS Forms 퀴즈(218 관련).",
-  "taggedAt": "2026-08-12T03:21:38.496Z"
+  "tagsNote": "입체글씨 착시현상 MS Forms 퀴즈(218 관련). [보완: 수평 보완(동일 이름)]",
+  "taggedAt": "2026-08-12T03:21:38.496Z",
+  "verticalReviewedAt": "2026-08-14T02:20:33.489Z"
 }

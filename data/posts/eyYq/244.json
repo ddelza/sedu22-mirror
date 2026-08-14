@@ -24,8 +24,16 @@
       "subject": "과학",
       "unit": "물질의 특성",
       "confidence": "low"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "물질의 특성",
+      "confidence": "low"
     }
   ],
-  "tagsNote": "고래 젖(밀도/점도/소수성) 원리 이미지.",
-  "taggedAt": "2026-08-12T04:24:08.418Z"
+  "tagsNote": "고래 젖(밀도/점도/소수성) 원리 이미지. [보완: 수평 보완(동일 이름)]",
+  "taggedAt": "2026-08-12T04:24:08.418Z",
+  "verticalReviewedAt": "2026-08-14T02:48:32.642Z"
 }

@@ -29,8 +29,16 @@
       "subject": "과학",
       "unit": "기권과 날씨",
       "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "날씨와 기후변화",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "환경동아리 기후변화 자료(구글폼).",
-  "taggedAt": "2026-08-12T03:21:38.473Z"
+  "tagsNote": "환경동아리 기후변화 자료(구글폼). [보완: 수평 보완]",
+  "taggedAt": "2026-08-12T03:21:38.473Z",
+  "verticalReviewedAt": "2026-08-14T02:20:33.481Z"
 }

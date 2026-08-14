@@ -29,8 +29,16 @@
       "subject": "과학",
       "unit": "화학 반응의 규칙과 에너지 변화",
       "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "화학 반응의 규칙성",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "명탐정 코난 소재 산염기 지시약 동아리 활동.",
-  "taggedAt": "2026-08-12T03:26:25.419Z"
+  "tagsNote": "명탐정 코난 소재 산염기 지시약 동아리 활동. [보완: 수평 보완]",
+  "taggedAt": "2026-08-12T03:26:25.419Z",
+  "verticalReviewedAt": "2026-08-14T02:27:31.728Z"
 }

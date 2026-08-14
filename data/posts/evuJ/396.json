@@ -24,8 +24,16 @@
       "subject": "과학",
       "unit": "태양계",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "태양계",
+      "confidence": "high"
     }
   ],
-  "tagsNote": "행성 갤러그 게임 버전(395 후속).",
-  "taggedAt": "2026-08-12T03:56:56.772Z"
+  "tagsNote": "행성 갤러그 게임 버전(395 후속). [보완: 수평 보완(동일 이름)]",
+  "taggedAt": "2026-08-12T03:56:56.772Z",
+  "verticalReviewedAt": "2026-08-14T02:32:00.670Z"
 }

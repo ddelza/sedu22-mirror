@@ -24,8 +24,16 @@
       "subject": "과학",
       "unit": "여러 가지 힘",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "힘의 작용",
+      "confidence": "high"
     }
   ],
-  "tagsNote": "탄성력(슬링키) 묘기 이미지.",
-  "taggedAt": "2026-08-12T04:19:43.121Z"
+  "tagsNote": "탄성력(슬링키) 묘기 이미지. [보완: 수평 보완]",
+  "taggedAt": "2026-08-12T04:19:43.121Z",
+  "verticalReviewedAt": "2026-08-14T02:34:03.045Z"
 }

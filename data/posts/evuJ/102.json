@@ -24,8 +24,16 @@
       "subject": "과학",
       "unit": "여러 가지 힘",
       "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "힘의 작용",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "텐세그리티 만들기 온라인 과제(구조/힘).",
-  "taggedAt": "2026-08-12T03:47:18.789Z"
+  "tagsNote": "텐세그리티 만들기 온라인 과제(구조/힘). [보완: 수평 보완]",
+  "taggedAt": "2026-08-12T03:47:18.789Z",
+  "verticalReviewedAt": "2026-08-14T02:30:33.636Z"
 }

@@ -24,8 +24,16 @@
       "subject": "과학",
       "unit": "기체의 성질",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "기체의 성질",
+      "confidence": "high"
     }
   ],
-  "tagsNote": "중1 보일법칙/샤를법칙 스탑모션 앱 활용 공개수업 사례 공유.",
-  "taggedAt": "2026-08-12T08:59:09.251Z"
+  "tagsNote": "중1 보일법칙/샤를법칙 스탑모션 앱 활용 공개수업 사례 공유. [보완: 수평 보완(동일 이름)]",
+  "taggedAt": "2026-08-12T08:59:09.251Z",
+  "verticalReviewedAt": "2026-08-14T02:59:00.438Z"
 }

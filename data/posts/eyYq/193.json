@@ -24,8 +24,16 @@
       "subject": "과학",
       "unit": "태양계",
       "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "태양계",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "태양-수성 크기 비교 유머 이미지.",
-  "taggedAt": "2026-08-12T04:22:41.865Z"
+  "tagsNote": "태양-수성 크기 비교 유머 이미지. [보완: 수평 보완(동일 이름)]",
+  "taggedAt": "2026-08-12T04:22:41.865Z",
+  "verticalReviewedAt": "2026-08-14T02:47:07.283Z"
 }

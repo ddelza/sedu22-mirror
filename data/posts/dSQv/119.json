@@ -29,8 +29,16 @@
       "subject": "과학",
       "unit": "여러 가지 힘",
       "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "힘의 작용",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "4D프레임 키트 동아리 구조물 창작 활동.",
-  "taggedAt": "2026-08-12T03:18:58.482Z"
+  "tagsNote": "4D프레임 키트 동아리 구조물 창작 활동. [보완: 수평 보완: 2015 '여러 가지 힘'의 2022 대응('힘의 작용') 누락.]",
+  "taggedAt": "2026-08-12T03:18:58.482Z",
+  "verticalReviewedAt": "2026-08-14T02:17:53.323Z"
 }

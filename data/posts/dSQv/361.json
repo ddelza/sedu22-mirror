@@ -24,8 +24,23 @@
       "subject": "과학",
       "unit": "여러 가지 힘",
       "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "힘의 작용",
+      "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "고등학교",
+      "subject": "물리학Ⅱ",
+      "unit": "역학적 상호작용",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "오각형 무게중심 계산 오차 논의(360 후속).",
-  "taggedAt": "2026-08-12T03:27:43.378Z"
+  "tagsNote": "오각형 무게중심 계산 오차 논의(360 후속). [보완: 수평 보완 + 수직 보완: 무게중심 계산 오차에 관한 후속 논의, 고등학교 물리학Ⅱ '무게중심' 성취기준과 연결.]",
+  "taggedAt": "2026-08-12T03:27:43.378Z",
+  "verticalReviewedAt": "2026-08-14T02:28:28.169Z"
 }

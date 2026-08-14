@@ -24,8 +24,16 @@
       "subject": "과학",
       "unit": "동물과 에너지",
       "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "동물과 에너지",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "돼지심장 해부 시연(교사 대표 실시) 법적 가능 여부 질문.",
-  "taggedAt": "2026-08-12T03:50:05.383Z"
+  "tagsNote": "돼지심장 해부 시연(교사 대표 실시) 법적 가능 여부 질문. [보완: 수평 보완(동일 이름)]",
+  "taggedAt": "2026-08-12T03:50:05.383Z",
+  "verticalReviewedAt": "2026-08-14T02:31:23.311Z"
 }

@@ -24,8 +24,16 @@
       "subject": "과학",
       "unit": "태양계",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "태양계",
+      "confidence": "high"
     }
   ],
-  "tagsNote": "태양계 행성 자전 이미지.",
-  "taggedAt": "2026-08-12T04:21:13.748Z"
+  "tagsNote": "태양계 행성 자전 이미지. [보완: 수평 보완(동일 이름)]",
+  "taggedAt": "2026-08-12T04:21:13.748Z",
+  "verticalReviewedAt": "2026-08-14T02:34:38.497Z"
 }

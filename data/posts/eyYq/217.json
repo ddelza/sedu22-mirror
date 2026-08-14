@@ -24,8 +24,16 @@
       "subject": "과학",
       "unit": "태양계",
       "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "태양계",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "아날렘마(균시차) 소재 이미지.",
-  "taggedAt": "2026-08-12T04:22:41.906Z"
+  "tagsNote": "아날렘마(균시차) 소재 이미지. [보완: 수평 보완(동일 이름)]",
+  "taggedAt": "2026-08-12T04:22:41.906Z",
+  "verticalReviewedAt": "2026-08-14T02:47:54.001Z"
 }

@@ -24,8 +24,16 @@
       "subject": "과학",
       "unit": "태양계",
       "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "태양계",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "다누리 위치정보 연계 추석 보름달 촬영 챌린지 소개.",
-  "taggedAt": "2026-08-12T08:53:47.283Z"
+  "tagsNote": "다누리 위치정보 연계 추석 보름달 촬영 챌린지 소개. [보완: 수평 보완(동일 이름)]",
+  "taggedAt": "2026-08-12T08:53:47.283Z",
+  "verticalReviewedAt": "2026-08-14T02:58:19.733Z"
 }

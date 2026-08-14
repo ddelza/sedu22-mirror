@@ -23,8 +23,16 @@
       "subject": "과학",
       "unit": "태양계",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "태양계",
+      "confidence": "high"
     }
   ],
-  "tagsNote": "지구 공전에 의한 현상 서술형(계절변화만 기재 시) 채점 기준 문의.",
-  "taggedAt": "2026-08-12T05:01:07.857Z"
+  "tagsNote": "지구 공전에 의한 현상 서술형(계절변화만 기재 시) 채점 기준 문의. [보완: 수평 보완(동일 이름)]",
+  "taggedAt": "2026-08-12T05:01:07.857Z",
+  "verticalReviewedAt": "2026-08-14T02:56:06.665Z"
 }

@@ -24,8 +24,16 @@
       "subject": "과학",
       "unit": "화학 반응의 규칙과 에너지 변화",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "화학 반응의 규칙성",
+      "confidence": "high"
     }
   ],
-  "tagsNote": "구리 산화(녹슴, 국회의사당 지붕) 사례.",
-  "taggedAt": "2026-08-12T04:35:05.653Z"
+  "tagsNote": "구리 산화(녹슴, 국회의사당 지붕) 사례. [보완: 수평 보완]",
+  "taggedAt": "2026-08-12T04:35:05.653Z",
+  "verticalReviewedAt": "2026-08-14T02:49:05.917Z"
 }

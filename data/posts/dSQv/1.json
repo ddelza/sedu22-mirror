@@ -24,8 +24,16 @@
       "subject": "과학",
       "unit": "식물과 에너지",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "식물과 에너지",
+      "confidence": "high"
     }
   ],
-  "tagsNote": "광합성 내용을 국어와 융합한 시쓰기 수업(자유학기).",
-  "taggedAt": "2026-08-12T03:18:58.464Z"
+  "tagsNote": "광합성 내용을 국어와 융합한 시쓰기 수업(자유학기). [보완: 수평 보완: 2015 '식물과 에너지'의 2022 대응(동일 이름) 누락.]",
+  "taggedAt": "2026-08-12T03:18:58.464Z",
+  "verticalReviewedAt": "2026-08-14T02:16:34.120Z"
 }

@@ -24,8 +24,16 @@
       "subject": "과학",
       "unit": "물질의 구성",
       "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "물질의 구성",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "주기율표 학습용 도장(만년 스탬프) 제작 공유.",
-  "taggedAt": "2026-08-12T08:56:23.388Z"
+  "tagsNote": "주기율표 학습용 도장(만년 스탬프) 제작 공유. [보완: 수평 보완(동일 이름)]",
+  "taggedAt": "2026-08-12T08:56:23.388Z",
+  "verticalReviewedAt": "2026-08-14T02:59:00.425Z"
 }

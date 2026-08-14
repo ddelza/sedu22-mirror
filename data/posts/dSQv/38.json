@@ -29,8 +29,16 @@
       "subject": "과학",
       "unit": "빛과 파동",
       "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "빛과 파동",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "거울(빛의 반사) 활용 에너지 절감 창작 동아리 활동.",
-  "taggedAt": "2026-08-12T03:27:43.393Z"
+  "tagsNote": "거울(빛의 반사) 활용 에너지 절감 창작 동아리 활동. [보완: 수평 보완(동일 이름)]",
+  "taggedAt": "2026-08-12T03:27:43.393Z",
+  "verticalReviewedAt": "2026-08-14T02:28:28.171Z"
 }

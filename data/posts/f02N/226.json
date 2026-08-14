@@ -23,8 +23,16 @@
       "subject": "과학",
       "unit": "식물과 에너지",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "식물과 에너지",
+      "confidence": "high"
     }
   ],
-  "tagsNote": "콩나물/과일주스 물관 관찰 자료 요청.",
-  "taggedAt": "2026-08-12T04:43:00.460Z"
+  "tagsNote": "콩나물/과일주스 물관 관찰 자료 요청. [보완: 수평 보완(동일 이름)]",
+  "taggedAt": "2026-08-12T04:43:00.460Z",
+  "verticalReviewedAt": "2026-08-14T02:50:53.536Z"
 }

@@ -29,8 +29,16 @@
       "subject": "과학",
       "unit": "화학 반응의 규칙과 에너지 변화",
       "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "화학 반응의 규칙성",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "호떡 만들기(이스트 발효) 동아리 탐구.",
-  "taggedAt": "2026-08-12T03:27:43.408Z"
+  "tagsNote": "호떡 만들기(이스트 발효) 동아리 탐구. [보완: 수평 보완]",
+  "taggedAt": "2026-08-12T03:27:43.408Z",
+  "verticalReviewedAt": "2026-08-14T02:28:28.180Z"
 }

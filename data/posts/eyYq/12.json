@@ -24,8 +24,16 @@
       "subject": "과학",
       "unit": "물질의 특성",
       "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "물질의 특성",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "표면장력(비눗방울) 이미지.",
-  "taggedAt": "2026-08-12T04:19:43.093Z"
+  "tagsNote": "표면장력(비눗방울) 이미지. [보완: 수평 보완(동일 이름)]",
+  "taggedAt": "2026-08-12T04:19:43.093Z",
+  "verticalReviewedAt": "2026-08-14T02:33:28.715Z"
 }

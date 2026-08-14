@@ -24,8 +24,16 @@
       "subject": "과학",
       "unit": "전기와 자기",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "전기와 자기",
+      "confidence": "high"
     }
   ],
-  "tagsNote": "과학신문반 - 일상생활 속 전기(보드게임 활용).",
-  "taggedAt": "2026-08-12T03:24:21.072Z"
+  "tagsNote": "과학신문반 - 일상생활 속 전기(보드게임 활용). [보완: 수평 보완(동일 이름)]",
+  "taggedAt": "2026-08-12T03:24:21.072Z",
+  "verticalReviewedAt": "2026-08-14T02:26:10.767Z"
 }

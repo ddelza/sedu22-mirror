@@ -23,8 +23,16 @@
       "subject": "과학",
       "unit": "생식과 유전",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "생식과 유전",
+      "confidence": "high"
     }
   ],
-  "tagsNote": "체세포/생식세포 염색체 수와 분열 관계 이해 확인 질문.",
-  "taggedAt": "2026-08-12T04:49:23.646Z"
+  "tagsNote": "체세포/생식세포 염색체 수와 분열 관계 이해 확인 질문. [보완: 수평 보완(동일 이름)]",
+  "taggedAt": "2026-08-12T04:49:23.646Z",
+  "verticalReviewedAt": "2026-08-14T02:52:42.119Z"
 }

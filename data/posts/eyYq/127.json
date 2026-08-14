@@ -24,8 +24,16 @@
       "subject": "과학",
       "unit": "전기와 자기",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "전기와 자기",
+      "confidence": "high"
     }
   ],
-  "tagsNote": "정전기/마찰전기 소재 이미지.",
-  "taggedAt": "2026-08-12T04:19:43.101Z"
+  "tagsNote": "정전기/마찰전기 소재 이미지. [보완: 수평 보완(동일 이름)]",
+  "taggedAt": "2026-08-12T04:19:43.101Z",
+  "verticalReviewedAt": "2026-08-14T02:33:28.717Z"
 }

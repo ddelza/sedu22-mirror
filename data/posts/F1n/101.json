@@ -24,8 +24,23 @@
       "subject": "과학",
       "unit": "여러 가지 힘",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "힘의 작용",
+      "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "고등학교",
+      "subject": "물리학Ⅱ",
+      "unit": "역학적 상호작용",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "무게중심 수업용 동영상/활동(야구방망이, 잠자리 만들기) 자료 공유.",
-  "taggedAt": "2026-08-12T05:01:07.873Z"
+  "tagsNote": "무게중심 수업용 동영상/활동(야구방망이, 잠자리 만들기) 자료 공유. [보완: 수평 보완 + 수직 보완: 무게중심 찾기 활동(야구방망이, 잠자리 만들기) 영상 자료로, 고등학교 물리학Ⅱ '무게중심' 성취기준과 연결.]",
+  "taggedAt": "2026-08-12T05:01:07.873Z",
+  "verticalReviewedAt": "2026-08-14T02:56:06.668Z"
 }

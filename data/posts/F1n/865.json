@@ -24,8 +24,16 @@
       "subject": "과학",
       "unit": "물질의 구성",
       "confidence": "low"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "물질의 구성",
+      "confidence": "low"
     }
   ],
-  "tagsNote": "학기말 학년 전체 프로그램(브레인 아카데미+원소력) 구상 공유.",
-  "taggedAt": "2026-08-12T08:57:43.704Z"
+  "tagsNote": "학기말 학년 전체 프로그램(브레인 아카데미+원소력) 구상 공유. [보완: 수평 보완(동일 이름)]",
+  "taggedAt": "2026-08-12T08:57:43.704Z",
+  "verticalReviewedAt": "2026-08-14T02:59:00.431Z"
 }

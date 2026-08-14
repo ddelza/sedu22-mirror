@@ -23,8 +23,16 @@
       "subject": "과학",
       "unit": "열과 우리 생활",
       "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "열",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "동사(체온, 졸음) 관련 학생 질문 설명 방법.",
-  "taggedAt": "2026-08-12T04:38:49.284Z"
+  "tagsNote": "동사(체온, 졸음) 관련 학생 질문 설명 방법. [보완: 수평 보완]",
+  "taggedAt": "2026-08-12T04:38:49.284Z",
+  "verticalReviewedAt": "2026-08-14T02:50:53.522Z"
 }

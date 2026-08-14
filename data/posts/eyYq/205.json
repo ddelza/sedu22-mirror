@@ -24,8 +24,16 @@
       "subject": "과학",
       "unit": "지권의 변화",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "지권의 변화",
+      "confidence": "high"
     }
   ],
-  "tagsNote": "석탄 형성(퇴적암, 화석연료) 발견 사례.",
-  "taggedAt": "2026-08-12T04:22:41.884Z"
+  "tagsNote": "석탄 형성(퇴적암, 화석연료) 발견 사례. [보완: 수평 보완(동일 이름)]",
+  "taggedAt": "2026-08-12T04:22:41.884Z",
+  "verticalReviewedAt": "2026-08-14T02:47:07.288Z"
 }

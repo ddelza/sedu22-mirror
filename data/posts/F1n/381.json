@@ -24,8 +24,16 @@
       "subject": "과학",
       "unit": "열과 우리 생활",
       "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "열",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "종이냄비 라면 끓이기 실습(연소/열전달) 운영 관련 고민.",
-  "taggedAt": "2026-08-12T08:44:53.496Z"
+  "tagsNote": "종이냄비 라면 끓이기 실습(연소/열전달) 운영 관련 고민. [보완: 수평 보완]",
+  "taggedAt": "2026-08-12T08:44:53.496Z",
+  "verticalReviewedAt": "2026-08-14T02:56:55.497Z"
 }

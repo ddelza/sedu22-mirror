@@ -24,8 +24,16 @@
       "subject": "과학",
       "unit": "생식과 유전",
       "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "생식과 유전",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "'요리 속 과학이야기' 6차시(세포분열의 비밀과 카레전).",
-  "taggedAt": "2026-08-12T03:26:25.444Z"
+  "tagsNote": "'요리 속 과학이야기' 6차시(세포분열의 비밀과 카레전). [보완: 수평 보완(동일 이름)]",
+  "taggedAt": "2026-08-12T03:26:25.444Z",
+  "verticalReviewedAt": "2026-08-14T02:27:31.734Z"
 }

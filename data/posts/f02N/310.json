@@ -23,8 +23,16 @@
       "subject": "과학",
       "unit": "자극과 반응",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "자극과 반응",
+      "confidence": "high"
     }
   ],
-  "tagsNote": "위협에 눈 감는 반사 반응 중추 질문.",
-  "taggedAt": "2026-08-12T04:45:29.798Z"
+  "tagsNote": "위협에 눈 감는 반사 반응 중추 질문. [보완: 수평 보완(동일 이름)]",
+  "taggedAt": "2026-08-12T04:45:29.798Z",
+  "verticalReviewedAt": "2026-08-14T02:51:27.986Z"
 }

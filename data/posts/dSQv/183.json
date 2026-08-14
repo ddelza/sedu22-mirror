@@ -24,8 +24,16 @@
       "subject": "과학",
       "unit": "재해·재난과 안전",
       "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "재해·재난과 안전",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "코로나 시기 손소독제 제작(위생/방역) 관련 논의.",
-  "taggedAt": "2026-08-12T03:21:38.453Z"
+  "tagsNote": "코로나 시기 손소독제 제작(위생/방역) 관련 논의. [보완: 수평 보완(동일 이름)]",
+  "taggedAt": "2026-08-12T03:21:38.453Z",
+  "verticalReviewedAt": "2026-08-14T02:20:33.463Z"
 }

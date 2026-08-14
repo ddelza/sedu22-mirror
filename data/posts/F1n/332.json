@@ -24,8 +24,16 @@
       "subject": "과학",
       "unit": "생식과 유전",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "생식과 유전",
+      "confidence": "high"
     }
   ],
-  "tagsNote": "혈우병 여아의 태아기 생존율이 낮은 이유 질문.",
-  "taggedAt": "2026-08-12T08:43:39.827Z"
+  "tagsNote": "혈우병 여아의 태아기 생존율이 낮은 이유 질문. [보완: 수평 보완(동일 이름)]",
+  "taggedAt": "2026-08-12T08:43:39.827Z",
+  "verticalReviewedAt": "2026-08-14T02:56:55.490Z"
 }

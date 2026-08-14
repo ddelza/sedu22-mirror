@@ -29,8 +29,16 @@
       "category": "스마트 수업도구",
       "topic": "생성형 AI 도구",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "물질의 특성",
+      "confidence": "high"
     }
   ],
-  "tagsNote": "중2 밀도 부력 시뮬레이션(AI 협업 제작).",
-  "taggedAt": "2026-08-12T03:53:51.234Z"
+  "tagsNote": "중2 밀도 부력 시뮬레이션(AI 협업 제작). [보완: 수평 보완(동일 이름)]",
+  "taggedAt": "2026-08-12T03:53:51.234Z",
+  "verticalReviewedAt": "2026-08-14T02:31:23.319Z"
 }

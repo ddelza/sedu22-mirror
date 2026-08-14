@@ -23,8 +23,16 @@
       "subject": "과학",
       "unit": "자극과 반응",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "자극과 반응",
+      "confidence": "high"
     }
   ],
-  "tagsNote": "눈의 원근조절(먼 곳이 흐릿하게 보이는 이유) 설명 방법 질문.",
-  "taggedAt": "2026-08-12T04:46:42.212Z"
+  "tagsNote": "눈의 원근조절(먼 곳이 흐릿하게 보이는 이유) 설명 방법 질문. [보완: 수평 보완(동일 이름)]",
+  "taggedAt": "2026-08-12T04:46:42.212Z",
+  "verticalReviewedAt": "2026-08-14T02:52:05.425Z"
 }

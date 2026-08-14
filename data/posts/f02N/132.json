@@ -23,8 +23,16 @@
       "subject": "과학",
       "unit": "빛과 파동",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "빛과 파동",
+      "confidence": "high"
     }
   ],
-  "tagsNote": "빛의 십자/마름모 형태(회절) 질문.",
-  "taggedAt": "2026-08-12T04:37:41.510Z"
+  "tagsNote": "빛의 십자/마름모 형태(회절) 질문. [보완: 수평 보완(동일 이름)]",
+  "taggedAt": "2026-08-12T04:37:41.510Z",
+  "verticalReviewedAt": "2026-08-14T02:50:17.320Z"
 }

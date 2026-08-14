@@ -23,8 +23,16 @@
       "subject": "과학",
       "unit": "기권과 날씨",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "날씨와 기후변화",
+      "confidence": "high"
     }
   ],
-  "tagsNote": "온실효과(에너지 흡수-방출) 개념 질문.",
-  "taggedAt": "2026-08-12T04:37:41.494Z"
+  "tagsNote": "온실효과(에너지 흡수-방출) 개념 질문. [보완: 수평 보완]",
+  "taggedAt": "2026-08-12T04:37:41.494Z",
+  "verticalReviewedAt": "2026-08-14T02:50:17.318Z"
 }

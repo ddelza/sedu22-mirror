@@ -24,8 +24,16 @@
       "subject": "과학",
       "unit": "수권과 해수의 순환",
       "confidence": "low"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "수권과 해수의 순환",
+      "confidence": "low"
     }
   ],
-  "tagsNote": "간이정수기 만들기(페트병 여과).",
-  "taggedAt": "2026-08-12T03:20:18.612Z"
+  "tagsNote": "간이정수기 만들기(페트병 여과). [보완: 수평 보완(동일 이름)]",
+  "taggedAt": "2026-08-12T03:20:18.612Z",
+  "verticalReviewedAt": "2026-08-14T02:19:07.497Z"
 }

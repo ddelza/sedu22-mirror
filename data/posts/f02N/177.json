@@ -23,8 +23,16 @@
       "subject": "과학",
       "unit": "별과 우주",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "별과 우주",
+      "confidence": "high"
     }
   ],
-  "tagsNote": "천체의 일주운동 이해 어려움 질문.",
-  "taggedAt": "2026-08-12T04:38:49.307Z"
+  "tagsNote": "천체의 일주운동 이해 어려움 질문. [보완: 수평 보완(동일 이름)]",
+  "taggedAt": "2026-08-12T04:38:49.307Z",
+  "verticalReviewedAt": "2026-08-14T02:50:53.529Z"
 }

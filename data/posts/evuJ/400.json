@@ -29,8 +29,16 @@
       "category": "스마트 수업도구",
       "topic": "생성형 AI 도구",
       "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "생물의 구성과 다양성",
+      "confidence": "high"
     }
   ],
-  "tagsNote": "우리 지역 멸종위기 야생생물 조사 웹앱(중1 생물다양성).",
-  "taggedAt": "2026-08-12T03:56:56.782Z"
+  "tagsNote": "우리 지역 멸종위기 야생생물 조사 웹앱(중1 생물다양성). [보완: 수평 보완]",
+  "taggedAt": "2026-08-12T03:56:56.782Z",
+  "verticalReviewedAt": "2026-08-14T02:32:00.670Z"
 }

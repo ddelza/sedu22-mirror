@@ -29,8 +29,16 @@
       "category": "스마트 수업도구",
       "topic": "생성형 AI 도구",
       "confidence": "low"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "화학 반응의 규칙성",
+      "confidence": "high"
     }
   ],
-  "tagsNote": "화학변화/물리변화 구분 이미지(AI 생성).",
-  "taggedAt": "2026-08-12T04:24:08.431Z"
+  "tagsNote": "화학변화/물리변화 구분 이미지(AI 생성). [보완: 수평 보완]",
+  "taggedAt": "2026-08-12T04:24:08.431Z",
+  "verticalReviewedAt": "2026-08-14T02:48:32.650Z"
 }

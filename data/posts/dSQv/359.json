@@ -24,8 +24,16 @@
       "subject": "과학",
       "unit": "기체의 성질",
       "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "기체의 성질",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "빨대로 공 띄우기(유체 압력) 활동.",
-  "taggedAt": "2026-08-12T03:27:43.375Z"
+  "tagsNote": "빨대로 공 띄우기(유체 압력) 활동. [보완: 수평 보완(동일 이름)]",
+  "taggedAt": "2026-08-12T03:27:43.375Z",
+  "verticalReviewedAt": "2026-08-14T02:28:28.167Z"
 }

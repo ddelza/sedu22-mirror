@@ -24,8 +24,16 @@
       "subject": "과학",
       "unit": "물질의 특성",
       "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "물질의 특성",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "음료수 설탕 농도(용액/용질/용매) 소재.",
-  "taggedAt": "2026-08-12T04:22:41.885Z"
+  "tagsNote": "음료수 설탕 농도(용액/용질/용매) 소재. [보완: 수평 보완(동일 이름)]",
+  "taggedAt": "2026-08-12T04:22:41.885Z",
+  "verticalReviewedAt": "2026-08-14T02:47:53.995Z"
 }

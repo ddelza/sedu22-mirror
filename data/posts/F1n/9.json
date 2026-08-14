@@ -24,8 +24,16 @@
       "subject": "과학",
       "unit": "기체의 성질",
       "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "기체의 성질",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "진공실험장치(초코파이/사이다)로 기체 용해도 등을 보여주는 실험 소개.",
-  "taggedAt": "2026-08-12T08:59:09.260Z"
+  "tagsNote": "진공실험장치(초코파이/사이다)로 기체 용해도 등을 보여주는 실험 소개. [보완: 수평 보완(동일 이름)]",
+  "taggedAt": "2026-08-12T08:59:09.260Z",
+  "verticalReviewedAt": "2026-08-14T02:59:40.256Z"
 }

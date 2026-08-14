@@ -31,8 +31,23 @@
       "subject": "과학",
       "unit": "동물과 에너지",
       "confidence": "low"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "열",
+      "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "동물과 에너지",
+      "confidence": "low"
     }
   ],
-  "tagsNote": "열평형/항온동물 체온 소재 홈쇼핑 유머.",
-  "taggedAt": "2026-08-12T04:24:08.405Z"
+  "tagsNote": "열평형/항온동물 체온 소재 홈쇼핑 유머. [보완: 수평 보완]",
+  "taggedAt": "2026-08-12T04:24:08.405Z",
+  "verticalReviewedAt": "2026-08-14T02:48:32.633Z"
 }

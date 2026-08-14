@@ -24,8 +24,16 @@
       "subject": "과학",
       "unit": "별과 우주",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "별과 우주",
+      "confidence": "high"
     }
   ],
-  "tagsNote": "온라인 주제선택 4차시 우주와 천문학의 역사.",
-  "taggedAt": "2026-08-12T03:23:00.636Z"
+  "tagsNote": "온라인 주제선택 4차시 우주와 천문학의 역사. [보완: 수평 보완(동일 이름)]",
+  "taggedAt": "2026-08-12T03:23:00.636Z",
+  "verticalReviewedAt": "2026-08-14T02:22:15.349Z"
 }

@@ -24,8 +24,16 @@
       "subject": "과학",
       "unit": "물질의 특성",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "물질의 특성",
+      "confidence": "high"
     }
   ],
-  "tagsNote": "중2 물질의 특성 단원 연계 라면 끓이기 학기말 수업 공유.",
-  "taggedAt": "2026-08-12T08:56:23.374Z"
+  "tagsNote": "중2 물질의 특성 단원 연계 라면 끓이기 학기말 수업 공유. [보완: 수평 보완(동일 이름)]",
+  "taggedAt": "2026-08-12T08:56:23.374Z",
+  "verticalReviewedAt": "2026-08-14T02:58:19.742Z"
 }

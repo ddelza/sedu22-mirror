@@ -24,8 +24,16 @@
       "subject": "과학",
       "unit": "기권과 날씨",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "날씨와 기후변화",
+      "confidence": "high"
     }
   ],
-  "tagsNote": "우주에서 본 한랭전선 사진(ISS 촬영).",
-  "taggedAt": "2026-08-12T04:19:43.123Z"
+  "tagsNote": "우주에서 본 한랭전선 사진(ISS 촬영). [보완: 수평 보완]",
+  "taggedAt": "2026-08-12T04:19:43.123Z",
+  "verticalReviewedAt": "2026-08-14T02:34:03.046Z"
 }

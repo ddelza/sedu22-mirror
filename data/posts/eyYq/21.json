@@ -24,8 +24,16 @@
       "subject": "과학",
       "unit": "태양계",
       "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "태양계",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "건축물+황도 타임랩스 영상.",
-  "taggedAt": "2026-08-12T04:22:41.893Z"
+  "tagsNote": "건축물+황도 타임랩스 영상. [보완: 수평 보완(동일 이름)]",
+  "taggedAt": "2026-08-12T04:22:41.893Z",
+  "verticalReviewedAt": "2026-08-14T02:47:53.999Z"
 }

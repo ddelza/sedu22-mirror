@@ -24,8 +24,23 @@
       "subject": "과학",
       "unit": "생물의 구성과 다양성",
       "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "생물의 다양성",
+      "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "고등학교",
+      "subject": "생명과학Ⅱ",
+      "unit": "생물의 진화와 다양성",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "카미나큘즈 분류하기(영재학급, 생물 분류 활동).",
-  "taggedAt": "2026-08-12T03:21:38.474Z"
+  "tagsNote": "카미나큘즈 분류하기(영재학급, 생물 분류 활동). [보완: 수평 보완 + 수직 보완: 카미나큘즈 계통수 분류 활동은 고등학교 생명과학Ⅱ '3역 6계 분류 체계·계통수' 성취기준과 직접 연결되며, 영재학급용 심화 수업으로 명시됨.]",
+  "taggedAt": "2026-08-12T03:21:38.474Z",
+  "verticalReviewedAt": "2026-08-14T02:20:33.482Z"
 }

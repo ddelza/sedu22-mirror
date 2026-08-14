@@ -45,8 +45,23 @@
       "category": "게시판별 분류",
       "topic": "과학행사&과학실 Idea",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "고등학교",
+      "subject": "물리학Ⅰ",
+      "unit": "역학과 에너지",
+      "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "고등학교",
+      "subject": "물리학",
+      "unit": "힘과 에너지",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "",
-  "taggedAt": "2026-08-11T14:40:08.148Z"
+  "tagsNote": " [보완: 수직 보완: 에어로켓 추진 원리를 뉴턴 제3법칙(작용-반작용)으로 볼지 압력차 추진으로 볼지 논쟁하는 질문으로, ms-hs-vertical-mapping.md '여러 가지 힘' 행이 가리키는 고등학교 뉴턴 제3법칙/작용-반작용 성취기준과 직접 연결됨.]",
+  "taggedAt": "2026-08-11T14:40:08.148Z",
+  "verticalReviewedAt": "2026-08-14T02:02:45.342Z"
 }

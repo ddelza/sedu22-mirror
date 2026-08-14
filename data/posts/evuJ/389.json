@@ -29,8 +29,16 @@
       "category": "스마트 수업도구",
       "topic": "생성형 AI 도구",
       "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "물질의 구성",
+      "confidence": "high"
     }
   ],
-  "tagsNote": "물의 전기분해(원소와 화합물) 가상실험실 웹앱.",
-  "taggedAt": "2026-08-12T03:56:56.763Z"
+  "tagsNote": "물의 전기분해(원소와 화합물) 가상실험실 웹앱. [보완: 수평 보완(동일 이름)]",
+  "taggedAt": "2026-08-12T03:56:56.763Z",
+  "verticalReviewedAt": "2026-08-14T02:32:00.666Z"
 }

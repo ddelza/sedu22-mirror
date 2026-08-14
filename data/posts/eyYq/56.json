@@ -24,8 +24,16 @@
       "subject": "과학",
       "unit": "전기와 자기",
       "confidence": "low"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "전기와 자기",
+      "confidence": "low"
     }
   ],
-  "tagsNote": "자기장 번역 말장난 이미지.",
-  "taggedAt": "2026-08-12T04:35:05.659Z"
+  "tagsNote": "자기장 번역 말장난 이미지. [보완: 수평 보완(동일 이름)]",
+  "taggedAt": "2026-08-12T04:35:05.659Z",
+  "verticalReviewedAt": "2026-08-14T02:49:05.918Z"
 }

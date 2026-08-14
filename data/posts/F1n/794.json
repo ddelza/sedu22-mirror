@@ -24,8 +24,16 @@
       "subject": "과학",
       "unit": "자극과 반응",
       "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "자극과 반응",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "감각기관 전문가집단 스터디 직소2 협동학습(3차시) 공유.",
-  "taggedAt": "2026-08-12T08:56:23.364Z"
+  "tagsNote": "감각기관 전문가집단 스터디 직소2 협동학습(3차시) 공유. [보완: 수평 보완(동일 이름)]",
+  "taggedAt": "2026-08-12T08:56:23.364Z",
+  "verticalReviewedAt": "2026-08-14T02:58:19.740Z"
 }

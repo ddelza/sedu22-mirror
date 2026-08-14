@@ -31,8 +31,16 @@
       "subject": "과학",
       "unit": "생식과 유전",
       "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "생식과 유전",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "체세포 분열 관찰 실험(중3 내용을 고2 수업에 활용).",
-  "taggedAt": "2026-08-12T03:13:59.146Z"
+  "tagsNote": "체세포 분열 관찰 실험(중3 내용을 고2 수업에 활용). [보완: 수평 보완: 글쓴이가 '중학교 3학년 교육과정 내용을 고등학교 2학년 생명과학 수업에 활용'했다고 명시한 실험으로, 2022 MS 대응 단원 누락분만 보완.]",
+  "taggedAt": "2026-08-12T03:13:59.146Z",
+  "verticalReviewedAt": "2026-08-14T02:16:34.118Z"
 }

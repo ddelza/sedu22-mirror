@@ -23,8 +23,16 @@
       "subject": "과학",
       "unit": "전기와 자기",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "전기와 자기",
+      "confidence": "high"
     }
   ],
-  "tagsNote": "도선 굵기와 저항 감소 관계에 대한 설명 방법 고민.",
-  "taggedAt": "2026-08-12T04:55:49.814Z"
+  "tagsNote": "도선 굵기와 저항 감소 관계에 대한 설명 방법 고민. [보완: 수평 보완(동일 이름)]",
+  "taggedAt": "2026-08-12T04:55:49.814Z",
+  "verticalReviewedAt": "2026-08-14T02:54:03.464Z"
 }

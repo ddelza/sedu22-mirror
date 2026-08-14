@@ -24,8 +24,16 @@
       "subject": "과학",
       "unit": "운동과 에너지",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "운동과 에너지",
+      "confidence": "high"
     }
   ],
-  "tagsNote": "달걀 낙하(충격흡수 장치) 자유학기 활동.",
-  "taggedAt": "2026-08-12T03:26:25.413Z"
+  "tagsNote": "달걀 낙하(충격흡수 장치) 자유학기 활동. [보완: 수평 보완(동일 이름)]",
+  "taggedAt": "2026-08-12T03:26:25.413Z",
+  "verticalReviewedAt": "2026-08-14T02:27:31.725Z"
 }

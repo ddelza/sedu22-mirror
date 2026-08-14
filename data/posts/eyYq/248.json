@@ -24,8 +24,16 @@
       "subject": "과학",
       "unit": "빛과 파동",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "빛과 파동",
+      "confidence": "high"
     }
   ],
-  "tagsNote": "거울 허상(앞뒤반전) 소재(치과의사) 이미지.",
-  "taggedAt": "2026-08-12T04:24:08.422Z"
+  "tagsNote": "거울 허상(앞뒤반전) 소재(치과의사) 이미지. [보완: 수평 보완(동일 이름)]",
+  "taggedAt": "2026-08-12T04:24:08.422Z",
+  "verticalReviewedAt": "2026-08-14T02:48:32.645Z"
 }

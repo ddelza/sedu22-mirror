@@ -23,8 +23,16 @@
       "subject": "과학",
       "unit": "화학 반응의 규칙과 에너지 변화",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "화학 반응의 규칙성",
+      "confidence": "high"
     }
   ],
-  "tagsNote": "탄산수소나트륨-아세트산 반응에 일정성분비법칙 적용 가능 여부 출제 검토.",
-  "taggedAt": "2026-08-12T04:55:49.825Z"
+  "tagsNote": "탄산수소나트륨-아세트산 반응에 일정성분비법칙 적용 가능 여부 출제 검토. [보완: 수평 보완]",
+  "taggedAt": "2026-08-12T04:55:49.825Z",
+  "verticalReviewedAt": "2026-08-14T02:54:03.477Z"
 }

@@ -24,8 +24,16 @@
       "subject": "과학",
       "unit": "기권과 날씨",
       "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "날씨와 기후변화",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "기후위기 UCC 만들기 수업(공모전 연계).",
-  "taggedAt": "2026-08-12T03:26:25.458Z"
+  "tagsNote": "기후위기 UCC 만들기 수업(공모전 연계). [보완: 수평 보완]",
+  "taggedAt": "2026-08-12T03:26:25.458Z",
+  "verticalReviewedAt": "2026-08-14T02:27:31.739Z"
 }

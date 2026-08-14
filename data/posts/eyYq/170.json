@@ -24,8 +24,16 @@
       "subject": "과학",
       "unit": "여러 가지 힘",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "힘의 작용",
+      "confidence": "high"
     }
   ],
-  "tagsNote": "빗면/마찰력(눈썰매) 소재 이미지.",
-  "taggedAt": "2026-08-12T04:21:13.787Z"
+  "tagsNote": "빗면/마찰력(눈썰매) 소재 이미지. [보완: 수평 보완]",
+  "taggedAt": "2026-08-12T04:21:13.787Z",
+  "verticalReviewedAt": "2026-08-14T02:34:38.508Z"
 }

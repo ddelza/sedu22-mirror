@@ -24,8 +24,16 @@
       "subject": "과학",
       "unit": "여러 가지 힘",
       "confidence": "low"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "힘의 작용",
+      "confidence": "low"
     }
   ],
-  "tagsNote": "영화 '옥토버 스카이'(로켓 제작) 감상 활동지 공유.",
-  "taggedAt": "2026-08-12T08:48:40.812Z"
+  "tagsNote": "영화 '옥토버 스카이'(로켓 제작) 감상 활동지 공유. [보완: 수평 보완]",
+  "taggedAt": "2026-08-12T08:48:40.812Z",
+  "verticalReviewedAt": "2026-08-14T02:57:38.698Z"
 }

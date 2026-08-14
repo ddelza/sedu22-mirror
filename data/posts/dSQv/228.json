@@ -24,8 +24,16 @@
       "subject": "과학",
       "unit": "여러 가지 힘",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "힘의 작용",
+      "confidence": "high"
     }
   ],
-  "tagsNote": "힘 단원 정리 팝업카드(또래교수) 제작.",
-  "taggedAt": "2026-08-12T03:23:00.621Z"
+  "tagsNote": "힘 단원 정리 팝업카드(또래교수) 제작. [보완: 수평 보완]",
+  "taggedAt": "2026-08-12T03:23:00.621Z",
+  "verticalReviewedAt": "2026-08-14T02:20:33.493Z"
 }

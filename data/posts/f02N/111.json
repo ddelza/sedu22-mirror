@@ -23,8 +23,16 @@
       "subject": "과학",
       "unit": "지권의 변화",
       "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "지권의 변화",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "교내 암석 찾기 활동 조언 요청.",
-  "taggedAt": "2026-08-12T04:37:41.472Z"
+  "tagsNote": "교내 암석 찾기 활동 조언 요청. [보완: 수평 보완(동일 이름)]",
+  "taggedAt": "2026-08-12T04:37:41.472Z",
+  "verticalReviewedAt": "2026-08-14T02:50:17.314Z"
 }

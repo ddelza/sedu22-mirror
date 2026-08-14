@@ -29,8 +29,16 @@
       "subject": "과학",
       "unit": "열과 우리 생활",
       "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "열",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "제미나이로 만든 비열 체험 게임.",
-  "taggedAt": "2026-08-12T03:55:07.779Z"
+  "tagsNote": "제미나이로 만든 비열 체험 게임. [보완: 수평 보완]",
+  "taggedAt": "2026-08-12T03:55:07.779Z",
+  "verticalReviewedAt": "2026-08-14T02:32:00.654Z"
 }

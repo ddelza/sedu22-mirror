@@ -24,8 +24,16 @@
       "subject": "과학",
       "unit": "태양계",
       "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "태양계",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "'요리 속 과학이야기' 7차시(목성은 무지개 칵테일).",
-  "taggedAt": "2026-08-12T03:26:25.445Z"
+  "tagsNote": "'요리 속 과학이야기' 7차시(목성은 무지개 칵테일). [보완: 수평 보완(동일 이름)]",
+  "taggedAt": "2026-08-12T03:26:25.445Z",
+  "verticalReviewedAt": "2026-08-14T02:27:31.735Z"
 }

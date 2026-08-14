@@ -24,8 +24,16 @@
       "subject": "과학",
       "unit": "여러 가지 힘",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "힘의 작용",
+      "confidence": "high"
     }
   ],
-  "tagsNote": "컬링게임으로 배우는 마찰력.",
-  "taggedAt": "2026-08-12T03:26:25.453Z"
+  "tagsNote": "컬링게임으로 배우는 마찰력. [보완: 수평 보완]",
+  "taggedAt": "2026-08-12T03:26:25.453Z",
+  "verticalReviewedAt": "2026-08-14T02:27:31.737Z"
 }

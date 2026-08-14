@@ -24,8 +24,16 @@
       "subject": "과학",
       "unit": "지권의 변화",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "지권의 변화",
+      "confidence": "high"
     }
   ],
-  "tagsNote": "흑요석(화산암) 소개.",
-  "taggedAt": "2026-08-12T04:35:05.641Z"
+  "tagsNote": "흑요석(화산암) 소개. [보완: 수평 보완(동일 이름)]",
+  "taggedAt": "2026-08-12T04:35:05.641Z",
+  "verticalReviewedAt": "2026-08-14T02:49:05.913Z"
 }

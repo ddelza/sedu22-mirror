@@ -24,8 +24,16 @@
       "subject": "과학",
       "unit": "화학 반응의 규칙과 에너지 변화",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "화학 반응의 규칙성",
+      "confidence": "high"
     }
   ],
-  "tagsNote": "연소/산화/질량보존법칙 소재(영구기관 착시).",
-  "taggedAt": "2026-08-12T04:21:13.802Z"
+  "tagsNote": "연소/산화/질량보존법칙 소재(영구기관 착시). [보완: 수평 보완]",
+  "taggedAt": "2026-08-12T04:21:13.802Z",
+  "verticalReviewedAt": "2026-08-14T02:34:38.513Z"
 }

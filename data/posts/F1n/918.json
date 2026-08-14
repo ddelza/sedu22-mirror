@@ -29,8 +29,16 @@
       "category": "스마트 수업도구",
       "topic": "앱/프로그램",
       "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "지권의 변화",
+      "confidence": "high"
     }
   ],
-  "tagsNote": "지권의 변화(암석을 이루는 광물) 학습용 웹앱 및 암기노트 공유.",
-  "taggedAt": "2026-08-12T08:59:09.274Z"
+  "tagsNote": "지권의 변화(암석을 이루는 광물) 학습용 웹앱 및 암기노트 공유. [보완: 수평 보완(동일 이름)]",
+  "taggedAt": "2026-08-12T08:59:09.274Z",
+  "verticalReviewedAt": "2026-08-14T02:59:40.261Z"
 }

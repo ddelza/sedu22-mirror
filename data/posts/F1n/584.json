@@ -24,8 +24,16 @@
       "subject": "과학",
       "unit": "여러 가지 힘",
       "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "힘의 작용",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "장력을 이용한 공중부양 종이컵(Tensegrity) 구조물 만들기 활동 공유.",
-  "taggedAt": "2026-08-12T08:49:54.488Z"
+  "tagsNote": "장력을 이용한 공중부양 종이컵(Tensegrity) 구조물 만들기 활동 공유. [보완: 수평 보완]",
+  "taggedAt": "2026-08-12T08:49:54.488Z",
+  "verticalReviewedAt": "2026-08-14T02:57:38.699Z"
 }

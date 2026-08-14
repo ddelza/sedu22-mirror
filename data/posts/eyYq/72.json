@@ -24,8 +24,16 @@
       "subject": "과학",
       "unit": "생물의 다양성",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "생물의 구성과 다양성",
+      "confidence": "high"
     }
   ],
-  "tagsNote": "스펀지밥(해면동물) 생물다양성 소재.",
-  "taggedAt": "2026-08-12T04:35:05.672Z"
+  "tagsNote": "스펀지밥(해면동물) 생물다양성 소재. [보완: 수평 보완]",
+  "taggedAt": "2026-08-12T04:35:05.672Z",
+  "verticalReviewedAt": "2026-08-14T02:49:42.219Z"
 }

@@ -23,8 +23,16 @@
       "subject": "과학",
       "unit": "기권과 날씨",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "날씨와 기후변화",
+      "confidence": "high"
     }
   ],
-  "tagsNote": "지구온난화 진행에 따른 복사평형 상태 변화 질문.",
-  "taggedAt": "2026-08-12T04:54:27.570Z"
+  "tagsNote": "지구온난화 진행에 따른 복사평형 상태 변화 질문. [보완: 수평 보완]",
+  "taggedAt": "2026-08-12T04:54:27.570Z",
+  "verticalReviewedAt": "2026-08-14T02:53:27.579Z"
 }

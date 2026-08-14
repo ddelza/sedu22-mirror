@@ -24,8 +24,16 @@
       "subject": "과학",
       "unit": "물질의 구성",
       "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "물질의 구성",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "원소기호 학습용 '원소야 놀자' 보드게임 추천.",
-  "taggedAt": "2026-08-12T08:55:07.512Z"
+  "tagsNote": "원소기호 학습용 '원소야 놀자' 보드게임 추천. [보완: 수평 보완(동일 이름)]",
+  "taggedAt": "2026-08-12T08:55:07.512Z",
+  "verticalReviewedAt": "2026-08-14T02:58:19.736Z"
 }

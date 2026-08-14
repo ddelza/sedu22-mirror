@@ -23,8 +23,16 @@
       "subject": "과학",
       "unit": "전기와 자기",
       "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "전기와 자기",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "전기에너지의 높은 변환효율 원리 질문.",
-  "taggedAt": "2026-08-12T04:44:11.394Z"
+  "tagsNote": "전기에너지의 높은 변환효율 원리 질문. [보완: 수평 보완(동일 이름)]",
+  "taggedAt": "2026-08-12T04:44:11.394Z",
+  "verticalReviewedAt": "2026-08-14T02:51:27.985Z"
 }

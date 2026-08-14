@@ -29,8 +29,16 @@
       "category": "스마트 수업도구",
       "topic": "앱/프로그램",
       "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "생식과 유전",
+      "confidence": "high"
     }
   ],
-  "tagsNote": "멘델 유전법칙용 초파리 교배 시뮬레이션(DrosophiLab) 소개.",
-  "taggedAt": "2026-08-12T04:21:13.804Z"
+  "tagsNote": "멘델 유전법칙용 초파리 교배 시뮬레이션(DrosophiLab) 소개. [보완: 수평 보완(동일 이름)]",
+  "taggedAt": "2026-08-12T04:21:13.804Z",
+  "verticalReviewedAt": "2026-08-14T02:34:38.514Z"
 }

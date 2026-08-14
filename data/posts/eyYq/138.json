@@ -24,8 +24,16 @@
       "subject": "과학",
       "unit": "지권의 변화",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "지권의 변화",
+      "confidence": "high"
     }
   ],
-  "tagsNote": "가공되지 않은 광물 원석 소개.",
-  "taggedAt": "2026-08-12T04:19:43.116Z"
+  "tagsNote": "가공되지 않은 광물 원석 소개. [보완: 수평 보완(동일 이름)]",
+  "taggedAt": "2026-08-12T04:19:43.116Z",
+  "verticalReviewedAt": "2026-08-14T02:34:03.040Z"
 }

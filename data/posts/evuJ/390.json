@@ -29,8 +29,16 @@
       "category": "스마트 수업도구",
       "topic": "생성형 AI 도구",
       "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "지권의 변화",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "라이어게임 복습 활동(지권의 변화 예시 포함).",
-  "taggedAt": "2026-08-12T03:56:56.765Z"
+  "tagsNote": "라이어게임 복습 활동(지권의 변화 예시 포함). [보완: 수평 보완(동일 이름)]",
+  "taggedAt": "2026-08-12T03:56:56.765Z",
+  "verticalReviewedAt": "2026-08-14T02:32:00.667Z"
 }

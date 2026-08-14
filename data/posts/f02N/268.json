@@ -23,8 +23,16 @@
       "subject": "과학",
       "unit": "생식과 유전",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "생식과 유전",
+      "confidence": "high"
     }
   ],
-  "tagsNote": "세포분열 전후 세포 크기 비교 문제 풀이 질문.",
-  "taggedAt": "2026-08-12T04:44:11.364Z"
+  "tagsNote": "세포분열 전후 세포 크기 비교 문제 풀이 질문. [보완: 수평 보완(동일 이름)]",
+  "taggedAt": "2026-08-12T04:44:11.364Z",
+  "verticalReviewedAt": "2026-08-14T02:51:27.983Z"
 }

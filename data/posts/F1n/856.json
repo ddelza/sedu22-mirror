@@ -24,8 +24,16 @@
       "subject": "과학",
       "unit": "자극과 반응",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "자극과 반응",
+      "confidence": "high"
     }
   ],
-  "tagsNote": "중3 자극과 반응 단원 동기부여용 '과탐 출제자' 도입활동 공유.",
-  "taggedAt": "2026-08-12T08:57:43.695Z"
+  "tagsNote": "중3 자극과 반응 단원 동기부여용 '과탐 출제자' 도입활동 공유. [보완: 수평 보완(동일 이름)]",
+  "taggedAt": "2026-08-12T08:57:43.695Z",
+  "verticalReviewedAt": "2026-08-14T02:59:00.429Z"
 }

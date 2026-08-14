@@ -23,8 +23,16 @@
       "subject": "과학",
       "unit": "태양계",
       "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "태양계",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "최근 며칠간 달이 붉게 보이는 현상의 원인 문의.",
-  "taggedAt": "2026-08-12T04:58:27.173Z"
+  "tagsNote": "최근 며칠간 달이 붉게 보이는 현상의 원인 문의. [보완: 수평 보완(동일 이름)]",
+  "taggedAt": "2026-08-12T04:58:27.173Z",
+  "verticalReviewedAt": "2026-08-14T02:55:18.970Z"
 }

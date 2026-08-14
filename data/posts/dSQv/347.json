@@ -24,8 +24,16 @@
       "subject": "과학",
       "unit": "열과 우리 생활",
       "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "열",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "라면 끓이는 시간 단축법에 대한 생활 속 탐구.",
-  "taggedAt": "2026-08-12T03:26:25.451Z"
+  "tagsNote": "라면 끓이는 시간 단축법에 대한 생활 속 탐구. [보완: 수평 보완]",
+  "taggedAt": "2026-08-12T03:26:25.451Z",
+  "verticalReviewedAt": "2026-08-14T02:27:31.736Z"
 }

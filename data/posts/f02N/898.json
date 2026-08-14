@@ -23,8 +23,16 @@
       "subject": "과학",
       "unit": "전기와 자기",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "전기와 자기",
+      "confidence": "high"
     }
   ],
-  "tagsNote": "저항 직렬연결 전류 세기 오개념 지도 고민.",
-  "taggedAt": "2026-08-12T04:58:27.184Z"
+  "tagsNote": "저항 직렬연결 전류 세기 오개념 지도 고민. [보완: 수평 보완(동일 이름)]",
+  "taggedAt": "2026-08-12T04:58:27.184Z",
+  "verticalReviewedAt": "2026-08-14T02:55:18.975Z"
 }

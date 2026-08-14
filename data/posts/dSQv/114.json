@@ -24,8 +24,16 @@
       "subject": "과학",
       "unit": "과학기술과 인류 문명",
       "confidence": "low"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "과학과 인류의 지속가능한 삶",
+      "confidence": "low"
     }
   ],
-  "tagsNote": "폐품 재활용 창작활동(자유학기).",
-  "taggedAt": "2026-08-12T03:18:58.479Z"
+  "tagsNote": "폐품 재활용 창작활동(자유학기). [보완: 수평 보완: 2015 '과학기술과 인류 문명'의 2022 대응('과학과 인류의 지속가능한 삶') 누락.]",
+  "taggedAt": "2026-08-12T03:18:58.479Z",
+  "verticalReviewedAt": "2026-08-14T02:17:53.320Z"
 }

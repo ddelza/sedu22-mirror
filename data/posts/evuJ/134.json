@@ -29,8 +29,16 @@
       "subject": "과학",
       "unit": "생식과 유전",
       "confidence": "low"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "생식과 유전",
+      "confidence": "low"
     }
   ],
-  "tagsNote": "영화속 과학탐구반(가타카, 유전자 조작 소재) 동아리 자료.",
-  "taggedAt": "2026-08-12T03:48:50.841Z"
+  "tagsNote": "영화속 과학탐구반(가타카, 유전자 조작 소재) 동아리 자료. [보완: 수평 보완(동일 이름)]",
+  "taggedAt": "2026-08-12T03:48:50.841Z",
+  "verticalReviewedAt": "2026-08-14T02:30:33.639Z"
 }

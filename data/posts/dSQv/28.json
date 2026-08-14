@@ -24,8 +24,16 @@
       "subject": "과학",
       "unit": "식물과 에너지",
       "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "식물과 에너지",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "자유학기 식물 탐사 활동(FunFun 과학반).",
-  "taggedAt": "2026-08-12T03:24:21.035Z"
+  "tagsNote": "자유학기 식물 탐사 활동(FunFun 과학반). [보완: 수평 보완(동일 이름)]",
+  "taggedAt": "2026-08-12T03:24:21.035Z",
+  "verticalReviewedAt": "2026-08-14T02:26:10.751Z"
 }

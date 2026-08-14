@@ -24,8 +24,16 @@
       "subject": "과학",
       "unit": "물질의 상태 변화",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "물질의 상태 변화",
+      "confidence": "high"
     }
   ],
-  "tagsNote": "물질의 상태 변화 영상/활동지/방탈출.",
-  "taggedAt": "2026-08-12T03:30:04.364Z"
+  "tagsNote": "물질의 상태 변화 영상/활동지/방탈출. [보완: 수평 보완(동일 이름)]",
+  "taggedAt": "2026-08-12T03:30:04.364Z",
+  "verticalReviewedAt": "2026-08-14T02:29:48.756Z"
 }

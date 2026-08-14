@@ -24,8 +24,16 @@
       "subject": "과학",
       "unit": "운동과 에너지",
       "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "운동과 에너지",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "관성/탄성 소재(트램폴린) 이미지.",
-  "taggedAt": "2026-08-12T04:19:43.085Z"
+  "tagsNote": "관성/탄성 소재(트램폴린) 이미지. [보완: 수평 보완(동일 이름)]",
+  "taggedAt": "2026-08-12T04:19:43.085Z",
+  "verticalReviewedAt": "2026-08-14T02:33:28.713Z"
 }

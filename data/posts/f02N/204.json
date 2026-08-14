@@ -23,8 +23,16 @@
       "subject": "과학",
       "unit": "자극과 반응",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "자극과 반응",
+      "confidence": "high"
     }
   ],
-  "tagsNote": "무의식적 반응 용어 정답 인정 질문.",
-  "taggedAt": "2026-08-12T04:43:00.445Z"
+  "tagsNote": "무의식적 반응 용어 정답 인정 질문. [보완: 수평 보완(동일 이름)]",
+  "taggedAt": "2026-08-12T04:43:00.445Z",
+  "verticalReviewedAt": "2026-08-14T02:50:53.533Z"
 }

@@ -24,8 +24,16 @@
       "subject": "과학",
       "unit": "빛과 파동",
       "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "빛과 파동",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "스캐니메이션(잔상효과 애니메이션) 자료.",
-  "taggedAt": "2026-08-12T03:18:58.472Z"
+  "tagsNote": "스캐니메이션(잔상효과 애니메이션) 자료. [보완: 수평 보완: 2015 '빛과 파동'의 2022 대응(동일 이름) 누락.]",
+  "taggedAt": "2026-08-12T03:18:58.472Z",
+  "verticalReviewedAt": "2026-08-14T02:16:34.123Z"
 }

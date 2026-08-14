@@ -23,8 +23,16 @@
       "subject": "과학",
       "unit": "생식과 유전",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "생식과 유전",
+      "confidence": "high"
     }
   ],
-  "tagsNote": "체세포분열 해리단계(에탄올:아세트산 3:1) 선지 오답 여부 확인 질문.",
-  "taggedAt": "2026-08-12T04:59:41.457Z"
+  "tagsNote": "체세포분열 해리단계(에탄올:아세트산 3:1) 선지 오답 여부 확인 질문. [보완: 수평 보완(동일 이름)]",
+  "taggedAt": "2026-08-12T04:59:41.457Z",
+  "verticalReviewedAt": "2026-08-14T02:55:18.975Z"
 }

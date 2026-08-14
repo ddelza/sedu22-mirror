@@ -24,8 +24,16 @@
       "subject": "과학",
       "unit": "생물의 다양성",
       "confidence": "low"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "생물의 구성과 다양성",
+      "confidence": "low"
     }
   ],
-  "tagsNote": "생명체 개체수 비교(생물량) 인포그래픽.",
-  "taggedAt": "2026-08-12T04:19:43.110Z"
+  "tagsNote": "생명체 개체수 비교(생물량) 인포그래픽. [보완: 수평 보완]",
+  "taggedAt": "2026-08-12T04:19:43.110Z",
+  "verticalReviewedAt": "2026-08-14T02:34:03.034Z"
 }

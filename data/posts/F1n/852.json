@@ -24,8 +24,16 @@
       "subject": "과학",
       "unit": "생물의 다양성",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "생물의 구성과 다양성",
+      "confidence": "high"
     }
   ],
-  "tagsNote": "중1 생물다양성/분류체계 연계 Canva 동물원 생태지도 만들기 활동 공유.",
-  "taggedAt": "2026-08-12T08:57:43.692Z"
+  "tagsNote": "중1 생물다양성/분류체계 연계 Canva 동물원 생태지도 만들기 활동 공유. [보완: 수평 보완]",
+  "taggedAt": "2026-08-12T08:57:43.692Z",
+  "verticalReviewedAt": "2026-08-14T02:59:00.427Z"
 }

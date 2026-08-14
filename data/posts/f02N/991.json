@@ -23,8 +23,16 @@
       "subject": "과학",
       "unit": "열과 우리 생활",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "열",
+      "confidence": "high"
     }
   ],
-  "tagsNote": "에어컨 앞 시원함을 느끼는 원리(열의 이동 방식) 질문.",
-  "taggedAt": "2026-08-12T05:01:07.865Z"
+  "tagsNote": "에어컨 앞 시원함을 느끼는 원리(열의 이동 방식) 질문. [보완: 수평 보완]",
+  "taggedAt": "2026-08-12T05:01:07.865Z",
+  "verticalReviewedAt": "2026-08-14T02:56:06.666Z"
 }

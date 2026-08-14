@@ -24,8 +24,16 @@
       "subject": "과학",
       "unit": "여러 가지 힘",
       "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "힘의 작용",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "학기말 A4종이 구조물 쌓기 모둠 활동 공유.",
-  "taggedAt": "2026-08-12T08:44:53.487Z"
+  "tagsNote": "학기말 A4종이 구조물 쌓기 모둠 활동 공유. [보완: 수평 보완]",
+  "taggedAt": "2026-08-12T08:44:53.487Z",
+  "verticalReviewedAt": "2026-08-14T02:56:55.493Z"
 }

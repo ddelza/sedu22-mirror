@@ -23,8 +23,16 @@
       "subject": "과학",
       "unit": "생식과 유전",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "생식과 유전",
+      "confidence": "high"
     }
   ],
-  "tagsNote": "세포-핵-염색체-DNA-유전자 포함관계 정리 확인 요청.",
-  "taggedAt": "2026-08-12T04:49:23.651Z"
+  "tagsNote": "세포-핵-염색체-DNA-유전자 포함관계 정리 확인 요청. [보완: 수평 보완(동일 이름)]",
+  "taggedAt": "2026-08-12T04:49:23.651Z",
+  "verticalReviewedAt": "2026-08-14T02:52:42.120Z"
 }

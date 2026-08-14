@@ -24,8 +24,16 @@
       "subject": "과학",
       "unit": "별과 우주",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "별과 우주",
+      "confidence": "high"
     }
   ],
-  "tagsNote": "지구의 자전(별의 일주운동) 동영상 자료.",
-  "taggedAt": "2026-08-12T04:24:08.423Z"
+  "tagsNote": "지구의 자전(별의 일주운동) 동영상 자료. [보완: 수평 보완(동일 이름)]",
+  "taggedAt": "2026-08-12T04:24:08.423Z",
+  "verticalReviewedAt": "2026-08-14T02:48:32.645Z"
 }

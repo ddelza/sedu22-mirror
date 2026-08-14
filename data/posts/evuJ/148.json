@@ -24,8 +24,16 @@
       "subject": "과학",
       "unit": "태양계",
       "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "태양계",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "그림자 측정으로 지구 크기 재기(에라토스테네스식) 온라인 실험.",
-  "taggedAt": "2026-08-12T03:48:50.855Z"
+  "tagsNote": "그림자 측정으로 지구 크기 재기(에라토스테네스식) 온라인 실험. [보완: 수평 보완(동일 이름)]",
+  "taggedAt": "2026-08-12T03:48:50.855Z",
+  "verticalReviewedAt": "2026-08-14T02:30:33.645Z"
 }

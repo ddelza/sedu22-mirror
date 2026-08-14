@@ -24,8 +24,16 @@
       "subject": "과학",
       "unit": "과학기술과 인류 문명",
       "confidence": "low"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "과학과 인류의 지속가능한 삶",
+      "confidence": "low"
     }
   ],
-  "tagsNote": "분리배출 실천 유도 자유학기 수업.",
-  "taggedAt": "2026-08-12T03:26:25.424Z"
+  "tagsNote": "분리배출 실천 유도 자유학기 수업. [보완: 수평 보완]",
+  "taggedAt": "2026-08-12T03:26:25.424Z",
+  "verticalReviewedAt": "2026-08-14T02:27:31.729Z"
 }

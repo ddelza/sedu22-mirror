@@ -31,8 +31,23 @@
       "subject": "과학",
       "unit": "빛과 파동",
       "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "별과 우주",
+      "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "빛과 파동",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "광섬유 별자리 무드등 만들기.",
-  "taggedAt": "2026-08-12T03:20:18.613Z"
+  "tagsNote": "광섬유 별자리 무드등 만들기. [보완: 수평 보완(둘 다 동일 이름)]",
+  "taggedAt": "2026-08-12T03:20:18.613Z",
+  "verticalReviewedAt": "2026-08-14T02:19:07.498Z"
 }

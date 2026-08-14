@@ -24,8 +24,16 @@
       "subject": "과학",
       "unit": "식물과 에너지",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "식물과 에너지",
+      "confidence": "high"
     }
   ],
-  "tagsNote": "식물에 기관계가 없는 이유 질문.",
-  "taggedAt": "2026-08-12T04:24:08.434Z"
+  "tagsNote": "식물에 기관계가 없는 이유 질문. [보완: 수평 보완(동일 이름)]",
+  "taggedAt": "2026-08-12T04:24:08.434Z",
+  "verticalReviewedAt": "2026-08-14T02:48:32.652Z"
 }

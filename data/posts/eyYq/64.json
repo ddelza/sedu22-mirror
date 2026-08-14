@@ -24,8 +24,16 @@
       "subject": "과학",
       "unit": "운동과 에너지",
       "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "운동과 에너지",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "관성력과 안전(뉴턴의 법칙) 이미지.",
-  "taggedAt": "2026-08-12T04:35:05.667Z"
+  "tagsNote": "관성력과 안전(뉴턴의 법칙) 이미지. [보완: 수평 보완(동일 이름)]",
+  "taggedAt": "2026-08-12T04:35:05.667Z",
+  "verticalReviewedAt": "2026-08-14T02:49:42.216Z"
 }

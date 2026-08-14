@@ -24,8 +24,16 @@
       "subject": "과학",
       "unit": "기체의 성질",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "기체의 성질",
+      "confidence": "high"
     }
   ],
-  "tagsNote": "샤를의 법칙 실험 기반 연구수업 모형 문의.",
-  "taggedAt": "2026-08-12T08:47:25.992Z"
+  "tagsNote": "샤를의 법칙 실험 기반 연구수업 모형 문의. [보완: 수평 보완(동일 이름)]",
+  "taggedAt": "2026-08-12T08:47:25.992Z",
+  "verticalReviewedAt": "2026-08-14T02:57:38.691Z"
 }

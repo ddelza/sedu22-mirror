@@ -23,8 +23,16 @@
       "subject": "과학",
       "unit": "별과 우주",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "별과 우주",
+      "confidence": "high"
     }
   ],
-  "tagsNote": "겉보기등급/절대등급으로 별의 거리 계산 방법 질문.",
-  "taggedAt": "2026-08-12T04:51:56.071Z"
+  "tagsNote": "겉보기등급/절대등급으로 별의 거리 계산 방법 질문. [보완: 수평 보완(동일 이름)]",
+  "taggedAt": "2026-08-12T04:51:56.071Z",
+  "verticalReviewedAt": "2026-08-14T02:52:42.127Z"
 }

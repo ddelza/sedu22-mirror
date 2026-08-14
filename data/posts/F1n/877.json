@@ -31,8 +31,23 @@
       "subject": "과학",
       "unit": "열과 우리 생활",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "기체의 성질",
+      "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "열",
+      "confidence": "high"
     }
   ],
-  "tagsNote": "보일샤를의 법칙 및 열의 이동(전도/대류/복사) 실생활 사례 짝활동지 공유.",
-  "taggedAt": "2026-08-12T08:57:43.711Z"
+  "tagsNote": "보일샤를의 법칙 및 열의 이동(전도/대류/복사) 실생활 사례 짝활동지 공유. [보완: 수평 보완(둘 다 동일 이름)]",
+  "taggedAt": "2026-08-12T08:57:43.711Z",
+  "verticalReviewedAt": "2026-08-14T02:59:00.437Z"
 }

@@ -29,8 +29,16 @@
       "category": "스마트 수업도구",
       "topic": "생성형 AI 도구",
       "confidence": "low"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "지권의 변화",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "화강암/대리석 암석 특성(조각 정교함 이유) 설명.",
-  "taggedAt": "2026-08-12T04:24:08.417Z"
+  "tagsNote": "화강암/대리석 암석 특성(조각 정교함 이유) 설명. [보완: 수평 보완(동일 이름)]",
+  "taggedAt": "2026-08-12T04:24:08.417Z",
+  "verticalReviewedAt": "2026-08-14T02:48:32.641Z"
 }

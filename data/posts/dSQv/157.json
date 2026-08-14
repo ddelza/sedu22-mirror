@@ -24,8 +24,16 @@
       "subject": "과학",
       "unit": "생물의 구성과 다양성",
       "confidence": "low"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "생물의 다양성",
+      "confidence": "low"
     }
   ],
-  "tagsNote": "EM(유용한 미생물) 만들기 활동.",
-  "taggedAt": "2026-08-12T03:20:18.616Z"
+  "tagsNote": "EM(유용한 미생물) 만들기 활동. [보완: 수평 보완]",
+  "taggedAt": "2026-08-12T03:20:18.616Z",
+  "verticalReviewedAt": "2026-08-14T02:19:07.500Z"
 }

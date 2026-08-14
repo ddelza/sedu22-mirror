@@ -31,8 +31,23 @@
       "subject": "과학",
       "unit": "생식과 유전",
       "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "식물과 에너지",
+      "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "생식과 유전",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "'슬기로운 식물생활' 주제선택+멘델프로젝트 계획서.",
-  "taggedAt": "2026-08-12T03:24:21.056Z"
+  "tagsNote": "'슬기로운 식물생활' 주제선택+멘델프로젝트 계획서. [보완: 수평 보완(둘 다 동일 이름)]",
+  "taggedAt": "2026-08-12T03:24:21.056Z",
+  "verticalReviewedAt": "2026-08-14T02:26:10.763Z"
 }

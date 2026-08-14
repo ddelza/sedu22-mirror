@@ -31,8 +31,16 @@
       "subject": "생명과학Ⅰ",
       "unit": "항상성과 몸의 조절",
       "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "재해·재난과 안전",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "감염성 질병 확산 모의 실험 및 역학조사 수업영상.",
-  "taggedAt": "2026-08-12T03:12:26.732Z"
+  "tagsNote": "감염성 질병 확산 모의 실험 및 역학조사 수업영상. [보완: 수평 보완: 2015 '재해·재난과 안전'의 2022 대응(동일 이름) 누락.]",
+  "taggedAt": "2026-08-12T03:12:26.732Z",
+  "verticalReviewedAt": "2026-08-14T02:16:34.115Z"
 }

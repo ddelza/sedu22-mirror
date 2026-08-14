@@ -23,8 +23,16 @@
       "subject": "과학",
       "unit": "물질의 특성",
       "confidence": "low"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "물질의 특성",
+      "confidence": "low"
     }
   ],
-  "tagsNote": "옷에 진흙이 묻는 현상의 물리변화 해당 여부 질문.",
-  "taggedAt": "2026-08-12T04:55:49.831Z"
+  "tagsNote": "옷에 진흙이 묻는 현상의 물리변화 해당 여부 질문. [보완: 수평 보완(동일 이름)]",
+  "taggedAt": "2026-08-12T04:55:49.831Z",
+  "verticalReviewedAt": "2026-08-14T02:54:03.478Z"
 }

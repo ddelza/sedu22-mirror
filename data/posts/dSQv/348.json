@@ -24,8 +24,16 @@
       "subject": "과학",
       "unit": "물질의 구성",
       "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "물질의 구성",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "소금(NaCl) 물에 녹는 현상에 대한 성찰글.",
-  "taggedAt": "2026-08-12T03:26:25.452Z"
+  "tagsNote": "소금(NaCl) 물에 녹는 현상에 대한 성찰글. [보완: 수평 보완(동일 이름)]",
+  "taggedAt": "2026-08-12T03:26:25.452Z",
+  "verticalReviewedAt": "2026-08-14T02:27:31.736Z"
 }

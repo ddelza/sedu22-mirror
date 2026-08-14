@@ -28,8 +28,16 @@
       "subject": "과학",
       "unit": "생식과 유전",
       "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "생식과 유전",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "PTC 미맹 테스트지(발암물질 우려) 사용 안전성 문의.",
-  "taggedAt": "2026-08-12T04:51:56.092Z"
+  "tagsNote": "PTC 미맹 테스트지(발암물질 우려) 사용 안전성 문의. [보완: 수평 보완(동일 이름)]",
+  "taggedAt": "2026-08-12T04:51:56.092Z",
+  "verticalReviewedAt": "2026-08-14T02:52:42.129Z"
 }

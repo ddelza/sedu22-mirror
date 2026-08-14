@@ -24,8 +24,16 @@
       "subject": "과학",
       "unit": "여러 가지 힘",
       "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "힘의 작용",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "달 중력(우주인 걸음) 소재 사진.",
-  "taggedAt": "2026-08-12T04:35:05.627Z"
+  "tagsNote": "달 중력(우주인 걸음) 소재 사진. [보완: 수평 보완]",
+  "taggedAt": "2026-08-12T04:35:05.627Z",
+  "verticalReviewedAt": "2026-08-14T02:49:05.908Z"
 }

@@ -24,8 +24,16 @@
       "subject": "과학",
       "unit": "식물과 에너지",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "식물과 에너지",
+      "confidence": "high"
     }
   ],
-  "tagsNote": "광합성-빛의 필요성(목련 관찰) 사진.",
-  "taggedAt": "2026-08-12T04:35:05.662Z"
+  "tagsNote": "광합성-빛의 필요성(목련 관찰) 사진. [보완: 수평 보완(동일 이름)]",
+  "taggedAt": "2026-08-12T04:35:05.662Z",
+  "verticalReviewedAt": "2026-08-14T02:49:42.211Z"
 }

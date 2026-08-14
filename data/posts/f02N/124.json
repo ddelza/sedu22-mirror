@@ -23,8 +23,16 @@
       "subject": "과학",
       "unit": "태양계",
       "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "태양계",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "학력 격차 학교(지구/달 크기 측정 단원) 수업 어려움.",
-  "taggedAt": "2026-08-12T04:37:41.492Z"
+  "tagsNote": "학력 격차 학교(지구/달 크기 측정 단원) 수업 어려움. [보완: 수평 보완(동일 이름)]",
+  "taggedAt": "2026-08-12T04:37:41.492Z",
+  "verticalReviewedAt": "2026-08-14T02:50:17.317Z"
 }

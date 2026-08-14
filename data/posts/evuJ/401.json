@@ -29,8 +29,16 @@
       "category": "스마트 수업도구",
       "topic": "생성형 AI 도구",
       "confidence": "low"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "물질의 구성",
+      "confidence": "high"
     }
   ],
-  "tagsNote": "원소기호 짝맞추기 게임(2022개정 중2 4단원 주기율표).",
-  "taggedAt": "2026-08-12T03:56:56.783Z"
+  "tagsNote": "원소기호 짝맞추기 게임(2022개정 중2 4단원 주기율표). [보완: 수평 보완(동일 이름, 2022→2015 역방향 보완)]",
+  "taggedAt": "2026-08-12T03:56:56.783Z",
+  "verticalReviewedAt": "2026-08-14T02:32:00.671Z"
 }

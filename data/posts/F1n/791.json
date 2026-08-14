@@ -24,8 +24,16 @@
       "subject": "과학",
       "unit": "자극과 반응",
       "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "자극과 반응",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "감각기관별 전문가 소주제를 학생이 직접 정하는 직소2 협동학습(1차시) 공유.",
-  "taggedAt": "2026-08-12T08:56:23.363Z"
+  "tagsNote": "감각기관별 전문가 소주제를 학생이 직접 정하는 직소2 협동학습(1차시) 공유. [보완: 수평 보완(동일 이름)]",
+  "taggedAt": "2026-08-12T08:56:23.363Z",
+  "verticalReviewedAt": "2026-08-14T02:58:19.739Z"
 }

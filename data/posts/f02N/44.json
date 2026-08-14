@@ -23,8 +23,16 @@
       "subject": "과학",
       "unit": "전기와 자기",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "전기와 자기",
+      "confidence": "high"
     }
   ],
-  "tagsNote": "리드스위치(자기장에 의한 접점 작동) 원리 질문.",
-  "taggedAt": "2026-08-12T04:48:14.911Z"
+  "tagsNote": "리드스위치(자기장에 의한 접점 작동) 원리 질문. [보완: 수평 보완(동일 이름)]",
+  "taggedAt": "2026-08-12T04:48:14.911Z",
+  "verticalReviewedAt": "2026-08-14T02:52:05.433Z"
 }

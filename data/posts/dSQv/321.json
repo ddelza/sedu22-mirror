@@ -29,8 +29,16 @@
       "subject": "과학",
       "unit": "식물과 에너지",
       "confidence": "low"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "식물과 에너지",
+      "confidence": "low"
     }
   ],
-  "tagsNote": "압화 사랑표현카드 만들기 동아리 활동.",
-  "taggedAt": "2026-08-12T03:26:25.418Z"
+  "tagsNote": "압화 사랑표현카드 만들기 동아리 활동. [보완: 수평 보완(동일 이름)]",
+  "taggedAt": "2026-08-12T03:26:25.418Z",
+  "verticalReviewedAt": "2026-08-14T02:27:31.727Z"
 }

@@ -23,8 +23,16 @@
       "subject": "과학",
       "unit": "빛과 파동",
       "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "빛과 파동",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "적외선(열과 빛의 관계) 개념 정의 질문.",
-  "taggedAt": "2026-08-12T04:58:27.172Z"
+  "tagsNote": "적외선(열과 빛의 관계) 개념 정의 질문. [보완: 수평 보완(동일 이름)]",
+  "taggedAt": "2026-08-12T04:58:27.172Z",
+  "verticalReviewedAt": "2026-08-14T02:54:42.180Z"
 }

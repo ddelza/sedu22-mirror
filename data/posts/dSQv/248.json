@@ -29,8 +29,16 @@
       "subject": "과학",
       "unit": "기권과 날씨",
       "confidence": "low"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "날씨와 기후변화",
+      "confidence": "low"
     }
   ],
-  "tagsNote": "기후생태환경 NIE 공동수업 디자인(환경동아리 겸).",
-  "taggedAt": "2026-08-12T03:23:00.646Z"
+  "tagsNote": "기후생태환경 NIE 공동수업 디자인(환경동아리 겸). [보완: 수평 보완]",
+  "taggedAt": "2026-08-12T03:23:00.646Z",
+  "verticalReviewedAt": "2026-08-14T02:22:15.354Z"
 }

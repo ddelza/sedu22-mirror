@@ -24,8 +24,16 @@
       "subject": "과학",
       "unit": "생식과 유전",
       "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "생식과 유전",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "생식과 유전 복습 활동을 포함한 중3 학기말 가벼운 수업 모음 공유.",
-  "taggedAt": "2026-08-12T08:53:47.286Z"
+  "tagsNote": "생식과 유전 복습 활동을 포함한 중3 학기말 가벼운 수업 모음 공유. [보완: 수평 보완(동일 이름)]",
+  "taggedAt": "2026-08-12T08:53:47.286Z",
+  "verticalReviewedAt": "2026-08-14T02:58:19.733Z"
 }

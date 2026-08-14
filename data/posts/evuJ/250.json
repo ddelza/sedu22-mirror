@@ -29,8 +29,16 @@
       "subject": "과학",
       "unit": "전기와 자기",
       "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "전기와 자기",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "챗GPT 프롬프트7(전기 관련 질문을 과학동화로 생성).",
-  "taggedAt": "2026-08-12T03:51:18.264Z"
+  "tagsNote": "챗GPT 프롬프트7(전기 관련 질문을 과학동화로 생성). [보완: 수평 보완(동일 이름)]",
+  "taggedAt": "2026-08-12T03:51:18.264Z",
+  "verticalReviewedAt": "2026-08-14T02:31:23.314Z"
 }

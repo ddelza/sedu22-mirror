@@ -24,8 +24,16 @@
       "subject": "과학",
       "unit": "생물의 다양성",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "생물의 구성과 다양성",
+      "confidence": "high"
     }
   ],
-  "tagsNote": "파리지옥(적응과 진화) 소재 사진.",
-  "taggedAt": "2026-08-12T04:24:08.425Z"
+  "tagsNote": "파리지옥(적응과 진화) 소재 사진. [보완: 수평 보완]",
+  "taggedAt": "2026-08-12T04:24:08.425Z",
+  "verticalReviewedAt": "2026-08-14T02:48:32.647Z"
 }

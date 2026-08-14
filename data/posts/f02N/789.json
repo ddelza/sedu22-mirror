@@ -23,8 +23,16 @@
       "subject": "과학",
       "unit": "별과 우주",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "별과 우주",
+      "confidence": "high"
     }
   ],
-  "tagsNote": "북쪽 하늘 별의 일주운동 방향(반시계/동서 표현) 질문.",
-  "taggedAt": "2026-08-12T04:55:49.843Z"
+  "tagsNote": "북쪽 하늘 별의 일주운동 방향(반시계/동서 표현) 질문. [보완: 수평 보완(동일 이름)]",
+  "taggedAt": "2026-08-12T04:55:49.843Z",
+  "verticalReviewedAt": "2026-08-14T02:54:03.482Z"
 }

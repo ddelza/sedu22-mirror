@@ -24,8 +24,16 @@
       "subject": "과학",
       "unit": "생식과 유전",
       "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "생식과 유전",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "Rh 혈액형 모둠 프로젝트 학습 및 학생 소감 공유.",
-  "taggedAt": "2026-08-12T08:44:53.507Z"
+  "tagsNote": "Rh 혈액형 모둠 프로젝트 학습 및 학생 소감 공유. [보완: 수평 보완(동일 이름)]",
+  "taggedAt": "2026-08-12T08:44:53.507Z",
+  "verticalReviewedAt": "2026-08-14T02:56:55.500Z"
 }

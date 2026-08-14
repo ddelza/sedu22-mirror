@@ -24,8 +24,16 @@
       "subject": "과학",
       "unit": "물질의 특성",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "물질의 특성",
+      "confidence": "high"
     }
   ],
-  "tagsNote": "제로콜라 vs 일반콜라 밀도 비교 자료.",
-  "taggedAt": "2026-08-12T04:24:08.427Z"
+  "tagsNote": "제로콜라 vs 일반콜라 밀도 비교 자료. [보완: 수평 보완(동일 이름)]",
+  "taggedAt": "2026-08-12T04:24:08.427Z",
+  "verticalReviewedAt": "2026-08-14T02:48:32.648Z"
 }

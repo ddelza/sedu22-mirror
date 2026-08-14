@@ -29,8 +29,16 @@
       "subject": "과학",
       "unit": "열과 우리 생활",
       "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "열",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "마이크로비트를 이용한 온도측정 및 자동 그래프 생성 실습 공유.",
-  "taggedAt": "2026-08-12T08:53:47.293Z"
+  "tagsNote": "마이크로비트를 이용한 온도측정 및 자동 그래프 생성 실습 공유. [보완: 수평 보완]",
+  "taggedAt": "2026-08-12T08:53:47.293Z",
+  "verticalReviewedAt": "2026-08-14T02:58:19.735Z"
 }

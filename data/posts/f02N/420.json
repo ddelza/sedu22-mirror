@@ -23,8 +23,16 @@
       "subject": "과학",
       "unit": "자극과 반응",
       "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "자극과 반응",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "실눈을 뜨면 더 잘 보이는 원리(조리개 효과) 질문.",
-  "taggedAt": "2026-08-12T04:48:14.886Z"
+  "tagsNote": "실눈을 뜨면 더 잘 보이는 원리(조리개 효과) 질문. [보완: 수평 보완(동일 이름)]",
+  "taggedAt": "2026-08-12T04:48:14.886Z",
+  "verticalReviewedAt": "2026-08-14T02:52:05.428Z"
 }

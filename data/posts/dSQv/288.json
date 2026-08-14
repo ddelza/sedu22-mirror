@@ -24,8 +24,16 @@
       "subject": "과학",
       "unit": "물질의 상태 변화",
       "confidence": "low"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "물질의 상태 변화",
+      "confidence": "low"
     }
   ],
-  "tagsNote": "요리로 배우는 과학 주제선택 수업.",
-  "taggedAt": "2026-08-12T03:24:21.048Z"
+  "tagsNote": "요리로 배우는 과학 주제선택 수업. [보완: 수평 보완(동일 이름)]",
+  "taggedAt": "2026-08-12T03:24:21.048Z",
+  "verticalReviewedAt": "2026-08-14T02:26:10.760Z"
 }

@@ -23,8 +23,16 @@
       "subject": "과학",
       "unit": "전기와 자기",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "전기와 자기",
+      "confidence": "high"
     }
   ],
-  "tagsNote": "검전기 실험 수업 중 학생 반응 에피소드.",
-  "taggedAt": "2026-08-12T04:37:41.482Z"
+  "tagsNote": "검전기 실험 수업 중 학생 반응 에피소드. [보완: 수평 보완(동일 이름)]",
+  "taggedAt": "2026-08-12T04:37:41.482Z",
+  "verticalReviewedAt": "2026-08-14T02:50:17.316Z"
 }

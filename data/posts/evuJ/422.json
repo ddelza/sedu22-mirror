@@ -29,8 +29,16 @@
       "category": "스마트 수업도구",
       "topic": "생성형 AI 도구",
       "confidence": "low"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "태양계",
+      "confidence": "high"
     }
   ],
-  "tagsNote": "태양계 천체 수박게임(중1 7단원 흥미유발).",
-  "taggedAt": "2026-08-12T03:58:15.952Z"
+  "tagsNote": "태양계 천체 수박게임(중1 7단원 흥미유발). [보완: 수평 보완(동일 이름)]",
+  "taggedAt": "2026-08-12T03:58:15.952Z",
+  "verticalReviewedAt": "2026-08-14T02:32:54.196Z"
 }

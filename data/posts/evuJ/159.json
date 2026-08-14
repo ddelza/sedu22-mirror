@@ -29,8 +29,16 @@
       "category": "스마트 수업도구",
       "topic": "앱/프로그램",
       "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "물질의 상태 변화",
+      "confidence": "high"
     }
   ],
-  "tagsNote": "물질의 상태변화(5단원) 대단원 마무리 방탈출 설문지.",
-  "taggedAt": "2026-08-12T03:48:50.869Z"
+  "tagsNote": "물질의 상태변화(5단원) 대단원 마무리 방탈출 설문지. [보완: 수평 보완(동일 이름)]",
+  "taggedAt": "2026-08-12T03:48:50.869Z",
+  "verticalReviewedAt": "2026-08-14T02:30:33.649Z"
 }

@@ -24,8 +24,16 @@
       "subject": "과학",
       "unit": "물질의 상태 변화",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "물질의 상태 변화",
+      "confidence": "high"
     }
   ],
-  "tagsNote": "분자 운동과 상태 변화 반 대항 십자말풀이 대회 자료 공유.",
-  "taggedAt": "2026-08-12T08:44:53.495Z"
+  "tagsNote": "분자 운동과 상태 변화 반 대항 십자말풀이 대회 자료 공유. [보완: 수평 보완(동일 이름)]",
+  "taggedAt": "2026-08-12T08:44:53.495Z",
+  "verticalReviewedAt": "2026-08-14T02:56:55.496Z"
 }

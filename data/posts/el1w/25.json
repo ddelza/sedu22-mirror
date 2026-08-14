@@ -24,8 +24,16 @@
       "subject": "과학",
       "unit": "생물의 다양성",
       "confidence": "low"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "생물의 구성과 다양성",
+      "confidence": "low"
     }
   ],
-  "tagsNote": "세계 과학관 탐방(공룡 어린이 박물관) 소개.",
-  "taggedAt": "2026-08-12T03:29:01.369Z"
+  "tagsNote": "세계 과학관 탐방(공룡 어린이 박물관) 소개. [보완: 수평 보완]",
+  "taggedAt": "2026-08-12T03:29:01.369Z",
+  "verticalReviewedAt": "2026-08-14T02:29:05.144Z"
 }

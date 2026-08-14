@@ -24,8 +24,16 @@
       "subject": "과학",
       "unit": "동물과 에너지",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "동물과 에너지",
+      "confidence": "high"
     }
   ],
-  "tagsNote": "소화 단원 학습지(비상교육 기반).",
-  "taggedAt": "2026-08-12T03:30:04.356Z"
+  "tagsNote": "소화 단원 학습지(비상교육 기반). [보완: 수평 보완(동일 이름)]",
+  "taggedAt": "2026-08-12T03:30:04.356Z",
+  "verticalReviewedAt": "2026-08-14T02:29:48.752Z"
 }

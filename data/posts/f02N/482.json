@@ -23,8 +23,16 @@
       "subject": "과학",
       "unit": "자극과 반응",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "자극과 반응",
+      "confidence": "high"
     }
   ],
-  "tagsNote": "의식적 반응 경로(뉴런 종류 판별) 그림 문제 질문.",
-  "taggedAt": "2026-08-12T04:49:23.617Z"
+  "tagsNote": "의식적 반응 경로(뉴런 종류 판별) 그림 문제 질문. [보완: 수평 보완(동일 이름)]",
+  "taggedAt": "2026-08-12T04:49:23.617Z",
+  "verticalReviewedAt": "2026-08-14T02:52:42.117Z"
 }

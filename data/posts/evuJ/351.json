@@ -29,8 +29,16 @@
       "category": "스마트 수업도구",
       "topic": "생성형 AI 도구",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "태양계",
+      "confidence": "high"
     }
   ],
-  "tagsNote": "태양계 천체 분류 알고리즘 만들기(바이브코딩).",
-  "taggedAt": "2026-08-12T03:55:07.775Z"
+  "tagsNote": "태양계 천체 분류 알고리즘 만들기(바이브코딩). [보완: 수평 보완(동일 이름)]",
+  "taggedAt": "2026-08-12T03:55:07.775Z",
+  "verticalReviewedAt": "2026-08-14T02:31:23.322Z"
 }

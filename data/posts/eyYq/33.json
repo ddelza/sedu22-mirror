@@ -24,8 +24,16 @@
       "subject": "과학",
       "unit": "빛과 파동",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "빛과 파동",
+      "confidence": "high"
     }
   ],
-  "tagsNote": "그림자 원리(빛의 직진) 오개념 이미지.",
-  "taggedAt": "2026-08-12T04:35:05.629Z"
+  "tagsNote": "그림자 원리(빛의 직진) 오개념 이미지. [보완: 수평 보완(동일 이름)]",
+  "taggedAt": "2026-08-12T04:35:05.629Z",
+  "verticalReviewedAt": "2026-08-14T02:49:05.909Z"
 }

@@ -24,8 +24,16 @@
       "subject": "과학",
       "unit": "여러 가지 힘",
       "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "힘의 작용",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "빨대 구조물 창작하기 자유학년제 자료.",
-  "taggedAt": "2026-08-12T03:18:58.474Z"
+  "tagsNote": "빨대 구조물 창작하기 자유학년제 자료. [보완: 수평 보완: 2015 '여러 가지 힘'의 2022 대응('힘의 작용') 누락.]",
+  "taggedAt": "2026-08-12T03:18:58.474Z",
+  "verticalReviewedAt": "2026-08-14T02:16:34.125Z"
 }

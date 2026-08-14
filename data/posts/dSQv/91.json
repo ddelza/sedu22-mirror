@@ -29,8 +29,16 @@
       "subject": "과학",
       "unit": "동물과 에너지",
       "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "동물과 에너지",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "멸치해부 동아리 활동 연속기.",
-  "taggedAt": "2026-08-12T03:29:01.339Z"
+  "tagsNote": "멸치해부 동아리 활동 연속기. [보완: 수평 보완(동일 이름)]",
+  "taggedAt": "2026-08-12T03:29:01.339Z",
+  "verticalReviewedAt": "2026-08-14T02:29:05.138Z"
 }

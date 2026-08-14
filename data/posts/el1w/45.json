@@ -24,8 +24,16 @@
       "subject": "과학",
       "unit": "지권의 변화",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "지권의 변화",
+      "confidence": "high"
     }
   ],
-  "tagsNote": "암석/광물 총정리 세미나형 수업.",
-  "taggedAt": "2026-08-12T03:30:04.354Z"
+  "tagsNote": "암석/광물 총정리 세미나형 수업. [보완: 수평 보완(동일 이름)]",
+  "taggedAt": "2026-08-12T03:30:04.354Z",
+  "verticalReviewedAt": "2026-08-14T02:29:48.751Z"
 }

@@ -36,8 +36,23 @@
       "category": "게시판별 분류",
       "topic": "거꾸로 교실(김신혜)",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "고등학교",
+      "subject": "지구과학Ⅰ",
+      "unit": "지권의 변동",
+      "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "고등학교",
+      "subject": "지구시스템과학",
+      "unit": "지구 탄생과 생동하는 지구",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "거꾸로 수업 관련 근본적 고민 — 판구조론(지권의 변화) 단원 난이도 언급.",
-  "taggedAt": "2026-08-11T23:32:07.122Z"
+  "tagsNote": "거꾸로 수업 관련 근본적 고민 — 판구조론(지권의 변화) 단원 난이도 언급. [보완: 수직 보완: 글쓴이가 직접 '마치 고등학교 지학 내용이 중학교로 내려온 느낌'이라고 명시한 판구조론 난이도 고민글.]",
+  "taggedAt": "2026-08-11T23:32:07.122Z",
+  "verticalReviewedAt": "2026-08-14T02:14:51.965Z"
 }

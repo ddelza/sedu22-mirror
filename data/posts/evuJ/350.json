@@ -29,8 +29,16 @@
       "subject": "과학",
       "unit": "기체의 성질",
       "confidence": "low"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "기체의 성질",
+      "confidence": "low"
     }
   ],
-  "tagsNote": "AI와 협업한 확산현상 논술 문항 제작.",
-  "taggedAt": "2026-08-12T03:55:07.773Z"
+  "tagsNote": "AI와 협업한 확산현상 논술 문항 제작. [보완: 수평 보완(동일 이름)]",
+  "taggedAt": "2026-08-12T03:55:07.773Z",
+  "verticalReviewedAt": "2026-08-14T02:31:23.321Z"
 }

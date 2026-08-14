@@ -29,8 +29,16 @@
       "category": "스마트 수업도구",
       "topic": "생성형 AI 도구",
       "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "태양계",
+      "confidence": "high"
     }
   ],
-  "tagsNote": "태양계 천체 갤러그 게임(직접 제작).",
-  "taggedAt": "2026-08-12T03:56:56.769Z"
+  "tagsNote": "태양계 천체 갤러그 게임(직접 제작). [보완: 수평 보완(동일 이름)]",
+  "taggedAt": "2026-08-12T03:56:56.769Z",
+  "verticalReviewedAt": "2026-08-14T02:32:00.669Z"
 }

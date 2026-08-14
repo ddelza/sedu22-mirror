@@ -24,8 +24,16 @@
       "subject": "과학",
       "unit": "물질의 특성",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "물질의 특성",
+      "confidence": "high"
     }
   ],
-  "tagsNote": "설탕물 무지개 밀도탑 쌓기 실습 후기.",
-  "taggedAt": "2026-08-12T03:20:18.630Z"
+  "tagsNote": "설탕물 무지개 밀도탑 쌓기 실습 후기. [보완: 수평 보완(동일 이름)]",
+  "taggedAt": "2026-08-12T03:20:18.630Z",
+  "verticalReviewedAt": "2026-08-14T02:19:07.505Z"
 }

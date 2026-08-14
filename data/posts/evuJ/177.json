@@ -24,8 +24,16 @@
       "subject": "과학",
       "unit": "빛과 파동",
       "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "빛과 파동",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "3D 슈뢰더 계단(착시현상) 만들기.",
-  "taggedAt": "2026-08-12T03:50:05.373Z"
+  "tagsNote": "3D 슈뢰더 계단(착시현상) 만들기. [보완: 수평 보완(동일 이름)]",
+  "taggedAt": "2026-08-12T03:50:05.373Z",
+  "verticalReviewedAt": "2026-08-14T02:31:23.309Z"
 }

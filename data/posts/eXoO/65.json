@@ -24,8 +24,16 @@
       "subject": "과학",
       "unit": "지권의 변화",
       "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "지권의 변화",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "교과서 오류(지구계에 태양 포함) 수정 요청 사례(중1 1단원).",
-  "taggedAt": "2026-08-12T04:16:53.912Z"
+  "tagsNote": "교과서 오류(지구계에 태양 포함) 수정 요청 사례(중1 1단원). [보완: 수평 보완(동일 이름)]",
+  "taggedAt": "2026-08-12T04:16:53.912Z",
+  "verticalReviewedAt": "2026-08-14T02:33:28.703Z"
 }

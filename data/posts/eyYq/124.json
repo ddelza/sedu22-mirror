@@ -24,8 +24,16 @@
       "subject": "과학",
       "unit": "열과 우리 생활",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "열",
+      "confidence": "high"
     }
   ],
-  "tagsNote": "단열 개념 도입용 이미지(겉옷-아이스크림).",
-  "taggedAt": "2026-08-12T04:19:43.098Z"
+  "tagsNote": "단열 개념 도입용 이미지(겉옷-아이스크림). [보완: 수평 보완]",
+  "taggedAt": "2026-08-12T04:19:43.098Z",
+  "verticalReviewedAt": "2026-08-14T02:33:28.716Z"
 }

@@ -23,8 +23,16 @@
       "subject": "과학",
       "unit": "화학 반응의 규칙과 에너지 변화",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "화학 반응의 규칙성",
+      "confidence": "high"
     }
   ],
-  "tagsNote": "질량보존법칙(열린/닫힌 공간 기체 질량 측정) 이해 질문.",
-  "taggedAt": "2026-08-12T04:46:42.187Z"
+  "tagsNote": "질량보존법칙(열린/닫힌 공간 기체 질량 측정) 이해 질문. [보완: 수평 보완]",
+  "taggedAt": "2026-08-12T04:46:42.187Z",
+  "verticalReviewedAt": "2026-08-14T02:51:27.992Z"
 }

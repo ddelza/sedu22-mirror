@@ -24,8 +24,16 @@
       "subject": "과학",
       "unit": "물질의 상태 변화",
       "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "물질의 상태 변화",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "리코타 치즈 만들기(단백질 응고) 속 과학.",
-  "taggedAt": "2026-08-12T03:26:25.430Z"
+  "tagsNote": "리코타 치즈 만들기(단백질 응고) 속 과학. [보완: 수평 보완(동일 이름)]",
+  "taggedAt": "2026-08-12T03:26:25.430Z",
+  "verticalReviewedAt": "2026-08-14T02:27:31.732Z"
 }

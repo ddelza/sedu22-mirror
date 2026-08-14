@@ -24,8 +24,16 @@
       "subject": "과학",
       "unit": "빛과 파동",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "빛과 파동",
+      "confidence": "high"
     }
   ],
-  "tagsNote": "인쇄 원리(CMYK, 색의 삼원색) 이미지.",
-  "taggedAt": "2026-08-12T04:22:41.882Z"
+  "tagsNote": "인쇄 원리(CMYK, 색의 삼원색) 이미지. [보완: 수평 보완(동일 이름)]",
+  "taggedAt": "2026-08-12T04:22:41.882Z",
+  "verticalReviewedAt": "2026-08-14T02:47:07.287Z"
 }

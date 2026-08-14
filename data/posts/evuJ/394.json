@@ -29,8 +29,16 @@
       "category": "스마트 수업도구",
       "topic": "생성형 AI 도구",
       "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "물질의 구성",
+      "confidence": "high"
     }
   ],
-  "tagsNote": "이온의 이동 확인 실험 통합 웹앱.",
-  "taggedAt": "2026-08-12T03:56:56.768Z"
+  "tagsNote": "이온의 이동 확인 실험 통합 웹앱. [보완: 수평 보완(동일 이름)]",
+  "taggedAt": "2026-08-12T03:56:56.768Z",
+  "verticalReviewedAt": "2026-08-14T02:32:00.668Z"
 }

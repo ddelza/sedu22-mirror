@@ -24,8 +24,16 @@
       "subject": "과학",
       "unit": "자극과 반응",
       "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "자극과 반응",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "맹점/착시 현상 소재 이미지.",
-  "taggedAt": "2026-08-12T04:21:13.791Z"
+  "tagsNote": "맹점/착시 현상 소재 이미지. [보완: 수평 보완(동일 이름)]",
+  "taggedAt": "2026-08-12T04:21:13.791Z",
+  "verticalReviewedAt": "2026-08-14T02:34:38.509Z"
 }

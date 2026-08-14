@@ -23,8 +23,16 @@
       "subject": "과학",
       "unit": "운동과 에너지",
       "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "운동과 에너지",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "정기고사 그래프 문제(중3 운동 파트) 출제용 그래프 제작 문의.",
-  "taggedAt": "2026-08-12T04:44:11.360Z"
+  "tagsNote": "정기고사 그래프 문제(중3 운동 파트) 출제용 그래프 제작 문의. [보완: 수평 보완(동일 이름)]",
+  "taggedAt": "2026-08-12T04:44:11.360Z",
+  "verticalReviewedAt": "2026-08-14T02:51:27.982Z"
 }

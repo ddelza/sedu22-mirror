@@ -24,8 +24,16 @@
       "subject": "과학",
       "unit": "물질의 상태 변화",
       "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "물질의 상태 변화",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "얼음결정(수소결합) 관찰 사진.",
-  "taggedAt": "2026-08-12T04:21:13.795Z"
+  "tagsNote": "얼음결정(수소결합) 관찰 사진. [보완: 수평 보완(동일 이름)]",
+  "taggedAt": "2026-08-12T04:21:13.795Z",
+  "verticalReviewedAt": "2026-08-14T02:34:38.510Z"
 }

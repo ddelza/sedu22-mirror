@@ -24,8 +24,16 @@
       "subject": "과학",
       "unit": "운동과 에너지",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "운동과 에너지",
+      "confidence": "high"
     }
   ],
-  "tagsNote": "자동차 가속도운동 소재 이미지.",
-  "taggedAt": "2026-08-12T04:24:08.426Z"
+  "tagsNote": "자동차 가속도운동 소재 이미지. [보완: 수평 보완(동일 이름)]",
+  "taggedAt": "2026-08-12T04:24:08.426Z",
+  "verticalReviewedAt": "2026-08-14T02:48:32.647Z"
 }

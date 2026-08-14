@@ -29,8 +29,16 @@
       "category": "스마트 수업도구",
       "topic": "MBL센서",
       "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "물질의 상태 변화",
+      "confidence": "high"
     }
   ],
-  "tagsNote": "팔미트산 녹는점 실험(디지털센서, 중2 교과서).",
-  "taggedAt": "2026-08-12T03:56:56.761Z"
+  "tagsNote": "팔미트산 녹는점 실험(디지털센서, 중2 교과서). [보완: 수평 보완(동일 이름)]",
+  "taggedAt": "2026-08-12T03:56:56.761Z",
+  "verticalReviewedAt": "2026-08-14T02:32:00.666Z"
 }

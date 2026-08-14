@@ -23,8 +23,16 @@
       "subject": "과학",
       "unit": "여러 가지 힘",
       "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "힘의 작용",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "몸무게(체중계 측정값)와 질량의 관계 질문.",
-  "taggedAt": "2026-08-12T04:46:42.215Z"
+  "tagsNote": "몸무게(체중계 측정값)와 질량의 관계 질문. [보완: 수평 보완]",
+  "taggedAt": "2026-08-12T04:46:42.215Z",
+  "verticalReviewedAt": "2026-08-14T02:52:05.426Z"
 }

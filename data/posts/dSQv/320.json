@@ -24,8 +24,16 @@
       "subject": "과학",
       "unit": "여러 가지 힘",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "힘의 작용",
+      "confidence": "high"
     }
   ],
-  "tagsNote": "탄성력 이용 고무줄 자동차 만들기.",
-  "taggedAt": "2026-08-12T03:26:25.414Z"
+  "tagsNote": "탄성력 이용 고무줄 자동차 만들기. [보완: 수평 보완]",
+  "taggedAt": "2026-08-12T03:26:25.414Z",
+  "verticalReviewedAt": "2026-08-14T02:27:31.726Z"
 }

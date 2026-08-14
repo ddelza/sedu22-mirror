@@ -24,8 +24,16 @@
       "subject": "과학",
       "unit": "물질의 상태 변화",
       "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "물질의 상태 변화",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "설탕공예 탐구 활동(4).",
-  "taggedAt": "2026-08-12T03:20:18.646Z"
+  "tagsNote": "설탕공예 탐구 활동(4). [보완: 수평 보완(동일 이름)]",
+  "taggedAt": "2026-08-12T03:20:18.646Z",
+  "verticalReviewedAt": "2026-08-14T02:19:07.561Z"
 }

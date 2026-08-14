@@ -24,8 +24,16 @@
       "subject": "과학",
       "unit": "빛과 파동",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "빛과 파동",
+      "confidence": "high"
     }
   ],
-  "tagsNote": "중1 평면거울 공개수업용 실험 아이디어 조언 요청.",
-  "taggedAt": "2026-08-12T08:48:40.811Z"
+  "tagsNote": "중1 평면거울 공개수업용 실험 아이디어 조언 요청. [보완: 수평 보완(동일 이름)]",
+  "taggedAt": "2026-08-12T08:48:40.811Z",
+  "verticalReviewedAt": "2026-08-14T02:57:38.697Z"
 }

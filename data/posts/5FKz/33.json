@@ -29,8 +29,16 @@
       "category": "게시판별 분류",
       "topic": "거꾸로 교실(김신혜)",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "운동과 에너지",
+      "confidence": "low"
     }
   ],
-  "tagsNote": "거꾸로교실 캠프 후기 — 2학년 '일과 에너지' 단원에 시도 예정 언급.",
-  "taggedAt": "2026-08-11T23:33:10.410Z"
+  "tagsNote": "거꾸로교실 캠프 후기 — 2학년 '일과 에너지' 단원에 시도 예정 언급. [보완: 수평 보완: 2015 '운동과 에너지'의 2022 대응 단원(동일 이름) 누락.]",
+  "taggedAt": "2026-08-11T23:33:10.410Z",
+  "verticalReviewedAt": "2026-08-14T02:14:51.966Z"
 }

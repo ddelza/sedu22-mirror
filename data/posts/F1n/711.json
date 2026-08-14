@@ -24,8 +24,16 @@
       "subject": "과학",
       "unit": "동물과 에너지",
       "confidence": "low"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "동물과 에너지",
+      "confidence": "low"
     }
   ],
-  "tagsNote": "말라리아 위험지역 확대 관련 모기 주제 학기말 수업 공유.",
-  "taggedAt": "2026-08-12T08:53:47.270Z"
+  "tagsNote": "말라리아 위험지역 확대 관련 모기 주제 학기말 수업 공유. [보완: 수평 보완(동일 이름)]",
+  "taggedAt": "2026-08-12T08:53:47.270Z",
+  "verticalReviewedAt": "2026-08-14T02:58:19.731Z"
 }

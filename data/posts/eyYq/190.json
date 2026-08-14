@@ -24,8 +24,16 @@
       "subject": "과학",
       "unit": "빛과 파동",
       "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "빛과 파동",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "평면파/물결파 착시 이미지.",
-  "taggedAt": "2026-08-12T04:22:41.858Z"
+  "tagsNote": "평면파/물결파 착시 이미지. [보완: 수평 보완(동일 이름)]",
+  "taggedAt": "2026-08-12T04:22:41.858Z",
+  "verticalReviewedAt": "2026-08-14T02:47:07.281Z"
 }

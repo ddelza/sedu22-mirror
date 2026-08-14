@@ -24,8 +24,16 @@
       "subject": "과학",
       "unit": "동물과 에너지",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "동물과 에너지",
+      "confidence": "high"
     }
   ],
-  "tagsNote": "동물의 구성단계 컨텐츠(2학년).",
-  "taggedAt": "2026-08-12T04:14:05.261Z"
+  "tagsNote": "동물의 구성단계 컨텐츠(2학년). [보완: 수평 보완(동일 이름)]",
+  "taggedAt": "2026-08-12T04:14:05.261Z",
+  "verticalReviewedAt": "2026-08-14T02:32:54.208Z"
 }

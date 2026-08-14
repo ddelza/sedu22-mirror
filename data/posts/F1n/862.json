@@ -24,8 +24,16 @@
       "subject": "과학",
       "unit": "지권의 변화",
       "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "지권의 변화",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "영화 '한반도의 공룡 점박이' 감상 및 공룡 맞추기 학기말 활동 공유.",
-  "taggedAt": "2026-08-12T08:57:43.702Z"
+  "tagsNote": "영화 '한반도의 공룡 점박이' 감상 및 공룡 맞추기 학기말 활동 공유. [보완: 수평 보완(동일 이름)]",
+  "taggedAt": "2026-08-12T08:57:43.702Z",
+  "verticalReviewedAt": "2026-08-14T02:59:00.430Z"
 }

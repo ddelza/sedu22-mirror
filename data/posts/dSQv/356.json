@@ -24,8 +24,16 @@
       "subject": "과학",
       "unit": "생물의 다양성",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "생물의 구성과 다양성",
+      "confidence": "high"
     }
   ],
-  "tagsNote": "기후생태환경교육 '슬기로운 식물생활'(1학년 생물다양성 단원 명시).",
-  "taggedAt": "2026-08-12T03:26:25.466Z"
+  "tagsNote": "기후생태환경교육 '슬기로운 식물생활'(1학년 생물다양성 단원 명시). [보완: 수평 보완]",
+  "taggedAt": "2026-08-12T03:26:25.466Z",
+  "verticalReviewedAt": "2026-08-14T02:28:28.162Z"
 }

@@ -24,8 +24,16 @@
       "subject": "과학",
       "unit": "동물과 에너지",
       "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "동물과 에너지",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "멸치 해부도 자료 공유(116 답글).",
-  "taggedAt": "2026-08-12T03:18:58.480Z"
+  "tagsNote": "멸치 해부도 자료 공유(116 답글). [보완: 수평 보완: 2015만 있고 2022(동일 이름) 누락.]",
+  "taggedAt": "2026-08-12T03:18:58.480Z",
+  "verticalReviewedAt": "2026-08-14T02:17:53.322Z"
 }

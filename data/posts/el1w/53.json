@@ -24,8 +24,16 @@
       "subject": "과학",
       "unit": "열과 우리 생활",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "열",
+      "confidence": "high"
     }
   ],
-  "tagsNote": "중2 8단원 열과 우리 생활(전도/대류/복사/열팽창) 영상.",
-  "taggedAt": "2026-08-12T03:30:04.366Z"
+  "tagsNote": "중2 8단원 열과 우리 생활(전도/대류/복사/열팽창) 영상. [보완: 수평 보완]",
+  "taggedAt": "2026-08-12T03:30:04.366Z",
+  "verticalReviewedAt": "2026-08-14T02:29:48.757Z"
 }

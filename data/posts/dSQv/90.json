@@ -24,8 +24,16 @@
       "subject": "과학",
       "unit": "여러 가지 힘",
       "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "힘의 작용",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "마시멜로우 챌린지(구조물 쌓기) 활동.",
-  "taggedAt": "2026-08-12T03:29:01.338Z"
+  "tagsNote": "마시멜로우 챌린지(구조물 쌓기) 활동. [보완: 수평 보완]",
+  "taggedAt": "2026-08-12T03:29:01.338Z",
+  "verticalReviewedAt": "2026-08-14T02:29:05.138Z"
 }

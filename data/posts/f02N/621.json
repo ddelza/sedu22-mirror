@@ -23,8 +23,16 @@
       "subject": "과학",
       "unit": "빛과 파동",
       "confidence": "low"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "빛과 파동",
+      "confidence": "low"
     }
   ],
-  "tagsNote": "RGB렌즈 그림그리기 활동 자료(색 마카번호) 관련 이전 게시글 검색 요청.",
-  "taggedAt": "2026-08-12T04:51:56.135Z"
+  "tagsNote": "RGB렌즈 그림그리기 활동 자료(색 마카번호) 관련 이전 게시글 검색 요청. [보완: 수평 보완(동일 이름)]",
+  "taggedAt": "2026-08-12T04:51:56.135Z",
+  "verticalReviewedAt": "2026-08-14T02:53:27.557Z"
 }

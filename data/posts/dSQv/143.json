@@ -24,8 +24,16 @@
       "subject": "과학",
       "unit": "빛과 파동",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "빛과 파동",
+      "confidence": "high"
     }
   ],
-  "tagsNote": "홀로그램 만들기(교과서 수록 실험).",
-  "taggedAt": "2026-08-12T03:20:18.599Z"
+  "tagsNote": "홀로그램 만들기(교과서 수록 실험). [보완: 수평 보완: 2015만 있고 2022(동일 이름) 누락.]",
+  "taggedAt": "2026-08-12T03:20:18.599Z",
+  "verticalReviewedAt": "2026-08-14T02:17:53.334Z"
 }

@@ -24,8 +24,16 @@
       "subject": "과학",
       "unit": "물질의 상태 변화",
       "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "물질의 상태 변화",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "과학신문반 마지막 시간(달고나 만들기, 설탕 결정화).",
-  "taggedAt": "2026-08-12T03:24:21.075Z"
+  "tagsNote": "과학신문반 마지막 시간(달고나 만들기, 설탕 결정화). [보완: 수평 보완(동일 이름)]",
+  "taggedAt": "2026-08-12T03:24:21.075Z",
+  "verticalReviewedAt": "2026-08-14T02:26:10.768Z"
 }
