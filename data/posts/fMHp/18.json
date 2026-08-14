@@ -24,8 +24,16 @@
       "subject": "과학",
       "unit": "여러 가지 힘",
       "confidence": "low"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "힘의 작용",
+      "confidence": "low"
     }
   ],
-  "tagsNote": "헬륨비행선 만들기 활동 프로젝트 공유.",
-  "taggedAt": "2026-08-12T14:54:31.953Z"
+  "tagsNote": "헬륨비행선 만들기 활동 프로젝트 공유. [보완: 2015 '여러 가지 힘'만 있고 2022 태그 누락 - 동일 이름 단원으로 안전하게 교차 태그 추가]",
+  "taggedAt": "2026-08-12T14:54:31.953Z",
+  "verticalReviewedAt": "2026-08-14T03:48:19.294Z"
 }
