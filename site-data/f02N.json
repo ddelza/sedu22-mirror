@@ -94,6 +94,13 @@
         "subject": "과학",
         "unit": "별과 우주",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "별과 우주",
+        "confidence": "high"
       }
     ]
   },
@@ -115,6 +122,13 @@
       },
       {
         "curriculumYear": "2015",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "운동과 에너지",
+        "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2022",
         "schoolLevel": "중학교",
         "subject": "과학",
         "unit": "운동과 에너지",
@@ -264,6 +278,13 @@
       },
       {
         "curriculumYear": "2015",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "자극과 반응",
+        "confidence": "high"
+      },
+      {
+        "curriculumYear": "2022",
         "schoolLevel": "중학교",
         "subject": "과학",
         "unit": "자극과 반응",
@@ -560,6 +581,13 @@
         "subject": "과학",
         "unit": "과학기술과 인류 문명",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "과학과 인류의 지속가능한 삶",
+        "confidence": "high"
       }
     ]
   },
@@ -635,6 +663,13 @@
         "subject": "과학",
         "unit": "여러 가지 힘",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "힘의 작용",
+        "confidence": "high"
       }
     ]
   },
@@ -681,6 +716,13 @@
       },
       {
         "curriculumYear": "2015",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "생식과 유전",
+        "confidence": "high"
+      },
+      {
+        "curriculumYear": "2022",
         "schoolLevel": "중학교",
         "subject": "과학",
         "unit": "생식과 유전",
@@ -833,6 +875,13 @@
         "subject": "과학",
         "unit": "열과 우리 생활",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "열",
+        "confidence": "high"
       }
     ]
   },
@@ -906,6 +955,13 @@
         "subject": "과학",
         "unit": "생물의 다양성",
         "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "생물의 구성과 다양성",
+        "confidence": "medium"
       }
     ]
   },
@@ -927,6 +983,13 @@
       },
       {
         "curriculumYear": "2015",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "태양계",
+        "confidence": "high"
+      },
+      {
+        "curriculumYear": "2022",
         "schoolLevel": "중학교",
         "subject": "과학",
         "unit": "태양계",
@@ -981,6 +1044,13 @@
         "subject": "과학",
         "unit": "운동과 에너지",
         "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "운동과 에너지",
+        "confidence": "medium"
       }
     ]
   },
@@ -1025,6 +1095,13 @@
       },
       {
         "curriculumYear": "2015",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "자극과 반응",
+        "confidence": "high"
+      },
+      {
+        "curriculumYear": "2022",
         "schoolLevel": "중학교",
         "subject": "과학",
         "unit": "자극과 반응",
@@ -1173,6 +1250,13 @@
         "subject": "과학",
         "unit": "기권과 날씨",
         "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "날씨와 기후변화",
+        "confidence": "medium"
       }
     ]
   },
@@ -1246,6 +1330,13 @@
         "subject": "과학",
         "unit": "기권과 날씨",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "날씨와 기후변화",
+        "confidence": "high"
       }
     ]
   },
@@ -1296,6 +1387,13 @@
         "subject": "과학",
         "unit": "자극과 반응",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "자극과 반응",
+        "confidence": "high"
       }
     ]
   },
@@ -1317,6 +1415,13 @@
       },
       {
         "curriculumYear": "2015",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "자극과 반응",
+        "confidence": "high"
+      },
+      {
+        "curriculumYear": "2022",
         "schoolLevel": "중학교",
         "subject": "과학",
         "unit": "자극과 반응",
@@ -1515,6 +1620,13 @@
         "subject": "과학",
         "unit": "운동과 에너지",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "운동과 에너지",
+        "confidence": "high"
       }
     ]
   },
@@ -1565,6 +1677,13 @@
         "subject": "과학",
         "unit": "화학 반응의 규칙과 에너지 변화",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "화학 반응의 규칙성",
+        "confidence": "high"
       }
     ]
   },
@@ -1586,6 +1705,13 @@
       },
       {
         "curriculumYear": "2015",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "자극과 반응",
+        "confidence": "high"
+      },
+      {
+        "curriculumYear": "2022",
         "schoolLevel": "중학교",
         "subject": "과학",
         "unit": "자극과 반응",
@@ -1778,6 +1904,13 @@
       },
       {
         "curriculumYear": "2015",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "자극과 반응",
+        "confidence": "high"
+      },
+      {
+        "curriculumYear": "2022",
         "schoolLevel": "중학교",
         "subject": "과학",
         "unit": "자극과 반응",
@@ -2095,6 +2228,13 @@
         "subject": "과학",
         "unit": "물질의 특성",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "물질의 특성",
+        "confidence": "high"
       }
     ]
   },
@@ -2195,6 +2335,13 @@
         "subject": "과학",
         "unit": "물질의 특성",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "물질의 특성",
+        "confidence": "high"
       }
     ]
   },
@@ -2241,6 +2388,13 @@
       },
       {
         "curriculumYear": "2015",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "생식과 유전",
+        "confidence": "high"
+      },
+      {
+        "curriculumYear": "2022",
         "schoolLevel": "중학교",
         "subject": "과학",
         "unit": "생식과 유전",
@@ -2295,6 +2449,13 @@
         "subject": "과학",
         "unit": "생식과 유전",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "생식과 유전",
+        "confidence": "high"
       }
     ]
   },
@@ -2339,6 +2500,13 @@
       },
       {
         "curriculumYear": "2015",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "물질의 특성",
+        "confidence": "high"
+      },
+      {
+        "curriculumYear": "2022",
         "schoolLevel": "중학교",
         "subject": "과학",
         "unit": "물질의 특성",
@@ -2393,6 +2561,13 @@
         "subject": "과학",
         "unit": "생식과 유전",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "생식과 유전",
+        "confidence": "high"
       }
     ]
   },
@@ -2439,6 +2614,13 @@
       },
       {
         "curriculumYear": "2015",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "전기와 자기",
+        "confidence": "high"
+      },
+      {
+        "curriculumYear": "2022",
         "schoolLevel": "중학교",
         "subject": "과학",
         "unit": "전기와 자기",
@@ -2514,6 +2696,13 @@
         "subject": "과학",
         "unit": "동물과 에너지",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "동물과 에너지",
+        "confidence": "high"
       }
     ]
   },
@@ -2535,6 +2724,13 @@
       },
       {
         "curriculumYear": "2015",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "기체의 성질",
+        "confidence": "high"
+      },
+      {
+        "curriculumYear": "2022",
         "schoolLevel": "중학교",
         "subject": "과학",
         "unit": "기체의 성질",
@@ -2614,6 +2810,13 @@
         "subject": "과학",
         "unit": "자극과 반응",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "자극과 반응",
+        "confidence": "high"
       }
     ]
   },
@@ -2639,6 +2842,13 @@
         "subject": "과학",
         "unit": "태양계",
         "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "태양계",
+        "confidence": "medium"
       }
     ]
   },
@@ -2660,6 +2870,13 @@
       },
       {
         "curriculumYear": "2015",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "빛과 파동",
+        "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2022",
         "schoolLevel": "중학교",
         "subject": "과학",
         "unit": "빛과 파동",
@@ -2719,6 +2936,13 @@
         "category": "스마트 수업도구",
         "topic": "앱/프로그램",
         "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "생식과 유전",
+        "confidence": "medium"
       }
     ]
   },
@@ -2747,6 +2971,20 @@
       },
       {
         "curriculumYear": "2015",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "별과 우주",
+        "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "생식과 유전",
+        "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2022",
         "schoolLevel": "중학교",
         "subject": "과학",
         "unit": "별과 우주",
@@ -2920,6 +3158,13 @@
       },
       {
         "curriculumYear": "2015",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "자극과 반응",
+        "confidence": "high"
+      },
+      {
+        "curriculumYear": "2022",
         "schoolLevel": "중학교",
         "subject": "과학",
         "unit": "자극과 반응",
@@ -3216,6 +3461,13 @@
         "subject": "과학",
         "unit": "운동과 에너지",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "운동과 에너지",
+        "confidence": "high"
       }
     ]
   },
@@ -3237,6 +3489,13 @@
       },
       {
         "curriculumYear": "2015",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "운동과 에너지",
+        "confidence": "high"
+      },
+      {
+        "curriculumYear": "2022",
         "schoolLevel": "중학교",
         "subject": "과학",
         "unit": "운동과 에너지",
@@ -3266,6 +3525,13 @@
         "subject": "과학",
         "unit": "자극과 반응",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "자극과 반응",
+        "confidence": "high"
       }
     ]
   },
@@ -3287,6 +3553,13 @@
       },
       {
         "curriculumYear": "2015",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "운동과 에너지",
+        "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2022",
         "schoolLevel": "중학교",
         "subject": "과학",
         "unit": "운동과 에너지",
@@ -3339,6 +3612,13 @@
         "subject": "과학",
         "unit": "화학 반응의 규칙과 에너지 변화",
         "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "화학 반응의 규칙성",
+        "confidence": "medium"
       }
     ]
   },
@@ -3360,6 +3640,13 @@
       },
       {
         "curriculumYear": "2015",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "전기와 자기",
+        "confidence": "high"
+      },
+      {
+        "curriculumYear": "2022",
         "schoolLevel": "중학교",
         "subject": "과학",
         "unit": "전기와 자기",
@@ -3437,6 +3724,13 @@
         "subject": "과학",
         "unit": "운동과 에너지",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "운동과 에너지",
+        "confidence": "high"
       }
     ]
   },
@@ -3487,6 +3781,13 @@
         "subject": "과학",
         "unit": "별과 우주",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "별과 우주",
+        "confidence": "high"
       }
     ]
   },
@@ -3533,6 +3834,13 @@
       },
       {
         "curriculumYear": "2015",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "별과 우주",
+        "confidence": "high"
+      },
+      {
+        "curriculumYear": "2022",
         "schoolLevel": "중학교",
         "subject": "과학",
         "unit": "별과 우주",
@@ -3610,6 +3918,13 @@
         "subject": "과학",
         "unit": "여러 가지 힘",
         "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "힘의 작용",
+        "confidence": "medium"
       }
     ]
   },
@@ -3634,6 +3949,13 @@
         "schoolLevel": "중학교",
         "subject": "과학",
         "unit": "기권과 날씨",
+        "confidence": "high"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "날씨와 기후변화",
         "confidence": "high"
       }
     ]
@@ -3710,6 +4032,13 @@
         "subject": "과학",
         "unit": "에너지 전환과 보존",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "전기와 자기",
+        "confidence": "medium"
       }
     ]
   },
@@ -3858,6 +4187,13 @@
         "subject": "과학",
         "unit": "운동과 에너지",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "운동과 에너지",
+        "confidence": "high"
       }
     ]
   },
@@ -3879,6 +4215,13 @@
       },
       {
         "curriculumYear": "2015",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "운동과 에너지",
+        "confidence": "high"
+      },
+      {
+        "curriculumYear": "2022",
         "schoolLevel": "중학교",
         "subject": "과학",
         "unit": "운동과 에너지",
@@ -3952,6 +4295,13 @@
       },
       {
         "curriculumYear": "2015",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "운동과 에너지",
+        "confidence": "high"
+      },
+      {
+        "curriculumYear": "2022",
         "schoolLevel": "중학교",
         "subject": "과학",
         "unit": "운동과 에너지",
@@ -4031,6 +4381,13 @@
         "subject": "과학",
         "unit": "운동과 에너지",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "운동과 에너지",
+        "confidence": "high"
       }
     ]
   },
@@ -4057,6 +4414,13 @@
       },
       {
         "curriculumYear": "2015",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "전기와 자기",
+        "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2022",
         "schoolLevel": "중학교",
         "subject": "과학",
         "unit": "전기와 자기",
@@ -4111,6 +4475,13 @@
         "subject": "과학",
         "unit": "운동과 에너지",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "운동과 에너지",
+        "confidence": "high"
       }
     ]
   },
@@ -4132,6 +4503,13 @@
       },
       {
         "curriculumYear": "2015",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "식물과 에너지",
+        "confidence": "high"
+      },
+      {
+        "curriculumYear": "2022",
         "schoolLevel": "중학교",
         "subject": "과학",
         "unit": "식물과 에너지",
@@ -4161,6 +4539,13 @@
         "subject": "과학",
         "unit": "기권과 날씨",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "날씨와 기후변화",
+        "confidence": "high"
       }
     ]
   },
@@ -4182,6 +4567,13 @@
       },
       {
         "curriculumYear": "2015",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "운동과 에너지",
+        "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2022",
         "schoolLevel": "중학교",
         "subject": "과학",
         "unit": "운동과 에너지",
@@ -4236,6 +4628,13 @@
         "subject": "과학",
         "unit": "운동과 에너지",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "운동과 에너지",
+        "confidence": "high"
       }
     ]
   },
@@ -4282,6 +4681,13 @@
       },
       {
         "curriculumYear": "2015",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "별과 우주",
+        "confidence": "high"
+      },
+      {
+        "curriculumYear": "2022",
         "schoolLevel": "중학교",
         "subject": "과학",
         "unit": "별과 우주",
@@ -4361,6 +4767,13 @@
         "subject": "과학",
         "unit": "기권과 날씨",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "날씨와 기후변화",
+        "confidence": "high"
       }
     ]
   },
@@ -4436,6 +4849,13 @@
         "subject": "과학",
         "unit": "지권의 변화",
         "confidence": "low"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "지권의 변화",
+        "confidence": "low"
       }
     ]
   },
@@ -4457,6 +4877,13 @@
       },
       {
         "curriculumYear": "2015",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "물질의 특성",
+        "confidence": "low"
+      },
+      {
+        "curriculumYear": "2022",
         "schoolLevel": "중학교",
         "subject": "과학",
         "unit": "물질의 특성",
@@ -4486,6 +4913,13 @@
         "subject": "과학",
         "unit": "기권과 날씨",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "날씨와 기후변화",
+        "confidence": "high"
       }
     ]
   },
@@ -4510,6 +4944,13 @@
         "schoolLevel": "중학교",
         "subject": "과학",
         "unit": "기권과 날씨",
+        "confidence": "high"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "날씨와 기후변화",
         "confidence": "high"
       }
     ]
@@ -4630,6 +5071,13 @@
         "subject": "과학",
         "unit": "화학 반응의 규칙과 에너지 변화",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "화학 반응의 규칙성",
+        "confidence": "high"
       }
     ]
   },
@@ -4680,6 +5128,13 @@
         "subject": "과학",
         "unit": "전기와 자기",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "전기와 자기",
+        "confidence": "high"
       }
     ]
   },
@@ -4701,6 +5156,13 @@
       },
       {
         "curriculumYear": "2015",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "기체의 성질",
+        "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2022",
         "schoolLevel": "중학교",
         "subject": "과학",
         "unit": "기체의 성질",
@@ -4774,6 +5236,13 @@
       },
       {
         "curriculumYear": "2015",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "전기와 자기",
+        "confidence": "high"
+      },
+      {
+        "curriculumYear": "2022",
         "schoolLevel": "중학교",
         "subject": "과학",
         "unit": "전기와 자기",
@@ -4968,6 +5437,13 @@
         "subject": "과학",
         "unit": "기권과 날씨",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "날씨와 기후변화",
+        "confidence": "high"
       }
     ]
   },
@@ -5043,6 +5519,13 @@
         "subject": "과학",
         "unit": "태양계",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "태양계",
+        "confidence": "high"
       }
     ]
   },
@@ -5064,6 +5547,13 @@
       },
       {
         "curriculumYear": "2015",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "전기와 자기",
+        "confidence": "high"
+      },
+      {
+        "curriculumYear": "2022",
         "schoolLevel": "중학교",
         "subject": "과학",
         "unit": "전기와 자기",
@@ -5114,6 +5604,13 @@
       },
       {
         "curriculumYear": "2015",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "물질의 특성",
+        "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2022",
         "schoolLevel": "중학교",
         "subject": "과학",
         "unit": "물질의 특성",
@@ -5266,6 +5763,13 @@
         "subject": "과학",
         "unit": "물질의 상태 변화",
         "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "물질의 상태 변화",
+        "confidence": "medium"
       }
     ]
   },
@@ -5313,6 +5817,13 @@
         "schoolLevel": "중학교",
         "subject": "과학",
         "unit": "기권과 날씨",
+        "confidence": "high"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "날씨와 기후변화",
         "confidence": "high"
       }
     ]
@@ -5364,6 +5875,13 @@
         "subject": "과학",
         "unit": "생물의 다양성",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "생물의 구성과 다양성",
+        "confidence": "high"
       }
     ]
   },
@@ -5389,6 +5907,13 @@
         "subject": "과학",
         "unit": "기권과 날씨",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "날씨와 기후변화",
+        "confidence": "high"
       }
     ]
   },
@@ -5413,6 +5938,13 @@
         "schoolLevel": "중학교",
         "subject": "과학",
         "unit": "기권과 날씨",
+        "confidence": "high"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "날씨와 기후변화",
         "confidence": "high"
       }
     ]
@@ -5486,6 +6018,13 @@
         "schoolLevel": "중학교",
         "subject": "과학",
         "unit": "기권과 날씨",
+        "confidence": "high"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "날씨와 기후변화",
         "confidence": "high"
       }
     ]
@@ -5606,6 +6145,13 @@
       },
       {
         "curriculumYear": "2015",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "빛과 파동",
+        "confidence": "high"
+      },
+      {
+        "curriculumYear": "2022",
         "schoolLevel": "중학교",
         "subject": "과학",
         "unit": "빛과 파동",
@@ -6134,6 +6680,13 @@
         "category": "과학교사 업무",
         "topic": "과학 행사",
         "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "힘의 작용",
+        "confidence": "medium"
       }
     ]
   },
@@ -6576,6 +7129,13 @@
         "subject": "과학",
         "unit": "빛과 파동",
         "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "빛과 파동",
+        "confidence": "medium"
       }
     ]
   },
@@ -6651,6 +7211,13 @@
         "subject": "과학",
         "unit": "기체의 성질",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "기체의 성질",
+        "confidence": "high"
       }
     ]
   },
@@ -6720,6 +7287,13 @@
       },
       {
         "curriculumYear": "2015",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "별과 우주",
+        "confidence": "high"
+      },
+      {
+        "curriculumYear": "2022",
         "schoolLevel": "중학교",
         "subject": "과학",
         "unit": "별과 우주",
@@ -6843,6 +7417,13 @@
       },
       {
         "curriculumYear": "2015",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "동물과 에너지",
+        "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2022",
         "schoolLevel": "중학교",
         "subject": "과학",
         "unit": "동물과 에너지",
@@ -6973,6 +7554,13 @@
         "subject": "과학",
         "unit": "빛과 파동",
         "confidence": "low"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "빛과 파동",
+        "confidence": "low"
       }
     ]
   },
@@ -7048,6 +7636,13 @@
         "subject": "과학",
         "unit": "에너지 전환과 보존",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "전기와 자기",
+        "confidence": "medium"
       }
     ]
   },
@@ -7171,6 +7766,13 @@
         "subject": "과학",
         "unit": "별과 우주",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "별과 우주",
+        "confidence": "high"
       }
     ]
   },
@@ -7192,6 +7794,13 @@
       },
       {
         "curriculumYear": "2015",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "생식과 유전",
+        "confidence": "high"
+      },
+      {
+        "curriculumYear": "2022",
         "schoolLevel": "중학교",
         "subject": "과학",
         "unit": "생식과 유전",
@@ -7294,6 +7903,13 @@
         "subject": "과학",
         "unit": "생식과 유전",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "생식과 유전",
+        "confidence": "high"
       }
     ]
   },
@@ -7315,6 +7931,13 @@
       },
       {
         "curriculumYear": "2015",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "생식과 유전",
+        "confidence": "high"
+      },
+      {
+        "curriculumYear": "2022",
         "schoolLevel": "중학교",
         "subject": "과학",
         "unit": "생식과 유전",
@@ -7417,6 +8040,13 @@
         "subject": "과학",
         "unit": "열과 우리 생활",
         "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "열",
+        "confidence": "medium"
       }
     ]
   },
@@ -7492,6 +8122,13 @@
         "subject": "과학",
         "unit": "생식과 유전",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "생식과 유전",
+        "confidence": "high"
       }
     ]
   },
@@ -7563,6 +8200,13 @@
         "subject": "과학",
         "unit": "생식과 유전",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "생식과 유전",
+        "confidence": "high"
       }
     ]
   },
@@ -7609,6 +8253,13 @@
       },
       {
         "curriculumYear": "2015",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "별과 우주",
+        "confidence": "high"
+      },
+      {
+        "curriculumYear": "2022",
         "schoolLevel": "중학교",
         "subject": "과학",
         "unit": "별과 우주",
@@ -7765,6 +8416,13 @@
       {
         "category": "스마트 수업도구",
         "topic": "앱/프로그램",
+        "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "식물과 에너지",
         "confidence": "medium"
       }
     ]
@@ -8166,6 +8824,13 @@
         "subject": "과학",
         "unit": "생식과 유전",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "생식과 유전",
+        "confidence": "high"
       }
     ]
   },
@@ -8360,6 +9025,13 @@
         "subject": "과학",
         "unit": "생식과 유전",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "생식과 유전",
+        "confidence": "high"
       }
     ]
   },
@@ -8459,6 +9131,13 @@
         "schoolLevel": "중학교",
         "subject": "과학",
         "unit": "열과 우리 생활",
+        "confidence": "high"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "열",
         "confidence": "high"
       }
     ]
@@ -8579,6 +9258,13 @@
       },
       {
         "curriculumYear": "2015",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "물질의 특성",
+        "confidence": "low"
+      },
+      {
+        "curriculumYear": "2022",
         "schoolLevel": "중학교",
         "subject": "과학",
         "unit": "물질의 특성",
@@ -8736,6 +9422,13 @@
         "subject": "과학",
         "unit": "생식과 유전",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "생식과 유전",
+        "confidence": "high"
       }
     ]
   },
@@ -8883,6 +9576,13 @@
       },
       {
         "curriculumYear": "2015",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "생식과 유전",
+        "confidence": "high"
+      },
+      {
+        "curriculumYear": "2022",
         "schoolLevel": "중학교",
         "subject": "과학",
         "unit": "생식과 유전",
@@ -9256,6 +9956,13 @@
         "subject": "과학",
         "unit": "기체의 성질",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "기체의 성질",
+        "confidence": "high"
       }
     ]
   },
@@ -9479,6 +10186,13 @@
         "subject": "과학",
         "unit": "자극과 반응",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "자극과 반응",
+        "confidence": "high"
       }
     ]
   },
@@ -9554,6 +10268,13 @@
         "subject": "과학",
         "unit": "생식과 유전",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "생식과 유전",
+        "confidence": "high"
       }
     ]
   },
@@ -9625,6 +10346,13 @@
       },
       {
         "curriculumYear": "2015",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "자극과 반응",
+        "confidence": "high"
+      },
+      {
+        "curriculumYear": "2022",
         "schoolLevel": "중학교",
         "subject": "과학",
         "unit": "자극과 반응",
@@ -9850,6 +10578,13 @@
         "subject": "과학",
         "unit": "자극과 반응",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "자극과 반응",
+        "confidence": "high"
       }
     ]
   },
@@ -9996,6 +10731,13 @@
         "subject": "과학",
         "unit": "기권과 날씨",
         "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "날씨와 기후변화",
+        "confidence": "medium"
       }
     ]
   },
@@ -10046,6 +10788,13 @@
         "subject": "과학",
         "unit": "별과 우주",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "별과 우주",
+        "confidence": "high"
       }
     ]
   },
@@ -10067,6 +10816,13 @@
       },
       {
         "curriculumYear": "2015",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "물질의 상태 변화",
+        "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2022",
         "schoolLevel": "중학교",
         "subject": "과학",
         "unit": "물질의 상태 변화",
@@ -10221,6 +10977,13 @@
         "subject": "과학",
         "unit": "기권과 날씨",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "날씨와 기후변화",
+        "confidence": "high"
       }
     ]
   },
@@ -10267,6 +11030,13 @@
       },
       {
         "curriculumYear": "2015",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "물질의 구성",
+        "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2022",
         "schoolLevel": "중학교",
         "subject": "과학",
         "unit": "물질의 구성",
@@ -10319,6 +11089,13 @@
         "subject": "과학",
         "unit": "기권과 날씨",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "날씨와 기후변화",
+        "confidence": "high"
       }
     ]
   },
@@ -10340,6 +11117,13 @@
       },
       {
         "curriculumYear": "2015",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "자극과 반응",
+        "confidence": "high"
+      },
+      {
+        "curriculumYear": "2022",
         "schoolLevel": "중학교",
         "subject": "과학",
         "unit": "자극과 반응",
@@ -10419,6 +11203,13 @@
         "subject": "과학",
         "unit": "기권과 날씨",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "날씨와 기후변화",
+        "confidence": "high"
       }
     ]
   },
@@ -10440,6 +11231,13 @@
       },
       {
         "curriculumYear": "2015",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "자극과 반응",
+        "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2022",
         "schoolLevel": "중학교",
         "subject": "과학",
         "unit": "자극과 반응",
@@ -10469,6 +11267,13 @@
         "subject": "과학",
         "unit": "화학 반응의 규칙과 에너지 변화",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "화학 반응의 규칙성",
+        "confidence": "high"
       }
     ]
   },
@@ -10494,6 +11299,13 @@
         "subject": "과학",
         "unit": "여러 가지 힘",
         "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "힘의 작용",
+        "confidence": "medium"
       }
     ]
   },
@@ -10515,6 +11327,13 @@
       },
       {
         "curriculumYear": "2015",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "지권의 변화",
+        "confidence": "high"
+      },
+      {
+        "curriculumYear": "2022",
         "schoolLevel": "중학교",
         "subject": "과학",
         "unit": "지권의 변화",
@@ -10569,6 +11388,13 @@
         "subject": "과학",
         "unit": "자극과 반응",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "자극과 반응",
+        "confidence": "high"
       }
     ]
   },
@@ -10618,6 +11444,13 @@
         "schoolLevel": "중학교",
         "subject": "과학",
         "unit": "여러 가지 힘",
+        "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "힘의 작용",
         "confidence": "medium"
       }
     ]
@@ -10784,6 +11617,13 @@
       },
       {
         "curriculumYear": "2015",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "전기와 자기",
+        "confidence": "high"
+      },
+      {
+        "curriculumYear": "2022",
         "schoolLevel": "중학교",
         "subject": "과학",
         "unit": "전기와 자기",
@@ -10980,6 +11820,13 @@
         "subject": "과학",
         "unit": "화학 반응의 규칙과 에너지 변화",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "화학 반응의 규칙성",
+        "confidence": "high"
       }
     ]
   },
@@ -11028,6 +11875,13 @@
         "subject": "과학",
         "unit": "화학 반응의 규칙과 에너지 변화",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "화학 반응의 규칙성",
+        "confidence": "high"
       }
     ]
   },
@@ -11049,6 +11903,13 @@
       },
       {
         "curriculumYear": "2015",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "식물과 에너지",
+        "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2022",
         "schoolLevel": "중학교",
         "subject": "과학",
         "unit": "식물과 에너지",
@@ -11464,6 +12325,13 @@
         "subject": "과학",
         "unit": "화학 반응의 규칙과 에너지 변화",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "화학 반응의 규칙성",
+        "confidence": "high"
       }
     ]
   },
@@ -11637,6 +12505,13 @@
         "subject": "과학",
         "unit": "화학 반응의 규칙과 에너지 변화",
         "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "화학 반응의 규칙성",
+        "confidence": "medium"
       }
     ]
   },
@@ -11764,6 +12639,13 @@
       {
         "category": "스마트 수업도구",
         "topic": "앱/프로그램",
+        "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "운동과 에너지",
         "confidence": "medium"
       }
     ]
@@ -11957,6 +12839,13 @@
         "subject": "과학",
         "unit": "생식과 유전",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "생식과 유전",
+        "confidence": "high"
       }
     ]
   },
@@ -11978,6 +12867,13 @@
       },
       {
         "curriculumYear": "2015",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "생식과 유전",
+        "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2022",
         "schoolLevel": "중학교",
         "subject": "과학",
         "unit": "생식과 유전",
@@ -12107,6 +13003,13 @@
         "subject": "과학",
         "unit": "생물의 다양성",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "생물의 구성과 다양성",
+        "confidence": "high"
       }
     ]
   },
@@ -12178,6 +13081,13 @@
         "subject": "과학",
         "unit": "자극과 반응",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "자극과 반응",
+        "confidence": "high"
       }
     ]
   },
@@ -12199,6 +13109,13 @@
       },
       {
         "curriculumYear": "2015",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "자극과 반응",
+        "confidence": "high"
+      },
+      {
+        "curriculumYear": "2022",
         "schoolLevel": "중학교",
         "subject": "과학",
         "unit": "자극과 반응",
@@ -12376,6 +13293,13 @@
         "subject": "과학",
         "unit": "전기와 자기",
         "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "전기와 자기",
+        "confidence": "medium"
       }
     ]
   },
@@ -12420,6 +13344,13 @@
       },
       {
         "curriculumYear": "2015",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "운동과 에너지",
+        "confidence": "high"
+      },
+      {
+        "curriculumYear": "2022",
         "schoolLevel": "중학교",
         "subject": "과학",
         "unit": "운동과 에너지",
@@ -12789,6 +13720,13 @@
         "subject": "과학",
         "unit": "전기와 자기",
         "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "전기와 자기",
+        "confidence": "medium"
       }
     ]
   },
@@ -12935,6 +13873,13 @@
         "subject": "과학",
         "unit": "생식과 유전",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "생식과 유전",
+        "confidence": "high"
       }
     ]
   },
@@ -13060,6 +14005,13 @@
         "subject": "과학",
         "unit": "운동과 에너지",
         "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "운동과 에너지",
+        "confidence": "medium"
       }
     ]
   },
@@ -13110,6 +14062,13 @@
         "subject": "과학",
         "unit": "생식과 유전",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "생식과 유전",
+        "confidence": "high"
       }
     ]
   },
@@ -13134,6 +14093,13 @@
         "schoolLevel": "중학교",
         "subject": "과학",
         "unit": "기권과 날씨",
+        "confidence": "high"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "날씨와 기후변화",
         "confidence": "high"
       }
     ]
@@ -13305,6 +14271,13 @@
         "subject": "과학",
         "unit": "열과 우리 생활",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "열",
+        "confidence": "high"
       }
     ]
   },
@@ -13326,6 +14299,13 @@
       },
       {
         "curriculumYear": "2015",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "생식과 유전",
+        "confidence": "high"
+      },
+      {
+        "curriculumYear": "2022",
         "schoolLevel": "중학교",
         "subject": "과학",
         "unit": "생식과 유전",
@@ -13424,6 +14404,13 @@
       },
       {
         "curriculumYear": "2015",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "생식과 유전",
+        "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2022",
         "schoolLevel": "중학교",
         "subject": "과학",
         "unit": "생식과 유전",
@@ -13625,6 +14612,13 @@
         "subject": "과학",
         "unit": "동물과 에너지",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "동물과 에너지",
+        "confidence": "high"
       }
     ]
   },
@@ -13650,6 +14644,13 @@
         "subject": "과학",
         "unit": "식물과 에너지",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "식물과 에너지",
+        "confidence": "high"
       }
     ]
   },
@@ -13671,6 +14672,13 @@
       },
       {
         "curriculumYear": "2015",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "운동과 에너지",
+        "confidence": "high"
+      },
+      {
+        "curriculumYear": "2022",
         "schoolLevel": "중학교",
         "subject": "과학",
         "unit": "운동과 에너지",
@@ -13721,6 +14729,13 @@
       },
       {
         "curriculumYear": "2015",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "기체의 성질",
+        "confidence": "low"
+      },
+      {
+        "curriculumYear": "2022",
         "schoolLevel": "중학교",
         "subject": "과학",
         "unit": "기체의 성질",
@@ -13923,6 +14938,13 @@
         "subject": "과학",
         "unit": "물질의 구성",
         "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "물질의 구성",
+        "confidence": "medium"
       }
     ]
   },
@@ -13948,6 +14970,13 @@
         "subject": "과학",
         "unit": "에너지 전환과 보존",
         "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "운동과 에너지",
+        "confidence": "medium"
       }
     ]
   },
@@ -13969,6 +14998,13 @@
       },
       {
         "curriculumYear": "2015",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "자극과 반응",
+        "confidence": "high"
+      },
+      {
+        "curriculumYear": "2022",
         "schoolLevel": "중학교",
         "subject": "과학",
         "unit": "자극과 반응",
@@ -13998,6 +15034,13 @@
         "subject": "과학",
         "unit": "자극과 반응",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "자극과 반응",
+        "confidence": "high"
       }
     ]
   },
@@ -14019,6 +15062,13 @@
       },
       {
         "curriculumYear": "2015",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "자극과 반응",
+        "confidence": "high"
+      },
+      {
+        "curriculumYear": "2022",
         "schoolLevel": "중학교",
         "subject": "과학",
         "unit": "자극과 반응",
@@ -14316,6 +15366,13 @@
         "subject": "과학",
         "unit": "식물과 에너지",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "식물과 에너지",
+        "confidence": "high"
       }
     ]
   },
@@ -14337,6 +15394,13 @@
       },
       {
         "curriculumYear": "2015",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "별과 우주",
+        "confidence": "high"
+      },
+      {
+        "curriculumYear": "2022",
         "schoolLevel": "중학교",
         "subject": "과학",
         "unit": "별과 우주",
@@ -14366,6 +15430,13 @@
         "subject": "과학",
         "unit": "별과 우주",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "별과 우주",
+        "confidence": "high"
       }
     ]
   },
@@ -14387,6 +15458,13 @@
       },
       {
         "curriculumYear": "2015",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "태양계",
+        "confidence": "high"
+      },
+      {
+        "curriculumYear": "2022",
         "schoolLevel": "중학교",
         "subject": "과학",
         "unit": "태양계",
@@ -14466,6 +15544,13 @@
         "subject": "과학",
         "unit": "운동과 에너지",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "운동과 에너지",
+        "confidence": "high"
       }
     ]
   },
@@ -14487,6 +15572,13 @@
       },
       {
         "curriculumYear": "2015",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "운동과 에너지",
+        "confidence": "high"
+      },
+      {
+        "curriculumYear": "2022",
         "schoolLevel": "중학교",
         "subject": "과학",
         "unit": "운동과 에너지",
@@ -14591,6 +15683,13 @@
         "subject": "과학",
         "unit": "여러 가지 힘",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "힘의 작용",
+        "confidence": "high"
       }
     ]
   },
@@ -14616,6 +15715,13 @@
         "subject": "과학",
         "unit": "운동과 에너지",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "운동과 에너지",
+        "confidence": "high"
       }
     ]
   },
@@ -14637,6 +15743,13 @@
       },
       {
         "curriculumYear": "2015",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "운동과 에너지",
+        "confidence": "high"
+      },
+      {
+        "curriculumYear": "2022",
         "schoolLevel": "중학교",
         "subject": "과학",
         "unit": "운동과 에너지",
@@ -14764,6 +15877,13 @@
         "subject": "과학",
         "unit": "열과 우리 생활",
         "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "열",
+        "confidence": "medium"
       }
     ]
   },
@@ -14810,6 +15930,13 @@
       },
       {
         "curriculumYear": "2015",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "운동과 에너지",
+        "confidence": "high"
+      },
+      {
+        "curriculumYear": "2022",
         "schoolLevel": "중학교",
         "subject": "과학",
         "unit": "운동과 에너지",
@@ -14937,6 +16064,13 @@
         "subject": "과학",
         "unit": "전기와 자기",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "전기와 자기",
+        "confidence": "high"
       }
     ]
   },
@@ -14958,6 +16092,13 @@
       },
       {
         "curriculumYear": "2015",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "운동과 에너지",
+        "confidence": "high"
+      },
+      {
+        "curriculumYear": "2022",
         "schoolLevel": "중학교",
         "subject": "과학",
         "unit": "운동과 에너지",
@@ -14987,6 +16128,13 @@
         "subject": "과학",
         "unit": "운동과 에너지",
         "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "운동과 에너지",
+        "confidence": "medium"
       }
     ]
   },
@@ -15008,6 +16156,13 @@
       },
       {
         "curriculumYear": "2015",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "물질의 구성",
+        "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2022",
         "schoolLevel": "중학교",
         "subject": "과학",
         "unit": "물질의 구성",
@@ -15037,6 +16192,13 @@
         "subject": "과학",
         "unit": "물질의 구성",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "물질의 구성",
+        "confidence": "high"
       }
     ]
   },
@@ -15062,6 +16224,13 @@
         "subject": "과학",
         "unit": "기권과 날씨",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "날씨와 기후변화",
+        "confidence": "high"
       }
     ]
   },
@@ -15083,6 +16252,13 @@
       },
       {
         "curriculumYear": "2015",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "전기와 자기",
+        "confidence": "high"
+      },
+      {
+        "curriculumYear": "2022",
         "schoolLevel": "중학교",
         "subject": "과학",
         "unit": "전기와 자기",
@@ -15137,6 +16313,13 @@
         "subject": "과학",
         "unit": "화학 반응의 규칙과 에너지 변화",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "화학 반응의 규칙성",
+        "confidence": "high"
       }
     ]
   },
@@ -15158,6 +16341,13 @@
       },
       {
         "curriculumYear": "2015",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "빛과 파동",
+        "confidence": "high"
+      },
+      {
+        "curriculumYear": "2022",
         "schoolLevel": "중학교",
         "subject": "과학",
         "unit": "빛과 파동",
@@ -15206,6 +16396,13 @@
       },
       {
         "curriculumYear": "2015",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "운동과 에너지",
+        "confidence": "high"
+      },
+      {
+        "curriculumYear": "2022",
         "schoolLevel": "중학교",
         "subject": "과학",
         "unit": "운동과 에너지",
@@ -15306,6 +16503,13 @@
         "subject": "과학",
         "unit": "운동과 에너지",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "운동과 에너지",
+        "confidence": "high"
       }
     ]
   },
@@ -15331,6 +16535,13 @@
         "subject": "과학",
         "unit": "기권과 날씨",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "날씨와 기후변화",
+        "confidence": "high"
       }
     ]
   },
@@ -15352,6 +16563,13 @@
       },
       {
         "curriculumYear": "2015",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "태양계",
+        "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2022",
         "schoolLevel": "중학교",
         "subject": "과학",
         "unit": "태양계",
@@ -15429,6 +16647,13 @@
         "subject": "과학",
         "unit": "전기와 자기",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "전기와 자기",
+        "confidence": "high"
       }
     ]
   },
@@ -15479,6 +16704,13 @@
         "subject": "과학",
         "unit": "기권과 날씨",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "날씨와 기후변화",
+        "confidence": "high"
       }
     ]
   },
@@ -15525,6 +16757,13 @@
       },
       {
         "curriculumYear": "2015",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "지권의 변화",
+        "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2022",
         "schoolLevel": "중학교",
         "subject": "과학",
         "unit": "지권의 변화",
@@ -15647,6 +16886,13 @@
         "schoolLevel": "중학교",
         "subject": "과학",
         "unit": "기권과 날씨",
+        "confidence": "high"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "날씨와 기후변화",
         "confidence": "high"
       }
     ]
@@ -15913,6 +17159,13 @@
         "subject": "과학",
         "unit": "물질의 특성",
         "confidence": "low"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "물질의 특성",
+        "confidence": "low"
       }
     ]
   },
@@ -16062,6 +17315,13 @@
         "schoolLevel": "중학교",
         "subject": "과학",
         "unit": "열과 우리 생활",
+        "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "열",
         "confidence": "medium"
       }
     ]
@@ -16262,6 +17522,13 @@
         "category": "과학교사 업무",
         "topic": "과학 행사",
         "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "물질의 상태 변화",
+        "confidence": "medium"
       }
     ]
   },
@@ -16283,6 +17550,13 @@
       },
       {
         "curriculumYear": "2015",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "생식과 유전",
+        "confidence": "high"
+      },
+      {
+        "curriculumYear": "2022",
         "schoolLevel": "중학교",
         "subject": "과학",
         "unit": "생식과 유전",
@@ -16312,6 +17586,13 @@
         "subject": "과학",
         "unit": "생물의 다양성",
         "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "생물의 구성과 다양성",
+        "confidence": "medium"
       }
     ]
   },
@@ -16333,6 +17614,13 @@
       },
       {
         "curriculumYear": "2015",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "동물과 에너지",
+        "confidence": "high"
+      },
+      {
+        "curriculumYear": "2022",
         "schoolLevel": "중학교",
         "subject": "과학",
         "unit": "동물과 에너지",
@@ -16387,6 +17675,13 @@
         "subject": "과학",
         "unit": "동물과 에너지",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "동물과 에너지",
+        "confidence": "high"
       }
     ]
   },
@@ -16417,6 +17712,13 @@
         "subject": "과학",
         "unit": "생식과 유전",
         "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "생식과 유전",
+        "confidence": "medium"
       }
     ]
   },
@@ -16438,6 +17740,13 @@
       },
       {
         "curriculumYear": "2015",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "생식과 유전",
+        "confidence": "high"
+      },
+      {
+        "curriculumYear": "2022",
         "schoolLevel": "중학교",
         "subject": "과학",
         "unit": "생식과 유전",
@@ -16615,6 +17924,13 @@
         "subject": "과학",
         "unit": "전기와 자기",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "전기와 자기",
+        "confidence": "high"
       }
     ]
   },
@@ -16786,6 +18102,13 @@
       },
       {
         "curriculumYear": "2015",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "운동과 에너지",
+        "confidence": "high"
+      },
+      {
+        "curriculumYear": "2022",
         "schoolLevel": "중학교",
         "subject": "과학",
         "unit": "운동과 에너지",
@@ -17179,6 +18502,13 @@
         "schoolLevel": "중학교",
         "subject": "과학",
         "unit": "여러 가지 힘",
+        "confidence": "low"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "힘의 작용",
         "confidence": "low"
       }
     ]

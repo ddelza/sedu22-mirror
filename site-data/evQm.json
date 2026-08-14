@@ -957,6 +957,13 @@
         "subject": "물리학Ⅰ",
         "unit": "물질과 전자기장",
         "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "전기와 자기",
+        "confidence": "medium"
       }
     ]
   },
@@ -1400,6 +1407,13 @@
         "schoolLevel": "중학교",
         "subject": "과학",
         "unit": "에너지 전환과 보존",
+        "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "운동과 에너지",
         "confidence": "medium"
       }
     ]

@@ -316,6 +316,13 @@
         "subject": "과학",
         "unit": "물질의 특성",
         "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "물질의 특성",
+        "confidence": "medium"
       }
     ]
   },
@@ -988,6 +995,41 @@
       },
       {
         "curriculumYear": "2015",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "기체의 성질",
+        "confidence": "high"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "지권의 변화",
+        "confidence": "high"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "힘의 작용",
+        "confidence": "high"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "빛과 파동",
+        "confidence": "high"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "생물의 구성과 다양성",
+        "confidence": "high"
+      },
+      {
+        "curriculumYear": "2022",
         "schoolLevel": "중학교",
         "subject": "과학",
         "unit": "기체의 성질",
@@ -2008,6 +2050,13 @@
       },
       {
         "curriculumYear": "2015",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "물질의 구성",
+        "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2022",
         "schoolLevel": "중학교",
         "subject": "과학",
         "unit": "물질의 구성",

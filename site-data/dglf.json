@@ -278,6 +278,13 @@
         "subject": "과학",
         "unit": "생식과 유전",
         "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "생식과 유전",
+        "confidence": "medium"
       }
     ]
   },
@@ -460,6 +467,20 @@
         "subject": "과학",
         "unit": "생식과 유전",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "생식과 유전",
+        "confidence": "high"
+      },
+      {
+        "curriculumYear": "2015",
+        "schoolLevel": "고등학교",
+        "subject": "생명과학Ⅰ",
+        "unit": "유전",
+        "confidence": "medium"
       }
     ]
   },
@@ -3724,6 +3745,13 @@
         "subject": "생명과학Ⅰ",
         "unit": "항상성과 몸의 조절",
         "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "재해·재난과 안전",
+        "confidence": "medium"
       }
     ]
   },
@@ -4355,6 +4383,13 @@
         "subject": "생명과학Ⅰ",
         "unit": "항상성과 몸의 조절",
         "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "재해·재난과 안전",
+        "confidence": "high"
       }
     ]
   },
@@ -4429,6 +4464,13 @@
       },
       {
         "curriculumYear": "2015",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "재해·재난과 안전",
+        "confidence": "high"
+      },
+      {
+        "curriculumYear": "2022",
         "schoolLevel": "중학교",
         "subject": "과학",
         "unit": "재해·재난과 안전",

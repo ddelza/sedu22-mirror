@@ -1749,6 +1749,13 @@
         "subject": "과학",
         "unit": "물질의 구성",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "물질의 구성",
+        "confidence": "high"
       }
     ]
   },
@@ -3003,6 +3010,13 @@
         "subject": "과학",
         "unit": "물질의 구성",
         "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "물질의 구성",
+        "confidence": "medium"
       }
     ]
   },
@@ -3132,6 +3146,13 @@
         "schoolLevel": "중학교",
         "subject": "과학",
         "unit": "화학 반응의 규칙과 에너지 변화",
+        "confidence": "high"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "화학 반응의 규칙성",
         "confidence": "high"
       }
     ]

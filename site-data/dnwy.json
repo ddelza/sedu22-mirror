@@ -1464,6 +1464,13 @@
         "subject": "과학",
         "unit": "전기와 자기",
         "confidence": "low"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "전기와 자기",
+        "confidence": "low"
       }
     ]
   },

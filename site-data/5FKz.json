@@ -2123,6 +2123,13 @@
         "category": "게시판별 분류",
         "topic": "거꾸로 교실(김신혜)",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "운동과 에너지",
+        "confidence": "low"
       }
     ]
   },
@@ -2635,6 +2642,20 @@
         "category": "게시판별 분류",
         "topic": "거꾸로 교실(김신혜)",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": "2015",
+        "schoolLevel": "고등학교",
+        "subject": "지구과학Ⅰ",
+        "unit": "지권의 변동",
+        "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "지구시스템과학",
+        "unit": "지구 탄생과 생동하는 지구",
+        "confidence": "medium"
       }
     ]
   },

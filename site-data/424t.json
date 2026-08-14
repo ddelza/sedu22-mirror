@@ -3126,6 +3126,13 @@
         "category": "게시판별 분류",
         "topic": "과학행사&과학실 Idea",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": "2015",
+        "schoolLevel": "고등학교",
+        "subject": "물리학Ⅰ",
+        "unit": "역학과 에너지",
+        "confidence": "medium"
       }
     ]
   },
@@ -5412,6 +5419,13 @@
         "category": "게시판별 분류",
         "topic": "과학행사&과학실 Idea",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "힘의 작용",
+        "confidence": "high"
       }
     ]
   },
@@ -5994,6 +6008,13 @@
         "category": "게시판별 분류",
         "topic": "과학행사&과학실 Idea",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "날씨와 기후변화",
+        "confidence": "low"
       }
     ]
   },
@@ -7010,6 +7031,20 @@
         "category": "게시판별 분류",
         "topic": "과학행사&과학실 Idea",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": "2015",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "기권과 날씨",
+        "confidence": "high"
+      },
+      {
+        "curriculumYear": "2015",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "식물과 에너지",
+        "confidence": "high"
       }
     ]
   },
@@ -7105,6 +7140,20 @@
         "category": "게시판별 분류",
         "topic": "과학행사&과학실 Idea",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": "2015",
+        "schoolLevel": "고등학교",
+        "subject": "물리학Ⅰ",
+        "unit": "역학과 에너지",
+        "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "물리학",
+        "unit": "힘과 에너지",
+        "confidence": "medium"
       }
     ]
   },
@@ -7251,6 +7300,20 @@
       {
         "category": "게시판별 분류",
         "topic": "과학행사&과학실 Idea",
+        "confidence": "high"
+      },
+      {
+        "curriculumYear": "2015",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "운동과 에너지",
+        "confidence": "high"
+      },
+      {
+        "curriculumYear": "2015",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "여러 가지 힘",
         "confidence": "high"
       }
     ]
@@ -7475,6 +7538,20 @@
       {
         "category": "게시판별 분류",
         "topic": "과학행사&과학실 Idea",
+        "confidence": "high"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "화학 반응의 규칙성",
+        "confidence": "high"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "열",
         "confidence": "high"
       }
     ]
@@ -8721,6 +8798,13 @@
         "category": "게시판별 분류",
         "topic": "과학행사&과학실 Idea",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "전기와 자기",
+        "confidence": "medium"
       }
     ]
   },
