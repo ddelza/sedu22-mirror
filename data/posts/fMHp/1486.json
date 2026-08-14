@@ -24,8 +24,16 @@
       "subject": "과학",
       "unit": "운동과 에너지",
       "confidence": "low"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "운동과 에너지",
+      "confidence": "low"
     }
   ],
-  "tagsNote": "과학에서의 일 개념 질문에 대한 감사 댓글.",
-  "taggedAt": "2026-08-12T14:51:31.222Z"
+  "tagsNote": "과학에서의 일 개념 질문에 대한 감사 댓글. [보완: 2015 '운동과 에너지'만 있고 2022 태그 누락 - 동일 이름 단원으로 안전하게 교차 태그 추가]",
+  "taggedAt": "2026-08-12T14:51:31.222Z",
+  "verticalReviewedAt": "2026-08-14T03:46:20.080Z"
 }
