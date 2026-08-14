@@ -31,8 +31,16 @@
       "subject": "과학",
       "unit": "힘의 작용",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "고등학교",
+      "subject": "물리학Ⅱ",
+      "unit": "역학적 상호작용",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "무게중심 관련 학생 질문 도움 요청.",
-  "taggedAt": "2026-08-12T14:47:39.531Z"
+  "tagsNote": "무게중심 관련 학생 질문 도움 요청. [보완: 삼각형의 무게중심(진자처럼 매달아 정지하는 지점)과 힘의 평형에 대한 질문으로, 물리학Ⅱ 역학적 상호작용(힘의 벡터 합성·평형)으로 이어지는 수직 심화 내용]",
+  "taggedAt": "2026-08-12T14:47:39.531Z",
+  "verticalReviewedAt": "2026-08-14T03:35:18.782Z"
 }
