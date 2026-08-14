@@ -24,8 +24,16 @@
       "subject": "과학",
       "unit": "태양계",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "태양계",
+      "confidence": "high"
     }
   ],
-  "tagsNote": "행성 특징을 활용한 여행상품 광고 만들기 활동 공유.",
-  "taggedAt": "2026-08-12T10:28:48.852Z"
+  "tagsNote": "행성 특징을 활용한 여행상품 광고 만들기 활동 공유. [보완: 수평 보완(동일 이름)]",
+  "taggedAt": "2026-08-12T10:28:48.852Z",
+  "verticalReviewedAt": "2026-08-14T03:21:32.788Z"
 }

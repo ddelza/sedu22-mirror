@@ -29,8 +29,16 @@
       "subject": "과학",
       "unit": "물질의 특성",
       "confidence": "low"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "물질의 특성",
+      "confidence": "low"
     }
   ],
-  "tagsNote": "저렴한 전자저울(밀도 실험용) 구입 정보 공유.",
-  "taggedAt": "2026-08-12T14:34:59.681Z"
+  "tagsNote": "저렴한 전자저울(밀도 실험용) 구입 정보 공유. [보완: 수평 보완(동일 이름)]",
+  "taggedAt": "2026-08-12T14:34:59.681Z",
+  "verticalReviewedAt": "2026-08-14T03:24:48.469Z"
 }

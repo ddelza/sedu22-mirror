@@ -24,8 +24,23 @@
       "subject": "과학",
       "unit": "생식과 유전",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "생식과 유전",
+      "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "고등학교",
+      "subject": "생명과학Ⅰ",
+      "unit": "유전",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "고2 대상 멘델 프로젝트 심화 후속활동 아이디어 요청.",
-  "taggedAt": "2026-08-12T09:02:58.372Z"
+  "tagsNote": "고2 대상 멘델 프로젝트 심화 후속활동 아이디어 요청. [보완: 수평 보완 + 수직 보완: 글에서 명시적으로 '고2를 대상으로' 심화 후속활동을 고민한다고 밝혀, 고등학교 생명과학Ⅰ '유전' 단원과 연결.]",
+  "taggedAt": "2026-08-12T09:02:58.372Z",
+  "verticalReviewedAt": "2026-08-14T03:20:13.282Z"
 }

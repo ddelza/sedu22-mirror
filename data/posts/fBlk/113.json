@@ -24,8 +24,16 @@
       "subject": "과학",
       "unit": "빛과 파동",
       "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "빛과 파동",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "루버렌즈(빛의 방향성) 원리 소개.",
-  "taggedAt": "2026-08-12T13:24:15.934Z"
+  "tagsNote": "루버렌즈(빛의 방향성) 원리 소개. [보완: 수평 보완(동일 이름)]",
+  "taggedAt": "2026-08-12T13:24:15.934Z",
+  "verticalReviewedAt": "2026-08-14T03:21:32.807Z"
 }

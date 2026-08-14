@@ -24,8 +24,16 @@
       "subject": "과학",
       "unit": "기권과 날씨",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "날씨와 기후변화",
+      "confidence": "high"
     }
   ],
-  "tagsNote": "중3 기단 단원 지역연계(인천 읽걷쓰) 수업 공유.",
-  "taggedAt": "2026-08-12T09:01:46.574Z"
+  "tagsNote": "중3 기단 단원 지역연계(인천 읽걷쓰) 수업 공유. [보완: 수평 보완]",
+  "taggedAt": "2026-08-12T09:01:46.574Z",
+  "verticalReviewedAt": "2026-08-14T03:18:36.636Z"
 }

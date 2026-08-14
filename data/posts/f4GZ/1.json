@@ -24,8 +24,16 @@
       "subject": "과학",
       "unit": "생식과 유전",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "생식과 유전",
+      "confidence": "high"
     }
   ],
-  "tagsNote": "전국 교사 공동 완두 재배 멘델 유전법칙 검증 프로젝트 소개.",
-  "taggedAt": "2026-08-12T09:01:46.594Z"
+  "tagsNote": "전국 교사 공동 완두 재배 멘델 유전법칙 검증 프로젝트 소개. [보완: 수평 보완(동일 이름)]",
+  "taggedAt": "2026-08-12T09:01:46.594Z",
+  "verticalReviewedAt": "2026-08-14T03:18:36.640Z"
 }

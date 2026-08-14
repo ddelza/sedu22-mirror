@@ -24,8 +24,16 @@
       "subject": "과학",
       "unit": "생식과 유전",
       "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "생식과 유전",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "'호모데우스' 발췌(유성생식과 유전적 다양성) 자료 공유.",
-  "taggedAt": "2026-08-12T09:58:29.246Z"
+  "tagsNote": "'호모데우스' 발췌(유성생식과 유전적 다양성) 자료 공유. [보완: 수평 보완(동일 이름)]",
+  "taggedAt": "2026-08-12T09:58:29.246Z",
+  "verticalReviewedAt": "2026-08-14T03:20:51.733Z"
 }

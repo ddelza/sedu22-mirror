@@ -29,8 +29,16 @@
       "subject": "과학",
       "unit": "생식과 유전",
       "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "생식과 유전",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "과학독서 동아리에서 멘델 유전 이야기 책을 읽은 활동 공유.",
-  "taggedAt": "2026-08-12T10:25:08.357Z"
+  "tagsNote": "과학독서 동아리에서 멘델 유전 이야기 책을 읽은 활동 공유. [보완: 수평 보완(동일 이름)]",
+  "taggedAt": "2026-08-12T10:25:08.357Z",
+  "verticalReviewedAt": "2026-08-14T03:20:51.734Z"
 }

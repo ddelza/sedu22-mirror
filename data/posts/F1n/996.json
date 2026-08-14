@@ -24,8 +24,16 @@
       "subject": "과학",
       "unit": "열과 우리 생활",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "열",
+      "confidence": "high"
     }
   ],
-  "tagsNote": "중1 3단원(열) 탐구분석 연수자료 및 학년간 연계 정리 공유.",
-  "taggedAt": "2026-08-12T09:01:46.593Z"
+  "tagsNote": "중1 3단원(열) 탐구분석 연수자료 및 학년간 연계 정리 공유. [보완: 수평 보완]",
+  "taggedAt": "2026-08-12T09:01:46.593Z",
+  "verticalReviewedAt": "2026-08-14T03:18:36.638Z"
 }

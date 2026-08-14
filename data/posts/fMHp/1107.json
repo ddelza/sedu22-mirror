@@ -24,8 +24,16 @@
       "subject": "과학",
       "unit": "에너지 전환과 보존",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "전기와 자기",
+      "confidence": "high"
     }
   ],
-  "tagsNote": "신재생에너지 뱅글북 수업자료 공유.",
-  "taggedAt": "2026-08-12T14:34:59.695Z"
+  "tagsNote": "신재생에너지 뱅글북 수업자료 공유. [보완: 수평 보완: 신재생에너지(태양광·풍력 등) 정리 활동으로, 전기에너지 전환을 흡수한 2022 '전기와 자기' 단원과 연결.]",
+  "taggedAt": "2026-08-12T14:34:59.695Z",
+  "verticalReviewedAt": "2026-08-14T03:25:20.855Z"
 }

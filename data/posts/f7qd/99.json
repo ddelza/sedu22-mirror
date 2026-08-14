@@ -24,8 +24,16 @@
       "subject": "과학",
       "unit": "생식과 유전",
       "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "생식과 유전",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "인간 DNA 비유 발췌문(원문) 공유.",
-  "taggedAt": "2026-08-12T10:26:25.421Z"
+  "tagsNote": "인간 DNA 비유 발췌문(원문) 공유. [보완: 수평 보완(동일 이름)]",
+  "taggedAt": "2026-08-12T10:26:25.421Z",
+  "verticalReviewedAt": "2026-08-14T03:20:51.736Z"
 }

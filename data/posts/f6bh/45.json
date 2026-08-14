@@ -24,8 +24,16 @@
       "subject": "과학",
       "unit": "열과 우리 생활",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "열",
+      "confidence": "high"
     }
   ],
-  "tagsNote": "중1 비열/열팽창 단원 열량 계산 문제 출제범위 관련 질문.",
-  "taggedAt": "2026-08-12T09:11:50.646Z"
+  "tagsNote": "중1 비열/열팽창 단원 열량 계산 문제 출제범위 관련 질문. [보완: 수평 보완]",
+  "taggedAt": "2026-08-12T09:11:50.646Z",
+  "verticalReviewedAt": "2026-08-14T03:20:51.722Z"
 }

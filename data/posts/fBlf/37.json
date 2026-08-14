@@ -29,8 +29,16 @@
       "subject": "과학",
       "unit": "물질의 특성",
       "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "물질의 특성",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "재과만 톡톡 34~36회(물질의 특성) 오프라인 행사 안내.",
-  "taggedAt": "2026-08-12T13:22:59.014Z"
+  "tagsNote": "재과만 톡톡 34~36회(물질의 특성) 오프라인 행사 안내. [보완: 수평 보완(동일 이름)]",
+  "taggedAt": "2026-08-12T13:22:59.014Z",
+  "verticalReviewedAt": "2026-08-14T03:21:32.798Z"
 }

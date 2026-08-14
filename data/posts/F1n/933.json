@@ -24,8 +24,16 @@
       "subject": "과학",
       "unit": "생물의 다양성",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "생물의 구성과 다양성",
+      "confidence": "high"
     }
   ],
-  "tagsNote": "중1 생물의 다양성 복습용 생물 2048/수박게임 공유.",
-  "taggedAt": "2026-08-12T09:00:30.107Z"
+  "tagsNote": "중1 생물의 다양성 복습용 생물 2048/수박게임 공유. [보완: 수평 보완]",
+  "taggedAt": "2026-08-12T09:00:30.107Z",
+  "verticalReviewedAt": "2026-08-14T03:18:36.626Z"
 }

@@ -24,8 +24,16 @@
       "subject": "과학",
       "unit": "식물과 에너지",
       "confidence": "low"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "식물과 에너지",
+      "confidence": "low"
     }
   ],
-  "tagsNote": "'당근은 언제 죽었나' 투표 활동(챗GPT 이미지 활용) 공유.",
-  "taggedAt": "2026-08-12T09:01:46.580Z"
+  "tagsNote": "'당근은 언제 죽었나' 투표 활동(챗GPT 이미지 활용) 공유. [보완: 수평 보완(동일 이름)]",
+  "taggedAt": "2026-08-12T09:01:46.580Z",
+  "verticalReviewedAt": "2026-08-14T03:18:36.638Z"
 }

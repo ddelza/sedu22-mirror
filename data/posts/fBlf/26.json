@@ -29,8 +29,16 @@
       "subject": "과학",
       "unit": "전기와 자기",
       "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "전기와 자기",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "재과만 톡톡 25회(전기 관련) 영상 공개.",
-  "taggedAt": "2026-08-12T13:22:59.003Z"
+  "tagsNote": "재과만 톡톡 25회(전기 관련) 영상 공개. [보완: 수평 보완(동일 이름)]",
+  "taggedAt": "2026-08-12T13:22:59.003Z",
+  "verticalReviewedAt": "2026-08-14T03:21:32.796Z"
 }

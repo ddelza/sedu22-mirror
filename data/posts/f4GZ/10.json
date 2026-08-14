@@ -24,8 +24,16 @@
       "subject": "과학",
       "unit": "생식과 유전",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "생식과 유전",
+      "confidence": "high"
     }
   ],
-  "tagsNote": "멘델 프로젝트 4월 중순 파종/모종 진행상황 중간보고.",
-  "taggedAt": "2026-08-12T09:01:46.595Z"
+  "tagsNote": "멘델 프로젝트 4월 중순 파종/모종 진행상황 중간보고. [보완: 수평 보완(동일 이름)]",
+  "taggedAt": "2026-08-12T09:01:46.595Z",
+  "verticalReviewedAt": "2026-08-14T03:18:36.640Z"
 }

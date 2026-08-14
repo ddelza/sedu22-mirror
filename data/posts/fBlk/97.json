@@ -43,8 +43,16 @@
       "subject": "과학",
       "unit": "수권과 해수의 순환",
       "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "수권과 해수의 순환",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "새학기 원정대 중2 수행평가(동물과 에너지, 수권과 해수의 순환) 자료 공유.",
-  "taggedAt": "2026-08-12T13:32:32.155Z"
+  "tagsNote": "새학기 원정대 중2 수행평가(동물과 에너지, 수권과 해수의 순환) 자료 공유. [보완: 수평 보완(동물과에너지는 이미 완료, 수권과해수의순환만 누락)]",
+  "taggedAt": "2026-08-12T13:32:32.155Z",
+  "verticalReviewedAt": "2026-08-14T03:22:19.352Z"
 }

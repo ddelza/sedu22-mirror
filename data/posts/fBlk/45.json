@@ -24,8 +24,16 @@
       "subject": "과학",
       "unit": "기체의 성질",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "기체의 성질",
+      "confidence": "high"
     }
   ],
-  "tagsNote": "보일의 법칙을 활용한 탄산음료캔 따는 방법 시연 공유.",
-  "taggedAt": "2026-08-12T13:25:22.792Z"
+  "tagsNote": "보일의 법칙을 활용한 탄산음료캔 따는 방법 시연 공유. [보완: 수평 보완(동일 이름)]",
+  "taggedAt": "2026-08-12T13:25:22.792Z",
+  "verticalReviewedAt": "2026-08-14T03:22:19.346Z"
 }

@@ -24,8 +24,16 @@
       "subject": "과학",
       "unit": "생식과 유전",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "생식과 유전",
+      "confidence": "high"
     }
   ],
-  "tagsNote": "멘델 프로젝트 참여 교사들의 한 학기 성장 과정 영상 소개.",
-  "taggedAt": "2026-08-12T09:01:46.601Z"
+  "tagsNote": "멘델 프로젝트 참여 교사들의 한 학기 성장 과정 영상 소개. [보완: 수평 보완(동일 이름)]",
+  "taggedAt": "2026-08-12T09:01:46.601Z",
+  "verticalReviewedAt": "2026-08-14T03:19:07.739Z"
 }

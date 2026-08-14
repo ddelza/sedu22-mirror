@@ -24,8 +24,16 @@
       "subject": "과학",
       "unit": "생식과 유전",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "생식과 유전",
+      "confidence": "high"
     }
   ],
-  "tagsNote": "완두콩 재배법 요약 영상자료 제작 공유.",
-  "taggedAt": "2026-08-12T09:02:58.372Z"
+  "tagsNote": "완두콩 재배법 요약 영상자료 제작 공유. [보완: 수평 보완(동일 이름)]",
+  "taggedAt": "2026-08-12T09:02:58.372Z",
+  "verticalReviewedAt": "2026-08-14T03:20:13.281Z"
 }

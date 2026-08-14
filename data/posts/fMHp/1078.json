@@ -24,8 +24,16 @@
       "subject": "과학",
       "unit": "에너지 전환과 보존",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "전기와 자기",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "생활 속 에너지 전환 사례 동영상 공유.",
-  "taggedAt": "2026-08-12T13:43:37.441Z"
+  "tagsNote": "생활 속 에너지 전환 사례 동영상 공유. [보완: 수평 보완: 전기에너지의 빛·소리·열에너지 전환 사례 중심 내용으로, 전기에너지 전환을 흡수한 2022 '전기와 자기' 단원과 연결.]",
+  "taggedAt": "2026-08-12T13:43:37.441Z",
+  "verticalReviewedAt": "2026-08-14T03:24:48.461Z"
 }

@@ -24,8 +24,16 @@
       "subject": "과학",
       "unit": "생식과 유전",
       "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "생식과 유전",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "'사피엔스' 발췌(유전적 다양성, 돌연변이) 자료 공유.",
-  "taggedAt": "2026-08-12T09:58:29.243Z"
+  "tagsNote": "'사피엔스' 발췌(유전적 다양성, 돌연변이) 자료 공유. [보완: 수평 보완(동일 이름)]",
+  "taggedAt": "2026-08-12T09:58:29.243Z",
+  "verticalReviewedAt": "2026-08-14T03:20:51.731Z"
 }

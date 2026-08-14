@@ -24,8 +24,16 @@
       "subject": "과학",
       "unit": "생물의 다양성",
       "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "생물의 구성과 다양성",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "생물의 분류 단계 활동 기반 수행평가 사례 공유.",
-  "taggedAt": "2026-08-12T13:32:32.138Z"
+  "tagsNote": "생물의 분류 단계 활동 기반 수행평가 사례 공유. [보완: 수평 보완]",
+  "taggedAt": "2026-08-12T13:32:32.138Z",
+  "verticalReviewedAt": "2026-08-14T03:22:19.348Z"
 }

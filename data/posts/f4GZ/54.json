@@ -24,8 +24,16 @@
       "subject": "과학",
       "unit": "생식과 유전",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "생식과 유전",
+      "confidence": "high"
     }
   ],
-  "tagsNote": "2026 멘델 프로젝트 화단 노지 재배 시작 공유.",
-  "taggedAt": "2026-08-12T09:02:58.375Z"
+  "tagsNote": "2026 멘델 프로젝트 화단 노지 재배 시작 공유. [보완: 수평 보완(동일 이름)]",
+  "taggedAt": "2026-08-12T09:02:58.375Z",
+  "verticalReviewedAt": "2026-08-14T03:20:13.284Z"
 }

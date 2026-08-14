@@ -29,8 +29,16 @@
       "subject": "과학",
       "unit": "빛과 파동",
       "confidence": "low"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "빛과 파동",
+      "confidence": "low"
     }
   ],
-  "tagsNote": "영재교육 수업자료 및 동영상(칼림바 포함) 정리 공유.",
-  "taggedAt": "2026-08-12T13:32:32.156Z"
+  "tagsNote": "영재교육 수업자료 및 동영상(칼림바 포함) 정리 공유. [보완: 수평 보완(동일 이름)]",
+  "taggedAt": "2026-08-12T13:32:32.156Z",
+  "verticalReviewedAt": "2026-08-14T03:22:19.353Z"
 }

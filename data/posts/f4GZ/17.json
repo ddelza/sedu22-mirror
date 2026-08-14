@@ -24,8 +24,16 @@
       "subject": "과학",
       "unit": "생식과 유전",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "생식과 유전",
+      "confidence": "high"
     }
   ],
-  "tagsNote": "멘델 프로젝트 완두콩 재배 과정 사진 정리 공유.",
-  "taggedAt": "2026-08-12T09:01:46.602Z"
+  "tagsNote": "멘델 프로젝트 완두콩 재배 과정 사진 정리 공유. [보완: 수평 보완(동일 이름)]",
+  "taggedAt": "2026-08-12T09:01:46.602Z",
+  "verticalReviewedAt": "2026-08-14T03:19:07.741Z"
 }

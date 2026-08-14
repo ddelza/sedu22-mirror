@@ -24,8 +24,16 @@
       "subject": "과학",
       "unit": "식물과 에너지",
       "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "식물과 에너지",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "'코스모스' 발췌(광합성) 자료 공유.",
-  "taggedAt": "2026-08-12T09:58:29.243Z"
+  "tagsNote": "'코스모스' 발췌(광합성) 자료 공유. [보완: 수평 보완(동일 이름)]",
+  "taggedAt": "2026-08-12T09:58:29.243Z",
+  "verticalReviewedAt": "2026-08-14T03:20:51.731Z"
 }

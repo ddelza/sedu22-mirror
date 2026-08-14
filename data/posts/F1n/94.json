@@ -24,8 +24,16 @@
       "subject": "과학",
       "unit": "운동과 에너지",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "운동과 에너지",
+      "confidence": "high"
     }
   ],
-  "tagsNote": "3가지 토론기법(번개토론, 브레인라이팅 등)을 활용한 관성 수업 사례 공유.",
-  "taggedAt": "2026-08-12T09:00:30.110Z"
+  "tagsNote": "3가지 토론기법(번개토론, 브레인라이팅 등)을 활용한 관성 수업 사례 공유. [보완: 수평 보완(동일 이름)]",
+  "taggedAt": "2026-08-12T09:00:30.110Z",
+  "verticalReviewedAt": "2026-08-14T03:18:36.631Z"
 }

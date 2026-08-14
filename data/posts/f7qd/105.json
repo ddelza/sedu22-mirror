@@ -24,8 +24,16 @@
       "subject": "과학",
       "unit": "식물과 에너지",
       "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "식물과 에너지",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "'어린왕자'와 광합성을 연결한 스토리텔링 수업 자료 소개.",
-  "taggedAt": "2026-08-12T09:58:29.223Z"
+  "tagsNote": "'어린왕자'와 광합성을 연결한 스토리텔링 수업 자료 소개. [보완: 수평 보완(동일 이름)]",
+  "taggedAt": "2026-08-12T09:58:29.223Z",
+  "verticalReviewedAt": "2026-08-14T03:20:51.724Z"
 }

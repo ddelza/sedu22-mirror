@@ -29,8 +29,16 @@
       "subject": "과학",
       "unit": "열과 우리 생활",
       "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "열",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "재과만 톡톡 20회(열과 우리 생활) 영상 공개.",
-  "taggedAt": "2026-08-12T13:22:58.998Z"
+  "tagsNote": "재과만 톡톡 20회(열과 우리 생활) 영상 공개. [보완: 수평 보완]",
+  "taggedAt": "2026-08-12T13:22:58.998Z",
+  "verticalReviewedAt": "2026-08-14T03:21:32.795Z"
 }

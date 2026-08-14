@@ -24,8 +24,16 @@
       "subject": "과학",
       "unit": "생물의 다양성",
       "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "생물의 구성과 다양성",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "신종생물 만들기 프로젝트 아이디어 제안.",
-  "taggedAt": "2026-08-12T09:00:30.114Z"
+  "tagsNote": "신종생물 만들기 프로젝트 아이디어 제안. [보완: 수평 보완]",
+  "taggedAt": "2026-08-12T09:00:30.114Z",
+  "verticalReviewedAt": "2026-08-14T03:18:36.634Z"
 }

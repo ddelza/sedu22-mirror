@@ -24,8 +24,16 @@
       "subject": "과학",
       "unit": "기권과 날씨",
       "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "날씨와 기후변화",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "노르망디 상륙작전 기상학 소재 영화 'Pressure' 소개.",
-  "taggedAt": "2026-08-12T09:01:46.577Z"
+  "tagsNote": "노르망디 상륙작전 기상학 소재 영화 'Pressure' 소개. [보완: 수평 보완]",
+  "taggedAt": "2026-08-12T09:01:46.577Z",
+  "verticalReviewedAt": "2026-08-14T03:18:36.637Z"
 }

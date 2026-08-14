@@ -24,8 +24,16 @@
       "subject": "과학",
       "unit": "빛과 파동",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "빛과 파동",
+      "confidence": "high"
     }
   ],
-  "tagsNote": "중2 빛의 굴절 원리 2인3각 체험 활동 공유.",
-  "taggedAt": "2026-08-12T09:01:46.575Z"
+  "tagsNote": "중2 빛의 굴절 원리 2인3각 체험 활동 공유. [보완: 수평 보완(동일 이름)]",
+  "taggedAt": "2026-08-12T09:01:46.575Z",
+  "verticalReviewedAt": "2026-08-14T03:18:36.636Z"
 }

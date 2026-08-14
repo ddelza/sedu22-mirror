@@ -24,8 +24,16 @@
       "subject": "과학",
       "unit": "생식과 유전",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "생식과 유전",
+      "confidence": "high"
     }
   ],
-  "tagsNote": "멘델 프로젝트를 '느린 과학'에 빗댄 교육적 의미 성찰.",
-  "taggedAt": "2026-08-12T09:02:58.365Z"
+  "tagsNote": "멘델 프로젝트를 '느린 과학'에 빗댄 교육적 의미 성찰. [보완: 수평 보완(동일 이름)]",
+  "taggedAt": "2026-08-12T09:02:58.365Z",
+  "verticalReviewedAt": "2026-08-14T03:20:13.273Z"
 }

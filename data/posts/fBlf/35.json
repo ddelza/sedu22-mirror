@@ -29,8 +29,16 @@
       "subject": "과학",
       "unit": "여러 가지 힘",
       "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "힘의 작용",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "재과만 톡톡 33회(힘의 작용) 영상 공개.",
-  "taggedAt": "2026-08-12T13:22:59.013Z"
+  "tagsNote": "재과만 톡톡 33회(힘의 작용) 영상 공개. [보완: 수평 보완]",
+  "taggedAt": "2026-08-12T13:22:59.013Z",
+  "verticalReviewedAt": "2026-08-14T03:21:32.797Z"
 }

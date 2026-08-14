@@ -29,8 +29,16 @@
       "subject": "과학",
       "unit": "생식과 유전",
       "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "생식과 유전",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "재과만 톡톡 8회(유전과 진화) 영상 공개.",
-  "taggedAt": "2026-08-12T13:22:59.025Z"
+  "tagsNote": "재과만 톡톡 8회(유전과 진화) 영상 공개. [보완: 수평 보완(동일 이름)]",
+  "taggedAt": "2026-08-12T13:22:59.025Z",
+  "verticalReviewedAt": "2026-08-14T03:21:32.805Z"
 }

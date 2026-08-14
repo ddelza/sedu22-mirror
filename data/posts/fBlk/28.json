@@ -29,8 +29,16 @@
       "subject": "과학",
       "unit": "별과 우주",
       "confidence": "low"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "별과 우주",
+      "confidence": "low"
     }
   ],
-  "tagsNote": "NASA 교육자캠프 연수를 바탕으로 개발한 우주탐사 프로그램 소개.",
-  "taggedAt": "2026-08-12T13:24:15.954Z"
+  "tagsNote": "NASA 교육자캠프 연수를 바탕으로 개발한 우주탐사 프로그램 소개. [보완: 수평 보완(동일 이름)]",
+  "taggedAt": "2026-08-12T13:24:15.954Z",
+  "verticalReviewedAt": "2026-08-14T03:21:32.809Z"
 }

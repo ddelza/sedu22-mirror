@@ -29,8 +29,16 @@
       "subject": "과학",
       "unit": "물질의 구성",
       "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "물질의 구성",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "노션을 활용해 물질의 구성 단원 원격수업 자료를 정리한 사례 공유.",
-  "taggedAt": "2026-08-12T10:28:48.872Z"
+  "tagsNote": "노션을 활용해 물질의 구성 단원 원격수업 자료를 정리한 사례 공유. [보완: 수평 보완(동일 이름)]",
+  "taggedAt": "2026-08-12T10:28:48.872Z",
+  "verticalReviewedAt": "2026-08-14T03:21:32.791Z"
 }

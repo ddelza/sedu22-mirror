@@ -24,8 +24,16 @@
       "subject": "과학",
       "unit": "생식과 유전",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "생식과 유전",
+      "confidence": "high"
     }
   ],
-  "tagsNote": "초파리 실험 1단계(암수 구분 및 격리) 진행상황 공유.",
-  "taggedAt": "2026-08-12T09:01:46.606Z"
+  "tagsNote": "초파리 실험 1단계(암수 구분 및 격리) 진행상황 공유. [보완: 수평 보완(동일 이름)]",
+  "taggedAt": "2026-08-12T09:01:46.606Z",
+  "verticalReviewedAt": "2026-08-14T03:19:07.748Z"
 }

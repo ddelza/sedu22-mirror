@@ -24,8 +24,16 @@
       "subject": "과학",
       "unit": "물질의 구성",
       "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "물질의 구성",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "'생명이란 무엇인가' 발췌(원자 개수의 방대함) 자료 공유.",
-  "taggedAt": "2026-08-12T09:58:29.230Z"
+  "tagsNote": "'생명이란 무엇인가' 발췌(원자 개수의 방대함) 자료 공유. [보완: 수평 보완(동일 이름)]",
+  "taggedAt": "2026-08-12T09:58:29.230Z",
+  "verticalReviewedAt": "2026-08-14T03:20:51.725Z"
 }

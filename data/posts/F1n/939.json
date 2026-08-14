@@ -31,8 +31,23 @@
       "subject": "과학",
       "unit": "수권과 해수의 순환",
       "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "물질의 구성",
+      "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "수권과 해수의 순환",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "2015개정 중2 1단원/7단원 활동지 자료 공유.",
-  "taggedAt": "2026-08-12T09:00:30.110Z"
+  "tagsNote": "2015개정 중2 1단원/7단원 활동지 자료 공유. [보완: 수평 보완(둘 다 동일 이름)]",
+  "taggedAt": "2026-08-12T09:00:30.110Z",
+  "verticalReviewedAt": "2026-08-14T03:18:36.630Z"
 }

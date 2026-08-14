@@ -24,8 +24,16 @@
       "subject": "과학",
       "unit": "물질의 특성",
       "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "물질의 특성",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "밀도 측정 수행평가 진행 방법 문의.",
-  "taggedAt": "2026-08-12T10:28:48.860Z"
+  "tagsNote": "밀도 측정 수행평가 진행 방법 문의. [보완: 수평 보완(동일 이름)]",
+  "taggedAt": "2026-08-12T10:28:48.860Z",
+  "verticalReviewedAt": "2026-08-14T03:21:32.791Z"
 }

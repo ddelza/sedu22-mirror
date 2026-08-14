@@ -24,8 +24,16 @@
       "subject": "과학",
       "unit": "물질의 구성",
       "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "물질의 구성",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "2022개정 중학교 과학(화학단원) 시안에 대한 현장교사 의견 요청.",
-  "taggedAt": "2026-08-12T09:02:58.383Z"
+  "tagsNote": "2022개정 중학교 과학(화학단원) 시안에 대한 현장교사 의견 요청. [보완: 수평 보완(동일 이름)]",
+  "taggedAt": "2026-08-12T09:02:58.383Z",
+  "verticalReviewedAt": "2026-08-14T03:20:51.718Z"
 }

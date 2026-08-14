@@ -24,8 +24,16 @@
       "subject": "과학",
       "unit": "생물의 다양성",
       "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "생물의 구성과 다양성",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "중1 전체 독서(생물다양성 연계) 추천 도서 요청.",
-  "taggedAt": "2026-08-12T10:25:08.377Z"
+  "tagsNote": "중1 전체 독서(생물다양성 연계) 추천 도서 요청. [보완: 수평 보완]",
+  "taggedAt": "2026-08-12T10:25:08.377Z",
+  "verticalReviewedAt": "2026-08-14T03:20:51.735Z"
 }

@@ -24,8 +24,16 @@
       "subject": "과학",
       "unit": "열과 우리 생활",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "열",
+      "confidence": "high"
     }
   ],
-  "tagsNote": "2022개정 중1 교과서 '열'과 '열에너지' 개념 오류 지적 및 논의.",
-  "taggedAt": "2026-08-12T09:11:50.640Z"
+  "tagsNote": "2022개정 중1 교과서 '열'과 '열에너지' 개념 오류 지적 및 논의. [보완: 수평 보완]",
+  "taggedAt": "2026-08-12T09:11:50.640Z",
+  "verticalReviewedAt": "2026-08-14T03:20:51.721Z"
 }

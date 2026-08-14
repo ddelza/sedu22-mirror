@@ -24,8 +24,16 @@
       "subject": "과학",
       "unit": "생식과 유전",
       "confidence": "low"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "생식과 유전",
+      "confidence": "low"
     }
   ],
-  "tagsNote": "라왕나무 씨앗 관련 수업 준비 중 궁금증 질문.",
-  "taggedAt": "2026-08-12T14:34:59.693Z"
+  "tagsNote": "라왕나무 씨앗 관련 수업 준비 중 궁금증 질문. [보완: 수평 보완(동일 이름)]",
+  "taggedAt": "2026-08-12T14:34:59.693Z",
+  "verticalReviewedAt": "2026-08-14T03:25:20.852Z"
 }

@@ -24,8 +24,16 @@
       "subject": "과학",
       "unit": "자극과 반응",
       "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "자극과 반응",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "동공 크기 조절 실험을 활용한 2022교육과정 논쟁적 질문 만들기 예시.",
-  "taggedAt": "2026-08-12T09:11:50.643Z"
+  "tagsNote": "동공 크기 조절 실험을 활용한 2022교육과정 논쟁적 질문 만들기 예시. [보완: 수평 보완(동일 이름)]",
+  "taggedAt": "2026-08-12T09:11:50.643Z",
+  "verticalReviewedAt": "2026-08-14T03:20:51.722Z"
 }

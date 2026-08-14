@@ -24,8 +24,16 @@
       "subject": "과학",
       "unit": "생식과 유전",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "생식과 유전",
+      "confidence": "high"
     }
   ],
-  "tagsNote": "멘델 프로젝트 타가수분 진행 및 형질 비교 공유.",
-  "taggedAt": "2026-08-12T09:01:46.597Z"
+  "tagsNote": "멘델 프로젝트 타가수분 진행 및 형질 비교 공유. [보완: 수평 보완(동일 이름)]",
+  "taggedAt": "2026-08-12T09:01:46.597Z",
+  "verticalReviewedAt": "2026-08-14T03:18:36.642Z"
 }

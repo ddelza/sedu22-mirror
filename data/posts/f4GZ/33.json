@@ -24,8 +24,16 @@
       "subject": "과학",
       "unit": "생식과 유전",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "생식과 유전",
+      "confidence": "high"
     }
   ],
-  "tagsNote": "2022 멘델 프로젝트 타가수분 목표(RrYy 확보) 설명.",
-  "taggedAt": "2026-08-12T09:02:58.356Z"
+  "tagsNote": "2022 멘델 프로젝트 타가수분 목표(RrYy 확보) 설명. [보완: 수평 보완(동일 이름)]",
+  "taggedAt": "2026-08-12T09:02:58.356Z",
+  "verticalReviewedAt": "2026-08-14T03:19:07.751Z"
 }
