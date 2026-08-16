@@ -24,8 +24,16 @@
       "subject": "생명과학Ⅰ",
       "unit": "항상성과 몸의 조절",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "고등학교",
+      "subject": "생명과학",
+      "unit": "항상성과 몸의 조절",
+      "confidence": "high"
     }
   ],
-  "tagsNote": "혈당조절 피드백 과정 스티커 활동.",
-  "taggedAt": "2026-08-12T03:15:16.320Z"
+  "tagsNote": "혈당조절 피드백 과정 스티커 활동. [보완: 2015 '항상성과 몸의 조절'↔2022 동일 단원명 유지]",
+  "taggedAt": "2026-08-12T03:15:16.320Z",
+  "verticalReviewedAt": "2026-08-16T07:59:18.064Z"
 }

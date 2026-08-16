@@ -24,8 +24,16 @@
       "subject": "화학Ⅰ",
       "unit": "역동적인 화학 반응",
       "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "고등학교",
+      "subject": "화학",
+      "unit": "역동적인 화학 반응",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "식초 속 아세트산 함량 정량분석 실험(화학1 교육과정).",
-  "taggedAt": "2026-08-12T03:26:25.435Z"
+  "tagsNote": "식초 속 아세트산 함량 정량분석 실험(화학1 교육과정). [보완: 2015 '역동적인 화학 반응'(중화적정)↔2022 동일 단원명 유지]",
+  "taggedAt": "2026-08-12T03:26:25.435Z",
+  "verticalReviewedAt": "2026-08-16T08:01:13.921Z"
 }

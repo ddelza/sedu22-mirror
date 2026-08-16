@@ -24,8 +24,16 @@
       "subject": "생명과학Ⅰ",
       "unit": "생명과학의 이해",
       "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "고등학교",
+      "subject": "생명과학",
+      "unit": "생명시스템의 구성",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "메르스 관련 바이러스 수업 아이디어.",
-  "taggedAt": "2026-08-12T03:16:27.493Z"
+  "tagsNote": "메르스 관련 바이러스 수업 아이디어. [보완: 2015 '생명과학의 이해'(바이러스)↔2022 '생명시스템의 구성' 수평 대응]",
+  "taggedAt": "2026-08-12T03:16:27.493Z",
+  "verticalReviewedAt": "2026-08-16T07:59:18.071Z"
 }

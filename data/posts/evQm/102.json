@@ -29,8 +29,16 @@
       "category": "스마트 수업도구",
       "topic": "앱/프로그램",
       "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "고등학교",
+      "subject": "물리학Ⅰ",
+      "unit": "역학과 에너지",
+      "confidence": "high"
     }
   ],
-  "tagsNote": "상대성이론 VPython 코딩 시뮬레이션.",
-  "taggedAt": "2026-08-12T03:32:41.283Z"
+  "tagsNote": "상대성이론 VPython 코딩 시뮬레이션. [보완: 2022만 있던 글에 2015 '역학과 에너지'(특수상대성이론 부분) 역방향 보완 — 제목만 보면 못 찾는 이동 사례]",
+  "taggedAt": "2026-08-12T03:32:41.283Z",
+  "verticalReviewedAt": "2026-08-16T08:01:13.927Z"
 }

@@ -24,8 +24,16 @@
       "subject": "생명과학Ⅰ",
       "unit": "유전",
       "confidence": "low"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "고등학교",
+      "subject": "생명과학",
+      "unit": "생명의 연속성과 다양성",
+      "confidence": "low"
     }
   ],
-  "tagsNote": "혈액형 판정 실험 오차 대응 사례(학급운영 에세이 형식).",
-  "taggedAt": "2026-08-12T03:16:27.519Z"
+  "tagsNote": "혈액형 판정 실험 오차 대응 사례(학급운영 에세이 형식). [보완: 2015 '유전'(혈액형 판정)↔2022 '생명의 연속성과 다양성' 수평 대응]",
+  "taggedAt": "2026-08-12T03:16:27.519Z",
+  "verticalReviewedAt": "2026-08-16T07:59:18.075Z"
 }

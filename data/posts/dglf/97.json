@@ -24,8 +24,16 @@
       "subject": "생명과학",
       "unit": "생명의 연속성과 다양성",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "고등학교",
+      "subject": "생명과학Ⅱ",
+      "unit": "생물의 진화와 다양성",
+      "confidence": "high"
     }
   ],
-  "tagsNote": "자연선택에서 선택압을 받은 개체의 생존/사망 개념 질문.",
-  "taggedAt": "2026-08-12T03:16:27.509Z"
+  "tagsNote": "자연선택에서 선택압을 받은 개체의 생존/사망 개념 질문. [보완: 2022만 있던 글에 2015 '생물의 진화와 다양성'(자연선택) 역방향 보완]",
+  "taggedAt": "2026-08-12T03:16:27.509Z",
+  "verticalReviewedAt": "2026-08-16T07:59:18.075Z"
 }

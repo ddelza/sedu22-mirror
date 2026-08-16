@@ -29,8 +29,16 @@
       "category": "스마트 수업도구",
       "topic": "메이커/3D프린팅",
       "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "고등학교",
+      "subject": "통합과학2",
+      "unit": "환경과 에너지",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "고1-2 환경 문제해결 프로토타입 제작 수업(3D프린터 활용) 조언 요청.",
-  "taggedAt": "2026-08-12T03:23:00.645Z"
+  "tagsNote": "고1-2 환경 문제해결 프로토타입 제작 수업(3D프린터 활용) 조언 요청. [보완: 2015 '생태계와 환경'↔2022 '환경과 에너지' 수평 대응]",
+  "taggedAt": "2026-08-12T03:23:00.645Z",
+  "verticalReviewedAt": "2026-08-16T08:01:13.917Z"
 }

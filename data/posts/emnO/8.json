@@ -29,8 +29,16 @@
       "category": "과학교사 업무",
       "topic": "교원연수",
       "confidence": "low"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "고등학교",
+      "subject": "통합과학1",
+      "unit": "물질과 규칙성",
+      "confidence": "low"
     }
   ],
-  "tagsNote": "신소재 실험 키트 제작 연수(웹툰 7화 곁들임).",
-  "taggedAt": "2026-08-12T03:31:12.955Z"
+  "tagsNote": "신소재 실험 키트 제작 연수(웹툰 7화 곁들임). [보완: 2015 '자연의 구성 물질'↔2022 '물질과 규칙성' 수평 대응]",
+  "taggedAt": "2026-08-12T03:31:12.955Z",
+  "verticalReviewedAt": "2026-08-16T08:01:13.926Z"
 }
