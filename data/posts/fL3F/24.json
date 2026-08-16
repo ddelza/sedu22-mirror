@@ -24,8 +24,16 @@
       "subject": "역학과 에너지",
       "unit": "시공간과 운동",
       "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "고등학교",
+      "subject": "물리학Ⅱ",
+      "unit": "역학적 상호작용",
+      "confidence": "high"
     }
   ],
-  "tagsNote": "회전하는 비관성계에서 원심력이 항상 느껴지는지 사고실험으로 검토.",
-  "taggedAt": "2026-08-13T13:57:29.857Z"
+  "tagsNote": "회전하는 비관성계에서 원심력이 항상 느껴지는지 사고실험으로 검토. [보완: 가속좌표계·관성력 내용이라 2015 '물리학Ⅱ>역학적 상호작용' 역방향 보완]",
+  "taggedAt": "2026-08-13T13:57:29.857Z",
+  "verticalReviewedAt": "2026-08-16T08:22:15.411Z"
 }

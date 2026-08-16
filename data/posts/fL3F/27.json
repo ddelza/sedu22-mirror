@@ -24,8 +24,16 @@
       "subject": "전자기와 양자",
       "unit": "양자와 미시세계",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "고등학교",
+      "subject": "물리학Ⅱ",
+      "unit": "파동과 물질의 성질",
+      "confidence": "high"
     }
   ],
-  "tagsNote": "불확정성 원리에서 사용하는 '교란'이라는 용어의 의미를 재검토.",
-  "taggedAt": "2026-08-13T13:57:29.858Z"
+  "tagsNote": "불확정성 원리에서 사용하는 '교란'이라는 용어의 의미를 재검토. [보완: 불확정성 원리 내용이라 2015 '물리학Ⅱ>파동과 물질의 성질' 역방향 보완]",
+  "taggedAt": "2026-08-13T13:57:29.858Z",
+  "verticalReviewedAt": "2026-08-16T08:22:15.413Z"
 }

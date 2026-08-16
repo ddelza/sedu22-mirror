@@ -24,8 +24,16 @@
       "subject": "물리학Ⅰ",
       "unit": "역학과 에너지",
       "confidence": "low"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "고등학교",
+      "subject": "물리학",
+      "unit": "힘과 에너지",
+      "confidence": "low"
     }
   ],
-  "tagsNote": "힘보존법칙이 없는 이유(에너지/운동량 보존) 심화 칼럼.",
-  "taggedAt": "2026-08-12T13:39:02.234Z"
+  "tagsNote": "힘보존법칙이 없는 이유(에너지/운동량 보존) 심화 칼럼. [보완: 2015 '역학과 에너지'↔2022 '힘과 에너지' 수평 대응]",
+  "taggedAt": "2026-08-12T13:39:02.234Z",
+  "verticalReviewedAt": "2026-08-16T08:22:15.406Z"
 }

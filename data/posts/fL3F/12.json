@@ -24,8 +24,16 @@
       "subject": "전자기와 양자",
       "unit": "양자와 미시세계",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "고등학교",
+      "subject": "물리학Ⅱ",
+      "unit": "파동과 물질의 성질",
+      "confidence": "high"
     }
   ],
-  "tagsNote": "양자역학이 무엇을 말하는가에 대한 연재글 결론(열번째 이야기).",
-  "taggedAt": "2026-08-13T13:57:29.850Z"
+  "tagsNote": "양자역학이 무엇을 말하는가에 대한 연재글 결론(열번째 이야기). [보완: 양자역학 내용이라 2015 '물리학Ⅱ>파동과 물질의 성질' 역방향 보완]",
+  "taggedAt": "2026-08-13T13:57:29.850Z",
+  "verticalReviewedAt": "2026-08-16T08:22:15.403Z"
 }

@@ -24,8 +24,16 @@
       "subject": "전자기와 양자",
       "unit": "양자와 미시세계",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "고등학교",
+      "subject": "물리학Ⅱ",
+      "unit": "파동과 물질의 성질",
+      "confidence": "high"
     }
   ],
-  "tagsNote": "미시세계와 거시세계를 나누는 결어긋남(Decoherence) 개념 설명(여섯번째 이야기).",
-  "taggedAt": "2026-08-13T13:57:29.849Z"
+  "tagsNote": "미시세계와 거시세계를 나누는 결어긋남(Decoherence) 개념 설명(여섯번째 이야기). [보완: 양자역학 내용이라 2015 '물리학Ⅱ>파동과 물질의 성질' 역방향 보완]",
+  "taggedAt": "2026-08-13T13:57:29.849Z",
+  "verticalReviewedAt": "2026-08-16T08:22:15.402Z"
 }

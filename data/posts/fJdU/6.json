@@ -24,8 +24,16 @@
       "subject": "물리학Ⅰ",
       "unit": "물질과 전자기장",
       "confidence": "low"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "고등학교",
+      "subject": "물리학",
+      "unit": "전기와 자기",
+      "confidence": "low"
     }
   ],
-  "tagsNote": "크로뮴 반강자성 상전이 관찰 실패 실험 공유.",
-  "taggedAt": "2026-08-12T13:36:47.381Z"
+  "tagsNote": "크로뮴 반강자성 상전이 관찰 실패 실험 공유. [보완: 2015 '물질과 전자기장'↔2022 '전기와 자기' 수평 대응]",
+  "taggedAt": "2026-08-12T13:36:47.381Z",
+  "verticalReviewedAt": "2026-08-16T08:22:15.395Z"
 }

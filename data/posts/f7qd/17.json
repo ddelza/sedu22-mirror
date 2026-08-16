@@ -24,8 +24,16 @@
       "subject": "물리학Ⅰ",
       "unit": "역학과 에너지",
       "confidence": "low"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "고등학교",
+      "subject": "물리학",
+      "unit": "힘과 에너지",
+      "confidence": "low"
     }
   ],
-  "tagsNote": "의류건조기 원리(열전달) 소재 모의평가 비문학 지문 공유.",
-  "taggedAt": "2026-08-12T10:25:08.351Z"
+  "tagsNote": "의류건조기 원리(열전달) 소재 모의평가 비문학 지문 공유. [보완: 2015 '역학과 에너지'↔2022 '힘과 에너지' 수평 대응]",
+  "taggedAt": "2026-08-12T10:25:08.351Z",
+  "verticalReviewedAt": "2026-08-16T08:22:15.390Z"
 }

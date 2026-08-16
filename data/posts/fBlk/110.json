@@ -29,8 +29,16 @@
       "subject": "생명과학Ⅰ",
       "unit": "사람의 물질대사",
       "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "고등학교",
+      "subject": "생명과학",
+      "unit": "생명시스템의 구성",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "부산 톡톡(고교 생명과학) 광합성과 호흡 인포그래픽 수업 사례 공유.",
-  "taggedAt": "2026-08-12T13:24:15.932Z"
+  "tagsNote": "부산 톡톡(고교 생명과학) 광합성과 호흡 인포그래픽 수업 사례 공유. [보완: 2015 '사람의 물질대사'↔2022 '생명시스템의 구성' 수평 대응]",
+  "taggedAt": "2026-08-12T13:24:15.932Z",
+  "verticalReviewedAt": "2026-08-16T08:22:15.394Z"
 }
