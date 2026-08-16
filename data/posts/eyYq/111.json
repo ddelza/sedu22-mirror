@@ -24,8 +24,16 @@
       "subject": "통합과학",
       "unit": "생태계와 환경",
       "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "고등학교",
+      "subject": "통합과학2",
+      "unit": "환경과 에너지",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "지하철 에어컨 배수구 생태계(편리공생) 관찰 자료.",
-  "taggedAt": "2026-08-12T04:18:08.759Z"
+  "tagsNote": "지하철 에어컨 배수구 생태계(편리공생) 관찰 자료. [보완: 2015 '생태계와 환경'↔2022 '환경과 에너지' 수평 대응]",
+  "taggedAt": "2026-08-12T04:18:08.759Z",
+  "verticalReviewedAt": "2026-08-16T08:16:28.529Z"
 }

@@ -24,8 +24,16 @@
       "subject": "물리학Ⅰ",
       "unit": "파동과 정보통신",
       "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "고등학교",
+      "subject": "물리학",
+      "unit": "빛과 물질",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "적외선 스펙트럼(전자기파) 소재 이미지.",
-  "taggedAt": "2026-08-12T04:19:43.102Z"
+  "tagsNote": "적외선 스펙트럼(전자기파) 소재 이미지. [보완: 2015 '파동과 정보통신'↔2022 '빛과 물질' 수평 대응]",
+  "taggedAt": "2026-08-12T04:19:43.102Z",
+  "verticalReviewedAt": "2026-08-16T08:16:28.531Z"
 }

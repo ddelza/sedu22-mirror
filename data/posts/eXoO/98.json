@@ -24,8 +24,16 @@
       "subject": "물리학Ⅰ",
       "unit": "역학과 에너지",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "고등학교",
+      "subject": "물리학",
+      "unit": "힘과 에너지",
+      "confidence": "high"
     }
   ],
-  "tagsNote": "바닥 마찰력 발생 원리(돌림힘 관점) 심화 설명.",
-  "taggedAt": "2026-08-12T04:18:08.695Z"
+  "tagsNote": "바닥 마찰력 발생 원리(돌림힘 관점) 심화 설명. [보완: 2015 '역학과 에너지'↔2022 '힘과 에너지' 수평 대응]",
+  "taggedAt": "2026-08-12T04:18:08.695Z",
+  "verticalReviewedAt": "2026-08-16T08:16:28.527Z"
 }

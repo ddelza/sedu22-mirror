@@ -24,8 +24,16 @@
       "subject": "화학Ⅰ",
       "unit": "화학 결합과 분자의 세계",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "고등학교",
+      "subject": "화학",
+      "unit": "물질의 구조와 성질",
+      "confidence": "high"
     }
   ],
-  "tagsNote": "천일염 소금 결정(이온결합) 사진.",
-  "taggedAt": "2026-08-12T04:21:13.732Z"
+  "tagsNote": "천일염 소금 결정(이온결합) 사진. [보완: 2015 '화학 결합과 분자의 세계'↔2022 '물질의 구조와 성질' 수평 대응]",
+  "taggedAt": "2026-08-12T04:21:13.732Z",
+  "verticalReviewedAt": "2026-08-16T08:16:28.535Z"
 }

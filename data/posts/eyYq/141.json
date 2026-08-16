@@ -24,8 +24,16 @@
       "subject": "물리학Ⅰ",
       "unit": "역학과 에너지",
       "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "고등학교",
+      "subject": "물리학",
+      "unit": "힘과 에너지",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "작용-반작용(뉴턴 운동법칙) 스케이트보드 이미지.",
-  "taggedAt": "2026-08-12T04:19:43.120Z"
+  "tagsNote": "작용-반작용(뉴턴 운동법칙) 스케이트보드 이미지. [보완: 2015 '역학과 에너지'↔2022 '힘과 에너지' 수평 대응]",
+  "taggedAt": "2026-08-12T04:19:43.120Z",
+  "verticalReviewedAt": "2026-08-16T08:16:28.532Z"
 }

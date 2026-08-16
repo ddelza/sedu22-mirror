@@ -24,8 +24,16 @@
       "subject": "통합과학",
       "unit": "화학 변화",
       "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "고등학교",
+      "subject": "통합과학2",
+      "unit": "변화와 다양성",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "영화 입장권 감열지(산염기, 중화반응) 원리 자료.",
-  "taggedAt": "2026-08-12T04:19:43.091Z"
+  "tagsNote": "영화 입장권 감열지(산염기, 중화반응) 원리 자료. [보완: 2015 '화학 변화'↔2022 '변화와 다양성' 수평 대응]",
+  "taggedAt": "2026-08-12T04:19:43.091Z",
+  "verticalReviewedAt": "2026-08-16T08:16:28.529Z"
 }

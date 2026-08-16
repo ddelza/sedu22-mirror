@@ -24,8 +24,16 @@
       "subject": "화학Ⅰ",
       "unit": "화학 결합과 분자의 세계",
       "confidence": "low"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "고등학교",
+      "subject": "화학",
+      "unit": "물질의 구조와 성질",
+      "confidence": "low"
     }
   ],
-  "tagsNote": "탄소화합물 말장난(아이돌 뮤비 배경) 이미지.",
-  "taggedAt": "2026-08-12T04:19:43.109Z"
+  "tagsNote": "탄소화합물 말장난(아이돌 뮤비 배경) 이미지. [보완: 2015 '화학 결합과 분자의 세계'↔2022 '물질의 구조와 성질' 수평 대응]",
+  "taggedAt": "2026-08-12T04:19:43.109Z",
+  "verticalReviewedAt": "2026-08-16T08:16:28.531Z"
 }

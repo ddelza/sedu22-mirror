@@ -29,8 +29,16 @@
       "category": "스마트 수업도구",
       "topic": "앱/프로그램",
       "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "고등학교",
+      "subject": "물리학",
+      "unit": "힘과 에너지",
+      "confidence": "high"
     }
   ],
-  "tagsNote": "야구 포물선운동 계산 사이트 소개.",
-  "taggedAt": "2026-08-12T04:21:13.741Z"
+  "tagsNote": "야구 포물선운동 계산 사이트 소개. [보완: 2015 '역학과 에너지'↔2022 '힘과 에너지' 수평 대응]",
+  "taggedAt": "2026-08-12T04:21:13.741Z",
+  "verticalReviewedAt": "2026-08-16T08:16:28.537Z"
 }
