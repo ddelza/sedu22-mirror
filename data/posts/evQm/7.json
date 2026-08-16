@@ -24,8 +24,16 @@
       "subject": "물리학Ⅰ",
       "unit": "파동과 정보통신",
       "confidence": "low"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "고등학교",
+      "subject": "물리학",
+      "unit": "빛과 물질",
+      "confidence": "low"
     }
   ],
-  "tagsNote": "물리학세특용 식물-파동 연계 연구소재 문의.",
-  "taggedAt": "2026-08-12T03:36:53.785Z"
+  "tagsNote": "물리학세특용 식물-파동 연계 연구소재 문의. [보완: 2015 '파동과 정보통신'↔2022 '빛과 물질' 수평 대응]",
+  "taggedAt": "2026-08-12T03:36:53.785Z",
+  "verticalReviewedAt": "2026-08-16T08:06:22.405Z"
 }

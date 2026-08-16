@@ -24,8 +24,16 @@
       "subject": "물리학",
       "unit": "힘과 에너지",
       "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "고등학교",
+      "subject": "물리학Ⅰ",
+      "unit": "역학과 에너지",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "인공위성 궤도/공전주기 인터렉티브 자료(물리학Ⅱ 언급).",
-  "taggedAt": "2026-08-12T03:36:53.795Z"
+  "tagsNote": "인공위성 궤도/공전주기 인터렉티브 자료(물리학Ⅱ 언급). [보완: 2022만 있던 글에 2015 '역학과 에너지' 역방향 보완]",
+  "taggedAt": "2026-08-12T03:36:53.795Z",
+  "verticalReviewedAt": "2026-08-16T08:06:22.410Z"
 }

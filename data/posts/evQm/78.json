@@ -24,8 +24,16 @@
       "subject": "물리학Ⅰ",
       "unit": "파동과 정보통신",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "고등학교",
+      "subject": "물리학",
+      "unit": "빛과 물질",
+      "confidence": "high"
     }
   ],
-  "tagsNote": "빛 회절 실험(푸아송의 점) 아이디어.",
-  "taggedAt": "2026-08-12T03:36:53.794Z"
+  "tagsNote": "빛 회절 실험(푸아송의 점) 아이디어. [보완: 2015 '파동과 정보통신'↔2022 '빛과 물질' 수평 대응]",
+  "taggedAt": "2026-08-12T03:36:53.794Z",
+  "verticalReviewedAt": "2026-08-16T08:06:22.410Z"
 }

@@ -24,8 +24,16 @@
       "subject": "물리학",
       "unit": "빛과 물질",
       "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "고등학교",
+      "subject": "물리학Ⅰ",
+      "unit": "물질과 전자기장",
+      "confidence": "low"
     }
   ],
-  "tagsNote": "흑체 반대 개념(완전 반사체) 이야기(2).",
-  "taggedAt": "2026-08-12T03:36:53.800Z"
+  "tagsNote": "흑체 반대 개념(완전 반사체) 이야기(2). [보완: 2022만 있던 글에 2015 '물질과 전자기장'(스펙트럼) 역방향 보완]",
+  "taggedAt": "2026-08-12T03:36:53.800Z",
+  "verticalReviewedAt": "2026-08-16T08:06:22.412Z"
 }

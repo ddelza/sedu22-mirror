@@ -24,8 +24,16 @@
       "subject": "물리학",
       "unit": "빛과 물질",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "고등학교",
+      "subject": "물리학Ⅰ",
+      "unit": "물질과 전자기장",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "연속 스펙트럼과 흑체복사 관계 질문.",
-  "taggedAt": "2026-08-12T03:36:53.788Z"
+  "tagsNote": "연속 스펙트럼과 흑체복사 관계 질문. [보완: 2022만 있던 글에 2015 '물질과 전자기장'(불연속 에너지 준위·스펙트럼) 역방향 보완]",
+  "taggedAt": "2026-08-12T03:36:53.788Z",
+  "verticalReviewedAt": "2026-08-16T08:06:22.407Z"
 }

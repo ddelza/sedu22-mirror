@@ -24,8 +24,16 @@
       "subject": "물리학Ⅰ",
       "unit": "물질과 전자기장",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "고등학교",
+      "subject": "물리학",
+      "unit": "전기와 자기",
+      "confidence": "high"
     }
   ],
-  "tagsNote": "코일에 철못이 끌려가는 현상(전자석) 질문.",
-  "taggedAt": "2026-08-12T03:36:53.803Z"
+  "tagsNote": "코일에 철못이 끌려가는 현상(전자석) 질문. [보완: 2015 '물질과 전자기장'↔2022 '전기와 자기' 수평 대응]",
+  "taggedAt": "2026-08-12T03:36:53.803Z",
+  "verticalReviewedAt": "2026-08-16T08:06:22.413Z"
 }

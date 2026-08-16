@@ -24,8 +24,16 @@
       "subject": "물리학Ⅰ",
       "unit": "역학과 에너지",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "고등학교",
+      "subject": "물리학",
+      "unit": "힘과 에너지",
+      "confidence": "high"
     }
   ],
-  "tagsNote": "탄성계수(용수철 상수) 측정 실험 오차 원인 질문.",
-  "taggedAt": "2026-08-12T03:36:53.772Z"
+  "tagsNote": "탄성계수(용수철 상수) 측정 실험 오차 원인 질문. [보완: 2015 '역학과 에너지'↔2022 '힘과 에너지' 수평 대응]",
+  "taggedAt": "2026-08-12T03:36:53.772Z",
+  "verticalReviewedAt": "2026-08-16T08:06:22.403Z"
 }

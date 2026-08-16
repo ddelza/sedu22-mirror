@@ -29,8 +29,16 @@
       "category": "스마트 수업도구",
       "topic": "앱/프로그램",
       "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "고등학교",
+      "subject": "물리학",
+      "unit": "힘과 에너지",
+      "confidence": "low"
     }
   ],
-  "tagsNote": "트래커 실험용 공놀이총 고장/보강 사연.",
-  "taggedAt": "2026-08-12T03:36:53.792Z"
+  "tagsNote": "트래커 실험용 공놀이총 고장/보강 사연. [보완: 2015 '역학과 에너지'↔2022 '힘과 에너지' 수평 대응]",
+  "taggedAt": "2026-08-12T03:36:53.792Z",
+  "verticalReviewedAt": "2026-08-16T08:06:22.408Z"
 }

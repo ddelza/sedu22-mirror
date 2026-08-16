@@ -24,8 +24,16 @@
       "subject": "통합과학",
       "unit": "발전과 신재생 에너지",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "고등학교",
+      "subject": "통합과학2",
+      "unit": "환경과 에너지",
+      "confidence": "high"
     }
   ],
-  "tagsNote": "발전기 원리 설명 문장(통합과학 학습지) 검토 요청.",
-  "taggedAt": "2026-08-12T03:36:53.773Z"
+  "tagsNote": "발전기 원리 설명 문장(통합과학 학습지) 검토 요청. [보완: 2015 '발전과 신재생 에너지'↔2022 '환경과 에너지' 수평 대응]",
+  "taggedAt": "2026-08-12T03:36:53.773Z",
+  "verticalReviewedAt": "2026-08-16T08:06:22.404Z"
 }

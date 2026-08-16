@@ -29,8 +29,16 @@
       "category": "스마트 수업도구",
       "topic": "앱/프로그램",
       "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "고등학교",
+      "subject": "물리학",
+      "unit": "힘과 에너지",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "뉴턴 제2법칙 가상 물리실험 사이트 요청(과학실 기자재 부족).",
-  "taggedAt": "2026-08-12T03:36:53.790Z"
+  "tagsNote": "뉴턴 제2법칙 가상 물리실험 사이트 요청(과학실 기자재 부족). [보완: 2015 '역학과 에너지'↔2022 '힘과 에너지' 수평 대응]",
+  "taggedAt": "2026-08-12T03:36:53.790Z",
+  "verticalReviewedAt": "2026-08-16T08:06:22.408Z"
 }
