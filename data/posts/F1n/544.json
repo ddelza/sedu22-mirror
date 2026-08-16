@@ -24,8 +24,16 @@
       "subject": "화학Ⅰ",
       "unit": "역동적인 화학 반응",
       "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "고등학교",
+      "subject": "화학",
+      "unit": "역동적인 화학 반응",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "물의 전기분해와 차아염소산(코로나 방역 약품) 연계 수업 이론 문의.",
-  "taggedAt": "2026-08-12T08:48:40.830Z"
+  "tagsNote": "물의 전기분해와 차아염소산(코로나 방역 약품) 연계 수업 이론 문의. [보완: 2015 '역동적인 화학 반응'↔2022 동일 단원명 유지]",
+  "taggedAt": "2026-08-12T08:48:40.830Z",
+  "verticalReviewedAt": "2026-08-16T08:20:14.029Z"
 }

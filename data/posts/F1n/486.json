@@ -24,8 +24,16 @@
       "subject": "생명과학Ⅰ",
       "unit": "생명과학의 이해",
       "confidence": "low"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "고등학교",
+      "subject": "생명과학",
+      "unit": "생명시스템의 구성",
+      "confidence": "low"
     }
   ],
-  "tagsNote": "영화 '가타카' 학습지 자료 뒤늦은 공유.",
-  "taggedAt": "2026-08-12T08:47:26.001Z"
+  "tagsNote": "영화 '가타카' 학습지 자료 뒤늦은 공유. [보완: 2015 '생명과학의 이해'↔2022 '생명시스템의 구성' 수평 대응]",
+  "taggedAt": "2026-08-12T08:47:26.001Z",
+  "verticalReviewedAt": "2026-08-16T08:20:14.025Z"
 }

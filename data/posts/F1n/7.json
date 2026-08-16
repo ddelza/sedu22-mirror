@@ -24,8 +24,16 @@
       "subject": "화학Ⅰ",
       "unit": "역동적인 화학 반응",
       "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "고등학교",
+      "subject": "화학",
+      "unit": "역동적인 화학 반응",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "농도 계산 개념 이해를 위한 Peer Tutoring 협동학습 사례 공유.",
-  "taggedAt": "2026-08-12T08:52:32.367Z"
+  "tagsNote": "농도 계산 개념 이해를 위한 Peer Tutoring 협동학습 사례 공유. [보완: 2015 '역동적인 화학 반응'(농도)↔2022 동일 단원명 유지]",
+  "taggedAt": "2026-08-12T08:52:32.367Z",
+  "verticalReviewedAt": "2026-08-16T08:20:14.037Z"
 }

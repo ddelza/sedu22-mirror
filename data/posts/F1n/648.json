@@ -29,8 +29,16 @@
       "subject": "생명과학Ⅰ",
       "unit": "유전",
       "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "고등학교",
+      "subject": "생명과학",
+      "unit": "생명의 연속성과 다양성",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "과학동아리 1년 DNA 탐구 프로그램(왓슨과 크릭 등) 구성 아이디어 요청.",
-  "taggedAt": "2026-08-12T08:51:15.955Z"
+  "tagsNote": "과학동아리 1년 DNA 탐구 프로그램(왓슨과 크릭 등) 구성 아이디어 요청. [보완: 2015 '유전'(DNA)↔2022 '생명의 연속성과 다양성' 수평 대응]",
+  "taggedAt": "2026-08-12T08:51:15.955Z",
+  "verticalReviewedAt": "2026-08-16T08:20:14.033Z"
 }

@@ -29,8 +29,16 @@
       "category": "스마트 수업도구",
       "topic": "앱/프로그램",
       "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "고등학교",
+      "subject": "생명과학",
+      "unit": "생명의 연속성과 다양성",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "VLLO 앱을 이용한 감수분열 과정 동영상 제작 프로젝트 사용설명서 공유.",
-  "taggedAt": "2026-08-12T08:51:15.981Z"
+  "tagsNote": "VLLO 앱을 이용한 감수분열 과정 동영상 제작 프로젝트 사용설명서 공유. [보완: 2015 '유전'(감수분열)↔2022 '생명의 연속성과 다양성' 수평 대응]",
+  "taggedAt": "2026-08-12T08:51:15.981Z",
+  "verticalReviewedAt": "2026-08-16T08:20:14.034Z"
 }

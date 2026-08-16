@@ -24,8 +24,16 @@
       "subject": "생명과학Ⅰ",
       "unit": "항상성과 몸의 조절",
       "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "고등학교",
+      "subject": "생명과학",
+      "unit": "항상성과 몸의 조절",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "삼투압 개념을 쉽게 설명하는 방법 고민.",
-  "taggedAt": "2026-08-12T08:42:35.639Z"
+  "tagsNote": "삼투압 개념을 쉽게 설명하는 방법 고민. [보완: 2015 '항상성과 몸의 조절'↔2022 동일 단원명 유지]",
+  "taggedAt": "2026-08-12T08:42:35.639Z",
+  "verticalReviewedAt": "2026-08-16T08:20:14.021Z"
 }
