@@ -36,8 +36,23 @@
       "category": "스마트 수업도구",
       "topic": "앱/프로그램",
       "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "고등학교",
+      "subject": "통합과학1",
+      "unit": "물질과 규칙성",
+      "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "고등학교",
+      "subject": "통합과학1",
+      "unit": "시스템과 상호작용",
+      "confidence": "high"
     }
   ],
-  "tagsNote": "쿼크부터 우주구조까지 스케일 시뮬레이션 웹 도구(한글 지원) 소개.",
-  "taggedAt": "2026-08-12T00:02:34.237Z"
+  "tagsNote": "쿼크부터 우주구조까지 스케일 시뮬레이션 웹 도구(한글 지원) 소개. [보완: 기존 2015 '자연의 구성 물질'/'지구 시스템' 각각의 2022 수평 대응 보완]",
+  "taggedAt": "2026-08-12T00:02:34.237Z",
+  "verticalReviewedAt": "2026-08-16T07:39:40.745Z"
 }

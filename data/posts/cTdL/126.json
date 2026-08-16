@@ -24,8 +24,16 @@
       "subject": "통합과학",
       "unit": "생물다양성과 유지",
       "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "고등학교",
+      "subject": "통합과학2",
+      "unit": "변화와 다양성",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "비유전적 변이 사례(성형) 관련 질문.",
-  "taggedAt": "2026-08-12T00:00:53.985Z"
+  "tagsNote": "비유전적 변이 사례(성형) 관련 질문. [보완: 2015 '생물다양성과 유지'↔2022 '변화와 다양성' 수평 대응]",
+  "taggedAt": "2026-08-12T00:00:53.985Z",
+  "verticalReviewedAt": "2026-08-16T07:38:57.800Z"
 }

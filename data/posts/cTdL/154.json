@@ -24,8 +24,16 @@
       "subject": "통합과학",
       "unit": "자연의 구성 물질",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "고등학교",
+      "subject": "통합과학1",
+      "unit": "물질과 규칙성",
+      "confidence": "high"
     }
   ],
-  "tagsNote": "빅뱅 기본입자 형성 관련 질문(오개념 점검).",
-  "taggedAt": "2026-08-12T00:00:54.003Z"
+  "tagsNote": "빅뱅 기본입자 형성 관련 질문(오개념 점검). [보완: 2015 '자연의 구성 물질'↔2022 '물질과 규칙성' 수평 대응]",
+  "taggedAt": "2026-08-12T00:00:54.003Z",
+  "verticalReviewedAt": "2026-08-16T07:39:40.736Z"
 }

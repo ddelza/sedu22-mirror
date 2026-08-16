@@ -24,8 +24,16 @@
       "subject": "물리학Ⅰ",
       "unit": "물질과 전자기장",
       "confidence": "low"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "고등학교",
+      "subject": "물리학",
+      "unit": "전기와 자기",
+      "confidence": "low"
     }
   ],
-  "tagsNote": "마이스너 효과(초전도체) 설명 방식 질문.",
-  "taggedAt": "2026-08-12T00:02:34.248Z"
+  "tagsNote": "마이스너 효과(초전도체) 설명 방식 질문. [보완: 2015 '물리학Ⅰ 물질과전자기장'↔2022 '물리학 전기와자기' 수평 대응]",
+  "taggedAt": "2026-08-12T00:02:34.248Z",
+  "verticalReviewedAt": "2026-08-16T07:40:24.298Z"
 }

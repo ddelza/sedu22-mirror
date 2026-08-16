@@ -24,8 +24,16 @@
       "subject": "생명과학Ⅰ",
       "unit": "생명과학의 이해",
       "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "고등학교",
+      "subject": "생명과학",
+      "unit": "생명시스템의 구성",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "생물의 특성 단원 낱말찾기/시크릿메세지 활동지.",
-  "taggedAt": "2026-08-11T23:59:11.481Z"
+  "tagsNote": "생물의 특성 단원 낱말찾기/시크릿메세지 활동지. [보완: 2015 생명과학Ⅰ '생명과학의 이해'↔2022 '생명시스템의 구성' 수평 대응]",
+  "taggedAt": "2026-08-11T23:59:11.481Z",
+  "verticalReviewedAt": "2026-08-16T07:38:57.794Z"
 }

@@ -45,8 +45,23 @@
       "subject": "통합과학",
       "unit": "생명 시스템",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "고등학교",
+      "subject": "통합과학1",
+      "unit": "물질과 규칙성",
+      "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "고등학교",
+      "subject": "통합과학1",
+      "unit": "시스템과 상호작용",
+      "confidence": "high"
     }
   ],
-  "tagsNote": "천재교과서 통합과학 1,2,4,5단원 학습지 모음.",
-  "taggedAt": "2026-08-12T00:02:34.238Z"
+  "tagsNote": "천재교과서 통합과학 1,2,4,5단원 학습지 모음. [보완: 기존 2015 4개 단원(물질의규칙성과결합/자연의구성물질/지구시스템/생명시스템)이 2022 두 단원으로 수렴 - 각각 보완]",
+  "taggedAt": "2026-08-12T00:02:34.238Z",
+  "verticalReviewedAt": "2026-08-16T07:39:40.747Z"
 }

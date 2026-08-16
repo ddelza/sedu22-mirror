@@ -24,8 +24,16 @@
       "subject": "통합과학",
       "unit": "생물다양성과 유지",
       "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "고등학교",
+      "subject": "통합과학2",
+      "unit": "변화와 다양성",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "생명의 다양성 참여식 연구수업(마인드맵) 아이디어 요청.",
-  "taggedAt": "2026-08-12T00:04:14.334Z"
+  "tagsNote": "생명의 다양성 참여식 연구수업(마인드맵) 아이디어 요청. [보완: 2015 '생물다양성과 유지'↔2022 '변화와 다양성' 수평 대응]",
+  "taggedAt": "2026-08-12T00:04:14.334Z",
+  "verticalReviewedAt": "2026-08-16T07:41:05.502Z"
 }

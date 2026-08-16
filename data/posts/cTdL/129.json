@@ -24,8 +24,16 @@
       "subject": "과학탐구실험",
       "unit": "역사 속의 과학 탐구",
       "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "고등학교",
+      "subject": "과학탐구실험1",
+      "unit": "과학의 본성과 역사 속의 과학 탐구",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "과학철학/과학자 이야기 관련 동영상 소개.",
-  "taggedAt": "2026-08-12T00:00:53.987Z"
+  "tagsNote": "과학철학/과학자 이야기 관련 동영상 소개. [보완: 2015 '역사 속의 과학 탐구'↔2022 '과학의 본성과 역사 속의 과학 탐구' 수평 대응]",
+  "taggedAt": "2026-08-12T00:00:53.987Z",
+  "verticalReviewedAt": "2026-08-16T07:38:57.802Z"
 }

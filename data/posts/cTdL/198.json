@@ -29,8 +29,16 @@
       "category": "스마트 수업도구",
       "topic": "앱/프로그램",
       "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "고등학교",
+      "subject": "통합과학1",
+      "unit": "물질과 규칙성",
+      "confidence": "high"
     }
   ],
-  "tagsNote": "패들렛으로 만든 온라인 주기율표(원소카드) 활동.",
-  "taggedAt": "2026-08-12T00:02:34.252Z"
+  "tagsNote": "패들렛으로 만든 온라인 주기율표(원소카드) 활동. [보완: 2015 '물질의 규칙성과 결합'↔2022 '물질과 규칙성' 수평 대응]",
+  "taggedAt": "2026-08-12T00:02:34.252Z",
+  "verticalReviewedAt": "2026-08-16T07:40:24.300Z"
 }

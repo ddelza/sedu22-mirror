@@ -31,8 +31,23 @@
       "subject": "통합과학",
       "unit": "자연의 구성 물질",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "고등학교",
+      "subject": "통합과학1",
+      "unit": "시스템과 상호작용",
+      "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "고등학교",
+      "subject": "통합과학1",
+      "unit": "물질과 규칙성",
+      "confidence": "high"
     }
   ],
-  "tagsNote": "빅뱅우주론/별의 진화/지구의 형성 관련 과학단어퍼즐게임(대단원1).",
-  "taggedAt": "2026-08-12T00:00:53.974Z"
+  "tagsNote": "빅뱅우주론/별의 진화/지구의 형성 관련 과학단어퍼즐게임(대단원1). [보완: 기존 2015 '지구 시스템'/'자연의 구성 물질' 각각의 2022 수평 대응 보완]",
+  "taggedAt": "2026-08-12T00:00:53.974Z",
+  "verticalReviewedAt": "2026-08-16T07:38:57.796Z"
 }

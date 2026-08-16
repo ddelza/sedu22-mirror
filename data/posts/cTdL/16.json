@@ -31,8 +31,23 @@
       "subject": "통합과학",
       "unit": "자연의 구성 물질",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "고등학교",
+      "subject": "통합과학1",
+      "unit": "시스템과 상호작용",
+      "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "고등학교",
+      "subject": "통합과학1",
+      "unit": "물질과 규칙성",
+      "confidence": "high"
     }
   ],
-  "tagsNote": "별의 죽음과 원소생성 관련 영상(우주에서 온 애플파이) 공유.",
-  "taggedAt": "2026-08-12T00:00:54.008Z"
+  "tagsNote": "별의 죽음과 원소생성 관련 영상(우주에서 온 애플파이) 공유. [보완: 기존 2015 '지구 시스템'/'자연의 구성 물질' 각각의 2022 수평 대응 보완]",
+  "taggedAt": "2026-08-12T00:00:54.008Z",
+  "verticalReviewedAt": "2026-08-16T07:39:40.739Z"
 }

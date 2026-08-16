@@ -24,8 +24,16 @@
       "subject": "과학탐구실험",
       "unit": "생활 속의 과학 탐구",
       "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "고등학교",
+      "subject": "과학탐구실험2",
+      "unit": "생활 속의 과학 탐구",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "커피 찌꺼기 탐구 활동자료 요청.",
-  "taggedAt": "2026-08-12T00:04:14.336Z"
+  "tagsNote": "커피 찌꺼기 탐구 활동자료 요청. [보완: 커피찌꺼기 활용 탐구 - 2015 '생활속의과학탐구'↔2022 '과학탐구실험2 생활속의과학탐구' 수평 대응]",
+  "taggedAt": "2026-08-12T00:04:14.336Z",
+  "verticalReviewedAt": "2026-08-16T07:41:05.504Z"
 }

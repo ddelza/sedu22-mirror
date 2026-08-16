@@ -31,8 +31,16 @@
       "subject": "통합과학",
       "unit": "자연의 구성 물질",
       "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "고등학교",
+      "subject": "통합과학1",
+      "unit": "물질과 규칙성",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "통합과학 1,2단원 교육과정 재구성 수업 지도안.",
-  "taggedAt": "2026-08-12T00:02:34.254Z"
+  "tagsNote": "통합과학 1,2단원 교육과정 재구성 수업 지도안. [보완: 기존 2015 '물질의규칙성과결합'/'자연의구성물질' 모두 2022 '물질과 규칙성'으로 수렴]",
+  "taggedAt": "2026-08-12T00:02:34.254Z",
+  "verticalReviewedAt": "2026-08-16T07:40:24.301Z"
 }

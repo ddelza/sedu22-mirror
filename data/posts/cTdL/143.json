@@ -38,8 +38,16 @@
       "subject": "통합과학",
       "unit": "자연의 구성 물질",
       "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "고등학교",
+      "subject": "통합과학1",
+      "unit": "물질과 규칙성",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "'원소가 뭐길래' 책 기반 원소 질문게임(중2~고1 적용 가능 명시).",
-  "taggedAt": "2026-08-12T00:00:53.999Z"
+  "tagsNote": "'원소가 뭐길래' 책 기반 원소 질문게임(중2~고1 적용 가능 명시). [보완: 2015 '자연의 구성 물질'↔2022 '물질과 규칙성' 수평 대응]",
+  "taggedAt": "2026-08-12T00:00:53.999Z",
+  "verticalReviewedAt": "2026-08-16T07:39:40.735Z"
 }

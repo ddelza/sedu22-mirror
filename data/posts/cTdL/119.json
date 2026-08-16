@@ -24,8 +24,16 @@
       "subject": "통합과학",
       "unit": "자연의 구성 물질",
       "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "고등학교",
+      "subject": "통합과학1",
+      "unit": "물질과 규칙성",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "신소재 관련 자유 탐구 보고서 예시 공유.",
-  "taggedAt": "2026-08-12T00:00:53.979Z"
+  "tagsNote": "신소재 관련 자유 탐구 보고서 예시 공유. [보완: 2015 '자연의 구성 물질'↔2022 '물질과 규칙성' 수평 대응]",
+  "taggedAt": "2026-08-12T00:00:53.979Z",
+  "verticalReviewedAt": "2026-08-16T07:38:57.797Z"
 }

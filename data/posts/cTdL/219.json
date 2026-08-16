@@ -29,8 +29,16 @@
       "subject": "통합과학",
       "unit": "생태계와 환경",
       "confidence": "low"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "고등학교",
+      "subject": "통합과학2",
+      "unit": "환경과 에너지",
+      "confidence": "low"
     }
   ],
-  "tagsNote": "토양 산성화 실험용 석회가루 구입처 문의.",
-  "taggedAt": "2026-08-12T00:04:14.339Z"
+  "tagsNote": "토양 산성화 실험용 석회가루 구입처 문의. [보완: 2015 '생태계와 환경'↔2022 '환경과 에너지' 수평 대응]",
+  "taggedAt": "2026-08-12T00:04:14.339Z",
+  "verticalReviewedAt": "2026-08-16T07:41:05.510Z"
 }

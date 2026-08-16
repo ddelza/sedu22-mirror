@@ -24,8 +24,16 @@
       "subject": "통합과학",
       "unit": "생태계와 환경",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "고등학교",
+      "subject": "통합과학2",
+      "unit": "환경과 에너지",
+      "confidence": "high"
     }
   ],
-  "tagsNote": "멸치 위장관찰과 생태계 평형 유지 실험 질문.",
-  "taggedAt": "2026-08-12T00:00:53.983Z"
+  "tagsNote": "멸치 위장관찰과 생태계 평형 유지 실험 질문. [보완: 2015 '생태계와 환경'↔2022 '환경과 에너지' 수평 대응]",
+  "taggedAt": "2026-08-12T00:00:53.983Z",
+  "verticalReviewedAt": "2026-08-16T07:38:57.799Z"
 }

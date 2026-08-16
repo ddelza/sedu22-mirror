@@ -24,8 +24,16 @@
       "subject": "통합과학",
       "unit": "화학 변화",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "고등학교",
+      "subject": "통합과학2",
+      "unit": "변화와 다양성",
+      "confidence": "high"
     }
   ],
-  "tagsNote": "산화환원 파트 수소풍선 폭발실험 질문.",
-  "taggedAt": "2026-08-12T00:04:14.333Z"
+  "tagsNote": "산화환원 파트 수소풍선 폭발실험 질문. [보완: 2015 '화학 변화'↔2022 '변화와 다양성' 수평 대응]",
+  "taggedAt": "2026-08-12T00:04:14.333Z",
+  "verticalReviewedAt": "2026-08-16T07:41:05.501Z"
 }

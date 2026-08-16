@@ -24,8 +24,16 @@
       "subject": "통합과학",
       "unit": "화학 변화",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "고등학교",
+      "subject": "통합과학2",
+      "unit": "변화와 다양성",
+      "confidence": "high"
     }
   ],
-  "tagsNote": "산염기 이온 이동실험 결과 해석 질문.",
-  "taggedAt": "2026-08-12T00:04:14.341Z"
+  "tagsNote": "산염기 이온 이동실험 결과 해석 질문. [보완: 2015 '화학 변화'↔2022 '변화와 다양성' 수평 대응]",
+  "taggedAt": "2026-08-12T00:04:14.341Z",
+  "verticalReviewedAt": "2026-08-16T07:41:05.512Z"
 }

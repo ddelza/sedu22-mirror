@@ -24,8 +24,16 @@
       "subject": "통합과학",
       "unit": "물질의 규칙성과 결합",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "고등학교",
+      "subject": "통합과학1",
+      "unit": "물질과 규칙성",
+      "confidence": "high"
     }
   ],
-  "tagsNote": "멘델레예프 원소 규칙성 찾기 활동(과학탐구실험 2단원).",
-  "taggedAt": "2026-08-12T00:02:34.244Z"
+  "tagsNote": "멘델레예프 원소 규칙성 찾기 활동(과학탐구실험 2단원). [보완: 2015 '물질의 규칙성과 결합'↔2022 '물질과 규칙성' 수평 대응]",
+  "taggedAt": "2026-08-12T00:02:34.244Z",
+  "verticalReviewedAt": "2026-08-16T07:40:24.294Z"
 }

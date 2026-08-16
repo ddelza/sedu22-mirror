@@ -31,8 +31,23 @@
       "subject": "통합과학",
       "unit": "자연의 구성 물질",
       "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "고등학교",
+      "subject": "통합과학1",
+      "unit": "시스템과 상호작용",
+      "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "고등학교",
+      "subject": "통합과학1",
+      "unit": "물질과 규칙성",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "별의 탄생과정 문장경매 게임 및 빅뱅우주론/별의 진화 숨은그림찾기 활동지.",
-  "taggedAt": "2026-08-11T23:59:11.482Z"
+  "tagsNote": "별의 탄생과정 문장경매 게임 및 빅뱅우주론/별의 진화 숨은그림찾기 활동지. [보완: 기존 2015 '지구 시스템'/'자연의 구성 물질' 각각의 2022 수평 대응 보완]",
+  "taggedAt": "2026-08-11T23:59:11.482Z",
+  "verticalReviewedAt": "2026-08-16T07:38:57.795Z"
 }

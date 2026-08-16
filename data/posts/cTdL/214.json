@@ -29,8 +29,16 @@
       "subject": "통합과학",
       "unit": "생태계와 환경",
       "confidence": "low"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "고등학교",
+      "subject": "통합과학2",
+      "unit": "환경과 에너지",
+      "confidence": "low"
     }
   ],
-  "tagsNote": "영재학급 멸치해부실험 진행 조언 요청.",
-  "taggedAt": "2026-08-12T00:04:14.337Z"
+  "tagsNote": "영재학급 멸치해부실험 진행 조언 요청. [보완: 2015 '생태계와 환경'↔2022 '환경과 에너지' 수평 대응]",
+  "taggedAt": "2026-08-12T00:04:14.337Z",
+  "verticalReviewedAt": "2026-08-16T07:41:05.506Z"
 }

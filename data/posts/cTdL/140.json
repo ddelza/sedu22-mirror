@@ -24,8 +24,16 @@
       "subject": "통합과학",
       "unit": "생물다양성과 유지",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "고등학교",
+      "subject": "통합과학2",
+      "unit": "변화와 다양성",
+      "confidence": "high"
     }
   ],
-  "tagsNote": "생물 다양성에서 문화 다양성으로 확장한 논술평가.",
-  "taggedAt": "2026-08-12T00:00:53.997Z"
+  "tagsNote": "생물 다양성에서 문화 다양성으로 확장한 논술평가. [보완: 2015 '생물다양성과 유지'↔2022 '변화와 다양성' 수평 대응]",
+  "taggedAt": "2026-08-12T00:00:53.997Z",
+  "verticalReviewedAt": "2026-08-16T07:39:40.734Z"
 }

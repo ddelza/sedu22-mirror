@@ -24,8 +24,16 @@
       "subject": "통합과학",
       "unit": "물질의 규칙성과 결합",
       "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "고등학교",
+      "subject": "통합과학1",
+      "unit": "물질과 규칙성",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "알칼리 금속 반응성 실험 관련 정보 요청.",
-  "taggedAt": "2026-08-12T00:02:34.240Z"
+  "tagsNote": "알칼리 금속 반응성 실험 관련 정보 요청. [보완: 2015 '물질의 규칙성과 결합'↔2022 '물질과 규칙성' 수평 대응]",
+  "taggedAt": "2026-08-12T00:02:34.240Z",
+  "verticalReviewedAt": "2026-08-16T07:40:24.291Z"
 }

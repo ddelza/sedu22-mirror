@@ -29,8 +29,16 @@
       "category": "스마트 수업도구",
       "topic": "앱/프로그램",
       "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "고등학교",
+      "subject": "통합과학2",
+      "unit": "변화와 다양성",
+      "confidence": "high"
     }
   ],
-  "tagsNote": "지시약 산/염기 색변화 관찰 가상실험 웹 프로그램.",
-  "taggedAt": "2026-08-12T00:04:14.345Z"
+  "tagsNote": "지시약 산/염기 색변화 관찰 가상실험 웹 프로그램. [보완: 2015 '화학 변화'↔2022 '변화와 다양성' 수평 대응]",
+  "taggedAt": "2026-08-12T00:04:14.345Z",
+  "verticalReviewedAt": "2026-08-16T07:41:05.514Z"
 }
