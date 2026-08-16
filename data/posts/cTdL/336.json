@@ -24,8 +24,16 @@
       "subject": "통합과학",
       "unit": "물질의 규칙성과 결합",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "고등학교",
+      "subject": "통합과학1",
+      "unit": "물질과 규칙성",
+      "confidence": "high"
     }
   ],
-  "tagsNote": "카드형 초간단 분광기 만들기 자료.",
-  "taggedAt": "2026-08-12T00:09:40.042Z"
+  "tagsNote": "카드형 초간단 분광기 만들기 자료. [보완: 2015 '물질의 규칙성과 결합'↔2022 '물질과 규칙성' 수평 대응]",
+  "taggedAt": "2026-08-12T00:09:40.042Z",
+  "verticalReviewedAt": "2026-08-16T07:44:09.161Z"
 }

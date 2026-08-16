@@ -31,8 +31,23 @@
       "subject": "물리학Ⅰ",
       "unit": "파동과 정보통신",
       "confidence": "low"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "고등학교",
+      "subject": "통합과학1",
+      "unit": "시스템과 상호작용",
+      "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "고등학교",
+      "subject": "물리학",
+      "unit": "빛과 물질",
+      "confidence": "low"
     }
   ],
-  "tagsNote": "분광필름 이용 분광기 만들기(별 구성성분 분석).",
-  "taggedAt": "2026-08-12T00:04:14.351Z"
+  "tagsNote": "분광필름 이용 분광기 만들기(별 구성성분 분석). [보완: 기존 2015 '지구 시스템'/'물리학Ⅰ 파동과정보통신' 각각의 2022 수평 대응 보완]",
+  "taggedAt": "2026-08-12T00:04:14.351Z",
+  "verticalReviewedAt": "2026-08-16T07:42:03.406Z"
 }

@@ -24,8 +24,16 @@
       "subject": "과학탐구실험",
       "unit": "생활 속의 과학 탐구",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "고등학교",
+      "subject": "과학탐구실험2",
+      "unit": "생활 속의 과학 탐구",
+      "confidence": "high"
     }
   ],
-  "tagsNote": "과탐실 프로젝트 수업 3편 - 식품첨가물 인포그래픽.",
-  "taggedAt": "2026-08-12T00:09:40.014Z"
+  "tagsNote": "과탐실 프로젝트 수업 3편 - 식품첨가물 인포그래픽. [보완: 2015 '생활속의과학탐구'↔2022 '과학탐구실험2 생활속의과학탐구' 수평 대응]",
+  "taggedAt": "2026-08-12T00:09:40.014Z",
+  "verticalReviewedAt": "2026-08-16T07:43:29.582Z"
 }

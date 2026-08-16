@@ -45,8 +45,23 @@
       "subject": "통합과학",
       "unit": "지구 시스템",
       "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "고등학교",
+      "subject": "통합과학1",
+      "unit": "물질과 규칙성",
+      "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "고등학교",
+      "subject": "통합과학1",
+      "unit": "시스템과 상호작용",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "물질의 규칙성부터 지구시스템까지 범위의 시험후 십자말풀이 활동.",
-  "taggedAt": "2026-08-12T00:07:58.398Z"
+  "tagsNote": "물질의 규칙성부터 지구시스템까지 범위의 시험후 십자말풀이 활동. [보완: 기존 2015 4개 단원이 2022 두 단원으로 수렴 - 각각 보완]",
+  "taggedAt": "2026-08-12T00:07:58.398Z",
+  "verticalReviewedAt": "2026-08-16T07:42:42.789Z"
 }

@@ -24,8 +24,16 @@
       "subject": "통합과학",
       "unit": "생태계와 환경",
       "confidence": "low"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "고등학교",
+      "subject": "통합과학2",
+      "unit": "환경과 에너지",
+      "confidence": "low"
     }
   ],
-  "tagsNote": "환경/생태와 환경 수업 논의용 단톡방 개설 안내.",
-  "taggedAt": "2026-08-12T00:07:58.388Z"
+  "tagsNote": "환경/생태와 환경 수업 논의용 단톡방 개설 안내. [보완: 2015 '생태계와 환경'↔2022 '환경과 에너지' 수평 대응]",
+  "taggedAt": "2026-08-12T00:07:58.388Z",
+  "verticalReviewedAt": "2026-08-16T07:42:42.779Z"
 }

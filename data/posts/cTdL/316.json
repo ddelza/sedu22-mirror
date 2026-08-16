@@ -24,8 +24,16 @@
       "subject": "과학탐구실험",
       "unit": "역사 속의 과학 탐구",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "고등학교",
+      "subject": "과학탐구실험1",
+      "unit": "과학의 본성과 역사 속의 과학 탐구",
+      "confidence": "high"
     }
   ],
-  "tagsNote": "귀납적 탐구방법 활동지(공룡 멸종 원인 추리).",
-  "taggedAt": "2026-08-12T00:09:40.026Z"
+  "tagsNote": "귀납적 탐구방법 활동지(공룡 멸종 원인 추리). [보완: 2015 '역사 속의 과학 탐구'↔2022 '과학의 본성과 역사 속의 과학 탐구' 수평 대응]",
+  "taggedAt": "2026-08-12T00:09:40.026Z",
+  "verticalReviewedAt": "2026-08-16T07:44:09.148Z"
 }

@@ -31,8 +31,23 @@
       "subject": "통합과학",
       "unit": "발전과 신재생 에너지",
       "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "고등학교",
+      "subject": "과학탐구실험2",
+      "unit": "생활 속의 과학 탐구",
+      "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "고등학교",
+      "subject": "통합과학2",
+      "unit": "환경과 에너지",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "과탐실 프로젝트 수업 2편 - 친환경 에너지 도시 소개하기.",
-  "taggedAt": "2026-08-12T00:09:40.013Z"
+  "tagsNote": "과탐실 프로젝트 수업 2편 - 친환경 에너지 도시 소개하기. [보완: 기존 2015 두 단원 각각의 2022 수평 대응 보완]",
+  "taggedAt": "2026-08-12T00:09:40.013Z",
+  "verticalReviewedAt": "2026-08-16T07:43:29.581Z"
 }

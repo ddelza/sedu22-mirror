@@ -24,8 +24,16 @@
       "subject": "통합과학",
       "unit": "물질의 규칙성과 결합",
       "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "고등학교",
+      "subject": "통합과학1",
+      "unit": "물질과 규칙성",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "방전관 속 기체 스펙트럼(분자/원자 형태) 질문.",
-  "taggedAt": "2026-08-12T00:07:58.389Z"
+  "tagsNote": "방전관 속 기체 스펙트럼(분자/원자 형태) 질문. [보완: 2015 '물질의 규칙성과 결합'↔2022 '물질과 규칙성' 수평 대응]",
+  "taggedAt": "2026-08-12T00:07:58.389Z",
+  "verticalReviewedAt": "2026-08-16T07:42:42.780Z"
 }

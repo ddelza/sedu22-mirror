@@ -24,8 +24,16 @@
       "subject": "통합과학",
       "unit": "생물다양성과 유지",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "고등학교",
+      "subject": "통합과학2",
+      "unit": "변화와 다양성",
+      "confidence": "high"
     }
   ],
-  "tagsNote": "3단원(변화와 다양성) 수업자료 추가 업로드(309 후속).",
-  "taggedAt": "2026-08-12T00:09:40.030Z"
+  "tagsNote": "3단원(변화와 다양성) 수업자료 추가 업로드(309 후속). [보완: 2015 '생물다양성과 유지'↔2022 '변화와 다양성' 수평 대응]",
+  "taggedAt": "2026-08-12T00:09:40.030Z",
+  "verticalReviewedAt": "2026-08-16T07:44:09.151Z"
 }

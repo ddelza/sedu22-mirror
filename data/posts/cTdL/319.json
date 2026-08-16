@@ -24,8 +24,16 @@
       "subject": "과학탐구실험",
       "unit": "역사 속의 과학 탐구",
       "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "고등학교",
+      "subject": "과학탐구실험1",
+      "unit": "과학의 본성과 역사 속의 과학 탐구",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "연구 계획서 및 보고서 작성법 PPT 공유.",
-  "taggedAt": "2026-08-12T00:09:40.028Z"
+  "tagsNote": "연구 계획서 및 보고서 작성법 PPT 공유. [보완: 2015 '역사 속의 과학 탐구'↔2022 '과학의 본성과 역사 속의 과학 탐구' 수평 대응]",
+  "taggedAt": "2026-08-12T00:09:40.028Z",
+  "verticalReviewedAt": "2026-08-16T07:44:09.150Z"
 }

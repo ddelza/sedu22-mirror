@@ -29,8 +29,16 @@
       "subject": "통합과학",
       "unit": "역학적 시스템",
       "confidence": "low"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "고등학교",
+      "subject": "통합과학1",
+      "unit": "시스템과 상호작용",
+      "confidence": "low"
     }
   ],
-  "tagsNote": "자유낙하 실험용 연속촬영 어플 추천 요청(모션샷 대체).",
-  "taggedAt": "2026-08-12T00:04:14.349Z"
+  "tagsNote": "자유낙하 실험용 연속촬영 어플 추천 요청(모션샷 대체). [보완: 2015 '역학적 시스템'↔2022 '시스템과 상호작용' 수평 대응]",
+  "taggedAt": "2026-08-12T00:04:14.349Z",
+  "verticalReviewedAt": "2026-08-16T07:42:03.404Z"
 }

@@ -24,8 +24,16 @@
       "subject": "통합과학",
       "unit": "발전과 신재생 에너지",
       "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "고등학교",
+      "subject": "통합과학2",
+      "unit": "환경과 에너지",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "비열과 온도 변화(열에너지) 개념 질문.",
-  "taggedAt": "2026-08-12T00:09:40.021Z"
+  "tagsNote": "비열과 온도 변화(열에너지) 개념 질문. [보완: 2015 '발전과 신재생 에너지'↔2022 '환경과 에너지' 수평 대응]",
+  "taggedAt": "2026-08-12T00:09:40.021Z",
+  "verticalReviewedAt": "2026-08-16T07:43:29.589Z"
 }

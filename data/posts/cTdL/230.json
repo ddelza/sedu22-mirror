@@ -24,8 +24,16 @@
       "subject": "통합과학",
       "unit": "역학적 시스템",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "고등학교",
+      "subject": "통합과학1",
+      "unit": "시스템과 상호작용",
+      "confidence": "high"
     }
   ],
-  "tagsNote": "중력/역학적 시스템 받아쓰기 활동(3단원).",
-  "taggedAt": "2026-08-12T00:04:14.347Z"
+  "tagsNote": "중력/역학적 시스템 받아쓰기 활동(3단원). [보완: 2015 '역학적 시스템'↔2022 '시스템과 상호작용' 수평 대응]",
+  "taggedAt": "2026-08-12T00:04:14.347Z",
+  "verticalReviewedAt": "2026-08-16T07:42:03.401Z"
 }

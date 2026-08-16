@@ -24,8 +24,16 @@
       "subject": "통합과학",
       "unit": "생명 시스템",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "고등학교",
+      "subject": "통합과학1",
+      "unit": "시스템과 상호작용",
+      "confidence": "high"
     }
   ],
-  "tagsNote": "유전병 지식시장 공개수업(세포 내 정보의 흐름).",
-  "taggedAt": "2026-08-12T00:09:40.018Z"
+  "tagsNote": "유전병 지식시장 공개수업(세포 내 정보의 흐름). [보완: 2015 '생명 시스템'↔2022 '시스템과 상호작용' 수평 대응]",
+  "taggedAt": "2026-08-12T00:09:40.018Z",
+  "verticalReviewedAt": "2026-08-16T07:43:29.585Z"
 }

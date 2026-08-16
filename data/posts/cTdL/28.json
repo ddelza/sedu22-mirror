@@ -24,8 +24,16 @@
       "subject": "통합과학",
       "unit": "생물다양성과 유지",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "고등학교",
+      "subject": "통합과학2",
+      "unit": "변화와 다양성",
+      "confidence": "high"
     }
   ],
-  "tagsNote": "다윈의 진화론 영향 토론 수업(성취기준 과1234-3).",
-  "taggedAt": "2026-08-12T00:07:58.396Z"
+  "tagsNote": "다윈의 진화론 영향 토론 수업(성취기준 과1234-3). [보완: 2015 '생물다양성과 유지'↔2022 '변화와 다양성' 수평 대응]",
+  "taggedAt": "2026-08-12T00:07:58.396Z",
+  "verticalReviewedAt": "2026-08-16T07:42:42.788Z"
 }

@@ -24,8 +24,16 @@
       "subject": "과학탐구실험",
       "unit": "생활 속의 과학 탐구",
       "confidence": "low"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "고등학교",
+      "subject": "과학탐구실험1",
+      "unit": "과학 탐구의 과정과 절차",
+      "confidence": "low"
     }
   ],
-  "tagsNote": "정성적/정량적 데이터 개념 PPT 자료.",
-  "taggedAt": "2026-08-12T00:07:58.377Z"
+  "tagsNote": "정성적/정량적 데이터 개념 PPT 자료. [보완: 정성적/정량적 데이터 - 2015 '생활속의과학탐구'↔2022 '과학탐구실험1 과학탐구의과정과절차' 수평 대응]",
+  "taggedAt": "2026-08-12T00:07:58.377Z",
+  "verticalReviewedAt": "2026-08-16T07:42:03.414Z"
 }
