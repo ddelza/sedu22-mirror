@@ -24,8 +24,16 @@
       "subject": "물리학",
       "unit": "힘과 에너지",
       "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "고등학교",
+      "subject": "물리학Ⅰ",
+      "unit": "역학과 에너지",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "등속원운동 실험(마이크로비트 활용) 수업 및 수행평가.",
-  "taggedAt": "2026-08-12T03:34:06.468Z"
+  "tagsNote": "등속원운동 실험(마이크로비트 활용) 수업 및 수행평가. [보완: 2022만 있던 글에 2015 '역학과 에너지' 역방향 보완]",
+  "taggedAt": "2026-08-12T03:34:06.468Z",
+  "verticalReviewedAt": "2026-08-16T08:02:18.181Z"
 }

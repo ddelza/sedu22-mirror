@@ -29,8 +29,16 @@
       "category": "스마트 수업도구",
       "topic": "생성형 AI 도구",
       "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "고등학교",
+      "subject": "물리학Ⅰ",
+      "unit": "역학과 에너지",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "특수상대성이론(시간지연) AI 애니메이션 예시 제작.",
-  "taggedAt": "2026-08-12T03:32:41.307Z"
+  "tagsNote": "특수상대성이론(시간지연) AI 애니메이션 예시 제작. [보완: 2022만 있던 글에 2015 '역학과 에너지'(특수상대성이론 부분) 역방향 보완]",
+  "taggedAt": "2026-08-12T03:32:41.307Z",
+  "verticalReviewedAt": "2026-08-16T08:02:18.172Z"
 }

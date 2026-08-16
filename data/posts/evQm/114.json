@@ -24,8 +24,16 @@
       "subject": "물리학Ⅰ",
       "unit": "물질과 전자기장",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "고등학교",
+      "subject": "물리학",
+      "unit": "전기와 자기",
+      "confidence": "high"
     }
   ],
-  "tagsNote": "무선센서 전자기 실험(솔레노이드/전자기유도/변압기) 구입.",
-  "taggedAt": "2026-08-12T03:32:41.305Z"
+  "tagsNote": "무선센서 전자기 실험(솔레노이드/전자기유도/변압기) 구입. [보완: 2015 '물질과 전자기장'↔2022 '전기와 자기' 수평 대응]",
+  "taggedAt": "2026-08-12T03:32:41.305Z",
+  "verticalReviewedAt": "2026-08-16T08:02:18.170Z"
 }
