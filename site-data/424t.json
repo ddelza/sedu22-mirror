@@ -3133,6 +3133,13 @@
         "subject": "물리학Ⅰ",
         "unit": "역학과 에너지",
         "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "물리학",
+        "unit": "힘과 에너지",
+        "confidence": "medium"
       }
     ]
   },
@@ -4928,6 +4935,13 @@
         "category": "게시판별 분류",
         "topic": "과학행사&과학실 Idea",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "과학탐구실험2",
+        "unit": "생활 속의 과학 탐구",
+        "confidence": "medium"
       }
     ]
   },
@@ -7268,6 +7282,20 @@
         "category": "게시판별 분류",
         "topic": "과학행사&과학실 Idea",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "생명과학",
+        "unit": "항상성과 몸의 조절",
+        "confidence": "high"
+      },
+      {
+        "curriculumYear": "2015",
+        "schoolLevel": "고등학교",
+        "subject": "생명과학Ⅱ",
+        "unit": "생명공학 기술과 인간생활",
+        "confidence": "high"
       }
     ]
   },
@@ -7347,6 +7375,13 @@
       {
         "category": "게시판별 분류",
         "topic": "과학행사&과학실 Idea",
+        "confidence": "high"
+      },
+      {
+        "curriculumYear": "2015",
+        "schoolLevel": "고등학교",
+        "subject": "과학탐구실험",
+        "unit": "생활 속의 과학 탐구",
         "confidence": "high"
       }
     ]
@@ -7505,6 +7540,13 @@
       {
         "category": "게시판별 분류",
         "topic": "과학행사&과학실 Idea",
+        "confidence": "high"
+      },
+      {
+        "curriculumYear": "2015",
+        "schoolLevel": "고등학교",
+        "subject": "통합과학",
+        "unit": "생태계와 환경",
         "confidence": "high"
       }
     ]
@@ -9641,6 +9683,13 @@
       {
         "category": "게시판별 분류",
         "topic": "과학행사&과학실 Idea",
+        "confidence": "high"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "과학탐구실험1",
+        "unit": "과학의 본성과 역사 속의 과학 탐구",
         "confidence": "high"
       }
     ]

@@ -31,8 +31,23 @@
       "category": "게시판별 분류",
       "topic": "과학행사&과학실 Idea",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "고등학교",
+      "subject": "생명과학",
+      "unit": "항상성과 몸의 조절",
+      "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "고등학교",
+      "subject": "생명과학Ⅱ",
+      "unit": "생명공학 기술과 인간생활",
+      "confidence": "high"
     }
   ],
-  "tagsNote": "",
-  "taggedAt": "2026-08-11T14:39:11.832Z"
+  "tagsNote": " [보완: 환경호르몬(호르몬/항상성)과 유전자가위(생명공학) 둘 다 언급 - 기존 2015/2022 태그 각각의 반대 연도 짝을 보완]",
+  "taggedAt": "2026-08-11T14:39:11.832Z",
+  "verticalReviewedAt": "2026-08-16T07:35:25.450Z"
 }

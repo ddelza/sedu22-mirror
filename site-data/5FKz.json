@@ -1468,6 +1468,13 @@
         "category": "게시판별 분류",
         "topic": "거꾸로 교실(김신혜)",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "생명과학",
+        "unit": "생명시스템의 구성",
+        "confidence": "medium"
       }
     ]
   },

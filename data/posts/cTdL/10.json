@@ -24,8 +24,16 @@
       "subject": "통합과학",
       "unit": "생명 시스템",
       "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "고등학교",
+      "subject": "통합과학1",
+      "unit": "시스템과 상호작용",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "원시 지구/생명의 탄생 관련 동영상 자료 공유.",
-  "taggedAt": "2026-08-11T23:59:11.473Z"
+  "tagsNote": "원시 지구/생명의 탄생 관련 동영상 자료 공유. [보완: 원시지구/생명탄생 - 2015 통합과학 '생명 시스템'↔2022 '시스템과 상호작용' 수평 대응]",
+  "taggedAt": "2026-08-11T23:59:11.473Z",
+  "verticalReviewedAt": "2026-08-16T07:35:25.455Z"
 }

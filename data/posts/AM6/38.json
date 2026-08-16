@@ -24,8 +24,16 @@
       "subject": "통합과학",
       "unit": "생태계와 환경",
       "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "고등학교",
+      "subject": "통합과학2",
+      "unit": "환경과 에너지",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "구멍으로 들여다보는 생태계 모형 만들기 수업 참관 아이디어.",
-  "taggedAt": "2026-08-11T23:53:37.545Z"
+  "tagsNote": "구멍으로 들여다보는 생태계 모형 만들기 수업 참관 아이디어. [보완: 생태계 모형 - 2015 '생태계와 환경'↔2022 '환경과 에너지' 수평 대응]",
+  "taggedAt": "2026-08-11T23:53:37.545Z",
+  "verticalReviewedAt": "2026-08-16T07:35:25.454Z"
 }

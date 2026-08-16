@@ -31,8 +31,16 @@
       "category": "게시판별 분류",
       "topic": "과학행사&과학실 Idea",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "고등학교",
+      "subject": "통합과학",
+      "unit": "생태계와 환경",
+      "confidence": "high"
     }
   ],
-  "tagsNote": "",
-  "taggedAt": "2026-08-11T14:37:08.770Z"
+  "tagsNote": " [보완: 재활용 쓰레기 처리 내용 - hs-2015-2022-mapping.md 기준 2015 '생태계와 환경'↔2022 '환경과 에너지' 수평 대응]",
+  "taggedAt": "2026-08-11T14:37:08.770Z",
+  "verticalReviewedAt": "2026-08-16T07:35:25.443Z"
 }
