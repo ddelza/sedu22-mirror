@@ -23,8 +23,16 @@
       "subject": "물리학Ⅰ",
       "unit": "역학과 에너지",
       "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "고등학교",
+      "subject": "물리학",
+      "unit": "힘과 에너지",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "자전거 충돌상황을 운동량/충격량/관성으로 설명하는 방법 질문.",
-  "taggedAt": "2026-08-12T04:49:23.615Z"
+  "tagsNote": "자전거 충돌상황을 운동량/충격량/관성으로 설명하는 방법 질문. [보완: 2015 '역학과 에너지'↔2022 '힘과 에너지' 수평 대응]",
+  "taggedAt": "2026-08-12T04:49:23.615Z",
+  "verticalReviewedAt": "2026-08-16T08:19:18.172Z"
 }

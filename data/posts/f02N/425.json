@@ -23,8 +23,16 @@
       "subject": "통합과학",
       "unit": "역학적 시스템",
       "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "고등학교",
+      "subject": "통합과학1",
+      "unit": "시스템과 상호작용",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "중력가속도 변화와 수평 가속 난이도 관계 질문(통합과학).",
-  "taggedAt": "2026-08-12T04:48:14.891Z"
+  "tagsNote": "중력가속도 변화와 수평 가속 난이도 관계 질문(통합과학). [보완: 2015 '역학적 시스템'↔2022 '시스템과 상호작용' 수평 대응]",
+  "taggedAt": "2026-08-12T04:48:14.891Z",
+  "verticalReviewedAt": "2026-08-16T08:19:18.167Z"
 }

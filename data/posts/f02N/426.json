@@ -23,8 +23,16 @@
       "subject": "화학Ⅰ",
       "unit": "자연의 구성 물질",
       "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "고등학교",
+      "subject": "통합과학1",
+      "unit": "물질과 규칙성",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "알칼리금속 반응(페놀프탈레인) 문항 이의제기 검토 요청.",
-  "taggedAt": "2026-08-12T04:48:14.894Z"
+  "tagsNote": "알칼리금속 반응(페놀프탈레인) 문항 이의제기 검토 요청. [보완: 2015 '자연의 구성 물질'↔2022 '물질과 규칙성' 수평 대응]",
+  "taggedAt": "2026-08-12T04:48:14.894Z",
+  "verticalReviewedAt": "2026-08-16T08:19:18.168Z"
 }

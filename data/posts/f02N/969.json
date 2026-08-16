@@ -23,8 +23,16 @@
       "subject": "화학Ⅰ",
       "unit": "화학의 첫걸음",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "고등학교",
+      "subject": "화학",
+      "unit": "화학의 언어",
+      "confidence": "high"
     }
   ],
-  "tagsNote": "분자량/밀도 기반 물질의 양(mol) 계산 문제 풀이 검토 요청.",
-  "taggedAt": "2026-08-12T05:01:07.842Z"
+  "tagsNote": "분자량/밀도 기반 물질의 양(mol) 계산 문제 풀이 검토 요청. [보완: 2015 '화학의 첫걸음'(몰 계산)↔2022 '화학의 언어' 수평 대응]",
+  "taggedAt": "2026-08-12T05:01:07.842Z",
+  "verticalReviewedAt": "2026-08-16T08:19:18.176Z"
 }

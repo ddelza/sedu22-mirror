@@ -23,8 +23,16 @@
       "subject": "생명과학Ⅰ",
       "unit": "항상성과 몸의 조절",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "고등학교",
+      "subject": "생명과학",
+      "unit": "항상성과 몸의 조절",
+      "confidence": "high"
     }
   ],
-  "tagsNote": "신경신호 전달 방향성과 호르몬 표적기관 특이성 비교 질문.",
-  "taggedAt": "2026-08-12T04:49:23.612Z"
+  "tagsNote": "신경신호 전달 방향성과 호르몬 표적기관 특이성 비교 질문. [보완: 2015 '항상성과 몸의 조절'↔2022 동일 단원명 유지]",
+  "taggedAt": "2026-08-12T04:49:23.612Z",
+  "verticalReviewedAt": "2026-08-16T08:19:18.171Z"
 }

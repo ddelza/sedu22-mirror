@@ -23,8 +23,16 @@
       "subject": "통합과학",
       "unit": "물질의 규칙성과 결합",
       "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "고등학교",
+      "subject": "통합과학1",
+      "unit": "물질과 규칙성",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "초신성 폭발과 철보다 무거운 원소 생성 관련 문항 해설 요청.",
-  "taggedAt": "2026-08-12T04:55:49.841Z"
+  "tagsNote": "초신성 폭발과 철보다 무거운 원소 생성 관련 문항 해설 요청. [보완: 2015 '물질의 규칙성과 결합'↔2022 '물질과 규칙성' 수평 대응]",
+  "taggedAt": "2026-08-12T04:55:49.841Z",
+  "verticalReviewedAt": "2026-08-16T08:19:18.173Z"
 }

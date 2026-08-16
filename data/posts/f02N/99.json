@@ -23,8 +23,16 @@
       "subject": "생명과학Ⅰ",
       "unit": "생명과학의 이해",
       "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "고등학교",
+      "subject": "생명과학",
+      "unit": "생명시스템의 구성",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "세균과 항생제 관련 고등학생용 다큐멘터리 영상자료 추천 요청.",
-  "taggedAt": "2026-08-12T05:01:07.860Z"
+  "tagsNote": "세균과 항생제 관련 고등학생용 다큐멘터리 영상자료 추천 요청. [보완: 2015 '생명과학의 이해'↔2022 '생명시스템의 구성' 수평 대응]",
+  "taggedAt": "2026-08-12T05:01:07.860Z",
+  "verticalReviewedAt": "2026-08-16T08:19:18.177Z"
 }

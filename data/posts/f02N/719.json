@@ -23,8 +23,16 @@
       "subject": "지구과학Ⅰ",
       "unit": "별과 외계 행성계",
       "confidence": "low"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "고등학교",
+      "subject": "지구과학",
+      "unit": "태양계 천체와 별과 우주의 진화",
+      "confidence": "low"
     }
   ],
-  "tagsNote": "LED 조명을 분광기로 관찰 시 연속스펙트럼으로 보이는 이유 질문.",
-  "taggedAt": "2026-08-12T04:54:27.573Z"
+  "tagsNote": "LED 조명을 분광기로 관찰 시 연속스펙트럼으로 보이는 이유 질문. [보완: 2015 '별과 외계 행성계'↔2022 '태양계 천체와 별과 우주의 진화' 대응]",
+  "taggedAt": "2026-08-12T04:54:27.573Z",
+  "verticalReviewedAt": "2026-08-16T08:19:18.172Z"
 }

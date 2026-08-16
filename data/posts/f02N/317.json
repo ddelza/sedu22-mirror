@@ -23,8 +23,16 @@
       "subject": "통합과학",
       "unit": "물질의 규칙성과 결합",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "고등학교",
+      "subject": "통합과학1",
+      "unit": "물질과 규칙성",
+      "confidence": "high"
     }
   ],
-  "tagsNote": "저학력 학생 대상 통합과학 1단원(빅뱅/주기율표) 지도 고민.",
-  "taggedAt": "2026-08-12T04:45:29.810Z"
+  "tagsNote": "저학력 학생 대상 통합과학 1단원(빅뱅/주기율표) 지도 고민. [보완: 2015 '물질의 규칙성과 결합'↔2022 '물질과 규칙성' 수평 대응]",
+  "taggedAt": "2026-08-12T04:45:29.810Z",
+  "verticalReviewedAt": "2026-08-16T08:19:18.163Z"
 }
