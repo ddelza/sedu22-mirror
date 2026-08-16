@@ -24,8 +24,16 @@
       "subject": "물리학Ⅰ",
       "unit": "물질과 전자기장",
       "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "고등학교",
+      "subject": "물리학",
+      "unit": "전기와 자기",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "전류의 '세기' 용어 사용 이유 질문.",
-  "taggedAt": "2026-08-12T03:34:06.498Z"
+  "tagsNote": "전류의 '세기' 용어 사용 이유 질문. [보완: 2015 '물질과 전자기장'↔2022 '전기와 자기' 수평 대응]",
+  "taggedAt": "2026-08-12T03:34:06.498Z",
+  "verticalReviewedAt": "2026-08-16T08:03:24.299Z"
 }

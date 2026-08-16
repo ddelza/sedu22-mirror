@@ -24,8 +24,16 @@
       "subject": "물리학",
       "unit": "빛과 물질",
       "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "고등학교",
+      "subject": "물리학Ⅱ",
+      "unit": "파동과 물질의 성질",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "양자 지우개 실험 관련 연수 요청(149 답글).",
-  "taggedAt": "2026-08-12T03:34:06.491Z"
+  "tagsNote": "양자 지우개 실험 관련 연수 요청(149 답글). [보완: 이중슬릿·양자지우개 내용이라 2015 '물리학Ⅱ>파동과 물질의 성질' 역방향 보완]",
+  "taggedAt": "2026-08-12T03:34:06.491Z",
+  "verticalReviewedAt": "2026-08-16T08:03:24.298Z"
 }

@@ -31,8 +31,23 @@
       "subject": "통합과학",
       "unit": "발전과 신재생 에너지",
       "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "고등학교",
+      "subject": "물리학",
+      "unit": "전기와 자기",
+      "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "고등학교",
+      "subject": "통합과학2",
+      "unit": "환경과 에너지",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "렌츠의 법칙(전자기 유도 방향) 실험 및 수행평가.",
-  "taggedAt": "2026-08-12T03:34:06.470Z"
+  "tagsNote": "렌츠의 법칙(전자기 유도 방향) 실험 및 수행평가. [보완: 2015 '물질과 전자기장'+'발전과 신재생 에너지' 둘 다 태깅되어 있어 2022 대응 단원 둘 다 보완]",
+  "taggedAt": "2026-08-12T03:34:06.470Z",
+  "verticalReviewedAt": "2026-08-16T08:03:24.286Z"
 }

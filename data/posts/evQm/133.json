@@ -24,8 +24,16 @@
       "subject": "물리학Ⅰ",
       "unit": "파동과 정보통신",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "고등학교",
+      "subject": "물리학",
+      "unit": "빛과 물질",
+      "confidence": "high"
     }
   ],
-  "tagsNote": "압전소자 전자기파 송수신기 제작(수능 필수탐구).",
-  "taggedAt": "2026-08-12T03:34:06.471Z"
+  "tagsNote": "압전소자 전자기파 송수신기 제작(수능 필수탐구). [보완: 2015 '파동과 정보통신'↔2022 '빛과 물질' 수평 대응]",
+  "taggedAt": "2026-08-12T03:34:06.471Z",
+  "verticalReviewedAt": "2026-08-16T08:03:24.288Z"
 }

@@ -24,8 +24,16 @@
       "subject": "물리학",
       "unit": "빛과 물질",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "고등학교",
+      "subject": "물리학Ⅱ",
+      "unit": "파동과 물질의 성질",
+      "confidence": "high"
     }
   ],
-  "tagsNote": "자외선 LED 광전효과 실험(적LED 미작동 원인) 질문.",
-  "taggedAt": "2026-08-12T03:34:06.494Z"
+  "tagsNote": "자외선 LED 광전효과 실험(적LED 미작동 원인) 질문. [보완: 광전효과 실험이라 2015 '물리학Ⅱ>파동과 물질의 성질' 역방향 보완]",
+  "taggedAt": "2026-08-12T03:34:06.494Z",
+  "verticalReviewedAt": "2026-08-16T08:03:24.298Z"
 }
