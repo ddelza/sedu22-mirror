@@ -62,6 +62,13 @@
         "subject": "물리학Ⅱ",
         "unit": "역학적 상호작용",
         "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "역학과 에너지",
+        "unit": "시공간과 운동",
+        "confidence": "high"
       }
     ]
   },
@@ -207,6 +214,13 @@
         "subject": "물리학Ⅱ",
         "unit": "역학적 상호작용",
         "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "역학과 에너지",
+        "unit": "시공간과 운동",
+        "confidence": "high"
       }
     ]
   },
@@ -252,6 +266,13 @@
         "subject": "물리학Ⅱ",
         "unit": "역학적 상호작용",
         "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "역학과 에너지",
+        "unit": "시공간과 운동",
+        "confidence": "high"
       }
     ]
   },
@@ -292,6 +313,13 @@
         "subject": "물리학Ⅱ",
         "unit": "역학적 상호작용",
         "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "역학과 에너지",
+        "unit": "시공간과 운동",
+        "confidence": "high"
       }
     ]
   },
@@ -1368,6 +1396,13 @@
         "subject": "물리학Ⅱ",
         "unit": "역학적 상호작용",
         "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "역학과 에너지",
+        "unit": "시공간과 운동",
+        "confidence": "high"
       }
     ]
   },
@@ -2383,6 +2418,13 @@
         "subject": "생명과학Ⅱ",
         "unit": "생명공학 기술과 인간생활",
         "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "생물의 유전",
+        "unit": "생명공학기술",
+        "confidence": "medium"
       }
     ]
   },
@@ -2481,6 +2523,13 @@
         "schoolLevel": "고등학교",
         "subject": "화학Ⅱ",
         "unit": "반응 속도와 촉매",
+        "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "물질과 에너지",
+        "unit": "반응 속도",
         "confidence": "medium"
       }
     ]
@@ -2921,6 +2970,13 @@
         "subject": "생명과학Ⅰ",
         "unit": "항상성과 몸의 조절",
         "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "생명과학",
+        "unit": "항상성과 몸의 조절",
+        "confidence": "medium"
       }
     ]
   },
@@ -2945,6 +3001,13 @@
         "curriculumYear": "2015",
         "schoolLevel": "고등학교",
         "subject": "화학Ⅰ",
+        "unit": "역동적인 화학 반응",
+        "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "화학",
         "unit": "역동적인 화학 반응",
         "confidence": "medium"
       }
@@ -3140,6 +3203,13 @@
       {
         "category": "스마트 수업도구",
         "topic": "메이커/3D프린팅",
+        "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "통합과학2",
+        "unit": "환경과 에너지",
         "confidence": "medium"
       }
     ]
@@ -4251,6 +4321,13 @@
         "schoolLevel": "고등학교",
         "subject": "생명과학Ⅱ",
         "unit": "생물의 진화와 다양성",
+        "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "생명과학",
+        "unit": "생명의 연속성과 다양성",
         "confidence": "medium"
       }
     ]
@@ -6698,6 +6775,13 @@
         "schoolLevel": "고등학교",
         "subject": "통합과학",
         "unit": "생태계와 환경",
+        "confidence": "low"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "통합과학2",
+        "unit": "환경과 에너지",
         "confidence": "low"
       }
     ]

@@ -22,6 +22,13 @@
         "subject": "물리학Ⅰ",
         "unit": "물질과 전자기장",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "물리학",
+        "unit": "전기와 자기",
+        "confidence": "high"
       }
     ]
   },
@@ -47,6 +54,13 @@
         "schoolLevel": "고등학교",
         "subject": "물리학Ⅰ",
         "unit": "물질과 전자기장",
+        "confidence": "high"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "물리학",
+        "unit": "전기와 자기",
         "confidence": "high"
       }
     ]
@@ -74,6 +88,13 @@
         "subject": "물리학",
         "unit": "전기와 자기",
         "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2015",
+        "schoolLevel": "고등학교",
+        "subject": "물리학Ⅰ",
+        "unit": "물질과 전자기장",
+        "confidence": "medium"
       }
     ]
   },
@@ -99,6 +120,13 @@
         "schoolLevel": "고등학교",
         "subject": "물리학",
         "unit": "전기와 자기",
+        "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2015",
+        "schoolLevel": "고등학교",
+        "subject": "물리학Ⅰ",
+        "unit": "물질과 전자기장",
         "confidence": "medium"
       }
     ]
@@ -131,6 +159,13 @@
         "category": "스마트 수업도구",
         "topic": "MBL센서",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "물리학",
+        "unit": "힘과 에너지",
+        "confidence": "medium"
       }
     ]
   },
@@ -186,6 +221,13 @@
         "category": "스마트 수업도구",
         "topic": "생성형 AI 도구",
         "confidence": "low"
+      },
+      {
+        "curriculumYear": "2015",
+        "schoolLevel": "고등학교",
+        "subject": "물리학Ⅰ",
+        "unit": "역학과 에너지",
+        "confidence": "medium"
       }
     ]
   },
@@ -211,6 +253,13 @@
         "schoolLevel": "고등학교",
         "subject": "물리학",
         "unit": "힘과 에너지",
+        "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2015",
+        "schoolLevel": "고등학교",
+        "subject": "물리학Ⅰ",
+        "unit": "역학과 에너지",
         "confidence": "medium"
       }
     ]
@@ -290,6 +339,13 @@
         "subject": "물리학Ⅰ",
         "unit": "역학과 에너지",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "물리학",
+        "unit": "힘과 에너지",
+        "confidence": "high"
       }
     ]
   },
@@ -315,6 +371,13 @@
         "schoolLevel": "고등학교",
         "subject": "물리학Ⅰ",
         "unit": "역학과 에너지",
+        "confidence": "high"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "물리학",
+        "unit": "힘과 에너지",
         "confidence": "high"
       }
     ]
@@ -342,6 +405,13 @@
         "subject": "물리학Ⅰ",
         "unit": "물질과 전자기장",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "물리학",
+        "unit": "전기와 자기",
+        "confidence": "high"
       }
     ]
   },
@@ -367,6 +437,13 @@
         "schoolLevel": "고등학교",
         "subject": "물리학Ⅰ",
         "unit": "물질과 전자기장",
+        "confidence": "high"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "물리학",
+        "unit": "전기와 자기",
         "confidence": "high"
       }
     ]
@@ -394,6 +471,13 @@
         "subject": "물리학Ⅰ",
         "unit": "물질과 전자기장",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "물리학",
+        "unit": "전기와 자기",
+        "confidence": "high"
       }
     ]
   },
@@ -419,6 +503,13 @@
         "schoolLevel": "고등학교",
         "subject": "물리학Ⅰ",
         "unit": "파동과 정보통신",
+        "confidence": "high"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "물리학",
+        "unit": "빛과 물질",
         "confidence": "high"
       }
     ]
@@ -451,6 +542,13 @@
         "subject": "통합과학",
         "unit": "발전과 신재생 에너지",
         "confidence": "low"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "통합과학2",
+        "unit": "환경과 에너지",
+        "confidence": "low"
       }
     ]
   },
@@ -476,6 +574,13 @@
         "schoolLevel": "고등학교",
         "subject": "물리학Ⅰ",
         "unit": "역학과 에너지",
+        "confidence": "high"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "물리학",
+        "unit": "힘과 에너지",
         "confidence": "high"
       }
     ]
@@ -528,6 +633,13 @@
         "schoolLevel": "고등학교",
         "subject": "물리학Ⅰ",
         "unit": "물질과 전자기장",
+        "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "물리학",
+        "unit": "전기와 자기",
         "confidence": "medium"
       }
     ]
@@ -607,6 +719,13 @@
         "subject": "물리학",
         "unit": "빛과 물질",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": "2015",
+        "schoolLevel": "고등학교",
+        "subject": "물리학Ⅱ",
+        "unit": "파동과 물질의 성질",
+        "confidence": "high"
       }
     ]
   },
@@ -632,6 +751,13 @@
         "schoolLevel": "고등학교",
         "subject": "물리학",
         "unit": "빛과 물질",
+        "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2015",
+        "schoolLevel": "고등학교",
+        "subject": "물리학Ⅱ",
+        "unit": "파동과 물질의 성질",
         "confidence": "medium"
       }
     ]
@@ -659,6 +785,13 @@
         "subject": "물리학",
         "unit": "빛과 물질",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": "2015",
+        "schoolLevel": "고등학교",
+        "subject": "물리학Ⅱ",
+        "unit": "파동과 물질의 성질",
+        "confidence": "medium"
       }
     ]
   },
@@ -684,6 +817,13 @@
         "schoolLevel": "고등학교",
         "subject": "물리학",
         "unit": "빛과 물질",
+        "confidence": "high"
+      },
+      {
+        "curriculumYear": "2015",
+        "schoolLevel": "고등학교",
+        "subject": "물리학Ⅱ",
+        "unit": "파동과 물질의 성질",
         "confidence": "high"
       }
     ]
@@ -716,6 +856,13 @@
         "category": "스마트 수업도구",
         "topic": "앱/프로그램",
         "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2015",
+        "schoolLevel": "고등학교",
+        "subject": "물리학Ⅱ",
+        "unit": "파동과 물질의 성질",
+        "confidence": "medium"
       }
     ]
   },
@@ -741,6 +888,13 @@
         "schoolLevel": "고등학교",
         "subject": "물리학",
         "unit": "빛과 물질",
+        "confidence": "high"
+      },
+      {
+        "curriculumYear": "2015",
+        "schoolLevel": "고등학교",
+        "subject": "물리학Ⅰ",
+        "unit": "역학과 에너지",
         "confidence": "high"
       }
     ]
@@ -898,6 +1052,13 @@
         "subject": "물리학Ⅰ",
         "unit": "역학과 에너지",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "물리학",
+        "unit": "힘과 에너지",
+        "confidence": "high"
       }
     ]
   },
@@ -923,6 +1084,13 @@
         "schoolLevel": "고등학교",
         "subject": "물리학Ⅰ",
         "unit": "역학과 에너지",
+        "confidence": "high"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "물리학",
+        "unit": "힘과 에너지",
         "confidence": "high"
       }
     ]
@@ -964,6 +1132,13 @@
         "subject": "과학",
         "unit": "전기와 자기",
         "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "물리학",
+        "unit": "전기와 자기",
+        "confidence": "medium"
       }
     ]
   },
@@ -994,6 +1169,13 @@
       {
         "category": "스마트 수업도구",
         "topic": "앱/프로그램",
+        "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "물리학",
+        "unit": "힘과 에너지",
         "confidence": "medium"
       }
     ]
@@ -1026,6 +1208,13 @@
         "subject": "물리학",
         "unit": "빛과 물질",
         "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2015",
+        "schoolLevel": "고등학교",
+        "subject": "물리학Ⅰ",
+        "unit": "파동과 정보통신",
+        "confidence": "low"
       }
     ]
   },
@@ -1051,6 +1240,13 @@
         "schoolLevel": "고등학교",
         "subject": "물리학Ⅰ",
         "unit": "파동과 정보통신",
+        "confidence": "high"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "물리학",
+        "unit": "빛과 물질",
         "confidence": "high"
       }
     ]
@@ -1085,6 +1281,20 @@
         "subject": "통합과학",
         "unit": "발전과 신재생 에너지",
         "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "물리학",
+        "unit": "전기와 자기",
+        "confidence": "high"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "통합과학2",
+        "unit": "환경과 에너지",
+        "confidence": "medium"
       }
     ]
   },
@@ -1111,6 +1321,13 @@
         "subject": "물리학Ⅰ",
         "unit": "물질과 전자기장",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "물리학",
+        "unit": "전기와 자기",
+        "confidence": "high"
       }
     ]
   },
@@ -1136,6 +1353,13 @@
         "schoolLevel": "고등학교",
         "subject": "물리학",
         "unit": "힘과 에너지",
+        "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2015",
+        "schoolLevel": "고등학교",
+        "subject": "물리학Ⅰ",
+        "unit": "역학과 에너지",
         "confidence": "medium"
       }
     ]
@@ -1189,6 +1413,13 @@
         "subject": "물리학Ⅰ",
         "unit": "역학과 에너지",
         "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "물리학",
+        "unit": "힘과 에너지",
+        "confidence": "medium"
       }
     ]
   },
@@ -1214,6 +1445,13 @@
         "schoolLevel": "고등학교",
         "subject": "물리학Ⅰ",
         "unit": "파동과 정보통신",
+        "confidence": "high"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "물리학",
+        "unit": "빛과 물질",
         "confidence": "high"
       }
     ]
@@ -1241,6 +1479,13 @@
         "subject": "물리학Ⅰ",
         "unit": "역학과 에너지",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "물리학",
+        "unit": "힘과 에너지",
+        "confidence": "high"
       }
     ]
   },
@@ -1266,6 +1511,13 @@
         "schoolLevel": "고등학교",
         "subject": "물리학Ⅰ",
         "unit": "물질과 전자기장",
+        "confidence": "high"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "물리학",
+        "unit": "전기와 자기",
         "confidence": "high"
       }
     ]
@@ -1298,6 +1550,13 @@
         "subject": "물리학",
         "unit": "빛과 물질",
         "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2015",
+        "schoolLevel": "고등학교",
+        "subject": "물리학Ⅰ",
+        "unit": "파동과 정보통신",
+        "confidence": "low"
       }
     ]
   },
@@ -1323,6 +1582,13 @@
         "schoolLevel": "고등학교",
         "subject": "물리학Ⅰ",
         "unit": "역학과 에너지",
+        "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "물리학",
+        "unit": "힘과 에너지",
         "confidence": "medium"
       }
     ]
@@ -1350,6 +1616,13 @@
         "subject": "물리학Ⅰ",
         "unit": "역학과 에너지",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "물리학",
+        "unit": "힘과 에너지",
+        "confidence": "high"
       }
     ]
   },
@@ -1375,6 +1648,13 @@
         "schoolLevel": "고등학교",
         "subject": "물리학Ⅰ",
         "unit": "역학과 에너지",
+        "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "물리학",
+        "unit": "힘과 에너지",
         "confidence": "medium"
       }
     ]
@@ -1415,6 +1695,13 @@
         "subject": "과학",
         "unit": "운동과 에너지",
         "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "물리학",
+        "unit": "힘과 에너지",
+        "confidence": "medium"
       }
     ]
   },
@@ -1440,6 +1727,13 @@
         "schoolLevel": "고등학교",
         "subject": "물리학",
         "unit": "빛과 물질",
+        "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2015",
+        "schoolLevel": "고등학교",
+        "subject": "물리학Ⅰ",
+        "unit": "역학과 에너지",
         "confidence": "medium"
       }
     ]
@@ -1472,6 +1766,13 @@
         "category": "스마트 수업도구",
         "topic": "생성형 AI 도구",
         "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2015",
+        "schoolLevel": "고등학교",
+        "subject": "물리학Ⅰ",
+        "unit": "역학과 에너지",
+        "confidence": "medium"
       }
     ]
   },
@@ -1497,6 +1798,13 @@
         "schoolLevel": "고등학교",
         "subject": "물리학Ⅰ",
         "unit": "역학과 에너지",
+        "confidence": "high"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "물리학",
+        "unit": "힘과 에너지",
         "confidence": "high"
       }
     ]
@@ -1524,6 +1832,13 @@
         "subject": "물리학Ⅰ",
         "unit": "물질과 전자기장",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "물리학",
+        "unit": "전기와 자기",
+        "confidence": "high"
       }
     ]
   },
@@ -1549,6 +1864,13 @@
         "schoolLevel": "고등학교",
         "subject": "물리학Ⅰ",
         "unit": "물질과 전자기장",
+        "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "물리학",
+        "unit": "전기와 자기",
         "confidence": "medium"
       }
     ]
@@ -1576,6 +1898,13 @@
         "subject": "물리학Ⅰ",
         "unit": "파동과 정보통신",
         "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "물리학",
+        "unit": "빛과 물질",
+        "confidence": "low"
       }
     ]
   },
@@ -1601,6 +1930,13 @@
         "schoolLevel": "고등학교",
         "subject": "물리학Ⅰ",
         "unit": "역학과 에너지",
+        "confidence": "high"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "물리학",
+        "unit": "힘과 에너지",
         "confidence": "high"
       }
     ]
@@ -1628,6 +1964,13 @@
         "subject": "물리학Ⅰ",
         "unit": "파동과 정보통신",
         "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "물리학",
+        "unit": "빛과 물질",
+        "confidence": "low"
       }
     ]
   },
@@ -1706,6 +2049,13 @@
         "subject": "물리학Ⅰ",
         "unit": "물질과 전자기장",
         "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "물리학",
+        "unit": "전기와 자기",
+        "confidence": "medium"
       }
     ]
   },
@@ -1732,6 +2082,13 @@
         "subject": "물리학Ⅰ",
         "unit": "역학과 에너지",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "물리학",
+        "unit": "힘과 에너지",
+        "confidence": "high"
       }
     ]
   },
@@ -1757,6 +2114,13 @@
         "schoolLevel": "고등학교",
         "subject": "물리학Ⅰ",
         "unit": "파동과 정보통신",
+        "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "물리학",
+        "unit": "빛과 물질",
         "confidence": "medium"
       }
     ]
@@ -1789,6 +2153,13 @@
         "category": "스마트 수업도구",
         "topic": "앱/프로그램",
         "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2015",
+        "schoolLevel": "고등학교",
+        "subject": "물리학Ⅰ",
+        "unit": "역학과 에너지",
+        "confidence": "high"
       }
     ]
   },
@@ -1865,6 +2236,13 @@
         "subject": "물리학Ⅰ",
         "unit": "파동과 정보통신",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "물리학",
+        "unit": "빛과 물질",
+        "confidence": "high"
       }
     ]
   },
@@ -1890,6 +2268,13 @@
         "schoolLevel": "고등학교",
         "subject": "물리학",
         "unit": "힘과 에너지",
+        "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2015",
+        "schoolLevel": "고등학교",
+        "subject": "물리학Ⅰ",
+        "unit": "역학과 에너지",
         "confidence": "medium"
       }
     ]
@@ -1917,6 +2302,13 @@
         "subject": "물리학Ⅰ",
         "unit": "역학과 에너지",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "물리학",
+        "unit": "힘과 에너지",
+        "confidence": "high"
       }
     ]
   },
@@ -1943,6 +2335,13 @@
         "subject": "물리학Ⅰ",
         "unit": "물질과 전자기장",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "물리학",
+        "unit": "전기와 자기",
+        "confidence": "high"
       }
     ]
   },
@@ -1968,6 +2367,13 @@
         "schoolLevel": "고등학교",
         "subject": "물리학Ⅰ",
         "unit": "파동과 정보통신",
+        "confidence": "high"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "물리학",
+        "unit": "빛과 물질",
         "confidence": "high"
       }
     ]
@@ -2102,6 +2508,13 @@
         "subject": "물리학Ⅰ",
         "unit": "파동과 정보통신",
         "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "물리학",
+        "unit": "빛과 물질",
+        "confidence": "medium"
       }
     ]
   },
@@ -2127,6 +2540,13 @@
         "schoolLevel": "고등학교",
         "subject": "물리학Ⅰ",
         "unit": "물질과 전자기장",
+        "confidence": "high"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "물리학",
+        "unit": "전기와 자기",
         "confidence": "high"
       }
     ]
@@ -2180,6 +2600,13 @@
         "subject": "물리학",
         "unit": "빛과 물질",
         "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2015",
+        "schoolLevel": "고등학교",
+        "subject": "물리학Ⅰ",
+        "unit": "물질과 전자기장",
+        "confidence": "low"
       }
     ]
   },
@@ -2206,6 +2633,13 @@
         "subject": "물리학",
         "unit": "빛과 물질",
         "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2015",
+        "schoolLevel": "고등학교",
+        "subject": "물리학Ⅰ",
+        "unit": "물질과 전자기장",
+        "confidence": "low"
       }
     ]
   },
@@ -2284,6 +2718,13 @@
         "subject": "물리학Ⅰ",
         "unit": "역학과 에너지",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "물리학",
+        "unit": "힘과 에너지",
+        "confidence": "high"
       }
     ]
   },
@@ -2309,6 +2750,13 @@
         "schoolLevel": "고등학교",
         "subject": "물리학",
         "unit": "힘과 에너지",
+        "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2015",
+        "schoolLevel": "고등학교",
+        "subject": "물리학Ⅰ",
+        "unit": "역학과 에너지",
         "confidence": "medium"
       }
     ]
@@ -2336,6 +2784,13 @@
         "subject": "물리학Ⅰ",
         "unit": "파동과 정보통신",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "물리학",
+        "unit": "빛과 물질",
+        "confidence": "high"
       }
     ]
   },
@@ -2361,6 +2816,13 @@
         "schoolLevel": "고등학교",
         "subject": "물리학Ⅰ",
         "unit": "역학과 에너지",
+        "confidence": "high"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "물리학",
+        "unit": "힘과 에너지",
         "confidence": "high"
       }
     ]
@@ -2393,6 +2855,13 @@
         "category": "스마트 수업도구",
         "topic": "앱/프로그램",
         "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "물리학",
+        "unit": "힘과 에너지",
+        "confidence": "low"
       }
     ]
   },
@@ -2424,6 +2893,13 @@
         "category": "스마트 수업도구",
         "topic": "앱/프로그램",
         "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "물리학",
+        "unit": "힘과 에너지",
+        "confidence": "medium"
       }
     ]
   },
@@ -2450,6 +2926,13 @@
         "subject": "물리학",
         "unit": "빛과 물질",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": "2015",
+        "schoolLevel": "고등학교",
+        "subject": "물리학Ⅰ",
+        "unit": "물질과 전자기장",
+        "confidence": "medium"
       }
     ]
   },
@@ -2475,6 +2958,13 @@
         "schoolLevel": "고등학교",
         "subject": "물리학Ⅰ",
         "unit": "역학과 에너지",
+        "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "물리학",
+        "unit": "힘과 에너지",
         "confidence": "medium"
       }
     ]
@@ -2736,6 +3226,13 @@
         "subject": "물리학",
         "unit": "빛과 물질",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": "2015",
+        "schoolLevel": "고등학교",
+        "subject": "물리학Ⅱ",
+        "unit": "파동과 물질의 성질",
+        "confidence": "high"
       }
     ]
   },
@@ -2761,6 +3258,13 @@
         "schoolLevel": "고등학교",
         "subject": "통합과학",
         "unit": "발전과 신재생 에너지",
+        "confidence": "high"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "통합과학2",
+        "unit": "환경과 에너지",
         "confidence": "high"
       }
     ]
@@ -2814,6 +3318,13 @@
         "subject": "물리학Ⅰ",
         "unit": "역학과 에너지",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "물리학",
+        "unit": "힘과 에너지",
+        "confidence": "high"
       }
     ]
   },
@@ -2839,6 +3350,13 @@
         "schoolLevel": "고등학교",
         "subject": "물리학Ⅰ",
         "unit": "물질과 전자기장",
+        "confidence": "high"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "물리학",
+        "unit": "전기와 자기",
         "confidence": "high"
       }
     ]
@@ -2892,6 +3410,13 @@
         "subject": "물리학Ⅰ",
         "unit": "물질과 전자기장",
         "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "물리학",
+        "unit": "전기와 자기",
+        "confidence": "medium"
       }
     ]
   },
@@ -2917,6 +3442,13 @@
         "schoolLevel": "고등학교",
         "subject": "물리학Ⅰ",
         "unit": "물질과 전자기장",
+        "confidence": "high"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "물리학",
+        "unit": "전기와 자기",
         "confidence": "high"
       }
     ]
@@ -2944,6 +3476,13 @@
         "subject": "물리학Ⅰ",
         "unit": "역학과 에너지",
         "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "물리학",
+        "unit": "힘과 에너지",
+        "confidence": "medium"
       }
     ]
   },
@@ -2969,6 +3508,13 @@
         "schoolLevel": "고등학교",
         "subject": "통합과학",
         "unit": "역학적 시스템",
+        "confidence": "high"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "통합과학1",
+        "unit": "시스템과 상호작용",
         "confidence": "high"
       }
     ]
@@ -3020,6 +3566,13 @@
         "subject": "물리학Ⅰ",
         "unit": "물질과 전자기장",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "물리학",
+        "unit": "전기와 자기",
+        "confidence": "high"
       }
     ]
   },
@@ -3045,6 +3598,13 @@
         "schoolLevel": "고등학교",
         "subject": "물리학Ⅰ",
         "unit": "물질과 전자기장",
+        "confidence": "high"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "물리학",
+        "unit": "전기와 자기",
         "confidence": "high"
       }
     ]
@@ -3072,6 +3632,13 @@
         "subject": "물리학Ⅰ",
         "unit": "역학과 에너지",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "물리학",
+        "unit": "힘과 에너지",
+        "confidence": "high"
       }
     ]
   },
@@ -3097,6 +3664,13 @@
         "schoolLevel": "고등학교",
         "subject": "물리학Ⅰ",
         "unit": "역학과 에너지",
+        "confidence": "high"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "물리학",
+        "unit": "힘과 에너지",
         "confidence": "high"
       }
     ]
@@ -3124,6 +3698,13 @@
         "subject": "물리학Ⅰ",
         "unit": "역학과 에너지",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "물리학",
+        "unit": "힘과 에너지",
+        "confidence": "high"
       }
     ]
   },
@@ -3149,6 +3730,13 @@
         "schoolLevel": "고등학교",
         "subject": "물리학",
         "unit": "빛과 물질",
+        "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2015",
+        "schoolLevel": "고등학교",
+        "subject": "물리학Ⅰ",
+        "unit": "역학과 에너지",
         "confidence": "medium"
       }
     ]
@@ -3254,6 +3842,13 @@
         "subject": "물리학",
         "unit": "빛과 물질",
         "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2015",
+        "schoolLevel": "고등학교",
+        "subject": "물리학Ⅰ",
+        "unit": "역학과 에너지",
+        "confidence": "medium"
       }
     ]
   },
@@ -3279,6 +3874,13 @@
         "schoolLevel": "고등학교",
         "subject": "물리학",
         "unit": "빛과 물질",
+        "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2015",
+        "schoolLevel": "고등학교",
+        "subject": "물리학Ⅰ",
+        "unit": "역학과 에너지",
         "confidence": "medium"
       }
     ]
@@ -3356,6 +3958,13 @@
         "subject": "물리학Ⅰ",
         "unit": "물질과 전자기장",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "물리학",
+        "unit": "전기와 자기",
+        "confidence": "high"
       }
     ]
   },
@@ -3381,6 +3990,13 @@
         "schoolLevel": "고등학교",
         "subject": "물리학",
         "unit": "빛과 물질",
+        "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2015",
+        "schoolLevel": "고등학교",
+        "subject": "물리학Ⅰ",
+        "unit": "역학과 에너지",
         "confidence": "medium"
       }
     ]
@@ -3408,6 +4024,13 @@
         "subject": "물리학Ⅰ",
         "unit": "역학과 에너지",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "물리학",
+        "unit": "힘과 에너지",
+        "confidence": "high"
       }
     ]
   },
@@ -3433,6 +4056,13 @@
         "schoolLevel": "고등학교",
         "subject": "물리학Ⅰ",
         "unit": "역학과 에너지",
+        "confidence": "high"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "물리학",
+        "unit": "힘과 에너지",
         "confidence": "high"
       }
     ]
@@ -3486,6 +4116,13 @@
         "subject": "물리학Ⅰ",
         "unit": "역학과 에너지",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "물리학",
+        "unit": "힘과 에너지",
+        "confidence": "high"
       }
     ]
   },
@@ -3512,6 +4149,13 @@
         "subject": "물리학Ⅰ",
         "unit": "파동과 정보통신",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "물리학",
+        "unit": "빛과 물질",
+        "confidence": "low"
       }
     ]
   },
@@ -3537,6 +4181,13 @@
         "schoolLevel": "고등학교",
         "subject": "물리학Ⅰ",
         "unit": "역학과 에너지",
+        "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "물리학",
+        "unit": "힘과 에너지",
         "confidence": "medium"
       }
     ]
@@ -3569,6 +4220,13 @@
         "category": "스마트 수업도구",
         "topic": "앱/프로그램",
         "confidence": "low"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "물리학",
+        "unit": "힘과 에너지",
+        "confidence": "medium"
       }
     ]
   },
@@ -3600,6 +4258,13 @@
         "category": "스마트 수업도구",
         "topic": "앱/프로그램",
         "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "물리학",
+        "unit": "힘과 에너지",
+        "confidence": "high"
       }
     ]
   },
@@ -3625,6 +4290,13 @@
         "schoolLevel": "고등학교",
         "subject": "물리학",
         "unit": "빛과 물질",
+        "confidence": "high"
+      },
+      {
+        "curriculumYear": "2015",
+        "schoolLevel": "고등학교",
+        "subject": "물리학Ⅱ",
+        "unit": "파동과 물질의 성질",
         "confidence": "high"
       }
     ]
@@ -3678,6 +4350,13 @@
         "subject": "통합과학",
         "unit": "발전과 신재생 에너지",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "통합과학2",
+        "unit": "환경과 에너지",
+        "confidence": "high"
       }
     ]
   },
@@ -3704,6 +4383,13 @@
         "subject": "물리학",
         "unit": "빛과 물질",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": "2015",
+        "schoolLevel": "고등학교",
+        "subject": "물리학Ⅰ",
+        "unit": "파동과 정보통신",
+        "confidence": "high"
       }
     ]
   },
@@ -3729,6 +4415,13 @@
         "schoolLevel": "고등학교",
         "subject": "물리학Ⅰ",
         "unit": "물질과 전자기장",
+        "confidence": "high"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "물리학",
+        "unit": "전기와 자기",
         "confidence": "high"
       }
     ]
@@ -3782,6 +4475,13 @@
         "subject": "물리학",
         "unit": "빛과 물질",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": "2015",
+        "schoolLevel": "고등학교",
+        "subject": "물리학Ⅰ",
+        "unit": "역학과 에너지",
+        "confidence": "high"
       }
     ]
   },
@@ -3807,6 +4507,13 @@
         "schoolLevel": "고등학교",
         "subject": "물리학Ⅰ",
         "unit": "파동과 정보통신",
+        "confidence": "low"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "물리학",
+        "unit": "빛과 물질",
         "confidence": "low"
       }
     ]
@@ -3834,6 +4541,13 @@
         "subject": "물리학Ⅰ",
         "unit": "역학과 에너지",
         "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "물리학",
+        "unit": "힘과 에너지",
+        "confidence": "medium"
       }
     ]
   },
@@ -3859,6 +4573,13 @@
         "schoolLevel": "고등학교",
         "subject": "물리학Ⅰ",
         "unit": "역학과 에너지",
+        "confidence": "high"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "물리학",
+        "unit": "힘과 에너지",
         "confidence": "high"
       }
     ]

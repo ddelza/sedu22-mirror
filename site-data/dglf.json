@@ -27,6 +27,13 @@
         "category": "스마트 수업도구",
         "topic": "앱/프로그램",
         "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2015",
+        "schoolLevel": "고등학교",
+        "subject": "생명과학Ⅱ",
+        "unit": "세포의 특성",
+        "confidence": "high"
       }
     ]
   },
@@ -58,6 +65,13 @@
         "category": "스마트 수업도구",
         "topic": "생성형 AI 도구",
         "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2015",
+        "schoolLevel": "고등학교",
+        "subject": "통합과학",
+        "unit": "생물다양성과 유지",
+        "confidence": "high"
       }
     ]
   },
@@ -83,6 +97,13 @@
         "schoolLevel": "고등학교",
         "subject": "생명과학Ⅰ",
         "unit": "사람의 물질대사",
+        "confidence": "high"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "생명과학",
+        "unit": "생명시스템의 구성",
         "confidence": "high"
       }
     ]
@@ -110,6 +131,13 @@
         "subject": "생명과학Ⅰ",
         "unit": "유전",
         "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "생명과학",
+        "unit": "생명의 연속성과 다양성",
+        "confidence": "medium"
       }
     ]
   },
@@ -134,6 +162,13 @@
         "curriculumYear": "2015",
         "schoolLevel": "고등학교",
         "subject": "과학탐구실험",
+        "unit": "생활 속의 과학 탐구",
+        "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "과학탐구실험2",
         "unit": "생활 속의 과학 탐구",
         "confidence": "medium"
       }
@@ -167,6 +202,13 @@
         "category": "스마트 수업도구",
         "topic": "앱/프로그램",
         "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2015",
+        "schoolLevel": "고등학교",
+        "subject": "통합과학",
+        "unit": "생명 시스템",
+        "confidence": "high"
       }
     ]
   },
@@ -191,6 +233,13 @@
         "curriculumYear": "2015",
         "schoolLevel": "고등학교",
         "subject": "생명과학Ⅰ",
+        "unit": "항상성과 몸의 조절",
+        "confidence": "high"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "생명과학",
         "unit": "항상성과 몸의 조절",
         "confidence": "high"
       }
@@ -219,6 +268,13 @@
         "subject": "생명과학Ⅰ",
         "unit": "유전",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "생명과학",
+        "unit": "생명의 연속성과 다양성",
+        "confidence": "high"
       }
     ]
   },
@@ -243,6 +299,13 @@
         "curriculumYear": "2015",
         "schoolLevel": "고등학교",
         "subject": "생명과학Ⅰ",
+        "unit": "항상성과 몸의 조절",
+        "confidence": "high"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "생명과학",
         "unit": "항상성과 몸의 조절",
         "confidence": "high"
       }
@@ -285,6 +348,13 @@
         "subject": "과학",
         "unit": "생식과 유전",
         "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "생명과학",
+        "unit": "생명의 연속성과 다양성",
+        "confidence": "high"
       }
     ]
   },
@@ -309,6 +379,13 @@
         "curriculumYear": "2015",
         "schoolLevel": "고등학교",
         "subject": "생명과학Ⅰ",
+        "unit": "항상성과 몸의 조절",
+        "confidence": "high"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "생명과학",
         "unit": "항상성과 몸의 조절",
         "confidence": "high"
       }
@@ -337,6 +414,13 @@
         "subject": "생명과학Ⅰ",
         "unit": "항상성과 몸의 조절",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "생명과학",
+        "unit": "항상성과 몸의 조절",
+        "confidence": "high"
       }
     ]
   },
@@ -361,6 +445,13 @@
         "curriculumYear": "2015",
         "schoolLevel": "고등학교",
         "subject": "생명과학Ⅰ",
+        "unit": "항상성과 몸의 조절",
+        "confidence": "high"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "생명과학",
         "unit": "항상성과 몸의 조절",
         "confidence": "high"
       }
@@ -389,6 +480,13 @@
         "subject": "생명과학Ⅰ",
         "unit": "사람의 물질대사",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "생명과학",
+        "unit": "생명시스템의 구성",
+        "confidence": "high"
       }
     ]
   },
@@ -415,6 +513,13 @@
         "subject": "생명과학Ⅰ",
         "unit": "사람의 물질대사",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "생명과학",
+        "unit": "생명시스템의 구성",
+        "confidence": "high"
       }
     ]
   },
@@ -440,6 +545,13 @@
         "schoolLevel": "고등학교",
         "subject": "생명과학Ⅰ",
         "unit": "사람의 물질대사",
+        "confidence": "high"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "생명과학",
+        "unit": "생명시스템의 구성",
         "confidence": "high"
       }
     ]
@@ -481,6 +593,13 @@
         "subject": "생명과학Ⅰ",
         "unit": "유전",
         "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "생명과학",
+        "unit": "생명의 연속성과 다양성",
+        "confidence": "medium"
       }
     ]
   },
@@ -506,6 +625,13 @@
         "schoolLevel": "고등학교",
         "subject": "생명과학Ⅰ",
         "unit": "사람의 물질대사",
+        "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "생명과학",
+        "unit": "생명시스템의 구성",
         "confidence": "medium"
       }
     ]
@@ -533,6 +659,13 @@
         "subject": "생명과학Ⅰ",
         "unit": "사람의 물질대사",
         "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "생명과학",
+        "unit": "생명시스템의 구성",
+        "confidence": "medium"
       }
     ]
   },
@@ -559,6 +692,13 @@
         "subject": "생명과학Ⅰ",
         "unit": "생명과학의 이해",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "생명과학",
+        "unit": "생명시스템의 구성",
+        "confidence": "high"
       }
     ]
   },
@@ -584,6 +724,13 @@
         "schoolLevel": "고등학교",
         "subject": "생명과학",
         "unit": "생명시스템의 구성",
+        "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2015",
+        "schoolLevel": "고등학교",
+        "subject": "생명과학Ⅰ",
+        "unit": "사람의 물질대사",
         "confidence": "medium"
       }
     ]
@@ -637,6 +784,13 @@
         "subject": "생명과학Ⅰ",
         "unit": "유전",
         "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "생물의 유전",
+        "unit": "유전자와 유전물질",
+        "confidence": "high"
       }
     ]
   },
@@ -663,6 +817,13 @@
         "subject": "생명과학Ⅰ",
         "unit": "사람의 물질대사",
         "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "생명과학",
+        "unit": "생명시스템의 구성",
+        "confidence": "medium"
       }
     ]
   },
@@ -688,6 +849,13 @@
         "schoolLevel": "고등학교",
         "subject": "생명과학Ⅰ",
         "unit": "유전",
+        "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "생물의 유전",
+        "unit": "유전자의 발현",
         "confidence": "medium"
       }
     ]
@@ -767,6 +935,13 @@
         "subject": "생명과학Ⅰ",
         "unit": "유전",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "생명과학",
+        "unit": "생명의 연속성과 다양성",
+        "confidence": "high"
       }
     ]
   },
@@ -792,6 +967,13 @@
         "schoolLevel": "고등학교",
         "subject": "생명과학Ⅰ",
         "unit": "유전",
+        "confidence": "high"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "생명과학",
+        "unit": "생명의 연속성과 다양성",
         "confidence": "high"
       }
     ]
@@ -822,6 +1004,13 @@
         "curriculumYear": "2015",
         "schoolLevel": "고등학교",
         "subject": "생명과학Ⅰ",
+        "unit": "항상성과 몸의 조절",
+        "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "생명과학",
         "unit": "항상성과 몸의 조절",
         "confidence": "medium"
       }
@@ -855,6 +1044,13 @@
         "subject": "생명과학Ⅰ",
         "unit": "항상성과 몸의 조절",
         "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "생명과학",
+        "unit": "항상성과 몸의 조절",
+        "confidence": "medium"
       }
     ]
   },
@@ -880,6 +1076,13 @@
         "schoolLevel": "고등학교",
         "subject": "생명과학Ⅰ",
         "unit": "사람의 물질대사",
+        "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "생명과학",
+        "unit": "생명시스템의 구성",
         "confidence": "medium"
       }
     ]
@@ -933,6 +1136,13 @@
         "subject": "생명과학Ⅰ",
         "unit": "사람의 물질대사",
         "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "생명과학",
+        "unit": "생명시스템의 구성",
+        "confidence": "medium"
       }
     ]
   },
@@ -958,6 +1168,13 @@
         "schoolLevel": "고등학교",
         "subject": "생명과학Ⅰ",
         "unit": "사람의 물질대사",
+        "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "생명과학",
+        "unit": "생명시스템의 구성",
         "confidence": "medium"
       }
     ]
@@ -990,6 +1207,13 @@
         "category": "수업 방법론",
         "topic": "IB(개념기반학습)",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "생명과학",
+        "unit": "생명시스템의 구성",
+        "confidence": "medium"
       }
     ]
   },
@@ -1015,6 +1239,13 @@
         "schoolLevel": "고등학교",
         "subject": "생명과학Ⅰ",
         "unit": "사람의 물질대사",
+        "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "생명과학",
+        "unit": "생명시스템의 구성",
         "confidence": "medium"
       }
     ]
@@ -1042,6 +1273,13 @@
         "subject": "생명과학Ⅰ",
         "unit": "사람의 물질대사",
         "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "생명과학",
+        "unit": "생명시스템의 구성",
+        "confidence": "medium"
       }
     ]
   },
@@ -1067,6 +1305,13 @@
         "schoolLevel": "고등학교",
         "subject": "생명과학Ⅰ",
         "unit": "사람의 물질대사",
+        "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "생명과학",
+        "unit": "생명시스템의 구성",
         "confidence": "medium"
       }
     ]
@@ -1118,6 +1363,13 @@
         "subject": "과학탐구실험1",
         "unit": "과학 탐구의 과정과 절차",
         "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2015",
+        "schoolLevel": "고등학교",
+        "subject": "과학탐구실험",
+        "unit": "생활 속의 과학 탐구",
+        "confidence": "medium"
       }
     ]
   },
@@ -1143,6 +1395,13 @@
         "schoolLevel": "고등학교",
         "subject": "생명과학Ⅰ",
         "unit": "사람의 물질대사",
+        "confidence": "high"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "생명과학",
+        "unit": "생명시스템의 구성",
         "confidence": "high"
       }
     ]
@@ -1194,6 +1453,13 @@
         "subject": "생명과학Ⅰ",
         "unit": "사람의 물질대사",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "생명과학",
+        "unit": "생명시스템의 구성",
+        "confidence": "high"
       }
     ]
   },
@@ -1219,6 +1485,13 @@
         "schoolLevel": "고등학교",
         "subject": "생명과학Ⅰ",
         "unit": "생명과학의 이해",
+        "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "생명과학",
+        "unit": "생명시스템의 구성",
         "confidence": "medium"
       }
     ]
@@ -1272,6 +1545,13 @@
         "subject": "생명과학Ⅰ",
         "unit": "사람의 물질대사",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "생명과학",
+        "unit": "생명시스템의 구성",
+        "confidence": "high"
       }
     ]
   },
@@ -1297,6 +1577,13 @@
         "schoolLevel": "고등학교",
         "subject": "생명과학Ⅰ",
         "unit": "사람의 물질대사",
+        "confidence": "high"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "생명과학",
+        "unit": "생명시스템의 구성",
         "confidence": "high"
       }
     ]
@@ -1350,6 +1637,13 @@
         "subject": "생명과학Ⅰ",
         "unit": "유전",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "생명과학",
+        "unit": "생명의 연속성과 다양성",
+        "confidence": "high"
       }
     ]
   },
@@ -1376,6 +1670,13 @@
         "subject": "생명과학Ⅰ",
         "unit": "유전",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "생명과학",
+        "unit": "생명의 연속성과 다양성",
+        "confidence": "high"
       }
     ]
   },
@@ -1401,6 +1702,13 @@
         "schoolLevel": "고등학교",
         "subject": "생명과학",
         "unit": "생명의 연속성과 다양성",
+        "confidence": "high"
+      },
+      {
+        "curriculumYear": "2015",
+        "schoolLevel": "고등학교",
+        "subject": "생명과학Ⅱ",
+        "unit": "생물의 진화와 다양성",
         "confidence": "high"
       }
     ]
@@ -1454,6 +1762,13 @@
         "subject": "생명과학",
         "unit": "생명의 연속성과 다양성",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": "2015",
+        "schoolLevel": "고등학교",
+        "subject": "생명과학Ⅱ",
+        "unit": "생물의 진화와 다양성",
+        "confidence": "high"
       }
     ]
   },
@@ -1485,6 +1800,13 @@
         "subject": "생명과학Ⅰ",
         "unit": "항상성과 몸의 조절",
         "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "생명과학",
+        "unit": "항상성과 몸의 조절",
+        "confidence": "medium"
       }
     ]
   },
@@ -1509,6 +1831,13 @@
         "curriculumYear": "2015",
         "schoolLevel": "고등학교",
         "subject": "생명과학Ⅰ",
+        "unit": "항상성과 몸의 조절",
+        "confidence": "high"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "생명과학",
         "unit": "항상성과 몸의 조절",
         "confidence": "high"
       }
@@ -1542,6 +1871,13 @@
         "category": "과학교사 업무",
         "topic": "동아리 운영",
         "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "생명과학",
+        "unit": "생명의 연속성과 다양성",
+        "confidence": "high"
       }
     ]
   },
@@ -1567,6 +1903,13 @@
         "schoolLevel": "고등학교",
         "subject": "생명과학Ⅰ",
         "unit": "생명과학의 이해",
+        "confidence": "low"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "생명과학",
+        "unit": "생명시스템의 구성",
         "confidence": "low"
       }
     ]
@@ -1594,6 +1937,13 @@
         "subject": "생명과학",
         "unit": "생명시스템의 구성",
         "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2015",
+        "schoolLevel": "고등학교",
+        "subject": "생명과학Ⅰ",
+        "unit": "생명과학의 이해",
+        "confidence": "medium"
       }
     ]
   },
@@ -1620,6 +1970,13 @@
         "subject": "생명과학Ⅰ",
         "unit": "생태계와 상호 작용",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "생명과학",
+        "unit": "생명시스템의 구성",
+        "confidence": "high"
       }
     ]
   },
@@ -1645,6 +2002,13 @@
         "schoolLevel": "고등학교",
         "subject": "생명과학Ⅰ",
         "unit": "유전",
+        "confidence": "high"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "생물의 유전",
+        "unit": "유전자의 발현",
         "confidence": "high"
       }
     ]
@@ -1696,6 +2060,13 @@
         "subject": "생명과학Ⅰ",
         "unit": "항상성과 몸의 조절",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "생명과학",
+        "unit": "항상성과 몸의 조절",
+        "confidence": "high"
       }
     ]
   },
@@ -1722,6 +2093,13 @@
         "subject": "생명과학Ⅰ",
         "unit": "유전",
         "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "생명과학",
+        "unit": "생명의 연속성과 다양성",
+        "confidence": "medium"
       }
     ]
   },
@@ -1746,6 +2124,13 @@
         "curriculumYear": "2015",
         "schoolLevel": "고등학교",
         "subject": "생명과학Ⅰ",
+        "unit": "항상성과 몸의 조절",
+        "confidence": "high"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "생명과학",
         "unit": "항상성과 몸의 조절",
         "confidence": "high"
       }
@@ -1781,6 +2166,13 @@
         "subject": "과학",
         "unit": "자극과 반응",
         "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "생명과학",
+        "unit": "항상성과 몸의 조절",
+        "confidence": "high"
       }
     ]
   },
@@ -1805,6 +2197,13 @@
         "curriculumYear": "2015",
         "schoolLevel": "고등학교",
         "subject": "생명과학Ⅰ",
+        "unit": "항상성과 몸의 조절",
+        "confidence": "high"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "생명과학",
         "unit": "항상성과 몸의 조절",
         "confidence": "high"
       }
@@ -1833,6 +2232,13 @@
         "subject": "생명과학Ⅰ",
         "unit": "항상성과 몸의 조절",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "생명과학",
+        "unit": "항상성과 몸의 조절",
+        "confidence": "high"
       }
     ]
   },
@@ -1858,6 +2264,13 @@
         "schoolLevel": "고등학교",
         "subject": "생명과학Ⅰ",
         "unit": "사람의 물질대사",
+        "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "생명과학",
+        "unit": "생명시스템의 구성",
         "confidence": "medium"
       }
     ]
@@ -1885,6 +2298,13 @@
         "subject": "생명과학Ⅰ",
         "unit": "사람의 물질대사",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "생명과학",
+        "unit": "생명시스템의 구성",
+        "confidence": "high"
       }
     ]
   },
@@ -1910,6 +2330,13 @@
         "schoolLevel": "고등학교",
         "subject": "생명과학Ⅰ",
         "unit": "생명과학의 이해",
+        "confidence": "low"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "생명과학",
+        "unit": "생명시스템의 구성",
         "confidence": "low"
       }
     ]
@@ -1937,6 +2364,13 @@
         "subject": "생명과학Ⅰ",
         "unit": "생태계와 상호 작용",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "생명과학",
+        "unit": "생명시스템의 구성",
+        "confidence": "high"
       }
     ]
   },
@@ -1962,6 +2396,13 @@
         "schoolLevel": "고등학교",
         "subject": "생명과학Ⅰ",
         "unit": "사람의 물질대사",
+        "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "생명과학",
+        "unit": "생명시스템의 구성",
         "confidence": "medium"
       }
     ]
@@ -1989,6 +2430,13 @@
         "subject": "생명과학Ⅰ",
         "unit": "생명과학의 이해",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "생명과학",
+        "unit": "생명시스템의 구성",
+        "confidence": "high"
       }
     ]
   },
@@ -2014,6 +2462,13 @@
         "schoolLevel": "고등학교",
         "subject": "통합과학",
         "unit": "생물다양성과 유지",
+        "confidence": "high"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "통합과학2",
+        "unit": "변화와 다양성",
         "confidence": "high"
       }
     ]
@@ -2047,6 +2502,20 @@
         "schoolLevel": "고등학교",
         "subject": "통합과학",
         "unit": "생태계와 환경",
+        "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "생명과학",
+        "unit": "생명시스템의 구성",
+        "confidence": "high"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "통합과학2",
+        "unit": "환경과 에너지",
         "confidence": "medium"
       }
     ]
@@ -2100,6 +2569,13 @@
         "subject": "생명과학Ⅰ",
         "unit": "생태계와 상호 작용",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "생명과학",
+        "unit": "생명시스템의 구성",
+        "confidence": "high"
       }
     ]
   },
@@ -2131,6 +2607,13 @@
         "subject": "생명과학Ⅰ",
         "unit": "유전",
         "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "생명과학",
+        "unit": "생명의 연속성과 다양성",
+        "confidence": "medium"
       }
     ]
   },
@@ -2156,6 +2639,13 @@
         "schoolLevel": "고등학교",
         "subject": "생명과학Ⅰ",
         "unit": "생명과학의 이해",
+        "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "생명과학",
+        "unit": "생명시스템의 구성",
         "confidence": "medium"
       }
     ]
@@ -2183,6 +2673,13 @@
         "subject": "생명과학Ⅰ",
         "unit": "유전",
         "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "생명과학",
+        "unit": "생명의 연속성과 다양성",
+        "confidence": "medium"
       }
     ]
   },
@@ -2208,6 +2705,13 @@
         "schoolLevel": "고등학교",
         "subject": "생명과학Ⅰ",
         "unit": "유전",
+        "confidence": "high"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "생명과학",
+        "unit": "생명의 연속성과 다양성",
         "confidence": "high"
       }
     ]
@@ -2261,6 +2765,13 @@
         "subject": "생명과학Ⅰ",
         "unit": "생명과학의 이해",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "생명과학",
+        "unit": "생명시스템의 구성",
+        "confidence": "high"
       }
     ]
   },
@@ -2311,6 +2822,13 @@
         "subject": "생명과학Ⅰ",
         "unit": "생명과학의 이해",
         "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "생명과학",
+        "unit": "생명시스템의 구성",
+        "confidence": "medium"
       }
     ]
   },
@@ -2337,6 +2855,13 @@
         "subject": "생명과학Ⅰ",
         "unit": "사람의 물질대사",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "생명과학",
+        "unit": "생명시스템의 구성",
+        "confidence": "high"
       }
     ]
   },
@@ -2361,6 +2886,13 @@
         "curriculumYear": "2015",
         "schoolLevel": "고등학교",
         "subject": "생명과학Ⅰ",
+        "unit": "항상성과 몸의 조절",
+        "confidence": "high"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "생명과학",
         "unit": "항상성과 몸의 조절",
         "confidence": "high"
       }
@@ -2389,6 +2921,13 @@
         "subject": "생명과학Ⅰ",
         "unit": "사람의 물질대사",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "생명과학",
+        "unit": "생명시스템의 구성",
+        "confidence": "high"
       }
     ]
   },
@@ -2414,6 +2953,13 @@
         "schoolLevel": "고등학교",
         "subject": "생명과학Ⅰ",
         "unit": "사람의 물질대사",
+        "confidence": "high"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "생명과학",
+        "unit": "생명시스템의 구성",
         "confidence": "high"
       }
     ]
@@ -2446,6 +2992,13 @@
         "category": "과학교사 업무",
         "topic": "동아리 운영",
         "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2015",
+        "schoolLevel": "고등학교",
+        "subject": "생명과학Ⅱ",
+        "unit": "생물의 진화와 다양성",
+        "confidence": "high"
       }
     ]
   },
@@ -2470,6 +3023,13 @@
         "curriculumYear": "2015",
         "schoolLevel": "고등학교",
         "subject": "생명과학Ⅰ",
+        "unit": "항상성과 몸의 조절",
+        "confidence": "high"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "생명과학",
         "unit": "항상성과 몸의 조절",
         "confidence": "high"
       }
@@ -2498,6 +3058,13 @@
         "subject": "생명과학Ⅰ",
         "unit": "생명과학의 이해",
         "confidence": "low"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "생명과학",
+        "unit": "생명시스템의 구성",
+        "confidence": "low"
       }
     ]
   },
@@ -2524,6 +3091,13 @@
         "subject": "생명과학Ⅰ",
         "unit": "생태계와 상호 작용",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "생명과학",
+        "unit": "생명시스템의 구성",
+        "confidence": "high"
       }
     ]
   },
@@ -2548,6 +3122,13 @@
         "curriculumYear": "2015",
         "schoolLevel": "고등학교",
         "subject": "생명과학Ⅰ",
+        "unit": "항상성과 몸의 조절",
+        "confidence": "high"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "생명과학",
         "unit": "항상성과 몸의 조절",
         "confidence": "high"
       }
@@ -2576,6 +3157,13 @@
         "subject": "생명과학Ⅰ",
         "unit": "유전",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "생명과학",
+        "unit": "생명의 연속성과 다양성",
+        "confidence": "high"
       }
     ]
   },
@@ -2601,6 +3189,13 @@
         "schoolLevel": "고등학교",
         "subject": "생명과학Ⅰ",
         "unit": "생태계와 상호 작용",
+        "confidence": "high"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "생명과학",
+        "unit": "생명시스템의 구성",
         "confidence": "high"
       }
     ]
@@ -2628,6 +3223,13 @@
         "subject": "생명과학Ⅰ",
         "unit": "생태계와 상호 작용",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "생명과학",
+        "unit": "생명시스템의 구성",
+        "confidence": "high"
       }
     ]
   },
@@ -2653,6 +3255,13 @@
         "schoolLevel": "고등학교",
         "subject": "생명과학Ⅰ",
         "unit": "유전",
+        "confidence": "high"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "생명과학",
+        "unit": "생명의 연속성과 다양성",
         "confidence": "high"
       }
     ]
@@ -2680,6 +3289,13 @@
         "subject": "생명과학Ⅰ",
         "unit": "유전",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "생명과학",
+        "unit": "생명의 연속성과 다양성",
+        "confidence": "high"
       }
     ]
   },
@@ -2706,6 +3322,13 @@
         "subject": "생명과학Ⅰ",
         "unit": "유전",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "생명과학",
+        "unit": "생명의 연속성과 다양성",
+        "confidence": "high"
       }
     ]
   },
@@ -2730,6 +3353,13 @@
         "curriculumYear": "2015",
         "schoolLevel": "고등학교",
         "subject": "생명과학Ⅰ",
+        "unit": "항상성과 몸의 조절",
+        "confidence": "high"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "생명과학",
         "unit": "항상성과 몸의 조절",
         "confidence": "high"
       }
@@ -2758,6 +3388,13 @@
         "subject": "생명과학",
         "unit": "생명의 연속성과 다양성",
         "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2015",
+        "schoolLevel": "고등학교",
+        "subject": "생명과학Ⅱ",
+        "unit": "생물의 진화와 다양성",
+        "confidence": "medium"
       }
     ]
   },
@@ -2782,6 +3419,13 @@
         "curriculumYear": "2015",
         "schoolLevel": "고등학교",
         "subject": "생명과학Ⅰ",
+        "unit": "항상성과 몸의 조절",
+        "confidence": "high"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "생명과학",
         "unit": "항상성과 몸의 조절",
         "confidence": "high"
       }
@@ -2809,6 +3453,13 @@
         "schoolLevel": "고등학교",
         "subject": "생명과학Ⅰ",
         "unit": "유전",
+        "confidence": "low"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "생명과학",
+        "unit": "생명의 연속성과 다양성",
         "confidence": "low"
       }
     ]
@@ -2862,6 +3513,13 @@
         "subject": "생명과학Ⅰ",
         "unit": "항상성과 몸의 조절",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "생명과학",
+        "unit": "항상성과 몸의 조절",
+        "confidence": "high"
       }
     ]
   },
@@ -2888,6 +3546,13 @@
         "subject": "생명과학Ⅰ",
         "unit": "생명과학의 이해",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "생명과학",
+        "unit": "생명시스템의 구성",
+        "confidence": "high"
       }
     ]
   },
@@ -2912,6 +3577,13 @@
         "curriculumYear": "2015",
         "schoolLevel": "고등학교",
         "subject": "생명과학Ⅰ",
+        "unit": "항상성과 몸의 조절",
+        "confidence": "high"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "생명과학",
         "unit": "항상성과 몸의 조절",
         "confidence": "high"
       }
@@ -2940,6 +3612,13 @@
         "subject": "생명과학Ⅰ",
         "unit": "항상성과 몸의 조절",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "생명과학",
+        "unit": "항상성과 몸의 조절",
+        "confidence": "high"
       }
     ]
   },
@@ -2964,6 +3643,13 @@
         "curriculumYear": "2015",
         "schoolLevel": "고등학교",
         "subject": "생명과학Ⅰ",
+        "unit": "항상성과 몸의 조절",
+        "confidence": "high"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "생명과학",
         "unit": "항상성과 몸의 조절",
         "confidence": "high"
       }
@@ -2992,6 +3678,13 @@
         "subject": "생명과학Ⅰ",
         "unit": "유전",
         "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "생명과학",
+        "unit": "생명의 연속성과 다양성",
+        "confidence": "medium"
       }
     ]
   },
@@ -3016,6 +3709,13 @@
         "curriculumYear": "2015",
         "schoolLevel": "고등학교",
         "subject": "생명과학Ⅰ",
+        "unit": "항상성과 몸의 조절",
+        "confidence": "high"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "생명과학",
         "unit": "항상성과 몸의 조절",
         "confidence": "high"
       }
@@ -3043,6 +3743,13 @@
         "schoolLevel": "고등학교",
         "subject": "생명과학",
         "unit": "생명의 연속성과 다양성",
+        "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2015",
+        "schoolLevel": "고등학교",
+        "subject": "생명과학Ⅰ",
+        "unit": "유전",
         "confidence": "medium"
       }
     ]
@@ -3118,6 +3825,13 @@
         "subject": "생명과학Ⅰ",
         "unit": "사람의 물질대사",
         "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "생명과학",
+        "unit": "생명시스템의 구성",
+        "confidence": "medium"
       }
     ]
   },
@@ -3144,6 +3858,13 @@
         "subject": "생명과학Ⅰ",
         "unit": "생명과학의 이해",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "생명과학",
+        "unit": "생명시스템의 구성",
+        "confidence": "high"
       }
     ]
   },
@@ -3169,6 +3890,13 @@
         "schoolLevel": "고등학교",
         "subject": "생명과학",
         "unit": "생명의 연속성과 다양성",
+        "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2015",
+        "schoolLevel": "고등학교",
+        "subject": "생명과학Ⅰ",
+        "unit": "유전",
         "confidence": "medium"
       }
     ]
@@ -3274,6 +4002,13 @@
         "subject": "생명과학",
         "unit": "생명의 연속성과 다양성",
         "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2015",
+        "schoolLevel": "고등학교",
+        "subject": "생명과학Ⅱ",
+        "unit": "생물의 진화와 다양성",
+        "confidence": "medium"
       }
     ]
   },
@@ -3299,6 +4034,13 @@
         "schoolLevel": "고등학교",
         "subject": "생명과학Ⅰ",
         "unit": "생태계와 상호 작용",
+        "confidence": "high"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "생명과학",
+        "unit": "생명시스템의 구성",
         "confidence": "high"
       }
     ]
@@ -3326,6 +4068,13 @@
         "subject": "생명과학Ⅰ",
         "unit": "항상성과 몸의 조절",
         "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "생명과학",
+        "unit": "항상성과 몸의 조절",
+        "confidence": "medium"
       }
     ]
   },
@@ -3351,6 +4100,13 @@
         "schoolLevel": "고등학교",
         "subject": "생명과학Ⅰ",
         "unit": "유전",
+        "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "생명과학",
+        "unit": "생명의 연속성과 다양성",
         "confidence": "medium"
       }
     ]
@@ -3428,6 +4184,13 @@
         "subject": "생명과학Ⅰ",
         "unit": "항상성과 몸의 조절",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "생명과학",
+        "unit": "항상성과 몸의 조절",
+        "confidence": "high"
       }
     ]
   },
@@ -3453,6 +4216,13 @@
         "schoolLevel": "고등학교",
         "subject": "생명과학",
         "unit": "생명의 연속성과 다양성",
+        "confidence": "high"
+      },
+      {
+        "curriculumYear": "2015",
+        "schoolLevel": "고등학교",
+        "subject": "생명과학Ⅱ",
+        "unit": "생물의 진화와 다양성",
         "confidence": "high"
       }
     ]
@@ -3480,6 +4250,13 @@
         "subject": "생명과학Ⅰ",
         "unit": "유전",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "생명과학",
+        "unit": "생명의 연속성과 다양성",
+        "confidence": "high"
       }
     ]
   },
@@ -3506,6 +4283,13 @@
         "subject": "생명과학Ⅰ",
         "unit": "사람의 물질대사",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "생명과학",
+        "unit": "생명시스템의 구성",
+        "confidence": "high"
       }
     ]
   },
@@ -3530,6 +4314,13 @@
         "curriculumYear": "2015",
         "schoolLevel": "고등학교",
         "subject": "생명과학Ⅰ",
+        "unit": "항상성과 몸의 조절",
+        "confidence": "high"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "생명과학",
         "unit": "항상성과 몸의 조절",
         "confidence": "high"
       }
@@ -3558,6 +4349,13 @@
         "subject": "생명과학Ⅰ",
         "unit": "사람의 물질대사",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "생명과학",
+        "unit": "생명시스템의 구성",
+        "confidence": "high"
       }
     ]
   },
@@ -3583,6 +4381,13 @@
         "schoolLevel": "고등학교",
         "subject": "생명과학Ⅰ",
         "unit": "생명과학의 이해",
+        "confidence": "high"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "생명과학",
+        "unit": "생명시스템의 구성",
         "confidence": "high"
       }
     ]
@@ -3712,6 +4517,13 @@
         "subject": "생명과학Ⅰ",
         "unit": "유전",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "생명과학",
+        "unit": "생명의 연속성과 다양성",
+        "confidence": "high"
       }
     ]
   },
@@ -3752,6 +4564,13 @@
         "subject": "과학",
         "unit": "재해·재난과 안전",
         "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "생명과학",
+        "unit": "항상성과 몸의 조절",
+        "confidence": "medium"
       }
     ]
   },
@@ -3777,6 +4596,13 @@
         "schoolLevel": "고등학교",
         "subject": "생명과학Ⅰ",
         "unit": "생명과학의 이해",
+        "confidence": "low"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "생명과학",
+        "unit": "생명시스템의 구성",
         "confidence": "low"
       }
     ]
@@ -3830,6 +4656,13 @@
         "subject": "통합과학",
         "unit": "생태계와 환경",
         "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "통합과학2",
+        "unit": "환경과 에너지",
+        "confidence": "medium"
       }
     ]
   },
@@ -3856,6 +4689,13 @@
         "subject": "생명과학Ⅰ",
         "unit": "생명과학의 이해",
         "confidence": "low"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "생명과학",
+        "unit": "생명시스템의 구성",
+        "confidence": "low"
       }
     ]
   },
@@ -3880,6 +4720,13 @@
         "curriculumYear": "2015",
         "schoolLevel": "고등학교",
         "subject": "생명과학Ⅰ",
+        "unit": "항상성과 몸의 조절",
+        "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "생명과학",
         "unit": "항상성과 몸의 조절",
         "confidence": "medium"
       }
@@ -3908,6 +4755,13 @@
         "subject": "생명과학Ⅰ",
         "unit": "항상성과 몸의 조절",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "생명과학",
+        "unit": "항상성과 몸의 조절",
+        "confidence": "high"
       }
     ]
   },
@@ -3933,6 +4787,13 @@
         "schoolLevel": "고등학교",
         "subject": "생명과학Ⅰ",
         "unit": "유전",
+        "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "생명과학",
+        "unit": "생명의 연속성과 다양성",
         "confidence": "medium"
       }
     ]
@@ -4012,6 +4873,13 @@
         "subject": "생명과학Ⅰ",
         "unit": "생명과학의 이해",
         "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "생명과학",
+        "unit": "생명시스템의 구성",
+        "confidence": "medium"
       }
     ]
   },
@@ -4037,6 +4905,13 @@
         "schoolLevel": "고등학교",
         "subject": "통합과학",
         "unit": "생태계와 환경",
+        "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "통합과학2",
+        "unit": "환경과 에너지",
         "confidence": "medium"
       }
     ]
@@ -4090,6 +4965,13 @@
         "subject": "생명과학Ⅰ",
         "unit": "생명과학의 이해",
         "confidence": "low"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "생명과학",
+        "unit": "생명시스템의 구성",
+        "confidence": "low"
       }
     ]
   },
@@ -4115,6 +4997,13 @@
         "schoolLevel": "고등학교",
         "subject": "생명과학Ⅰ",
         "unit": "생명과학의 이해",
+        "confidence": "low"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "생명과학",
+        "unit": "생명시스템의 구성",
         "confidence": "low"
       }
     ]
@@ -4142,6 +5031,13 @@
         "subject": "생명과학Ⅰ",
         "unit": "생명과학의 이해",
         "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "생명과학",
+        "unit": "생명시스템의 구성",
+        "confidence": "medium"
       }
     ]
   },
@@ -4167,6 +5063,13 @@
         "schoolLevel": "고등학교",
         "subject": "생명과학Ⅰ",
         "unit": "생명과학의 이해",
+        "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "생명과학",
+        "unit": "생명시스템의 구성",
         "confidence": "medium"
       }
     ]
@@ -4194,6 +5097,13 @@
         "subject": "생명과학Ⅰ",
         "unit": "항상성과 몸의 조절",
         "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "생명과학",
+        "unit": "항상성과 몸의 조절",
+        "confidence": "medium"
       }
     ]
   },
@@ -4218,6 +5128,13 @@
         "curriculumYear": "2015",
         "schoolLevel": "고등학교",
         "subject": "생명과학Ⅰ",
+        "unit": "항상성과 몸의 조절",
+        "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "생명과학",
         "unit": "항상성과 몸의 조절",
         "confidence": "medium"
       }
@@ -4272,6 +5189,13 @@
         "subject": "생명과학Ⅰ",
         "unit": "항상성과 몸의 조절",
         "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "생명과학",
+        "unit": "항상성과 몸의 조절",
+        "confidence": "medium"
       }
     ]
   },
@@ -4297,6 +5221,13 @@
         "schoolLevel": "고등학교",
         "subject": "생명과학Ⅰ",
         "unit": "생명과학의 이해",
+        "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "생명과학",
+        "unit": "생명시스템의 구성",
         "confidence": "medium"
       }
     ]
@@ -4350,6 +5281,13 @@
         "subject": "생명과학Ⅰ",
         "unit": "항상성과 몸의 조절",
         "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "생명과학",
+        "unit": "항상성과 몸의 조절",
+        "confidence": "medium"
       }
     ]
   },
@@ -4390,6 +5328,13 @@
         "subject": "과학",
         "unit": "재해·재난과 안전",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "생명과학",
+        "unit": "항상성과 몸의 조절",
+        "confidence": "medium"
       }
     ]
   },
@@ -4416,6 +5361,13 @@
         "subject": "생명과학Ⅰ",
         "unit": "항상성과 몸의 조절",
         "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "생명과학",
+        "unit": "항상성과 몸의 조절",
+        "confidence": "medium"
       }
     ]
   },
@@ -4440,6 +5392,13 @@
         "curriculumYear": "2015",
         "schoolLevel": "고등학교",
         "subject": "생명과학Ⅰ",
+        "unit": "항상성과 몸의 조절",
+        "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "생명과학",
         "unit": "항상성과 몸의 조절",
         "confidence": "medium"
       }
@@ -4501,6 +5460,13 @@
         "subject": "생명과학Ⅰ",
         "unit": "항상성과 몸의 조절",
         "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "생명과학",
+        "unit": "항상성과 몸의 조절",
+        "confidence": "medium"
       }
     ]
   },
@@ -4525,6 +5491,13 @@
         "curriculumYear": "2015",
         "schoolLevel": "고등학교",
         "subject": "생명과학Ⅰ",
+        "unit": "항상성과 몸의 조절",
+        "confidence": "low"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "생명과학",
         "unit": "항상성과 몸의 조절",
         "confidence": "low"
       }
@@ -4577,6 +5550,13 @@
         "curriculumYear": "2015",
         "schoolLevel": "고등학교",
         "subject": "생명과학Ⅰ",
+        "unit": "항상성과 몸의 조절",
+        "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "생명과학",
         "unit": "항상성과 몸의 조절",
         "confidence": "medium"
       }
@@ -4638,6 +5618,20 @@
         "subject": "생명과학Ⅰ",
         "unit": "항상성과 몸의 조절",
         "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "생명과학",
+        "unit": "생명시스템의 구성",
+        "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "생명과학",
+        "unit": "항상성과 몸의 조절",
+        "confidence": "medium"
       }
     ]
   },
@@ -4662,6 +5656,13 @@
         "curriculumYear": "2015",
         "schoolLevel": "고등학교",
         "subject": "생명과학Ⅰ",
+        "unit": "항상성과 몸의 조절",
+        "confidence": "high"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "생명과학",
         "unit": "항상성과 몸의 조절",
         "confidence": "high"
       }
@@ -4715,6 +5716,13 @@
         "schoolLevel": "고등학교",
         "subject": "생명과학Ⅰ",
         "unit": "유전",
+        "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "생물의 유전",
+        "unit": "유전자와 유전물질",
         "confidence": "medium"
       }
     ]
@@ -4792,6 +5800,13 @@
         "subject": "생명과학Ⅰ",
         "unit": "유전",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "생명과학",
+        "unit": "생명의 연속성과 다양성",
+        "confidence": "high"
       }
     ]
   },
@@ -4817,6 +5832,13 @@
         "schoolLevel": "고등학교",
         "subject": "생명과학Ⅰ",
         "unit": "유전",
+        "confidence": "high"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "생명과학",
+        "unit": "생명의 연속성과 다양성",
         "confidence": "high"
       }
     ]
@@ -4844,6 +5866,13 @@
         "subject": "생명과학",
         "unit": "생명시스템의 구성",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": "2015",
+        "schoolLevel": "고등학교",
+        "subject": "생명과학Ⅰ",
+        "unit": "사람의 물질대사",
+        "confidence": "high"
       }
     ]
   },
@@ -4869,6 +5898,13 @@
         "schoolLevel": "고등학교",
         "subject": "생명과학Ⅰ",
         "unit": "생명과학의 이해",
+        "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "생명과학",
+        "unit": "생명시스템의 구성",
         "confidence": "medium"
       }
     ]
@@ -4896,6 +5932,13 @@
         "subject": "생명과학Ⅰ",
         "unit": "생명과학의 이해",
         "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "생명과학",
+        "unit": "생명시스템의 구성",
+        "confidence": "medium"
       }
     ]
   },
@@ -4920,6 +5963,13 @@
         "curriculumYear": "2015",
         "schoolLevel": "고등학교",
         "subject": "생명과학Ⅰ",
+        "unit": "항상성과 몸의 조절",
+        "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "생명과학",
         "unit": "항상성과 몸의 조절",
         "confidence": "medium"
       }
@@ -4948,6 +5998,13 @@
         "subject": "생명과학Ⅰ",
         "unit": "항상성과 몸의 조절",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "생명과학",
+        "unit": "항상성과 몸의 조절",
+        "confidence": "high"
       }
     ]
   },
@@ -4973,6 +6030,13 @@
         "schoolLevel": "고등학교",
         "subject": "생명과학Ⅰ",
         "unit": "유전",
+        "confidence": "high"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "생명과학",
+        "unit": "생명의 연속성과 다양성",
         "confidence": "high"
       }
     ]
@@ -5026,6 +6090,13 @@
         "subject": "생명과학",
         "unit": "생명시스템의 구성",
         "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2015",
+        "schoolLevel": "고등학교",
+        "subject": "생명과학Ⅰ",
+        "unit": "사람의 물질대사",
+        "confidence": "medium"
       }
     ]
   },
@@ -5052,6 +6123,13 @@
         "subject": "생명과학Ⅰ",
         "unit": "유전",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "생명과학",
+        "unit": "생명의 연속성과 다양성",
+        "confidence": "high"
       }
     ]
   },
@@ -5077,6 +6155,13 @@
         "schoolLevel": "고등학교",
         "subject": "생명과학",
         "unit": "생명시스템의 구성",
+        "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2015",
+        "schoolLevel": "고등학교",
+        "subject": "생명과학Ⅰ",
+        "unit": "생명과학의 이해",
         "confidence": "medium"
       }
     ]
@@ -5135,6 +6220,13 @@
         "category": "수업 방법론",
         "topic": "거꾸로 교실",
         "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2015",
+        "schoolLevel": "고등학교",
+        "subject": "생명과학Ⅰ",
+        "unit": "사람의 물질대사",
+        "confidence": "medium"
       }
     ]
   },
@@ -5160,6 +6252,13 @@
         "schoolLevel": "고등학교",
         "subject": "생명과학",
         "unit": "생명시스템의 구성",
+        "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2015",
+        "schoolLevel": "고등학교",
+        "subject": "생명과학Ⅰ",
+        "unit": "생명과학의 이해",
         "confidence": "medium"
       }
     ]
@@ -5187,6 +6286,13 @@
         "subject": "생명과학Ⅰ",
         "unit": "항상성과 몸의 조절",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "생명과학",
+        "unit": "항상성과 몸의 조절",
+        "confidence": "high"
       }
     ]
   },
@@ -5212,6 +6318,13 @@
         "schoolLevel": "고등학교",
         "subject": "생명과학Ⅰ",
         "unit": "생명과학의 이해",
+        "confidence": "high"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "생명과학",
+        "unit": "생명시스템의 구성",
         "confidence": "high"
       }
     ]
@@ -5263,6 +6376,13 @@
         "subject": "생명과학Ⅰ",
         "unit": "생명과학의 이해",
         "confidence": "low"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "생명과학",
+        "unit": "생명시스템의 구성",
+        "confidence": "low"
       }
     ]
   },
@@ -5288,6 +6408,13 @@
         "schoolLevel": "고등학교",
         "subject": "생명과학",
         "unit": "생명의 연속성과 다양성",
+        "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2015",
+        "schoolLevel": "고등학교",
+        "subject": "생명과학Ⅱ",
+        "unit": "생물의 진화와 다양성",
         "confidence": "medium"
       }
     ]
@@ -5315,6 +6442,13 @@
         "subject": "생명과학",
         "unit": "생명의 연속성과 다양성",
         "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2015",
+        "schoolLevel": "고등학교",
+        "subject": "생명과학Ⅱ",
+        "unit": "생물의 진화와 다양성",
+        "confidence": "medium"
       }
     ]
   },
@@ -5340,6 +6474,13 @@
         "schoolLevel": "고등학교",
         "subject": "생명과학Ⅰ",
         "unit": "사람의 물질대사",
+        "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "생명과학",
+        "unit": "생명시스템의 구성",
         "confidence": "medium"
       }
     ]
@@ -5367,6 +6508,13 @@
         "subject": "생명과학Ⅰ",
         "unit": "유전",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "생명과학",
+        "unit": "생명의 연속성과 다양성",
+        "confidence": "high"
       }
     ]
   },
@@ -5393,6 +6541,13 @@
         "subject": "생명과학Ⅰ",
         "unit": "생명과학의 이해",
         "confidence": "low"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "생명과학",
+        "unit": "생명시스템의 구성",
+        "confidence": "low"
       }
     ]
   },
@@ -5418,6 +6573,13 @@
         "schoolLevel": "고등학교",
         "subject": "생명과학",
         "unit": "생명시스템의 구성",
+        "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2015",
+        "schoolLevel": "고등학교",
+        "subject": "생명과학Ⅰ",
+        "unit": "사람의 물질대사",
         "confidence": "medium"
       }
     ]
@@ -5523,6 +6685,13 @@
         "subject": "생명과학",
         "unit": "생명시스템의 구성",
         "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2015",
+        "schoolLevel": "고등학교",
+        "subject": "생명과학Ⅰ",
+        "unit": "생명과학의 이해",
+        "confidence": "medium"
       }
     ]
   },
@@ -5627,6 +6796,13 @@
         "subject": "생명과학Ⅰ",
         "unit": "생명과학의 이해",
         "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "생명과학",
+        "unit": "생명시스템의 구성",
+        "confidence": "medium"
       }
     ]
   },
@@ -5678,6 +6854,13 @@
         "schoolLevel": "고등학교",
         "subject": "생명과학Ⅰ",
         "unit": "생명과학의 이해",
+        "confidence": "high"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "생명과학",
+        "unit": "생명시스템의 구성",
         "confidence": "high"
       }
     ]
@@ -5731,6 +6914,13 @@
         "subject": "생명과학Ⅰ",
         "unit": "생명과학의 이해",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "생명과학",
+        "unit": "생명시스템의 구성",
+        "confidence": "high"
       }
     ]
   },
@@ -5755,6 +6945,13 @@
         "curriculumYear": "2015",
         "schoolLevel": "고등학교",
         "subject": "생명과학Ⅰ",
+        "unit": "항상성과 몸의 조절",
+        "confidence": "low"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "생명과학",
         "unit": "항상성과 몸의 조절",
         "confidence": "low"
       }
@@ -5808,6 +7005,13 @@
         "schoolLevel": "고등학교",
         "subject": "생명과학Ⅰ",
         "unit": "생명과학의 이해",
+        "confidence": "high"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "생명과학",
+        "unit": "생명시스템의 구성",
         "confidence": "high"
       }
     ]

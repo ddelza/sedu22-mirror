@@ -864,6 +864,13 @@
         "subject": "통합과학",
         "unit": "지구 시스템",
         "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "통합과학1",
+        "unit": "시스템과 상호작용",
+        "confidence": "medium"
       }
     ]
   },
@@ -1440,6 +1447,13 @@
         "schoolLevel": "고등학교",
         "subject": "생명과학Ⅰ",
         "unit": "유전",
+        "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "생명과학",
+        "unit": "생명의 연속성과 다양성",
         "confidence": "medium"
       }
     ]
