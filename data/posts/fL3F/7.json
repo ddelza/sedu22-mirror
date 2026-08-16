@@ -24,8 +24,16 @@
       "subject": "전자기와 양자",
       "unit": "양자와 미시세계",
       "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "고등학교",
+      "subject": "물리학Ⅱ",
+      "unit": "파동과 물질의 성질",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "입자의 위치 측정을 중심으로 양자역학적 관측의 의미를 설명.",
-  "taggedAt": "2026-08-13T13:57:29.847Z"
+  "tagsNote": "입자의 위치 측정을 중심으로 양자역학적 관측의 의미를 설명. [보완: 양자역학(측정) 내용이라 2015 '물리학Ⅱ>파동과 물질의 성질' 역방향 보완]",
+  "taggedAt": "2026-08-13T13:57:29.847Z",
+  "verticalReviewedAt": "2026-08-16T08:23:11.639Z"
 }

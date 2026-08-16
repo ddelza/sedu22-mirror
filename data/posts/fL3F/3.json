@@ -24,8 +24,16 @@
       "subject": "지구과학Ⅰ",
       "unit": "외부 은하와 우주 팽창",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "고등학교",
+      "subject": "지구과학",
+      "unit": "태양계 천체와 별과 우주의 진화",
+      "confidence": "high"
     }
   ],
-  "tagsNote": "우주 가속팽창을 이해하는 방식(창발 개념) 심화 칼럼.",
-  "taggedAt": "2026-08-12T13:39:02.243Z"
+  "tagsNote": "우주 가속팽창을 이해하는 방식(창발 개념) 심화 칼럼. [보완: 2015 '외부 은하와 우주 팽창'↔2022 '태양계 천체와 별과 우주의 진화' 대응]",
+  "taggedAt": "2026-08-12T13:39:02.243Z",
+  "verticalReviewedAt": "2026-08-16T08:23:11.635Z"
 }
