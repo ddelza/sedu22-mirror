@@ -29,8 +29,16 @@
       "subject": "화학Ⅰ",
       "unit": "화학 결합과 분자의 세계",
       "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "고등학교",
+      "subject": "화학",
+      "unit": "물질의 구조와 성질",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "키랄성 화합물(아스코르브산) 동아리 실험 문의.",
-  "taggedAt": "2026-08-12T03:38:32.928Z"
+  "tagsNote": "키랄성 화합물(아스코르브산) 동아리 실험 문의. [보완: 2015 '화학 결합과 분자의 세계'↔2022 '물질의 구조와 성질' 수평 대응]",
+  "taggedAt": "2026-08-12T03:38:32.928Z",
+  "verticalReviewedAt": "2026-08-16T08:09:03.486Z"
 }

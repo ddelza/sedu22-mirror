@@ -29,8 +29,16 @@
       "category": "과학교사 업무",
       "topic": "과학실 관리",
       "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "고등학교",
+      "subject": "통합과학2",
+      "unit": "변화와 다양성",
+      "confidence": "high"
     }
   ],
-  "tagsNote": "중화반응 실험 1몰 농도 수산화나트륨/염산 위험성 질문(통합과학 명시).",
-  "taggedAt": "2026-08-12T03:38:32.921Z"
+  "tagsNote": "중화반응 실험 1몰 농도 수산화나트륨/염산 위험성 질문(통합과학 명시). [보완: 2015 '화학 변화'↔2022 '변화와 다양성' 수평 대응]",
+  "taggedAt": "2026-08-12T03:38:32.921Z",
+  "verticalReviewedAt": "2026-08-16T08:09:03.485Z"
 }

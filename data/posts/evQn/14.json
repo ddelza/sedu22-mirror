@@ -24,8 +24,16 @@
       "subject": "화학Ⅰ",
       "unit": "화학의 첫걸음",
       "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "고등학교",
+      "subject": "화학",
+      "unit": "화학의 언어",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "암모니아분수 실험(기체 용해) 고찰.",
-  "taggedAt": "2026-08-12T03:42:56.074Z"
+  "tagsNote": "암모니아분수 실험(기체 용해) 고찰. [보완: 2015 '화학의 첫걸음'↔2022 '화학의 언어' 수평 대응]",
+  "taggedAt": "2026-08-12T03:42:56.074Z",
+  "verticalReviewedAt": "2026-08-16T08:09:03.489Z"
 }

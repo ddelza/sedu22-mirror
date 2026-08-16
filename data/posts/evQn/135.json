@@ -24,8 +24,16 @@
       "subject": "화학Ⅰ",
       "unit": "화학의 첫걸음",
       "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "고등학교",
+      "subject": "화학",
+      "unit": "화학의 언어",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "분자량비 조건 만족하는 분자식 찾기 문제 질문.",
-  "taggedAt": "2026-08-12T03:42:56.064Z"
+  "tagsNote": "분자량비 조건 만족하는 분자식 찾기 문제 질문. [보완: 2015 '화학의 첫걸음'(분자량)↔2022 '화학의 언어' 수평 대응]",
+  "taggedAt": "2026-08-12T03:42:56.064Z",
+  "verticalReviewedAt": "2026-08-16T08:09:03.487Z"
 }

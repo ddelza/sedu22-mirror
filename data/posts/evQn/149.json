@@ -24,8 +24,16 @@
       "subject": "화학Ⅰ",
       "unit": "역동적인 화학 반응",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "고등학교",
+      "subject": "화학 반응의 세계",
+      "unit": "산화·환원 반응",
+      "confidence": "high"
     }
   ],
-  "tagsNote": "산화-환원 동시성 개념 질문.",
-  "taggedAt": "2026-08-12T03:42:56.092Z"
+  "tagsNote": "산화-환원 동시성 개념 질문. [보완: 2015 '역동적인 화학 반응'(산화환원)↔2022 진로선택 '화학 반응의 세계>산화·환원 반응' 대응]",
+  "taggedAt": "2026-08-12T03:42:56.092Z",
+  "verticalReviewedAt": "2026-08-16T08:09:03.495Z"
 }

@@ -24,8 +24,16 @@
       "subject": "화학Ⅰ",
       "unit": "역동적인 화학 반응",
       "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "고등학교",
+      "subject": "화학",
+      "unit": "역동적인 화학 반응",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "오호(Ooho) 캡슐 지시약 탐구활동(2).",
-  "taggedAt": "2026-08-12T03:38:32.892Z"
+  "tagsNote": "오호(Ooho) 캡슐 지시약 탐구활동(2). [보완: 2015 '역동적인 화학 반응'↔2022 동일 단원명 유지]",
+  "taggedAt": "2026-08-12T03:38:32.892Z",
+  "verticalReviewedAt": "2026-08-16T08:09:03.479Z"
 }

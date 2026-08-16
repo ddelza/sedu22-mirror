@@ -24,8 +24,16 @@
       "subject": "통합과학2",
       "unit": "환경과 에너지",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "고등학교",
+      "subject": "통합과학",
+      "unit": "발전과 신재생 에너지",
+      "confidence": "high"
     }
   ],
-  "tagsNote": "교과서에 없는 수소차 이야기(2022개정 통합과학 명시).",
-  "taggedAt": "2026-08-12T03:38:32.901Z"
+  "tagsNote": "교과서에 없는 수소차 이야기(2022개정 통합과학 명시). [보완: 2022만 있던 글에 2015 '발전과 신재생 에너지'(수소차) 역방향 보완]",
+  "taggedAt": "2026-08-12T03:38:32.901Z",
+  "verticalReviewedAt": "2026-08-16T08:09:03.483Z"
 }

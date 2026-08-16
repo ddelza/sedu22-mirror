@@ -29,8 +29,16 @@
       "category": "과학교사 업무",
       "topic": "과학실 관리",
       "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "고등학교",
+      "subject": "화학",
+      "unit": "물질의 구조와 성질",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "TLC 실험 자외선 램프 안전 사용법 질문.",
-  "taggedAt": "2026-08-12T03:38:32.906Z"
+  "tagsNote": "TLC 실험 자외선 램프 안전 사용법 질문. [보완: 2015 '화학 결합과 분자의 세계'↔2022 '물질의 구조와 성질' 수평 대응]",
+  "taggedAt": "2026-08-12T03:38:32.906Z",
+  "verticalReviewedAt": "2026-08-16T08:09:03.483Z"
 }

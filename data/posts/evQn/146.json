@@ -24,8 +24,16 @@
       "subject": "화학Ⅰ",
       "unit": "역동적인 화학 반응",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "고등학교",
+      "subject": "화학 반응의 세계",
+      "unit": "산화·환원 반응",
+      "confidence": "high"
     }
   ],
-  "tagsNote": "명탐정 코난 소재 산화환원반응 복습 자료.",
-  "taggedAt": "2026-08-12T03:42:56.088Z"
+  "tagsNote": "명탐정 코난 소재 산화환원반응 복습 자료. [보완: 2015 '역동적인 화학 반응'(산화환원)↔2022 진로선택 '화학 반응의 세계>산화·환원 반응' 대응]",
+  "taggedAt": "2026-08-12T03:42:56.088Z",
+  "verticalReviewedAt": "2026-08-16T08:09:03.493Z"
 }
