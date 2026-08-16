@@ -24,8 +24,16 @@
       "subject": "물리학Ⅰ",
       "unit": "역학과 에너지",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "고등학교",
+      "subject": "물리학",
+      "unit": "힘과 에너지",
+      "confidence": "high"
     }
   ],
-  "tagsNote": "돌림힘 계산 문제 검토 요청.",
-  "taggedAt": "2026-08-12T03:34:06.500Z"
+  "tagsNote": "돌림힘 계산 문제 검토 요청. [보완: 2015 '역학과 에너지'↔2022 '힘과 에너지' 수평 대응]",
+  "taggedAt": "2026-08-12T03:34:06.500Z",
+  "verticalReviewedAt": "2026-08-16T08:04:17.402Z"
 }

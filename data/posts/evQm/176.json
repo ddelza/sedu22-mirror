@@ -29,8 +29,16 @@
       "category": "스마트 수업도구",
       "topic": "MBL센서",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "고등학교",
+      "subject": "물리학",
+      "unit": "힘과 에너지",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "밝기센서/초음파센서로 진자의 주기 측정 비교.",
-  "taggedAt": "2026-08-12T03:35:30.416Z"
+  "tagsNote": "밝기센서/초음파센서로 진자의 주기 측정 비교. [보완: 2015 '역학과 에너지'↔2022 '힘과 에너지' 수평 대응]",
+  "taggedAt": "2026-08-12T03:35:30.416Z",
+  "verticalReviewedAt": "2026-08-16T08:04:17.412Z"
 }

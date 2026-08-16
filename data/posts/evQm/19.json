@@ -24,8 +24,16 @@
       "subject": "물리학Ⅰ",
       "unit": "파동과 정보통신",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "고등학교",
+      "subject": "물리학",
+      "unit": "빛과 물질",
+      "confidence": "low"
     }
   ],
-  "tagsNote": "소리의 간섭 실험(PhET 시뮬레이션, 원격수업).",
-  "taggedAt": "2026-08-12T03:35:30.429Z"
+  "tagsNote": "소리의 간섭 실험(PhET 시뮬레이션, 원격수업). [보완: 2015 '파동과 정보통신'↔2022 '빛과 물질' 수평 대응 (소리 간섭 자체는 2022 신설 '탄성파와 소리'에 더 가까워 낮은 확신도)]",
+  "taggedAt": "2026-08-12T03:35:30.429Z",
+  "verticalReviewedAt": "2026-08-16T08:04:17.416Z"
 }

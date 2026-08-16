@@ -24,8 +24,16 @@
       "subject": "물리학",
       "unit": "전기와 자기",
       "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "고등학교",
+      "subject": "물리학Ⅰ",
+      "unit": "물질과 전자기장",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "교류회로 실험용 주파수발생기 구매 문의.",
-  "taggedAt": "2026-08-12T03:35:30.417Z"
+  "tagsNote": "교류회로 실험용 주파수발생기 구매 문의. [보완: 2022만 있던 글에 2015 '물질과 전자기장' 역방향 보완]",
+  "taggedAt": "2026-08-12T03:35:30.417Z",
+  "verticalReviewedAt": "2026-08-16T08:04:17.413Z"
 }

@@ -24,8 +24,16 @@
       "subject": "물리학Ⅰ",
       "unit": "역학과 에너지",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "고등학교",
+      "subject": "물리학",
+      "unit": "힘과 에너지",
+      "confidence": "high"
     }
   ],
-  "tagsNote": "가속도-힘 관계 실험 수행평가 문의.",
-  "taggedAt": "2026-08-12T03:35:30.432Z"
+  "tagsNote": "가속도-힘 관계 실험 수행평가 문의. [보완: 2015 '역학과 에너지'↔2022 '힘과 에너지' 수평 대응]",
+  "taggedAt": "2026-08-12T03:35:30.432Z",
+  "verticalReviewedAt": "2026-08-16T08:04:17.416Z"
 }

@@ -24,8 +24,16 @@
       "subject": "물리학",
       "unit": "빛과 물질",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "고등학교",
+      "subject": "물리학Ⅱ",
+      "unit": "파동과 물질의 성질",
+      "confidence": "high"
     }
   ],
-  "tagsNote": "자외선 LED 켜기 실험(광전효과, 빛의 입자성).",
-  "taggedAt": "2026-08-12T03:34:06.503Z"
+  "tagsNote": "자외선 LED 켜기 실험(광전효과, 빛의 입자성). [보완: 광전효과 실험이라 2015 '물리학Ⅱ>파동과 물질의 성질' 역방향 보완]",
+  "taggedAt": "2026-08-12T03:34:06.503Z",
+  "verticalReviewedAt": "2026-08-16T08:04:17.405Z"
 }
