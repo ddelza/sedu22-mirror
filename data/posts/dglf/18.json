@@ -24,8 +24,16 @@
       "subject": "생명과학Ⅰ",
       "unit": "생명과학의 이해",
       "confidence": "low"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "고등학교",
+      "subject": "생명과학",
+      "unit": "생명시스템의 구성",
+      "confidence": "low"
     }
   ],
-  "tagsNote": "중1 세포관찰 수업을 고3 문과반과 진행한 사례.",
-  "taggedAt": "2026-08-12T00:25:53.974Z"
+  "tagsNote": "중1 세포관찰 수업을 고3 문과반과 진행한 사례. [보완: 2015 '생명과학의 이해'↔2022 '생명시스템의 구성' 수평 대응]",
+  "taggedAt": "2026-08-12T00:25:53.974Z",
+  "verticalReviewedAt": "2026-08-16T07:54:59.297Z"
 }

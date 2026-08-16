@@ -24,8 +24,16 @@
       "subject": "생명과학Ⅰ",
       "unit": "항상성과 몸의 조절",
       "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "고등학교",
+      "subject": "생명과학",
+      "unit": "항상성과 몸의 조절",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "감염병 관련 프로젝트 학습 예시자료(교육청 공문).",
-  "taggedAt": "2026-08-12T00:25:53.983Z"
+  "tagsNote": "감염병 관련 프로젝트 학습 예시자료(교육청 공문). [보완: 2015 '항상성과 몸의 조절'↔2022 동일 단원명 유지]",
+  "taggedAt": "2026-08-12T00:25:53.983Z",
+  "verticalReviewedAt": "2026-08-16T07:54:59.304Z"
 }

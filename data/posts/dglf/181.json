@@ -31,8 +31,16 @@
       "subject": "과학",
       "unit": "자극과 반응",
       "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "고등학교",
+      "subject": "생명과학",
+      "unit": "항상성과 몸의 조절",
+      "confidence": "high"
     }
   ],
-  "tagsNote": "감각뉴런 구조/신호전달 순서 질문(중학교 수업 중 의문).",
-  "taggedAt": "2026-08-12T00:25:53.975Z"
+  "tagsNote": "감각뉴런 구조/신호전달 순서 질문(중학교 수업 중 의문). [보완: 2015 '항상성과 몸의 조절'↔2022 동일 단원명 유지]",
+  "taggedAt": "2026-08-12T00:25:53.975Z",
+  "verticalReviewedAt": "2026-08-16T07:54:59.298Z"
 }

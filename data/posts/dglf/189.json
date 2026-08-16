@@ -31,8 +31,23 @@
       "subject": "생명과학Ⅰ",
       "unit": "항상성과 몸의 조절",
       "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "고등학교",
+      "subject": "생명과학",
+      "unit": "생명시스템의 구성",
+      "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "고등학교",
+      "subject": "생명과학",
+      "unit": "항상성과 몸의 조절",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "바이러스 관련 4시간 프로젝트 수업(가짜뉴스 판별 포함).",
-  "taggedAt": "2026-08-12T00:25:53.980Z"
+  "tagsNote": "바이러스 관련 4시간 프로젝트 수업(가짜뉴스 판별 포함). [보완: 2015 '생명과학의 이해'+'항상성과 몸의 조절' 둘 다 태깅되어 있어 2022 대응 단원 둘 다 보완]",
+  "taggedAt": "2026-08-12T00:25:53.980Z",
+  "verticalReviewedAt": "2026-08-16T07:54:59.302Z"
 }

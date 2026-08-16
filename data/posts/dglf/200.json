@@ -24,8 +24,16 @@
       "subject": "생명과학Ⅰ",
       "unit": "항상성과 몸의 조절",
       "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "고등학교",
+      "subject": "생명과학",
+      "unit": "항상성과 몸의 조절",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "코로나 바이러스 구조/소독 관련 질문 모음.",
-  "taggedAt": "2026-08-12T03:12:26.713Z"
+  "tagsNote": "코로나 바이러스 구조/소독 관련 질문 모음. [보완: 2015 '항상성과 몸의 조절'↔2022 동일 단원명 유지]",
+  "taggedAt": "2026-08-12T03:12:26.713Z",
+  "verticalReviewedAt": "2026-08-16T07:54:59.308Z"
 }

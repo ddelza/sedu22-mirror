@@ -24,8 +24,16 @@
       "subject": "생명과학Ⅰ",
       "unit": "항상성과 몸의 조절",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "고등학교",
+      "subject": "생명과학",
+      "unit": "항상성과 몸의 조절",
+      "confidence": "high"
     }
   ],
-  "tagsNote": "생물의 특성(항상성 vs 자극반응/물질대사) 구분 문제 이의제기.",
-  "taggedAt": "2026-08-12T00:25:53.955Z"
+  "tagsNote": "생물의 특성(항상성 vs 자극반응/물질대사) 구분 문제 이의제기. [보완: 2015 '항상성과 몸의 조절'↔2022 동일 단원명 유지]",
+  "taggedAt": "2026-08-12T00:25:53.955Z",
+  "verticalReviewedAt": "2026-08-16T07:54:16.197Z"
 }

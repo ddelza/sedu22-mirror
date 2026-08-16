@@ -24,8 +24,16 @@
       "subject": "생명과학Ⅰ",
       "unit": "항상성과 몸의 조절",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "고등학교",
+      "subject": "생명과학",
+      "unit": "항상성과 몸의 조절",
+      "confidence": "high"
     }
   ],
-  "tagsNote": "근수축 관련 10분 영상 활동(스펀지제로).",
-  "taggedAt": "2026-08-12T00:25:53.976Z"
+  "tagsNote": "근수축 관련 10분 영상 활동(스펀지제로). [보완: 2015 '항상성과 몸의 조절'↔2022 동일 단원명 유지]",
+  "taggedAt": "2026-08-12T00:25:53.976Z",
+  "verticalReviewedAt": "2026-08-16T07:54:59.299Z"
 }

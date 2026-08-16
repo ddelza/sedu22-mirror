@@ -24,8 +24,16 @@
       "subject": "생명과학",
       "unit": "생명시스템의 구성",
       "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "고등학교",
+      "subject": "생명과학Ⅰ",
+      "unit": "사람의 물질대사",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "생명체 구성물질(스테로이드 등) 관련 뉴스 자료.",
-  "taggedAt": "2026-08-12T00:25:53.966Z"
+  "tagsNote": "생명체 구성물질(스테로이드 등) 관련 뉴스 자료. [보완: 2022만 있던 글에 2015 '사람의 물질대사'(생체 구성물질) 역방향 보완]",
+  "taggedAt": "2026-08-12T00:25:53.966Z",
+  "verticalReviewedAt": "2026-08-16T07:54:16.203Z"
 }

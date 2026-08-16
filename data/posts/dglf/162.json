@@ -29,8 +29,16 @@
       "subject": "생명과학Ⅰ",
       "unit": "유전",
       "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "고등학교",
+      "subject": "생명과학",
+      "unit": "생명의 연속성과 다양성",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "생명과학 동아리 2학기 실험주제(초파리 교배실험) 고민.",
-  "taggedAt": "2026-08-12T00:25:53.963Z"
+  "tagsNote": "생명과학 동아리 2학기 실험주제(초파리 교배실험) 고민. [보완: 2015 '유전'(초파리 교배)↔2022 '생명의 연속성과 다양성' 수평 대응]",
+  "taggedAt": "2026-08-12T00:25:53.963Z",
+  "verticalReviewedAt": "2026-08-16T07:54:16.202Z"
 }

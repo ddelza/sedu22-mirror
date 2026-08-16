@@ -24,8 +24,16 @@
       "subject": "생명과학Ⅰ",
       "unit": "생태계와 상호 작용",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "고등학교",
+      "subject": "생명과학",
+      "unit": "생명시스템의 구성",
+      "confidence": "high"
     }
   ],
-  "tagsNote": "학교 식물지도 만들기(생태계 단원 수행/세특 활동).",
-  "taggedAt": "2026-08-12T00:25:53.970Z"
+  "tagsNote": "학교 식물지도 만들기(생태계 단원 수행/세특 활동). [보완: 2015 '생태계와 상호 작용'↔2022 '생명시스템의 구성' 수평 대응]",
+  "taggedAt": "2026-08-12T00:25:53.970Z",
+  "verticalReviewedAt": "2026-08-16T07:54:16.206Z"
 }
