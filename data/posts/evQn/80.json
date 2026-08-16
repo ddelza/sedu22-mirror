@@ -24,8 +24,16 @@
       "subject": "화학Ⅰ",
       "unit": "화학의 첫걸음",
       "confidence": "low"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "고등학교",
+      "subject": "화학",
+      "unit": "화학의 언어",
+      "confidence": "low"
     }
   ],
-  "tagsNote": "상댓값(몰 개념) 관련 보기 오류 여부 질문.",
-  "taggedAt": "2026-08-12T03:44:21.908Z"
+  "tagsNote": "상댓값(몰 개념) 관련 보기 오류 여부 질문. [보완: 2015 '화학의 첫걸음'(상댓값)↔2022 '화학의 언어' 수평 대응]",
+  "taggedAt": "2026-08-12T03:44:21.908Z",
+  "verticalReviewedAt": "2026-08-16T08:11:05.353Z"
 }

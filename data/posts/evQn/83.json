@@ -28,8 +28,16 @@
       "category": "과학교사 업무",
       "topic": "과학실 관리",
       "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "고등학교",
+      "subject": "화학",
+      "unit": "화학의 언어",
+      "confidence": "high"
     }
   ],
-  "tagsNote": "화학반응의 양적관계 실험(탄산칼슘+염산) 폐수처리 질문.",
-  "taggedAt": "2026-08-12T03:44:21.915Z"
+  "tagsNote": "화학반응의 양적관계 실험(탄산칼슘+염산) 폐수처리 질문. [보완: 2015 '화학의 첫걸음'(양적관계)↔2022 '화학의 언어' 수평 대응]",
+  "taggedAt": "2026-08-12T03:44:21.915Z",
+  "verticalReviewedAt": "2026-08-16T08:11:05.355Z"
 }

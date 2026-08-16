@@ -24,8 +24,16 @@
       "subject": "화학Ⅰ",
       "unit": "화학의 첫걸음",
       "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "고등학교",
+      "subject": "화학",
+      "unit": "화학의 언어",
+      "confidence": "low"
     }
   ],
-  "tagsNote": "밀도 차이 수용액 속 얼음 잠긴 부피 계산 질문.",
-  "taggedAt": "2026-08-12T03:44:21.900Z"
+  "tagsNote": "밀도 차이 수용액 속 얼음 잠긴 부피 계산 질문. [보완: 2015 '화학의 첫걸음'↔2022 '화학의 언어' 수평 대응]",
+  "taggedAt": "2026-08-12T03:44:21.900Z",
+  "verticalReviewedAt": "2026-08-16T08:11:05.348Z"
 }

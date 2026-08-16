@@ -24,8 +24,16 @@
       "subject": "화학Ⅰ",
       "unit": "화학의 첫걸음",
       "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "고등학교",
+      "subject": "화학",
+      "unit": "화학의 언어",
+      "confidence": "low"
     }
   ],
-  "tagsNote": "얼음이 녹아도 물 높이가 변하지 않는 이유(밀도/부력) 설명.",
-  "taggedAt": "2026-08-12T03:44:21.905Z"
+  "tagsNote": "얼음이 녹아도 물 높이가 변하지 않는 이유(밀도/부력) 설명. [보완: 2015 '화학의 첫걸음'↔2022 '화학의 언어' 수평 대응]",
+  "taggedAt": "2026-08-12T03:44:21.905Z",
+  "verticalReviewedAt": "2026-08-16T08:11:05.352Z"
 }

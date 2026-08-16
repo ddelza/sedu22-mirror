@@ -23,8 +23,16 @@
       "subject": "화학",
       "unit": "산화·환원 반응",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "고등학교",
+      "subject": "화학Ⅱ",
+      "unit": "전기 화학과 이용",
+      "confidence": "high"
     }
   ],
-  "tagsNote": "염화나트륨 용융액 전기분해 반응식 채점 질문.",
-  "taggedAt": "2026-08-12T03:45:53.138Z"
+  "tagsNote": "염화나트륨 용융액 전기분해 반응식 채점 질문. [보완: 전기분해 화학반응식 내용이라 2015 '화학Ⅱ>전기 화학과 이용' 역방향 보완]",
+  "taggedAt": "2026-08-12T03:45:53.138Z",
+  "verticalReviewedAt": "2026-08-16T08:11:05.356Z"
 }
