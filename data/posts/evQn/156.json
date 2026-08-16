@@ -24,8 +24,16 @@
       "subject": "화학",
       "unit": "산 염기 평형",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "고등학교",
+      "subject": "화학Ⅰ",
+      "unit": "역동적인 화학 반응",
+      "confidence": "high"
     }
   ],
-  "tagsNote": "제산제 역적정(정량분석) 실험 프로토콜.",
-  "taggedAt": "2026-08-12T03:42:56.101Z"
+  "tagsNote": "제산제 역적정(정량분석) 실험 프로토콜. [보완: 2022만 있던 글에 2015 '역동적인 화학 반응'(중화적정) 역방향 보완]",
+  "taggedAt": "2026-08-12T03:42:56.101Z",
+  "verticalReviewedAt": "2026-08-16T08:10:05.697Z"
 }

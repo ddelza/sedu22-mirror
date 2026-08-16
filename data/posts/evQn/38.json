@@ -24,8 +24,16 @@
       "subject": "화학Ⅰ",
       "unit": "역동적인 화학 반응",
       "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "고등학교",
+      "subject": "화학",
+      "unit": "역동적인 화학 반응",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "페놀프탈레인 염기성 색 범위(붉은색/자줏빛) 질문.",
-  "taggedAt": "2026-08-12T03:42:56.119Z"
+  "tagsNote": "페놀프탈레인 염기성 색 범위(붉은색/자줏빛) 질문. [보완: 2015 '역동적인 화학 반응'(중화반응 지시약)↔2022 동일 단원명 유지]",
+  "taggedAt": "2026-08-12T03:42:56.119Z",
+  "verticalReviewedAt": "2026-08-16T08:10:05.704Z"
 }

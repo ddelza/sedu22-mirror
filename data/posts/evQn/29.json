@@ -24,8 +24,16 @@
       "subject": "화학Ⅰ",
       "unit": "역동적인 화학 반응",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "고등학교",
+      "subject": "물질과 에너지",
+      "unit": "반응 속도",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "농도에 따른 반응속도(싸이오황산나트륨+염산) 실험.",
-  "taggedAt": "2026-08-12T03:42:56.111Z"
+  "tagsNote": "농도에 따른 반응속도(싸이오황산나트륨+염산) 실험. [보완: 0차·1차 반응 등 반응 차수 내용이라 2022 진로선택 '물질과 에너지>반응 속도' 대응]",
+  "taggedAt": "2026-08-12T03:42:56.111Z",
+  "verticalReviewedAt": "2026-08-16T08:10:05.702Z"
 }
