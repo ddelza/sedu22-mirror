@@ -24,8 +24,16 @@
       "subject": "생명과학",
       "unit": "생명시스템의 구성",
       "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "고등학교",
+      "subject": "생명과학Ⅰ",
+      "unit": "생명과학의 이해",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "생명체의 구성체제 개념카드 배열 활동(업그레이드판).",
-  "taggedAt": "2026-08-12T03:15:16.289Z"
+  "tagsNote": "생명체의 구성체제 개념카드 배열 활동(업그레이드판). [보완: 2022만 있던 글에 2015 '생명과학의 이해'(생명체 구성체제) 역방향 보완]",
+  "taggedAt": "2026-08-12T03:15:16.289Z",
+  "verticalReviewedAt": "2026-08-16T07:58:29.039Z"
 }

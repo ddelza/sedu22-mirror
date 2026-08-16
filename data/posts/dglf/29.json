@@ -24,8 +24,16 @@
       "subject": "생명과학Ⅰ",
       "unit": "생명과학의 이해",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "고등학교",
+      "subject": "생명과학",
+      "unit": "생명시스템의 구성",
+      "confidence": "high"
     }
   ],
-  "tagsNote": "T4파지(박테리오파지) 모형 만들기 수업.",
-  "taggedAt": "2026-08-12T03:15:16.284Z"
+  "tagsNote": "T4파지(박테리오파지) 모형 만들기 수업. [보완: 2015 '생명과학의 이해'(바이러스)↔2022 '생명시스템의 구성' 수평 대응]",
+  "taggedAt": "2026-08-12T03:15:16.284Z",
+  "verticalReviewedAt": "2026-08-16T07:58:29.037Z"
 }

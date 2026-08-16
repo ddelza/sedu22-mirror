@@ -24,8 +24,16 @@
       "subject": "생명과학Ⅰ",
       "unit": "항상성과 몸의 조절",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "고등학교",
+      "subject": "생명과학",
+      "unit": "항상성과 몸의 조절",
+      "confidence": "high"
     }
   ],
-  "tagsNote": "방어작용 수업 공유3(백신, 2차 면역반응).",
-  "taggedAt": "2026-08-12T03:13:59.147Z"
+  "tagsNote": "방어작용 수업 공유3(백신, 2차 면역반응). [보완: 2015 '항상성과 몸의 조절'↔2022 동일 단원명 유지]",
+  "taggedAt": "2026-08-12T03:13:59.147Z",
+  "verticalReviewedAt": "2026-08-16T07:57:43.083Z"
 }

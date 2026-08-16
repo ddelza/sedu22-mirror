@@ -29,8 +29,16 @@
       "category": "스마트 수업도구",
       "topic": "앱/프로그램",
       "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "고등학교",
+      "subject": "통합과학",
+      "unit": "생명 시스템",
+      "confidence": "high"
     }
   ],
-  "tagsNote": "로블록스 기반 중심원리(유전정보 흐름) 방탈출 수업(통합과학1 명시).",
-  "taggedAt": "2026-08-12T03:13:59.152Z"
+  "tagsNote": "로블록스 기반 중심원리(유전정보 흐름) 방탈출 수업(통합과학1 명시). [보완: 2022만 있던 글에 2015 '생명 시스템'(중심원리) 역방향 보완]",
+  "taggedAt": "2026-08-12T03:13:59.152Z",
+  "verticalReviewedAt": "2026-08-16T07:57:43.085Z"
 }

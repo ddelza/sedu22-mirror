@@ -24,8 +24,16 @@
       "subject": "생명과학Ⅰ",
       "unit": "유전",
       "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "고등학교",
+      "subject": "생물의 유전",
+      "unit": "유전자의 발현",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "NCBI/알파폴드 활용 단백질 구조 탐구 수행평가.",
-  "taggedAt": "2026-08-12T03:13:59.128Z"
+  "tagsNote": "NCBI/알파폴드 활용 단백질 구조 탐구 수행평가. [보완: 유전자 발현·단백질 구조 탐구 내용이라 2022 진로선택 '생물의 유전>유전자의 발현'과 대응]",
+  "taggedAt": "2026-08-12T03:13:59.128Z",
+  "verticalReviewedAt": "2026-08-16T07:57:43.073Z"
 }

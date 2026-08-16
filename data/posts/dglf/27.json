@@ -24,8 +24,16 @@
       "subject": "생명과학Ⅰ",
       "unit": "생명과학의 이해",
       "confidence": "low"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "고등학교",
+      "subject": "생명과학",
+      "unit": "생명시스템의 구성",
+      "confidence": "low"
     }
   ],
-  "tagsNote": "성균관대 K-mooc 생명과학 강의 영상 소개.",
-  "taggedAt": "2026-08-12T03:13:59.143Z"
+  "tagsNote": "성균관대 K-mooc 생명과학 강의 영상 소개. [보완: 2015 '생명과학의 이해'↔2022 '생명시스템의 구성' 수평 대응]",
+  "taggedAt": "2026-08-12T03:13:59.143Z",
+  "verticalReviewedAt": "2026-08-16T07:57:43.081Z"
 }

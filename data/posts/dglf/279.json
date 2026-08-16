@@ -29,8 +29,16 @@
       "category": "스마트 수업도구",
       "topic": "생성형 AI 도구",
       "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "고등학교",
+      "subject": "통합과학",
+      "unit": "생물다양성과 유지",
+      "confidence": "high"
     }
   ],
-  "tagsNote": "통합과학2 자연선택 모의실험 웹앱(캔바AI 제작).",
-  "taggedAt": "2026-08-12T03:13:59.162Z"
+  "tagsNote": "통합과학2 자연선택 모의실험 웹앱(캔바AI 제작). [보완: 2022만 있던 글에 2015 '생물다양성과 유지'(자연선택) 역방향 보완]",
+  "taggedAt": "2026-08-12T03:13:59.162Z",
+  "verticalReviewedAt": "2026-08-16T07:58:29.036Z"
 }

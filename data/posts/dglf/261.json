@@ -24,8 +24,16 @@
       "subject": "생명과학Ⅰ",
       "unit": "사람의 물질대사",
       "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "고등학교",
+      "subject": "생명과학",
+      "unit": "생명시스템의 구성",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "TCA회로 짝활동 시나리오(평가문항 생성기 활용 후기).",
-  "taggedAt": "2026-08-12T03:13:59.130Z"
+  "tagsNote": "TCA회로 짝활동 시나리오(평가문항 생성기 활용 후기). [보완: 2015 '사람의 물질대사'(TCA회로)↔2022 '생명시스템의 구성' 수평 대응]",
+  "taggedAt": "2026-08-12T03:13:59.130Z",
+  "verticalReviewedAt": "2026-08-16T07:57:43.075Z"
 }

@@ -29,8 +29,16 @@
       "category": "스마트 수업도구",
       "topic": "앱/프로그램",
       "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "고등학교",
+      "subject": "생명과학Ⅱ",
+      "unit": "세포의 특성",
+      "confidence": "high"
     }
   ],
-  "tagsNote": "세포의 크기 측정(마이크로미터) 웹앱 제작.",
-  "taggedAt": "2026-08-12T03:15:16.280Z"
+  "tagsNote": "세포의 크기 측정(마이크로미터) 웹앱 제작. [보완: 2022만 있던 글에 2015 '세포의 특성'(세포 크기 측정) 역방향 보완]",
+  "taggedAt": "2026-08-12T03:15:16.280Z",
+  "verticalReviewedAt": "2026-08-16T07:58:29.036Z"
 }

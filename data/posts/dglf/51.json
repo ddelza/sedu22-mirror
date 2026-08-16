@@ -24,8 +24,16 @@
       "subject": "생명과학",
       "unit": "생명시스템의 구성",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "고등학교",
+      "subject": "생명과학Ⅰ",
+      "unit": "사람의 물질대사",
+      "confidence": "high"
     }
   ],
-  "tagsNote": "생명체 구성물질과 세포 구조 모둠별 프로젝트 계획.",
-  "taggedAt": "2026-08-12T03:15:16.311Z"
+  "tagsNote": "생명체 구성물질과 세포 구조 모둠별 프로젝트 계획. [보완: 2022만 있던 글에 2015 '사람의 물질대사'(생명체 구성물질·세포구조) 역방향 보완]",
+  "taggedAt": "2026-08-12T03:15:16.311Z",
+  "verticalReviewedAt": "2026-08-16T07:58:29.047Z"
 }

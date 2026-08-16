@@ -24,8 +24,16 @@
       "subject": "생명과학Ⅰ",
       "unit": "유전",
       "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "고등학교",
+      "subject": "생물의 유전",
+      "unit": "유전자와 유전물질",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "DNA칩 기능(생명과학2) 수행평가 채점 관련 논의.",
-  "taggedAt": "2026-08-12T03:15:16.317Z"
+  "tagsNote": "DNA칩 기능(생명과학2) 수행평가 채점 관련 논의. [보완: DNA칩·염기서열분석 내용이라 2022 진로선택 '생물의 유전>유전자와 유전물질'과 대응]",
+  "taggedAt": "2026-08-12T03:15:16.317Z",
+  "verticalReviewedAt": "2026-08-16T07:58:29.049Z"
 }

@@ -24,8 +24,16 @@
       "subject": "과학탐구실험",
       "unit": "생활 속의 과학 탐구",
       "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "고등학교",
+      "subject": "과학탐구실험2",
+      "unit": "생활 속의 과학 탐구",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "에탄올 농도에 따른 살균효과 탐구 포스터.",
-  "taggedAt": "2026-08-12T03:13:59.156Z"
+  "tagsNote": "에탄올 농도에 따른 살균효과 탐구 포스터. [보완: 2015 '생활속의과학탐구'↔2022 '과학탐구실험2 생활속의과학탐구' 수평 대응]",
+  "taggedAt": "2026-08-12T03:13:59.156Z",
+  "verticalReviewedAt": "2026-08-16T07:57:43.086Z"
 }

@@ -24,8 +24,16 @@
       "subject": "생명과학Ⅰ",
       "unit": "항상성과 몸의 조절",
       "confidence": "low"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "고등학교",
+      "subject": "생명과학",
+      "unit": "항상성과 몸의 조절",
+      "confidence": "low"
     }
   ],
-  "tagsNote": "이세돌 vs 알파고(뇌의 학습, AI 윤리) 수업 아이디어 요청.",
-  "taggedAt": "2026-08-12T03:15:16.285Z"
+  "tagsNote": "이세돌 vs 알파고(뇌의 학습, AI 윤리) 수업 아이디어 요청. [보완: 2015 '항상성과 몸의 조절'↔2022 동일 단원명 유지]",
+  "taggedAt": "2026-08-12T03:15:16.285Z",
+  "verticalReviewedAt": "2026-08-16T07:58:29.038Z"
 }
