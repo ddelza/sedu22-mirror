@@ -24,8 +24,16 @@
       "subject": "물리학Ⅰ",
       "unit": "역학과 에너지",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "고등학교",
+      "subject": "물리학",
+      "unit": "힘과 에너지",
+      "confidence": "high"
     }
   ],
-  "tagsNote": "포물선 운동 시범 실험(공놀이총 슬로우모션).",
-  "taggedAt": "2026-08-12T03:35:30.436Z"
+  "tagsNote": "포물선 운동 시범 실험(공놀이총 슬로우모션). [보완: 2015 '역학과 에너지'↔2022 '힘과 에너지' 수평 대응]",
+  "taggedAt": "2026-08-12T03:35:30.436Z",
+  "verticalReviewedAt": "2026-08-16T08:05:23.378Z"
 }

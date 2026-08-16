@@ -24,8 +24,16 @@
       "subject": "물리학",
       "unit": "빛과 물질",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "고등학교",
+      "subject": "물리학Ⅰ",
+      "unit": "역학과 에너지",
+      "confidence": "high"
     }
   ],
-  "tagsNote": "질량에너지 등가원리(E=mc²) 공식 유도 설명.",
-  "taggedAt": "2026-08-12T03:36:53.766Z"
+  "tagsNote": "질량에너지 등가원리(E=mc²) 공식 유도 설명. [보완: 2022만 있던 글에 2015 '역학과 에너지'(질량-에너지 등가원리) 역방향 보완]",
+  "taggedAt": "2026-08-12T03:36:53.766Z",
+  "verticalReviewedAt": "2026-08-16T08:05:23.390Z"
 }

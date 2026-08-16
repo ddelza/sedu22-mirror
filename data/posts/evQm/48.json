@@ -24,8 +24,16 @@
       "subject": "물리학Ⅰ",
       "unit": "역학과 에너지",
       "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "고등학교",
+      "subject": "물리학",
+      "unit": "힘과 에너지",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "압력이 벡터/스칼라인지 질문.",
-  "taggedAt": "2026-08-12T03:36:53.764Z"
+  "tagsNote": "압력이 벡터/스칼라인지 질문. [보완: 2015 '역학과 에너지'↔2022 '힘과 에너지' 수평 대응]",
+  "taggedAt": "2026-08-12T03:36:53.764Z",
+  "verticalReviewedAt": "2026-08-16T08:05:23.389Z"
 }

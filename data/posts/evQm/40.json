@@ -24,8 +24,16 @@
       "subject": "물리학",
       "unit": "빛과 물질",
       "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "고등학교",
+      "subject": "물리학Ⅰ",
+      "unit": "역학과 에너지",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "상대성이론 모순 관련 도서 추천 요청.",
-  "taggedAt": "2026-08-12T03:35:30.464Z"
+  "tagsNote": "상대성이론 모순 관련 도서 추천 요청. [보완: 2022만 있던 글에 2015 '역학과 에너지'(상대성이론) 역방향 보완]",
+  "taggedAt": "2026-08-12T03:35:30.464Z",
+  "verticalReviewedAt": "2026-08-16T08:05:23.384Z"
 }
