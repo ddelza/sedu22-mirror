@@ -23,8 +23,16 @@
       "subject": "화학Ⅰ",
       "unit": "화학의 첫걸음",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "고등학교",
+      "subject": "화학",
+      "unit": "역동적인 화학 반응",
+      "confidence": "high"
     }
   ],
-  "tagsNote": "몰농도 계산(부피 V 값) 문제풀이 요청.",
-  "taggedAt": "2026-08-12T03:45:53.154Z"
+  "tagsNote": "몰농도 계산(부피 V 값) 문제풀이 요청. [보완: 2015 '화학의 첫걸음'(몰농도)↔2022 '역동적인 화학 반응' 대응]",
+  "taggedAt": "2026-08-12T03:45:53.154Z",
+  "verticalReviewedAt": "2026-08-16T08:12:33.274Z"
 }

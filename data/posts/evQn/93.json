@@ -23,8 +23,16 @@
       "subject": "화학Ⅰ",
       "unit": "역동적인 화학 반응",
       "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "고등학교",
+      "subject": "화학 반응의 세계",
+      "unit": "산화·환원 반응",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "리튬이온배터리 원리(산화환원 vs 이동) 질문.",
-  "taggedAt": "2026-08-12T03:45:53.147Z"
+  "tagsNote": "리튬이온배터리 원리(산화환원 vs 이동) 질문. [보완: 화학전지(리튬이온배터리) 내용이라 2022 진로선택 '화학 반응의 세계>산화·환원 반응' 대응]",
+  "taggedAt": "2026-08-12T03:45:53.147Z",
+  "verticalReviewedAt": "2026-08-16T08:12:33.272Z"
 }

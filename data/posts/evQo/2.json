@@ -24,8 +24,16 @@
       "subject": "지구과학Ⅰ",
       "unit": "지권의 변동",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "고등학교",
+      "subject": "지구과학",
+      "unit": "지구의 역사와 한반도의 암석",
+      "confidence": "high"
     }
   ],
-  "tagsNote": "광물가루를 이용한 화성암 분류표 실험.",
-  "taggedAt": "2026-08-12T03:45:53.168Z"
+  "tagsNote": "광물가루를 이용한 화성암 분류표 실험. [보완: 2015 '지권의 변동'(화성암 생성)↔2022 '지구의 역사와 한반도의 암석' 대응]",
+  "taggedAt": "2026-08-12T03:45:53.168Z",
+  "verticalReviewedAt": "2026-08-16T08:12:33.281Z"
 }

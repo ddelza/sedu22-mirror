@@ -24,8 +24,16 @@
       "subject": "지구과학",
       "unit": "태양계 천체와 별과 우주의 진화",
       "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "고등학교",
+      "subject": "지구과학Ⅱ",
+      "unit": "행성의 운동",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "내행성의 겉보기 운동 시뮬레이션 영상.",
-  "taggedAt": "2026-08-12T03:45:53.157Z"
+  "tagsNote": "내행성의 겉보기 운동 시뮬레이션 영상. [보완: 2022만 있던 글에 2015 '지구과학Ⅱ>행성의 운동'(내행성 겉보기운동) 역방향 보완]",
+  "taggedAt": "2026-08-12T03:45:53.157Z",
+  "verticalReviewedAt": "2026-08-16T08:12:33.276Z"
 }

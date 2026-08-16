@@ -23,8 +23,16 @@
       "subject": "화학Ⅰ",
       "unit": "역동적인 화학 반응",
       "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "고등학교",
+      "subject": "화학",
+      "unit": "역동적인 화학 반응",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "페놀프탈레인 색 변화(시간 경과 탈색) 원인 질문.",
-  "taggedAt": "2026-08-12T03:45:53.148Z"
+  "tagsNote": "페놀프탈레인 색 변화(시간 경과 탈색) 원인 질문. [보완: 2015 '역동적인 화학 반응'(중화반응 지시약)↔2022 동일 단원명 유지]",
+  "taggedAt": "2026-08-12T03:45:53.148Z",
+  "verticalReviewedAt": "2026-08-16T08:12:33.273Z"
 }

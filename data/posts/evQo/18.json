@@ -29,8 +29,16 @@
       "category": "과학교사 업무",
       "topic": "과학 행사",
       "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "고등학교",
+      "subject": "지구과학",
+      "unit": "태양계 천체와 별과 우주의 진화",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "천체망원경 구입 및 천체관측활동 참고자료.",
-  "taggedAt": "2026-08-12T03:45:53.166Z"
+  "tagsNote": "천체망원경 구입 및 천체관측활동 참고자료. [보완: 2015 '별과 외계 행성계'↔2022 '태양계 천체와 별과 우주의 진화' 대응]",
+  "taggedAt": "2026-08-12T03:45:53.166Z",
+  "verticalReviewedAt": "2026-08-16T08:12:33.279Z"
 }

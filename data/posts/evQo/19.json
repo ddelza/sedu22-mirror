@@ -24,8 +24,16 @@
       "subject": "지구과학Ⅰ",
       "unit": "별과 외계 행성계",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "고등학교",
+      "subject": "행성우주과학",
+      "unit": "우주탐사와 행성계",
+      "confidence": "high"
     }
   ],
-  "tagsNote": "지평좌표계/적도좌표계 3D 설명 영상.",
-  "taggedAt": "2026-08-12T03:45:53.167Z"
+  "tagsNote": "지평좌표계/적도좌표계 3D 설명 영상. [보완: 지평·적도 좌표계 내용이라 2022 진로선택 '행성우주과학>우주탐사와 행성계' 대응]",
+  "taggedAt": "2026-08-12T03:45:53.167Z",
+  "verticalReviewedAt": "2026-08-16T08:12:33.280Z"
 }

@@ -23,8 +23,16 @@
       "subject": "화학Ⅰ",
       "unit": "화학 결합과 분자의 세계",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "고등학교",
+      "subject": "화학",
+      "unit": "물질의 구조와 성질",
+      "confidence": "high"
     }
   ],
-  "tagsNote": "공유결합물질 화학식 표기 순서(전기음성도) 질문.",
-  "taggedAt": "2026-08-12T03:45:53.144Z"
+  "tagsNote": "공유결합물질 화학식 표기 순서(전기음성도) 질문. [보완: 2015 '화학 결합과 분자의 세계'↔2022 '물질의 구조와 성질' 수평 대응]",
+  "taggedAt": "2026-08-12T03:45:53.144Z",
+  "verticalReviewedAt": "2026-08-16T08:12:33.270Z"
 }

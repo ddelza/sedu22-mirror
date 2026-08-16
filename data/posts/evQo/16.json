@@ -24,8 +24,16 @@
       "subject": "지구과학Ⅰ",
       "unit": "대기와 해양의 변화",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "고등학교",
+      "subject": "지구과학",
+      "unit": "대기와 해양의 상호작용",
+      "confidence": "high"
     }
   ],
-  "tagsNote": "대서양 심층수괴 입체모형 전개도 자료.",
-  "taggedAt": "2026-08-12T03:45:53.163Z"
+  "tagsNote": "대서양 심층수괴 입체모형 전개도 자료. [보완: 2015 '대기와 해양의 변화'(심층수괴)↔2022 '대기와 해양의 상호작용' 대응]",
+  "taggedAt": "2026-08-12T03:45:53.163Z",
+  "verticalReviewedAt": "2026-08-16T08:12:33.278Z"
 }

@@ -24,8 +24,16 @@
       "subject": "지구과학Ⅰ",
       "unit": "지권의 변동",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "고등학교",
+      "subject": "지구시스템과학",
+      "unit": "지구 탄생과 생동하는 지구",
+      "confidence": "high"
     }
   ],
-  "tagsNote": "판구조론 시뮬레이터(외국자료) 소개.",
-  "taggedAt": "2026-08-12T03:45:53.159Z"
+  "tagsNote": "판구조론 시뮬레이터(외국자료) 소개. [보완: 2015 '지권의 변동'(판구조론)↔2022 진로선택 '지구시스템과학>지구 탄생과 생동하는 지구' 대응]",
+  "taggedAt": "2026-08-12T03:45:53.159Z",
+  "verticalReviewedAt": "2026-08-16T08:12:33.277Z"
 }

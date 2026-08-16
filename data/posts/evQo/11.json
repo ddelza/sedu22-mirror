@@ -24,8 +24,16 @@
       "subject": "지구과학Ⅰ",
       "unit": "외부 은하와 우주 팽창",
       "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "고등학교",
+      "subject": "지구과학",
+      "unit": "태양계 천체와 별과 우주의 진화",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "은하 분류/외계행성 찾기 시민과학 프로젝트(Zooniverse).",
-  "taggedAt": "2026-08-12T03:45:53.156Z"
+  "tagsNote": "은하 분류/외계행성 찾기 시민과학 프로젝트(Zooniverse). [보완: 2015 '외부 은하와 우주 팽창'(은하 분류)↔2022 '태양계 천체와 별과 우주의 진화' 대응]",
+  "taggedAt": "2026-08-12T03:45:53.156Z",
+  "verticalReviewedAt": "2026-08-16T08:12:33.275Z"
 }

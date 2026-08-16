@@ -24,8 +24,16 @@
       "subject": "지구과학Ⅰ",
       "unit": "대기와 해양의 변화",
       "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "고등학교",
+      "subject": "지구과학",
+      "unit": "대기와 해양의 상호작용",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "구름 종류 식별 도움 요청.",
-  "taggedAt": "2026-08-12T03:45:53.161Z"
+  "tagsNote": "구름 종류 식별 도움 요청. [보완: 2015 '대기와 해양의 변화'↔2022 '대기와 해양의 상호작용' 대응]",
+  "taggedAt": "2026-08-12T03:45:53.161Z",
+  "verticalReviewedAt": "2026-08-16T08:12:33.278Z"
 }
