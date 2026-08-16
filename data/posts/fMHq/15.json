@@ -29,8 +29,16 @@
       "subject": "과학",
       "unit": "기체의 성질",
       "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "기체의 성질",
+      "confidence": "medium"
     }
   ],
   "tagsNote": "교과서와 유사한 기압계(압력계) 구매처 문의.",
-  "taggedAt": "2026-08-12T22:03:03.477Z"
+  "taggedAt": "2026-08-12T22:03:03.477Z",
+  "verticalReviewedAt": "2026-08-16T13:28:25.668Z"
 }

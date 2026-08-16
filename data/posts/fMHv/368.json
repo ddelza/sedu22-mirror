@@ -24,8 +24,16 @@
       "subject": "과학",
       "unit": "태양계",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "태양계",
+      "confidence": "high"
     }
   ],
   "tagsNote": "미래엔·비상 교과서를 참고해 만든 3단원 태양계 학습지(교사용) 공유.",
-  "taggedAt": "2026-08-13T11:51:32.481Z"
+  "taggedAt": "2026-08-13T11:51:32.481Z",
+  "verticalReviewedAt": "2026-08-16T14:03:58.321Z"
 }

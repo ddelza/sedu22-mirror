@@ -29,8 +29,16 @@
       "category": "스마트 수업도구",
       "topic": "온라인 수업 자료",
       "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "태양계",
+      "confidence": "high"
     }
   ],
   "tagsNote": "구글설문지 복습을 곁들인 '지구와 달' 단원 원격수업 기록(3월 4~5주차) 공유.",
-  "taggedAt": "2026-08-13T12:08:13.579Z"
+  "taggedAt": "2026-08-13T12:08:13.579Z",
+  "verticalReviewedAt": "2026-08-16T14:08:33.913Z"
 }

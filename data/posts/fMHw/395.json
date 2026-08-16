@@ -24,8 +24,16 @@
       "subject": "과학",
       "unit": "태양계",
       "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "태양계",
+      "confidence": "medium"
     }
   ],
   "tagsNote": "행성 여행 홍보하기 수행평가의 포트폴리오 등급(A~D) 구분 기준을 묻는 질문.",
-  "taggedAt": "2026-08-13T12:52:37.718Z"
+  "taggedAt": "2026-08-13T12:52:37.718Z",
+  "verticalReviewedAt": "2026-08-16T14:21:31.515Z"
 }

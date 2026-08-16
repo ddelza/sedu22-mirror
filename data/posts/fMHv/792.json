@@ -24,8 +24,16 @@
       "subject": "과학",
       "unit": "수권과 해수의 순환",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "수권과 해수의 순환",
+      "confidence": "high"
     }
   ],
   "tagsNote": "자유학기제에 맞춰 7단원(수권의 구성과 순환)을 먼저 진행하도록 재구성한 수업 공유.",
-  "taggedAt": "2026-08-13T12:20:28.500Z"
+  "taggedAt": "2026-08-13T12:20:28.500Z",
+  "verticalReviewedAt": "2026-08-16T14:15:17.163Z"
 }

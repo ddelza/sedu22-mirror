@@ -24,8 +24,16 @@
       "subject": "과학",
       "unit": "태양계",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "태양계",
+      "confidence": "high"
     }
   ],
   "tagsNote": "신규교사가 비상 교과서 기준으로 만든 3단원 태양계 수업 자료(읽기 전용 템플릿) 공유.",
-  "taggedAt": "2026-08-13T11:51:32.501Z"
+  "taggedAt": "2026-08-13T11:51:32.501Z",
+  "verticalReviewedAt": "2026-08-16T14:03:58.326Z"
 }

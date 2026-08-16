@@ -24,8 +24,16 @@
       "subject": "과학",
       "unit": "태양계",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "태양계",
+      "confidence": "high"
     }
   ],
   "tagsNote": "'태양계의 구성' 단원 놀토(놀이형 학습지) 활동 공유.",
-  "taggedAt": "2026-08-13T11:51:32.539Z"
+  "taggedAt": "2026-08-13T11:51:32.539Z",
+  "verticalReviewedAt": "2026-08-16T14:03:58.342Z"
 }

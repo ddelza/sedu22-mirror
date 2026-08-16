@@ -29,8 +29,16 @@
       "category": "스마트 수업도구",
       "topic": "생성형 AI 도구",
       "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "운동과 에너지",
+      "confidence": "high"
     }
   ],
   "tagsNote": "캔바를 활용한 '일이 0인 경우' 찾기 모둠활동 공유.",
-  "taggedAt": "2026-08-12T15:16:40.839Z"
+  "taggedAt": "2026-08-12T15:16:40.839Z",
+  "verticalReviewedAt": "2026-08-16T13:19:03.716Z"
 }

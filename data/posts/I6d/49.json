@@ -24,8 +24,16 @@
       "subject": "과학",
       "unit": "물질의 상태 변화",
       "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "물질의 상태 변화",
+      "confidence": "medium"
     }
   ],
   "tagsNote": "전국연합 고1 국어 지문을 활용한 끓는점 시험문제 아이디어 공유.",
-  "taggedAt": "2026-08-13T13:12:37.803Z"
+  "taggedAt": "2026-08-13T13:12:37.803Z",
+  "verticalReviewedAt": "2026-08-16T14:24:17.093Z"
 }

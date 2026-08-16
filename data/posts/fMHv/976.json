@@ -24,8 +24,16 @@
       "subject": "과학",
       "unit": "기권과 날씨",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "날씨와 기후변화",
+      "confidence": "high"
     }
   ],
   "tagsNote": "다산케이스와 전지를 이용해 기권의 구조를 학습하는 활동 자료 공유.",
-  "taggedAt": "2026-08-13T12:28:12.658Z"
+  "taggedAt": "2026-08-13T12:28:12.658Z",
+  "verticalReviewedAt": "2026-08-16T14:18:03.124Z"
 }

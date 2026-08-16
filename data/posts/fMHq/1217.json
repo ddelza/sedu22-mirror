@@ -38,8 +38,16 @@
       "subject": "과학",
       "unit": "열과 우리 생활",
       "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "열",
+      "confidence": "medium"
     }
   ],
   "tagsNote": "얼음 넣은 음료가 시원해지는 현상을 열평형과 융해열 흡수 중 무엇으로 설명할지 질문.",
-  "taggedAt": "2026-08-12T21:58:10.528Z"
+  "taggedAt": "2026-08-12T21:58:10.528Z",
+  "verticalReviewedAt": "2026-08-16T13:26:20.655Z"
 }

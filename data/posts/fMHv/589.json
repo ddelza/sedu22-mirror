@@ -24,8 +24,16 @@
       "subject": "과학",
       "unit": "기권과 날씨",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "날씨와 기후변화",
+      "confidence": "high"
     }
   ],
   "tagsNote": "기권의 층상구조를 설명하는 영상 콘텐츠 공유.",
-  "taggedAt": "2026-08-13T12:12:52.266Z"
+  "taggedAt": "2026-08-13T12:12:52.266Z",
+  "verticalReviewedAt": "2026-08-16T14:11:50.301Z"
 }

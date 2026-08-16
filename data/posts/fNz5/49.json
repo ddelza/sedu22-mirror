@@ -29,8 +29,16 @@
       "category": "스마트 수업도구",
       "topic": "센서/데이터로깅",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "별과 우주",
+      "confidence": "medium"
     }
   ],
   "tagsNote": "거리에 따른 밝기 감소(빛의 역제곱 법칙)를 센서로 확인하는 실험(13편, 별의 밝기 개념과 연계).",
-  "taggedAt": "2026-08-13T12:59:39.590Z"
+  "taggedAt": "2026-08-13T12:59:39.590Z",
+  "verticalReviewedAt": "2026-08-16T14:24:17.020Z"
 }

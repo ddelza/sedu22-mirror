@@ -24,8 +24,16 @@
       "subject": "과학",
       "unit": "태양계",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "태양계",
+      "confidence": "high"
     }
   ],
   "tagsNote": "학습지와 교과서 그림을 활용한 태양계 단원 노트정리 수업 방식 공유.",
-  "taggedAt": "2026-08-13T12:08:13.594Z"
+  "taggedAt": "2026-08-13T12:08:13.594Z",
+  "verticalReviewedAt": "2026-08-16T14:08:33.940Z"
 }

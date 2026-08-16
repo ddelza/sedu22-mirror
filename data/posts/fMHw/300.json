@@ -24,8 +24,16 @@
       "subject": "과학",
       "unit": "태양계",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "태양계",
+      "confidence": "high"
     }
   ],
   "tagsNote": "달의 크기 비례식 측정 활동에 필요한 10미터 줄자를 오프라인에서 구매하는 방법을 묻는 질문.",
-  "taggedAt": "2026-08-13T12:49:29.308Z"
+  "taggedAt": "2026-08-13T12:49:29.308Z",
+  "verticalReviewedAt": "2026-08-16T14:19:57.262Z"
 }

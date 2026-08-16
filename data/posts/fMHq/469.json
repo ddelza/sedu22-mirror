@@ -38,8 +38,16 @@
       "subject": "과학",
       "unit": "물질의 상태 변화",
       "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "물질의 상태 변화",
+      "confidence": "medium"
     }
   ],
   "tagsNote": "용해와 융해 개념의 혼동을 줄이는 설명 방법 고민.",
-  "taggedAt": "2026-08-12T22:16:34.047Z"
+  "taggedAt": "2026-08-12T22:16:34.047Z",
+  "verticalReviewedAt": "2026-08-16T13:31:35.113Z"
 }

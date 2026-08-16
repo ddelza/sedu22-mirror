@@ -24,8 +24,16 @@
       "subject": "과학",
       "unit": "생식과 유전",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "생식과 유전",
+      "confidence": "high"
     }
   ],
   "tagsNote": "멘델의 유전연구·사람의 유전·색맹검사표를 다루는 7·8단원 학습지를 정리한 PPT 공유.",
-  "taggedAt": "2026-08-13T12:47:52.445Z"
+  "taggedAt": "2026-08-13T12:47:52.445Z",
+  "verticalReviewedAt": "2026-08-16T14:19:57.256Z"
 }

@@ -24,8 +24,16 @@
       "subject": "과학",
       "unit": "지권의 변화",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "지권의 변화",
+      "confidence": "high"
     }
   ],
   "tagsNote": "비상교과서 기반 지권의 변화(지각의 구성까지) 학생 활동지 공유.",
-  "taggedAt": "2026-08-13T11:49:45.448Z"
+  "taggedAt": "2026-08-13T11:49:45.448Z",
+  "verticalReviewedAt": "2026-08-16T14:03:58.291Z"
 }

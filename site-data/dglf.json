@@ -2173,6 +2173,13 @@
         "subject": "생명과학",
         "unit": "항상성과 몸의 조절",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "자극과 반응",
+        "confidence": "medium"
       }
     ]
   },

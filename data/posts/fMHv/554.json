@@ -24,8 +24,16 @@
       "subject": "과학",
       "unit": "수권과 해수의 순환",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "수권과 해수의 순환",
+      "confidence": "high"
     }
   ],
   "tagsNote": "비상교육 교과서 기준 소단원별 모둠 발표 형태로 재구성한 7단원 수업 안내 공유.",
-  "taggedAt": "2026-08-13T12:11:20.265Z"
+  "taggedAt": "2026-08-13T12:11:20.265Z",
+  "verticalReviewedAt": "2026-08-16T14:10:28.202Z"
 }

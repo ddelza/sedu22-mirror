@@ -29,8 +29,16 @@
       "category": "스마트 수업도구",
       "topic": "센서/데이터로깅",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "날씨와 기후변화",
+      "confidence": "high"
     }
   ],
   "tagsNote": "드라이아이스와 랩으로 대조군을 만들어 온실효과를 관찰하는 센서 실험(19편).",
-  "taggedAt": "2026-08-13T13:02:02.126Z"
+  "taggedAt": "2026-08-13T13:02:02.126Z",
+  "verticalReviewedAt": "2026-08-16T14:24:17.034Z"
 }

@@ -24,8 +24,16 @@
       "subject": "과학",
       "unit": "물질의 특성",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "물질의 특성",
+      "confidence": "high"
     }
   ],
   "tagsNote": "5단원 물질의 특성 학습자료 공유.",
-  "taggedAt": "2026-08-12T22:34:50.064Z"
+  "taggedAt": "2026-08-12T22:34:50.064Z",
+  "verticalReviewedAt": "2026-08-16T13:38:24.575Z"
 }

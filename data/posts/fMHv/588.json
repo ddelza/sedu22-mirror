@@ -24,8 +24,16 @@
       "subject": "과학",
       "unit": "기권과 날씨",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "날씨와 기후변화",
+      "confidence": "high"
     }
   ],
   "tagsNote": "기층의 안정·불안정과 기권 형성·진화를 다루는 참고 영상 링크 공유.",
-  "taggedAt": "2026-08-13T12:12:52.266Z"
+  "taggedAt": "2026-08-13T12:12:52.266Z",
+  "verticalReviewedAt": "2026-08-16T14:11:50.299Z"
 }

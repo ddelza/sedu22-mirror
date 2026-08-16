@@ -24,8 +24,16 @@
       "subject": "과학",
       "unit": "기권과 날씨",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "날씨와 기후변화",
+      "confidence": "high"
     }
   ],
   "tagsNote": "중3 2단원(기권과 날씨) 일기도 분석 기반 일기예보 시나리오 작성 과정중심수행평가(논술형) 사례 공유.",
-  "taggedAt": "2026-08-13T13:11:29.201Z"
+  "taggedAt": "2026-08-13T13:11:29.201Z",
+  "verticalReviewedAt": "2026-08-16T14:24:17.091Z"
 }

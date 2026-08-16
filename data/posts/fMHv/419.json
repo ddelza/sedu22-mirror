@@ -24,8 +24,16 @@
       "subject": "과학",
       "unit": "태양계",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "태양계",
+      "confidence": "high"
     }
   ],
   "tagsNote": "동아리 학생들과 한 달간 직접 관측한 태양 흑점 이동으로 태양 자전을 확인한 영상 공유.",
-  "taggedAt": "2026-08-13T12:05:07.497Z"
+  "taggedAt": "2026-08-13T12:05:07.497Z",
+  "verticalReviewedAt": "2026-08-16T14:05:29.636Z"
 }

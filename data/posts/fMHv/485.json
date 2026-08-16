@@ -24,8 +24,16 @@
       "subject": "과학",
       "unit": "태양계",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "태양계",
+      "confidence": "high"
     }
   ],
   "tagsNote": "영상 형태로 제작한 달의 크기 측정 수업자료 공유.",
-  "taggedAt": "2026-08-13T12:08:13.586Z"
+  "taggedAt": "2026-08-13T12:08:13.586Z",
+  "verticalReviewedAt": "2026-08-16T14:08:33.925Z"
 }

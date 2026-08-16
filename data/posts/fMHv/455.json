@@ -29,8 +29,16 @@
       "category": "스마트 수업도구",
       "topic": "온라인 수업 자료",
       "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "태양계",
+      "confidence": "high"
     }
   ],
   "tagsNote": "구글 스프레드시트 공동편집으로 진행한 태양계 모둠별 자료조사 발표 및 NASA 화성 탐사 탑승권 이벤트 공유.",
-  "taggedAt": "2026-08-13T12:06:46.595Z"
+  "taggedAt": "2026-08-13T12:06:46.595Z",
+  "verticalReviewedAt": "2026-08-16T14:08:33.885Z"
 }

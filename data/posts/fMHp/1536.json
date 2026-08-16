@@ -31,8 +31,23 @@
       "subject": "과학",
       "unit": "빛과 파동",
       "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "운동과 에너지",
+      "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "운동과 에너지",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "학생 질문 중심 수업모델을 적용한 3단원 워크북 공유.",
-  "taggedAt": "2026-08-12T14:54:31.921Z"
+  "tagsNote": "학생 질문 중심 수업모델을 적용한 3단원 워크북 공유. [보완: 제목/본문에 '3단원(운동과 에너지) 질문중심 워크북'이라고 명시되어 있는데 기존 태그는 '빛과 파동'으로 되어 있어 단원이 잘못 태깅된 것으로 보임 — 올바른 단원 태그를 추가 보완 (기존 오태그는 additive 방식이라 제거하지 못함)]",
+  "taggedAt": "2026-08-12T14:54:31.921Z",
+  "verticalReviewedAt": "2026-08-16T13:11:27.814Z"
 }

@@ -31,8 +31,23 @@
       "subject": "과학",
       "unit": "지권의 변화",
       "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "날씨와 기후변화",
+      "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "지권의 변화",
+      "confidence": "medium"
     }
   ],
   "tagsNote": "실제 폭우·번개 사례를 안전교육 및 9단원 재해재난안전과 연결한 학습지·PPT 공유.",
-  "taggedAt": "2026-08-13T12:55:32.284Z"
+  "taggedAt": "2026-08-13T12:55:32.284Z",
+  "verticalReviewedAt": "2026-08-16T14:21:31.529Z"
 }

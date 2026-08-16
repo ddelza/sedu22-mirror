@@ -24,8 +24,16 @@
       "subject": "과학",
       "unit": "태양계",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "태양계",
+      "confidence": "high"
     }
   ],
   "tagsNote": "태양계 행성 개념 연결 연습용 도둑잡기 카드게임 자료 공유.",
-  "taggedAt": "2026-08-13T11:51:32.463Z"
+  "taggedAt": "2026-08-13T11:51:32.463Z",
+  "verticalReviewedAt": "2026-08-16T14:03:58.309Z"
 }

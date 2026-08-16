@@ -23,8 +23,16 @@
       "subject": "과학",
       "unit": "태양계",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "태양계",
+      "confidence": "high"
     }
   ],
   "tagsNote": "학부모 공개수업일과 겹친 중2 행성 여행 팜플렛 만들기 발표 수행평가 진행 방식에 대한 조언 요청.",
-  "taggedAt": "2026-08-13T12:47:52.426Z"
+  "taggedAt": "2026-08-13T12:47:52.426Z",
+  "verticalReviewedAt": "2026-08-16T14:19:57.244Z"
 }

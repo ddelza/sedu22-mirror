@@ -24,8 +24,16 @@
       "subject": "과학",
       "unit": "태양계",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "태양계",
+      "confidence": "high"
     }
   ],
   "tagsNote": "Jigsaw 협동학습 모형을 활용한 태양계 퀴즈 진행 방법 공유.",
-  "taggedAt": "2026-08-13T11:51:32.473Z"
+  "taggedAt": "2026-08-13T11:51:32.473Z",
+  "verticalReviewedAt": "2026-08-16T14:03:58.316Z"
 }

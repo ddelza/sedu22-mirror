@@ -38,8 +38,16 @@
       "subject": "과학",
       "unit": "물질의 상태 변화",
       "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "물질의 상태 변화",
+      "confidence": "medium"
     }
   ],
   "tagsNote": "중1 교과서 4·6단원(기체의 성질·물질의 상태변화) 실험 비교 스프레드시트 공유.",
-  "taggedAt": "2026-08-12T22:30:32.998Z"
+  "taggedAt": "2026-08-12T22:30:32.998Z",
+  "verticalReviewedAt": "2026-08-16T13:37:13.412Z"
 }

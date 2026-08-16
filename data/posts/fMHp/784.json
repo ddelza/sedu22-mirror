@@ -38,8 +38,16 @@
       "subject": "과학",
       "unit": "기체의 성질",
       "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "기체의 성질",
+      "confidence": "medium"
     }
   ],
   "tagsNote": "영화 '엘리멘탈' 속 과학(상태변화, 기체법칙) 이야기 학습지 공유.",
-  "taggedAt": "2026-08-12T15:23:44.263Z"
+  "taggedAt": "2026-08-12T15:23:44.263Z",
+  "verticalReviewedAt": "2026-08-16T13:20:30.060Z"
 }

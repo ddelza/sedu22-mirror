@@ -24,8 +24,16 @@
       "subject": "과학",
       "unit": "여러 가지 힘",
       "confidence": "low"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "힘의 작용",
+      "confidence": "low"
     }
   ],
   "tagsNote": "실험 결과(불균일 증가) 관련 질문(내용 부족).",
-  "taggedAt": "2026-08-12T15:18:13.092Z"
+  "taggedAt": "2026-08-12T15:18:13.092Z",
+  "verticalReviewedAt": "2026-08-16T13:20:30.040Z"
 }

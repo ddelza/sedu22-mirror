@@ -24,8 +24,16 @@
       "subject": "과학",
       "unit": "식물과 에너지",
       "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "식물과 에너지",
+      "confidence": "medium"
     }
   ],
   "tagsNote": "칭찬 횟수에 따른 보리 성장 비교 프로젝트를 1학기 평가 아이디어로 제안(생물 내용, 지구과학 게시판과 다른 일반 게시판에 교차 게시됨).",
-  "taggedAt": "2026-08-13T13:04:51.233Z"
+  "taggedAt": "2026-08-13T13:04:51.233Z",
+  "verticalReviewedAt": "2026-08-16T14:24:17.066Z"
 }

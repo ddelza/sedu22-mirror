@@ -29,8 +29,16 @@
       "category": "스마트 수업도구",
       "topic": "센서/데이터로깅",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "날씨와 기후변화",
+      "confidence": "medium"
     }
   ],
   "tagsNote": "복사평형 상태를 센서로 자동 측정하는 실험(11편).",
-  "taggedAt": "2026-08-13T12:59:39.589Z"
+  "taggedAt": "2026-08-13T12:59:39.589Z",
+  "verticalReviewedAt": "2026-08-16T14:24:17.014Z"
 }

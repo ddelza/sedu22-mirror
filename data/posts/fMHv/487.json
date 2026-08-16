@@ -29,8 +29,16 @@
       "category": "스마트 수업도구",
       "topic": "온라인 수업 자료",
       "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "태양계",
+      "confidence": "high"
     }
   ],
   "tagsNote": "달의 위상 변화와 일식·월식을 다루는 한쇼 파일, 삽입 동영상, 구글 수업 활동지 모음 공유.",
-  "taggedAt": "2026-08-13T12:08:13.587Z"
+  "taggedAt": "2026-08-13T12:08:13.587Z",
+  "verticalReviewedAt": "2026-08-16T14:08:33.927Z"
 }

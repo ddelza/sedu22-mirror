@@ -38,8 +38,16 @@
       "subject": "과학",
       "unit": "전기와 자기",
       "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "전기와 자기",
+      "confidence": "medium"
     }
   ],
   "tagsNote": "9볼트 전지를 이용한 철솜 산화(합성)·물 전기분해 실험 공유.",
-  "taggedAt": "2026-08-12T21:59:47.580Z"
+  "taggedAt": "2026-08-12T21:59:47.580Z",
+  "verticalReviewedAt": "2026-08-16T13:26:20.691Z"
 }

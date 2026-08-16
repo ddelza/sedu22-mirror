@@ -24,8 +24,16 @@
       "subject": "과학",
       "unit": "태양계",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "태양계",
+      "confidence": "high"
     }
   ],
   "tagsNote": "행성의 분류, 태양, 천체관측을 다루는 활동 자료(구글 로그인 필요) 공유.",
-  "taggedAt": "2026-08-13T12:08:13.588Z"
+  "taggedAt": "2026-08-13T12:08:13.588Z",
+  "verticalReviewedAt": "2026-08-16T14:08:33.929Z"
 }

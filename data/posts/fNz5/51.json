@@ -29,8 +29,16 @@
       "category": "스마트 수업도구",
       "topic": "센서/데이터로깅",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "수권과 해수의 순환",
+      "confidence": "high"
     }
   ],
   "tagsNote": "수온 센서로 혼합층·수온약층·심해층을 만드는 수권 층상구조 실험(15편).",
-  "taggedAt": "2026-08-13T13:02:02.122Z"
+  "taggedAt": "2026-08-13T13:02:02.122Z",
+  "verticalReviewedAt": "2026-08-16T14:24:17.026Z"
 }

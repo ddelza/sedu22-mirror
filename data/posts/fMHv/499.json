@@ -24,8 +24,16 @@
       "subject": "과학",
       "unit": "태양계",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "태양계",
+      "confidence": "high"
     }
   ],
   "tagsNote": "태양계 행성 관련 수행평가용 실험·교구 키트를 추천받는 질문.",
-  "taggedAt": "2026-08-13T12:08:13.596Z"
+  "taggedAt": "2026-08-13T12:08:13.596Z",
+  "verticalReviewedAt": "2026-08-16T14:08:33.946Z"
 }

@@ -24,8 +24,16 @@
       "subject": "과학",
       "unit": "태양계",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "태양계",
+      "confidence": "high"
     }
   ],
   "tagsNote": "행성·태양 뱅글북 설계도와 제작 방법 자료 공유.",
-  "taggedAt": "2026-08-13T12:09:49.004Z"
+  "taggedAt": "2026-08-13T12:09:49.004Z",
+  "verticalReviewedAt": "2026-08-16T14:10:28.155Z"
 }

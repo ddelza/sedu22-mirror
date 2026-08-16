@@ -24,8 +24,16 @@
       "subject": "과학",
       "unit": "태양계",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "태양계",
+      "confidence": "high"
     }
   ],
   "tagsNote": "행성 특징에 맞는 외계인을 상상해 그리고 인스타그램 형식으로 꾸미는 활동 공유.",
-  "taggedAt": "2026-08-13T11:51:32.526Z"
+  "taggedAt": "2026-08-13T11:51:32.526Z",
+  "verticalReviewedAt": "2026-08-16T14:03:58.338Z"
 }

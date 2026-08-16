@@ -24,8 +24,16 @@
       "subject": "과학",
       "unit": "별과 우주",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "별과 우주",
+      "confidence": "high"
     }
   ],
   "tagsNote": "색모래·유산균 음료 뚜껑 등 다양한 재료로 시도한 우리 은하 모형 만들기 경험 공유.",
-  "taggedAt": "2026-08-13T12:18:56.878Z"
+  "taggedAt": "2026-08-13T12:18:56.878Z",
+  "verticalReviewedAt": "2026-08-16T14:14:27.700Z"
 }

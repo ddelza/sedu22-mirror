@@ -38,8 +38,16 @@
       "subject": "과학",
       "unit": "기체의 성질",
       "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "기체의 성질",
+      "confidence": "medium"
     }
   ],
   "tagsNote": "증발·확산 개념을 몸으로 표현하는 역할극 수업 후기.",
-  "taggedAt": "2026-08-12T22:04:38.450Z"
+  "taggedAt": "2026-08-12T22:04:38.450Z",
+  "verticalReviewedAt": "2026-08-16T13:28:25.689Z"
 }

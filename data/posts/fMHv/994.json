@@ -24,8 +24,16 @@
       "subject": "과학",
       "unit": "태양계",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "태양계",
+      "confidence": "high"
     }
   ],
   "tagsNote": "행성의 자전·공전 방향이 항상 같은지에 대한 통념을 짚어보는 블로그 글 공유.",
-  "taggedAt": "2026-08-13T12:29:51.532Z"
+  "taggedAt": "2026-08-13T12:29:51.532Z",
+  "verticalReviewedAt": "2026-08-16T14:18:03.140Z"
 }

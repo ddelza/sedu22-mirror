@@ -24,8 +24,16 @@
       "subject": "과학",
       "unit": "태양계",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "태양계",
+      "confidence": "high"
     }
   ],
   "tagsNote": "태양이 기체로 이루어져 위도별 자전 속도가 다르다는 흑점 설명 방식에 대한 검토 요청.",
-  "taggedAt": "2026-08-13T12:29:51.532Z"
+  "taggedAt": "2026-08-13T12:29:51.532Z",
+  "verticalReviewedAt": "2026-08-16T14:18:03.141Z"
 }

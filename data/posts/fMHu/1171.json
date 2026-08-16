@@ -29,8 +29,16 @@
       "subject": "과학",
       "unit": "동물과 에너지",
       "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "동물과 에너지",
+      "confidence": "medium"
     }
   ],
   "tagsNote": "돼지 장기 해부실험 후 대량 폐기물 처리 방법 질문.",
-  "taggedAt": "2026-08-12T23:27:29.178Z"
+  "taggedAt": "2026-08-12T23:27:29.178Z",
+  "verticalReviewedAt": "2026-08-16T13:41:53.612Z"
 }

@@ -24,8 +24,16 @@
       "subject": "과학",
       "unit": "별과 우주",
       "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "별과 우주",
+      "confidence": "medium"
     }
   ],
   "tagsNote": "마지막 외권 단원 진도를 못 나간 중3 상황에 대한 조언 요청.",
-  "taggedAt": "2026-08-13T12:56:59.871Z"
+  "taggedAt": "2026-08-13T12:56:59.871Z",
+  "verticalReviewedAt": "2026-08-16T14:24:16.952Z"
 }

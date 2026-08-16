@@ -24,8 +24,16 @@
       "subject": "과학",
       "unit": "태양계",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "태양계",
+      "confidence": "high"
     }
   ],
   "tagsNote": "용어 50개 학습지와 스피드퀴즈를 결합한 태양계 단원 마무리 활동 공유.",
-  "taggedAt": "2026-08-13T11:51:32.523Z"
+  "taggedAt": "2026-08-13T11:51:32.523Z",
+  "verticalReviewedAt": "2026-08-16T14:03:58.336Z"
 }

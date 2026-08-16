@@ -31,8 +31,23 @@
       "subject": "과학",
       "unit": "생물의 다양성",
       "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "생식과 유전",
+      "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "생물의 구성과 다양성",
+      "confidence": "medium"
     }
   ],
   "tagsNote": "유전과 진화를 함께 다루는 프로젝트 수업 아이디어 질문.",
-  "taggedAt": "2026-08-12T23:35:25.703Z"
+  "taggedAt": "2026-08-12T23:35:25.703Z",
+  "verticalReviewedAt": "2026-08-16T13:43:24.545Z"
 }

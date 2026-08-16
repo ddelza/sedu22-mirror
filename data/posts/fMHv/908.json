@@ -31,8 +31,23 @@
       "subject": "과학",
       "unit": "수권과 해수의 순환",
       "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "날씨와 기후변화",
+      "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "수권과 해수의 순환",
+      "confidence": "medium"
     }
   ],
   "tagsNote": "'빗방울이 모여 강을 이루는 것'이 수권 내 상호작용에 해당하는지에 대한 개념 구분 질문.",
-  "taggedAt": "2026-08-13T12:25:11.232Z"
+  "taggedAt": "2026-08-13T12:25:11.232Z",
+  "verticalReviewedAt": "2026-08-16T14:17:05.403Z"
 }

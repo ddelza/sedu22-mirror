@@ -24,8 +24,16 @@
       "subject": "과학",
       "unit": "태양계",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "태양계",
+      "confidence": "high"
     }
   ],
   "tagsNote": "운동장에서 직접 거리를 측정해보는 태양계 행성 상대적 크기·거리 비교 활동 공유.",
-  "taggedAt": "2026-08-13T11:51:32.518Z"
+  "taggedAt": "2026-08-13T11:51:32.518Z",
+  "verticalReviewedAt": "2026-08-16T14:03:58.330Z"
 }

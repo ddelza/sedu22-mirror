@@ -802,6 +802,13 @@
         "category": "스마트 수업도구",
         "topic": "센서/데이터로깅",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "운동과 에너지",
+        "confidence": "high"
       }
     ]
   },
@@ -895,6 +902,13 @@
         "category": "스마트 수업도구",
         "topic": "센서/데이터로깅",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "날씨와 기후변화",
+        "confidence": "medium"
       }
     ]
   },
@@ -926,6 +940,13 @@
         "category": "스마트 수업도구",
         "topic": "센서/데이터로깅",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "전기와 자기",
+        "confidence": "high"
       }
     ]
   },
@@ -956,6 +977,13 @@
       {
         "category": "스마트 수업도구",
         "topic": "센서/데이터로깅",
+        "confidence": "high"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "날씨와 기후변화",
         "confidence": "high"
       }
     ]
@@ -1019,6 +1047,13 @@
         "category": "스마트 수업도구",
         "topic": "센서/데이터로깅",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "열",
+        "confidence": "medium"
       }
     ]
   },
@@ -1050,6 +1085,13 @@
         "category": "스마트 수업도구",
         "topic": "센서/데이터로깅",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "자극과 반응",
+        "confidence": "medium"
       }
     ]
   },
@@ -1080,6 +1122,13 @@
       {
         "category": "스마트 수업도구",
         "topic": "센서/데이터로깅",
+        "confidence": "high"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "수권과 해수의 순환",
         "confidence": "high"
       }
     ]
@@ -1112,6 +1161,13 @@
         "category": "스마트 수업도구",
         "topic": "센서/데이터로깅",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "물질의 상태 변화",
+        "confidence": "medium"
       }
     ]
   },
@@ -1143,6 +1199,13 @@
         "category": "스마트 수업도구",
         "topic": "센서/데이터로깅",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "별과 우주",
+        "confidence": "medium"
       }
     ]
   },
@@ -1174,6 +1237,13 @@
         "category": "스마트 수업도구",
         "topic": "센서/데이터로깅",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "물질의 특성",
+        "confidence": "medium"
       }
     ]
   },
@@ -1205,6 +1275,13 @@
         "category": "스마트 수업도구",
         "topic": "센서/데이터로깅",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "날씨와 기후변화",
+        "confidence": "medium"
       }
     ]
   },
@@ -1267,6 +1344,13 @@
         "category": "스마트 수업도구",
         "topic": "센서/데이터로깅",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "물질의 특성",
+        "confidence": "medium"
       }
     ]
   },
@@ -1297,6 +1381,13 @@
       {
         "category": "스마트 수업도구",
         "topic": "센서/데이터로깅",
+        "confidence": "high"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "물질의 특성",
         "confidence": "high"
       }
     ]
@@ -1329,6 +1420,13 @@
         "category": "스마트 수업도구",
         "topic": "센서/데이터로깅",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "열",
+        "confidence": "high"
       }
     ]
   },
@@ -1360,6 +1458,13 @@
         "category": "스마트 수업도구",
         "topic": "센서/데이터로깅",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "물질의 상태 변화",
+        "confidence": "medium"
       }
     ]
   },
@@ -1391,6 +1496,13 @@
         "category": "스마트 수업도구",
         "topic": "센서/데이터로깅",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "열",
+        "confidence": "medium"
       }
     ]
   },
@@ -1422,6 +1534,13 @@
         "category": "스마트 수업도구",
         "topic": "센서/데이터로깅",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "열",
+        "confidence": "medium"
       }
     ]
   },
@@ -1452,6 +1571,13 @@
       {
         "category": "스마트 수업도구",
         "topic": "센서/데이터로깅",
+        "confidence": "high"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "기체의 성질",
         "confidence": "high"
       }
     ]
@@ -1484,6 +1610,13 @@
         "category": "스마트 수업도구",
         "topic": "센서/데이터로깅",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "식물과 에너지",
+        "confidence": "medium"
       }
     ]
   },
@@ -1515,6 +1648,13 @@
         "category": "스마트 수업도구",
         "topic": "센서/데이터로깅",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "기체의 성질",
+        "confidence": "medium"
       }
     ]
   },

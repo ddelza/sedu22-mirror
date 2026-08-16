@@ -29,8 +29,16 @@
       "category": "스마트 수업도구",
       "topic": "온라인 수업 자료",
       "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "별과 우주",
+      "confidence": "high"
     }
   ],
   "tagsNote": "카훗 퀴즈와 유튜브 링크 모음을 결합한 우주탐사 부분 수업 나눔 자료 공유.",
-  "taggedAt": "2026-08-13T12:20:28.483Z"
+  "taggedAt": "2026-08-13T12:20:28.483Z",
+  "verticalReviewedAt": "2026-08-16T14:14:27.729Z"
 }

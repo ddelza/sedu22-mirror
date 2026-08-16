@@ -24,8 +24,16 @@
       "subject": "과학",
       "unit": "태양계",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "태양계",
+      "confidence": "high"
     }
   ],
   "tagsNote": "제한된 등교일수 속에 진행한 '지구와 달' 단원 3월 3주차 수업기록 공유.",
-  "taggedAt": "2026-08-13T12:08:13.591Z"
+  "taggedAt": "2026-08-13T12:08:13.591Z",
+  "verticalReviewedAt": "2026-08-16T14:08:33.934Z"
 }

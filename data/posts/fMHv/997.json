@@ -24,8 +24,16 @@
       "subject": "과학",
       "unit": "태양계",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "태양계",
+      "confidence": "high"
     }
   ],
   "tagsNote": "에라토스테네스 아바타 역할극으로 '동시성' 개념을 이해시키는 지구 크기 측정 수업 아이디어.",
-  "taggedAt": "2026-08-13T12:29:51.534Z"
+  "taggedAt": "2026-08-13T12:29:51.534Z",
+  "verticalReviewedAt": "2026-08-16T14:18:03.146Z"
 }

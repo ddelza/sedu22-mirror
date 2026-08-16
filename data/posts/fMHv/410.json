@@ -24,8 +24,16 @@
       "subject": "과학",
       "unit": "태양계",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "태양계",
+      "confidence": "high"
     }
   ],
   "tagsNote": "탐구·보고서·달 모양 3단계로 진행하는 달의 위상 변화 수행평가 자료 공유.",
-  "taggedAt": "2026-08-13T12:05:07.491Z"
+  "taggedAt": "2026-08-13T12:05:07.491Z",
+  "verticalReviewedAt": "2026-08-16T14:05:29.629Z"
 }

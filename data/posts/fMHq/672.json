@@ -38,8 +38,16 @@
       "subject": "과학",
       "unit": "물질의 상태 변화",
       "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "물질의 상태 변화",
+      "confidence": "medium"
     }
   ],
   "tagsNote": "영재수업 대체 진행한 기체 부피·기압·상태변화 실험 모음 공유.",
-  "taggedAt": "2026-08-12T22:24:08.744Z"
+  "taggedAt": "2026-08-12T22:24:08.744Z",
+  "verticalReviewedAt": "2026-08-16T13:35:13.870Z"
 }

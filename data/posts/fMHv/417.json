@@ -24,8 +24,16 @@
       "subject": "과학",
       "unit": "태양계",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "태양계",
+      "confidence": "high"
     }
   ],
   "tagsNote": "행성·태양 카드 게임 자료 공유.",
-  "taggedAt": "2026-08-13T12:05:07.496Z"
+  "taggedAt": "2026-08-13T12:05:07.496Z",
+  "verticalReviewedAt": "2026-08-16T14:05:29.635Z"
 }

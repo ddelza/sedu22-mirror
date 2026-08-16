@@ -29,8 +29,16 @@
       "category": "스마트 수업도구",
       "topic": "AI",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "지권의 변화",
+      "confidence": "high"
     }
   ],
   "tagsNote": "바이브 코딩으로 만든 지구계 상호작용 웹앱 게임(프로토타입) 공유.",
-  "taggedAt": "2026-08-13T05:23:34.866Z"
+  "taggedAt": "2026-08-13T05:23:34.866Z",
+  "verticalReviewedAt": "2026-08-16T14:00:52.620Z"
 }

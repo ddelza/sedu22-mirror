@@ -31,8 +31,23 @@
       "subject": "과학",
       "unit": "기권과 날씨",
       "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "생물의 구성과 다양성",
+      "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "날씨와 기후변화",
+      "confidence": "medium"
     }
   ],
   "tagsNote": "생물다양성·탄소중립생활을 그리는 자유학기 에코백 만들기 활동에 쓸 에코백 구입처 추천 요청.",
-  "taggedAt": "2026-08-13T12:56:59.885Z"
+  "taggedAt": "2026-08-13T12:56:59.885Z",
+  "verticalReviewedAt": "2026-08-16T14:24:16.970Z"
 }

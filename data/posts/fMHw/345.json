@@ -24,8 +24,16 @@
       "subject": "과학",
       "unit": "태양계",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "태양계",
+      "confidence": "high"
     }
   ],
   "tagsNote": "영화 알라딘 포스터 속 달 모양 위치를 묻는 시험 문제의 정답 검토 요청.",
-  "taggedAt": "2026-08-13T12:51:02.878Z"
+  "taggedAt": "2026-08-13T12:51:02.878Z",
+  "verticalReviewedAt": "2026-08-16T14:19:57.271Z"
 }

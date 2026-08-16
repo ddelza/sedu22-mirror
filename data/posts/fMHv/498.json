@@ -24,8 +24,16 @@
       "subject": "과학",
       "unit": "태양계",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "태양계",
+      "confidence": "high"
     }
   ],
   "tagsNote": "태양계 여행 가이드북 형식의 태양계 행성 프로젝트 활동지 공유.",
-  "taggedAt": "2026-08-13T12:08:13.595Z"
+  "taggedAt": "2026-08-13T12:08:13.595Z",
+  "verticalReviewedAt": "2026-08-16T14:08:33.942Z"
 }

@@ -29,8 +29,16 @@
       "subject": "과학",
       "unit": "물질의 특성",
       "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "물질의 특성",
+      "confidence": "medium"
     }
   ],
   "tagsNote": "밀도측정용 크기 다른 금속조각 구입처 문의.",
-  "taggedAt": "2026-08-12T22:19:32.196Z"
+  "taggedAt": "2026-08-12T22:19:32.196Z",
+  "verticalReviewedAt": "2026-08-16T13:33:10.570Z"
 }

@@ -24,8 +24,16 @@
       "subject": "과학",
       "unit": "물질의 특성",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "물질의 특성",
+      "confidence": "high"
     }
   ],
   "tagsNote": "2학년 V.물질의 특성 단원 순물질의 끓는점 관련 질문.",
-  "taggedAt": "2026-08-12T22:34:50.087Z"
+  "taggedAt": "2026-08-12T22:34:50.087Z",
+  "verticalReviewedAt": "2026-08-16T13:39:19.218Z"
 }

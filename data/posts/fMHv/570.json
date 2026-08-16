@@ -24,8 +24,16 @@
       "subject": "과학",
       "unit": "기권과 날씨",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "날씨와 기후변화",
+      "confidence": "high"
     }
   ],
   "tagsNote": "비상교과서 기준 2단원 기권과 날씨 학습지(교사용·학생용) 공유.",
-  "taggedAt": "2026-08-13T12:11:20.275Z"
+  "taggedAt": "2026-08-13T12:11:20.275Z",
+  "verticalReviewedAt": "2026-08-16T14:11:50.287Z"
 }

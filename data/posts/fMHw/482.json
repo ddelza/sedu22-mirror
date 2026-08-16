@@ -31,8 +31,16 @@
       "subject": "과학",
       "unit": "여러 가지 화학 반응",
       "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "태양계",
+      "confidence": "medium"
     }
   ],
   "tagsNote": "5단원 여러가지 화학반응 도입에 책읽기와 함께 진행한 부담 없는 OX 퀴즈 활동 공유.",
-  "taggedAt": "2026-08-13T12:56:59.861Z"
+  "taggedAt": "2026-08-13T12:56:59.861Z",
+  "verticalReviewedAt": "2026-08-16T14:21:31.539Z"
 }

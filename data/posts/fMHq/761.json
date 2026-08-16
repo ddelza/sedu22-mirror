@@ -24,8 +24,16 @@
       "subject": "과학",
       "unit": "생식과 유전",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "생식과 유전",
+      "confidence": "high"
     }
   ],
   "tagsNote": "유전 단원 학습 후 통계 조사 프로젝트 수업 공유.",
-  "taggedAt": "2026-08-12T22:29:02.109Z"
+  "taggedAt": "2026-08-12T22:29:02.109Z",
+  "verticalReviewedAt": "2026-08-16T13:37:13.403Z"
 }

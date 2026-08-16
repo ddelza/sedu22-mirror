@@ -29,8 +29,16 @@
       "category": "스마트 수업도구",
       "topic": "앱/프로그램",
       "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "날씨와 기후변화",
+      "confidence": "high"
     }
   ],
   "tagsNote": "예산 문제로 사용이 어려워진 Mozaik 해수면 변화·저기압성 순환 영상을 캡쳐해 공유.",
-  "taggedAt": "2026-08-13T12:17:30.088Z"
+  "taggedAt": "2026-08-13T12:17:30.088Z",
+  "verticalReviewedAt": "2026-08-16T14:13:23.950Z"
 }

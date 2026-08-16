@@ -31,8 +31,23 @@
       "subject": "과학",
       "unit": "물질의 특성",
       "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "동물과 에너지",
+      "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "물질의 특성",
+      "confidence": "medium"
     }
   ],
   "tagsNote": "축제 전시용 네프론·크로마토그래피 작품 공유.",
-  "taggedAt": "2026-08-12T23:32:59.847Z"
+  "taggedAt": "2026-08-12T23:32:59.847Z",
+  "verticalReviewedAt": "2026-08-16T13:42:45.649Z"
 }

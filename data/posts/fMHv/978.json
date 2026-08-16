@@ -24,8 +24,16 @@
       "subject": "과학",
       "unit": "기권과 날씨",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "날씨와 기후변화",
+      "confidence": "high"
     }
   ],
   "tagsNote": "단원별로 정리해 공유하는 중2 기권과 우리생활 수업 활동지 모음.",
-  "taggedAt": "2026-08-13T12:28:12.660Z"
+  "taggedAt": "2026-08-13T12:28:12.660Z",
+  "verticalReviewedAt": "2026-08-16T14:18:03.125Z"
 }

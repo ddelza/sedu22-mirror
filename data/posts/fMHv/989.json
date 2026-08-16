@@ -31,8 +31,23 @@
       "subject": "과학",
       "unit": "태양계",
       "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "날씨와 기후변화",
+      "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "태양계",
+      "confidence": "medium"
     }
   ],
   "tagsNote": "오로라가 태양 활동이 활발할 때만 발생하는지 항상 발생하는지에 대한 질문.",
-  "taggedAt": "2026-08-13T12:29:51.528Z"
+  "taggedAt": "2026-08-13T12:29:51.528Z",
+  "verticalReviewedAt": "2026-08-16T14:18:03.134Z"
 }

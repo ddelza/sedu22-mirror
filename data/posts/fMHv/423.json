@@ -24,8 +24,16 @@
       "subject": "과학",
       "unit": "태양계",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "태양계",
+      "confidence": "high"
     }
   ],
   "tagsNote": "한국천문연구원 연구원 역할극 형식의 행성 여행 포스터 만들기 활동 공유.",
-  "taggedAt": "2026-08-13T12:05:07.507Z"
+  "taggedAt": "2026-08-13T12:05:07.507Z",
+  "verticalReviewedAt": "2026-08-16T14:05:29.640Z"
 }

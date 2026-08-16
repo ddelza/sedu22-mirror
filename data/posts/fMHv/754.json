@@ -24,8 +24,16 @@
       "subject": "과학",
       "unit": "별과 우주",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "별과 우주",
+      "confidence": "high"
     }
   ],
   "tagsNote": "발사체 발달 과정 38가지 사건을 순서대로 나열하는 보드게임 자료 공유.",
-  "taggedAt": "2026-08-13T12:18:56.890Z"
+  "taggedAt": "2026-08-13T12:18:56.890Z",
+  "verticalReviewedAt": "2026-08-16T14:14:27.716Z"
 }

@@ -24,8 +24,16 @@
       "subject": "과학",
       "unit": "태양계",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "태양계",
+      "confidence": "high"
     }
   ],
   "tagsNote": "3단원 태양계 학습지·PPT 수업자료 수정본 공유.",
-  "taggedAt": "2026-08-13T11:51:32.490Z"
+  "taggedAt": "2026-08-13T11:51:32.490Z",
+  "verticalReviewedAt": "2026-08-16T14:03:58.323Z"
 }

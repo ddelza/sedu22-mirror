@@ -29,8 +29,16 @@
       "subject": "과학",
       "unit": "화학 반응의 규칙과 에너지 변화",
       "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "화학 반응의 규칙성",
+      "confidence": "medium"
     }
   ],
   "tagsNote": "마그네슘 리본 연소 시범실험의 물 접촉 위험성 질문.",
-  "taggedAt": "2026-08-12T15:41:46.670Z"
+  "taggedAt": "2026-08-12T15:41:46.670Z",
+  "verticalReviewedAt": "2026-08-16T13:24:23.866Z"
 }

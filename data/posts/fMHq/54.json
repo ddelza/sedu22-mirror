@@ -38,8 +38,16 @@
       "subject": "과학",
       "unit": "물질의 상태 변화",
       "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "물질의 상태 변화",
+      "confidence": "medium"
     }
   ],
   "tagsNote": "암모니아 확산·증발 가상실험 제작 공유.",
-  "taggedAt": "2026-08-12T22:19:32.201Z"
+  "taggedAt": "2026-08-12T22:19:32.201Z",
+  "verticalReviewedAt": "2026-08-16T13:33:10.584Z"
 }

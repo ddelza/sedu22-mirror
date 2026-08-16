@@ -24,8 +24,16 @@
       "subject": "과학",
       "unit": "기권과 날씨",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "날씨와 기후변화",
+      "confidence": "high"
     }
   ],
   "tagsNote": "김신연 선생님 학습지 틀을 참고해 만든 2단원 기권과 날씨 학습지 공유.",
-  "taggedAt": "2026-08-13T12:17:30.098Z"
+  "taggedAt": "2026-08-13T12:17:30.098Z",
+  "verticalReviewedAt": "2026-08-16T14:13:23.955Z"
 }

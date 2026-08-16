@@ -24,8 +24,16 @@
       "subject": "과학",
       "unit": "태양계",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "태양계",
+      "confidence": "high"
     }
   ],
   "tagsNote": "달의 본그림자·반그림자 진입 상태를 나타낸 시험 보기 문항의 오답 판정에 대한 동교과 협의 질문.",
-  "taggedAt": "2026-08-13T13:08:11.326Z"
+  "taggedAt": "2026-08-13T13:08:11.326Z",
+  "verticalReviewedAt": "2026-08-16T14:24:17.082Z"
 }

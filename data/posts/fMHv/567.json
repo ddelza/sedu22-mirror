@@ -29,8 +29,16 @@
       "category": "스마트 수업도구",
       "topic": "온라인 수업 자료",
       "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "날씨와 기후변화",
+      "confidence": "high"
     }
   ],
   "tagsNote": "기권의 층상구조·오존층·지구온난화 내용을 다루는 어벤져스 컨셉 방탈출 게임(시즌2) 자료 공유.",
-  "taggedAt": "2026-08-13T12:11:20.274Z"
+  "taggedAt": "2026-08-13T12:11:20.274Z",
+  "verticalReviewedAt": "2026-08-16T14:11:50.284Z"
 }

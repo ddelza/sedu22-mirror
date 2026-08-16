@@ -24,8 +24,16 @@
       "subject": "과학",
       "unit": "태양계",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "태양계",
+      "confidence": "high"
     }
   ],
   "tagsNote": "지구와 달, 태양계 관련 OX 숨은그림찾기 문제 자료 공유.",
-  "taggedAt": "2026-08-13T11:51:32.571Z"
+  "taggedAt": "2026-08-13T11:51:32.571Z",
+  "verticalReviewedAt": "2026-08-16T14:03:58.350Z"
 }

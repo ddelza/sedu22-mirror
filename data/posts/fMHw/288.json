@@ -31,8 +31,23 @@
       "subject": "과학",
       "unit": "전기와 자기",
       "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "물질 변화",
+      "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "전기와 자기",
+      "confidence": "medium"
     }
   ],
   "tagsNote": "물질변화의 규칙성과 전류의 작용을 다루는 5·6단원 학습지(교사용) 공유.",
-  "taggedAt": "2026-08-13T12:47:52.444Z"
+  "taggedAt": "2026-08-13T12:47:52.444Z",
+  "verticalReviewedAt": "2026-08-16T14:19:57.255Z"
 }

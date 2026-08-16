@@ -29,8 +29,16 @@
       "category": "스마트 수업도구",
       "topic": "센서/데이터로깅",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "날씨와 기후변화",
+      "confidence": "medium"
     }
   ],
   "tagsNote": "종이 색에 따른 복사 에너지 흡수 차이를 센서로 비교하는 실험(21편).",
-  "taggedAt": "2026-08-13T13:02:02.127Z"
+  "taggedAt": "2026-08-13T13:02:02.127Z",
+  "verticalReviewedAt": "2026-08-16T14:24:17.048Z"
 }

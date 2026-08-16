@@ -38,8 +38,16 @@
       "subject": "과학",
       "unit": "물질의 특성",
       "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "물질의 특성",
+      "confidence": "medium"
     }
   ],
   "tagsNote": "앙금생성·재결정 소재 금모래 만들기 키트 활용 노하우 질문.",
-  "taggedAt": "2026-08-12T22:32:02.470Z"
+  "taggedAt": "2026-08-12T22:32:02.470Z",
+  "verticalReviewedAt": "2026-08-16T13:37:45.681Z"
 }

@@ -29,8 +29,16 @@
       "category": "스마트 수업도구",
       "topic": "센서/데이터로깅",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "기체의 성질",
+      "confidence": "medium"
     }
   ],
   "tagsNote": "감압 용기 속 기체 압력 변화를 센서로 실시간 확인하는 실험(1편, 화학 내용, 지구과학 게시판과 다른 일반 게시판에 교차 게시됨).",
-  "taggedAt": "2026-08-13T12:59:39.580Z"
+  "taggedAt": "2026-08-13T12:59:39.580Z",
+  "verticalReviewedAt": "2026-08-16T14:24:16.986Z"
 }

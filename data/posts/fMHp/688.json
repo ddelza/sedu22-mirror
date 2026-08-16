@@ -31,8 +31,16 @@
       "subject": "과학",
       "unit": "기권과 날씨",
       "confidence": "low"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "날씨와 기후변화",
+      "confidence": "medium"
     }
   ],
   "tagsNote": "지구온난화(골든타임 7년) 소재 영상 및 에너지 절약 연계 공유.",
-  "taggedAt": "2026-08-12T15:16:40.841Z"
+  "taggedAt": "2026-08-12T15:16:40.841Z",
+  "verticalReviewedAt": "2026-08-16T13:19:03.719Z"
 }

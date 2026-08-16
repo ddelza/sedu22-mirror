@@ -31,8 +31,23 @@
       "subject": "과학",
       "unit": "생식과 유전",
       "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "태양계",
+      "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "생식과 유전",
+      "confidence": "medium"
     }
   ],
   "tagsNote": "행성의 운동(7단원)과 멘델·사람의 유전(8단원) 학습지 모음 공유.",
-  "taggedAt": "2026-08-13T12:46:21.316Z"
+  "taggedAt": "2026-08-13T12:46:21.316Z",
+  "verticalReviewedAt": "2026-08-16T14:19:57.235Z"
 }

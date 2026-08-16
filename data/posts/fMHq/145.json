@@ -29,8 +29,16 @@
       "subject": "과학",
       "unit": "물질의 상태 변화",
       "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "물질의 상태 변화",
+      "confidence": "medium"
     }
   ],
   "tagsNote": "석고 응고 실험 시 발열 관련 안전 주의사항 공유.",
-  "taggedAt": "2026-08-12T22:03:03.473Z"
+  "taggedAt": "2026-08-12T22:03:03.473Z",
+  "verticalReviewedAt": "2026-08-16T13:28:25.662Z"
 }

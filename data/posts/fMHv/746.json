@@ -24,8 +24,16 @@
       "subject": "과학",
       "unit": "별과 우주",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "별과 우주",
+      "confidence": "high"
     }
   ],
   "tagsNote": "동서남북 종이접기 퀴즈와 K볼 아이템을 결합한 우리 은하 단원 게임 활동 공유.",
-  "taggedAt": "2026-08-13T12:18:56.884Z"
+  "taggedAt": "2026-08-13T12:18:56.884Z",
+  "verticalReviewedAt": "2026-08-16T14:14:27.705Z"
 }

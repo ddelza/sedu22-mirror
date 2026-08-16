@@ -31,8 +31,23 @@
       "subject": "과학",
       "unit": "동물과 에너지",
       "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "식물과 에너지",
+      "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "동물과 에너지",
+      "confidence": "medium"
     }
   ],
   "tagsNote": "기후변화와 연계하여 식물·동물 단원을 함께 다룬 수업 이야기.",
-  "taggedAt": "2026-08-12T23:47:36.313Z"
+  "taggedAt": "2026-08-12T23:47:36.313Z",
+  "verticalReviewedAt": "2026-08-16T13:45:36.517Z"
 }

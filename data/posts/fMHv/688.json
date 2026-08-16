@@ -24,8 +24,16 @@
       "subject": "과학",
       "unit": "태양계",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "태양계",
+      "confidence": "high"
     }
   ],
   "tagsNote": "개학 첫 진도로 진행한 태양계 행성 여행 포스터 만들기 수업 공유.",
-  "taggedAt": "2026-08-13T12:15:58.703Z"
+  "taggedAt": "2026-08-13T12:15:58.703Z",
+  "verticalReviewedAt": "2026-08-16T14:13:23.942Z"
 }

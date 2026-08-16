@@ -31,8 +31,23 @@
       "subject": "과학",
       "unit": "열과 우리 생활",
       "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "물질의 상태 변화",
+      "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "열",
+      "confidence": "medium"
     }
   ],
   "tagsNote": "상태변화와 열에너지 단원 스토리텔링(미니북·영상) 수행평가의 자기평가·동료평가지 공유(물리·화학 내용, 지구과학 게시판과 다른 일반 게시판에 교차 게시됨).",
-  "taggedAt": "2026-08-13T13:04:51.251Z"
+  "taggedAt": "2026-08-13T13:04:51.251Z",
+  "verticalReviewedAt": "2026-08-16T14:24:17.072Z"
 }

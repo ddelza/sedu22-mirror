@@ -24,8 +24,16 @@
       "subject": "과학",
       "unit": "지권의 변화",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "지권의 변화",
+      "confidence": "high"
     }
   ],
   "tagsNote": "지구계 개념 설명에 나오는 예시들을 재해석해보는 교과서 수정 프로젝트 글.",
-  "taggedAt": "2026-08-13T05:30:34.576Z"
+  "taggedAt": "2026-08-13T05:30:34.576Z",
+  "verticalReviewedAt": "2026-08-16T14:02:29.743Z"
 }

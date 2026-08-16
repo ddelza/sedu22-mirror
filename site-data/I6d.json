@@ -178,6 +178,13 @@
         "subject": "과학",
         "unit": "기권과 날씨",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "날씨와 기후변화",
+        "confidence": "high"
       }
     ]
   },
@@ -645,6 +652,13 @@
         "schoolLevel": "중학교",
         "subject": "과학",
         "unit": "여러 가지 힘",
+        "confidence": "high"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "힘의 작용",
         "confidence": "high"
       }
     ]
@@ -2261,6 +2275,13 @@
         "subject": "과학",
         "unit": "태양계",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "태양계",
+        "confidence": "high"
       }
     ]
   },
@@ -2283,6 +2304,13 @@
       },
       {
         "curriculumYear": "2015",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "식물과 에너지",
+        "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2022",
         "schoolLevel": "중학교",
         "subject": "과학",
         "unit": "식물과 에너지",
@@ -2520,6 +2548,13 @@
         "schoolLevel": "중학교",
         "subject": "과학",
         "unit": "여러 가지 힘",
+        "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "힘의 작용",
         "confidence": "medium"
       }
     ]
@@ -3256,6 +3291,20 @@
         "subject": "과학",
         "unit": "열과 우리 생활",
         "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "물질의 상태 변화",
+        "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "열",
+        "confidence": "medium"
       }
     ]
   },
@@ -3278,6 +3327,13 @@
       },
       {
         "curriculumYear": "2015",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "식물과 에너지",
+        "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2022",
         "schoolLevel": "중학교",
         "subject": "과학",
         "unit": "식물과 에너지",
@@ -3307,6 +3363,13 @@
         "schoolLevel": "중학교",
         "subject": "과학",
         "unit": "열과 우리 생활",
+        "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "열",
         "confidence": "medium"
       }
     ]
@@ -3418,6 +3481,20 @@
         "schoolLevel": "중학교",
         "subject": "과학",
         "unit": "여러 가지 힘",
+        "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "지권의 변화",
+        "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "힘의 작용",
         "confidence": "medium"
       }
     ]
@@ -3857,6 +3934,13 @@
       },
       {
         "curriculumYear": "2015",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "생식과 유전",
+        "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2022",
         "schoolLevel": "중학교",
         "subject": "과학",
         "unit": "생식과 유전",
@@ -5343,6 +5427,13 @@
         "subject": "과학",
         "unit": "물질의 상태 변화",
         "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "물질의 상태 변화",
+        "confidence": "medium"
       }
     ]
   },
@@ -6015,6 +6106,13 @@
       },
       {
         "curriculumYear": "2015",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "빛과 파동",
+        "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2022",
         "schoolLevel": "중학교",
         "subject": "과학",
         "unit": "빛과 파동",

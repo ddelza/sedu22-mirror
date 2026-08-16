@@ -24,8 +24,16 @@
       "subject": "과학",
       "unit": "태양계",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "태양계",
+      "confidence": "high"
     }
   ],
   "tagsNote": "태양계 과학송 만들기 수행평가(10점) 진행 및 얼굴 노출 부담 학생을 위한 대안 안내.",
-  "taggedAt": "2026-08-13T12:05:07.474Z"
+  "taggedAt": "2026-08-13T12:05:07.474Z",
+  "verticalReviewedAt": "2026-08-16T14:05:29.609Z"
 }

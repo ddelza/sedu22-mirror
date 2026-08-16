@@ -29,8 +29,16 @@
       "category": "스마트 수업도구",
       "topic": "온라인 수업 자료",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "날씨와 기후변화",
+      "confidence": "high"
     }
   ],
   "tagsNote": "줌·e학습터와 연계해 실시간 활동 확인이 가능한 기권과 날씨 단원 nearpod 자료 공유.",
-  "taggedAt": "2026-08-13T12:17:30.100Z"
+  "taggedAt": "2026-08-13T12:17:30.100Z",
+  "verticalReviewedAt": "2026-08-16T14:13:23.957Z"
 }

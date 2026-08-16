@@ -24,8 +24,16 @@
       "subject": "과학",
       "unit": "생식과 유전",
       "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "생식과 유전",
+      "confidence": "medium"
     }
   ],
   "tagsNote": "생식과 발생을 다루는 1단원 학습지(교사용, 예시답 포함) 공유.",
-  "taggedAt": "2026-08-13T12:47:52.442Z"
+  "taggedAt": "2026-08-13T12:47:52.442Z",
+  "verticalReviewedAt": "2026-08-16T14:19:57.251Z"
 }

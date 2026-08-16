@@ -38,8 +38,16 @@
       "subject": "과학",
       "unit": "운동과 에너지",
       "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "운동과 에너지",
+      "confidence": "medium"
     }
   ],
   "tagsNote": "힘과 운동 부분(여러가지 힘·운동) 학습지 공유.",
-  "taggedAt": "2026-08-12T15:18:13.096Z"
+  "taggedAt": "2026-08-12T15:18:13.096Z",
+  "verticalReviewedAt": "2026-08-16T13:20:30.046Z"
 }

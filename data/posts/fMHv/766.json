@@ -24,8 +24,16 @@
       "subject": "과학",
       "unit": "별과 우주",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "별과 우주",
+      "confidence": "high"
     }
   ],
   "tagsNote": "여러 선생님과 과학교사K 자료를 참고해 만든 별과 우주 학습지 공유.",
-  "taggedAt": "2026-08-13T12:20:28.481Z"
+  "taggedAt": "2026-08-13T12:20:28.481Z",
+  "verticalReviewedAt": "2026-08-16T14:14:27.723Z"
 }

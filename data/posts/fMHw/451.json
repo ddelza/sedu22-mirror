@@ -24,8 +24,16 @@
       "subject": "과학",
       "unit": "태양계",
       "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "태양계",
+      "confidence": "medium"
     }
   ],
   "tagsNote": "에라토스테네스를 다룬 그림책 '지구둘레를 잰 도서관 사서'를 소개.",
-  "taggedAt": "2026-08-13T12:55:32.285Z"
+  "taggedAt": "2026-08-13T12:55:32.285Z",
+  "verticalReviewedAt": "2026-08-16T14:21:31.531Z"
 }

@@ -24,8 +24,16 @@
       "subject": "과학",
       "unit": "태양계",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "태양계",
+      "confidence": "high"
     }
   ],
   "tagsNote": "혁신학교 공개수업용 태양계 행성탐사 배움중심수업 지도안에 대한 조언 요청.",
-  "taggedAt": "2026-08-13T12:29:51.528Z"
+  "taggedAt": "2026-08-13T12:29:51.528Z",
+  "verticalReviewedAt": "2026-08-16T14:18:03.132Z"
 }

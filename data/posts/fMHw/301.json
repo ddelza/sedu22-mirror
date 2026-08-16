@@ -23,8 +23,16 @@
       "subject": "과학",
       "unit": "태양계",
       "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "태양계",
+      "confidence": "medium"
     }
   ],
   "tagsNote": "공전에 의한 현상 관련 시험 보기 내용이 수업 필기에 없어 학생들이 항의한 것에 대한 질문.",
-  "taggedAt": "2026-08-13T12:49:29.310Z"
+  "taggedAt": "2026-08-13T12:49:29.310Z",
+  "verticalReviewedAt": "2026-08-16T14:19:57.264Z"
 }

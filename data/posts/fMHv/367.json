@@ -24,8 +24,16 @@
       "subject": "과학",
       "unit": "태양계",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "태양계",
+      "confidence": "high"
     }
   ],
   "tagsNote": "행성 암기에 흥미를 못 느끼는 학생들을 위해 만든 단원 정리용 '태양계 전쟁' 게임 소개.",
-  "taggedAt": "2026-08-13T11:51:32.477Z"
+  "taggedAt": "2026-08-13T11:51:32.477Z",
+  "verticalReviewedAt": "2026-08-16T14:03:58.318Z"
 }

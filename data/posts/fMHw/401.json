@@ -24,8 +24,16 @@
       "subject": "과학",
       "unit": "태양계",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "태양계",
+      "confidence": "high"
     }
   ],
   "tagsNote": "화성 탐사 다큐(이명현 박사 KBS) 활동지의 정답지 사진 추가 공유.",
-  "taggedAt": "2026-08-13T12:52:37.723Z"
+  "taggedAt": "2026-08-13T12:52:37.723Z",
+  "verticalReviewedAt": "2026-08-16T14:21:31.516Z"
 }

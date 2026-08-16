@@ -38,8 +38,16 @@
       "subject": "과학",
       "unit": "여러 가지 힘",
       "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "힘의 작용",
+      "confidence": "medium"
     }
   ],
   "tagsNote": "기체의 압력과 힘 개념을 결합한 빨대잠수부 대체 실험 공유.",
-  "taggedAt": "2026-08-12T22:25:45.018Z"
+  "taggedAt": "2026-08-12T22:25:45.018Z",
+  "verticalReviewedAt": "2026-08-16T13:35:13.879Z"
 }

@@ -24,8 +24,16 @@
       "subject": "과학",
       "unit": "태양계",
       "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "태양계",
+      "confidence": "medium"
     }
   ],
   "tagsNote": "독서 수행평가와 융합해 진행한 화성 여행안내 포스터 만들기 학생 작품 공유.",
-  "taggedAt": "2026-08-13T12:56:59.863Z"
+  "taggedAt": "2026-08-13T12:56:59.863Z",
+  "verticalReviewedAt": "2026-08-16T14:21:31.540Z"
 }

@@ -38,8 +38,16 @@
       "subject": "과학",
       "unit": "여러 가지 힘",
       "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "힘의 작용",
+      "confidence": "medium"
     }
   ],
   "tagsNote": "아르키메데스 가짜 왕관 찾기(밀도·부력) 원리 검증 질문.",
-  "taggedAt": "2026-08-12T15:40:05.131Z"
+  "taggedAt": "2026-08-12T15:40:05.131Z",
+  "verticalReviewedAt": "2026-08-16T13:24:23.837Z"
 }

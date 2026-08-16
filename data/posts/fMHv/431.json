@@ -24,8 +24,16 @@
       "subject": "과학",
       "unit": "태양계",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "태양계",
+      "confidence": "high"
     }
   ],
   "tagsNote": "달 수업 후 중간고사 뒤 여유시간에 진행한 '달이 있는 풍경 그리기' 창작 활동.",
-  "taggedAt": "2026-08-13T12:06:46.577Z"
+  "taggedAt": "2026-08-13T12:06:46.577Z",
+  "verticalReviewedAt": "2026-08-16T14:05:29.645Z"
 }

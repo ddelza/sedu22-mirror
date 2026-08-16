@@ -38,8 +38,16 @@
       "subject": "과학",
       "unit": "열과 우리 생활",
       "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "열",
+      "confidence": "medium"
     }
   ],
   "tagsNote": "물질의 특성·열과 우리 생활과 연계한 학년말 달고나 만들기 활동 공유.",
-  "taggedAt": "2026-08-12T22:15:07.540Z"
+  "taggedAt": "2026-08-12T22:15:07.540Z",
+  "verticalReviewedAt": "2026-08-16T13:31:35.102Z"
 }

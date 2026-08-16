@@ -24,8 +24,16 @@
       "subject": "과학",
       "unit": "생물의 다양성",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "생물의 구성과 다양성",
+      "confidence": "high"
     }
   ],
   "tagsNote": "멸종위기 생물 프로필 카드 제작 수행평가(단원 재구성) 공유.",
-  "taggedAt": "2026-08-12T22:37:50.344Z"
+  "taggedAt": "2026-08-12T22:37:50.344Z",
+  "verticalReviewedAt": "2026-08-16T13:39:59.657Z"
 }

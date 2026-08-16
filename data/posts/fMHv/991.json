@@ -24,8 +24,16 @@
       "subject": "과학",
       "unit": "태양계",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "태양계",
+      "confidence": "high"
     }
   ],
   "tagsNote": "같은 PPT 틀로 준비해 진행하는 태양계 릴레이발표 수업 공유.",
-  "taggedAt": "2026-08-13T12:29:51.530Z"
+  "taggedAt": "2026-08-13T12:29:51.530Z",
+  "verticalReviewedAt": "2026-08-16T14:18:03.136Z"
 }

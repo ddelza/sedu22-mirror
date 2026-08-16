@@ -38,8 +38,16 @@
       "subject": "과학",
       "unit": "물질의 상태 변화",
       "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "물질의 상태 변화",
+      "confidence": "medium"
     }
   ],
   "tagsNote": "확산·증발을 표현하는 분자운동 역할극 활동 공유.",
-  "taggedAt": "2026-08-12T22:24:08.734Z"
+  "taggedAt": "2026-08-12T22:24:08.734Z",
+  "verticalReviewedAt": "2026-08-16T13:35:13.856Z"
 }

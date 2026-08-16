@@ -29,6 +29,20 @@
         "subject": "과학",
         "unit": "기권과 날씨",
         "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "생물의 구성과 다양성",
+        "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "날씨와 기후변화",
+        "confidence": "medium"
       }
     ]
   },
@@ -2800,6 +2814,13 @@
         "subject": "과학",
         "unit": "태양계",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "태양계",
+        "confidence": "high"
       }
     ]
   },
@@ -3810,6 +3831,13 @@
         "subject": "과학",
         "unit": "자극과 반응",
         "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "자극과 반응",
+        "confidence": "medium"
       }
     ]
   },
@@ -4093,6 +4121,13 @@
       },
       {
         "curriculumYear": "2015",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "태양계",
+        "confidence": "high"
+      },
+      {
+        "curriculumYear": "2022",
         "schoolLevel": "중학교",
         "subject": "과학",
         "unit": "태양계",
@@ -4637,6 +4672,13 @@
         "subject": "과학",
         "unit": "자극과 반응",
         "confidence": "low"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "자극과 반응",
+        "confidence": "low"
       }
     ]
   },
@@ -4829,6 +4871,20 @@
       },
       {
         "curriculumYear": "2015",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "지권의 변화",
+        "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "날씨와 기후변화",
+        "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2022",
         "schoolLevel": "중학교",
         "subject": "과학",
         "unit": "지권의 변화",
@@ -5140,6 +5196,13 @@
       },
       {
         "curriculumYear": "2015",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "태양계",
+        "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2022",
         "schoolLevel": "중학교",
         "subject": "과학",
         "unit": "태양계",
@@ -5793,6 +5856,13 @@
       },
       {
         "curriculumYear": "2015",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "수권과 해수의 순환",
+        "confidence": "high"
+      },
+      {
+        "curriculumYear": "2022",
         "schoolLevel": "중학교",
         "subject": "과학",
         "unit": "수권과 해수의 순환",
@@ -6456,6 +6526,13 @@
         "subject": "과학",
         "unit": "태양계",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "태양계",
+        "confidence": "high"
       }
     ]
   },
@@ -6749,6 +6826,13 @@
         "subject": "과학",
         "unit": "태양계",
         "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "태양계",
+        "confidence": "medium"
       }
     ]
   },
@@ -6945,6 +7029,13 @@
         "subject": "과학",
         "unit": "빛과 파동",
         "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "빛",
+        "confidence": "medium"
       }
     ]
   },
@@ -7118,6 +7209,13 @@
       },
       {
         "curriculumYear": "2015",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "별과 우주",
+        "confidence": "high"
+      },
+      {
+        "curriculumYear": "2022",
         "schoolLevel": "중학교",
         "subject": "과학",
         "unit": "별과 우주",
@@ -8067,6 +8165,13 @@
         "subject": "과학",
         "unit": "수권과 해수의 순환",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "수권과 해수의 순환",
+        "confidence": "medium"
       }
     ]
   },
@@ -8833,6 +8938,13 @@
       },
       {
         "curriculumYear": "2015",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "태양계",
+        "confidence": "high"
+      },
+      {
+        "curriculumYear": "2022",
         "schoolLevel": "중학교",
         "subject": "과학",
         "unit": "태양계",
@@ -10131,6 +10243,20 @@
         "subject": "과학",
         "unit": "별과 우주",
         "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "태양계",
+        "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "별과 우주",
+        "confidence": "medium"
       }
     ]
   },
@@ -10521,6 +10647,13 @@
         "subject": "과학",
         "unit": "별과 우주",
         "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "별과 우주",
+        "confidence": "medium"
       }
     ]
   },
@@ -10769,6 +10902,13 @@
         "subject": "과학",
         "unit": "태양계",
         "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "태양계",
+        "confidence": "medium"
       }
     ]
   },
@@ -10801,6 +10941,13 @@
         "schoolLevel": "중학교",
         "subject": "과학",
         "unit": "여러 가지 화학 반응",
+        "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "태양계",
         "confidence": "medium"
       }
     ]
@@ -10880,6 +11027,13 @@
         "subject": "과학",
         "unit": "운동과 에너지",
         "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "운동과 에너지",
+        "confidence": "medium"
       }
     ]
   },
@@ -10954,6 +11108,13 @@
       },
       {
         "curriculumYear": "2015",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "운동과 에너지",
+        "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2022",
         "schoolLevel": "중학교",
         "subject": "과학",
         "unit": "운동과 에너지",
@@ -11303,6 +11464,13 @@
         "subject": "과학",
         "unit": "태양계",
         "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "태양계",
+        "confidence": "medium"
       }
     ]
   },
@@ -11377,6 +11545,13 @@
       },
       {
         "curriculumYear": "2015",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "물질의 특성",
+        "confidence": "low"
+      },
+      {
+        "curriculumYear": "2022",
         "schoolLevel": "중학교",
         "subject": "과학",
         "unit": "물질의 특성",
@@ -11773,6 +11948,13 @@
         "subject": "과학",
         "unit": "별과 우주",
         "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "별과 우주",
+        "confidence": "medium"
       }
     ]
   },
@@ -11835,6 +12017,20 @@
       },
       {
         "curriculumYear": "2015",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "별과 우주",
+        "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "태양계",
+        "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2022",
         "schoolLevel": "중학교",
         "subject": "과학",
         "unit": "별과 우주",
@@ -12160,6 +12356,13 @@
         "subject": "과학",
         "unit": "생식과 유전",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "생식과 유전",
+        "confidence": "high"
       }
     ]
   },
@@ -12182,6 +12385,13 @@
       },
       {
         "curriculumYear": "2015",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "생식과 유전",
+        "confidence": "low"
+      },
+      {
+        "curriculumYear": "2022",
         "schoolLevel": "중학교",
         "subject": "과학",
         "unit": "생식과 유전",
@@ -12316,6 +12526,13 @@
         "subject": "과학",
         "unit": "전기와 자기",
         "confidence": "low"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "전기와 자기",
+        "confidence": "low"
       }
     ]
   },
@@ -12442,6 +12659,13 @@
       },
       {
         "curriculumYear": "2015",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "전기와 자기",
+        "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2022",
         "schoolLevel": "중학교",
         "subject": "과학",
         "unit": "전기와 자기",
@@ -13098,6 +13322,13 @@
         "subject": "과학",
         "unit": "수권과 해수의 순환",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "수권과 해수의 순환",
+        "confidence": "high"
       }
     ]
   },
@@ -13401,6 +13632,13 @@
       },
       {
         "curriculumYear": "2015",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "수권과 해수의 순환",
+        "confidence": "high"
+      },
+      {
+        "curriculumYear": "2022",
         "schoolLevel": "중학교",
         "subject": "과학",
         "unit": "수권과 해수의 순환",
@@ -13861,6 +14099,20 @@
         "subject": "과학",
         "unit": "생식과 유전",
         "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "태양계",
+        "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "생식과 유전",
+        "confidence": "medium"
       }
     ]
   },
@@ -13939,6 +14191,13 @@
         "subject": "과학",
         "unit": "생식과 유전",
         "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "생식과 유전",
+        "confidence": "medium"
       }
     ]
   },
@@ -13972,6 +14231,20 @@
         "subject": "과학",
         "unit": "기권과 날씨",
         "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "수권과 해수의 순환",
+        "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "날씨와 기후변화",
+        "confidence": "medium"
       }
     ]
   },
@@ -14001,6 +14274,20 @@
       },
       {
         "curriculumYear": "2015",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "전기와 자기",
+        "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "물질 변화",
+        "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2022",
         "schoolLevel": "중학교",
         "subject": "과학",
         "unit": "전기와 자기",

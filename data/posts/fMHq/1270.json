@@ -31,8 +31,23 @@
       "subject": "과학",
       "unit": "물질의 특성",
       "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "물질의 구성",
+      "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "물질의 특성",
+      "confidence": "medium"
     }
   ],
   "tagsNote": "단원 재구성(물질의 구성 선행) 시 순물질 분류 지도의 선행학습 여부 질문.",
-  "taggedAt": "2026-08-12T21:59:47.574Z"
+  "taggedAt": "2026-08-12T21:59:47.574Z",
+  "verticalReviewedAt": "2026-08-16T13:26:20.686Z"
 }

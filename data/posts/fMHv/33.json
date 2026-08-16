@@ -24,8 +24,16 @@
       "subject": "과학",
       "unit": "지권의 변화",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "지권의 변화",
+      "confidence": "high"
     }
   ],
   "tagsNote": "교과서 자료를 이용해 만든 지권의 변화 단원 수행평가 자료 공유.",
-  "taggedAt": "2026-08-13T11:49:45.438Z"
+  "taggedAt": "2026-08-13T11:49:45.438Z",
+  "verticalReviewedAt": "2026-08-16T14:02:29.766Z"
 }

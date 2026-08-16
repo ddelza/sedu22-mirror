@@ -24,8 +24,16 @@
       "subject": "과학",
       "unit": "별과 우주",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "별과 우주",
+      "confidence": "high"
     }
   ],
   "tagsNote": "쿠킹호일 대신 그림과 모둠 협동 요소를 결합한 우리 은하 표현하기 활동 공유.",
-  "taggedAt": "2026-08-13T12:18:56.888Z"
+  "taggedAt": "2026-08-13T12:18:56.888Z",
+  "verticalReviewedAt": "2026-08-16T14:14:27.713Z"
 }

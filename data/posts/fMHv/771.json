@@ -24,8 +24,16 @@
       "subject": "과학",
       "unit": "별과 우주",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "별과 우주",
+      "confidence": "high"
     }
   ],
   "tagsNote": "다른 선생님이 올린 별자리 퍼즐(모자이크 별자리) 문제를 직접 풀어본 풀이 공유.",
-  "taggedAt": "2026-08-13T12:20:28.485Z"
+  "taggedAt": "2026-08-13T12:20:28.485Z",
+  "verticalReviewedAt": "2026-08-16T14:14:27.732Z"
 }

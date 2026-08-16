@@ -38,8 +38,16 @@
       "subject": "과학",
       "unit": "기체의 성질",
       "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "기체의 성질",
+      "confidence": "medium"
     }
   ],
   "tagsNote": "상태변화와 열에너지, 샤를·보일 법칙 통합 쪽지시험 자료 공유.",
-  "taggedAt": "2026-08-12T22:24:08.735Z"
+  "taggedAt": "2026-08-12T22:24:08.735Z",
+  "verticalReviewedAt": "2026-08-16T13:35:13.863Z"
 }

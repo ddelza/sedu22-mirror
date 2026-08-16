@@ -31,8 +31,16 @@
       "subject": "과학",
       "unit": "빛과 파동",
       "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "빛",
+      "confidence": "medium"
     }
   ],
   "tagsNote": "온라인 수업 집중도를 높이기 위한 더빙 수업 방식을 2학년 배설계·1학년 빛 단원 예시로 소개(생물·물리 내용, 지구과학 게시판과 다른 일반 게시판에 교차 게시됨).",
-  "taggedAt": "2026-08-13T12:46:21.335Z"
+  "taggedAt": "2026-08-13T12:46:21.335Z",
+  "verticalReviewedAt": "2026-08-16T14:19:57.242Z"
 }
