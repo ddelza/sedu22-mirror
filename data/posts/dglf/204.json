@@ -24,8 +24,16 @@
       "subject": "통합과학",
       "unit": "생태계와 환경",
       "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "고등학교",
+      "subject": "통합과학2",
+      "unit": "환경과 에너지",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "온실기체/영구동토층 내용 정리 요청(기후변화-바이러스 연결).",
-  "taggedAt": "2026-08-12T03:12:26.717Z"
+  "tagsNote": "온실기체/영구동토층 내용 정리 요청(기후변화-바이러스 연결). [보완: 2015 '생태계와 환경'↔2022 '환경과 에너지' 수평 대응]",
+  "taggedAt": "2026-08-12T03:12:26.717Z",
+  "verticalReviewedAt": "2026-08-16T07:55:56.742Z"
 }

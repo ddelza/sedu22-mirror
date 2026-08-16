@@ -24,8 +24,16 @@
       "subject": "생명과학Ⅰ",
       "unit": "유전",
       "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "고등학교",
+      "subject": "생물의 유전",
+      "unit": "유전자와 유전물질",
+      "confidence": "high"
     }
   ],
-  "tagsNote": "이중나선(DNA 발견사) 독서연계 수행평가.",
-  "taggedAt": "2026-08-12T03:13:59.124Z"
+  "tagsNote": "이중나선(DNA 발견사) 독서연계 수행평가. [보완: DNA 구조·반보존적 복제(메셀슨-스탈) 내용이라 2022 진로선택 '생물의 유전>유전자와 유전물질'과 대응]",
+  "taggedAt": "2026-08-12T03:13:59.124Z",
+  "verticalReviewedAt": "2026-08-16T07:56:50.695Z"
 }

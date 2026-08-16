@@ -29,8 +29,16 @@
       "category": "과학교사 업무",
       "topic": "동아리 운영",
       "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "고등학교",
+      "subject": "생명과학",
+      "unit": "생명의 연속성과 다양성",
+      "confidence": "high"
     }
   ],
-  "tagsNote": "DNA X선 회절 패턴 재현 모의실험(동아리 준비).",
-  "taggedAt": "2026-08-12T03:12:26.738Z"
+  "tagsNote": "DNA X선 회절 패턴 재현 모의실험(동아리 준비). [보완: 2015 '유전'(DNA구조)↔2022 '생명의 연속성과 다양성' 수평 대응]",
+  "taggedAt": "2026-08-12T03:12:26.738Z",
+  "verticalReviewedAt": "2026-08-16T07:55:56.752Z"
 }

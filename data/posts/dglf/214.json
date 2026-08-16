@@ -24,8 +24,16 @@
       "subject": "생명과학",
       "unit": "생명시스템의 구성",
       "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "고등학교",
+      "subject": "생명과학Ⅰ",
+      "unit": "생명과학의 이해",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "꽃잎 현미경 관찰(액포 터짐 현상) 질문.",
-  "taggedAt": "2026-08-12T03:12:26.736Z"
+  "tagsNote": "꽃잎 현미경 관찰(액포 터짐 현상) 질문. [보완: 2022만 있던 글에 2015 '생명과학의 이해'(세포 관찰) 역방향 보완]",
+  "taggedAt": "2026-08-12T03:12:26.736Z",
+  "verticalReviewedAt": "2026-08-16T07:55:56.751Z"
 }

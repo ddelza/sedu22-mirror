@@ -24,8 +24,16 @@
       "subject": "생명과학Ⅰ",
       "unit": "사람의 물질대사",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "고등학교",
+      "subject": "생명과학",
+      "unit": "생명시스템의 구성",
+      "confidence": "high"
     }
   ],
-  "tagsNote": "생콩즙 요소분해효소 실험(BTB 색변화) 질문(생1 명시).",
-  "taggedAt": "2026-08-12T03:12:26.758Z"
+  "tagsNote": "생콩즙 요소분해효소 실험(BTB 색변화) 질문(생1 명시). [보완: 2015 '사람의 물질대사'(효소)↔2022 '생명시스템의 구성' 수평 대응]",
+  "taggedAt": "2026-08-12T03:12:26.758Z",
+  "verticalReviewedAt": "2026-08-16T07:56:50.683Z"
 }

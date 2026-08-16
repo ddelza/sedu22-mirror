@@ -24,8 +24,16 @@
       "subject": "생명과학Ⅰ",
       "unit": "항상성과 몸의 조절",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "고등학교",
+      "subject": "생명과학",
+      "unit": "항상성과 몸의 조절",
+      "confidence": "high"
     }
   ],
-  "tagsNote": "면역반응 9차시 학습 후 백신개발 프로젝트/면역학자 특강.",
-  "taggedAt": "2026-08-12T03:12:26.721Z"
+  "tagsNote": "면역반응 9차시 학습 후 백신개발 프로젝트/면역학자 특강. [보완: 2015 '항상성과 몸의 조절'↔2022 동일 단원명 유지]",
+  "taggedAt": "2026-08-12T03:12:26.721Z",
+  "verticalReviewedAt": "2026-08-16T07:55:56.743Z"
 }

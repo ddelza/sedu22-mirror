@@ -24,8 +24,16 @@
       "subject": "생명과학",
       "unit": "생명시스템의 구성",
       "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "고등학교",
+      "subject": "생명과학Ⅰ",
+      "unit": "사람의 물질대사",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "생명과학II 삼투현상 관찰(양파/적혈구) 수행평가.",
-  "taggedAt": "2026-08-12T03:13:59.120Z"
+  "tagsNote": "생명과학II 삼투현상 관찰(양파/적혈구) 수행평가. [보완: 2022만 있던 글에 2015 '사람의 물질대사'(삼투현상) 역방향 보완]",
+  "taggedAt": "2026-08-12T03:13:59.120Z",
+  "verticalReviewedAt": "2026-08-16T07:56:50.694Z"
 }

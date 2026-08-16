@@ -24,8 +24,16 @@
       "subject": "생명과학Ⅰ",
       "unit": "사람의 물질대사",
       "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "고등학교",
+      "subject": "생명과학",
+      "unit": "생명시스템의 구성",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "식물이 물을 필요로 하는 이유(광합성) 탐구질문.",
-  "taggedAt": "2026-08-12T03:13:59.094Z"
+  "tagsNote": "식물이 물을 필요로 하는 이유(광합성) 탐구질문. [보완: 2015 '사람의 물질대사'(광합성)↔2022 '생명시스템의 구성' 수평 대응]",
+  "taggedAt": "2026-08-12T03:13:59.094Z",
+  "verticalReviewedAt": "2026-08-16T07:56:50.687Z"
 }
