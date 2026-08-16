@@ -24,8 +24,16 @@
       "subject": "물리학Ⅰ",
       "unit": "물질과 전자기장",
       "confidence": "low"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "고등학교",
+      "subject": "물리학",
+      "unit": "전기와 자기",
+      "confidence": "low"
     }
   ],
-  "tagsNote": "조선시대 실학자 이덕무의 정전기 관찰 기록 소개.",
-  "taggedAt": "2026-08-12T04:15:30.412Z"
+  "tagsNote": "조선시대 실학자 이덕무의 정전기 관찰 기록 소개. [보완: 2015 '물질과 전자기장'(정전기)↔2022 '전기와 자기' 수평 대응]",
+  "taggedAt": "2026-08-12T04:15:30.412Z",
+  "verticalReviewedAt": "2026-08-16T08:14:33.071Z"
 }

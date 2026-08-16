@@ -29,8 +29,16 @@
       "subject": "생명과학Ⅰ",
       "unit": "생명과학의 이해",
       "confidence": "low"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "고등학교",
+      "subject": "생명과학",
+      "unit": "생명시스템의 구성",
+      "confidence": "low"
     }
   ],
-  "tagsNote": "챗GPT 프롬프트20('보리싹 키우기' 탐구 세특 작성).",
-  "taggedAt": "2026-08-12T03:52:36.715Z"
+  "tagsNote": "챗GPT 프롬프트20('보리싹 키우기' 탐구 세특 작성). [보완: 2015 '생명과학의 이해'↔2022 '생명시스템의 구성' 수평 대응]",
+  "taggedAt": "2026-08-12T03:52:36.715Z",
+  "verticalReviewedAt": "2026-08-16T08:14:33.064Z"
 }

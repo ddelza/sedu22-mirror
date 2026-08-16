@@ -29,8 +29,23 @@
       "category": "스마트 수업도구",
       "topic": "생성형 AI 도구",
       "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "고등학교",
+      "subject": "통합과학2",
+      "unit": "변화와 다양성",
+      "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "고등학교",
+      "subject": "통합과학2",
+      "unit": "환경과 에너지",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "AI 티처스 활동(그린란드 생태계 재현) 수업 적용 사례.",
-  "taggedAt": "2026-08-12T03:55:07.769Z"
+  "tagsNote": "AI 티처스 활동(그린란드 생태계 재현) 수업 적용 사례. [보완: 본문에 2022 '변화와 다양성', '환경과 에너지' 두 단원 연계가 명시되어 있어 보완]",
+  "taggedAt": "2026-08-12T03:55:07.769Z",
+  "verticalReviewedAt": "2026-08-16T08:14:33.069Z"
 }
