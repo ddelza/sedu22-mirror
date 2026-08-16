@@ -24,8 +24,16 @@
       "subject": "생명과학",
       "unit": "생명의 연속성과 다양성",
       "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "고등학교",
+      "subject": "생명과학Ⅱ",
+      "unit": "생물의 진화와 다양성",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "세렝게티 시민과학 프로젝트(동물 분류, 생명다양성 탐구 활용).",
-  "taggedAt": "2026-08-12T00:23:05.974Z"
+  "tagsNote": "세렝게티 시민과학 프로젝트(동물 분류, 생명다양성 탐구 활용). [보완: 2022만 있던 글에 2015 '생물의 진화와 다양성'(분류·다양성) 역방향 보완]",
+  "taggedAt": "2026-08-12T00:23:05.974Z",
+  "verticalReviewedAt": "2026-08-16T07:52:30.843Z"
 }

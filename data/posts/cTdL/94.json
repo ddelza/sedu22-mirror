@@ -24,8 +24,16 @@
       "subject": "통합과학",
       "unit": "생명 시스템",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "고등학교",
+      "subject": "통합과학1",
+      "unit": "시스템과 상호작용",
+      "confidence": "high"
     }
   ],
-  "tagsNote": "생명시스템 단원도입 초성맞추기 활동(특성화고).",
-  "taggedAt": "2026-08-12T00:23:05.965Z"
+  "tagsNote": "생명시스템 단원도입 초성맞추기 활동(특성화고). [보완: 2015 '생명 시스템'↔2022 '시스템과 상호작용' 수평 대응]",
+  "taggedAt": "2026-08-12T00:23:05.965Z",
+  "verticalReviewedAt": "2026-08-16T07:52:30.839Z"
 }

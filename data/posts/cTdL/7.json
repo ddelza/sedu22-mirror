@@ -24,8 +24,16 @@
       "subject": "통합과학",
       "unit": "지구 시스템",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "고등학교",
+      "subject": "통합과학1",
+      "unit": "시스템과 상호작용",
+      "confidence": "high"
     }
   ],
-  "tagsNote": "풍선을 이용한 우주팽창 실험 후 활용 아이디어.",
-  "taggedAt": "2026-08-12T00:23:05.953Z"
+  "tagsNote": "풍선을 이용한 우주팽창 실험 후 활용 아이디어. [보완: 2015 '지구 시스템'↔2022 '시스템과 상호작용' 수평 대응]",
+  "taggedAt": "2026-08-12T00:23:05.953Z",
+  "verticalReviewedAt": "2026-08-16T07:51:18.628Z"
 }

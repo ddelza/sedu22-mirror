@@ -24,8 +24,16 @@
       "subject": "생명과학",
       "unit": "생명의 연속성과 다양성",
       "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "고등학교",
+      "subject": "생명과학Ⅰ",
+      "unit": "유전",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "해캄 엽록체/핵분열 단계 관찰 질문.",
-  "taggedAt": "2026-08-12T00:24:29.190Z"
+  "tagsNote": "해캄 엽록체/핵분열 단계 관찰 질문. [보완: 2022만 있던 글에 2015 '유전'(세포분열 배경지식) 역방향 보완]",
+  "taggedAt": "2026-08-12T00:24:29.190Z",
+  "verticalReviewedAt": "2026-08-16T07:52:30.846Z"
 }

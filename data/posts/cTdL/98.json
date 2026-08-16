@@ -29,8 +29,16 @@
       "category": "스마트 수업도구",
       "topic": "앱/프로그램",
       "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "고등학교",
+      "subject": "통합과학1",
+      "unit": "시스템과 상호작용",
+      "confidence": "high"
     }
   ],
-  "tagsNote": "엔트리 코딩으로 자유낙하/포물선 운동 표현 수행평가.",
-  "taggedAt": "2026-08-12T00:23:05.968Z"
+  "tagsNote": "엔트리 코딩으로 자유낙하/포물선 운동 표현 수행평가. [보완: 2015 '역학적 시스템'↔2022 '시스템과 상호작용' 수평 대응]",
+  "taggedAt": "2026-08-12T00:23:05.968Z",
+  "verticalReviewedAt": "2026-08-16T07:52:30.841Z"
 }

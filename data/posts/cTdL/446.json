@@ -24,8 +24,16 @@
       "subject": "통합과학",
       "unit": "물질의 규칙성과 결합",
       "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "고등학교",
+      "subject": "통합과학1",
+      "unit": "물질과 규칙성",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "전자껍질/알칼리금속 이해를 위한 주기율표 복습자료.",
-  "taggedAt": "2026-08-12T00:21:28.526Z"
+  "tagsNote": "전자껍질/알칼리금속 이해를 위한 주기율표 복습자료. [보완: 2015 '물질의 규칙성과 결합'↔2022 '물질과 규칙성' 수평 대응]",
+  "taggedAt": "2026-08-12T00:21:28.526Z",
+  "verticalReviewedAt": "2026-08-16T07:50:41.673Z"
 }

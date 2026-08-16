@@ -29,8 +29,16 @@
       "category": "스마트 수업도구",
       "topic": "앱/프로그램",
       "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "고등학교",
+      "subject": "통합과학1",
+      "unit": "시스템과 상호작용",
+      "confidence": "high"
     }
   ],
-  "tagsNote": "동영상 운동 분석 도구(자바 실험실) 활용 문의.",
-  "taggedAt": "2026-08-12T00:21:28.534Z"
+  "tagsNote": "동영상 운동 분석 도구(자바 실험실) 활용 문의. [보완: 2015 '역학적 시스템'↔2022 '시스템과 상호작용' 수평 대응]",
+  "taggedAt": "2026-08-12T00:21:28.534Z",
+  "verticalReviewedAt": "2026-08-16T07:50:41.681Z"
 }

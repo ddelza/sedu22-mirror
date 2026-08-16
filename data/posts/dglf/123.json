@@ -24,8 +24,16 @@
       "subject": "생명과학Ⅰ",
       "unit": "항상성과 몸의 조절",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "고등학교",
+      "subject": "생명과학",
+      "unit": "항상성과 몸의 조절",
+      "confidence": "high"
     }
   ],
-  "tagsNote": "손가락 신경(감각/운동뉴런) 질문.",
-  "taggedAt": "2026-08-12T00:24:29.192Z"
+  "tagsNote": "손가락 신경(감각/운동뉴런) 질문. [보완: 2015 '항상성과 몸의 조절'↔2022 동일 단원명 유지]",
+  "taggedAt": "2026-08-12T00:24:29.192Z",
+  "verticalReviewedAt": "2026-08-16T07:52:30.849Z"
 }

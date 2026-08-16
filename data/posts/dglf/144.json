@@ -29,8 +29,16 @@
       "category": "과학교사 업무",
       "topic": "동아리 운영",
       "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "고등학교",
+      "subject": "생명과학Ⅱ",
+      "unit": "생물의 진화와 다양성",
+      "confidence": "high"
     }
   ],
-  "tagsNote": "바이오모프로 배우는 생물의 진화(영재수업/방과후 추천).",
-  "taggedAt": "2026-08-12T00:24:29.209Z"
+  "tagsNote": "바이오모프로 배우는 생물의 진화(영재수업/방과후 추천). [보완: 2022만 있던 글에 2015 '생물의 진화와 다양성'(진화) 역방향 보완]",
+  "taggedAt": "2026-08-12T00:24:29.209Z",
+  "verticalReviewedAt": "2026-08-16T07:53:10.748Z"
 }

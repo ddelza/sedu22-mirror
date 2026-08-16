@@ -24,8 +24,16 @@
       "subject": "통합과학1",
       "unit": "물질과 규칙성",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "고등학교",
+      "subject": "통합과학",
+      "unit": "물질의 규칙성과 결합",
+      "confidence": "high"
     }
   ],
-  "tagsNote": "교과서골든벨 - 우주 초기 형성 원소(우주의 탄생) 활동.",
-  "taggedAt": "2026-08-12T00:21:28.532Z"
+  "tagsNote": "교과서골든벨 - 우주 초기 형성 원소(우주의 탄생) 활동. [보완: 2022만 있던 글에 2015 '물질의 규칙성과 결합' 역방향 보완]",
+  "taggedAt": "2026-08-12T00:21:28.532Z",
+  "verticalReviewedAt": "2026-08-16T07:50:41.678Z"
 }

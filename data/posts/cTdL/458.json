@@ -29,8 +29,16 @@
       "category": "스마트 수업도구",
       "topic": "앱/프로그램",
       "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "고등학교",
+      "subject": "통합과학1",
+      "unit": "시스템과 상호작용",
+      "confidence": "high"
     }
   ],
-  "tagsNote": "codepen 기반 생명 시스템(전사/번역, 효소작용) 시뮬레이션.",
-  "taggedAt": "2026-08-12T00:21:28.533Z"
+  "tagsNote": "codepen 기반 생명 시스템(전사/번역, 효소작용) 시뮬레이션. [보완: 2015 '생명 시스템'↔2022 '시스템과 상호작용' 수평 대응]",
+  "taggedAt": "2026-08-12T00:21:28.533Z",
+  "verticalReviewedAt": "2026-08-16T07:50:41.680Z"
 }

@@ -24,8 +24,16 @@
       "subject": "통합과학",
       "unit": "물질의 규칙성과 결합",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "고등학교",
+      "subject": "통합과학1",
+      "unit": "물질과 규칙성",
+      "confidence": "high"
     }
   ],
-  "tagsNote": "공유결합 스티커붙이기 활동 자료 문의.",
-  "taggedAt": "2026-08-12T00:23:05.952Z"
+  "tagsNote": "공유결합 스티커붙이기 활동 자료 문의. [보완: 2015 '물질의 규칙성과 결합'↔2022 '물질과 규칙성' 수평 대응]",
+  "taggedAt": "2026-08-12T00:23:05.952Z",
+  "verticalReviewedAt": "2026-08-16T07:51:18.627Z"
 }

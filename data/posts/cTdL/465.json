@@ -24,8 +24,16 @@
       "subject": "과학탐구실험",
       "unit": "첨단 과학 탐구",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "고등학교",
+      "subject": "과학탐구실험2",
+      "unit": "미래 사회와 첨단 과학 탐구",
+      "confidence": "high"
     }
   ],
-  "tagsNote": "생체모방 기술 빙고 수업 자료 수정본(261 후속).",
-  "taggedAt": "2026-08-12T00:21:28.537Z"
+  "tagsNote": "생체모방 기술 빙고 수업 자료 수정본(261 후속). [보완: 2015 '첨단 과학 탐구'↔2022 '미래 사회와 첨단 과학 탐구' 수평 대응]",
+  "taggedAt": "2026-08-12T00:21:28.537Z",
+  "verticalReviewedAt": "2026-08-16T07:50:41.685Z"
 }

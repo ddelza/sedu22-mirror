@@ -24,8 +24,16 @@
       "subject": "생명과학Ⅰ",
       "unit": "항상성과 몸의 조절",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "고등학교",
+      "subject": "생명과학",
+      "unit": "항상성과 몸의 조절",
+      "confidence": "high"
     }
   ],
-  "tagsNote": "뇌의 구조와 기능 지도(노래 활용) 자료.",
-  "taggedAt": "2026-08-12T00:24:29.195Z"
+  "tagsNote": "뇌의 구조와 기능 지도(노래 활용) 자료. [보완: 2015 '항상성과 몸의 조절'↔2022 동일 단원명 유지]",
+  "taggedAt": "2026-08-12T00:24:29.195Z",
+  "verticalReviewedAt": "2026-08-16T07:53:10.736Z"
 }

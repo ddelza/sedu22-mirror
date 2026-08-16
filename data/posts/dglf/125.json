@@ -24,8 +24,16 @@
       "subject": "생명과학Ⅰ",
       "unit": "항상성과 몸의 조절",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "고등학교",
+      "subject": "생명과학",
+      "unit": "항상성과 몸의 조절",
+      "confidence": "high"
     }
   ],
-  "tagsNote": "구심성/원심성 뉴런 용어 설명.",
-  "taggedAt": "2026-08-12T00:24:29.194Z"
+  "tagsNote": "구심성/원심성 뉴런 용어 설명. [보완: 2015 '항상성과 몸의 조절'↔2022 동일 단원명 유지]",
+  "taggedAt": "2026-08-12T00:24:29.194Z",
+  "verticalReviewedAt": "2026-08-16T07:53:10.733Z"
 }

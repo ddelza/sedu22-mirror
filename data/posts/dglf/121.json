@@ -24,8 +24,16 @@
       "subject": "생명과학Ⅰ",
       "unit": "항상성과 몸의 조절",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "고등학교",
+      "subject": "생명과학",
+      "unit": "항상성과 몸의 조절",
+      "confidence": "high"
     }
   ],
-  "tagsNote": "뉴런 구조/신호전도를 배우는 이유(생명과학1 명시).",
-  "taggedAt": "2026-08-12T00:24:29.191Z"
+  "tagsNote": "뉴런 구조/신호전도를 배우는 이유(생명과학1 명시). [보완: 2015 '항상성과 몸의 조절'↔2022 동일 단원명 유지]",
+  "taggedAt": "2026-08-12T00:24:29.191Z",
+  "verticalReviewedAt": "2026-08-16T07:52:30.847Z"
 }

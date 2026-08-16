@@ -24,8 +24,16 @@
       "subject": "과학탐구실험",
       "unit": "생활 속의 과학 탐구",
       "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "고등학교",
+      "subject": "과학탐구실험2",
+      "unit": "생활 속의 과학 탐구",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "식품 첨가물 조사 수업용 사이트 문의.",
-  "taggedAt": "2026-08-12T00:21:28.545Z"
+  "tagsNote": "식품 첨가물 조사 수업용 사이트 문의. [보완: 2015 '생활속의과학탐구'↔2022 '과학탐구실험2 생활속의과학탐구' 수평 대응]",
+  "taggedAt": "2026-08-12T00:21:28.545Z",
+  "verticalReviewedAt": "2026-08-16T07:51:18.623Z"
 }

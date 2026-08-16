@@ -31,8 +31,23 @@
       "subject": "통합과학",
       "unit": "생명 시스템",
       "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "고등학교",
+      "subject": "통합과학2",
+      "unit": "변화와 다양성",
+      "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "고등학교",
+      "subject": "통합과학1",
+      "unit": "시스템과 상호작용",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "3단원 생명의 진화 - 단백질 합성과정 유튜브 영상(내용은 생명시스템 성격).",
-  "taggedAt": "2026-08-12T00:23:05.944Z"
+  "tagsNote": "3단원 생명의 진화 - 단백질 합성과정 유튜브 영상(내용은 생명시스템 성격). [보완: 2015 '생물다양성과 유지'+'생명 시스템' 둘 다 태깅되어 있어 2022 대응 단원 둘 다 보완]",
+  "taggedAt": "2026-08-12T00:23:05.944Z",
+  "verticalReviewedAt": "2026-08-16T07:51:18.625Z"
 }

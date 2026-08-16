@@ -29,8 +29,16 @@
       "category": "수업 방법론",
       "topic": "배움중심수업",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "고등학교",
+      "subject": "통합과학2",
+      "unit": "변화와 다양성",
+      "confidence": "high"
     }
   ],
-  "tagsNote": "3단원 생명의 진화 배움중심수업 활동지(생명 탄생/화학반응식/DNA모형).",
-  "taggedAt": "2026-08-12T00:21:28.543Z"
+  "tagsNote": "3단원 생명의 진화 배움중심수업 활동지(생명 탄생/화학반응식/DNA모형). [보완: 2015 '생물다양성과 유지'↔2022 '변화와 다양성' 수평 대응]",
+  "taggedAt": "2026-08-12T00:21:28.543Z",
+  "verticalReviewedAt": "2026-08-16T07:51:18.621Z"
 }

@@ -24,8 +24,16 @@
       "subject": "생명과학Ⅰ",
       "unit": "유전",
       "confidence": "low"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "고등학교",
+      "subject": "생명과학",
+      "unit": "생명의 연속성과 다양성",
+      "confidence": "low"
     }
   ],
-  "tagsNote": "이종세포융합 배양이 어려운 이유 질문.",
-  "taggedAt": "2026-08-12T00:24:29.197Z"
+  "tagsNote": "이종세포융합 배양이 어려운 이유 질문. [보완: 2015 '유전'(세포융합)↔2022 '생명의 연속성과 다양성' 수평 대응]",
+  "taggedAt": "2026-08-12T00:24:29.197Z",
+  "verticalReviewedAt": "2026-08-16T07:53:10.737Z"
 }

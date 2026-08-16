@@ -24,8 +24,16 @@
       "subject": "생명과학Ⅰ",
       "unit": "생태계와 상호 작용",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "고등학교",
+      "subject": "생명과학",
+      "unit": "생명시스템의 구성",
+      "confidence": "high"
     }
   ],
-  "tagsNote": "5단원 생태계와 상호작용 수업 개선 고민(단원 명시).",
-  "taggedAt": "2026-08-12T00:24:29.202Z"
+  "tagsNote": "5단원 생태계와 상호작용 수업 개선 고민(단원 명시). [보완: 2015 '생태계와 상호 작용'↔2022 '생명시스템의 구성' 수평 대응]",
+  "taggedAt": "2026-08-12T00:24:29.202Z",
+  "verticalReviewedAt": "2026-08-16T07:53:10.743Z"
 }

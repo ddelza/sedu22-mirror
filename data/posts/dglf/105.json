@@ -24,8 +24,16 @@
       "subject": "생명과학Ⅰ",
       "unit": "유전",
       "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "고등학교",
+      "subject": "생명과학",
+      "unit": "생명의 연속성과 다양성",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "시금치 DNA추출실험(육안 관찰 원리) 질문.",
-  "taggedAt": "2026-08-12T00:23:05.970Z"
+  "tagsNote": "시금치 DNA추출실험(육안 관찰 원리) 질문. [보완: 2015 '유전'(염색체·DNA)↔2022 '생명의 연속성과 다양성' 수평 대응]",
+  "taggedAt": "2026-08-12T00:23:05.970Z",
+  "verticalReviewedAt": "2026-08-16T07:52:30.841Z"
 }

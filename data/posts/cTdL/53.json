@@ -24,8 +24,16 @@
       "subject": "통합과학",
       "unit": "생물다양성과 유지",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "고등학교",
+      "subject": "통합과학2",
+      "unit": "변화와 다양성",
+      "confidence": "high"
     }
   ],
-  "tagsNote": "3단원 생명의 진화 개념정리 학습지.",
-  "taggedAt": "2026-08-12T00:21:28.545Z"
+  "tagsNote": "3단원 생명의 진화 개념정리 학습지. [보완: 2015 '생물다양성과 유지'↔2022 '변화와 다양성' 수평 대응]",
+  "taggedAt": "2026-08-12T00:21:28.545Z",
+  "verticalReviewedAt": "2026-08-16T07:51:18.622Z"
 }
