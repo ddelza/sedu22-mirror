@@ -24,8 +24,16 @@
       "subject": "통합과학",
       "unit": "발전과 신재생 에너지",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "고등학교",
+      "subject": "통합과학2",
+      "unit": "환경과 에너지",
+      "confidence": "high"
     }
   ],
-  "tagsNote": "태양전지 실험 수행평가 자료 공유.",
-  "taggedAt": "2026-08-12T00:11:34.146Z"
+  "tagsNote": "태양전지 실험 수행평가 자료 공유. [보완: 2015 '발전과 신재생 에너지'↔2022 '환경과 에너지' 수평 대응]",
+  "taggedAt": "2026-08-12T00:11:34.146Z",
+  "verticalReviewedAt": "2026-08-16T07:45:07.618Z"
 }

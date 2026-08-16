@@ -24,8 +24,16 @@
       "subject": "물리학Ⅰ",
       "unit": "파동과 정보통신",
       "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "고등학교",
+      "subject": "물리학",
+      "unit": "빛과 물질",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "센서의 아날로그-디지털 신호 변환 원리 질문.",
-  "taggedAt": "2026-08-12T00:11:34.168Z"
+  "tagsNote": "센서의 아날로그-디지털 신호 변환 원리 질문. [보완: 2015 '물리학Ⅰ 파동과정보통신'↔2022 '물리학 빛과물질' 수평 대응]",
+  "taggedAt": "2026-08-12T00:11:34.168Z",
+  "verticalReviewedAt": "2026-08-16T07:45:07.629Z"
 }

@@ -24,8 +24,16 @@
       "subject": "과학탐구실험",
       "unit": "생활 속의 과학 탐구",
       "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "고등학교",
+      "subject": "과학탐구실험2",
+      "unit": "생활 속의 과학 탐구",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "실험 기구 이름/사용법 익히기 수업 아이디어 요청.",
-  "taggedAt": "2026-08-12T00:11:34.165Z"
+  "tagsNote": "실험 기구 이름/사용법 익히기 수업 아이디어 요청. [보완: 2015 '생활속의과학탐구'↔2022 '과학탐구실험2 생활속의과학탐구' 수평 대응]",
+  "taggedAt": "2026-08-12T00:11:34.165Z",
+  "verticalReviewedAt": "2026-08-16T07:45:07.627Z"
 }

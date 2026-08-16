@@ -24,8 +24,16 @@
       "subject": "과학탐구실험",
       "unit": "생활 속의 과학 탐구",
       "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "고등학교",
+      "subject": "과학탐구실험1",
+      "unit": "과학 탐구의 과정과 절차",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "연역적 탐구방법과 변인통제 카드 나열 활동.",
-  "taggedAt": "2026-08-12T00:11:34.155Z"
+  "tagsNote": "연역적 탐구방법과 변인통제 카드 나열 활동. [보완: 연역적 탐구/변인통제 - 2015 '생활속의과학탐구'↔2022 '과학탐구실험1 과학탐구의과정과절차' 수평 대응]",
+  "taggedAt": "2026-08-12T00:11:34.155Z",
+  "verticalReviewedAt": "2026-08-16T07:45:07.623Z"
 }

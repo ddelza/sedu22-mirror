@@ -31,8 +31,23 @@
       "subject": "통합과학",
       "unit": "지구 시스템",
       "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "고등학교",
+      "subject": "통합과학1",
+      "unit": "시스템과 상호작용",
+      "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "고등학교",
+      "subject": "과학탐구실험1",
+      "unit": "과학 탐구의 과정과 절차",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "한반도 기후변화 경향성 파악하기 탐구활동(1인 1노트북 활용).",
-  "taggedAt": "2026-08-12T00:11:34.151Z"
+  "tagsNote": "한반도 기후변화 경향성 파악하기 탐구활동(1인 1노트북 활용). [보완: 기존 2015 두 단원 각각의 2022 수평 대응 보완]",
+  "taggedAt": "2026-08-12T00:11:34.151Z",
+  "verticalReviewedAt": "2026-08-16T07:45:07.620Z"
 }

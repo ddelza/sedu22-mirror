@@ -24,8 +24,16 @@
       "subject": "통합과학",
       "unit": "생태계와 환경",
       "confidence": "low"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "고등학교",
+      "subject": "통합과학2",
+      "unit": "환경과 에너지",
+      "confidence": "low"
     }
   ],
-  "tagsNote": "플라스틱의 역습 주제 영상 구입경로 문의(수업유연화).",
-  "taggedAt": "2026-08-12T00:11:34.151Z"
+  "tagsNote": "플라스틱의 역습 주제 영상 구입경로 문의(수업유연화). [보완: 2015 '생태계와 환경'↔2022 '환경과 에너지' 수평 대응]",
+  "taggedAt": "2026-08-12T00:11:34.151Z",
+  "verticalReviewedAt": "2026-08-16T07:45:07.621Z"
 }
