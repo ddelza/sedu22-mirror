@@ -51,6 +51,13 @@
         "subject": "생명과학Ⅰ",
         "unit": "사람의 물질대사",
         "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "생명과학",
+        "unit": "생명시스템의 구성",
+        "confidence": "medium"
       }
     ]
   },
@@ -392,6 +399,13 @@
         "schoolLevel": "고등학교",
         "subject": "물리학Ⅰ",
         "unit": "파동과 정보통신",
+        "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "물리학",
+        "unit": "빛과 물질",
         "confidence": "medium"
       }
     ]

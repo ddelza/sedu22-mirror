@@ -22,6 +22,13 @@
         "subject": "통합과학",
         "unit": "역학적 시스템",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "통합과학1",
+        "unit": "시스템과 상호작용",
+        "confidence": "high"
       }
     ]
   },
@@ -48,6 +55,13 @@
         "subject": "물리학Ⅰ",
         "unit": "역학과 에너지",
         "confidence": "low"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "물리학",
+        "unit": "힘과 에너지",
+        "confidence": "low"
       }
     ]
   },
@@ -72,6 +86,13 @@
         "curriculumYear": "2015",
         "schoolLevel": "고등학교",
         "subject": "생명과학Ⅰ",
+        "unit": "항상성과 몸의 조절",
+        "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "생명과학",
         "unit": "항상성과 몸의 조절",
         "confidence": "medium"
       }
@@ -185,6 +206,13 @@
         "subject": "통합과학",
         "unit": "생물다양성과 유지",
         "confidence": "low"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "통합과학2",
+        "unit": "변화와 다양성",
+        "confidence": "low"
       }
     ]
   },
@@ -210,6 +238,13 @@
         "schoolLevel": "고등학교",
         "subject": "통합과학",
         "unit": "발전과 신재생 에너지",
+        "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "통합과학2",
+        "unit": "환경과 에너지",
         "confidence": "medium"
       }
     ]
@@ -366,6 +401,13 @@
         "schoolLevel": "고등학교",
         "subject": "물리학Ⅰ",
         "unit": "역학과 에너지",
+        "confidence": "low"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "물리학",
+        "unit": "힘과 에너지",
         "confidence": "low"
       }
     ]
@@ -617,6 +659,13 @@
         "schoolLevel": "고등학교",
         "subject": "생명과학Ⅰ",
         "unit": "사람의 물질대사",
+        "confidence": "high"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "생명과학",
+        "unit": "생명시스템의 구성",
         "confidence": "high"
       }
     ]
@@ -881,6 +930,13 @@
         "subject": "통합과학",
         "unit": "생물다양성과 유지",
         "confidence": "low"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "통합과학2",
+        "unit": "변화와 다양성",
+        "confidence": "low"
       }
     ]
   },
@@ -985,6 +1041,13 @@
         "subject": "생명과학Ⅰ",
         "unit": "항상성과 몸의 조절",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "생명과학",
+        "unit": "항상성과 몸의 조절",
+        "confidence": "high"
       }
     ]
   },
@@ -1010,6 +1073,13 @@
         "schoolLevel": "고등학교",
         "subject": "물리학Ⅰ",
         "unit": "역학과 에너지",
+        "confidence": "low"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "물리학",
+        "unit": "힘과 에너지",
         "confidence": "low"
       }
     ]
@@ -1140,6 +1210,13 @@
         "schoolLevel": "고등학교",
         "subject": "통합과학",
         "unit": "생물다양성과 유지",
+        "confidence": "low"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "통합과학2",
+        "unit": "변화와 다양성",
         "confidence": "low"
       }
     ]
@@ -2330,6 +2407,13 @@
         "schoolLevel": "고등학교",
         "subject": "통합과학",
         "unit": "생물다양성과 유지",
+        "confidence": "low"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "통합과학2",
+        "unit": "변화와 다양성",
         "confidence": "low"
       }
     ]

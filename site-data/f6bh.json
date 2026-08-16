@@ -237,6 +237,13 @@
         "subject": "세포와 물질대사",
         "unit": "세포",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": "2015",
+        "schoolLevel": "고등학교",
+        "subject": "생명과학Ⅱ",
+        "unit": "세포의 특성",
+        "confidence": "high"
       }
     ]
   },

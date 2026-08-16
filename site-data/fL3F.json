@@ -22,6 +22,13 @@
         "subject": "역학과 에너지",
         "unit": "열과 에너지",
         "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2015",
+        "schoolLevel": "고등학교",
+        "subject": "물리학Ⅱ",
+        "unit": "역학적 상호작용",
+        "confidence": "medium"
       }
     ]
   },
@@ -80,6 +87,13 @@
         "schoolLevel": "고등학교",
         "subject": "전자기와 양자",
         "unit": "양자와 미시세계",
+        "confidence": "high"
+      },
+      {
+        "curriculumYear": "2015",
+        "schoolLevel": "고등학교",
+        "subject": "물리학Ⅱ",
+        "unit": "파동과 물질의 성질",
         "confidence": "high"
       }
     ]
@@ -159,6 +173,13 @@
         "subject": "역학과 에너지",
         "unit": "시공간과 운동",
         "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2015",
+        "schoolLevel": "고등학교",
+        "subject": "물리학Ⅱ",
+        "unit": "역학적 상호작용",
+        "confidence": "high"
       }
     ]
   },
@@ -185,6 +206,13 @@
         "subject": "역학과 에너지",
         "unit": "시공간과 운동",
         "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2015",
+        "schoolLevel": "고등학교",
+        "subject": "물리학Ⅱ",
+        "unit": "역학적 상호작용",
+        "confidence": "high"
       }
     ]
   },
@@ -237,6 +265,13 @@
         "subject": "역학과 에너지",
         "unit": "시공간과 운동",
         "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2015",
+        "schoolLevel": "고등학교",
+        "subject": "물리학Ⅱ",
+        "unit": "역학적 상호작용",
+        "confidence": "high"
       }
     ]
   },
@@ -419,6 +454,13 @@
         "subject": "물리학Ⅰ",
         "unit": "역학과 에너지",
         "confidence": "low"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "물리학",
+        "unit": "힘과 에너지",
+        "confidence": "low"
       }
     ]
   },
@@ -445,6 +487,13 @@
         "subject": "전자기와 양자",
         "unit": "양자와 미시세계",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": "2015",
+        "schoolLevel": "고등학교",
+        "subject": "물리학Ⅱ",
+        "unit": "파동과 물질의 성질",
+        "confidence": "high"
       }
     ]
   },
@@ -470,6 +519,13 @@
         "schoolLevel": "고등학교",
         "subject": "물리학Ⅰ",
         "unit": "역학과 에너지",
+        "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "물리학",
+        "unit": "힘과 에너지",
         "confidence": "medium"
       }
     ]
@@ -575,6 +631,13 @@
         "subject": "지구과학Ⅰ",
         "unit": "외부 은하와 우주 팽창",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "지구과학",
+        "unit": "태양계 천체와 별과 우주의 진화",
+        "confidence": "high"
       }
     ]
   },
@@ -600,6 +663,13 @@
         "schoolLevel": "고등학교",
         "subject": "전자기와 양자",
         "unit": "양자와 미시세계",
+        "confidence": "high"
+      },
+      {
+        "curriculumYear": "2015",
+        "schoolLevel": "고등학교",
+        "subject": "물리학Ⅱ",
+        "unit": "파동과 물질의 성질",
         "confidence": "high"
       }
     ]
@@ -627,6 +697,13 @@
         "subject": "전자기와 양자",
         "unit": "양자와 미시세계",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": "2015",
+        "schoolLevel": "고등학교",
+        "subject": "물리학Ⅱ",
+        "unit": "파동과 물질의 성질",
+        "confidence": "high"
       }
     ]
   },
@@ -653,6 +730,13 @@
         "subject": "물리학Ⅰ",
         "unit": "역학과 에너지",
         "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "물리학",
+        "unit": "힘과 에너지",
+        "confidence": "medium"
       }
     ]
   },
@@ -678,6 +762,13 @@
         "schoolLevel": "고등학교",
         "subject": "전자기와 양자",
         "unit": "양자와 미시세계",
+        "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2015",
+        "schoolLevel": "고등학교",
+        "subject": "물리학Ⅱ",
+        "unit": "파동과 물질의 성질",
         "confidence": "medium"
       }
     ]
@@ -783,6 +874,13 @@
         "subject": "전자기와 양자",
         "unit": "양자와 미시세계",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": "2015",
+        "schoolLevel": "고등학교",
+        "subject": "물리학Ⅱ",
+        "unit": "파동과 물질의 성질",
+        "confidence": "high"
       }
     ]
   },
@@ -808,6 +906,13 @@
         "schoolLevel": "고등학교",
         "subject": "전자기와 양자",
         "unit": "양자와 미시세계",
+        "confidence": "high"
+      },
+      {
+        "curriculumYear": "2015",
+        "schoolLevel": "고등학교",
+        "subject": "물리학Ⅱ",
+        "unit": "파동과 물질의 성질",
         "confidence": "high"
       }
     ]
@@ -835,6 +940,13 @@
         "subject": "전자기와 양자",
         "unit": "양자와 미시세계",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": "2015",
+        "schoolLevel": "고등학교",
+        "subject": "물리학Ⅱ",
+        "unit": "파동과 물질의 성질",
+        "confidence": "high"
       }
     ]
   },
@@ -860,6 +972,13 @@
         "schoolLevel": "고등학교",
         "subject": "전자기와 양자",
         "unit": "양자와 미시세계",
+        "confidence": "high"
+      },
+      {
+        "curriculumYear": "2015",
+        "schoolLevel": "고등학교",
+        "subject": "물리학Ⅱ",
+        "unit": "파동과 물질의 성질",
         "confidence": "high"
       }
     ]
@@ -887,6 +1006,13 @@
         "subject": "전자기와 양자",
         "unit": "양자와 미시세계",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": "2015",
+        "schoolLevel": "고등학교",
+        "subject": "물리학Ⅱ",
+        "unit": "파동과 물질의 성질",
+        "confidence": "high"
       }
     ]
   },
@@ -913,6 +1039,13 @@
         "subject": "전자기와 양자",
         "unit": "양자와 미시세계",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": "2015",
+        "schoolLevel": "고등학교",
+        "subject": "물리학Ⅱ",
+        "unit": "파동과 물질의 성질",
+        "confidence": "high"
       }
     ]
   },
@@ -938,6 +1071,13 @@
         "schoolLevel": "고등학교",
         "subject": "전자기와 양자",
         "unit": "양자와 미시세계",
+        "confidence": "high"
+      },
+      {
+        "curriculumYear": "2015",
+        "schoolLevel": "고등학교",
+        "subject": "물리학Ⅱ",
+        "unit": "파동과 물질의 성질",
         "confidence": "high"
       }
     ]

@@ -1322,6 +1322,13 @@
         "subject": "생명과학Ⅰ",
         "unit": "사람의 물질대사",
         "confidence": "low"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "생명과학",
+        "unit": "생명시스템의 구성",
+        "confidence": "low"
       }
     ]
   },
@@ -1461,6 +1468,13 @@
         "curriculumYear": "2015",
         "schoolLevel": "고등학교",
         "subject": "화학Ⅰ",
+        "unit": "역동적인 화학 반응",
+        "confidence": "low"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "화학",
         "unit": "역동적인 화학 반응",
         "confidence": "low"
       }
@@ -1991,6 +2005,20 @@
       {
         "category": "스마트 수업도구",
         "topic": "생성형 AI 도구",
+        "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "통합과학2",
+        "unit": "변화와 다양성",
+        "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "통합과학2",
+        "unit": "환경과 에너지",
         "confidence": "medium"
       }
     ]
@@ -2564,6 +2592,13 @@
         "subject": "생명과학Ⅰ",
         "unit": "항상성과 몸의 조절",
         "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "생명과학",
+        "unit": "항상성과 몸의 조절",
+        "confidence": "medium"
       }
     ]
   },
@@ -3000,6 +3035,13 @@
         "subject": "생명과학Ⅰ",
         "unit": "사람의 물질대사",
         "confidence": "low"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "생명과학",
+        "unit": "생명시스템의 구성",
+        "confidence": "low"
       }
     ]
   },
@@ -3225,6 +3267,13 @@
         "subject": "생명과학Ⅰ",
         "unit": "사람의 물질대사",
         "confidence": "low"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "생명과학",
+        "unit": "생명시스템의 구성",
+        "confidence": "low"
       }
     ]
   },
@@ -3352,6 +3401,13 @@
         "subject": "생명과학Ⅰ",
         "unit": "사람의 물질대사",
         "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "생명과학",
+        "unit": "생명시스템의 구성",
+        "confidence": "medium"
       }
     ]
   },
@@ -3382,6 +3438,13 @@
         "schoolLevel": "고등학교",
         "subject": "생명과학Ⅰ",
         "unit": "사람의 물질대사",
+        "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "생명과학",
+        "unit": "생명시스템의 구성",
         "confidence": "medium"
       }
     ]
@@ -3948,6 +4011,13 @@
         "subject": "생명과학Ⅰ",
         "unit": "유전",
         "confidence": "low"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "생명과학",
+        "unit": "생명의 연속성과 다양성",
+        "confidence": "low"
       }
     ]
   },
@@ -3979,6 +4049,13 @@
         "subject": "생명과학Ⅰ",
         "unit": "생명과학의 이해",
         "confidence": "low"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "생명과학",
+        "unit": "생명시스템의 구성",
+        "confidence": "low"
       }
     ]
   },
@@ -4009,6 +4086,13 @@
         "schoolLevel": "고등학교",
         "subject": "생명과학Ⅰ",
         "unit": "생명과학의 이해",
+        "confidence": "low"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "생명과학",
+        "unit": "생명시스템의 구성",
         "confidence": "low"
       }
     ]
@@ -6244,6 +6328,13 @@
         "subject": "물리학",
         "unit": "빛과 물질",
         "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2015",
+        "schoolLevel": "고등학교",
+        "subject": "물리학Ⅰ",
+        "unit": "역학과 에너지",
+        "confidence": "medium"
       }
     ]
   },
@@ -6305,6 +6396,13 @@
         "schoolLevel": "고등학교",
         "subject": "통합과학",
         "unit": "발전과 신재생 에너지",
+        "confidence": "low"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "통합과학2",
+        "unit": "환경과 에너지",
         "confidence": "low"
       }
     ]

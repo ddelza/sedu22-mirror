@@ -53,6 +53,13 @@
         "category": "스마트 수업도구",
         "topic": "생성형 AI 도구",
         "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "지구시스템과학",
+        "unit": "지구 탄생과 생동하는 지구",
+        "confidence": "high"
       }
     ]
   },
@@ -79,6 +86,13 @@
         "subject": "지구과학Ⅰ",
         "unit": "지구의 역사",
         "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "지구시스템과학",
+        "unit": "지구 탄생과 생동하는 지구",
+        "confidence": "high"
       }
     ]
   },
@@ -109,6 +123,13 @@
       {
         "category": "스마트 수업도구",
         "topic": "앱/프로그램",
+        "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "지구과학",
+        "unit": "지구의 역사와 한반도의 암석",
         "confidence": "medium"
       }
     ]
@@ -169,6 +190,13 @@
         "subject": "통합과학",
         "unit": "지구 시스템",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "통합과학1",
+        "unit": "시스템과 상호작용",
+        "confidence": "high"
       }
     ]
   },
@@ -194,6 +222,13 @@
         "schoolLevel": "고등학교",
         "subject": "통합과학",
         "unit": "지구 시스템",
+        "confidence": "high"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "통합과학1",
+        "unit": "시스템과 상호작용",
         "confidence": "high"
       }
     ]
@@ -221,6 +256,13 @@
         "subject": "지구과학Ⅰ",
         "unit": "외부 은하와 우주 팽창",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "지구과학",
+        "unit": "태양계 천체와 별과 우주의 진화",
+        "confidence": "high"
       }
     ]
   },
@@ -246,6 +288,13 @@
         "schoolLevel": "고등학교",
         "subject": "지구과학Ⅰ",
         "unit": "대기와 해양의 상호 작용",
+        "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "지구과학",
+        "unit": "대기와 해양의 상호작용",
         "confidence": "medium"
       }
     ]
@@ -278,6 +327,13 @@
         "category": "스마트 수업도구",
         "topic": "AR/VR",
         "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "지구과학",
+        "unit": "지구의 역사와 한반도의 암석",
+        "confidence": "high"
       }
     ]
   },
@@ -308,6 +364,13 @@
       {
         "category": "스마트 수업도구",
         "topic": "AR/VR",
+        "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "지구과학",
+        "unit": "지구의 역사와 한반도의 암석",
         "confidence": "medium"
       }
     ]
@@ -340,6 +403,13 @@
         "category": "스마트 수업도구",
         "topic": "AR/VR",
         "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "지구과학",
+        "unit": "지구의 역사와 한반도의 암석",
+        "confidence": "high"
       }
     ]
   },
@@ -371,6 +441,13 @@
         "category": "스마트 수업도구",
         "topic": "AR/VR",
         "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "지구과학",
+        "unit": "지구의 역사와 한반도의 암석",
+        "confidence": "medium"
       }
     ]
   },
@@ -396,6 +473,13 @@
         "schoolLevel": "고등학교",
         "subject": "지구과학Ⅰ",
         "unit": "지구의 역사",
+        "confidence": "high"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "지구과학",
+        "unit": "지구의 역사와 한반도의 암석",
         "confidence": "high"
       }
     ]
@@ -423,6 +507,13 @@
         "subject": "지구과학Ⅰ",
         "unit": "지권의 변동",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "지구시스템과학",
+        "unit": "지구 탄생과 생동하는 지구",
+        "confidence": "high"
       }
     ]
   },
@@ -448,6 +539,13 @@
         "schoolLevel": "고등학교",
         "subject": "지구과학Ⅰ",
         "unit": "지권의 변동",
+        "confidence": "high"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "지구시스템과학",
+        "unit": "지구 탄생과 생동하는 지구",
         "confidence": "high"
       }
     ]
@@ -475,6 +573,13 @@
         "subject": "지구과학Ⅰ",
         "unit": "대기와 해양의 상호 작용",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "지구과학",
+        "unit": "대기와 해양의 상호작용",
+        "confidence": "high"
       }
     ]
   },
@@ -500,6 +605,13 @@
         "schoolLevel": "고등학교",
         "subject": "지구과학Ⅰ",
         "unit": "별과 외계 행성계",
+        "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "행성우주과학",
+        "unit": "우주탐사와 행성계",
         "confidence": "medium"
       }
     ]
@@ -527,6 +639,13 @@
         "subject": "지구과학Ⅰ",
         "unit": "대기와 해양의 상호 작용",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "지구과학",
+        "unit": "대기와 해양의 상호작용",
+        "confidence": "high"
       }
     ]
   },
@@ -552,6 +671,13 @@
         "schoolLevel": "고등학교",
         "subject": "지구과학Ⅰ",
         "unit": "별과 외계 행성계",
+        "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "행성우주과학",
+        "unit": "우주탐사와 행성계",
         "confidence": "medium"
       }
     ]
@@ -579,6 +705,13 @@
         "subject": "지구과학Ⅰ",
         "unit": "지권의 변동",
         "confidence": "low"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "지구시스템과학",
+        "unit": "지구 탄생과 생동하는 지구",
+        "confidence": "low"
       }
     ]
   },
@@ -604,6 +737,13 @@
         "schoolLevel": "고등학교",
         "subject": "지구과학Ⅰ",
         "unit": "지권의 변동",
+        "confidence": "high"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "지구과학",
+        "unit": "지구의 역사와 한반도의 암석",
         "confidence": "high"
       }
     ]
@@ -631,6 +771,13 @@
         "subject": "지구과학Ⅰ",
         "unit": "대기와 해양의 변화",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "지구과학",
+        "unit": "대기와 해양의 상호작용",
+        "confidence": "high"
       }
     ]
   },
@@ -657,6 +804,13 @@
         "subject": "지구과학Ⅰ",
         "unit": "지권의 변동",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "지구시스템과학",
+        "unit": "지구 탄생과 생동하는 지구",
+        "confidence": "high"
       }
     ]
   },
@@ -682,6 +836,13 @@
         "schoolLevel": "고등학교",
         "subject": "지구과학Ⅰ",
         "unit": "별과 외계 행성계",
+        "confidence": "high"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "행성우주과학",
+        "unit": "우주탐사와 행성계",
         "confidence": "high"
       }
     ]
@@ -713,6 +874,13 @@
       {
         "category": "과학교사 업무",
         "topic": "과학 행사",
+        "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "지구과학",
+        "unit": "태양계 천체와 별과 우주의 진화",
         "confidence": "medium"
       }
     ]
@@ -766,6 +934,13 @@
         "subject": "지구과학Ⅰ",
         "unit": "대기와 해양의 변화",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "지구과학",
+        "unit": "대기와 해양의 상호작용",
+        "confidence": "high"
       }
     ]
   },
@@ -792,6 +967,13 @@
         "subject": "지구과학Ⅰ",
         "unit": "대기와 해양의 변화",
         "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "지구과학",
+        "unit": "대기와 해양의 상호작용",
+        "confidence": "medium"
       }
     ]
   },
@@ -817,6 +999,13 @@
         "schoolLevel": "고등학교",
         "subject": "지구과학Ⅰ",
         "unit": "지권의 변동",
+        "confidence": "high"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "지구시스템과학",
+        "unit": "지구 탄생과 생동하는 지구",
         "confidence": "high"
       }
     ]
@@ -870,6 +1059,13 @@
         "subject": "지구과학",
         "unit": "태양계 천체와 별과 우주의 진화",
         "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2015",
+        "schoolLevel": "고등학교",
+        "subject": "지구과학Ⅱ",
+        "unit": "행성의 운동",
+        "confidence": "medium"
       }
     ]
   },
@@ -895,6 +1091,13 @@
         "schoolLevel": "고등학교",
         "subject": "지구과학Ⅰ",
         "unit": "외부 은하와 우주 팽창",
+        "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "지구과학",
+        "unit": "태양계 천체와 별과 우주의 진화",
         "confidence": "medium"
       }
     ]
@@ -948,6 +1151,13 @@
         "subject": "통합과학",
         "unit": "지구 시스템",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "통합과학1",
+        "unit": "시스템과 상호작용",
+        "confidence": "high"
       }
     ]
   },
@@ -973,6 +1183,13 @@
         "schoolLevel": "고등학교",
         "subject": "지구과학Ⅰ",
         "unit": "외부 은하와 우주 팽창",
+        "confidence": "high"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "지구과학",
+        "unit": "태양계 천체와 별과 우주의 진화",
         "confidence": "high"
       }
     ]
@@ -1050,6 +1267,13 @@
         "subject": "지구과학Ⅰ",
         "unit": "별과 외계 행성계",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "지구과학",
+        "unit": "태양계 천체와 별과 우주의 진화",
+        "confidence": "high"
       }
     ]
   },
@@ -1075,6 +1299,13 @@
         "schoolLevel": "고등학교",
         "subject": "지구과학Ⅰ",
         "unit": "지권의 변동",
+        "confidence": "high"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "지구과학",
+        "unit": "지구의 역사와 한반도의 암석",
         "confidence": "high"
       }
     ]

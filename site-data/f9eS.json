@@ -266,6 +266,13 @@
         "subject": "물리학Ⅰ",
         "unit": "역학과 에너지",
         "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "물리학",
+        "unit": "힘과 에너지",
+        "confidence": "medium"
       }
     ]
   },

@@ -22,6 +22,13 @@
         "subject": "화학Ⅰ",
         "unit": "역동적인 화학 반응",
         "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "화학",
+        "unit": "역동적인 화학 반응",
+        "confidence": "medium"
       }
     ]
   },
@@ -47,6 +54,13 @@
         "schoolLevel": "고등학교",
         "subject": "화학",
         "unit": "산 염기 평형",
+        "confidence": "high"
+      },
+      {
+        "curriculumYear": "2015",
+        "schoolLevel": "고등학교",
+        "subject": "화학Ⅰ",
+        "unit": "역동적인 화학 반응",
         "confidence": "high"
       }
     ]
@@ -100,6 +114,13 @@
         "subject": "화학Ⅰ",
         "unit": "역동적인 화학 반응",
         "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "화학",
+        "unit": "역동적인 화학 반응",
+        "confidence": "medium"
       }
     ]
   },
@@ -125,6 +146,13 @@
         "schoolLevel": "고등학교",
         "subject": "화학Ⅰ",
         "unit": "화학의 첫걸음",
+        "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "화학",
+        "unit": "화학의 언어",
         "confidence": "medium"
       }
     ]
@@ -203,6 +231,13 @@
         "schoolLevel": "고등학교",
         "subject": "화학Ⅰ",
         "unit": "화학의 첫걸음",
+        "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "화학",
+        "unit": "화학의 언어",
         "confidence": "medium"
       }
     ]
@@ -308,6 +343,13 @@
         "subject": "화학Ⅰ",
         "unit": "화학 결합과 분자의 세계",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "화학",
+        "unit": "물질의 구조와 성질",
+        "confidence": "high"
       }
     ]
   },
@@ -338,6 +380,13 @@
         "schoolLevel": "고등학교",
         "subject": "화학Ⅰ",
         "unit": "화학 결합과 분자의 세계",
+        "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "화학",
+        "unit": "물질의 구조와 성질",
         "confidence": "medium"
       }
     ]
@@ -370,6 +419,13 @@
         "category": "과학교사 업무",
         "topic": "과학실 관리",
         "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "통합과학2",
+        "unit": "변화와 다양성",
+        "confidence": "high"
       }
     ]
   },
@@ -400,6 +456,13 @@
       {
         "category": "과학교사 업무",
         "topic": "과학 행사",
+        "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "화학",
+        "unit": "화학의 언어",
         "confidence": "medium"
       }
     ]
@@ -432,6 +495,13 @@
         "category": "과학교사 업무",
         "topic": "과학실 관리",
         "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "화학",
+        "unit": "물질의 구조와 성질",
+        "confidence": "medium"
       }
     ]
   },
@@ -458,6 +528,13 @@
         "subject": "통합과학2",
         "unit": "환경과 에너지",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": "2015",
+        "schoolLevel": "고등학교",
+        "subject": "통합과학",
+        "unit": "발전과 신재생 에너지",
+        "confidence": "high"
       }
     ]
   },
@@ -483,6 +560,13 @@
         "schoolLevel": "고등학교",
         "subject": "화학Ⅰ",
         "unit": "화학의 첫걸음",
+        "confidence": "low"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "화학",
+        "unit": "화학의 언어",
         "confidence": "low"
       }
     ]
@@ -534,6 +618,13 @@
         "curriculumYear": "2015",
         "schoolLevel": "고등학교",
         "subject": "화학Ⅰ",
+        "unit": "역동적인 화학 반응",
+        "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "화학",
         "unit": "역동적인 화학 반응",
         "confidence": "medium"
       }
@@ -1184,6 +1275,13 @@
         "subject": "화학Ⅰ",
         "unit": "화학의 첫걸음",
         "confidence": "low"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "화학",
+        "unit": "화학의 언어",
+        "confidence": "low"
       }
     ]
   },
@@ -1210,6 +1308,13 @@
         "subject": "화학Ⅰ",
         "unit": "화학의 첫걸음",
         "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "화학",
+        "unit": "화학의 언어",
+        "confidence": "medium"
       }
     ]
   },
@@ -1235,6 +1340,13 @@
         "subject": "화학Ⅰ",
         "unit": "화학의 첫걸음",
         "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "화학",
+        "unit": "화학의 언어",
+        "confidence": "low"
       }
     ]
   },
@@ -1261,6 +1373,13 @@
         "subject": "화학Ⅰ",
         "unit": "화학의 첫걸음",
         "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "화학",
+        "unit": "화학의 언어",
+        "confidence": "low"
       }
     ]
   },
@@ -1313,6 +1432,13 @@
         "subject": "화학Ⅰ",
         "unit": "화학 결합과 분자의 세계",
         "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "화학",
+        "unit": "물질의 구조와 성질",
+        "confidence": "medium"
       }
     ]
   },
@@ -1338,6 +1464,13 @@
         "schoolLevel": "고등학교",
         "subject": "통합과학",
         "unit": "화학 변화",
+        "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "통합과학2",
+        "unit": "변화와 다양성",
         "confidence": "medium"
       }
     ]
@@ -1365,6 +1498,13 @@
         "subject": "화학Ⅰ",
         "unit": "화학의 첫걸음",
         "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "화학",
+        "unit": "화학의 언어",
+        "confidence": "medium"
       }
     ]
   },
@@ -1391,6 +1531,13 @@
         "subject": "화학Ⅰ",
         "unit": "화학의 첫걸음",
         "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "화학",
+        "unit": "화학의 언어",
+        "confidence": "low"
       }
     ]
   },
@@ -1468,6 +1615,13 @@
         "subject": "화학Ⅰ",
         "unit": "화학 결합과 분자의 세계",
         "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "화학",
+        "unit": "물질의 구조와 성질",
+        "confidence": "medium"
       }
     ]
   },
@@ -1492,6 +1646,13 @@
         "schoolLevel": "고등학교",
         "subject": "화학",
         "unit": "산화·환원 반응",
+        "confidence": "high"
+      },
+      {
+        "curriculumYear": "2015",
+        "schoolLevel": "고등학교",
+        "subject": "화학Ⅱ",
+        "unit": "전기 화학과 이용",
         "confidence": "high"
       }
     ]
@@ -1519,6 +1680,13 @@
         "subject": "화학Ⅰ",
         "unit": "역동적인 화학 반응",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "화학",
+        "unit": "역동적인 화학 반응",
+        "confidence": "high"
       }
     ]
   },
@@ -1542,6 +1710,13 @@
         "curriculumYear": "2015",
         "schoolLevel": "고등학교",
         "subject": "화학Ⅰ",
+        "unit": "역동적인 화학 반응",
+        "confidence": "high"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "화학",
         "unit": "역동적인 화학 반응",
         "confidence": "high"
       }
@@ -1620,6 +1795,13 @@
         "subject": "화학Ⅰ",
         "unit": "역동적인 화학 반응",
         "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "화학",
+        "unit": "역동적인 화학 반응",
+        "confidence": "medium"
       }
     ]
   },
@@ -1645,6 +1827,13 @@
         "schoolLevel": "고등학교",
         "subject": "화학Ⅰ",
         "unit": "화학 결합과 분자의 세계",
+        "confidence": "high"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "화학",
+        "unit": "물질의 구조와 성질",
         "confidence": "high"
       }
     ]
@@ -1672,6 +1861,13 @@
         "subject": "화학Ⅰ",
         "unit": "화학의 첫걸음",
         "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "화학",
+        "unit": "화학의 언어",
+        "confidence": "low"
       }
     ]
   },
@@ -1771,6 +1967,13 @@
         "subject": "화학Ⅰ",
         "unit": "역동적인 화학 반응",
         "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "화학 반응의 세계",
+        "unit": "산화·환원 반응",
+        "confidence": "medium"
       }
     ]
   },
@@ -1795,6 +1998,13 @@
         "schoolLevel": "고등학교",
         "subject": "화학Ⅰ",
         "unit": "화학 결합과 분자의 세계",
+        "confidence": "high"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "화학",
+        "unit": "물질의 구조와 성질",
         "confidence": "high"
       }
     ]
@@ -1906,6 +2116,13 @@
         "subject": "화학Ⅰ",
         "unit": "화학의 첫걸음",
         "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "화학",
+        "unit": "화학의 언어",
+        "confidence": "medium"
       }
     ]
   },
@@ -1932,6 +2149,13 @@
         "subject": "화학Ⅰ",
         "unit": "역동적인 화학 반응",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "화학 반응의 세계",
+        "unit": "산화·환원 반응",
+        "confidence": "high"
       }
     ]
   },
@@ -1957,6 +2181,13 @@
         "schoolLevel": "고등학교",
         "subject": "화학Ⅰ",
         "unit": "화학의 첫걸음",
+        "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "화학",
+        "unit": "역동적인 화학 반응",
         "confidence": "medium"
       }
     ]
@@ -2237,6 +2468,13 @@
         "subject": "화학Ⅰ",
         "unit": "화학의 첫걸음",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "화학",
+        "unit": "역동적인 화학 반응",
+        "confidence": "high"
       }
     ]
   },
@@ -2443,6 +2681,13 @@
         "subject": "화학Ⅰ",
         "unit": "역동적인 화학 반응",
         "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "화학",
+        "unit": "역동적인 화학 반응",
+        "confidence": "medium"
       }
     ]
   },
@@ -2497,6 +2742,13 @@
         "category": "과학교사 업무",
         "topic": "과학실 관리",
         "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "화학",
+        "unit": "화학의 언어",
+        "confidence": "high"
       }
     ]
   },
@@ -2545,6 +2797,13 @@
         "curriculumYear": "2015",
         "schoolLevel": "고등학교",
         "subject": "화학Ⅰ",
+        "unit": "역동적인 화학 반응",
+        "confidence": "high"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "화학",
         "unit": "역동적인 화학 반응",
         "confidence": "high"
       }
@@ -2625,6 +2884,13 @@
         "subject": "화학Ⅰ",
         "unit": "역동적인 화학 반응",
         "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "화학 반응의 세계",
+        "unit": "산화·환원 반응",
+        "confidence": "medium"
       }
     ]
   },
@@ -2651,6 +2917,13 @@
         "subject": "화학Ⅰ",
         "unit": "역동적인 화학 반응",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "물질과 에너지",
+        "unit": "반응 속도",
+        "confidence": "medium"
       }
     ]
   },
@@ -2681,6 +2954,13 @@
         "schoolLevel": "고등학교",
         "subject": "화학Ⅰ",
         "unit": "역동적인 화학 반응",
+        "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "화학 반응의 세계",
+        "unit": "산화·환원 반응",
         "confidence": "medium"
       }
     ]
@@ -2713,6 +2993,13 @@
         "subject": "화학Ⅰ",
         "unit": "역동적인 화학 반응",
         "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "화학 반응의 세계",
+        "unit": "산화·환원 반응",
+        "confidence": "medium"
       }
     ]
   },
@@ -2738,6 +3025,13 @@
         "schoolLevel": "고등학교",
         "subject": "화학Ⅰ",
         "unit": "화학 결합과 분자의 세계",
+        "confidence": "high"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "화학",
+        "unit": "물질의 구조와 성질",
         "confidence": "high"
       }
     ]
@@ -2791,6 +3085,13 @@
         "subject": "화학Ⅰ",
         "unit": "화학의 첫걸음",
         "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "화학",
+        "unit": "화학의 언어",
+        "confidence": "low"
       }
     ]
   },
@@ -2817,6 +3118,13 @@
         "subject": "화학Ⅰ",
         "unit": "화학의 첫걸음",
         "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "화학",
+        "unit": "화학의 언어",
+        "confidence": "low"
       }
     ]
   },
@@ -2869,6 +3177,13 @@
         "subject": "화학Ⅰ",
         "unit": "화학 결합과 분자의 세계",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "화학",
+        "unit": "물질의 구조와 성질",
+        "confidence": "high"
       }
     ]
   },
@@ -2894,6 +3209,13 @@
         "schoolLevel": "고등학교",
         "subject": "화학Ⅰ",
         "unit": "화학의 첫걸음",
+        "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "화학",
+        "unit": "화학의 언어",
         "confidence": "medium"
       }
     ]
@@ -3032,6 +3354,13 @@
         "subject": "화학Ⅰ",
         "unit": "화학의 첫걸음",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "화학",
+        "unit": "화학의 언어",
+        "confidence": "high"
       }
     ]
   },
@@ -3088,6 +3417,13 @@
         "schoolLevel": "고등학교",
         "subject": "화학Ⅰ",
         "unit": "화학의 첫걸음",
+        "confidence": "low"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "화학",
+        "unit": "화학의 언어",
         "confidence": "low"
       }
     ]
@@ -3148,6 +3484,13 @@
         "subject": "화학Ⅰ",
         "unit": "역동적인 화학 반응",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "화학 반응의 세계",
+        "unit": "산화·환원 반응",
+        "confidence": "high"
       }
     ]
   },
@@ -3173,6 +3516,13 @@
         "schoolLevel": "고등학교",
         "subject": "화학Ⅰ",
         "unit": "역동적인 화학 반응",
+        "confidence": "high"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "화학 반응의 세계",
+        "unit": "산화·환원 반응",
         "confidence": "high"
       }
     ]
@@ -3200,6 +3550,13 @@
         "subject": "화학Ⅰ",
         "unit": "역동적인 화학 반응",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "화학 반응의 세계",
+        "unit": "산화·환원 반응",
+        "confidence": "high"
       }
     ]
   },
@@ -3225,6 +3582,13 @@
         "schoolLevel": "고등학교",
         "subject": "화학Ⅰ",
         "unit": "역동적인 화학 반응",
+        "confidence": "high"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "화학 반응의 세계",
+        "unit": "산화·환원 반응",
         "confidence": "high"
       }
     ]
@@ -3285,6 +3649,13 @@
         "subject": "화학Ⅰ",
         "unit": "역동적인 화학 반응",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "화학 반응의 세계",
+        "unit": "산화·환원 반응",
+        "confidence": "high"
       }
     ]
   },
@@ -3310,6 +3681,13 @@
         "schoolLevel": "고등학교",
         "subject": "화학Ⅰ",
         "unit": "역동적인 화학 반응",
+        "confidence": "high"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "화학 반응의 세계",
+        "unit": "산화·환원 반응",
         "confidence": "high"
       }
     ]
@@ -3337,6 +3715,13 @@
         "subject": "화학Ⅰ",
         "unit": "역동적인 화학 반응",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "화학 반응의 세계",
+        "unit": "산화·환원 반응",
+        "confidence": "high"
       }
     ]
   },
@@ -3361,6 +3746,13 @@
         "curriculumYear": "2015",
         "schoolLevel": "고등학교",
         "subject": "화학Ⅰ",
+        "unit": "역동적인 화학 반응",
+        "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "화학",
         "unit": "역동적인 화학 반응",
         "confidence": "medium"
       }
@@ -3389,6 +3781,13 @@
         "subject": "화학Ⅰ",
         "unit": "역동적인 화학 반응",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "화학 반응의 세계",
+        "unit": "산화·환원 반응",
+        "confidence": "high"
       }
     ]
   },
@@ -3415,6 +3814,13 @@
         "subject": "화학Ⅰ",
         "unit": "역동적인 화학 반응",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "화학 반응의 세계",
+        "unit": "산화·환원 반응",
+        "confidence": "high"
       }
     ]
   },
@@ -3440,6 +3846,13 @@
         "schoolLevel": "고등학교",
         "subject": "화학Ⅰ",
         "unit": "역동적인 화학 반응",
+        "confidence": "high"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "화학 반응의 세계",
+        "unit": "산화·환원 반응",
         "confidence": "high"
       }
     ]

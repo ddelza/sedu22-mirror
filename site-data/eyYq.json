@@ -572,6 +572,13 @@
         "subject": "화학Ⅰ",
         "unit": "화학 결합과 분자의 세계",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "화학",
+        "unit": "물질의 구조와 성질",
+        "confidence": "high"
       }
     ]
   },
@@ -743,6 +750,13 @@
         "schoolLevel": "고등학교",
         "subject": "물리학Ⅰ",
         "unit": "역학과 에너지",
+        "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "물리학",
+        "unit": "힘과 에너지",
         "confidence": "medium"
       }
     ]
@@ -1039,6 +1053,13 @@
         "subject": "통합과학",
         "unit": "생태계와 환경",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "통합과학2",
+        "unit": "환경과 에너지",
+        "confidence": "high"
       }
     ]
   },
@@ -1230,6 +1251,13 @@
         "subject": "물리학Ⅰ",
         "unit": "물질과 전자기장",
         "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "물리학",
+        "unit": "전기와 자기",
+        "confidence": "medium"
       }
     ]
   },
@@ -1255,6 +1283,13 @@
         "schoolLevel": "고등학교",
         "subject": "통합과학",
         "unit": "생물다양성과 유지",
+        "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "통합과학2",
+        "unit": "변화와 다양성",
         "confidence": "medium"
       }
     ]
@@ -1374,6 +1409,13 @@
         "subject": "통합과학",
         "unit": "지구 시스템",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "통합과학1",
+        "unit": "시스템과 상호작용",
+        "confidence": "high"
       }
     ]
   },
@@ -1399,6 +1441,13 @@
         "schoolLevel": "고등학교",
         "subject": "지구과학Ⅰ",
         "unit": "별과 외계 행성계",
+        "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "지구과학",
+        "unit": "태양계 천체와 별과 우주의 진화",
         "confidence": "medium"
       }
     ]
@@ -1458,6 +1507,13 @@
         "schoolLevel": "고등학교",
         "subject": "물리학",
         "unit": "빛과 물질",
+        "confidence": "high"
+      },
+      {
+        "curriculumYear": "2015",
+        "schoolLevel": "고등학교",
+        "subject": "물리학Ⅰ",
+        "unit": "역학과 에너지",
         "confidence": "high"
       }
     ]
@@ -1709,6 +1765,13 @@
         "subject": "지구과학Ⅰ",
         "unit": "지권의 변동",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "지구과학",
+        "unit": "지구의 역사와 한반도의 암석",
+        "confidence": "high"
       }
     ]
   },
@@ -1866,6 +1929,13 @@
         "schoolLevel": "고등학교",
         "subject": "통합과학",
         "unit": "생태계와 환경",
+        "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "통합과학2",
+        "unit": "환경과 에너지",
         "confidence": "medium"
       }
     ]
@@ -2665,6 +2735,13 @@
         "subject": "물리학Ⅰ",
         "unit": "파동과 정보통신",
         "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "물리학",
+        "unit": "빛과 물질",
+        "confidence": "medium"
       }
     ]
   },
@@ -2848,6 +2925,13 @@
         "schoolLevel": "고등학교",
         "subject": "통합과학",
         "unit": "생물다양성과 유지",
+        "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "통합과학2",
+        "unit": "변화와 다양성",
         "confidence": "medium"
       }
     ]
@@ -3073,6 +3157,13 @@
         "subject": "생명과학Ⅰ",
         "unit": "생명과학의 이해",
         "confidence": "low"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "생명과학",
+        "unit": "생명시스템의 구성",
+        "confidence": "low"
       }
     ]
   },
@@ -3104,6 +3195,13 @@
         "category": "스마트 수업도구",
         "topic": "앱/프로그램",
         "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "물리학",
+        "unit": "힘과 에너지",
+        "confidence": "high"
       }
     ]
   },
@@ -3129,6 +3227,13 @@
         "schoolLevel": "고등학교",
         "subject": "통합과학",
         "unit": "지구 시스템",
+        "confidence": "high"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "통합과학1",
+        "unit": "시스템과 상호작용",
         "confidence": "high"
       }
     ]
@@ -3241,6 +3346,13 @@
         "subject": "화학Ⅰ",
         "unit": "화학 결합과 분자의 세계",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "화학",
+        "unit": "물질의 구조와 성질",
+        "confidence": "high"
       }
     ]
   },
@@ -3267,6 +3379,13 @@
         "subject": "물리학",
         "unit": "빛과 물질",
         "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2015",
+        "schoolLevel": "고등학교",
+        "subject": "물리학Ⅰ",
+        "unit": "물질과 전자기장",
+        "confidence": "low"
       }
     ]
   },
@@ -3333,6 +3452,13 @@
         "subject": "통합과학",
         "unit": "지구 시스템",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "통합과학1",
+        "unit": "시스템과 상호작용",
+        "confidence": "high"
       }
     ]
   },
@@ -3391,6 +3517,13 @@
         "schoolLevel": "고등학교",
         "subject": "물리학Ⅰ",
         "unit": "역학과 에너지",
+        "confidence": "high"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "물리학",
+        "unit": "힘과 에너지",
         "confidence": "high"
       }
     ]
@@ -3549,6 +3682,13 @@
         "schoolLevel": "고등학교",
         "subject": "물리학Ⅰ",
         "unit": "역학과 에너지",
+        "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "물리학",
+        "unit": "힘과 에너지",
         "confidence": "medium"
       }
     ]
@@ -3779,6 +3919,13 @@
         "subject": "화학Ⅰ",
         "unit": "화학 결합과 분자의 세계",
         "confidence": "low"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "화학",
+        "unit": "물질의 구조와 성질",
+        "confidence": "low"
       }
     ]
   },
@@ -3929,6 +4076,13 @@
         "schoolLevel": "고등학교",
         "subject": "물리학Ⅰ",
         "unit": "파동과 정보통신",
+        "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "물리학",
+        "unit": "빛과 물질",
         "confidence": "medium"
       }
     ]
@@ -4140,6 +4294,13 @@
         "subject": "화학Ⅰ",
         "unit": "화학 결합과 분자의 세계",
         "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "화학",
+        "unit": "물질의 구조와 성질",
+        "confidence": "medium"
       }
     ]
   },
@@ -4165,6 +4326,13 @@
         "schoolLevel": "고등학교",
         "subject": "통합과학",
         "unit": "화학 변화",
+        "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "통합과학2",
+        "unit": "변화와 다양성",
         "confidence": "medium"
       }
     ]
@@ -4401,6 +4569,13 @@
         "schoolLevel": "고등학교",
         "subject": "통합과학",
         "unit": "생태계와 환경",
+        "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "통합과학2",
+        "unit": "환경과 에너지",
         "confidence": "medium"
       }
     ]
@@ -4744,6 +4919,13 @@
         "subject": "물리학Ⅰ",
         "unit": "파동과 정보통신",
         "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "물리학",
+        "unit": "빛과 물질",
+        "confidence": "medium"
       }
     ]
   },
@@ -4795,6 +4977,13 @@
         "schoolLevel": "고등학교",
         "subject": "생명과학Ⅰ",
         "unit": "유전",
+        "confidence": "low"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "생명과학",
+        "unit": "생명의 연속성과 다양성",
         "confidence": "low"
       }
     ]
@@ -4914,6 +5103,13 @@
         "subject": "통합과학",
         "unit": "생물다양성과 유지",
         "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "통합과학2",
+        "unit": "변화와 다양성",
+        "confidence": "medium"
       }
     ]
   },
@@ -4940,6 +5136,13 @@
         "subject": "통합과학",
         "unit": "발전과 신재생 에너지",
         "confidence": "low"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "통합과학2",
+        "unit": "환경과 에너지",
+        "confidence": "low"
       }
     ]
   },
@@ -4965,6 +5168,13 @@
         "schoolLevel": "고등학교",
         "subject": "물리학Ⅰ",
         "unit": "물질과 전자기장",
+        "confidence": "low"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "물리학",
+        "unit": "전기와 자기",
         "confidence": "low"
       }
     ]
@@ -5532,6 +5742,13 @@
         "subject": "통합과학",
         "unit": "지구 시스템",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "통합과학1",
+        "unit": "시스템과 상호작용",
+        "confidence": "high"
       }
     ]
   },
@@ -5557,6 +5774,13 @@
         "schoolLevel": "고등학교",
         "subject": "통합과학",
         "unit": "지구 시스템",
+        "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "통합과학1",
+        "unit": "시스템과 상호작용",
         "confidence": "medium"
       }
     ]
@@ -5683,6 +5907,13 @@
         "subject": "통합과학",
         "unit": "지구 시스템",
         "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "통합과학1",
+        "unit": "시스템과 상호작용",
+        "confidence": "medium"
       }
     ]
   },
@@ -5775,6 +6006,13 @@
         "subject": "통합과학",
         "unit": "생물다양성과 유지",
         "confidence": "low"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "통합과학2",
+        "unit": "변화와 다양성",
+        "confidence": "low"
       }
     ]
   },
@@ -5860,6 +6098,13 @@
         "subject": "물리학",
         "unit": "빛과 물질",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": "2015",
+        "schoolLevel": "고등학교",
+        "subject": "물리학Ⅰ",
+        "unit": "물질과 전자기장",
+        "confidence": "medium"
       }
     ]
   },
@@ -5985,6 +6230,13 @@
         "subject": "화학Ⅰ",
         "unit": "화학의 첫걸음",
         "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "화학",
+        "unit": "화학의 언어",
+        "confidence": "low"
       }
     ]
   },
@@ -6200,6 +6452,13 @@
         "curriculumYear": "2015",
         "schoolLevel": "고등학교",
         "subject": "생명과학Ⅰ",
+        "unit": "항상성과 몸의 조절",
+        "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "생명과학",
         "unit": "항상성과 몸의 조절",
         "confidence": "medium"
       }
@@ -6551,6 +6810,13 @@
         "subject": "물리학Ⅰ",
         "unit": "물질과 전자기장",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "물리학",
+        "unit": "전기와 자기",
+        "confidence": "high"
       }
     ]
   },
@@ -6775,6 +7041,13 @@
         "subject": "화학Ⅰ",
         "unit": "화학 결합과 분자의 세계",
         "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "화학",
+        "unit": "물질의 구조와 성질",
+        "confidence": "medium"
       }
     ]
   },
@@ -6900,6 +7173,13 @@
         "subject": "생명과학Ⅰ",
         "unit": "생명과학의 이해",
         "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "생명과학",
+        "unit": "생명시스템의 구성",
+        "confidence": "medium"
       }
     ]
   },
@@ -6925,6 +7205,13 @@
         "schoolLevel": "고등학교",
         "subject": "생명과학",
         "unit": "생명시스템의 구성",
+        "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2015",
+        "schoolLevel": "고등학교",
+        "subject": "생명과학Ⅰ",
+        "unit": "사람의 물질대사",
         "confidence": "medium"
       }
     ]

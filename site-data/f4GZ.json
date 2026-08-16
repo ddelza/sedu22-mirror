@@ -173,6 +173,13 @@
         "subject": "생명과학Ⅰ",
         "unit": "유전",
         "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "생명과학",
+        "unit": "생명의 연속성과 다양성",
+        "confidence": "medium"
       }
     ]
   },
