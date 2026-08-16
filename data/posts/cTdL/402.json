@@ -24,8 +24,16 @@
       "subject": "과학탐구실험1",
       "unit": "과학의 본성과 역사 속의 과학 탐구",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "고등학교",
+      "subject": "과학탐구실험",
+      "unit": "역사 속의 과학 탐구",
+      "confidence": "high"
     }
   ],
-  "tagsNote": "자격루 실험(수위 조절 구멍) 결과 질문.",
-  "taggedAt": "2026-08-12T00:16:33.980Z"
+  "tagsNote": "자격루 실험(수위 조절 구멍) 결과 질문. [보완: 2022만 있던 글에 2015 '역사 속의 과학 탐구' 역방향 보완]",
+  "taggedAt": "2026-08-12T00:16:33.980Z",
+  "verticalReviewedAt": "2026-08-16T07:46:07.775Z"
 }

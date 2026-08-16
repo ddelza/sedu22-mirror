@@ -29,8 +29,16 @@
       "category": "스마트 수업도구",
       "topic": "앱/프로그램",
       "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "고등학교",
+      "subject": "생명과학Ⅱ",
+      "unit": "세포의 특성",
+      "confidence": "high"
     }
   ],
-  "tagsNote": "세포 크기 측정 수업 연수자료(캔바 제작, 415 후속).",
-  "taggedAt": "2026-08-12T00:16:33.988Z"
+  "tagsNote": "세포 크기 측정 수업 연수자료(캔바 제작, 415 후속). [보완: 2022 진로선택 '세포와 물질대사>세포'는 2015 '생명과학Ⅱ 세포의 특성'에서 이어짐]",
+  "taggedAt": "2026-08-12T00:16:33.988Z",
+  "verticalReviewedAt": "2026-08-16T07:46:52.605Z"
 }

@@ -24,8 +24,16 @@
       "subject": "과학탐구실험",
       "unit": "생활 속의 과학 탐구",
       "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "고등학교",
+      "subject": "과학탐구실험2",
+      "unit": "생활 속의 과학 탐구",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "미디어(영화 공기살인/다크워터스)로 세상보기 수행평가.",
-  "taggedAt": "2026-08-12T00:21:28.518Z"
+  "tagsNote": "미디어(영화 공기살인/다크워터스)로 세상보기 수행평가. [보완: 2015 '생활속의과학탐구'↔2022 '과학탐구실험2 생활속의과학탐구' 수평 대응]",
+  "taggedAt": "2026-08-12T00:21:28.518Z",
+  "verticalReviewedAt": "2026-08-16T07:46:52.612Z"
 }

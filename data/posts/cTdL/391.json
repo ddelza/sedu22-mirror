@@ -24,8 +24,16 @@
       "subject": "과학탐구실험",
       "unit": "역사 속의 과학 탐구",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "고등학교",
+      "subject": "과학탐구실험1",
+      "unit": "과학의 본성과 역사 속의 과학 탐구",
+      "confidence": "high"
     }
   ],
-  "tagsNote": "뉴턴의 빛 실험(프리즘 분산) 예비실험 문제.",
-  "taggedAt": "2026-08-12T00:16:33.972Z"
+  "tagsNote": "뉴턴의 빛 실험(프리즘 분산) 예비실험 문제. [보완: 2015 '역사 속의 과학 탐구'↔2022 '과학의 본성과 역사 속의 과학 탐구' 수평 대응]",
+  "taggedAt": "2026-08-12T00:16:33.972Z",
+  "verticalReviewedAt": "2026-08-16T07:46:07.771Z"
 }

@@ -24,8 +24,16 @@
       "subject": "통합과학",
       "unit": "물질의 규칙성과 결합",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "고등학교",
+      "subject": "통합과학1",
+      "unit": "물질과 규칙성",
+      "confidence": "high"
     }
   ],
-  "tagsNote": "공유결합 수업 시 루이스 전자점식/구조식 지도 범위 질문.",
-  "taggedAt": "2026-08-12T00:11:34.174Z"
+  "tagsNote": "공유결합 수업 시 루이스 전자점식/구조식 지도 범위 질문. [보완: 2015 '물질의 규칙성과 결합'↔2022 '물질과 규칙성' 수평 대응]",
+  "taggedAt": "2026-08-12T00:11:34.174Z",
+  "verticalReviewedAt": "2026-08-16T07:46:07.765Z"
 }

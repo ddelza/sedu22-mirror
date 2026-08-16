@@ -24,8 +24,16 @@
       "subject": "통합과학",
       "unit": "자연의 구성 물질",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "고등학교",
+      "subject": "통합과학1",
+      "unit": "물질과 규칙성",
+      "confidence": "high"
     }
   ],
-  "tagsNote": "규산염 사면체 3D 모형 자료 공유.",
-  "taggedAt": "2026-08-12T00:11:34.175Z"
+  "tagsNote": "규산염 사면체 3D 모형 자료 공유. [보완: 2015 '자연의 구성 물질'↔2022 '물질과 규칙성' 수평 대응]",
+  "taggedAt": "2026-08-12T00:11:34.175Z",
+  "verticalReviewedAt": "2026-08-16T07:46:07.766Z"
 }

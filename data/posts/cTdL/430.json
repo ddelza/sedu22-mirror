@@ -24,8 +24,16 @@
       "subject": "과학탐구실험",
       "unit": "생활 속의 과학 탐구",
       "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "고등학교",
+      "subject": "과학탐구실험1",
+      "unit": "과학 탐구의 과정과 절차",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "2학기 과탐실 탐구설계 연습을 위한 가상 탐구 활동.",
-  "taggedAt": "2026-08-12T00:16:33.997Z"
+  "tagsNote": "2학기 과탐실 탐구설계 연습을 위한 가상 탐구 활동. [보완: 탐구설계 연습 - 2015 '생활속의과학탐구'↔2022 '과학탐구실험1 과학탐구의과정과절차' 수평 대응]",
+  "taggedAt": "2026-08-12T00:16:33.997Z",
+  "verticalReviewedAt": "2026-08-16T07:46:52.609Z"
 }

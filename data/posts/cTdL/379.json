@@ -24,8 +24,16 @@
       "subject": "통합과학",
       "unit": "지구 시스템",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "고등학교",
+      "subject": "통합과학1",
+      "unit": "시스템과 상호작용",
+      "confidence": "high"
     }
   ],
-  "tagsNote": "태양의 스펙트럼(연속/흡수) 질문(지구과학 파트 명시).",
-  "taggedAt": "2026-08-12T00:11:34.173Z"
+  "tagsNote": "태양의 스펙트럼(연속/흡수) 질문(지구과학 파트 명시). [보완: 2015 '지구 시스템'↔2022 '시스템과 상호작용' 수평 대응]",
+  "taggedAt": "2026-08-12T00:11:34.173Z",
+  "verticalReviewedAt": "2026-08-16T07:46:07.764Z"
 }

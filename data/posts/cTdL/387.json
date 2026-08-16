@@ -24,8 +24,16 @@
       "subject": "과학탐구실험",
       "unit": "생활 속의 과학 탐구",
       "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "고등학교",
+      "subject": "과학탐구실험2",
+      "unit": "생활 속의 과학 탐구",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "과학탐구실험 수업방식/주제 추천 요청(가설연역적 탐구).",
-  "taggedAt": "2026-08-12T00:16:33.969Z"
+  "tagsNote": "과학탐구실험 수업방식/주제 추천 요청(가설연역적 탐구). [보완: 2015 '생활속의과학탐구'↔2022 '과학탐구실험2 생활속의과학탐구' 수평 대응]",
+  "taggedAt": "2026-08-12T00:16:33.969Z",
+  "verticalReviewedAt": "2026-08-16T07:46:07.769Z"
 }

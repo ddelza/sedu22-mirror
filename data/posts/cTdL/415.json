@@ -24,8 +24,16 @@
       "subject": "세포와 물질대사",
       "unit": "세포",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "고등학교",
+      "subject": "생명과학Ⅱ",
+      "unit": "세포의 특성",
+      "confidence": "high"
     }
   ],
-  "tagsNote": "디지털 기기로 세포 크기 측정 탐구활동지.",
-  "taggedAt": "2026-08-12T00:16:33.987Z"
+  "tagsNote": "디지털 기기로 세포 크기 측정 탐구활동지. [보완: 2022 진로선택 '세포와 물질대사>세포'는 2015 '생명과학Ⅱ 세포의 특성'에서 이어짐(hs-2015-2022-mapping.md)]",
+  "taggedAt": "2026-08-12T00:16:33.987Z",
+  "verticalReviewedAt": "2026-08-16T07:46:52.605Z"
 }
