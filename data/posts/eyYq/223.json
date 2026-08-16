@@ -24,8 +24,16 @@
       "subject": "통합과학",
       "unit": "생태계와 환경",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "고등학교",
+      "subject": "통합과학2",
+      "unit": "환경과 에너지",
+      "confidence": "high"
     }
   ],
-  "tagsNote": "생태계 교란종 목록(포켓몬GO 비유) 자료.",
-  "taggedAt": "2026-08-12T04:24:08.389Z"
+  "tagsNote": "생태계 교란종 목록(포켓몬GO 비유) 자료. [보완: 2015 '생태계와 환경'↔2022 '환경과 에너지' 수평 대응]",
+  "taggedAt": "2026-08-12T04:24:08.389Z",
+  "verticalReviewedAt": "2026-08-16T08:17:23.584Z"
 }

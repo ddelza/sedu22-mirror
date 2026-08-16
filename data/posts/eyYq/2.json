@@ -24,8 +24,16 @@
       "subject": "생명과학",
       "unit": "생명시스템의 구성",
       "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "고등학교",
+      "subject": "생명과학Ⅰ",
+      "unit": "사람의 물질대사",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "키네신(미세소관, 단백질 운송) 이미지.",
-  "taggedAt": "2026-08-12T04:22:41.874Z"
+  "tagsNote": "키네신(미세소관, 단백질 운송) 이미지. [보완: 2022만 있던 글에 2015 '사람의 물질대사'(세포 내 물질 운송) 역방향 보완]",
+  "taggedAt": "2026-08-12T04:22:41.874Z",
+  "verticalReviewedAt": "2026-08-16T08:17:23.579Z"
 }

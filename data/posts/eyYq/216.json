@@ -24,8 +24,16 @@
       "subject": "물리학Ⅰ",
       "unit": "물질과 전자기장",
       "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "고등학교",
+      "subject": "물리학",
+      "unit": "전기와 자기",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "스마트폰 진동모터(전동기, 전류에 의한 자기장) 원리.",
-  "taggedAt": "2026-08-12T04:22:41.905Z"
+  "tagsNote": "스마트폰 진동모터(전동기, 전류에 의한 자기장) 원리. [보완: 2015 '물질과 전자기장'↔2022 '전기와 자기' 수평 대응]",
+  "taggedAt": "2026-08-12T04:22:41.905Z",
+  "verticalReviewedAt": "2026-08-16T08:17:23.583Z"
 }

@@ -24,8 +24,16 @@
       "subject": "화학Ⅰ",
       "unit": "화학 결합과 분자의 세계",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "고등학교",
+      "subject": "화학",
+      "unit": "물질의 구조와 성질",
+      "confidence": "high"
     }
   ],
-  "tagsNote": "이온결합(소금 생성) 소재 AI 생성 이야기.",
-  "taggedAt": "2026-08-12T04:24:08.407Z"
+  "tagsNote": "이온결합(소금 생성) 소재 AI 생성 이야기. [보완: 2015 '화학 결합과 분자의 세계'↔2022 '물질의 구조와 성질' 수평 대응]",
+  "taggedAt": "2026-08-12T04:24:08.407Z",
+  "verticalReviewedAt": "2026-08-16T08:17:23.588Z"
 }
