@@ -24,8 +24,16 @@
       "subject": "물리학",
       "unit": "빛과 물질",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "고등학교",
+      "subject": "물리학Ⅱ",
+      "unit": "파동과 물질의 성질",
+      "confidence": "high"
     }
   ],
-  "tagsNote": "재민 간섭계/양자 지우개 모델 실험 학술논문 출판.",
-  "taggedAt": "2026-08-12T04:15:30.462Z"
+  "tagsNote": "재민 간섭계/양자 지우개 모델 실험 학술논문 출판. [보완: 간섭계·양자 지우개 실험이라 2015 '물리학Ⅱ>파동과 물질의 성질' 역방향 보완]",
+  "taggedAt": "2026-08-12T04:15:30.462Z",
+  "verticalReviewedAt": "2026-08-16T08:15:31.937Z"
 }

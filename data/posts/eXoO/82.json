@@ -24,8 +24,16 @@
       "subject": "물리학",
       "unit": "빛과 물질",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "고등학교",
+      "subject": "물리학Ⅰ",
+      "unit": "역학과 에너지",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "볼록거울 이용 교육용 마이켈슨 간섭계(학회 발표).",
-  "taggedAt": "2026-08-12T04:16:53.933Z"
+  "tagsNote": "볼록거울 이용 교육용 마이켈슨 간섭계(학회 발표). [보완: 2022만 있던 글에 2015 '역학과 에너지'(마이컬슨 간섭계, 상대론 배경) 역방향 보완]",
+  "taggedAt": "2026-08-12T04:16:53.933Z",
+  "verticalReviewedAt": "2026-08-16T08:15:31.945Z"
 }

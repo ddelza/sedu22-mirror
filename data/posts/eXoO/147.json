@@ -29,8 +29,16 @@
       "category": "스마트 수업도구",
       "topic": "MBL센서",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "고등학교",
+      "subject": "화학",
+      "unit": "화학의 언어",
+      "confidence": "low"
     }
   ],
-  "tagsNote": "기체 온도-압력 관계 센서 실험.",
-  "taggedAt": "2026-08-12T04:15:30.447Z"
+  "tagsNote": "기체 온도-압력 관계 센서 실험. [보완: 2015 '화학의 첫걸음'↔2022 '화학의 언어' 수평 대응]",
+  "taggedAt": "2026-08-12T04:15:30.447Z",
+  "verticalReviewedAt": "2026-08-16T08:15:31.935Z"
 }

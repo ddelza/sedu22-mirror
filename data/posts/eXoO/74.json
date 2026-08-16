@@ -24,8 +24,16 @@
       "subject": "물리학",
       "unit": "빛과 물질",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "고등학교",
+      "subject": "물리학Ⅰ",
+      "unit": "역학과 에너지",
+      "confidence": "high"
     }
   ],
-  "tagsNote": "특수상대성이론 수업계획 활동지(외국 영재교육 자료).",
-  "taggedAt": "2026-08-12T04:16:53.919Z"
+  "tagsNote": "특수상대성이론 수업계획 활동지(외국 영재교육 자료). [보완: 2022만 있던 글에 2015 '역학과 에너지'(특수상대성이론) 역방향 보완]",
+  "taggedAt": "2026-08-12T04:16:53.919Z",
+  "verticalReviewedAt": "2026-08-16T08:15:31.944Z"
 }

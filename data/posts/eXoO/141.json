@@ -24,8 +24,16 @@
       "subject": "물리학Ⅰ",
       "unit": "역학과 에너지",
       "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "고등학교",
+      "subject": "물리학",
+      "unit": "힘과 에너지",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "열에너지와 열 구분 심화글(4, 화학교재 검토).",
-  "taggedAt": "2026-08-12T04:15:30.438Z"
+  "tagsNote": "열에너지와 열 구분 심화글(4, 화학교재 검토). [보완: 2015 '역학과 에너지'(열에너지 구분)↔2022 '힘과 에너지' 수평 대응]",
+  "taggedAt": "2026-08-12T04:15:30.438Z",
+  "verticalReviewedAt": "2026-08-16T08:15:31.932Z"
 }

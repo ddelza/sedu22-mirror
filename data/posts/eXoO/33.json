@@ -24,8 +24,16 @@
       "subject": "과학탐구실험",
       "unit": "생활 속의 과학 탐구",
       "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "고등학교",
+      "subject": "과학탐구실험1",
+      "unit": "과학 탐구의 과정과 절차",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "탐구방법론 수업기록 1차시(관찰과 추론).",
-  "taggedAt": "2026-08-12T04:16:53.883Z"
+  "tagsNote": "탐구방법론 수업기록 1차시(관찰과 추론). [보완: 2015 '생활 속의 과학 탐구'(관찰과 추론)↔2022 '과학 탐구의 과정과 절차' 대응]",
+  "taggedAt": "2026-08-12T04:16:53.883Z",
+  "verticalReviewedAt": "2026-08-16T08:15:31.938Z"
 }

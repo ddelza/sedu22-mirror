@@ -24,8 +24,16 @@
       "subject": "물리학Ⅰ",
       "unit": "역학과 에너지",
       "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "고등학교",
+      "subject": "물리학",
+      "unit": "힘과 에너지",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "뉴턴 사과낙하-중력 발견 일화 고찰.",
-  "taggedAt": "2026-08-12T04:15:30.450Z"
+  "tagsNote": "뉴턴 사과낙하-중력 발견 일화 고찰. [보완: 2015 '역학과 에너지'(중력)↔2022 '힘과 에너지' 수평 대응]",
+  "taggedAt": "2026-08-12T04:15:30.450Z",
+  "verticalReviewedAt": "2026-08-16T08:15:31.936Z"
 }

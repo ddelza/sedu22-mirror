@@ -24,8 +24,16 @@
       "subject": "화학Ⅰ",
       "unit": "화학의 첫걸음",
       "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "고등학교",
+      "subject": "화학",
+      "unit": "화학의 언어",
+      "confidence": "low"
     }
   ],
-  "tagsNote": "탄산수가 물보다 먼저 어는 이유 질문.",
-  "taggedAt": "2026-08-12T04:16:53.908Z"
+  "tagsNote": "탄산수가 물보다 먼저 어는 이유 질문. [보완: 2015 '화학의 첫걸음'↔2022 '화학의 언어' 수평 대응]",
+  "taggedAt": "2026-08-12T04:16:53.908Z",
+  "verticalReviewedAt": "2026-08-16T08:15:31.943Z"
 }
