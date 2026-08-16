@@ -29,8 +29,16 @@
       "category": "스마트 수업도구",
       "topic": "AR/VR",
       "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "고등학교",
+      "subject": "지구과학",
+      "unit": "지구의 역사와 한반도의 암석",
+      "confidence": "high"
     }
   ],
-  "tagsNote": "미국 유타 역단층 3D 가상 지질 노두(드론 촬영 기반).",
-  "taggedAt": "2026-08-12T03:45:53.189Z"
+  "tagsNote": "미국 유타 역단층 3D 가상 지질 노두(드론 촬영 기반). [보완: 2015 '지권의 변동'(단층 지질구조)↔2022 '지구의 역사와 한반도의 암석' 대응]",
+  "taggedAt": "2026-08-12T03:45:53.189Z",
+  "verticalReviewedAt": "2026-08-16T08:13:34.545Z"
 }

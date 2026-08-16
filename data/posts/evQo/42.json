@@ -24,8 +24,16 @@
       "subject": "지구과학Ⅰ",
       "unit": "외부 은하와 우주 팽창",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "고등학교",
+      "subject": "지구과학",
+      "unit": "태양계 천체와 별과 우주의 진화",
+      "confidence": "high"
     }
   ],
-  "tagsNote": "우주팽창과 엔트로피(열역학 2법칙) 연관성 질문.",
-  "taggedAt": "2026-08-12T03:47:18.768Z"
+  "tagsNote": "우주팽창과 엔트로피(열역학 2법칙) 연관성 질문. [보완: 2015 '외부 은하와 우주 팽창'↔2022 '태양계 천체와 별과 우주의 진화' 대응]",
+  "taggedAt": "2026-08-12T03:47:18.768Z",
+  "verticalReviewedAt": "2026-08-16T08:13:34.548Z"
 }

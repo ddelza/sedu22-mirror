@@ -29,8 +29,16 @@
       "category": "스마트 수업도구",
       "topic": "앱/프로그램",
       "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "고등학교",
+      "subject": "지구과학",
+      "unit": "지구의 역사와 한반도의 암석",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "지질연대/해저확장/일주운동/수온염분 3D 시각화 시뮬레이션 모음.",
-  "taggedAt": "2026-08-12T03:47:18.774Z"
+  "tagsNote": "지질연대/해저확장/일주운동/수온염분 3D 시각화 시뮬레이션 모음. [보완: 2015 '지권의 변동'(지질연대·해저확장)↔2022 '지구의 역사와 한반도의 암석' 대응]",
+  "taggedAt": "2026-08-12T03:47:18.774Z",
+  "verticalReviewedAt": "2026-08-16T08:13:34.552Z"
 }

@@ -24,8 +24,16 @@
       "subject": "지구과학Ⅰ",
       "unit": "대기와 해양의 상호 작용",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "고등학교",
+      "subject": "지구과학",
+      "unit": "대기와 해양의 상호작용",
+      "confidence": "high"
     }
   ],
-  "tagsNote": "기조력(조석력) 원리 설명글.",
-  "taggedAt": "2026-08-12T03:45:53.179Z"
+  "tagsNote": "기조력(조석력) 원리 설명글. [보완: 2015 '대기와 해양의 상호 작용'↔2022 동일 단원명 유지]",
+  "taggedAt": "2026-08-12T03:45:53.179Z",
+  "verticalReviewedAt": "2026-08-16T08:13:34.540Z"
 }

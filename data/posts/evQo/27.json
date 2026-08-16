@@ -24,8 +24,16 @@
       "subject": "지구과학Ⅰ",
       "unit": "대기와 해양의 상호 작용",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "고등학교",
+      "subject": "지구과학",
+      "unit": "대기와 해양의 상호작용",
+      "confidence": "high"
     }
   ],
-  "tagsNote": "엘니뇨/라니냐 돌림판 자료.",
-  "taggedAt": "2026-08-12T03:45:53.174Z"
+  "tagsNote": "엘니뇨/라니냐 돌림판 자료. [보완: 2015 '대기와 해양의 상호 작용'↔2022 동일 단원명 유지]",
+  "taggedAt": "2026-08-12T03:45:53.174Z",
+  "verticalReviewedAt": "2026-08-16T08:13:34.537Z"
 }

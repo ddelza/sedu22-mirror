@@ -24,8 +24,16 @@
       "subject": "지구과학Ⅰ",
       "unit": "별과 외계 행성계",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "고등학교",
+      "subject": "지구과학",
+      "unit": "태양계 천체와 별과 우주의 진화",
+      "confidence": "high"
     }
   ],
-  "tagsNote": "주계열성 관련 과학송 소개.",
-  "taggedAt": "2026-08-12T03:45:53.176Z"
+  "tagsNote": "주계열성 관련 과학송 소개. [보완: 2015 '별과 외계 행성계'↔2022 '태양계 천체와 별과 우주의 진화' 대응]",
+  "taggedAt": "2026-08-12T03:45:53.176Z",
+  "verticalReviewedAt": "2026-08-16T08:13:34.540Z"
 }

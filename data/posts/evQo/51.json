@@ -24,8 +24,16 @@
       "subject": "지구과학Ⅰ",
       "unit": "지구의 역사",
       "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "고등학교",
+      "subject": "지구시스템과학",
+      "unit": "지구 탄생과 생동하는 지구",
+      "confidence": "high"
     }
   ],
-  "tagsNote": "지구과학2 '지구의 탄생과 진화' PPT 공유.",
-  "taggedAt": "2026-08-12T03:47:18.775Z"
+  "tagsNote": "지구과학2 '지구의 탄생과 진화' PPT 공유. [보완: 지구과학Ⅱ '지구의 형성과 역장'(태양계 형성) 내용이라 2022 진로선택 '지구시스템과학>지구 탄생과 생동하는 지구' 대응]",
+  "taggedAt": "2026-08-12T03:47:18.775Z",
+  "verticalReviewedAt": "2026-08-16T08:13:34.553Z"
 }

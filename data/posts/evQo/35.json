@@ -29,8 +29,16 @@
       "category": "스마트 수업도구",
       "topic": "AR/VR",
       "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "고등학교",
+      "subject": "지구과학",
+      "unit": "지구의 역사와 한반도의 암석",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "화성 공룡알 화석산지 퇴적층 3D 가상 지질탐사.",
-  "taggedAt": "2026-08-12T03:45:53.187Z"
+  "tagsNote": "화성 공룡알 화석산지 퇴적층 3D 가상 지질탐사. [보완: 2015 '지구의 역사'↔2022 '지구의 역사와 한반도의 암석' 대응]",
+  "taggedAt": "2026-08-12T03:45:53.187Z",
+  "verticalReviewedAt": "2026-08-16T08:13:34.544Z"
 }
