@@ -24,8 +24,16 @@
       "subject": "통합과학",
       "unit": "생태계와 환경",
       "confidence": "low"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "고등학교",
+      "subject": "통합과학2",
+      "unit": "환경과 에너지",
+      "confidence": "low"
     }
   ],
-  "tagsNote": "넷플릭스 '최후의 인류' 기반 학기말 생존 시뮬레이션 게임 제작 공유.",
-  "taggedAt": "2026-08-12T09:01:46.586Z"
+  "tagsNote": "넷플릭스 '최후의 인류' 기반 학기말 생존 시뮬레이션 게임 제작 공유. [보완: 2015 '생태계와 환경'↔2022 '환경과 에너지' 수평 대응]",
+  "taggedAt": "2026-08-12T09:01:46.586Z",
+  "verticalReviewedAt": "2026-08-16T08:21:13.061Z"
 }

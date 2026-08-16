@@ -24,8 +24,16 @@
       "subject": "통합과학",
       "unit": "발전과 신재생 에너지",
       "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "고등학교",
+      "subject": "통합과학2",
+      "unit": "환경과 에너지",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "전자기유도(하이라이트/인덕션 레인지) 소재 모의고사 비문학 지문 공유.",
-  "taggedAt": "2026-08-12T10:25:08.347Z"
+  "tagsNote": "전자기유도(하이라이트/인덕션 레인지) 소재 모의고사 비문학 지문 공유. [보완: 2015 '발전과 신재생 에너지'↔2022 '환경과 에너지' 수평 대응]",
+  "taggedAt": "2026-08-12T10:25:08.347Z",
+  "verticalReviewedAt": "2026-08-16T08:21:13.070Z"
 }

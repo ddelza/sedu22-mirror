@@ -24,8 +24,16 @@
       "subject": "통합과학",
       "unit": "생물다양성과 유지",
       "confidence": "low"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "고등학교",
+      "subject": "통합과학2",
+      "unit": "변화와 다양성",
+      "confidence": "low"
     }
   ],
-  "tagsNote": "진화(트레이드오프)를 삶에 적용하는 발췌글 공유.",
-  "taggedAt": "2026-08-12T10:25:08.350Z"
+  "tagsNote": "진화(트레이드오프)를 삶에 적용하는 발췌글 공유. [보완: 2015 '생물다양성과 유지'↔2022 '변화와 다양성' 수평 대응]",
+  "taggedAt": "2026-08-12T10:25:08.350Z",
+  "verticalReviewedAt": "2026-08-16T08:21:13.070Z"
 }

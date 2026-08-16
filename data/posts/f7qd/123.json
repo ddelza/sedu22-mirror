@@ -24,8 +24,16 @@
       "subject": "물리학Ⅰ",
       "unit": "역학과 에너지",
       "confidence": "low"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "고등학교",
+      "subject": "물리학",
+      "unit": "힘과 에너지",
+      "confidence": "low"
     }
   ],
-  "tagsNote": "열역학 소재 수능 비문학 기출(2017) 공유.",
-  "taggedAt": "2026-08-12T09:58:29.237Z"
+  "tagsNote": "열역학 소재 수능 비문학 기출(2017) 공유. [보완: 2015 '역학과 에너지'↔2022 '힘과 에너지' 수평 대응]",
+  "taggedAt": "2026-08-12T09:58:29.237Z",
+  "verticalReviewedAt": "2026-08-16T08:21:13.068Z"
 }

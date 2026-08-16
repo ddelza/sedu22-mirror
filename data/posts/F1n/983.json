@@ -29,8 +29,16 @@
       "category": "스마트 수업도구",
       "topic": "생성형 AI 도구",
       "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "고등학교",
+      "subject": "생명과학",
+      "unit": "생명시스템의 구성",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "세포호흡(TCA회로) AI 동시 생성 및 수행평가 활용 고민.",
-  "taggedAt": "2026-08-12T09:01:46.581Z"
+  "tagsNote": "세포호흡(TCA회로) AI 동시 생성 및 수행평가 활용 고민. [보완: 2015 '사람의 물질대사'(TCA회로)↔2022 '생명시스템의 구성' 수평 대응]",
+  "taggedAt": "2026-08-12T09:01:46.581Z",
+  "verticalReviewedAt": "2026-08-16T08:21:13.060Z"
 }

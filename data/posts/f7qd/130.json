@@ -24,8 +24,16 @@
       "subject": "통합과학",
       "unit": "생물다양성과 유지",
       "confidence": "low"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "고등학교",
+      "subject": "통합과학2",
+      "unit": "변화와 다양성",
+      "confidence": "low"
     }
   ],
-  "tagsNote": "'코스모스' 발췌(생명의 진화, 자연선택) 자료 공유.",
-  "taggedAt": "2026-08-12T09:58:29.242Z"
+  "tagsNote": "'코스모스' 발췌(생명의 진화, 자연선택) 자료 공유. [보완: 2015 '생물다양성과 유지'↔2022 '변화와 다양성' 수평 대응]",
+  "taggedAt": "2026-08-12T09:58:29.242Z",
+  "verticalReviewedAt": "2026-08-16T08:21:13.069Z"
 }

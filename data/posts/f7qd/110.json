@@ -24,8 +24,16 @@
       "subject": "물리학Ⅰ",
       "unit": "역학과 에너지",
       "confidence": "low"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "고등학교",
+      "subject": "물리학",
+      "unit": "힘과 에너지",
+      "confidence": "low"
     }
   ],
-  "tagsNote": "물리학Ⅰ 열파트(스털링 기관) 수업에 수능특강 비문학 지문 활용 사례.",
-  "taggedAt": "2026-08-12T09:58:29.227Z"
+  "tagsNote": "물리학Ⅰ 열파트(스털링 기관) 수업에 수능특강 비문학 지문 활용 사례. [보완: 2015 '역학과 에너지'↔2022 '힘과 에너지' 수평 대응]",
+  "taggedAt": "2026-08-12T09:58:29.227Z",
+  "verticalReviewedAt": "2026-08-16T08:21:13.064Z"
 }
