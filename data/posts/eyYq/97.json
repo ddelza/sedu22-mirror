@@ -24,8 +24,16 @@
       "subject": "물리학Ⅰ",
       "unit": "파동과 정보통신",
       "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "고등학교",
+      "subject": "물리학",
+      "unit": "빛과 물질",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "와이파이 전파 확산 시각화 이미지.",
-  "taggedAt": "2026-08-12T04:36:24.536Z"
+  "tagsNote": "와이파이 전파 확산 시각화 이미지. [보완: 2015 '파동과 정보통신'↔2022 '빛과 물질' 수평 대응]",
+  "taggedAt": "2026-08-12T04:36:24.536Z",
+  "verticalReviewedAt": "2026-08-16T08:18:19.096Z"
 }

@@ -23,8 +23,16 @@
       "subject": "생명과학Ⅰ",
       "unit": "항상성과 몸의 조절",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "고등학교",
+      "subject": "생명과학",
+      "unit": "항상성과 몸의 조절",
+      "confidence": "high"
     }
   ],
-  "tagsNote": "오줌 생성 과정(재흡수/분비) 요소량 질문.",
-  "taggedAt": "2026-08-12T04:43:00.467Z"
+  "tagsNote": "오줌 생성 과정(재흡수/분비) 요소량 질문. [보완: 2015 '항상성과 몸의 조절'↔2022 동일 단원명 유지]",
+  "taggedAt": "2026-08-12T04:43:00.467Z",
+  "verticalReviewedAt": "2026-08-16T08:18:19.101Z"
 }

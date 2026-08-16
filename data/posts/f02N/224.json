@@ -23,8 +23,16 @@
       "subject": "생명과학Ⅰ",
       "unit": "사람의 물질대사",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "고등학교",
+      "subject": "생명과학",
+      "unit": "생명시스템의 구성",
+      "confidence": "high"
     }
   ],
-  "tagsNote": "소화효소(단백질)의 분해 가능성 질문.",
-  "taggedAt": "2026-08-12T04:43:00.459Z"
+  "tagsNote": "소화효소(단백질)의 분해 가능성 질문. [보완: 2015 '사람의 물질대사'↔2022 '생명시스템의 구성' 수평 대응]",
+  "taggedAt": "2026-08-12T04:43:00.459Z",
+  "verticalReviewedAt": "2026-08-16T08:18:19.100Z"
 }

@@ -23,8 +23,16 @@
       "subject": "통합과학",
       "unit": "지구 시스템",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "고등학교",
+      "subject": "통합과학1",
+      "unit": "시스템과 상호작용",
+      "confidence": "high"
     }
   ],
-  "tagsNote": "화산재-기온하강(권역 간 상호작용) 개념 질문.",
-  "taggedAt": "2026-08-12T04:36:24.556Z"
+  "tagsNote": "화산재-기온하강(권역 간 상호작용) 개념 질문. [보완: 2015 '지구 시스템'↔2022 '시스템과 상호작용' 수평 대응]",
+  "taggedAt": "2026-08-12T04:36:24.556Z",
+  "verticalReviewedAt": "2026-08-16T08:18:19.097Z"
 }

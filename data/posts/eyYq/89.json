@@ -24,8 +24,16 @@
       "subject": "통합과학",
       "unit": "발전과 신재생 에너지",
       "confidence": "low"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "고등학교",
+      "subject": "통합과학2",
+      "unit": "환경과 에너지",
+      "confidence": "low"
     }
   ],
-  "tagsNote": "선풍기+풍선 소재 입자가속기/토카막 비유 이미지.",
-  "taggedAt": "2026-08-12T04:36:24.524Z"
+  "tagsNote": "선풍기+풍선 소재 입자가속기/토카막 비유 이미지. [보완: 2015 '발전과 신재생 에너지'↔2022 '환경과 에너지' 수평 대응]",
+  "taggedAt": "2026-08-12T04:36:24.524Z",
+  "verticalReviewedAt": "2026-08-16T08:18:19.094Z"
 }

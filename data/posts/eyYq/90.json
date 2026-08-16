@@ -24,8 +24,16 @@
       "subject": "통합과학",
       "unit": "생물다양성과 유지",
       "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "고등학교",
+      "subject": "통합과학2",
+      "unit": "변화와 다양성",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "당근 색깔 변천(품종개량, 인위선택) 소재.",
-  "taggedAt": "2026-08-12T04:36:24.526Z"
+  "tagsNote": "당근 색깔 변천(품종개량, 인위선택) 소재. [보완: 2015 '생물다양성과 유지'↔2022 '변화와 다양성' 수평 대응]",
+  "taggedAt": "2026-08-12T04:36:24.526Z",
+  "verticalReviewedAt": "2026-08-16T08:18:19.094Z"
 }

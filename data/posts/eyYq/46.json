@@ -24,8 +24,16 @@
       "subject": "통합과학",
       "unit": "지구 시스템",
       "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "고등학교",
+      "subject": "통합과학1",
+      "unit": "시스템과 상호작용",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "바닷물 전량 증발 가정 시나리오 영상.",
-  "taggedAt": "2026-08-12T04:35:05.645Z"
+  "tagsNote": "바닷물 전량 증발 가정 시나리오 영상. [보완: 2015 '지구 시스템'↔2022 '시스템과 상호작용' 수평 대응]",
+  "taggedAt": "2026-08-12T04:35:05.645Z",
+  "verticalReviewedAt": "2026-08-16T08:18:19.091Z"
 }
