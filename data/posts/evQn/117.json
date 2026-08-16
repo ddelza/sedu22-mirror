@@ -29,8 +29,16 @@
       "category": "스마트 수업도구",
       "topic": "MBL센서",
       "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "고등학교",
+      "subject": "화학",
+      "unit": "역동적인 화학 반응",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "화학탐구실험 프로젝트5(분광광도계 잔류염소 농도 결정, 지능형과학실 센서 활용).",
-  "taggedAt": "2026-08-12T03:38:32.884Z"
+  "tagsNote": "화학탐구실험 프로젝트5(분광광도계 잔류염소 농도 결정, 지능형과학실 센서 활용). [보완: 2015 '역동적인 화학 반응'↔2022 동일 단원명 유지]",
+  "taggedAt": "2026-08-12T03:38:32.884Z",
+  "verticalReviewedAt": "2026-08-16T08:07:37.962Z"
 }

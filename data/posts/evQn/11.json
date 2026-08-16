@@ -24,8 +24,16 @@
       "subject": "화학Ⅰ",
       "unit": "화학의 첫걸음",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "고등학교",
+      "subject": "화학",
+      "unit": "역동적인 화학 반응",
+      "confidence": "high"
     }
   ],
-  "tagsNote": "몰농도(M) 온라인 PBL 수업.",
-  "taggedAt": "2026-08-12T03:38:32.854Z"
+  "tagsNote": "몰농도(M) 온라인 PBL 수업. [보완: 2015 '화학의 첫걸음'(몰농도)↔2022 '역동적인 화학 반응' 대응]",
+  "taggedAt": "2026-08-12T03:38:32.854Z",
+  "verticalReviewedAt": "2026-08-16T08:07:37.956Z"
 }

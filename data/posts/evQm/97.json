@@ -24,8 +24,16 @@
       "subject": "물리학",
       "unit": "힘과 에너지",
       "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "고등학교",
+      "subject": "물리학Ⅰ",
+      "unit": "역학과 에너지",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "각운동량 보존/반작용 심화 문제 질문.",
-  "taggedAt": "2026-08-12T03:38:32.838Z"
+  "tagsNote": "각운동량 보존/반작용 심화 문제 질문. [보완: 2022만 있던 글에 2015 '역학과 에너지' 역방향 보완]",
+  "taggedAt": "2026-08-12T03:38:32.838Z",
+  "verticalReviewedAt": "2026-08-16T08:07:37.949Z"
 }

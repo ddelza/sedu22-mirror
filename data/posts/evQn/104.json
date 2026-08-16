@@ -24,8 +24,16 @@
       "subject": "화학Ⅰ",
       "unit": "화학의 첫걸음",
       "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "고등학교",
+      "subject": "화학",
+      "unit": "화학의 언어",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "기체 분자량 측정 실험 중 압력 변화 질문(화2 표기).",
-  "taggedAt": "2026-08-12T03:38:32.848Z"
+  "tagsNote": "기체 분자량 측정 실험 중 압력 변화 질문(화2 표기). [보완: 2015 '화학의 첫걸음'(양적관계)↔2022 '화학의 언어' 수평 대응]",
+  "taggedAt": "2026-08-12T03:38:32.848Z",
+  "verticalReviewedAt": "2026-08-16T08:07:37.952Z"
 }

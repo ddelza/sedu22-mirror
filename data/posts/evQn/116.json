@@ -24,8 +24,16 @@
       "subject": "통합과학",
       "unit": "생태계와 환경",
       "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "고등학교",
+      "subject": "통합과학2",
+      "unit": "환경과 에너지",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "화학탐구실험 프로젝트4(기체 종류별 지구온난화 효과).",
-  "taggedAt": "2026-08-12T03:38:32.871Z"
+  "tagsNote": "화학탐구실험 프로젝트4(기체 종류별 지구온난화 효과). [보완: 2015 '생태계와 환경'↔2022 '환경과 에너지' 수평 대응]",
+  "taggedAt": "2026-08-12T03:38:32.871Z",
+  "verticalReviewedAt": "2026-08-16T08:07:37.961Z"
 }

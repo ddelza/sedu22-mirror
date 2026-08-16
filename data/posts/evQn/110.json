@@ -24,8 +24,16 @@
       "subject": "화학Ⅰ",
       "unit": "화학의 첫걸음",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "고등학교",
+      "subject": "화학",
+      "unit": "화학의 언어",
+      "confidence": "high"
     }
   ],
-  "tagsNote": "몰(mol) 개념 설명 연재글 2막,3막(원자량).",
-  "taggedAt": "2026-08-12T03:38:32.855Z"
+  "tagsNote": "몰(mol) 개념 설명 연재글 2막,3막(원자량). [보완: 2015 '화학의 첫걸음'(몰·원자량·아보가드로수)↔2022 '화학의 언어' 수평 대응]",
+  "taggedAt": "2026-08-12T03:38:32.855Z",
+  "verticalReviewedAt": "2026-08-16T08:07:37.957Z"
 }

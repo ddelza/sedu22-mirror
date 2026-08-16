@@ -24,8 +24,16 @@
       "subject": "물리학Ⅰ",
       "unit": "물질과 전자기장",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "고등학교",
+      "subject": "물리학",
+      "unit": "전기와 자기",
+      "confidence": "high"
     }
   ],
-  "tagsNote": "간이 전동기 코일 감기 표현(촘촘하게 vs 많이) 논쟁 기사.",
-  "taggedAt": "2026-08-12T03:38:32.836Z"
+  "tagsNote": "간이 전동기 코일 감기 표현(촘촘하게 vs 많이) 논쟁 기사. [보완: 2015 '물질과 전자기장'↔2022 '전기와 자기' 수평 대응]",
+  "taggedAt": "2026-08-12T03:38:32.836Z",
+  "verticalReviewedAt": "2026-08-16T08:07:37.945Z"
 }
