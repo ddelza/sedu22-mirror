@@ -17,6 +17,13 @@
       "category": "게시판별 분류",
       "topic": "자유공간",
       "confidence": "high"
+    },
+    {
+      "category": "과학교사 업무",
+      "topic": "과학실 관리",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "플루오르화 케톤(젖지 않는 물) 실험 안전성 및 유의사항 문의.",
+  "taggedAt": "2026-08-17T05:02:23.226Z"
 }

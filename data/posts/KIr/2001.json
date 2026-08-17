@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "자유공간",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "여러 가지 힘",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "용수철저울 눈금 단위(g) 확인 질문.",
+  "taggedAt": "2026-08-17T04:46:01.767Z"
 }

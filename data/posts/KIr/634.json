@@ -17,6 +17,13 @@
       "category": "게시판별 분류",
       "topic": "자유공간",
       "confidence": "high"
+    },
+    {
+      "category": "과학교사 업무",
+      "topic": "과학 행사",
+      "confidence": "low"
     }
-  ]
+  ],
+  "tagsNote": "과학대회 정보는 시도교육청 사이트 참고 안내 답글.",
+  "taggedAt": "2026-08-17T05:00:22.937Z"
 }

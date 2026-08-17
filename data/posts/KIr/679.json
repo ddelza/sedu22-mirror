@@ -17,6 +17,13 @@
       "category": "게시판별 분류",
       "topic": "자유공간",
       "confidence": "high"
+    },
+    {
+      "category": "과학교사 업무",
+      "topic": "교원연수",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "자유학기제용 애니메이션 더빙 지도자 과정 무료 교사연수 안내.",
+  "taggedAt": "2026-08-17T05:00:22.950Z"
 }

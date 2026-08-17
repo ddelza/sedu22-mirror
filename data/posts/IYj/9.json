@@ -17,6 +17,22 @@
       "category": "게시판별 분류",
       "topic": "생각의 탄생(창의융합수업)",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "자극과 반응",
+      "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "자극과 반응",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "\"호르몬을 모두 배우고 난 뒤\" 소설쓰기/듣기평가 활동.",
+  "taggedAt": "2026-08-17T04:26:15.649Z"
 }

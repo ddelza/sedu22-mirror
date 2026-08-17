@@ -17,6 +17,13 @@
       "category": "게시판별 분류",
       "topic": "자유공간",
       "confidence": "high"
+    },
+    {
+      "category": "과학교사 업무",
+      "topic": "교원연수",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "경기도 과학관련 교과교육연구회 동계세미나 참석 후기.",
+  "taggedAt": "2026-08-17T04:57:19.696Z"
 }

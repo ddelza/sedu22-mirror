@@ -17,6 +17,13 @@
       "category": "게시판별 분류",
       "topic": "자유공간",
       "confidence": "high"
+    },
+    {
+      "category": "과학교사 업무",
+      "topic": "과학 행사",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "자유학기 외부기관 MOU(기후변화관 두드림 프로그램) 연계수업 후기.",
+  "taggedAt": "2026-08-17T05:04:25.462Z"
 }

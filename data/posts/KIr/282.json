@@ -17,6 +17,13 @@
       "category": "게시판별 분류",
       "topic": "자유공간",
       "confidence": "high"
+    },
+    {
+      "category": "과학교사 업무",
+      "topic": "학급운영",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "시험 후 수업 통제 어려움 및 학부모 민원 관련 고민.",
+  "taggedAt": "2026-08-17T04:54:27.947Z"
 }

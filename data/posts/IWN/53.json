@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "좋은 글 & 책",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "시와 우연/필연에 관한 강연 발췌.",
+  "taggedAt": "2026-08-17T04:23:16.379Z"
 }

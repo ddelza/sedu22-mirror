@@ -17,6 +17,22 @@
       "category": "게시판별 분류",
       "topic": "자유공간",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "전기와 자기",
+      "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "전기와 자기",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "검전기를 활용한 정전기 유도 수업 회고.",
+  "taggedAt": "2026-08-17T04:35:21.405Z"
 }

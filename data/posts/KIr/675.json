@@ -17,6 +17,20 @@
       "category": "게시판별 분류",
       "topic": "자유공간",
       "confidence": "high"
+    },
+    {
+      "category": "과학교사 업무",
+      "topic": "과학 행사",
+      "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "고등학교",
+      "subject": "지구과학Ⅰ",
+      "unit": "별과 우주",
+      "confidence": "low"
     }
-  ]
+  ],
+  "tagsNote": "천문학자 이명현 '별 헤는 밤' 대중강연 홍보.",
+  "taggedAt": "2026-08-17T05:00:22.948Z"
 }

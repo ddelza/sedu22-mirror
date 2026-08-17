@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "자유공간",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "태양계",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "달의 위상변화 단원의 뜨는 시간·방향 지도 범위 문의.",
+  "taggedAt": "2026-08-17T04:59:22.019Z"
 }

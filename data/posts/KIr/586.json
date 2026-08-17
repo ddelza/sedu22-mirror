@@ -17,6 +17,20 @@
       "category": "게시판별 분류",
       "topic": "자유공간",
       "confidence": "high"
+    },
+    {
+      "category": "과학교사 업무",
+      "topic": "동아리 운영",
+      "confidence": "low"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "식물과 에너지",
+      "confidence": "low"
     }
-  ]
+  ],
+  "tagsNote": "희귀씨앗/열대작물 취미를 살린 동아리 발아 활동 구상.",
+  "taggedAt": "2026-08-17T04:59:22.026Z"
 }

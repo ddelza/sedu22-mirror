@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "자유공간",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "학습 소프트웨어(에듀집) 심의 절차 문의.",
+  "taggedAt": "2026-08-17T04:52:30.362Z"
 }

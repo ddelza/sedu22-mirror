@@ -17,6 +17,13 @@
       "category": "게시판별 분류",
       "topic": "자유공간",
       "confidence": "high"
+    },
+    {
+      "category": "과학교사 업무",
+      "topic": "과학실 관리",
+      "confidence": "low"
     }
-  ]
+  ],
+  "tagsNote": "화학교사 부임 후 나트륨 반응 실험 도전 관련 안전 우려 에세이.",
+  "taggedAt": "2026-08-17T04:48:07.548Z"
 }

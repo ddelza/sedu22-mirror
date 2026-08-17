@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "자유공간",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "생성형 AI와 언론 저작권 관련 기사 공유(수업 활용 아님).",
+  "taggedAt": "2026-08-17T04:42:34.840Z"
 }

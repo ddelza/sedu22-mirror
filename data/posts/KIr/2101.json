@@ -17,6 +17,13 @@
       "category": "게시판별 분류",
       "topic": "자유공간",
       "confidence": "high"
+    },
+    {
+      "category": "과학교사 업무",
+      "topic": "과학실 관리",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "천체관측용 망원경(돕소니안/굴절) 구매 추천 요청.",
+  "taggedAt": "2026-08-17T04:48:07.544Z"
 }

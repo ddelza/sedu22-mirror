@@ -17,6 +17,22 @@
       "category": "게시판별 분류",
       "topic": "자유공간",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "고등학교",
+      "subject": "통합과학",
+      "unit": "시스템과 상호작용",
+      "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "고등학교",
+      "subject": "생명과학Ⅱ",
+      "unit": "세포의 특성",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "통합과학·생명과학2 수행평가 아이디어 문의.",
+  "taggedAt": "2026-08-17T04:49:06.830Z"
 }

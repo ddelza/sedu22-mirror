@@ -17,6 +17,22 @@
       "category": "게시판별 분류",
       "topic": "자유공간",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "식물과 에너지",
+      "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "식물과 에너지",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "증산작용 실험에 적합한 와이퍼(와이프올) 재료 소개.",
+  "taggedAt": "2026-08-17T04:50:11.078Z"
 }

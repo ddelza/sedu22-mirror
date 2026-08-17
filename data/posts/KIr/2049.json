@@ -17,6 +17,20 @@
       "category": "게시판별 분류",
       "topic": "자유공간",
       "confidence": "high"
+    },
+    {
+      "category": "과학교사 업무",
+      "topic": "동아리 운영",
+      "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "태양계",
+      "confidence": "low"
     }
-  ]
+  ],
+  "tagsNote": "동아리 학생들과 페르세우스 유성우 관측 후기.",
+  "taggedAt": "2026-08-17T04:47:02.812Z"
 }

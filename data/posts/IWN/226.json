@@ -17,6 +17,13 @@
       "category": "게시판별 분류",
       "topic": "좋은 글 & 책",
       "confidence": "high"
+    },
+    {
+      "category": "과학교사 업무",
+      "topic": "과학 행사",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "\"중.고등학교 교육과정과 연계한 광물 화석 탐구\" 민자연사연구소 교사 탐방 신청 안내.",
+  "taggedAt": "2026-08-17T04:22:13.425Z"
 }

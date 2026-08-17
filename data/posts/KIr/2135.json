@@ -17,6 +17,22 @@
       "category": "게시판별 분류",
       "topic": "자유공간",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "화학 반응의 규칙과 에너지 변화",
+      "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "물질의 변화",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "중3 물리반응/화학반응/질량보존 단원 PPT 공동제작 제안.",
+  "taggedAt": "2026-08-17T04:49:06.826Z"
 }

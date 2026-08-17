@@ -17,6 +17,20 @@
       "category": "게시판별 분류",
       "topic": "자유공간",
       "confidence": "high"
+    },
+    {
+      "category": "과학교사 업무",
+      "topic": "동아리 운영",
+      "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "빛과 파동",
+      "confidence": "low"
     }
-  ]
+  ],
+  "tagsNote": "소리 동아리의 쿤트관(음파 정상파) 실험 부스 준비 질문.",
+  "taggedAt": "2026-08-17T04:42:34.828Z"
 }

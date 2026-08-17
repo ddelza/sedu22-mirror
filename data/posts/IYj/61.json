@@ -17,6 +17,22 @@
       "category": "게시판별 분류",
       "topic": "생각의 탄생(창의융합수업)",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "자극과 반응",
+      "confidence": "low"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "자극과 반응",
+      "confidence": "low"
     }
-  ]
+  ],
+  "tagsNote": "쇠국자 소리 실험, 귀 구조 설명 도입부로 활용 제안.",
+  "taggedAt": "2026-08-17T04:26:15.637Z"
 }

@@ -17,6 +17,22 @@
       "category": "게시판별 분류",
       "topic": "자유공간",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "별과 우주",
+      "confidence": "low"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "별과 우주",
+      "confidence": "low"
     }
-  ]
+  ],
+  "tagsNote": "제임스웹 우주망원경 사진 다운로드 자료 공유.",
+  "taggedAt": "2026-08-17T04:36:31.263Z"
 }

@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "좋은 글 & 책",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "세월호 관련 학생 연설문.",
+  "taggedAt": "2026-08-17T04:23:16.399Z"
 }

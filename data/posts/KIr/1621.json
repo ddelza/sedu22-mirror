@@ -17,6 +17,22 @@
       "category": "게시판별 분류",
       "topic": "자유공간",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "식물과 에너지",
+      "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "식물과 에너지",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "다양한 잎의 기공관찰 영재수업용 식물 추천 요청.",
+  "taggedAt": "2026-08-17T04:35:21.421Z"
 }

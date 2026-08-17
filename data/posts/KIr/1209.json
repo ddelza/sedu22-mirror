@@ -17,6 +17,22 @@
       "category": "게시판별 분류",
       "topic": "자유공간",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "여러 가지 힘",
+      "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "힘의 작용",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "한글날 주제수업으로 자격루(부력) 활용 문의.",
+  "taggedAt": "2026-08-17T04:28:12.232Z"
 }

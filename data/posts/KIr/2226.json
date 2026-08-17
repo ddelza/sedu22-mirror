@@ -17,6 +17,20 @@
       "category": "게시판별 분류",
       "topic": "자유공간",
       "confidence": "high"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "생성형 AI 도구",
+      "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "동물과 에너지",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "중2 '동물과 에너지' 단원평가 35문항 앱(AI 채점 기능) 공유.",
+  "taggedAt": "2026-08-17T04:51:23.984Z"
 }

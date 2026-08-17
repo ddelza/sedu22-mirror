@@ -17,6 +17,13 @@
       "category": "게시판별 분류",
       "topic": "자유공간",
       "confidence": "high"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "MBL센서",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "이지메이커 센서로 진행한 복사평형·열전도·자유낙하 실험 모음.",
+  "taggedAt": "2026-08-17T04:48:07.537Z"
 }

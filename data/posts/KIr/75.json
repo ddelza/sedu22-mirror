@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "자유공간",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "동물과 에너지",
+      "confidence": "low"
     }
-  ]
+  ],
+  "tagsNote": "살아있는 우럭/붕어를 이용한 물고기 해부 체험 후기.",
+  "taggedAt": "2026-08-17T05:01:24.257Z"
 }

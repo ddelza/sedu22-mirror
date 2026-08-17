@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "자유공간",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "교육부 제5차 과학교육 종합계획 소개(정책 자료).",
+  "taggedAt": "2026-08-17T04:48:07.535Z"
 }

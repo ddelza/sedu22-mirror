@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "자유공간",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "기체의 성질",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "중1 '풍선 위에 올라서기'(기압) 실험 제작 방법 질문.",
+  "taggedAt": "2026-08-17T04:44:49.610Z"
 }

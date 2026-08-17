@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "지필 평가문항 공유&오류 논의",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "물질의 상태 변화",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "중1 상태변화 냉각 그래프 문항 정답 논의.",
+  "taggedAt": "2026-08-17T05:06:57.372Z"
 }

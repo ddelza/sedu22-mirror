@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "지필 평가문항 공유&오류 논의",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "전기와 자기",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "중3 전기단원 서술형 평가문항 공유 및 개선안 요청.",
+  "taggedAt": "2026-08-17T05:05:41.710Z"
 }

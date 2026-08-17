@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "자유공간",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "에너지 전환과 보존",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "역학적 에너지 전환 수업 후 진행한 스틱밤(stick bomb) 활동 후기.",
+  "taggedAt": "2026-08-17T05:01:24.233Z"
 }

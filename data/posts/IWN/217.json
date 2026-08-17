@@ -17,6 +17,13 @@
       "category": "게시판별 분류",
       "topic": "좋은 글 & 책",
       "confidence": "high"
+    },
+    {
+      "category": "과학교사 업무",
+      "topic": "과학 행사",
+      "confidence": "low"
     }
-  ]
+  ],
+  "tagsNote": "과천과학관 천체투영관 우주 강연 무료 초대 공지.",
+  "taggedAt": "2026-08-17T04:21:11.637Z"
 }

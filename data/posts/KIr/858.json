@@ -17,6 +17,13 @@
       "category": "게시판별 분류",
       "topic": "자유공간",
       "confidence": "high"
+    },
+    {
+      "category": "과학교사 업무",
+      "topic": "과학 행사",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "교내 1박2일 캠프 숙박용품(침낭/텐트) 준비 문의.",
+  "taggedAt": "2026-08-17T05:04:25.445Z"
 }

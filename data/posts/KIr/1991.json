@@ -17,6 +17,13 @@
       "category": "게시판별 분류",
       "topic": "자유공간",
       "confidence": "high"
+    },
+    {
+      "category": "수업 방법론",
+      "topic": "IB(개념기반학습)",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "IB 교육과정 비학위 과정 및 과학과 연관성 문의.",
+  "taggedAt": "2026-08-17T04:46:01.760Z"
 }

@@ -17,6 +17,13 @@
       "category": "게시판별 분류",
       "topic": "자유공간",
       "confidence": "high"
+    },
+    {
+      "category": "과학교사 업무",
+      "topic": "과학실 관리",
+      "confidence": "low"
     }
-  ]
+  ],
+  "tagsNote": "시계접시(watch glass) 명칭 유래 잡담.",
+  "taggedAt": "2026-08-17T04:56:20.450Z"
 }

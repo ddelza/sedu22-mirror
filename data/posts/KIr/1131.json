@@ -17,6 +17,13 @@
       "category": "게시판별 분류",
       "topic": "자유공간",
       "confidence": "high"
+    },
+    {
+      "category": "과학교사 업무",
+      "topic": "과학실 관리",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "교과교실제 운영비로 구입할 교구 추천 요청.",
+  "taggedAt": "2026-08-17T04:27:06.136Z"
 }

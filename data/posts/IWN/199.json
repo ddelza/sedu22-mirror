@@ -17,6 +17,22 @@
       "category": "게시판별 분류",
       "topic": "좋은 글 & 책",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "지권의 변화",
+      "confidence": "low"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "지권의 변화",
+      "confidence": "low"
     }
-  ]
+  ],
+  "tagsNote": "2월 독서 목록 중 '광물, 그 호기심의 문을 열다'를 \"광물과 암석 단원에서 학생들과 함께 읽을 수 있는 책\"이라고 명시.",
+  "taggedAt": "2026-08-17T04:21:11.624Z"
 }

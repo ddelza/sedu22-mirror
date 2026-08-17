@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "자유공간",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "바이브코딩으로 만든 자녀 논술 지도 프로그램 아이디어 공유(수업과 무관).",
+  "taggedAt": "2026-08-17T04:52:30.347Z"
 }

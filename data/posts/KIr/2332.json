@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "자유공간",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "KBS 다큐(양자전쟁/진화전쟁/우주전쟁) 시청 순서 추천 요청.",
+  "taggedAt": "2026-08-17T04:52:30.361Z"
 }

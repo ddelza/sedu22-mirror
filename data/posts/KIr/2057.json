@@ -17,6 +17,13 @@
       "category": "게시판별 분류",
       "topic": "자유공간",
       "confidence": "high"
+    },
+    {
+      "category": "과학교사 업무",
+      "topic": "과학 행사",
+      "confidence": "low"
     }
-  ]
+  ],
+  "tagsNote": "전국 과학대회 축소 및 정보·로봇 대회 증가 추세에 대한 개인 소견.",
+  "taggedAt": "2026-08-17T04:47:02.815Z"
 }

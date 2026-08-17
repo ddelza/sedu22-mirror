@@ -17,6 +17,13 @@
       "category": "게시판별 분류",
       "topic": "자유공간",
       "confidence": "high"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "앱/프로그램",
+      "confidence": "low"
     }
-  ]
+  ],
+  "tagsNote": "크롬 브라우저 동영상 다운로드 오류 문의.",
+  "taggedAt": "2026-08-17T04:55:24.013Z"
 }

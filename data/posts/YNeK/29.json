@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "지필 평가문항 공유&오류 논의",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "고등학교",
+      "subject": "생명과학Ⅰ",
+      "unit": "생명과학의 이해",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "생명과학 1차 지필고사 오답률 높은 문항(물질대사, 가설-결론, 실험군/대조군) 분석.",
+  "taggedAt": "2026-08-17T05:05:41.715Z"
 }

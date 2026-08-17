@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "자유공간",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "물질의 특성",
+      "confidence": "low"
     }
-  ]
+  ],
+  "tagsNote": "동물 사용 없이 진행 가능한 화장품 유해성 실험 방법 문의.",
+  "taggedAt": "2026-08-17T05:02:23.232Z"
 }

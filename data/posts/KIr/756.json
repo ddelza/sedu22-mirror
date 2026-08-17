@@ -17,6 +17,13 @@
       "category": "게시판별 분류",
       "topic": "자유공간",
       "confidence": "high"
+    },
+    {
+      "category": "과학교사 업무",
+      "topic": "교원연수",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "한국과학창의재단 과학 교육과정 원격연수 후기 문의.",
+  "taggedAt": "2026-08-17T05:02:23.209Z"
 }

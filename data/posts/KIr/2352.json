@@ -17,6 +17,13 @@
       "category": "게시판별 분류",
       "topic": "자유공간",
       "confidence": "high"
+    },
+    {
+      "category": "과학교사 업무",
+      "topic": "과학실 관리",
+      "confidence": "low"
     }
-  ]
+  ],
+  "tagsNote": "가정통신문 QR 서명 대체 웹앱 제작 방법(후속) 공유.",
+  "taggedAt": "2026-08-17T04:53:31.200Z"
 }

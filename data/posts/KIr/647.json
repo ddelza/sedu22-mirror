@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "자유공간",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "과학기술사회 소재 대중강좌(수원시평생학습관) 홍보.",
+  "taggedAt": "2026-08-17T05:00:22.942Z"
 }

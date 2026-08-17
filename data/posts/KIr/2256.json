@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "자유공간",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "일과 에너지",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "중3 대상 골드버그 장치 활용 가능성 문의.",
+  "taggedAt": "2026-08-17T04:51:23.997Z"
 }

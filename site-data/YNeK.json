@@ -15,6 +15,13 @@
         "category": "게시판별 분류",
         "topic": "지필 평가문항 공유&오류 논의",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "동물과 에너지",
+        "confidence": "high"
       }
     ]
   },
@@ -34,6 +41,13 @@
         "category": "게시판별 분류",
         "topic": "지필 평가문항 공유&오류 논의",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": "2015",
+        "schoolLevel": "고등학교",
+        "subject": "물리학Ⅱ",
+        "unit": "전기장과 자기장",
+        "confidence": "medium"
       }
     ]
   },
@@ -52,6 +66,13 @@
       {
         "category": "게시판별 분류",
         "topic": "지필 평가문항 공유&오류 논의",
+        "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
         "confidence": "high"
       }
     ]
@@ -72,6 +93,13 @@
         "category": "게시판별 분류",
         "topic": "지필 평가문항 공유&오류 논의",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": "2015",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "빛과 파동",
+        "confidence": "high"
       }
     ]
   },
@@ -90,6 +118,13 @@
       {
         "category": "게시판별 분류",
         "topic": "지필 평가문항 공유&오류 논의",
+        "confidence": "high"
+      },
+      {
+        "curriculumYear": "2015",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "빛과 파동",
         "confidence": "high"
       }
     ]
@@ -110,6 +145,13 @@
         "category": "게시판별 분류",
         "topic": "지필 평가문항 공유&오류 논의",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": "2015",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "물질의 구성",
+        "confidence": "high"
       }
     ]
   },
@@ -128,6 +170,13 @@
       {
         "category": "게시판별 분류",
         "topic": "지필 평가문항 공유&오류 논의",
+        "confidence": "high"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "식물과 에너지",
         "confidence": "high"
       }
     ]
@@ -148,6 +197,13 @@
         "category": "게시판별 분류",
         "topic": "지필 평가문항 공유&오류 논의",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": "2015",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "지권의 변화",
+        "confidence": "high"
       }
     ]
   },
@@ -166,6 +222,13 @@
       {
         "category": "게시판별 분류",
         "topic": "지필 평가문항 공유&오류 논의",
+        "confidence": "high"
+      },
+      {
+        "curriculumYear": "2015",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "혼합물의 분리",
         "confidence": "high"
       }
     ]
@@ -186,6 +249,13 @@
         "category": "게시판별 분류",
         "topic": "지필 평가문항 공유&오류 논의",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": "2015",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "물질의 구성",
+        "confidence": "high"
       }
     ]
   },
@@ -204,6 +274,11 @@
       {
         "category": "게시판별 분류",
         "topic": "지필 평가문항 공유&오류 논의",
+        "confidence": "high"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "생성형 AI 도구",
         "confidence": "high"
       }
     ]
@@ -224,6 +299,13 @@
         "category": "게시판별 분류",
         "topic": "지필 평가문항 공유&오류 논의",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": "2015",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "혼합물의 분리",
+        "confidence": "high"
       }
     ]
   },
@@ -242,6 +324,11 @@
       {
         "category": "게시판별 분류",
         "topic": "지필 평가문항 공유&오류 논의",
+        "confidence": "high"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "생성형 AI 도구",
         "confidence": "high"
       }
     ]
@@ -262,6 +349,13 @@
         "category": "게시판별 분류",
         "topic": "지필 평가문항 공유&오류 논의",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": "2015",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "혼합물의 분리",
+        "confidence": "high"
       }
     ]
   },
@@ -280,6 +374,11 @@
       {
         "category": "게시판별 분류",
         "topic": "지필 평가문항 공유&오류 논의",
+        "confidence": "high"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "생성형 AI 도구",
         "confidence": "high"
       }
     ]
@@ -300,6 +399,13 @@
         "category": "게시판별 분류",
         "topic": "지필 평가문항 공유&오류 논의",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": "2015",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "물질의 상태 변화",
+        "confidence": "high"
       }
     ]
   },
@@ -318,6 +424,13 @@
       {
         "category": "게시판별 분류",
         "topic": "지필 평가문항 공유&오류 논의",
+        "confidence": "high"
+      },
+      {
+        "curriculumYear": "2015",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "물질의 상태 변화",
         "confidence": "high"
       }
     ]
@@ -338,6 +451,13 @@
         "category": "게시판별 분류",
         "topic": "지필 평가문항 공유&오류 논의",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": "2015",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "화학 반응의 규칙과 에너지 변화",
+        "confidence": "medium"
       }
     ]
   },
@@ -357,6 +477,13 @@
         "category": "게시판별 분류",
         "topic": "지필 평가문항 공유&오류 논의",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "통합과학1",
+        "unit": "과학의 기초",
+        "confidence": "low"
       }
     ]
   },
@@ -375,6 +502,13 @@
       {
         "category": "게시판별 분류",
         "topic": "지필 평가문항 공유&오류 논의",
+        "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
         "confidence": "high"
       }
     ]
@@ -395,6 +529,13 @@
         "category": "게시판별 분류",
         "topic": "지필 평가문항 공유&오류 논의",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": "2015",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "물질의 특성",
+        "confidence": "high"
       }
     ]
   },
@@ -414,6 +555,13 @@
         "category": "게시판별 분류",
         "topic": "지필 평가문항 공유&오류 논의",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "동물과 에너지",
+        "confidence": "medium"
       }
     ]
   },
@@ -433,6 +581,13 @@
         "category": "게시판별 분류",
         "topic": "지필 평가문항 공유&오류 논의",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": "2015",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "운동과 에너지",
+        "confidence": "medium"
       }
     ]
   },
@@ -451,6 +606,13 @@
       {
         "category": "게시판별 분류",
         "topic": "지필 평가문항 공유&오류 논의",
+        "confidence": "high"
+      },
+      {
+        "curriculumYear": "2015",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "물질의 특성",
         "confidence": "high"
       }
     ]
@@ -471,6 +633,13 @@
         "category": "게시판별 분류",
         "topic": "지필 평가문항 공유&오류 논의",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "high"
       }
     ]
   },
@@ -490,6 +659,11 @@
         "category": "게시판별 분류",
         "topic": "지필 평가문항 공유&오류 논의",
         "confidence": "high"
+      },
+      {
+        "category": "과학교사 업무",
+        "topic": "교원연수",
+        "confidence": "medium"
       }
     ]
   },
@@ -508,6 +682,13 @@
       {
         "category": "게시판별 분류",
         "topic": "지필 평가문항 공유&오류 논의",
+        "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
         "confidence": "high"
       }
     ]
@@ -528,6 +709,13 @@
         "category": "게시판별 분류",
         "topic": "지필 평가문항 공유&오류 논의",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": "2015",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "자극과 반응",
+        "confidence": "high"
       }
     ]
   },
@@ -546,6 +734,13 @@
       {
         "category": "게시판별 분류",
         "topic": "지필 평가문항 공유&오류 논의",
+        "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
         "confidence": "high"
       }
     ]
@@ -566,6 +761,13 @@
         "category": "게시판별 분류",
         "topic": "지필 평가문항 공유&오류 논의",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "high"
       }
     ]
   },
@@ -584,6 +786,13 @@
       {
         "category": "게시판별 분류",
         "topic": "지필 평가문항 공유&오류 논의",
+        "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
         "confidence": "high"
       }
     ]
@@ -604,6 +813,13 @@
         "category": "게시판별 분류",
         "topic": "지필 평가문항 공유&오류 논의",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "high"
       }
     ]
   },
@@ -622,6 +838,13 @@
       {
         "category": "게시판별 분류",
         "topic": "지필 평가문항 공유&오류 논의",
+        "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
         "confidence": "high"
       }
     ]
@@ -642,6 +865,13 @@
         "category": "게시판별 분류",
         "topic": "지필 평가문항 공유&오류 논의",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": "2015",
+        "schoolLevel": "고등학교",
+        "subject": "생명과학Ⅰ",
+        "unit": "생명과학의 이해",
+        "confidence": "medium"
       }
     ]
   },
@@ -661,6 +891,20 @@
         "category": "게시판별 분류",
         "topic": "지필 평가문항 공유&오류 논의",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": "2015",
+        "schoolLevel": "고등학교",
+        "subject": "생명과학Ⅰ",
+        "unit": "유전",
+        "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2015",
+        "schoolLevel": "고등학교",
+        "subject": "생명과학Ⅰ",
+        "unit": "생태계와 상호작용",
+        "confidence": "medium"
       }
     ]
   },
@@ -679,6 +923,13 @@
       {
         "category": "게시판별 분류",
         "topic": "지필 평가문항 공유&오류 논의",
+        "confidence": "high"
+      },
+      {
+        "curriculumYear": "2015",
+        "schoolLevel": "고등학교",
+        "subject": "생명과학Ⅰ",
+        "unit": "유전",
         "confidence": "high"
       }
     ]
@@ -699,6 +950,20 @@
         "category": "게시판별 분류",
         "topic": "지필 평가문항 공유&오류 논의",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": "2015",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "화학 반응의 규칙과 에너지 변화",
+        "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2015",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "별과 우주",
+        "confidence": "medium"
       }
     ]
   },
@@ -718,6 +983,20 @@
         "category": "게시판별 분류",
         "topic": "지필 평가문항 공유&오류 논의",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": "2015",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "화학 반응의 규칙과 에너지 변화",
+        "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2015",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "별과 우주",
+        "confidence": "medium"
       }
     ]
   },
@@ -736,6 +1015,13 @@
       {
         "category": "게시판별 분류",
         "topic": "지필 평가문항 공유&오류 논의",
+        "confidence": "high"
+      },
+      {
+        "curriculumYear": "2015",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "생식과 유전",
         "confidence": "high"
       }
     ]
@@ -756,6 +1042,13 @@
         "category": "게시판별 분류",
         "topic": "지필 평가문항 공유&오류 논의",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": "2015",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "전기와 자기",
+        "confidence": "medium"
       }
     ]
   },
@@ -774,6 +1067,13 @@
       {
         "category": "게시판별 분류",
         "topic": "지필 평가문항 공유&오류 논의",
+        "confidence": "high"
+      },
+      {
+        "curriculumYear": "2015",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "자극과 반응",
         "confidence": "high"
       }
     ]
@@ -794,6 +1094,13 @@
         "category": "게시판별 분류",
         "topic": "지필 평가문항 공유&오류 논의",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": "2015",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "전기와 자기",
+        "confidence": "high"
       }
     ]
   },
@@ -813,6 +1120,13 @@
         "category": "게시판별 분류",
         "topic": "지필 평가문항 공유&오류 논의",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": "2015",
+        "schoolLevel": "고등학교",
+        "subject": "생명과학Ⅰ",
+        "unit": "유전",
+        "confidence": "medium"
       }
     ]
   },
@@ -832,6 +1146,13 @@
         "category": "게시판별 분류",
         "topic": "지필 평가문항 공유&오류 논의",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": "2015",
+        "schoolLevel": "고등학교",
+        "subject": "생명과학Ⅰ",
+        "unit": "항상성과 몸의 조절",
+        "confidence": "medium"
       }
     ]
   },
@@ -850,6 +1171,13 @@
       {
         "category": "게시판별 분류",
         "topic": "지필 평가문항 공유&오류 논의",
+        "confidence": "high"
+      },
+      {
+        "curriculumYear": "2015",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "물질의 상태 변화",
         "confidence": "high"
       }
     ]
@@ -870,6 +1198,11 @@
         "category": "게시판별 분류",
         "topic": "지필 평가문항 공유&오류 논의",
         "confidence": "high"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "앱/프로그램",
+        "confidence": "low"
       }
     ]
   },
@@ -888,6 +1221,13 @@
       {
         "category": "게시판별 분류",
         "topic": "지필 평가문항 공유&오류 논의",
+        "confidence": "high"
+      },
+      {
+        "curriculumYear": "2015",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "열과 우리 생활",
         "confidence": "high"
       }
     ]
@@ -908,6 +1248,13 @@
         "category": "게시판별 분류",
         "topic": "지필 평가문항 공유&오류 논의",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "high"
       }
     ]
   },
@@ -926,6 +1273,13 @@
       {
         "category": "게시판별 분류",
         "topic": "지필 평가문항 공유&오류 논의",
+        "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
         "confidence": "high"
       }
     ]
@@ -946,6 +1300,13 @@
         "category": "게시판별 분류",
         "topic": "지필 평가문항 공유&오류 논의",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "high"
       }
     ]
   },
@@ -964,6 +1325,13 @@
       {
         "category": "게시판별 분류",
         "topic": "지필 평가문항 공유&오류 논의",
+        "confidence": "high"
+      },
+      {
+        "curriculumYear": "2015",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "식물과 에너지",
         "confidence": "high"
       }
     ]

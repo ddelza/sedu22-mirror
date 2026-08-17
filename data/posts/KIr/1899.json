@@ -17,6 +17,13 @@
       "category": "게시판별 분류",
       "topic": "자유공간",
       "confidence": "high"
+    },
+    {
+      "category": "과학교사 업무",
+      "topic": "학급운영",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "학생 핸드폰 수거 중 파손 배상 관련 담임 대응 문의.",
+  "taggedAt": "2026-08-17T04:43:41.508Z"
 }

@@ -17,6 +17,13 @@
       "category": "게시판별 분류",
       "topic": "자유공간",
       "confidence": "high"
+    },
+    {
+      "category": "과학교사 업무",
+      "topic": "과학실 관리",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "과산화수소 실험 중 피부 화상 사고 및 안전 수칙 공유.",
+  "taggedAt": "2026-08-17T04:32:08.411Z"
 }

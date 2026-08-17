@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "자유공간",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "세균 검사 키트 활용 방과후활동 문의, 매칭되는 교육과정 단원 없음.",
+  "taggedAt": "2026-08-17T04:31:06.360Z"
 }

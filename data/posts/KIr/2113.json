@@ -17,6 +17,13 @@
       "category": "게시판별 분류",
       "topic": "자유공간",
       "confidence": "high"
+    },
+    {
+      "category": "과학교사 업무",
+      "topic": "동아리 운영",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "과학 동아리 운영 필요성 및 부담 적은 운영 방법 논의.",
+  "taggedAt": "2026-08-17T04:48:07.550Z"
 }

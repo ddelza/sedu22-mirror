@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "자유공간",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "태양계",
+      "confidence": "low"
     }
-  ]
+  ],
+  "tagsNote": "새벽 초승달/화성으로 추정되는 천체 관측 질문.",
+  "taggedAt": "2026-08-17T04:55:24.012Z"
 }

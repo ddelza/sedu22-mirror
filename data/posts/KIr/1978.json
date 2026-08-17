@@ -17,6 +17,13 @@
       "category": "게시판별 분류",
       "topic": "자유공간",
       "confidence": "high"
+    },
+    {
+      "category": "과학교사 업무",
+      "topic": "과학 행사",
+      "confidence": "low"
     }
-  ]
+  ],
+  "tagsNote": "SF작가 김초엽 초청 북토크 행사 공유(과학교사도 참여 환영).",
+  "taggedAt": "2026-08-17T04:46:01.751Z"
 }

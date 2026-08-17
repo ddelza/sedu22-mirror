@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "자유공간",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "바이브코딩으로 만든 학교 업무 보조 시스템 체험판 소개(행정 업무용).",
+  "taggedAt": "2026-08-17T04:51:23.979Z"
 }

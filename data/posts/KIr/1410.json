@@ -17,6 +17,13 @@
       "category": "게시판별 분류",
       "topic": "자유공간",
       "confidence": "high"
+    },
+    {
+      "category": "과학교사 업무",
+      "topic": "과학실 관리",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "앙금생성반응 실험 시약 직접구매/관리 관련 문의.",
+  "taggedAt": "2026-08-17T04:32:08.413Z"
 }

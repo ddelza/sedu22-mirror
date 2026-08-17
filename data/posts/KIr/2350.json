@@ -17,6 +17,13 @@
       "category": "게시판별 분류",
       "topic": "자유공간",
       "confidence": "high"
+    },
+    {
+      "category": "과학교사 업무",
+      "topic": "과학 행사",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "과학의 날 종이비행기 대회 진행(비행거리 예상) 질문.",
+  "taggedAt": "2026-08-17T04:53:31.199Z"
 }

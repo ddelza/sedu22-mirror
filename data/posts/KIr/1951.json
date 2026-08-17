@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "자유공간",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "수권과 해수의 순환",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "해류 이상 현상(기후변화) 기사, 해류단원 연계 제안.",
+  "taggedAt": "2026-08-17T04:44:49.614Z"
 }

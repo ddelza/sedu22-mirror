@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "자유공간",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "바이브코딩으로 만든 기차 최단시간 검색 앱 소개(수업과 무관).",
+  "taggedAt": "2026-08-17T04:52:30.344Z"
 }

@@ -17,6 +17,27 @@
       "category": "게시판별 분류",
       "topic": "자유공간",
       "confidence": "high"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "생성형 AI 도구",
+      "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "태양계",
+      "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "전기와 자기",
+      "confidence": "low"
     }
-  ]
+  ],
+  "tagsNote": "바이브코딩으로 제작한 중학교 과학(대류, 천체운동, 전류 등) 수업 시뮬레이션 모음.",
+  "taggedAt": "2026-08-17T04:50:11.076Z"
 }

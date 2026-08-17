@@ -17,6 +17,20 @@
       "category": "게시판별 분류",
       "topic": "자유공간",
       "confidence": "high"
+    },
+    {
+      "category": "과학교사 업무",
+      "topic": "동아리 운영",
+      "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "전기와 자기",
+      "confidence": "low"
     }
-  ]
+  ],
+  "tagsNote": "동아리 회전자석 바람개비 실험(부력/마찰력/자기력) 원리 논의.",
+  "taggedAt": "2026-08-17T04:59:22.014Z"
 }

@@ -17,6 +17,13 @@
       "category": "게시판별 분류",
       "topic": "자유공간",
       "confidence": "high"
+    },
+    {
+      "category": "과학교사 업무",
+      "topic": "교원연수",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "한국물리학회 물리교사 워크숍 기획을 위한 설문조사 안내.",
+  "taggedAt": "2026-08-17T04:49:06.839Z"
 }

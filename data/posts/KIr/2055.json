@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "자유공간",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "몬티홀 문제 변형 확률 퀴즈(수학적 내용).",
+  "taggedAt": "2026-08-17T04:47:02.814Z"
 }

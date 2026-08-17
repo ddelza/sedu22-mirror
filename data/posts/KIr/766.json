@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "자유공간",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "고등학교",
+      "subject": "화학Ⅰ",
+      "unit": "화학 결합과 분자의 세계",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "시험문제 출제용 루이스 전자점식 그리는 방법 문의.",
+  "taggedAt": "2026-08-17T05:02:23.214Z"
 }

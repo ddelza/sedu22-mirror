@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "자유공간",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "열과 우리 생활",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "중1 열단원 시온물감(수성/유성) 활용 수업 방법 문의.",
+  "taggedAt": "2026-08-17T05:05:41.700Z"
 }

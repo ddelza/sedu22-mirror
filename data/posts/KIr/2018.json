@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "자유공간",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "화학1 2학기 수행평가 아이디어 요청, 구체적 단원 없음.",
+  "taggedAt": "2026-08-17T04:47:02.800Z"
 }

@@ -17,6 +17,22 @@
       "category": "게시판별 분류",
       "topic": "자유공간",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "고등학교",
+      "subject": "생명과학Ⅰ",
+      "unit": "항상성과 몸의 조절",
+      "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "고등학교",
+      "subject": "생명과학",
+      "unit": "항상성과 몸의 조절",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "글루카곤/글리코젠 용어 혼동 지도 방법 문의.",
+  "taggedAt": "2026-08-17T04:36:31.261Z"
 }

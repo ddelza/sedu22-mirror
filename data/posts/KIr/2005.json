@@ -17,6 +17,20 @@
       "category": "게시판별 분류",
       "topic": "자유공간",
       "confidence": "high"
+    },
+    {
+      "category": "과학교사 업무",
+      "topic": "과학실 관리",
+      "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "고등학교",
+      "subject": "통합과학",
+      "unit": "신소재의 개발과 활용",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "그래핀 전극 실험 키트 무상 배포 후속 안내 및 신청 현황.",
+  "taggedAt": "2026-08-17T04:46:01.769Z"
 }

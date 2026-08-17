@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "지필 평가문항 공유&오류 논의",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "생식과 유전",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "감수분열(2가염색체) 서술형 채점 기준 문의.",
+  "taggedAt": "2026-08-17T05:06:57.372Z"
 }

@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "지필 평가문항 공유&오류 논의",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "열과 우리 생활",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "중1 열과 우리생활 단원 출제 문항 공개.",
+  "taggedAt": "2026-08-17T05:06:57.373Z"
 }

@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "지필 평가문항 공유&오류 논의",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "서답형 채점 시 외래어 표기(ㅐ/ㅔ) 인정 기준 문의, 여러 과목 용어 혼재.",
+  "taggedAt": "2026-08-17T05:06:57.382Z"
 }

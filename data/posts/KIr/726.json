@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "자유공간",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "기권과 날씨",
+      "confidence": "low"
     }
-  ]
+  ],
+  "tagsNote": "욕조 물 빠짐 방향과 코리올리 효과의 관계에 대한 질문.",
+  "taggedAt": "2026-08-17T05:01:24.245Z"
 }

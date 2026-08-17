@@ -17,6 +17,13 @@
       "category": "게시판별 분류",
       "topic": "자유공간",
       "confidence": "high"
+    },
+    {
+      "category": "과학교사 업무",
+      "topic": "동아리 운영",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "과학전시관 동아리 체험학습 장소 비교 문의.",
+  "taggedAt": "2026-08-17T04:29:10.770Z"
 }

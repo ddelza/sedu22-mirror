@@ -17,6 +17,13 @@
       "category": "게시판별 분류",
       "topic": "자유공간",
       "confidence": "high"
+    },
+    {
+      "category": "과학교사 업무",
+      "topic": "학급운영",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "탄소중립 실천학급 예산 활용 및 프로그램 구성 고민.",
+  "taggedAt": "2026-08-17T04:46:01.763Z"
 }

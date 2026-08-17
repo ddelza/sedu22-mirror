@@ -17,6 +17,13 @@
       "category": "게시판별 분류",
       "topic": "자유공간",
       "confidence": "high"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "메이커/3D프린팅",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "전도성 펜을 이용한 종이 회로 공작 소개.",
+  "taggedAt": "2026-08-17T04:55:24.011Z"
 }

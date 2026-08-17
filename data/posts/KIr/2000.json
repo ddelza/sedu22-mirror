@@ -17,6 +17,13 @@
       "category": "게시판별 분류",
       "topic": "자유공간",
       "confidence": "high"
+    },
+    {
+      "category": "과학교사 업무",
+      "topic": "과학 행사",
+      "confidence": "low"
     }
-  ]
+  ],
+  "tagsNote": "설거지 비누 만들기 활동(향료 규정) 가능 여부 문의.",
+  "taggedAt": "2026-08-17T04:46:01.767Z"
 }

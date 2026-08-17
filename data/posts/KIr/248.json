@@ -17,6 +17,13 @@
       "category": "게시판별 분류",
       "topic": "자유공간",
       "confidence": "high"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "앱/프로그램",
+      "confidence": "low"
     }
-  ]
+  ],
+  "tagsNote": "협동학습 연수에서 얻은 타이머 플래시 공유.",
+  "taggedAt": "2026-08-17T04:54:27.927Z"
 }

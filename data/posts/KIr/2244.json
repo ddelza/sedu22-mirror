@@ -17,6 +17,13 @@
       "category": "게시판별 분류",
       "topic": "자유공간",
       "confidence": "high"
+    },
+    {
+      "category": "과학교사 업무",
+      "topic": "과학실 관리",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "교직원 대상 MSDS 교육자료 요청.",
+  "taggedAt": "2026-08-17T04:51:23.992Z"
 }

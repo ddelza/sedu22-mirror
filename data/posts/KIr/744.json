@@ -17,6 +17,13 @@
       "category": "게시판별 분류",
       "topic": "자유공간",
       "confidence": "high"
+    },
+    {
+      "category": "수업 방법론",
+      "topic": "거꾸로 교실",
+      "confidence": "low"
     }
-  ]
+  ],
+  "tagsNote": "과학교육종합계획 자료(거꾸로 교실 관련 기사) 공유.",
+  "taggedAt": "2026-08-17T05:01:24.254Z"
 }

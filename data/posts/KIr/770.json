@@ -17,6 +17,13 @@
       "category": "게시판별 분류",
       "topic": "자유공간",
       "confidence": "high"
+    },
+    {
+      "category": "과학교사 업무",
+      "topic": "과학실 관리",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "과학실 밀폐 시약장 브랜드/선택기준 문의.",
+  "taggedAt": "2026-08-17T05:02:23.216Z"
 }

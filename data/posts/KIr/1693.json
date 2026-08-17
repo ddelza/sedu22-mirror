@@ -17,6 +17,27 @@
       "category": "게시판별 분류",
       "topic": "자유공간",
       "confidence": "high"
+    },
+    {
+      "category": "과학교사 업무",
+      "topic": "과학 행사",
+      "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "별과 우주",
+      "confidence": "low"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "별과 우주",
+      "confidence": "low"
     }
-  ]
+  ],
+  "tagsNote": "재과만 톡톡 11회 - 별과 우주 단원 및 천체관측 행사 운영 논의.",
+  "taggedAt": "2026-08-17T04:37:24.531Z"
 }

@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "자유공간",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "물질의 구성",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "톰슨→러더퍼드 원자모형 변화 동영상 자료 출처 문의.",
+  "taggedAt": "2026-08-17T04:58:20.243Z"
 }

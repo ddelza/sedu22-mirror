@@ -17,6 +17,13 @@
       "category": "게시판별 분류",
       "topic": "자유공간",
       "confidence": "high"
+    },
+    {
+      "category": "과학교사 업무",
+      "topic": "교원연수",
+      "confidence": "low"
     }
-  ]
+  ],
+  "tagsNote": "수업 아이디어 공유 스터디 모임 충원 모집.",
+  "taggedAt": "2026-08-17T04:44:49.609Z"
 }

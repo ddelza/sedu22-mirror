@@ -17,6 +17,22 @@
       "category": "게시판별 분류",
       "topic": "자유공간",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "기권과 날씨",
+      "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "날씨와 기후변화",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "중1 주제선택(기후위기) 18차시 수업자료 요청.",
+  "taggedAt": "2026-08-17T04:41:24.793Z"
 }

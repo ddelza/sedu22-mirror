@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "자유공간",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "생기부 창체 특기사항 정량 기록(날짜 표기) 규정 문의.",
+  "taggedAt": "2026-08-17T04:51:23.995Z"
 }

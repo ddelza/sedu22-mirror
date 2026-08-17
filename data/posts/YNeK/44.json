@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "지필 평가문항 공유&오류 논의",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "운동과 에너지",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "충돌 시 에너지보존 관련 시험문제 오류 논의.",
+  "taggedAt": "2026-08-17T05:06:57.366Z"
 }

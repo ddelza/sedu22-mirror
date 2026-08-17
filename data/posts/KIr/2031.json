@@ -17,6 +17,13 @@
       "category": "게시판별 분류",
       "topic": "자유공간",
       "confidence": "high"
+    },
+    {
+      "category": "수업 방법론",
+      "topic": "거꾸로 교실",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "통합과학 물리 파트를 플립러닝(거꾸로 수업)으로 진행할지 고민.",
+  "taggedAt": "2026-08-17T04:47:02.808Z"
 }

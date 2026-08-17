@@ -17,6 +17,22 @@
       "category": "게시판별 분류",
       "topic": "자유공간",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "운동과 에너지",
+      "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "운동과 에너지",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "시간-속력 그래프 작도 방법 질문.",
+  "taggedAt": "2026-08-17T04:31:06.363Z"
 }

@@ -17,6 +17,13 @@
       "category": "게시판별 분류",
       "topic": "자유공간",
       "confidence": "high"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "앱/프로그램",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "학기말 교실 레크리에이션 게임 웹사이트 모음 소개.",
+  "taggedAt": "2026-08-17T04:53:31.217Z"
 }

@@ -17,6 +17,13 @@
       "category": "게시판별 분류",
       "topic": "자유공간",
       "confidence": "high"
+    },
+    {
+      "category": "수업 방법론",
+      "topic": "배움중심수업",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "교내 '배움의 공동체' 수업나눔모임 운영 방법 문의.",
+  "taggedAt": "2026-08-17T05:01:24.240Z"
 }

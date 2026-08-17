@@ -17,6 +17,13 @@
       "category": "게시판별 분류",
       "topic": "자유공간",
       "confidence": "high"
+    },
+    {
+      "category": "과학교사 업무",
+      "topic": "과학실 관리",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "부서 개편에 따른 실험실습일지 결재라인 문의.",
+  "taggedAt": "2026-08-17T04:30:10.120Z"
 }

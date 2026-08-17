@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "자유공간",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "교육목적 저작물이용 관련 저작권법 해설 및 회원정보 수정 안내(운영).",
+  "taggedAt": "2026-08-17T04:56:20.449Z"
 }

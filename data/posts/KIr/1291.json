@@ -17,6 +17,13 @@
       "category": "게시판별 분류",
       "topic": "자유공간",
       "confidence": "high"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "메이커/3D프린팅",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "3D펜 필라멘트 투입 문제 원인 문의.",
+  "taggedAt": "2026-08-17T04:30:10.114Z"
 }

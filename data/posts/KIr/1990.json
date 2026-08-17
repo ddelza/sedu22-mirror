@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "자유공간",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "당도(Brix) 측정 실험 결과 해석 관련 질문(가정 교과 협업).",
+  "taggedAt": "2026-08-17T04:46:01.759Z"
 }

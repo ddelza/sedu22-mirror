@@ -17,6 +17,13 @@
       "category": "게시판별 분류",
       "topic": "자유공간",
       "confidence": "high"
+    },
+    {
+      "category": "과학교사 업무",
+      "topic": "과학 행사",
+      "confidence": "low"
     }
-  ]
+  ],
+  "tagsNote": "이화여대 양자나노과학연구단의 중학생 체험형 프로그램 '나노코믹' 소개.",
+  "taggedAt": "2026-08-17T04:50:11.085Z"
 }

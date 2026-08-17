@@ -17,6 +17,22 @@
       "category": "게시판별 분류",
       "topic": "생각의 탄생(창의융합수업)",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "물질의 구성",
+      "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "물질의 구성",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "\"중2과정에서 이온을 가르치고 있습니다\" - 이온 명명법 질문.",
+  "taggedAt": "2026-08-17T04:26:15.646Z"
 }

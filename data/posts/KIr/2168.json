@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "자유공간",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "지필평가 후 부담없는 활동(퍼즐 등) 추천 요청.",
+  "taggedAt": "2026-08-17T04:50:11.064Z"
 }

@@ -17,6 +17,20 @@
       "category": "게시판별 분류",
       "topic": "자유공간",
       "confidence": "high"
+    },
+    {
+      "category": "과학교사 업무",
+      "topic": "과학실 관리",
+      "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "기권과 날씨",
+      "confidence": "low"
     }
-  ]
+  ],
+  "tagsNote": "아네로이드 기압계 바늘 작동 이상 여부 문의.",
+  "taggedAt": "2026-08-17T04:53:31.210Z"
 }

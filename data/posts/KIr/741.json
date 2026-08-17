@@ -17,6 +17,13 @@
       "category": "게시판별 분류",
       "topic": "자유공간",
       "confidence": "high"
+    },
+    {
+      "category": "과학교사 업무",
+      "topic": "동아리 운영",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "방과후 드론탐구반 운영 노하우 문의.",
+  "taggedAt": "2026-08-17T05:01:24.252Z"
 }

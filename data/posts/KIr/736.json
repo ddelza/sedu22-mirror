@@ -17,6 +17,13 @@
       "category": "게시판별 분류",
       "topic": "자유공간",
       "confidence": "high"
+    },
+    {
+      "category": "과학교사 업무",
+      "topic": "교원연수",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "생물 전공 교사 대상 수업나눔 동호회 추천 요청.",
+  "taggedAt": "2026-08-17T05:01:24.250Z"
 }

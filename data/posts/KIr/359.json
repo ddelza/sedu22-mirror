@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "자유공간",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "전기 에너지의 발생과 이용",
+      "confidence": "low"
     }
-  ]
+  ],
+  "tagsNote": "원전/에너지 관련 수업자료 및 아이디어 요청.",
+  "taggedAt": "2026-08-17T04:56:20.452Z"
 }

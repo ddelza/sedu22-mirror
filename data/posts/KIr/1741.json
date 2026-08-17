@@ -17,6 +17,13 @@
       "category": "게시판별 분류",
       "topic": "자유공간",
       "confidence": "high"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "앱/프로그램",
+      "confidence": "low"
     }
-  ]
+  ],
+  "tagsNote": "구글 개인계정→학교계정 자료 이전 방법 문의.",
+  "taggedAt": "2026-08-17T04:38:25.149Z"
 }

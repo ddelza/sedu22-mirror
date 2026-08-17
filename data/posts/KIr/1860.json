@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "자유공간",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "태양계",
+      "confidence": "low"
     }
-  ]
+  ],
+  "tagsNote": "중2 태양계·조석 수업을 소재로 한 과학사/철학 에세이.",
+  "taggedAt": "2026-08-17T04:42:34.844Z"
 }

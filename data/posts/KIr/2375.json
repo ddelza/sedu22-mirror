@@ -17,6 +17,13 @@
       "category": "게시판별 분류",
       "topic": "자유공간",
       "confidence": "high"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "생성형 AI 도구",
+      "confidence": "low"
     }
-  ]
+  ],
+  "tagsNote": "챗지피티로 그린 스승의 날 기념 만화 공유.",
+  "taggedAt": "2026-08-17T04:53:31.214Z"
 }

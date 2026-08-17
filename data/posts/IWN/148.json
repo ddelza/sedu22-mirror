@@ -17,6 +17,22 @@
       "category": "게시판별 분류",
       "topic": "좋은 글 & 책",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "식물과 에너지",
+      "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "식물과 에너지",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "\"2학년 광합성 수업 후 같이 읽어도 좋을 책\"이라고 명시 - 식물과 에너지 단원 연계 도서.",
+  "taggedAt": "2026-08-17T04:19:52.641Z"
 }

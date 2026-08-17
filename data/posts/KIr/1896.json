@@ -17,6 +17,13 @@
       "category": "게시판별 분류",
       "topic": "자유공간",
       "confidence": "high"
+    },
+    {
+      "category": "과학교사 업무",
+      "topic": "교원연수",
+      "confidence": "low"
     }
-  ]
+  ],
+  "tagsNote": "방학 중 연수 후기 공유 독려 게시물.",
+  "taggedAt": "2026-08-17T04:43:41.507Z"
 }

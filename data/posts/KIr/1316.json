@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "자유공간",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "코로나19로 인한 실험단원 진도 조정 고민, 특정 단원 아님.",
+  "taggedAt": "2026-08-17T04:30:10.126Z"
 }

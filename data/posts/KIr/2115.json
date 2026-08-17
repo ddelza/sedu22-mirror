@@ -17,6 +17,13 @@
       "category": "게시판별 분류",
       "topic": "자유공간",
       "confidence": "high"
+    },
+    {
+      "category": "과학교사 업무",
+      "topic": "과학실 관리",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "화학 원소 해외직구 시 통관 서류(수입화학물질확인명세서) 문의.",
+  "taggedAt": "2026-08-17T04:48:07.551Z"
 }

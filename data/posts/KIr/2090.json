@@ -17,6 +17,18 @@
       "category": "게시판별 분류",
       "topic": "자유공간",
       "confidence": "high"
+    },
+    {
+      "category": "과학교사 업무",
+      "topic": "교원연수",
+      "confidence": "high"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "MBL센서",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "지능형과학실ON·이지메이커 활용 교원학습공동체 공모 신청 안내.",
+  "taggedAt": "2026-08-17T04:48:07.536Z"
 }

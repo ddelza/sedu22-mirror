@@ -17,6 +17,13 @@
       "category": "게시판별 분류",
       "topic": "자유공간",
       "confidence": "high"
+    },
+    {
+      "category": "과학교사 업무",
+      "topic": "동아리 운영",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "자유학기제 동아리 시간용 과학 키트/활동 추천 요청.",
+  "taggedAt": "2026-08-17T05:01:24.231Z"
 }

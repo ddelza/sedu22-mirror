@@ -17,6 +17,36 @@
       "category": "게시판별 분류",
       "topic": "생각의 탄생(창의융합수업)",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "열과 우리 생활",
+      "confidence": "low"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "열",
+      "confidence": "low"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "운동과 에너지",
+      "confidence": "low"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "운동과 에너지",
+      "confidence": "low"
     }
-  ]
+  ],
+  "tagsNote": "열평형(단열/온도)과 종단속도(운동) 영재수업 실험 자료.",
+  "taggedAt": "2026-08-17T04:26:15.629Z"
 }

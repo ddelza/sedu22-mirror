@@ -17,6 +17,22 @@
       "category": "게시판별 분류",
       "topic": "자유공간",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "생물의 다양성",
+      "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "생물의 구성과 다양성",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "'생물다양성 단원' 학교내 생물그리기 중 목련 이상개화 관찰 질문.",
+  "taggedAt": "2026-08-17T04:41:24.787Z"
 }

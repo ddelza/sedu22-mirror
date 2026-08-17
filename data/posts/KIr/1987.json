@@ -17,6 +17,13 @@
       "category": "게시판별 분류",
       "topic": "자유공간",
       "confidence": "high"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "AR/VR",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "Class VR 프로그램 활용법 및 콘텐츠 문의.",
+  "taggedAt": "2026-08-17T04:46:01.756Z"
 }

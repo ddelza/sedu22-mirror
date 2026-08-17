@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "좋은 글 & 책",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "대입 전형 통계(Z점수) 관련 진학지도 에세이.",
+  "taggedAt": "2026-08-17T04:21:11.627Z"
 }

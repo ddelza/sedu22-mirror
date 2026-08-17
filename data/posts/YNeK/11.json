@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "지필 평가문항 공유&오류 논의",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "고등학교",
+      "subject": "생명과학Ⅰ",
+      "unit": "유전",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "과학의 탐구과정 및 성염색체 정기고사 문항 공유.",
+  "taggedAt": "2026-08-17T05:05:41.710Z"
 }

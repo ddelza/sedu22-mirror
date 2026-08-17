@@ -17,6 +17,13 @@
       "category": "게시판별 분류",
       "topic": "자유공간",
       "confidence": "high"
+    },
+    {
+      "category": "과학교사 업무",
+      "topic": "과학실 관리",
+      "confidence": "low"
     }
-  ]
+  ],
+  "tagsNote": "실험 후 석회수 재사용 가능 여부 문의.",
+  "taggedAt": "2026-08-17T04:31:06.378Z"
 }

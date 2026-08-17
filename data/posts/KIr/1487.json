@@ -17,6 +17,13 @@
       "category": "게시판별 분류",
       "topic": "자유공간",
       "confidence": "high"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "교육용 단말기(태블릿/크롬북)",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "모둠용 정보화기기(크롬북/노트북) 구매 문의.",
+  "taggedAt": "2026-08-17T04:33:04.921Z"
 }

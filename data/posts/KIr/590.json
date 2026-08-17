@@ -17,6 +17,18 @@
       "category": "게시판별 분류",
       "topic": "자유공간",
       "confidence": "high"
+    },
+    {
+      "category": "수업 방법론",
+      "topic": "거꾸로 교실",
+      "confidence": "medium"
+    },
+    {
+      "category": "과학교사 업무",
+      "topic": "교원연수",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "거꾸로수업 등 과학수업 개선 관련 직무연수 추천 요청.",
+  "taggedAt": "2026-08-17T04:59:22.028Z"
 }

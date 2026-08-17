@@ -17,6 +17,13 @@
       "category": "게시판별 분류",
       "topic": "자유공간",
       "confidence": "high"
+    },
+    {
+      "category": "과학교사 업무",
+      "topic": "과학 행사",
+      "confidence": "low"
     }
-  ]
+  ],
+  "tagsNote": "해양오염 소재 과학뮤지컬 '울프' 소개.",
+  "taggedAt": "2026-08-17T04:47:02.805Z"
 }

@@ -17,6 +17,13 @@
       "category": "게시판별 분류",
       "topic": "자유공간",
       "confidence": "high"
+    },
+    {
+      "category": "과학교사 업무",
+      "topic": "교원연수",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "신과수연구회 하계워크숍 발표/활동 사진 공유.",
+  "taggedAt": "2026-08-17T05:02:23.227Z"
 }

@@ -17,6 +17,13 @@
       "category": "게시판별 분류",
       "topic": "자유공간",
       "confidence": "high"
+    },
+    {
+      "category": "과학교사 업무",
+      "topic": "교원연수",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "한국지질자원연구원 지질과학 교원직무연수 소개.",
+  "taggedAt": "2026-08-17T04:56:20.455Z"
 }

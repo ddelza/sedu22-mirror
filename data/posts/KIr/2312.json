@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "자유공간",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "고등학교",
+      "subject": "물리학Ⅱ",
+      "unit": "원자와 원자핵",
+      "confidence": "low"
     }
-  ]
+  ],
+  "tagsNote": "학생이 유튜브에서 본 감마선 발생 원리(전자-양전자 쌍) 질문에 대한 도움 요청.",
+  "taggedAt": "2026-08-17T04:52:30.355Z"
 }

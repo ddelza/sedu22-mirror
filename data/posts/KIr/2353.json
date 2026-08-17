@@ -17,6 +17,27 @@
       "category": "게시판별 분류",
       "topic": "자유공간",
       "confidence": "high"
+    },
+    {
+      "category": "과학교사 업무",
+      "topic": "동아리 운영",
+      "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "물질의 특성",
+      "confidence": "low"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "여러 가지 힘",
+      "confidence": "low"
     }
-  ]
+  ],
+  "tagsNote": "중1 동아리 실험(밀도 칵테일, 헬륨풍선 힘평형)의 선수학습 여부 및 축제 전시 가능성 문의.",
+  "taggedAt": "2026-08-17T04:53:31.201Z"
 }

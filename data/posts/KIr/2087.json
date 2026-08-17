@@ -17,6 +17,20 @@
       "category": "게시판별 분류",
       "topic": "자유공간",
       "confidence": "high"
+    },
+    {
+      "category": "과학교사 업무",
+      "topic": "과학 행사",
+      "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "태양계",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "에라토스테네스 지구크기 측정법을 여러 학교가 함께 진행하는 전국 공동실험 기획.",
+  "taggedAt": "2026-08-17T04:48:07.534Z"
 }

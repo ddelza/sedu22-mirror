@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "지필 평가문항 공유&오류 논의",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "전기와 자기",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "전자기유도 서술형 채점 기준(코일 감기 등 표현) 조언 요청.",
+  "taggedAt": "2026-08-17T05:06:57.371Z"
 }

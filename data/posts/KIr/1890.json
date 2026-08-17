@@ -17,6 +17,13 @@
       "category": "게시판별 분류",
       "topic": "자유공간",
       "confidence": "high"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "메이커/3D프린팅",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "LED카드 만들기(LED, 코인셀) 재료 구매 및 제작 질문.",
+  "taggedAt": "2026-08-17T04:43:41.504Z"
 }

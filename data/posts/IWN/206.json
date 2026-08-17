@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "좋은 글 & 책",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "수업 표현 아이디어를 위한 교양서 소개, 여러 주제 혼재.",
+  "taggedAt": "2026-08-17T04:21:11.630Z"
 }

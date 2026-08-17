@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "자유공간",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "전기와 자기",
+      "confidence": "low"
     }
-  ]
+  ],
+  "tagsNote": "직선도선 주위 자기장 세기 원리 질문.",
+  "taggedAt": "2026-08-17T04:59:22.035Z"
 }

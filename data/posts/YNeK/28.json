@@ -17,6 +17,22 @@
       "category": "게시판별 분류",
       "topic": "지필 평가문항 공유&오류 논의",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "고등학교",
+      "subject": "생명과학Ⅰ",
+      "unit": "유전",
+      "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "고등학교",
+      "subject": "생명과학Ⅰ",
+      "unit": "생태계와 상호작용",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "생명과학 오답률 높은 문항(성염색체, 비생물적 환경요인) 분석 및 환류 방안.",
+  "taggedAt": "2026-08-17T05:05:41.714Z"
 }

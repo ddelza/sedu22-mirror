@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "지필 평가문항 공유&오류 논의",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "자극과 반응",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "자극과 반응 단원 정기고사 문항 공유.",
+  "taggedAt": "2026-08-17T05:05:41.712Z"
 }

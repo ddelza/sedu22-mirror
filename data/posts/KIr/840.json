@@ -17,6 +17,13 @@
       "category": "게시판별 분류",
       "topic": "자유공간",
       "confidence": "high"
+    },
+    {
+      "category": "과학교사 업무",
+      "topic": "과학실 관리",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "과학 교구 불용처리 절차 및 과학과 연간(안전)계획서 공유 요청.",
+  "taggedAt": "2026-08-17T05:03:26.087Z"
 }

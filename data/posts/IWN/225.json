@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "좋은 글 & 책",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "AI와 글쓰기 교육에 관한 국어교육 기사.",
+  "taggedAt": "2026-08-17T04:22:13.424Z"
 }

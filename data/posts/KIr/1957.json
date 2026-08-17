@@ -17,6 +17,13 @@
       "category": "게시판별 분류",
       "topic": "자유공간",
       "confidence": "high"
+    },
+    {
+      "category": "과학교사 업무",
+      "topic": "학급운영",
+      "confidence": "low"
     }
-  ]
+  ],
+  "tagsNote": "학생 개인 탐구(수세미/버섯 재배) 지도 관련 담임 고민.",
+  "taggedAt": "2026-08-17T04:44:49.617Z"
 }

@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "좋은 글 & 책",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "자극과 반응",
+      "confidence": "low"
     }
-  ]
+  ],
+  "tagsNote": "\"2015교육과정의 중학교 3학년에 뇌에 대한 내용\"과 연계해 읽은 서평 - 2015 명시로 단일연도.",
+  "taggedAt": "2026-08-17T04:22:13.421Z"
 }

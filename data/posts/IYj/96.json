@@ -17,6 +17,22 @@
       "category": "게시판별 분류",
       "topic": "생각의 탄생(창의융합수업)",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "운동과 에너지",
+      "confidence": "low"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "운동과 에너지",
+      "confidence": "low"
     }
-  ]
+  ],
+  "tagsNote": "로켓런처 제작(작용반작용 원리) 영재수업.",
+  "taggedAt": "2026-08-17T04:26:15.653Z"
 }

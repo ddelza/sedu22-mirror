@@ -17,6 +17,13 @@
       "category": "게시판별 분류",
       "topic": "자유공간",
       "confidence": "high"
+    },
+    {
+      "category": "과학교사 업무",
+      "topic": "교원연수",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "신과수연구회 필리핀 교육봉사 및 실험수업 진행 후기.",
+  "taggedAt": "2026-08-17T05:03:26.088Z"
 }

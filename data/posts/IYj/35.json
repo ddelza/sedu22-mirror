@@ -17,6 +17,22 @@
       "category": "게시판별 분류",
       "topic": "생각의 탄생(창의융합수업)",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "생식과 유전",
+      "confidence": "low"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "생식과 유전",
+      "confidence": "low"
     }
-  ]
+  ],
+  "tagsNote": "자유학기제 '쉐프의 과학실험실' 프로그램 - 브로콜리 DNA 추출 등.",
+  "taggedAt": "2026-08-17T04:24:34.162Z"
 }

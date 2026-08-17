@@ -17,6 +17,13 @@
       "category": "게시판별 분류",
       "topic": "자유공간",
       "confidence": "high"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "앱/프로그램",
+      "confidence": "low"
     }
-  ]
+  ],
+  "tagsNote": "학교 예산 집행용 유료 앱 추천 요청.",
+  "taggedAt": "2026-08-17T04:57:19.713Z"
 }

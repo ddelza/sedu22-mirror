@@ -17,6 +17,13 @@
       "category": "게시판별 분류",
       "topic": "자유공간",
       "confidence": "high"
+    },
+    {
+      "category": "과학교사 업무",
+      "topic": "과학실 관리",
+      "confidence": "low"
     }
-  ]
+  ],
+  "tagsNote": "Sen스쿨 계정으로 구글 계정 등록하는 방법(과학정보부 업무용) 안내.",
+  "taggedAt": "2026-08-17T04:53:31.196Z"
 }

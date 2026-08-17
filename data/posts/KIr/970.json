@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "자유공간",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "산과 염기",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "중화반응 실험 결과 그래프(막대 vs 꺾은선) 채점 기준 논의.",
+  "taggedAt": "2026-08-17T05:05:41.701Z"
 }

@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "자유공간",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "운동과 에너지",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "중2 역학적 에너지 보존 서술형 문제의 정답 범위 관련 논의.",
+  "taggedAt": "2026-08-17T05:01:24.242Z"
 }

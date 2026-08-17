@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "자유공간",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "빛과 파동",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "탈모방지기구로 공명 현상을 설명하는 생활 속 아이디어.",
+  "taggedAt": "2026-08-17T04:57:19.698Z"
 }

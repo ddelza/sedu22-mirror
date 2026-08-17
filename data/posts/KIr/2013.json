@@ -17,6 +17,20 @@
       "category": "게시판별 분류",
       "topic": "자유공간",
       "confidence": "high"
+    },
+    {
+      "category": "과학교사 업무",
+      "topic": "동아리 운영",
+      "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "지권의 변화",
+      "confidence": "low"
     }
-  ]
+  ],
+  "tagsNote": "전국 지진·화산 동아리 '땅울림' 2024년 모집 안내.",
+  "taggedAt": "2026-08-17T04:46:01.772Z"
 }

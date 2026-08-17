@@ -15,6 +15,13 @@
         "category": "게시판별 분류",
         "topic": "좋은 글 & 책",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "high"
       }
     ]
   },
@@ -33,6 +40,13 @@
       {
         "category": "게시판별 분류",
         "topic": "좋은 글 & 책",
+        "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
         "confidence": "high"
       }
     ]
@@ -53,6 +67,13 @@
         "category": "게시판별 분류",
         "topic": "좋은 글 & 책",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "high"
       }
     ]
   },
@@ -72,6 +93,11 @@
         "category": "게시판별 분류",
         "topic": "좋은 글 & 책",
         "confidence": "high"
+      },
+      {
+        "category": "과학교사 업무",
+        "topic": "과학 행사",
+        "confidence": "medium"
       }
     ]
   },
@@ -90,6 +116,13 @@
       {
         "category": "게시판별 분류",
         "topic": "좋은 글 & 책",
+        "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
         "confidence": "high"
       }
     ]
@@ -110,6 +143,13 @@
         "category": "게시판별 분류",
         "topic": "좋은 글 & 책",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "high"
       }
     ]
   },
@@ -129,6 +169,11 @@
         "category": "게시판별 분류",
         "topic": "좋은 글 & 책",
         "confidence": "high"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "생성형 AI 도구",
+        "confidence": "low"
       }
     ]
   },
@@ -147,6 +192,13 @@
       {
         "category": "게시판별 분류",
         "topic": "좋은 글 & 책",
+        "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
         "confidence": "high"
       }
     ]
@@ -167,6 +219,13 @@
         "category": "게시판별 분류",
         "topic": "좋은 글 & 책",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "high"
       }
     ]
   },
@@ -186,6 +245,13 @@
         "category": "게시판별 분류",
         "topic": "좋은 글 & 책",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": "2015",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "자극과 반응",
+        "confidence": "low"
       }
     ]
   },
@@ -204,6 +270,13 @@
       {
         "category": "게시판별 분류",
         "topic": "좋은 글 & 책",
+        "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
         "confidence": "high"
       }
     ]
@@ -224,6 +297,13 @@
         "category": "게시판별 분류",
         "topic": "좋은 글 & 책",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "high"
       }
     ]
   },
@@ -243,6 +323,11 @@
         "category": "게시판별 분류",
         "topic": "좋은 글 & 책",
         "confidence": "high"
+      },
+      {
+        "category": "과학교사 업무",
+        "topic": "과학 행사",
+        "confidence": "low"
       }
     ]
   },
@@ -261,6 +346,13 @@
       {
         "category": "게시판별 분류",
         "topic": "좋은 글 & 책",
+        "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
         "confidence": "high"
       }
     ]
@@ -281,6 +373,13 @@
         "category": "게시판별 분류",
         "topic": "좋은 글 & 책",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "high"
       }
     ]
   },
@@ -299,6 +398,13 @@
       {
         "category": "게시판별 분류",
         "topic": "좋은 글 & 책",
+        "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
         "confidence": "high"
       }
     ]
@@ -319,6 +425,13 @@
         "category": "게시판별 분류",
         "topic": "좋은 글 & 책",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "high"
       }
     ]
   },
@@ -337,6 +450,13 @@
       {
         "category": "게시판별 분류",
         "topic": "좋은 글 & 책",
+        "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
         "confidence": "high"
       }
     ]
@@ -357,6 +477,13 @@
         "category": "게시판별 분류",
         "topic": "좋은 글 & 책",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "high"
       }
     ]
   },
@@ -375,6 +502,13 @@
       {
         "category": "게시판별 분류",
         "topic": "좋은 글 & 책",
+        "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
         "confidence": "high"
       }
     ]
@@ -395,6 +529,13 @@
         "category": "게시판별 분류",
         "topic": "좋은 글 & 책",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "high"
       }
     ]
   },
@@ -413,6 +554,13 @@
       {
         "category": "게시판별 분류",
         "topic": "좋은 글 & 책",
+        "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
         "confidence": "high"
       }
     ]
@@ -433,6 +581,13 @@
         "category": "게시판별 분류",
         "topic": "좋은 글 & 책",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "high"
       }
     ]
   },
@@ -451,6 +606,13 @@
       {
         "category": "게시판별 분류",
         "topic": "좋은 글 & 책",
+        "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
         "confidence": "high"
       }
     ]
@@ -471,6 +633,13 @@
         "category": "게시판별 분류",
         "topic": "좋은 글 & 책",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "high"
       }
     ]
   },
@@ -489,6 +658,13 @@
       {
         "category": "게시판별 분류",
         "topic": "좋은 글 & 책",
+        "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
         "confidence": "high"
       }
     ]
@@ -509,6 +685,13 @@
         "category": "게시판별 분류",
         "topic": "좋은 글 & 책",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "high"
       }
     ]
   },
@@ -527,6 +710,13 @@
       {
         "category": "게시판별 분류",
         "topic": "좋은 글 & 책",
+        "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
         "confidence": "high"
       }
     ]
@@ -547,6 +737,13 @@
         "category": "게시판별 분류",
         "topic": "좋은 글 & 책",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "high"
       }
     ]
   },
@@ -565,6 +762,13 @@
       {
         "category": "게시판별 분류",
         "topic": "좋은 글 & 책",
+        "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
         "confidence": "high"
       }
     ]
@@ -585,6 +789,20 @@
         "category": "게시판별 분류",
         "topic": "좋은 글 & 책",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": "2015",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "지권의 변화",
+        "confidence": "low"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "지권의 변화",
+        "confidence": "low"
       }
     ]
   },
@@ -603,6 +821,13 @@
       {
         "category": "게시판별 분류",
         "topic": "좋은 글 & 책",
+        "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
         "confidence": "high"
       }
     ]
@@ -623,6 +848,13 @@
         "category": "게시판별 분류",
         "topic": "좋은 글 & 책",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "high"
       }
     ]
   },
@@ -641,6 +873,13 @@
       {
         "category": "게시판별 분류",
         "topic": "좋은 글 & 책",
+        "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
         "confidence": "high"
       }
     ]
@@ -661,6 +900,13 @@
         "category": "게시판별 분류",
         "topic": "좋은 글 & 책",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "high"
       }
     ]
   },
@@ -679,6 +925,13 @@
       {
         "category": "게시판별 분류",
         "topic": "좋은 글 & 책",
+        "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
         "confidence": "high"
       }
     ]
@@ -699,6 +952,13 @@
         "category": "게시판별 분류",
         "topic": "좋은 글 & 책",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "high"
       }
     ]
   },
@@ -717,6 +977,13 @@
       {
         "category": "게시판별 분류",
         "topic": "좋은 글 & 책",
+        "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
         "confidence": "high"
       }
     ]
@@ -737,6 +1004,13 @@
         "category": "게시판별 분류",
         "topic": "좋은 글 & 책",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "high"
       }
     ]
   },
@@ -755,6 +1029,13 @@
       {
         "category": "게시판별 분류",
         "topic": "좋은 글 & 책",
+        "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
         "confidence": "high"
       }
     ]
@@ -775,6 +1056,13 @@
         "category": "게시판별 분류",
         "topic": "좋은 글 & 책",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "high"
       }
     ]
   },
@@ -793,6 +1081,13 @@
       {
         "category": "게시판별 분류",
         "topic": "좋은 글 & 책",
+        "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
         "confidence": "high"
       }
     ]
@@ -813,6 +1108,13 @@
         "category": "게시판별 분류",
         "topic": "좋은 글 & 책",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "high"
       }
     ]
   },
@@ -831,6 +1133,13 @@
       {
         "category": "게시판별 분류",
         "topic": "좋은 글 & 책",
+        "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
         "confidence": "high"
       }
     ]
@@ -851,6 +1160,13 @@
         "category": "게시판별 분류",
         "topic": "좋은 글 & 책",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "high"
       }
     ]
   },
@@ -869,6 +1185,13 @@
       {
         "category": "게시판별 분류",
         "topic": "좋은 글 & 책",
+        "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
         "confidence": "high"
       }
     ]
@@ -889,6 +1212,13 @@
         "category": "게시판별 분류",
         "topic": "좋은 글 & 책",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "high"
       }
     ]
   },
@@ -907,6 +1237,13 @@
       {
         "category": "게시판별 분류",
         "topic": "좋은 글 & 책",
+        "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
         "confidence": "high"
       }
     ]
@@ -927,6 +1264,13 @@
         "category": "게시판별 분류",
         "topic": "좋은 글 & 책",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "high"
       }
     ]
   },
@@ -945,6 +1289,13 @@
       {
         "category": "게시판별 분류",
         "topic": "좋은 글 & 책",
+        "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
         "confidence": "high"
       }
     ]
@@ -965,6 +1316,13 @@
         "category": "게시판별 분류",
         "topic": "좋은 글 & 책",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "high"
       }
     ]
   },
@@ -983,6 +1341,13 @@
       {
         "category": "게시판별 분류",
         "topic": "좋은 글 & 책",
+        "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
         "confidence": "high"
       }
     ]
@@ -1003,6 +1368,13 @@
         "category": "게시판별 분류",
         "topic": "좋은 글 & 책",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "high"
       }
     ]
   },
@@ -1021,6 +1393,13 @@
       {
         "category": "게시판별 분류",
         "topic": "좋은 글 & 책",
+        "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
         "confidence": "high"
       }
     ]
@@ -1041,6 +1420,11 @@
         "category": "게시판별 분류",
         "topic": "좋은 글 & 책",
         "confidence": "high"
+      },
+      {
+        "category": "과학교사 업무",
+        "topic": "과학 행사",
+        "confidence": "medium"
       }
     ]
   },
@@ -1059,6 +1443,13 @@
       {
         "category": "게시판별 분류",
         "topic": "좋은 글 & 책",
+        "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
         "confidence": "high"
       }
     ]
@@ -1079,6 +1470,13 @@
         "category": "게시판별 분류",
         "topic": "좋은 글 & 책",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "high"
       }
     ]
   },
@@ -1097,6 +1495,13 @@
       {
         "category": "게시판별 분류",
         "topic": "좋은 글 & 책",
+        "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
         "confidence": "high"
       }
     ]
@@ -1117,6 +1522,13 @@
         "category": "게시판별 분류",
         "topic": "좋은 글 & 책",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "high"
       }
     ]
   },
@@ -1135,6 +1547,13 @@
       {
         "category": "게시판별 분류",
         "topic": "좋은 글 & 책",
+        "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
         "confidence": "high"
       }
     ]
@@ -1155,6 +1574,13 @@
         "category": "게시판별 분류",
         "topic": "좋은 글 & 책",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "high"
       }
     ]
   },
@@ -1173,6 +1599,13 @@
       {
         "category": "게시판별 분류",
         "topic": "좋은 글 & 책",
+        "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
         "confidence": "high"
       }
     ]
@@ -1193,6 +1626,11 @@
         "category": "게시판별 분류",
         "topic": "좋은 글 & 책",
         "confidence": "high"
+      },
+      {
+        "category": "과학교사 업무",
+        "topic": "과학실 관리",
+        "confidence": "medium"
       }
     ]
   },
@@ -1211,6 +1649,13 @@
       {
         "category": "게시판별 분류",
         "topic": "좋은 글 & 책",
+        "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
         "confidence": "high"
       }
     ]
@@ -1231,6 +1676,13 @@
         "category": "게시판별 분류",
         "topic": "좋은 글 & 책",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "high"
       }
     ]
   },
@@ -1249,6 +1701,13 @@
       {
         "category": "게시판별 분류",
         "topic": "좋은 글 & 책",
+        "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
         "confidence": "high"
       }
     ]
@@ -1269,6 +1728,13 @@
         "category": "게시판별 분류",
         "topic": "좋은 글 & 책",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "high"
       }
     ]
   },
@@ -1287,6 +1753,13 @@
       {
         "category": "게시판별 분류",
         "topic": "좋은 글 & 책",
+        "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
         "confidence": "high"
       }
     ]
@@ -1307,6 +1780,13 @@
         "category": "게시판별 분류",
         "topic": "좋은 글 & 책",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "high"
       }
     ]
   },
@@ -1325,6 +1805,13 @@
       {
         "category": "게시판별 분류",
         "topic": "좋은 글 & 책",
+        "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
         "confidence": "high"
       }
     ]
@@ -1345,6 +1832,13 @@
         "category": "게시판별 분류",
         "topic": "좋은 글 & 책",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "high"
       }
     ]
   },
@@ -1364,6 +1858,20 @@
         "category": "게시판별 분류",
         "topic": "좋은 글 & 책",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": "2015",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "식물과 에너지",
+        "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "식물과 에너지",
+        "confidence": "medium"
       }
     ]
   },
@@ -1382,6 +1890,13 @@
       {
         "category": "게시판별 분류",
         "topic": "좋은 글 & 책",
+        "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
         "confidence": "high"
       }
     ]
@@ -1402,6 +1917,13 @@
         "category": "게시판별 분류",
         "topic": "좋은 글 & 책",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "high"
       }
     ]
   },
@@ -1420,6 +1942,13 @@
       {
         "category": "게시판별 분류",
         "topic": "좋은 글 & 책",
+        "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
         "confidence": "high"
       }
     ]
@@ -1440,6 +1969,20 @@
         "category": "게시판별 분류",
         "topic": "좋은 글 & 책",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": "2015",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "생물의 다양성",
+        "confidence": "low"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "생물의 구성과 다양성",
+        "confidence": "low"
       }
     ]
   },
@@ -1458,6 +2001,13 @@
       {
         "category": "게시판별 분류",
         "topic": "좋은 글 & 책",
+        "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
         "confidence": "high"
       }
     ]
@@ -1478,6 +2028,13 @@
         "category": "게시판별 분류",
         "topic": "좋은 글 & 책",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "high"
       }
     ]
   },
@@ -1496,6 +2053,13 @@
       {
         "category": "게시판별 분류",
         "topic": "좋은 글 & 책",
+        "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
         "confidence": "high"
       }
     ]
@@ -1516,6 +2080,13 @@
         "category": "게시판별 분류",
         "topic": "좋은 글 & 책",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "high"
       }
     ]
   },
@@ -1534,6 +2105,13 @@
       {
         "category": "게시판별 분류",
         "topic": "좋은 글 & 책",
+        "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
         "confidence": "high"
       }
     ]
@@ -1554,6 +2132,13 @@
         "category": "게시판별 분류",
         "topic": "좋은 글 & 책",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "high"
       }
     ]
   },
@@ -1572,6 +2157,13 @@
       {
         "category": "게시판별 분류",
         "topic": "좋은 글 & 책",
+        "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
         "confidence": "high"
       }
     ]
@@ -1592,6 +2184,13 @@
         "category": "게시판별 분류",
         "topic": "좋은 글 & 책",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "high"
       }
     ]
   },
@@ -1610,6 +2209,13 @@
       {
         "category": "게시판별 분류",
         "topic": "좋은 글 & 책",
+        "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
         "confidence": "high"
       }
     ]
@@ -1630,6 +2236,13 @@
         "category": "게시판별 분류",
         "topic": "좋은 글 & 책",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "high"
       }
     ]
   },
@@ -1648,6 +2261,13 @@
       {
         "category": "게시판별 분류",
         "topic": "좋은 글 & 책",
+        "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
         "confidence": "high"
       }
     ]
@@ -2221,6 +2841,13 @@
         "category": "게시판별 분류",
         "topic": "좋은 글 & 책",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "high"
       }
     ]
   },
@@ -2239,6 +2866,13 @@
       {
         "category": "게시판별 분류",
         "topic": "좋은 글 & 책",
+        "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
         "confidence": "high"
       }
     ]
@@ -2259,6 +2893,13 @@
         "category": "게시판별 분류",
         "topic": "좋은 글 & 책",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "high"
       }
     ]
   },
@@ -2277,6 +2918,13 @@
       {
         "category": "게시판별 분류",
         "topic": "좋은 글 & 책",
+        "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
         "confidence": "high"
       }
     ]
@@ -2297,6 +2945,20 @@
         "category": "게시판별 분류",
         "topic": "좋은 글 & 책",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": "2015",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "태양계",
+        "confidence": "low"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "태양계",
+        "confidence": "low"
       }
     ]
   },
@@ -2315,6 +2977,13 @@
       {
         "category": "게시판별 분류",
         "topic": "좋은 글 & 책",
+        "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
         "confidence": "high"
       }
     ]
@@ -2335,6 +3004,13 @@
         "category": "게시판별 분류",
         "topic": "좋은 글 & 책",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "high"
       }
     ]
   },
@@ -2353,6 +3029,13 @@
       {
         "category": "게시판별 분류",
         "topic": "좋은 글 & 책",
+        "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
         "confidence": "high"
       }
     ]
@@ -2373,6 +3056,13 @@
         "category": "게시판별 분류",
         "topic": "좋은 글 & 책",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "high"
       }
     ]
   },
@@ -2391,6 +3081,13 @@
       {
         "category": "게시판별 분류",
         "topic": "좋은 글 & 책",
+        "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
         "confidence": "high"
       }
     ]
@@ -2411,6 +3108,13 @@
         "category": "게시판별 분류",
         "topic": "좋은 글 & 책",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "high"
       }
     ]
   },
@@ -2429,6 +3133,13 @@
       {
         "category": "게시판별 분류",
         "topic": "좋은 글 & 책",
+        "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
         "confidence": "high"
       }
     ]
@@ -2449,6 +3160,13 @@
         "category": "게시판별 분류",
         "topic": "좋은 글 & 책",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "high"
       }
     ]
   },
@@ -2467,6 +3185,13 @@
       {
         "category": "게시판별 분류",
         "topic": "좋은 글 & 책",
+        "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
         "confidence": "high"
       }
     ]
@@ -2487,6 +3212,20 @@
         "category": "게시판별 분류",
         "topic": "좋은 글 & 책",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": "2015",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "생식과 유전",
+        "confidence": "low"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "생식과 유전",
+        "confidence": "low"
       }
     ]
   },
@@ -2505,6 +3244,13 @@
       {
         "category": "게시판별 분류",
         "topic": "좋은 글 & 책",
+        "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
         "confidence": "high"
       }
     ]
@@ -2525,6 +3271,13 @@
         "category": "게시판별 분류",
         "topic": "좋은 글 & 책",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "high"
       }
     ]
   },
@@ -2543,6 +3296,13 @@
       {
         "category": "게시판별 분류",
         "topic": "좋은 글 & 책",
+        "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
         "confidence": "high"
       }
     ]
@@ -2563,6 +3323,13 @@
         "category": "게시판별 분류",
         "topic": "좋은 글 & 책",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "high"
       }
     ]
   },
@@ -2581,6 +3348,13 @@
       {
         "category": "게시판별 분류",
         "topic": "좋은 글 & 책",
+        "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
         "confidence": "high"
       }
     ]
@@ -2601,6 +3375,13 @@
         "category": "게시판별 분류",
         "topic": "좋은 글 & 책",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "high"
       }
     ]
   },
@@ -2619,6 +3400,13 @@
       {
         "category": "게시판별 분류",
         "topic": "좋은 글 & 책",
+        "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
         "confidence": "high"
       }
     ]
@@ -2639,6 +3427,13 @@
         "category": "게시판별 분류",
         "topic": "좋은 글 & 책",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "high"
       }
     ]
   },
@@ -2657,6 +3452,13 @@
       {
         "category": "게시판별 분류",
         "topic": "좋은 글 & 책",
+        "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
         "confidence": "high"
       }
     ]
@@ -2677,6 +3479,13 @@
         "category": "게시판별 분류",
         "topic": "좋은 글 & 책",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "high"
       }
     ]
   },
@@ -2695,6 +3504,13 @@
       {
         "category": "게시판별 분류",
         "topic": "좋은 글 & 책",
+        "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
         "confidence": "high"
       }
     ]
@@ -2715,6 +3531,13 @@
         "category": "게시판별 분류",
         "topic": "좋은 글 & 책",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "high"
       }
     ]
   },
@@ -2733,6 +3556,13 @@
       {
         "category": "게시판별 분류",
         "topic": "좋은 글 & 책",
+        "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
         "confidence": "high"
       }
     ]
@@ -2753,6 +3583,13 @@
         "category": "게시판별 분류",
         "topic": "좋은 글 & 책",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "high"
       }
     ]
   },
@@ -2771,6 +3608,13 @@
       {
         "category": "게시판별 분류",
         "topic": "좋은 글 & 책",
+        "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
         "confidence": "high"
       }
     ]
@@ -2791,6 +3635,13 @@
         "category": "게시판별 분류",
         "topic": "좋은 글 & 책",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "high"
       }
     ]
   },
@@ -2809,6 +3660,13 @@
       {
         "category": "게시판별 분류",
         "topic": "좋은 글 & 책",
+        "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
         "confidence": "high"
       }
     ]
@@ -2829,6 +3687,13 @@
         "category": "게시판별 분류",
         "topic": "좋은 글 & 책",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "high"
       }
     ]
   },
@@ -2847,6 +3712,13 @@
       {
         "category": "게시판별 분류",
         "topic": "좋은 글 & 책",
+        "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
         "confidence": "high"
       }
     ]
@@ -2867,6 +3739,13 @@
         "category": "게시판별 분류",
         "topic": "좋은 글 & 책",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "high"
       }
     ]
   },
@@ -2885,6 +3764,13 @@
       {
         "category": "게시판별 분류",
         "topic": "좋은 글 & 책",
+        "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
         "confidence": "high"
       }
     ]
@@ -2905,6 +3791,13 @@
         "category": "게시판별 분류",
         "topic": "좋은 글 & 책",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "high"
       }
     ]
   },
@@ -2923,6 +3816,13 @@
       {
         "category": "게시판별 분류",
         "topic": "좋은 글 & 책",
+        "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
         "confidence": "high"
       }
     ]
@@ -2943,6 +3843,13 @@
         "category": "게시판별 분류",
         "topic": "좋은 글 & 책",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "high"
       }
     ]
   },
@@ -2961,6 +3868,13 @@
       {
         "category": "게시판별 분류",
         "topic": "좋은 글 & 책",
+        "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
         "confidence": "high"
       }
     ]
@@ -2981,6 +3895,13 @@
         "category": "게시판별 분류",
         "topic": "좋은 글 & 책",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "high"
       }
     ]
   },
@@ -2999,6 +3920,13 @@
       {
         "category": "게시판별 분류",
         "topic": "좋은 글 & 책",
+        "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
         "confidence": "high"
       }
     ]
@@ -3019,6 +3947,13 @@
         "category": "게시판별 분류",
         "topic": "좋은 글 & 책",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "high"
       }
     ]
   },
@@ -3037,6 +3972,13 @@
       {
         "category": "게시판별 분류",
         "topic": "좋은 글 & 책",
+        "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
         "confidence": "high"
       }
     ]
@@ -3057,6 +3999,13 @@
         "category": "게시판별 분류",
         "topic": "좋은 글 & 책",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "high"
       }
     ]
   },
@@ -3075,6 +4024,13 @@
       {
         "category": "게시판별 분류",
         "topic": "좋은 글 & 책",
+        "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
         "confidence": "high"
       }
     ]
@@ -3095,6 +4051,20 @@
         "category": "게시판별 분류",
         "topic": "좋은 글 & 책",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": "2015",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "여러 가지 힘",
+        "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "힘의 작용",
+        "confidence": "medium"
       }
     ]
   },
@@ -3113,6 +4083,13 @@
       {
         "category": "게시판별 분류",
         "topic": "좋은 글 & 책",
+        "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
         "confidence": "high"
       }
     ]
@@ -3133,6 +4110,13 @@
         "category": "게시판별 분류",
         "topic": "좋은 글 & 책",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "high"
       }
     ]
   },
@@ -3151,6 +4135,13 @@
       {
         "category": "게시판별 분류",
         "topic": "좋은 글 & 책",
+        "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
         "confidence": "high"
       }
     ]
@@ -3171,6 +4162,13 @@
         "category": "게시판별 분류",
         "topic": "좋은 글 & 책",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "high"
       }
     ]
   },
@@ -3189,6 +4187,13 @@
       {
         "category": "게시판별 분류",
         "topic": "좋은 글 & 책",
+        "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
         "confidence": "high"
       }
     ]
@@ -3209,6 +4214,13 @@
         "category": "게시판별 분류",
         "topic": "좋은 글 & 책",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "high"
       }
     ]
   },
@@ -3227,6 +4239,13 @@
       {
         "category": "게시판별 분류",
         "topic": "좋은 글 & 책",
+        "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
         "confidence": "high"
       }
     ]
@@ -3247,6 +4266,13 @@
         "category": "게시판별 분류",
         "topic": "좋은 글 & 책",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "high"
       }
     ]
   },
@@ -3265,6 +4291,13 @@
       {
         "category": "게시판별 분류",
         "topic": "좋은 글 & 책",
+        "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
         "confidence": "high"
       }
     ]
@@ -3285,6 +4318,13 @@
         "category": "게시판별 분류",
         "topic": "좋은 글 & 책",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "high"
       }
     ]
   },
@@ -3303,6 +4343,13 @@
       {
         "category": "게시판별 분류",
         "topic": "좋은 글 & 책",
+        "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
         "confidence": "high"
       }
     ]
@@ -3323,6 +4370,13 @@
         "category": "게시판별 분류",
         "topic": "좋은 글 & 책",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "high"
       }
     ]
   },
@@ -3341,6 +4395,13 @@
       {
         "category": "게시판별 분류",
         "topic": "좋은 글 & 책",
+        "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
         "confidence": "high"
       }
     ]
@@ -3387,6 +4448,13 @@
         "category": "게시판별 분류",
         "topic": "좋은 글 & 책",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "high"
       }
     ]
   },
@@ -3405,6 +4473,13 @@
       {
         "category": "게시판별 분류",
         "topic": "좋은 글 & 책",
+        "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
         "confidence": "high"
       }
     ]
@@ -3425,6 +4500,13 @@
         "category": "게시판별 분류",
         "topic": "좋은 글 & 책",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "high"
       }
     ]
   },
@@ -3443,6 +4525,13 @@
       {
         "category": "게시판별 분류",
         "topic": "좋은 글 & 책",
+        "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
         "confidence": "high"
       }
     ]
@@ -3463,6 +4552,13 @@
         "category": "게시판별 분류",
         "topic": "좋은 글 & 책",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "high"
       }
     ]
   },
@@ -3481,6 +4577,13 @@
       {
         "category": "게시판별 분류",
         "topic": "좋은 글 & 책",
+        "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
         "confidence": "high"
       }
     ]
@@ -3501,6 +4604,13 @@
         "category": "게시판별 분류",
         "topic": "좋은 글 & 책",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
+        "confidence": "high"
       }
     ]
   },
@@ -3519,6 +4629,13 @@
       {
         "category": "게시판별 분류",
         "topic": "좋은 글 & 책",
+        "confidence": "high"
+      },
+      {
+        "curriculumYear": null,
+        "schoolLevel": null,
+        "subject": null,
+        "unit": "미분류",
         "confidence": "high"
       }
     ]

@@ -17,6 +17,13 @@
       "category": "게시판별 분류",
       "topic": "자유공간",
       "confidence": "high"
+    },
+    {
+      "category": "과학교사 업무",
+      "topic": "교원연수",
+      "confidence": "low"
     }
-  ]
+  ],
+  "tagsNote": "1정연수(수원) 원거리 출퇴근/숙소 관련 문의.",
+  "taggedAt": "2026-08-17T05:03:26.092Z"
 }

@@ -17,6 +17,23 @@
       "category": "게시판별 분류",
       "topic": "자유공간",
       "confidence": "high"
+    },
+    {
+      "category": "과학교사 업무",
+      "topic": "학급운영",
+      "confidence": "low"
+    },
+    {
+      "category": "과학교사 업무",
+      "topic": "과학 행사",
+      "confidence": "low"
+    },
+    {
+      "category": "과학교사 업무",
+      "topic": "동아리 운영",
+      "confidence": "low"
     }
-  ]
+  ],
+  "tagsNote": "새학기 학생 관계형성/과학의날 행사/동아리 운영 노하우 공유 건의.",
+  "taggedAt": "2026-08-17T04:58:20.229Z"
 }

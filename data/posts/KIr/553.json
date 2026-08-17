@@ -17,6 +17,13 @@
       "category": "게시판별 분류",
       "topic": "자유공간",
       "confidence": "high"
+    },
+    {
+      "category": "과학교사 업무",
+      "topic": "학급운영",
+      "confidence": "low"
     }
-  ]
+  ],
+  "tagsNote": "자기주도학습에 도움되는 물건 추천 요청.",
+  "taggedAt": "2026-08-17T04:58:20.244Z"
 }

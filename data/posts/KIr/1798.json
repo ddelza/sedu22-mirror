@@ -17,6 +17,13 @@
       "category": "게시판별 분류",
       "topic": "자유공간",
       "confidence": "high"
+    },
+    {
+      "category": "과학교사 업무",
+      "topic": "학급운영",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "중1 학급 소란 문제 및 조용한 분위기 조성 방법 문의.",
+  "taggedAt": "2026-08-17T04:41:24.784Z"
 }

@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "자유공간",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "빛과 파동",
+      "confidence": "low"
     }
-  ]
+  ],
+  "tagsNote": "초고속카메라 채널 'Slow Mo Guys'(표면장력/스피커 진동 등) 소개.",
+  "taggedAt": "2026-08-17T04:54:27.948Z"
 }

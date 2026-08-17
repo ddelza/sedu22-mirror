@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "생각의 탄생(창의융합수업)",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "고등학교",
+      "subject": "지구과학Ⅰ",
+      "unit": "지구의 역사",
+      "confidence": "low"
     }
-  ]
+  ],
+  "tagsNote": "\"지구과학 가르치면서\" 화석/지층을 소재로 한 시 소개.",
+  "taggedAt": "2026-08-17T04:26:15.646Z"
 }

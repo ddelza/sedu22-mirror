@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "자유공간",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "중학교에서 고등학교로 이직 후 과학수업 현실에 대한 소감.",
+  "taggedAt": "2026-08-17T04:59:22.027Z"
 }

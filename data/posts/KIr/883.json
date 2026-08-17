@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "자유공간",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "생물의 다양성",
+      "confidence": "low"
     }
-  ]
+  ],
+  "tagsNote": "생명현상의 적응/진화 예시(곰의 몸집) 타당성 검토 요청.",
+  "taggedAt": "2026-08-17T05:04:25.454Z"
 }

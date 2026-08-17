@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "자유공간",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "고등학교",
+      "subject": "화학Ⅰ",
+      "unit": "화학 결합과 분자의 세계",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "공유결합 외 분자 형성 화학결합 개념 관련 질문.",
+  "taggedAt": "2026-08-17T05:04:25.443Z"
 }

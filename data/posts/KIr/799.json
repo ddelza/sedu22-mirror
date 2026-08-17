@@ -17,6 +17,13 @@
       "category": "게시판별 분류",
       "topic": "자유공간",
       "confidence": "high"
+    },
+    {
+      "category": "과학교사 업무",
+      "topic": "학급운영",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "고등학교 모둠수업 구성 방법 및 참여 저조 학생 대응 문의.",
+  "taggedAt": "2026-08-17T05:03:26.068Z"
 }

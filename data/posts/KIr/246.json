@@ -17,6 +17,13 @@
       "category": "게시판별 분류",
       "topic": "자유공간",
       "confidence": "high"
+    },
+    {
+      "category": "과학교사 업무",
+      "topic": "학급운영",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "선행학습으로 수업 태도가 나쁜 영재고 준비 학생 지도 방법 문의.",
+  "taggedAt": "2026-08-17T04:54:27.926Z"
 }

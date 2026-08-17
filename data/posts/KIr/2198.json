@@ -17,6 +17,13 @@
       "category": "게시판별 분류",
       "topic": "자유공간",
       "confidence": "high"
+    },
+    {
+      "category": "과학교사 업무",
+      "topic": "교원연수",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "2025 과학교사 컨퍼런스(한국과학창의재단) 개최 안내.",
+  "taggedAt": "2026-08-17T04:50:11.077Z"
 }

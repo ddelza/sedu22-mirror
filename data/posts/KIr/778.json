@@ -17,6 +17,13 @@
       "category": "게시판별 분류",
       "topic": "자유공간",
       "confidence": "high"
+    },
+    {
+      "category": "과학교사 업무",
+      "topic": "과학실 관리",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "약품출납대장, 폐수장 접근금지·라벨 양식 공유.",
+  "taggedAt": "2026-08-17T05:02:23.220Z"
 }

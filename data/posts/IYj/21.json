@@ -17,6 +17,22 @@
       "category": "게시판별 분류",
       "topic": "생각의 탄생(창의융합수업)",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "생식과 유전",
+      "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "생식과 유전",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "DNA 유전암호 해독을 소재로 한 STEAM 융합수업(응답하라 ATGC).",
+  "taggedAt": "2026-08-17T04:24:34.157Z"
 }

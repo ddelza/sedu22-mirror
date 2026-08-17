@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "자유공간",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "전기 에너지의 발생과 이용",
+      "confidence": "low"
     }
-  ]
+  ],
+  "tagsNote": "실험 원리와 화력발전 등 에너지 내용을 다룬 신간 '터치사이언스' 출간 소개.",
+  "taggedAt": "2026-08-17T05:02:23.228Z"
 }

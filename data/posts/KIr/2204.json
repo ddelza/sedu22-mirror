@@ -17,6 +17,22 @@
       "category": "게시판별 분류",
       "topic": "자유공간",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "빛과 파동",
+      "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "빛과 파동",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "빛의 삼원색·색의 삼원색(가산/감산 혼합) 이해를 돕는 시뮬레이션 제작.",
+  "taggedAt": "2026-08-17T04:50:11.080Z"
 }

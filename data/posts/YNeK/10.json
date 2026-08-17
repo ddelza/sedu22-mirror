@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "지필 평가문항 공유&오류 논의",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "고등학교",
+      "subject": "생명과학Ⅰ",
+      "unit": "항상성과 몸의 조절",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "신경계와 항상성 정기고사 문항 공유.",
+  "taggedAt": "2026-08-17T05:05:41.709Z"
 }

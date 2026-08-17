@@ -17,6 +17,13 @@
       "category": "게시판별 분류",
       "topic": "자유공간",
       "confidence": "high"
+    },
+    {
+      "category": "과학교사 업무",
+      "topic": "과학실 관리",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "시약장에 생긴 검은 가루 정체 문의.",
+  "taggedAt": "2026-08-17T05:01:24.239Z"
 }

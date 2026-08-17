@@ -17,6 +17,13 @@
       "category": "게시판별 분류",
       "topic": "자유공간",
       "confidence": "high"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "앱/프로그램",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "과학동아 등 잡지 기사 검색 유료서비스 '디라이브러리' 소개.",
+  "taggedAt": "2026-08-17T05:05:41.692Z"
 }

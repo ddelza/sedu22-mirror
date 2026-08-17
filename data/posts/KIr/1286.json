@@ -17,6 +17,13 @@
       "category": "게시판별 분류",
       "topic": "자유공간",
       "confidence": "high"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "교육용 단말기(태블릿/크롬북)",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "태블릿 미러링/관리 소프트웨어 선정 문의.",
+  "taggedAt": "2026-08-17T04:30:10.113Z"
 }

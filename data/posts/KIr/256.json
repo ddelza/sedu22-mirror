@@ -17,6 +17,13 @@
       "category": "게시판별 분류",
       "topic": "자유공간",
       "confidence": "high"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "앱/프로그램",
+      "confidence": "low"
     }
-  ]
+  ],
+  "tagsNote": "우수수업 동영상 사이트(에듀넷 등) 링크 모음 답글.",
+  "taggedAt": "2026-08-17T04:54:27.932Z"
 }

@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "자유공간",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "창의융합 모델학교 업무(3D프린터/VR 등) 관련 문의, 특정 단원 아님.",
+  "taggedAt": "2026-08-17T04:29:10.769Z"
 }

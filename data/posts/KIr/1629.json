@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "자유공간",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "영재수업 유체/베르누이 원리 및 종이비행기 활동 후기.",
+  "taggedAt": "2026-08-17T04:36:31.252Z"
 }

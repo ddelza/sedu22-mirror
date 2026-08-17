@@ -17,6 +17,22 @@
       "category": "게시판별 분류",
       "topic": "자유공간",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "전기와 자기",
+      "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "전기와 자기",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "옴의 법칙 실험 키트 직병렬 연결(전류계/전압계 바늘 반대 방향) 문제 질문.",
+  "taggedAt": "2026-08-17T04:53:31.208Z"
 }

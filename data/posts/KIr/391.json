@@ -17,6 +17,13 @@
       "category": "게시판별 분류",
       "topic": "자유공간",
       "confidence": "high"
+    },
+    {
+      "category": "과학교사 업무",
+      "topic": "교원연수",
+      "confidence": "low"
     }
-  ]
+  ],
+  "tagsNote": "정보수정 완료 및 방학 중 직무연수 예정 소감.",
+  "taggedAt": "2026-08-17T04:57:19.700Z"
 }

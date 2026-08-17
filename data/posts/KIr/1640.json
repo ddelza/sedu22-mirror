@@ -17,6 +17,22 @@
       "category": "게시판별 분류",
       "topic": "자유공간",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "빛과 파동",
+      "confidence": "low"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "빛과 파동",
+      "confidence": "low"
     }
-  ]
+  ],
+  "tagsNote": "레이저쇼프로젝터 만들기 영재수업 자료 공유.",
+  "taggedAt": "2026-08-17T04:36:31.259Z"
 }

@@ -17,6 +17,13 @@
       "category": "게시판별 분류",
       "topic": "자유공간",
       "confidence": "high"
+    },
+    {
+      "category": "과학교사 업무",
+      "topic": "학급운영",
+      "confidence": "low"
     }
-  ]
+  ],
+  "tagsNote": "개학 직후 짧은 기간용 학급 게임 활동 공유.",
+  "taggedAt": "2026-08-17T05:03:26.086Z"
 }

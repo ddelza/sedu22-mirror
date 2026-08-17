@@ -17,6 +17,13 @@
       "category": "게시판별 분류",
       "topic": "좋은 글 & 책",
       "confidence": "high"
+    },
+    {
+      "category": "과학교사 업무",
+      "topic": "과학 행사",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "\"과학책 읽고 앉아있네\" 도서관 독서 프로그램 신간 신청 공유.",
+  "taggedAt": "2026-08-17T04:19:52.652Z"
 }

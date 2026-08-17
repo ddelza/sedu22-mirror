@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "자유공간",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "태양계",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "에라토스테네스 지구 크기 측정법의 '동시' 개념에 대한 질문.",
+  "taggedAt": "2026-08-17T04:46:01.756Z"
 }

@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "지필 평가문항 공유&오류 논의",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "빛과 파동",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "파동 문제(진동수/주기/진폭) 관련 후속 지도법 공유.",
+  "taggedAt": "2026-08-17T05:06:57.382Z"
 }

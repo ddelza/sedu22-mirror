@@ -17,6 +17,20 @@
       "category": "게시판별 분류",
       "topic": "자유공간",
       "confidence": "high"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "생성형 AI 도구",
+      "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "입자의 운동",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "바이브코딩으로 만든 온도에 따른 입자 운동 3D 시뮬레이션.",
+  "taggedAt": "2026-08-17T04:51:23.983Z"
 }

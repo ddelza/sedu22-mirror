@@ -17,6 +17,20 @@
       "category": "게시판별 분류",
       "topic": "자유공간",
       "confidence": "high"
+    },
+    {
+      "category": "과학교사 업무",
+      "topic": "교원연수",
+      "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "식물과 에너지",
+      "confidence": "low"
     }
-  ]
+  ],
+  "tagsNote": "자유학기제 광합성 캘리그라피 연수 참석 후기.",
+  "taggedAt": "2026-08-17T05:02:23.226Z"
 }

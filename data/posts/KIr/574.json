@@ -17,6 +17,13 @@
       "category": "게시판별 분류",
       "topic": "자유공간",
       "confidence": "high"
+    },
+    {
+      "category": "과학교사 업무",
+      "topic": "과학실 관리",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "안전관리 체크리스트용 약품대장 작성 방법 문의.",
+  "taggedAt": "2026-08-17T04:59:22.021Z"
 }

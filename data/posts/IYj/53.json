@@ -17,6 +17,22 @@
       "category": "게시판별 분류",
       "topic": "생각의 탄생(창의융합수업)",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "파동",
+      "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "파동",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "과학-국어 융합 운문짓기 수업, 첨부파일이 '파동' 단원 활동지.",
+  "taggedAt": "2026-08-17T04:26:15.631Z"
 }

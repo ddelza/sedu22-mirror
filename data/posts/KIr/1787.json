@@ -17,6 +17,22 @@
       "category": "게시판별 분류",
       "topic": "자유공간",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "자극과 반응",
+      "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "자극과 반응",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "미각/후각(감각기관) 수업 도입 실험 팁 요청.",
+  "taggedAt": "2026-08-17T04:41:24.774Z"
 }

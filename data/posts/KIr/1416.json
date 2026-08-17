@@ -17,6 +17,22 @@
       "category": "게시판별 분류",
       "topic": "자유공간",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "기권과 날씨",
+      "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "날씨와 기후변화",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "지구온난화 수업용 환경영상 활용 활동 아이디어 요청.",
+  "taggedAt": "2026-08-17T04:32:08.415Z"
 }

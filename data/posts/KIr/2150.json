@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "자유공간",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "경기도 중학교 수행평가 비율 확대 공문 관련 문의.",
+  "taggedAt": "2026-08-17T04:49:06.835Z"
 }

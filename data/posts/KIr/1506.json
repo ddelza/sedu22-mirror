@@ -17,6 +17,22 @@
       "category": "게시판별 분류",
       "topic": "자유공간",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "전기와 자기",
+      "confidence": "low"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "전기와 자기",
+      "confidence": "low"
     }
-  ]
+  ],
+  "tagsNote": "옴의 법칙 실험용 디지털 전원장치 사용 경험 문의.",
+  "taggedAt": "2026-08-17T04:33:04.926Z"
 }

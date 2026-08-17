@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "자유공간",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "고등학교 '융합과학' 수업자료 문의, 교육과정 목록에 없는 선택과목.",
+  "taggedAt": "2026-08-17T04:44:49.606Z"
 }

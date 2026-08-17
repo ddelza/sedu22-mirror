@@ -17,6 +17,13 @@
       "category": "게시판별 분류",
       "topic": "자유공간",
       "confidence": "high"
+    },
+    {
+      "category": "과학교사 업무",
+      "topic": "교원연수",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "IBM TTS 창의적 과학수업 교사연수 안내.",
+  "taggedAt": "2026-08-17T04:58:20.233Z"
 }

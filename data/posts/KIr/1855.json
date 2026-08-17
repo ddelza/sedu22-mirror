@@ -17,6 +17,13 @@
       "category": "게시판별 분류",
       "topic": "자유공간",
       "confidence": "high"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "메이커/3D프린팅",
+      "confidence": "low"
     }
-  ]
+  ],
+  "tagsNote": "전도성 실을 활용한 전자공작 아트 영상 공유.",
+  "taggedAt": "2026-08-17T04:42:34.841Z"
 }

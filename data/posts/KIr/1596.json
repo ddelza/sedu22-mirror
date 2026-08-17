@@ -17,6 +17,13 @@
       "category": "게시판별 분류",
       "topic": "자유공간",
       "confidence": "high"
+    },
+    {
+      "category": "과학교사 업무",
+      "topic": "과학 행사",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "과학의 달 행사 일정 변경 가능 여부 문의.",
+  "taggedAt": "2026-08-17T04:35:21.407Z"
 }

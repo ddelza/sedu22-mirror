@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "자유공간",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "지권의 변화",
+      "confidence": "low"
     }
-  ]
+  ],
+  "tagsNote": "'산의 이용' 관련 자료 파일 공유.",
+  "taggedAt": "2026-08-17T05:02:23.223Z"
 }

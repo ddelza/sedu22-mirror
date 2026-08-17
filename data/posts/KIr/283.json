@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "자유공간",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "성취도평가 등급(A/B/C) 반올림 기준에 대한 소감.",
+  "taggedAt": "2026-08-17T04:54:27.947Z"
 }

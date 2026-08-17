@@ -17,6 +17,20 @@
       "category": "게시판별 분류",
       "topic": "자유공간",
       "confidence": "high"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "앱/프로그램",
+      "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "고등학교",
+      "subject": "화학Ⅰ",
+      "unit": "화학 결합과 분자의 세계",
+      "confidence": "low"
     }
-  ]
+  ],
+  "tagsNote": "루이스 전자점식 작도 프로그램(BKChem) 소개 답글.",
+  "taggedAt": "2026-08-17T05:02:23.214Z"
 }

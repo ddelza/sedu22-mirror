@@ -17,6 +17,13 @@
       "category": "게시판별 분류",
       "topic": "자유공간",
       "confidence": "high"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "앱/프로그램",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "디지털교과서 사용 후기 및 장단점 문의.",
+  "taggedAt": "2026-08-17T04:37:24.550Z"
 }

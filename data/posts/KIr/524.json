@@ -17,6 +17,13 @@
       "category": "게시판별 분류",
       "topic": "자유공간",
       "confidence": "high"
+    },
+    {
+      "category": "과학교사 업무",
+      "topic": "학급운영",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "신문지/폐휴지를 활용한 새학기 자기소개 활동 소개.",
+  "taggedAt": "2026-08-17T04:58:20.236Z"
 }

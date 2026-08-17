@@ -17,6 +17,13 @@
       "category": "게시판별 분류",
       "topic": "자유공간",
       "confidence": "high"
+    },
+    {
+      "category": "과학교사 업무",
+      "topic": "과학실 관리",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "과학실 개선 공사 후 쌍안/디지털 현미경 추천 요청.",
+  "taggedAt": "2026-08-17T05:02:23.231Z"
 }

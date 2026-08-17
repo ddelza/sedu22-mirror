@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "자유공간",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "전기와 자기",
+      "confidence": "low"
     }
-  ]
+  ],
+  "tagsNote": "탄소매트 전자파 발생 여부에 대한 전류/전자기 관련 질문.",
+  "taggedAt": "2026-08-17T04:42:34.852Z"
 }

@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "자유공간",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "화학 반응의 규칙과 에너지 변화",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "메테인 연소 반응이 화학반응 종류(화합/분해/치환/복분해) 중 무엇인지 질문.",
+  "taggedAt": "2026-08-17T05:02:23.215Z"
 }

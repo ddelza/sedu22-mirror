@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "자유공간",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "식물과 에너지",
+      "confidence": "low"
     }
-  ]
+  ],
+  "tagsNote": "콩나물 키우기를 소재로 한 스승의 날 개인 에세이.",
+  "taggedAt": "2026-08-17T04:53:31.213Z"
 }

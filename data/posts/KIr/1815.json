@@ -17,6 +17,13 @@
       "category": "게시판별 분류",
       "topic": "자유공간",
       "confidence": "high"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "생성형 AI 도구",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "ChatGPT로 학생활동 분석/생기부 작성 연수 홍보.",
+  "taggedAt": "2026-08-17T04:41:24.795Z"
 }

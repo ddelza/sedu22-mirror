@@ -17,6 +17,13 @@
       "category": "게시판별 분류",
       "topic": "자유공간",
       "confidence": "high"
+    },
+    {
+      "category": "과학교사 업무",
+      "topic": "과학실 관리",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "수질오염측정키트(DO/BOD) 시약 성분 및 폐기 문의.",
+  "taggedAt": "2026-08-17T04:36:31.273Z"
 }

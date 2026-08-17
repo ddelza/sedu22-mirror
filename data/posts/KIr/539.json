@@ -17,6 +17,13 @@
       "category": "게시판별 분류",
       "topic": "자유공간",
       "confidence": "high"
+    },
+    {
+      "category": "과학교사 업무",
+      "topic": "과학실 관리",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "감사 대비 실험실습일지/소모품대장 작성 필요 여부 문의.",
+  "taggedAt": "2026-08-17T04:58:20.241Z"
 }

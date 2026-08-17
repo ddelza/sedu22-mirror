@@ -17,6 +17,13 @@
       "category": "게시판별 분류",
       "topic": "자유공간",
       "confidence": "high"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "앱/프로그램",
+      "confidence": "low"
     }
-  ]
+  ],
+  "tagsNote": "카카오팟 전환 이후 동영상 다운로드 방법 문의.",
+  "taggedAt": "2026-08-17T05:04:25.462Z"
 }

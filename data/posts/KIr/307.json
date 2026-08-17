@@ -17,6 +17,13 @@
       "category": "게시판별 분류",
       "topic": "자유공간",
       "confidence": "high"
+    },
+    {
+      "category": "수업 방법론",
+      "topic": "배움중심수업",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "배움중심 수업지도안 작성 지시와 교장의 질책에 대한 고충 토로.",
+  "taggedAt": "2026-08-17T04:55:24.007Z"
 }

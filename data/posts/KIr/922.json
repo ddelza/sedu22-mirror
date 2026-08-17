@@ -17,6 +17,13 @@
       "category": "게시판별 분류",
       "topic": "자유공간",
       "confidence": "high"
+    },
+    {
+      "category": "과학교사 업무",
+      "topic": "과학실 관리",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "액체질소(용가리 과자) 오남용 안전사고 뉴스 공유 및 주의 환기.",
+  "taggedAt": "2026-08-17T05:04:25.464Z"
 }

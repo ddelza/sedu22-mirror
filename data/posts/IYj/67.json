@@ -17,6 +17,22 @@
       "category": "게시판별 분류",
       "topic": "생각의 탄생(창의융합수업)",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "파동",
+      "confidence": "low"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "파동",
+      "confidence": "low"
     }
-  ]
+  ],
+  "tagsNote": "음악+과학 융합 발명품(멜로디/박자 원리) 소개.",
+  "taggedAt": "2026-08-17T04:26:15.643Z"
 }

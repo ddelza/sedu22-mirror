@@ -17,6 +17,13 @@
       "category": "게시판별 분류",
       "topic": "자유공간",
       "confidence": "high"
+    },
+    {
+      "category": "과학교사 업무",
+      "topic": "과학실 관리",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "노후 과학실 교구/약품 폐기 기준 및 점검 준비 문의.",
+  "taggedAt": "2026-08-17T05:05:41.693Z"
 }

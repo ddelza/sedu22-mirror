@@ -17,6 +17,18 @@
       "category": "게시판별 분류",
       "topic": "자유공간",
       "confidence": "high"
+    },
+    {
+      "category": "과학교사 업무",
+      "topic": "과학 행사",
+      "confidence": "low"
+    },
+    {
+      "category": "과학교사 업무",
+      "topic": "동아리 운영",
+      "confidence": "low"
     }
-  ]
+  ],
+  "tagsNote": "용산 과학동아 천문대(해바라기/별바라기 프로그램) 소개.",
+  "taggedAt": "2026-08-17T04:55:24.007Z"
 }

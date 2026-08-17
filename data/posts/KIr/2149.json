@@ -17,6 +17,13 @@
       "category": "게시판별 분류",
       "topic": "자유공간",
       "confidence": "high"
+    },
+    {
+      "category": "과학교사 업무",
+      "topic": "교원연수",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "경남과학교사 대상 행사(발제/부스운영) 안내.",
+  "taggedAt": "2026-08-17T04:49:06.834Z"
 }

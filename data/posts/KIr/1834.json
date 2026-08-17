@@ -17,6 +17,20 @@
       "category": "게시판별 분류",
       "topic": "자유공간",
       "confidence": "high"
+    },
+    {
+      "category": "과학교사 업무",
+      "topic": "과학 행사",
+      "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "지권의 변화",
+      "confidence": "low"
     }
-  ]
+  ],
+  "tagsNote": "기상청 주최 전국 중학생 지진·화산 퀴즈대회 홍보.",
+  "taggedAt": "2026-08-17T04:42:34.831Z"
 }

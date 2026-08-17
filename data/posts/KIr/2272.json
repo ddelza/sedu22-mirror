@@ -17,6 +17,13 @@
       "category": "게시판별 분류",
       "topic": "자유공간",
       "confidence": "high"
+    },
+    {
+      "category": "과학교사 업무",
+      "topic": "교원연수",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "신규 생물교사의 중1·2 교과서 분석/수업아이디어 공유 스터디 모집.",
+  "taggedAt": "2026-08-17T04:52:30.343Z"
 }

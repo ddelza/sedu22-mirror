@@ -17,6 +17,13 @@
       "category": "게시판별 분류",
       "topic": "자유공간",
       "confidence": "high"
+    },
+    {
+      "category": "과학교사 업무",
+      "topic": "과학실 관리",
+      "confidence": "low"
     }
-  ]
+  ],
+  "tagsNote": "에듀파인 지출품의서 정리/보관 팁.",
+  "taggedAt": "2026-08-17T04:34:07.102Z"
 }

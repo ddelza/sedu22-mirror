@@ -17,6 +17,13 @@
       "category": "게시판별 분류",
       "topic": "생각의 탄생(창의융합수업)",
       "confidence": "high"
+    },
+    {
+      "category": "과학교사 업무",
+      "topic": "동아리 운영",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "생명과학 동아리 개인탐구 - 노벨생리의학상 수상자 조사 발표 활동.",
+  "taggedAt": "2026-08-17T04:24:34.144Z"
 }

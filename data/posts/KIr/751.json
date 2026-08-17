@@ -17,6 +17,18 @@
       "category": "게시판별 분류",
       "topic": "자유공간",
       "confidence": "high"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "앱/프로그램",
+      "confidence": "low"
+    },
+    {
+      "category": "수업 방법론",
+      "topic": "거꾸로 교실",
+      "confidence": "low"
     }
-  ]
+  ],
+  "tagsNote": "거꾸로수업 디딤영상 시청을 위한 무선공유기/데이터 문제 해결 방법 문의.",
+  "taggedAt": "2026-08-17T05:02:23.207Z"
 }

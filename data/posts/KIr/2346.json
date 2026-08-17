@@ -17,6 +17,13 @@
       "category": "게시판별 분류",
       "topic": "자유공간",
       "confidence": "high"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "MBL센서",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "고등부 센서 가이드북 제작 진행 소식.",
+  "taggedAt": "2026-08-17T04:52:30.367Z"
 }

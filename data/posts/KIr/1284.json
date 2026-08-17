@@ -17,6 +17,22 @@
       "category": "게시판별 분류",
       "topic": "자유공간",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "동물과 에너지",
+      "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "동물과 에너지",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "혈액형판정 실험 팁 및 심장 근육운동 원리 질문.",
+  "taggedAt": "2026-08-17T04:29:10.791Z"
 }

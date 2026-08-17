@@ -17,6 +17,22 @@
       "category": "게시판별 분류",
       "topic": "좋은 글 & 책",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "생물의 다양성",
+      "confidence": "low"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "생물의 구성과 다양성",
+      "confidence": "low"
     }
-  ]
+  ],
+  "tagsNote": "외래종(나일퍼치)으로 인한 생태계 파괴 사례 기사 공유(#생물다양성 #생태계 해시태그).",
+  "taggedAt": "2026-08-17T04:19:52.639Z"
 }

@@ -17,6 +17,13 @@
       "category": "게시판별 분류",
       "topic": "자유공간",
       "confidence": "high"
+    },
+    {
+      "category": "과학교사 업무",
+      "topic": "과학실 관리",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "에어로켓 구입 요령 및 주의사항 문의.",
+  "taggedAt": "2026-08-17T05:01:24.255Z"
 }

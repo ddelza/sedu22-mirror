@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "자유공간",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "태양계",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "학교에서 촬영한 태양 흑점 및 초승달 관측 사진 공유.",
+  "taggedAt": "2026-08-17T04:46:01.755Z"
 }

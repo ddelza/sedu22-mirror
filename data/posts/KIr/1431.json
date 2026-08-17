@@ -17,6 +17,13 @@
       "category": "게시판별 분류",
       "topic": "자유공간",
       "confidence": "high"
+    },
+    {
+      "category": "과학교사 업무",
+      "topic": "과학실 관리",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "창의융합형 과학실 리모델링 구성 관련 조언 요청.",
+  "taggedAt": "2026-08-17T04:32:08.422Z"
 }

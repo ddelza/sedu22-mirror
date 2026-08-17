@@ -17,6 +17,13 @@
       "category": "게시판별 분류",
       "topic": "자유공간",
       "confidence": "high"
+    },
+    {
+      "category": "과학교사 업무",
+      "topic": "동아리 운영",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "과학동아리 예산 사용시 교구/소모품 구분 기준 문의.",
+  "taggedAt": "2026-08-17T04:31:06.365Z"
 }

@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "지필 평가문항 공유&오류 논의",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "혼합물의 분리",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "혈구/혈장 분리(밀도차 vs 크로마토그래피) 문항 이의제기 검토.",
+  "taggedAt": "2026-08-17T05:06:57.375Z"
 }

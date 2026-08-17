@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "자유공간",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "물질의 구성",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "양자역학 100주년 기념 유튜브 영상(원자/원소/불꽃반응/스펙트럼 수업 활용 가능) 소개.",
+  "taggedAt": "2026-08-17T04:51:23.998Z"
 }

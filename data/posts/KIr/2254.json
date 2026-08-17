@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "자유공간",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "고등학교",
+      "subject": "지구과학Ⅰ",
+      "unit": "별과 우주",
+      "confidence": "low"
     }
-  ]
+  ],
+  "tagsNote": "ISS 국제우주정거장의 달 통과 촬영 및 합성 후기.",
+  "taggedAt": "2026-08-17T04:51:23.996Z"
 }

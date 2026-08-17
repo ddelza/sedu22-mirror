@@ -17,6 +17,13 @@
       "category": "게시판별 분류",
       "topic": "지필 평가문항 공유&오류 논의",
       "confidence": "high"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "앱/프로그램",
+      "confidence": "low"
     }
-  ]
+  ],
+  "tagsNote": "시험문제용 단원별 그림 자료 제공 사이트(vivasam) 소개.",
+  "taggedAt": "2026-08-17T05:06:57.378Z"
 }

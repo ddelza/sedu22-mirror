@@ -17,6 +17,13 @@
       "category": "게시판별 분류",
       "topic": "자유공간",
       "confidence": "high"
+    },
+    {
+      "category": "과학교사 업무",
+      "topic": "과학 행사",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "영재학급 여름방학 과학체험/캠프 장소 추천 요청.",
+  "taggedAt": "2026-08-17T04:58:20.240Z"
 }

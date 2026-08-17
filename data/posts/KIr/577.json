@@ -17,6 +17,13 @@
       "category": "게시판별 분류",
       "topic": "자유공간",
       "confidence": "high"
+    },
+    {
+      "category": "과학교사 업무",
+      "topic": "동아리 운영",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "중학교 과학동아리 프로그램(천문/분자요리/독서토론/실험) 추천 요청.",
+  "taggedAt": "2026-08-17T04:59:22.022Z"
 }

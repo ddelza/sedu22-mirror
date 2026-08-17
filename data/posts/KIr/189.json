@@ -17,6 +17,13 @@
       "category": "게시판별 분류",
       "topic": "자유공간",
       "confidence": "high"
+    },
+    {
+      "category": "수업 방법론",
+      "topic": "배움중심수업",
+      "confidence": "low"
     }
-  ]
+  ],
+  "tagsNote": "혁신학교 발령 후 배움중심수업 적응에 대한 고민 토로.",
+  "taggedAt": "2026-08-17T04:43:41.503Z"
 }

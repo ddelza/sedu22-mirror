@@ -17,6 +17,13 @@
       "category": "게시판별 분류",
       "topic": "자유공간",
       "confidence": "high"
+    },
+    {
+      "category": "과학교사 업무",
+      "topic": "과학실 관리",
+      "confidence": "medium"
     }
-  ]
+  ],
+  "tagsNote": "S2B 나라장터를 통한 물품구매 절차 문의.",
+  "taggedAt": "2026-08-17T04:38:25.152Z"
 }

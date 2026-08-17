@@ -17,6 +17,15 @@
       "category": "게시판별 분류",
       "topic": "자유공간",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": null,
+      "schoolLevel": null,
+      "subject": null,
+      "unit": "미분류",
+      "confidence": "high"
     }
-  ]
+  ],
+  "tagsNote": "경기도 중학교 학업성적관리 시행지침(논술 반영) 답글.",
+  "taggedAt": "2026-08-17T04:49:06.826Z"
 }
