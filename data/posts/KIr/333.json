@@ -19,13 +19,11 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
+      "category": "재과만 소식",
+      "topic": "카페 운영 공지",
       "confidence": "high"
     }
   ],
-  "tagsNote": "실명제 전환 및 회원 등급 조정 공지(운영).",
-  "taggedAt": "2026-08-17T04:56:20.437Z"
+  "tagsNote": "실명제 전환 및 회원 등급 조정 공지.",
+  "taggedAt": "2026-08-17T10:29:06.197Z"
 }

@@ -19,13 +19,11 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
-      "confidence": "high"
+      "category": "과학교사 업무",
+      "topic": "영재교육",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "기간제교사 영재수업 담당 자격 관련 행정 고민.",
-  "taggedAt": "2026-08-17T04:28:12.230Z"
+  "tagsNote": "기간제교사의 영재수업 담당 자격 관련 행정 고민.",
+  "taggedAt": "2026-08-17T06:00:37.348Z"
 }

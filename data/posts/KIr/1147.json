@@ -19,13 +19,11 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
-      "confidence": "high"
+      "category": "재과만 소식",
+      "topic": "가입인사",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "카페 등업 문의.",
-  "taggedAt": "2026-08-17T04:27:06.140Z"
+  "tagsNote": "정회원 등업 진행 문의.",
+  "taggedAt": "2026-08-17T05:59:55.024Z"
 }

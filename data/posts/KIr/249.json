@@ -19,13 +19,11 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
+      "category": "재과만 소식",
+      "topic": "카페 운영 공지",
       "confidence": "high"
     }
   ],
   "tagsNote": "우수회원 및 카페 운영자 권한 부여 축하 공지.",
-  "taggedAt": "2026-08-17T04:54:27.928Z"
+  "taggedAt": "2026-08-17T10:28:25.470Z"
 }

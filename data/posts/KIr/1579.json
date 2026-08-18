@@ -19,13 +19,13 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
-      "confidence": "high"
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "태양계",
+      "confidence": "low"
     }
   ],
-  "tagsNote": "아르테미스 프로젝트 이름등록 이벤트 소개.",
-  "taggedAt": "2026-08-17T04:35:21.398Z"
+  "tagsNote": "NASA 아르테미스 프로젝트 이름 등록 이벤트, 수업 활용 제안.",
+  "taggedAt": "2026-08-17T05:23:22.332Z"
 }

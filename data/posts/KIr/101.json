@@ -19,13 +19,11 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
+      "category": "재과만 소식",
+      "topic": "가입인사",
       "confidence": "high"
     }
   ],
-  "tagsNote": "전근 축하 인사.",
-  "taggedAt": "2026-08-17T04:26:15.659Z"
+  "tagsNote": "전근/카페 발전 축하 인사.",
+  "taggedAt": "2026-08-17T05:59:55.009Z"
 }

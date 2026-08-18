@@ -19,13 +19,11 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
+      "category": "재과만 소식",
+      "topic": "카페 운영 공지",
       "confidence": "high"
     }
   ],
-  "tagsNote": "올해의 과학교사상 수상 축하.",
-  "taggedAt": "2026-08-17T04:51:23.993Z"
+  "tagsNote": "재과만 회원 올해의 과학교사상 수상 축하.",
+  "taggedAt": "2026-08-17T10:27:53.414Z"
 }

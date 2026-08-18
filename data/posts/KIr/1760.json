@@ -19,13 +19,13 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
-      "confidence": "high"
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "여러 가지 힘",
+      "confidence": "low"
     }
   ],
-  "tagsNote": "느림보구슬 타공판 실험 재료 문의.",
-  "taggedAt": "2026-08-17T04:38:25.158Z"
+  "tagsNote": "느림보구슬(마찰/경사) 활동용 타공판 재료 문의.",
+  "taggedAt": "2026-08-17T05:24:21.665Z"
 }

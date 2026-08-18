@@ -19,13 +19,11 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
+      "category": "재과만 소식",
+      "topic": "가입인사",
       "confidence": "high"
     }
   ],
   "tagsNote": "가입 인사.",
-  "taggedAt": "2026-08-17T04:44:49.624Z"
+  "taggedAt": "2026-08-17T06:04:01.008Z"
 }

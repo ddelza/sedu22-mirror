@@ -19,13 +19,11 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
-      "confidence": "high"
+      "category": "재과만 소식",
+      "topic": "카페 운영 공지",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "과학교사 커뮤니티 연구 설문 협조 요청.",
-  "taggedAt": "2026-08-17T04:37:24.530Z"
+  "tagsNote": "한국교원대 등 공동연구의 과학교사커뮤니티 설문 협조 요청.",
+  "taggedAt": "2026-08-17T06:02:49.479Z"
 }

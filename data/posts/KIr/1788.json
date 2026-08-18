@@ -19,13 +19,11 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
-      "confidence": "high"
+      "category": "스마트 수업도구",
+      "topic": "앱/프로그램",
+      "confidence": "low"
     }
   ],
-  "tagsNote": "전자칠판 제품 추천 요청, 특정 스마트도구 항목과 매칭 안됨.",
-  "taggedAt": "2026-08-17T04:41:24.776Z"
+  "tagsNote": "전자칠판 제품 추천 요청.",
+  "taggedAt": "2026-08-17T05:24:45.518Z"
 }

@@ -19,13 +19,11 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
+      "category": "재과만 소식",
+      "topic": "카페 운영 공지",
       "confidence": "high"
     }
   ],
-  "tagsNote": "교육목적 저작물이용 관련 저작권법 해설 및 회원정보 수정 안내(운영).",
-  "taggedAt": "2026-08-17T04:56:20.449Z"
+  "tagsNote": "교육목적 저작물이용 관련 안내 및 회원정보 수정 요청.",
+  "taggedAt": "2026-08-17T23:38:16.372Z"
 }

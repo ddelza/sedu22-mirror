@@ -19,13 +19,11 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
-      "confidence": "high"
+      "category": "수업 방법론",
+      "topic": "거꾸로 교실",
+      "confidence": "low"
     }
   ],
-  "tagsNote": "과학철학 교양서 소개, 거꾸로교실 연수 소감.",
-  "taggedAt": "2026-08-17T04:23:16.380Z"
+  "tagsNote": "에듀니티 거꾸로교실 연수를 들으며 과학철학 도서와 연결지어 소감을 적은 글.",
+  "taggedAt": "2026-08-17T05:34:06.743Z"
 }

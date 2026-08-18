@@ -19,13 +19,11 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
+      "category": "과학교사 업무",
+      "topic": "영재교육",
       "confidence": "medium"
     }
   ],
-  "tagsNote": "영재수업 유체/베르누이 원리 및 종이비행기 활동 후기.",
-  "taggedAt": "2026-08-17T04:36:31.252Z"
+  "tagsNote": "영재학급 유체/베르누이 원리 수업 및 종이비행기 활동 후기.",
+  "taggedAt": "2026-08-17T06:02:18.623Z"
 }

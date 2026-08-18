@@ -19,13 +19,11 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
+      "category": "재과만 소식",
+      "topic": "카페 운영 공지",
       "confidence": "high"
     }
   ],
-  "tagsNote": "카페 대문글, 교사 특성.",
-  "taggedAt": "2026-08-17T04:22:13.437Z"
+  "tagsNote": "카페 대문글(유능한 교사의 핵심 특성).",
+  "taggedAt": "2026-08-17T23:49:03.039Z"
 }

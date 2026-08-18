@@ -19,13 +19,11 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
-      "confidence": "high"
+      "category": "과학교사 업무",
+      "topic": "과학 행사",
+      "confidence": "low"
     }
   ],
-  "tagsNote": "UCLA 연구실의 말라리아 진단 자원봉사(중학생 대상) 모집 공고 문의.",
-  "taggedAt": "2026-08-17T04:57:19.707Z"
+  "tagsNote": "UCLA 연구실 말라리아 진단 훈련 프로그램(중학생 대상 과학 체험/봉사활동) 자원봉사자 모집 공고.",
+  "taggedAt": "2026-08-17T05:30:33.059Z"
 }

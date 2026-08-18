@@ -19,13 +19,11 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
-      "confidence": "high"
+      "category": "스마트 수업도구",
+      "topic": "앱/프로그램",
+      "confidence": "low"
     }
   ],
-  "tagsNote": "학교 온라인수업 플랫폼(팀즈) 선택에 대한 소감 및 문의.",
-  "taggedAt": "2026-08-17T04:30:10.130Z"
+  "tagsNote": "온라인 수업 플랫폼(MS Teams) 선정 관련 논의.",
+  "taggedAt": "2026-08-17T05:22:04.014Z"
 }

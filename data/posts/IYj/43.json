@@ -19,13 +19,13 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
-      "confidence": "high"
+      "curriculumYear": "2022",
+      "schoolLevel": "고등학교",
+      "subject": "세포와 물질대사",
+      "unit": "세포",
+      "confidence": "low"
     }
   ],
-  "tagsNote": "영재교육용 세포 발견 교수학습 자료, 특정 교육과정 단원과 매칭 어려움.",
-  "taggedAt": "2026-08-17T04:24:34.165Z"
+  "tagsNote": "영재교육용 세포 발견 교수학습 자료(한국교육개발원, 2004).",
+  "taggedAt": "2026-08-17T05:35:11.164Z"
 }

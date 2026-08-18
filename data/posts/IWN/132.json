@@ -19,13 +19,11 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
+      "category": "재과만 소식",
+      "topic": "카페 운영 공지",
       "confidence": "high"
     }
   ],
-  "tagsNote": "카페 커뮤니티 소개 글.",
-  "taggedAt": "2026-08-17T04:19:52.633Z"
+  "tagsNote": "재과만 커뮤니티가 경기도융합과학교육원 웹진에 소개됨.",
+  "taggedAt": "2026-08-17T23:41:21.330Z"
 }

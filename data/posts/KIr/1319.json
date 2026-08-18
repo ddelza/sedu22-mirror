@@ -19,13 +19,11 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
-      "confidence": "high"
+      "category": "재과만 소식",
+      "topic": "카페 운영 공지",
+      "confidence": "low"
     }
   ],
-  "tagsNote": "랜섬웨어 감염 경험 공유.",
-  "taggedAt": "2026-08-17T04:30:10.126Z"
+  "tagsNote": "회원 사이트 자료 다운로드 중 랜섬웨어 감염 경험 및 점검 요청(카페 보안 이슈).",
+  "taggedAt": "2026-08-17T06:01:07.070Z"
 }

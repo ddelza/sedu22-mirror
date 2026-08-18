@@ -19,13 +19,11 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
-      "confidence": "high"
+      "category": "스마트 수업도구",
+      "topic": "앱/프로그램",
+      "confidence": "low"
     }
   ],
-  "tagsNote": "학생 건강 자가진단 확인 앱 소개.",
-  "taggedAt": "2026-08-17T04:31:06.360Z"
+  "tagsNote": "담임용 학생 건강 자가진단 확인 안드로이드 앱 소개.",
+  "taggedAt": "2026-08-17T05:22:04.018Z"
 }

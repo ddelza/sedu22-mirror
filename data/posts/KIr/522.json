@@ -19,13 +19,11 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
-      "confidence": "high"
+      "category": "재과만 소식",
+      "topic": "가입인사",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "지방 전출 인사.",
-  "taggedAt": "2026-08-17T04:58:20.235Z"
+  "tagsNote": "지방 전출 계기 인사.",
+  "taggedAt": "2026-08-17T23:38:53.025Z"
 }

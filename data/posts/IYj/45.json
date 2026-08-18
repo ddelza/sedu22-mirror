@@ -19,13 +19,11 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
-      "confidence": "high"
+      "category": "과학교사 업무",
+      "topic": "교원연수",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "문화예술교육 연수 발표 공유.",
-  "taggedAt": "2026-08-17T04:24:34.166Z"
+  "tagsNote": "문화예술교육 교원역량강화 연수 발표 원고 및 동영상 공유.",
+  "taggedAt": "2026-08-17T05:35:11.167Z"
 }

@@ -19,13 +19,11 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
-      "confidence": "high"
+      "category": "재과만 소식",
+      "topic": "가입인사",
+      "confidence": "medium"
     }
   ],
   "tagsNote": "자료 이용 감사 인사.",
-  "taggedAt": "2026-08-17T04:58:20.242Z"
+  "taggedAt": "2026-08-17T23:38:53.030Z"
 }

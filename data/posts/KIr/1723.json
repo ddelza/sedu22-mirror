@@ -19,13 +19,11 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
-      "confidence": "high"
+      "category": "과학교사 업무",
+      "topic": "영재교육",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "단위학교 영재학급 선발 기출문제 문의.",
-  "taggedAt": "2026-08-17T04:37:24.547Z"
+  "tagsNote": "단위학교 영재학급 선발 기출문제/자료 문의.",
+  "taggedAt": "2026-08-17T06:02:49.484Z"
 }

@@ -19,13 +19,11 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
-      "confidence": "high"
+      "category": "스마트 수업도구",
+      "topic": "앱/프로그램",
+      "confidence": "low"
     }
   ],
-  "tagsNote": "생물 유튜브 채널 소개 및 콘텐츠 아이디어 요청.",
-  "taggedAt": "2026-08-17T04:29:10.781Z"
+  "tagsNote": "생명과학 콘텐츠 유튜브 채널 '수상한생선' 소개 및 수업용 영상 아이디어 요청.",
+  "taggedAt": "2026-08-17T05:21:28.081Z"
 }

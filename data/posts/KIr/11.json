@@ -19,13 +19,11 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
+      "category": "재과만 소식",
+      "topic": "가입인사",
       "confidence": "high"
     }
   ],
   "tagsNote": "카페 개설 감사 인사.",
-  "taggedAt": "2026-08-17T04:27:06.130Z"
+  "taggedAt": "2026-08-17T05:59:55.018Z"
 }

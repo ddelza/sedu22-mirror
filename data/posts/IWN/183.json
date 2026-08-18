@@ -19,13 +19,11 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
-      "confidence": "high"
+      "category": "재과만 소식",
+      "topic": "카페 운영 공지",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "커뮤니티 정신에 관한 에세이.",
-  "taggedAt": "2026-08-17T04:21:11.615Z"
+  "tagsNote": "재과만 정신(1만 7천명) 소개 에세이.",
+  "taggedAt": "2026-08-17T23:46:11.621Z"
 }

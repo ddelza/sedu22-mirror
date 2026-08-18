@@ -19,13 +19,11 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
-      "confidence": "high"
+      "category": "재과만 소식",
+      "topic": "가입인사",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "사이트 개편 소감.",
-  "taggedAt": "2026-08-17T04:27:06.126Z"
+  "tagsNote": "사이트 개편(리뉴얼) 반응 및 등급 관련 소감.",
+  "taggedAt": "2026-08-17T05:59:55.015Z"
 }

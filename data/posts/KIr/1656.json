@@ -19,13 +19,11 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
-      "confidence": "high"
+      "category": "과학교사 업무",
+      "topic": "과학 행사",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "올해의 과학교사상 공모 안내.",
-  "taggedAt": "2026-08-17T04:36:31.264Z"
+  "tagsNote": "'올해의 과학교사상' 공모 안내.",
+  "taggedAt": "2026-08-17T05:23:59.571Z"
 }

@@ -19,13 +19,11 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
-      "confidence": "high"
+      "category": "재과만 소식",
+      "topic": "가입인사",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "음악교사 자기소개.",
-  "taggedAt": "2026-08-17T04:26:15.635Z"
+  "tagsNote": "처음 인사드리는 자기소개 글.",
+  "taggedAt": "2026-08-17T23:50:58.165Z"
 }

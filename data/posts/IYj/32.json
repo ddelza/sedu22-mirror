@@ -19,13 +19,11 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
+      "category": "과학교사 업무",
+      "topic": "영재교육",
       "confidence": "high"
     }
   ],
-  "tagsNote": "적정기술 디자인씽킹 영재수업, 특정 단원 아님.",
-  "taggedAt": "2026-08-17T04:24:34.161Z"
+  "tagsNote": "영재수업 사례 자료 공유.",
+  "taggedAt": "2026-08-17T23:50:16.103Z"
 }

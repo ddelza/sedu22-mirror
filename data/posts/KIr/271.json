@@ -19,13 +19,11 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
-      "confidence": "high"
+      "category": "재과만 소식",
+      "topic": "가입인사",
+      "confidence": "medium"
     }
   ],
   "tagsNote": "게시판 말머리 정리 감사 인사.",
-  "taggedAt": "2026-08-17T04:54:27.943Z"
+  "taggedAt": "2026-08-17T10:29:06.180Z"
 }

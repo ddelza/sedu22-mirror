@@ -19,13 +19,11 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
-      "confidence": "high"
+      "category": "과학교사 업무",
+      "topic": "영재교육",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "동화 속 수학 퍼즐 활동, 특정 과학 단원 아님.",
-  "taggedAt": "2026-08-17T04:24:34.150Z"
+  "tagsNote": "영재원 수업에 적용한 자료 공유.",
+  "taggedAt": "2026-08-17T23:50:16.096Z"
 }

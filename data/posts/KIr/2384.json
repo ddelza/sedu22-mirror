@@ -19,13 +19,11 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
-      "confidence": "high"
+      "category": "과학교사 업무",
+      "topic": "과학 행사",
+      "confidence": "low"
     }
   ],
-  "tagsNote": "올해의 과학교사상 수상 축하(본문 없음).",
-  "taggedAt": "2026-08-17T04:53:31.216Z"
+  "tagsNote": "올해의 과학교사상 수상 축하 게시글(본문 없음, 제목만으로 판단).",
+  "taggedAt": "2026-08-17T05:29:10.803Z"
 }

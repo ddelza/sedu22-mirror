@@ -19,13 +19,11 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
-      "confidence": "high"
+      "category": "재과만 소식",
+      "topic": "카페 운영 공지",
+      "confidence": "low"
     }
   ],
-  "tagsNote": "계정 스팸 규제 메일 공유.",
-  "taggedAt": "2026-08-17T04:29:10.784Z"
+  "tagsNote": "Daum 클린센터의 스팸 규제 메일 공유(카페 보안 이슈).",
+  "taggedAt": "2026-08-17T06:00:37.358Z"
 }

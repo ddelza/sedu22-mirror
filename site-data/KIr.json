@@ -117,11 +117,9 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
-        "confidence": "high"
+        "category": "과학교사 업무",
+        "topic": "과학 행사",
+        "confidence": "low"
       }
     ]
   },
@@ -458,10 +456,8 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
+        "category": "재과만 소식",
+        "topic": "카페 운영 공지",
         "confidence": "high"
       }
     ]
@@ -951,11 +947,9 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
-        "confidence": "high"
+        "category": "재과만 소식",
+        "topic": "카페 운영 공지",
+        "confidence": "medium"
       }
     ]
   },
@@ -1055,11 +1049,9 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
-        "confidence": "high"
+        "category": "스마트 수업도구",
+        "topic": "앱/프로그램",
+        "confidence": "low"
       }
     ]
   },
@@ -1133,11 +1125,9 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
-        "confidence": "high"
+        "category": "과학교사 업무",
+        "topic": "영재교육",
+        "confidence": "medium"
       }
     ]
   },
@@ -2165,10 +2155,8 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
+        "category": "재과만 소식",
+        "topic": "카페 운영 공지",
         "confidence": "high"
       }
     ]
@@ -5846,11 +5834,9 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
-        "confidence": "high"
+        "category": "재과만 소식",
+        "topic": "카페 운영 공지",
+        "confidence": "low"
       }
     ]
   },
@@ -6522,11 +6508,9 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
-        "confidence": "high"
+        "category": "재과만 소식",
+        "topic": "카페 운영 공지",
+        "confidence": "low"
       }
     ]
   },
@@ -7457,11 +7441,9 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
-        "confidence": "high"
+        "category": "과학교사 업무",
+        "topic": "영재교육",
+        "confidence": "medium"
       }
     ]
   },
@@ -10080,11 +10062,9 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
-        "confidence": "high"
+        "category": "과학교사 업무",
+        "topic": "과학 행사",
+        "confidence": "medium"
       }
     ]
   },
@@ -10665,11 +10645,9 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
-        "confidence": "high"
+        "category": "과학교사 업무",
+        "topic": "과학 행사",
+        "confidence": "low"
       }
     ]
   },
@@ -10783,11 +10761,9 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
-        "confidence": "high"
+        "category": "스마트 수업도구",
+        "topic": "앱/프로그램",
+        "confidence": "low"
       }
     ]
   },
@@ -10932,11 +10908,9 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
-        "confidence": "high"
+        "category": "재과만 소식",
+        "topic": "카페 운영 공지",
+        "confidence": "low"
       }
     ]
   },
@@ -11300,11 +11274,11 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
-        "confidence": "high"
+        "curriculumYear": "2015",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "여러 가지 힘",
+        "confidence": "low"
       }
     ]
   },
@@ -11704,10 +11678,8 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
+        "category": "재과만 소식",
+        "topic": "가입인사",
         "confidence": "high"
       }
     ]
@@ -11988,11 +11960,9 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
-        "confidence": "high"
+        "category": "과학교사 업무",
+        "topic": "영재교육",
+        "confidence": "medium"
       }
     ]
   },
@@ -12310,10 +12280,8 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
+        "category": "재과만 소식",
+        "topic": "카페 운영 공지",
         "confidence": "high"
       }
     ]
@@ -12601,11 +12569,9 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
-        "confidence": "high"
+        "category": "재과만 소식",
+        "topic": "카페 운영 공지",
+        "confidence": "medium"
       }
     ]
   },
@@ -12908,11 +12874,9 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
-        "confidence": "high"
+        "category": "재과만 소식",
+        "topic": "카페 운영 공지",
+        "confidence": "medium"
       }
     ]
   },
@@ -13010,10 +12974,8 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
+        "category": "재과만 소식",
+        "topic": "카페 운영 공지",
         "confidence": "high"
       }
     ]
@@ -13062,11 +13024,9 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
-        "confidence": "high"
+        "category": "과학교사 업무",
+        "topic": "과학 행사",
+        "confidence": "medium"
       }
     ]
   },
@@ -13474,10 +13434,8 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
+        "category": "과학교사 업무",
+        "topic": "영재교육",
         "confidence": "medium"
       }
     ]
@@ -13650,11 +13608,9 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
-        "confidence": "high"
+        "category": "과학교사 업무",
+        "topic": "과학 행사",
+        "confidence": "low"
       }
     ]
   },
@@ -13676,11 +13632,9 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
-        "confidence": "high"
+        "category": "스마트 수업도구",
+        "topic": "앱/프로그램",
+        "confidence": "low"
       }
     ]
   },
@@ -13879,11 +13833,9 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
-        "confidence": "high"
+        "category": "과학교사 업무",
+        "topic": "과학 행사",
+        "confidence": "medium"
       }
     ]
   },
@@ -13929,11 +13881,9 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
-        "confidence": "high"
+        "category": "과학교사 업무",
+        "topic": "동아리 운영",
+        "confidence": "medium"
       }
     ]
   },
@@ -14079,11 +14029,9 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
-        "confidence": "high"
+        "category": "재과만 소식",
+        "topic": "가입인사",
+        "confidence": "medium"
       }
     ]
   },
@@ -14482,11 +14430,11 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
-        "confidence": "high"
+        "curriculumYear": "2015",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "태양계",
+        "confidence": "low"
       }
     ]
   },
@@ -14657,11 +14605,9 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
-        "confidence": "high"
+        "category": "스마트 수업도구",
+        "topic": "앱/프로그램",
+        "confidence": "low"
       }
     ]
   },
@@ -14993,11 +14939,9 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
-        "confidence": "high"
+        "category": "과학교사 업무",
+        "topic": "과학 행사",
+        "confidence": "low"
       }
     ]
   },
@@ -15397,11 +15341,9 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
-        "confidence": "high"
+        "category": "재과만 소식",
+        "topic": "가입인사",
+        "confidence": "medium"
       }
     ]
   },
@@ -15561,11 +15503,11 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
-        "confidence": "high"
+        "curriculumYear": "2015",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "과학기술과 인류 문명",
+        "confidence": "low"
       }
     ]
   },
@@ -15753,11 +15695,9 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
-        "confidence": "high"
+        "category": "과학교사 업무",
+        "topic": "영재교육",
+        "confidence": "low"
       }
     ]
   },
@@ -15827,11 +15767,9 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
-        "confidence": "high"
+        "category": "재과만 소식",
+        "topic": "카페 운영 공지",
+        "confidence": "low"
       }
     ]
   },
@@ -16291,11 +16229,16 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
-        "confidence": "high"
+        "category": "과학교사 업무",
+        "topic": "교원연수",
+        "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2015",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "생물의 다양성",
+        "confidence": "low"
       }
     ]
   },
@@ -16959,11 +16902,9 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
-        "confidence": "high"
+        "category": "과학교사 업무",
+        "topic": "학급운영",
+        "confidence": "low"
       }
     ]
   },
@@ -17109,11 +17050,11 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
-        "confidence": "high"
+        "curriculumYear": "2015",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "생식과 유전",
+        "confidence": "low"
       }
     ]
   },
@@ -17818,11 +17759,9 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
-        "confidence": "high"
+        "category": "스마트 수업도구",
+        "topic": "앱/프로그램",
+        "confidence": "low"
       }
     ]
   },
@@ -17870,11 +17809,9 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
-        "confidence": "high"
+        "category": "재과만 소식",
+        "topic": "카페 운영 공지",
+        "confidence": "low"
       }
     ]
   },
@@ -17972,11 +17909,9 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
-        "confidence": "high"
+        "category": "재과만 소식",
+        "topic": "카페 운영 공지",
+        "confidence": "low"
       }
     ]
   },
@@ -18172,11 +18107,9 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
-        "confidence": "high"
+        "category": "스마트 수업도구",
+        "topic": "앱/프로그램",
+        "confidence": "low"
       }
     ]
   },
@@ -18326,11 +18259,9 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
-        "confidence": "high"
+        "category": "재과만 소식",
+        "topic": "카페 운영 공지",
+        "confidence": "low"
       }
     ]
   },
@@ -18912,10 +18843,8 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
+        "category": "재과만 소식",
+        "topic": "카페 운영 공지",
         "confidence": "high"
       }
     ]
@@ -19062,11 +18991,9 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
-        "confidence": "high"
+        "category": "재과만 소식",
+        "topic": "카페 운영 공지",
+        "confidence": "low"
       }
     ]
   },
@@ -19088,11 +19015,9 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
-        "confidence": "high"
+        "category": "재과만 소식",
+        "topic": "카페 운영 공지",
+        "confidence": "low"
       }
     ]
   },
@@ -19114,11 +19039,9 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
-        "confidence": "high"
+        "category": "스마트 수업도구",
+        "topic": "앱/프로그램",
+        "confidence": "low"
       }
     ]
   },
@@ -19326,11 +19249,9 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
-        "confidence": "high"
+        "category": "재과만 소식",
+        "topic": "카페 운영 공지",
+        "confidence": "low"
       }
     ]
   },
@@ -19588,11 +19509,14 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
-        "confidence": "high"
+        "category": "스마트 수업도구",
+        "topic": "메이커/3D프린팅",
+        "confidence": "medium"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "AR/VR",
+        "confidence": "medium"
       }
     ]
   },
@@ -19614,10 +19538,8 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
+        "category": "재과만 소식",
+        "topic": "카페 운영 공지",
         "confidence": "high"
       }
     ]
@@ -19640,11 +19562,9 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
-        "confidence": "high"
+        "category": "과학교사 업무",
+        "topic": "학급운영",
+        "confidence": "low"
       }
     ]
   },
@@ -19692,11 +19612,9 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
-        "confidence": "high"
+        "category": "재과만 소식",
+        "topic": "카페 운영 공지",
+        "confidence": "low"
       }
     ]
   },
@@ -19822,11 +19740,9 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
-        "confidence": "high"
+        "category": "스마트 수업도구",
+        "topic": "앱/프로그램",
+        "confidence": "low"
       }
     ]
   },
@@ -20261,11 +20177,9 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
-        "confidence": "high"
+        "category": "과학교사 업무",
+        "topic": "영재교육",
+        "confidence": "medium"
       }
     ]
   },
@@ -20461,11 +20375,9 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
-        "confidence": "high"
+        "category": "과학교사 업무",
+        "topic": "교원연수",
+        "confidence": "medium"
       }
     ]
   },
@@ -20487,11 +20399,9 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
-        "confidence": "high"
+        "category": "재과만 소식",
+        "topic": "카페 운영 공지",
+        "confidence": "medium"
       }
     ]
   },
@@ -20668,10 +20578,8 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
+        "category": "재과만 소식",
+        "topic": "가입인사",
         "confidence": "high"
       }
     ]
@@ -20744,11 +20652,9 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
-        "confidence": "high"
+        "category": "재과만 소식",
+        "topic": "가입인사",
+        "confidence": "medium"
       }
     ]
   },
@@ -20796,10 +20702,8 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
+        "category": "재과만 소식",
+        "topic": "가입인사",
         "confidence": "high"
       }
     ]
@@ -20946,10 +20850,8 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
+        "category": "재과만 소식",
+        "topic": "가입인사",
         "confidence": "high"
       }
     ]
@@ -21181,11 +21083,9 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
-        "confidence": "high"
+        "category": "재과만 소식",
+        "topic": "카페 운영 공지",
+        "confidence": "low"
       }
     ]
   },
@@ -21207,11 +21107,9 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
-        "confidence": "high"
+        "category": "과학교사 업무",
+        "topic": "교원연수",
+        "confidence": "low"
       }
     ]
   },
@@ -21233,10 +21131,8 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
+        "category": "재과만 소식",
+        "topic": "카페 운영 공지",
         "confidence": "high"
       }
     ]
@@ -21535,10 +21431,8 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
+        "category": "재과만 소식",
+        "topic": "카페 운영 공지",
         "confidence": "high"
       }
     ]
@@ -21561,10 +21455,8 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
+        "category": "재과만 소식",
+        "topic": "가입인사",
         "confidence": "high"
       }
     ]
@@ -22039,11 +21931,9 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
-        "confidence": "high"
+        "category": "재과만 소식",
+        "topic": "가입인사",
+        "confidence": "medium"
       }
     ]
   },
@@ -22113,10 +22003,8 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
+        "category": "재과만 소식",
+        "topic": "가입인사",
         "confidence": "high"
       }
     ]
@@ -22265,10 +22153,8 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
+        "category": "재과만 소식",
+        "topic": "가입인사",
         "confidence": "high"
       }
     ]
@@ -22291,10 +22177,8 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
+        "category": "재과만 소식",
+        "topic": "가입인사",
         "confidence": "high"
       }
     ]
@@ -22391,10 +22275,8 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
+        "category": "재과만 소식",
+        "topic": "가입인사",
         "confidence": "high"
       }
     ]
@@ -22417,10 +22299,8 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
+        "category": "재과만 소식",
+        "topic": "가입인사",
         "confidence": "high"
       }
     ]
@@ -22443,10 +22323,8 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
+        "category": "재과만 소식",
+        "topic": "가입인사",
         "confidence": "high"
       }
     ]
@@ -22493,10 +22371,8 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
+        "category": "재과만 소식",
+        "topic": "가입인사",
         "confidence": "high"
       }
     ]
@@ -22519,11 +22395,9 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
-        "confidence": "high"
+        "category": "재과만 소식",
+        "topic": "가입인사",
+        "confidence": "medium"
       }
     ]
   },
@@ -22545,10 +22419,8 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
+        "category": "재과만 소식",
+        "topic": "가입인사",
         "confidence": "high"
       }
     ]
@@ -22571,11 +22443,9 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
-        "confidence": "high"
+        "category": "과학교사 업무",
+        "topic": "영재교육",
+        "confidence": "medium"
       }
     ]
   },
@@ -22695,11 +22565,9 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
-        "confidence": "high"
+        "category": "재과만 소식",
+        "topic": "가입인사",
+        "confidence": "medium"
       }
     ]
   },
@@ -22721,10 +22589,8 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
+        "category": "재과만 소식",
+        "topic": "가입인사",
         "confidence": "high"
       }
     ]
@@ -22923,11 +22789,9 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
-        "confidence": "high"
+        "category": "재과만 소식",
+        "topic": "가입인사",
+        "confidence": "medium"
       }
     ]
   },
@@ -22975,10 +22839,8 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
+        "category": "재과만 소식",
+        "topic": "가입인사",
         "confidence": "high"
       }
     ]
@@ -23125,10 +22987,8 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
+        "category": "재과만 소식",
+        "topic": "가입인사",
         "confidence": "high"
       }
     ]
@@ -23203,11 +23063,9 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
-        "confidence": "high"
+        "category": "재과만 소식",
+        "topic": "가입인사",
+        "confidence": "medium"
       }
     ]
   },
@@ -23427,10 +23285,8 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
+        "category": "재과만 소식",
+        "topic": "가입인사",
         "confidence": "high"
       }
     ]
@@ -23453,10 +23309,8 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
+        "category": "재과만 소식",
+        "topic": "가입인사",
         "confidence": "high"
       }
     ]
@@ -23479,10 +23333,8 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
+        "category": "재과만 소식",
+        "topic": "가입인사",
         "confidence": "high"
       }
     ]
@@ -23605,10 +23457,8 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
+        "category": "재과만 소식",
+        "topic": "가입인사",
         "confidence": "high"
       }
     ]
@@ -23631,10 +23481,8 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
+        "category": "재과만 소식",
+        "topic": "가입인사",
         "confidence": "high"
       }
     ]
@@ -23683,10 +23531,8 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
+        "category": "재과만 소식",
+        "topic": "가입인사",
         "confidence": "high"
       }
     ]
@@ -24145,10 +23991,8 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
+        "category": "재과만 소식",
+        "topic": "가입인사",
         "confidence": "high"
       }
     ]
@@ -24197,10 +24041,8 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
+        "category": "재과만 소식",
+        "topic": "가입인사",
         "confidence": "high"
       }
     ]
@@ -24400,10 +24242,8 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
+        "category": "재과만 소식",
+        "topic": "가입인사",
         "confidence": "high"
       }
     ]
@@ -24524,11 +24364,9 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
-        "confidence": "high"
+        "category": "재과만 소식",
+        "topic": "가입인사",
+        "confidence": "medium"
       }
     ]
   },
@@ -24550,10 +24388,8 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
+        "category": "재과만 소식",
+        "topic": "가입인사",
         "confidence": "high"
       }
     ]
@@ -24600,10 +24436,8 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
+        "category": "재과만 소식",
+        "topic": "가입인사",
         "confidence": "high"
       }
     ]
@@ -24676,11 +24510,9 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
-        "confidence": "high"
+        "category": "수업 방법론",
+        "topic": "토론수업",
+        "confidence": "medium"
       }
     ]
   },
@@ -24702,10 +24534,8 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
+        "category": "재과만 소식",
+        "topic": "가입인사",
         "confidence": "high"
       }
     ]
@@ -25356,10 +25186,8 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
+        "category": "재과만 소식",
+        "topic": "가입인사",
         "confidence": "high"
       }
     ]
@@ -25430,10 +25258,8 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
+        "category": "재과만 소식",
+        "topic": "가입인사",
         "confidence": "high"
       }
     ]
@@ -25513,11 +25339,9 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
-        "confidence": "high"
+        "category": "과학교사 업무",
+        "topic": "영재교육",
+        "confidence": "medium"
       }
     ]
   },
@@ -25617,10 +25441,8 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
+        "category": "재과만 소식",
+        "topic": "가입인사",
         "confidence": "high"
       }
     ]
@@ -25669,11 +25491,9 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
-        "confidence": "high"
+        "category": "재과만 소식",
+        "topic": "가입인사",
+        "confidence": "medium"
       }
     ]
   },
@@ -25769,10 +25589,8 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
+        "category": "재과만 소식",
+        "topic": "가입인사",
         "confidence": "high"
       }
     ]
@@ -25971,10 +25789,8 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
+        "category": "재과만 소식",
+        "topic": "가입인사",
         "confidence": "high"
       }
     ]
@@ -26099,10 +25915,8 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
+        "category": "재과만 소식",
+        "topic": "가입인사",
         "confidence": "high"
       }
     ]
@@ -26347,10 +26161,8 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
+        "category": "재과만 소식",
+        "topic": "가입인사",
         "confidence": "high"
       }
     ]
@@ -26373,10 +26185,8 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
+        "category": "재과만 소식",
+        "topic": "가입인사",
         "confidence": "high"
       }
     ]
@@ -26399,10 +26209,8 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
+        "category": "재과만 소식",
+        "topic": "카페 운영 공지",
         "confidence": "high"
       }
     ]
@@ -26506,11 +26314,18 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
-        "confidence": "high"
+        "curriculumYear": "2015",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "동물과 에너지",
+        "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "동물과 에너지",
+        "confidence": "medium"
       }
     ]
   },
@@ -26613,10 +26428,8 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
+        "category": "재과만 소식",
+        "topic": "가입인사",
         "confidence": "high"
       }
     ]
@@ -26639,11 +26452,9 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
-        "confidence": "high"
+        "category": "재과만 소식",
+        "topic": "가입인사",
+        "confidence": "medium"
       }
     ]
   },
@@ -26665,10 +26476,8 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
+        "category": "재과만 소식",
+        "topic": "가입인사",
         "confidence": "high"
       }
     ]
@@ -26765,11 +26574,9 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
-        "confidence": "high"
+        "category": "재과만 소식",
+        "topic": "가입인사",
+        "confidence": "medium"
       }
     ]
   },
@@ -27022,11 +26829,9 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
-        "confidence": "high"
+        "category": "재과만 소식",
+        "topic": "가입인사",
+        "confidence": "medium"
       }
     ]
   },
@@ -27346,11 +27151,9 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
-        "confidence": "high"
+        "category": "재과만 소식",
+        "topic": "가입인사",
+        "confidence": "medium"
       }
     ]
   },
@@ -27372,11 +27175,9 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
-        "confidence": "high"
+        "category": "재과만 소식",
+        "topic": "가입인사",
+        "confidence": "medium"
       }
     ]
   },
@@ -27398,10 +27199,8 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
+        "category": "재과만 소식",
+        "topic": "가입인사",
         "confidence": "high"
       }
     ]
@@ -27424,10 +27223,8 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
+        "category": "재과만 소식",
+        "topic": "가입인사",
         "confidence": "high"
       }
     ]
@@ -27450,10 +27247,8 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
+        "category": "재과만 소식",
+        "topic": "가입인사",
         "confidence": "high"
       }
     ]
@@ -27500,10 +27295,8 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
+        "category": "재과만 소식",
+        "topic": "가입인사",
         "confidence": "high"
       }
     ]
@@ -27550,10 +27343,8 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
+        "category": "재과만 소식",
+        "topic": "카페 운영 공지",
         "confidence": "high"
       }
     ]
@@ -27867,11 +27658,9 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
-        "confidence": "high"
+        "category": "과학교사 업무",
+        "topic": "과학 행사",
+        "confidence": "low"
       }
     ]
   },
@@ -28193,10 +27982,8 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
+        "category": "재과만 소식",
+        "topic": "카페 운영 공지",
         "confidence": "high"
       }
     ]
@@ -28391,10 +28178,8 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
+        "category": "재과만 소식",
+        "topic": "가입인사",
         "confidence": "high"
       }
     ]
@@ -28467,10 +28252,8 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
+        "category": "재과만 소식",
+        "topic": "가입인사",
         "confidence": "high"
       }
     ]
@@ -28493,10 +28276,8 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
+        "category": "재과만 소식",
+        "topic": "가입인사",
         "confidence": "high"
       }
     ]
@@ -28569,11 +28350,9 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
-        "confidence": "high"
+        "category": "재과만 소식",
+        "topic": "가입인사",
+        "confidence": "medium"
       }
     ]
   },
@@ -28671,11 +28450,9 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
-        "confidence": "high"
+        "category": "재과만 소식",
+        "topic": "가입인사",
+        "confidence": "low"
       }
     ]
   },
@@ -28993,10 +28770,8 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
+        "category": "재과만 소식",
+        "topic": "카페 운영 공지",
         "confidence": "high"
       }
     ]
@@ -29019,11 +28794,9 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
-        "confidence": "high"
+        "category": "재과만 소식",
+        "topic": "카페 운영 공지",
+        "confidence": "low"
       }
     ]
   },
@@ -29093,11 +28866,9 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
-        "confidence": "high"
+        "category": "과학교사 업무",
+        "topic": "영재교육",
+        "confidence": "medium"
       }
     ]
   },
@@ -29119,11 +28890,9 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
-        "confidence": "high"
+        "category": "과학교사 업무",
+        "topic": "영재교육",
+        "confidence": "medium"
       }
     ]
   },
@@ -29145,11 +28914,9 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
-        "confidence": "high"
+        "category": "과학교사 업무",
+        "topic": "영재교육",
+        "confidence": "medium"
       }
     ]
   },
@@ -29249,11 +29016,9 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
-        "confidence": "high"
+        "category": "재과만 소식",
+        "topic": "가입인사",
+        "confidence": "medium"
       }
     ]
   },
@@ -29275,11 +29040,9 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
-        "confidence": "high"
+        "category": "재과만 소식",
+        "topic": "가입인사",
+        "confidence": "medium"
       }
     ]
   },
@@ -29301,11 +29064,9 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
-        "confidence": "high"
+        "category": "재과만 소식",
+        "topic": "가입인사",
+        "confidence": "medium"
       }
     ]
   },
@@ -29405,10 +29166,8 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
+        "category": "재과만 소식",
+        "topic": "카페 운영 공지",
         "confidence": "high"
       }
     ]
@@ -29483,11 +29242,9 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
-        "confidence": "high"
+        "category": "재과만 소식",
+        "topic": "카페 운영 공지",
+        "confidence": "low"
       }
     ]
   },
@@ -29637,11 +29394,9 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
-        "confidence": "high"
+        "category": "재과만 소식",
+        "topic": "가입인사",
+        "confidence": "low"
       }
     ]
   },
@@ -29663,11 +29418,9 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
-        "confidence": "high"
+        "category": "재과만 소식",
+        "topic": "카페 운영 공지",
+        "confidence": "low"
       }
     ]
   },
@@ -29739,11 +29492,9 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
-        "confidence": "high"
+        "category": "재과만 소식",
+        "topic": "가입인사",
+        "confidence": "medium"
       }
     ]
   },
@@ -29916,11 +29667,9 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
-        "confidence": "high"
+        "category": "재과만 소식",
+        "topic": "가입인사",
+        "confidence": "medium"
       }
     ]
   },
@@ -30092,11 +29841,9 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
-        "confidence": "high"
+        "category": "재과만 소식",
+        "topic": "가입인사",
+        "confidence": "medium"
       }
     ]
   },
@@ -30118,11 +29865,9 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
-        "confidence": "high"
+        "category": "재과만 소식",
+        "topic": "가입인사",
+        "confidence": "medium"
       }
     ]
   },
@@ -30144,10 +29889,8 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
+        "category": "재과만 소식",
+        "topic": "가입인사",
         "confidence": "high"
       }
     ]
@@ -30170,10 +29913,8 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
+        "category": "재과만 소식",
+        "topic": "가입인사",
         "confidence": "high"
       }
     ]
@@ -30196,10 +29937,8 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
+        "category": "재과만 소식",
+        "topic": "가입인사",
         "confidence": "high"
       }
     ]
@@ -30222,11 +29961,9 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
-        "confidence": "high"
+        "category": "재과만 소식",
+        "topic": "가입인사",
+        "confidence": "medium"
       }
     ]
   },
@@ -30248,10 +29985,8 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
+        "category": "재과만 소식",
+        "topic": "가입인사",
         "confidence": "high"
       }
     ]
@@ -30274,10 +30009,8 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
+        "category": "재과만 소식",
+        "topic": "가입인사",
         "confidence": "high"
       }
     ]
@@ -30566,11 +30299,9 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
-        "confidence": "high"
+        "category": "재과만 소식",
+        "topic": "가입인사",
+        "confidence": "medium"
       }
     ]
   },
@@ -30592,11 +30323,9 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
-        "confidence": "high"
+        "category": "재과만 소식",
+        "topic": "가입인사",
+        "confidence": "medium"
       }
     ]
   },
@@ -30618,11 +30347,9 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
-        "confidence": "high"
+        "category": "재과만 소식",
+        "topic": "가입인사",
+        "confidence": "medium"
       }
     ]
   },
@@ -30670,10 +30397,8 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
+        "category": "재과만 소식",
+        "topic": "가입인사",
         "confidence": "high"
       }
     ]
@@ -30696,11 +30421,9 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
-        "confidence": "high"
+        "category": "재과만 소식",
+        "topic": "가입인사",
+        "confidence": "medium"
       }
     ]
   },
@@ -30748,11 +30471,9 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
-        "confidence": "high"
+        "category": "재과만 소식",
+        "topic": "가입인사",
+        "confidence": "medium"
       }
     ]
   },
@@ -30774,10 +30495,8 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
+        "category": "재과만 소식",
+        "topic": "가입인사",
         "confidence": "high"
       }
     ]
@@ -30800,10 +30519,8 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
+        "category": "재과만 소식",
+        "topic": "가입인사",
         "confidence": "high"
       }
     ]
@@ -30850,11 +30567,9 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
-        "confidence": "high"
+        "category": "재과만 소식",
+        "topic": "가입인사",
+        "confidence": "medium"
       }
     ]
   },
@@ -30876,11 +30591,9 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
-        "confidence": "high"
+        "category": "재과만 소식",
+        "topic": "가입인사",
+        "confidence": "medium"
       }
     ]
   },
@@ -30902,10 +30615,8 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
+        "category": "재과만 소식",
+        "topic": "가입인사",
         "confidence": "high"
       }
     ]
@@ -31054,10 +30765,8 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
+        "category": "재과만 소식",
+        "topic": "가입인사",
         "confidence": "high"
       }
     ]
@@ -31104,10 +30813,8 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
+        "category": "재과만 소식",
+        "topic": "카페 운영 공지",
         "confidence": "high"
       }
     ]
@@ -31154,10 +30861,8 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
+        "category": "재과만 소식",
+        "topic": "가입인사",
         "confidence": "high"
       }
     ]
@@ -31204,10 +30909,8 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
+        "category": "재과만 소식",
+        "topic": "가입인사",
         "confidence": "high"
       }
     ]
@@ -31230,11 +30933,9 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
-        "confidence": "high"
+        "category": "재과만 소식",
+        "topic": "가입인사",
+        "confidence": "medium"
       }
     ]
   },
@@ -31282,10 +30983,8 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
+        "category": "재과만 소식",
+        "topic": "가입인사",
         "confidence": "high"
       }
     ]
@@ -31382,10 +31081,8 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
+        "category": "재과만 소식",
+        "topic": "가입인사",
         "confidence": "high"
       }
     ]
@@ -31408,10 +31105,8 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
+        "category": "재과만 소식",
+        "topic": "가입인사",
         "confidence": "high"
       }
     ]
@@ -31434,11 +31129,9 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
-        "confidence": "high"
+        "category": "재과만 소식",
+        "topic": "가입인사",
+        "confidence": "medium"
       }
     ]
   },
@@ -31512,10 +31205,8 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
+        "category": "재과만 소식",
+        "topic": "카페 운영 공지",
         "confidence": "high"
       }
     ]
@@ -31538,10 +31229,8 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
+        "category": "재과만 소식",
+        "topic": "가입인사",
         "confidence": "high"
       }
     ]
@@ -31564,10 +31253,8 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
+        "category": "재과만 소식",
+        "topic": "가입인사",
         "confidence": "high"
       }
     ]
@@ -31614,10 +31301,8 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
+        "category": "재과만 소식",
+        "topic": "가입인사",
         "confidence": "high"
       }
     ]
@@ -31666,10 +31351,8 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
+        "category": "재과만 소식",
+        "topic": "가입인사",
         "confidence": "high"
       }
     ]
@@ -31751,10 +31434,8 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
+        "category": "재과만 소식",
+        "topic": "가입인사",
         "confidence": "high"
       }
     ]
@@ -31829,10 +31510,8 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
+        "category": "재과만 소식",
+        "topic": "가입인사",
         "confidence": "high"
       }
     ]
@@ -31855,10 +31534,8 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
+        "category": "재과만 소식",
+        "topic": "가입인사",
         "confidence": "high"
       }
     ]
@@ -31905,11 +31582,9 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
-        "confidence": "high"
+        "category": "재과만 소식",
+        "topic": "가입인사",
+        "confidence": "medium"
       }
     ]
   },
@@ -31981,11 +31656,9 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
-        "confidence": "high"
+        "category": "재과만 소식",
+        "topic": "가입인사",
+        "confidence": "medium"
       }
     ]
   },
@@ -32007,10 +31680,8 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
+        "category": "재과만 소식",
+        "topic": "가입인사",
         "confidence": "high"
       }
     ]
@@ -32033,10 +31704,8 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
+        "category": "재과만 소식",
+        "topic": "가입인사",
         "confidence": "high"
       }
     ]
@@ -32059,10 +31728,8 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
+        "category": "재과만 소식",
+        "topic": "카페 운영 공지",
         "confidence": "high"
       }
     ]
@@ -32085,11 +31752,9 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
-        "confidence": "high"
+        "category": "재과만 소식",
+        "topic": "가입인사",
+        "confidence": "medium"
       }
     ]
   },
@@ -32111,10 +31776,8 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
+        "category": "재과만 소식",
+        "topic": "가입인사",
         "confidence": "high"
       }
     ]
@@ -32137,10 +31800,8 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
+        "category": "재과만 소식",
+        "topic": "가입인사",
         "confidence": "high"
       }
     ]
@@ -32163,10 +31824,8 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
+        "category": "재과만 소식",
+        "topic": "가입인사",
         "confidence": "high"
       }
     ]
@@ -32189,10 +31848,8 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
+        "category": "재과만 소식",
+        "topic": "가입인사",
         "confidence": "high"
       }
     ]
@@ -32215,10 +31872,8 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
+        "category": "재과만 소식",
+        "topic": "가입인사",
         "confidence": "high"
       }
     ]
@@ -32241,10 +31896,8 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
+        "category": "재과만 소식",
+        "topic": "가입인사",
         "confidence": "high"
       }
     ]
@@ -32291,11 +31944,9 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
-        "confidence": "high"
+        "category": "재과만 소식",
+        "topic": "가입인사",
+        "confidence": "medium"
       }
     ]
   },
@@ -32317,11 +31968,9 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
-        "confidence": "high"
+        "category": "재과만 소식",
+        "topic": "가입인사",
+        "confidence": "medium"
       }
     ]
   },
@@ -32369,10 +32018,8 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
+        "category": "재과만 소식",
+        "topic": "가입인사",
         "confidence": "high"
       }
     ]
@@ -32395,11 +32042,9 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
-        "confidence": "high"
+        "category": "재과만 소식",
+        "topic": "가입인사",
+        "confidence": "medium"
       }
     ]
   },
@@ -32421,10 +32066,8 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
+        "category": "재과만 소식",
+        "topic": "가입인사",
         "confidence": "high"
       }
     ]
@@ -32447,10 +32090,8 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
+        "category": "재과만 소식",
+        "topic": "가입인사",
         "confidence": "high"
       }
     ]
@@ -32497,10 +32138,8 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
+        "category": "재과만 소식",
+        "topic": "카페 운영 공지",
         "confidence": "high"
       }
     ]
@@ -32523,11 +32162,9 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
-        "confidence": "high"
+        "category": "재과만 소식",
+        "topic": "가입인사",
+        "confidence": "medium"
       }
     ]
   },
@@ -32549,10 +32186,8 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
+        "category": "재과만 소식",
+        "topic": "가입인사",
         "confidence": "high"
       }
     ]
@@ -32601,10 +32236,8 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
+        "category": "재과만 소식",
+        "topic": "가입인사",
         "confidence": "high"
       }
     ]
@@ -32627,10 +32260,8 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
+        "category": "재과만 소식",
+        "topic": "가입인사",
         "confidence": "high"
       }
     ]
@@ -32653,11 +32284,9 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
-        "confidence": "high"
+        "category": "재과만 소식",
+        "topic": "가입인사",
+        "confidence": "medium"
       }
     ]
   },
@@ -32679,11 +32308,9 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
-        "confidence": "high"
+        "category": "재과만 소식",
+        "topic": "가입인사",
+        "confidence": "medium"
       }
     ]
   },
@@ -32705,10 +32332,8 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
+        "category": "재과만 소식",
+        "topic": "가입인사",
         "confidence": "high"
       }
     ]
@@ -32731,10 +32356,8 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
+        "category": "재과만 소식",
+        "topic": "가입인사",
         "confidence": "high"
       }
     ]
@@ -32757,10 +32380,8 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
+        "category": "재과만 소식",
+        "topic": "가입인사",
         "confidence": "high"
       }
     ]
@@ -32783,10 +32404,8 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
+        "category": "재과만 소식",
+        "topic": "가입인사",
         "confidence": "high"
       }
     ]
@@ -32809,10 +32428,8 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
+        "category": "재과만 소식",
+        "topic": "카페 운영 공지",
         "confidence": "high"
       }
     ]
@@ -32835,10 +32452,8 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
+        "category": "재과만 소식",
+        "topic": "가입인사",
         "confidence": "high"
       }
     ]
@@ -32861,10 +32476,8 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
+        "category": "재과만 소식",
+        "topic": "가입인사",
         "confidence": "high"
       }
     ]
@@ -32887,10 +32500,8 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
+        "category": "재과만 소식",
+        "topic": "가입인사",
         "confidence": "high"
       }
     ]
@@ -32913,10 +32524,8 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
+        "category": "재과만 소식",
+        "topic": "가입인사",
         "confidence": "high"
       }
     ]
@@ -32939,10 +32548,8 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
+        "category": "재과만 소식",
+        "topic": "가입인사",
         "confidence": "high"
       }
     ]
@@ -32991,10 +32598,8 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
+        "category": "재과만 소식",
+        "topic": "가입인사",
         "confidence": "high"
       }
     ]
@@ -33017,10 +32622,8 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
+        "category": "재과만 소식",
+        "topic": "가입인사",
         "confidence": "high"
       }
     ]
@@ -33043,10 +32646,8 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
+        "category": "재과만 소식",
+        "topic": "가입인사",
         "confidence": "high"
       }
     ]
@@ -33069,10 +32670,8 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
+        "category": "재과만 소식",
+        "topic": "가입인사",
         "confidence": "high"
       }
     ]
@@ -33095,10 +32694,8 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
+        "category": "재과만 소식",
+        "topic": "가입인사",
         "confidence": "high"
       }
     ]
@@ -33145,10 +32742,8 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
+        "category": "재과만 소식",
+        "topic": "가입인사",
         "confidence": "high"
       }
     ]
@@ -33171,10 +32766,8 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
+        "category": "재과만 소식",
+        "topic": "가입인사",
         "confidence": "high"
       }
     ]
@@ -33197,10 +32790,8 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
+        "category": "재과만 소식",
+        "topic": "가입인사",
         "confidence": "high"
       }
     ]
@@ -33223,10 +32814,8 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
+        "category": "재과만 소식",
+        "topic": "가입인사",
         "confidence": "high"
       }
     ]
@@ -33249,10 +32838,8 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
+        "category": "재과만 소식",
+        "topic": "가입인사",
         "confidence": "high"
       }
     ]
@@ -33275,10 +32862,8 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
+        "category": "재과만 소식",
+        "topic": "가입인사",
         "confidence": "high"
       }
     ]
@@ -33301,10 +32886,8 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
+        "category": "재과만 소식",
+        "topic": "가입인사",
         "confidence": "high"
       }
     ]
@@ -33327,10 +32910,8 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
+        "category": "재과만 소식",
+        "topic": "가입인사",
         "confidence": "high"
       }
     ]
@@ -33353,10 +32934,8 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
+        "category": "재과만 소식",
+        "topic": "가입인사",
         "confidence": "high"
       }
     ]
@@ -33379,10 +32958,8 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
+        "category": "재과만 소식",
+        "topic": "가입인사",
         "confidence": "high"
       }
     ]
@@ -33405,10 +32982,8 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
+        "category": "재과만 소식",
+        "topic": "가입인사",
         "confidence": "high"
       }
     ]
@@ -33431,11 +33006,9 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
-        "confidence": "high"
+        "category": "재과만 소식",
+        "topic": "가입인사",
+        "confidence": "medium"
       }
     ]
   },
@@ -33457,10 +33030,8 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
+        "category": "재과만 소식",
+        "topic": "가입인사",
         "confidence": "high"
       }
     ]
@@ -33483,10 +33054,8 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
+        "category": "재과만 소식",
+        "topic": "가입인사",
         "confidence": "high"
       }
     ]
@@ -33535,10 +33104,8 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
+        "category": "재과만 소식",
+        "topic": "가입인사",
         "confidence": "high"
       }
     ]
@@ -33561,10 +33128,8 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
+        "category": "재과만 소식",
+        "topic": "가입인사",
         "confidence": "high"
       }
     ]
@@ -33587,10 +33152,8 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
+        "category": "재과만 소식",
+        "topic": "가입인사",
         "confidence": "high"
       }
     ]
@@ -33613,10 +33176,8 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
+        "category": "재과만 소식",
+        "topic": "가입인사",
         "confidence": "high"
       }
     ]
@@ -33639,10 +33200,8 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
+        "category": "재과만 소식",
+        "topic": "가입인사",
         "confidence": "high"
       }
     ]
@@ -33665,10 +33224,8 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
+        "category": "재과만 소식",
+        "topic": "가입인사",
         "confidence": "high"
       }
     ]
@@ -33691,10 +33248,8 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
+        "category": "재과만 소식",
+        "topic": "가입인사",
         "confidence": "high"
       }
     ]
@@ -33717,10 +33272,8 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
+        "category": "재과만 소식",
+        "topic": "가입인사",
         "confidence": "high"
       }
     ]
@@ -33743,10 +33296,8 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
+        "category": "재과만 소식",
+        "topic": "가입인사",
         "confidence": "high"
       }
     ]
@@ -33769,10 +33320,8 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
+        "category": "재과만 소식",
+        "topic": "가입인사",
         "confidence": "high"
       }
     ]
@@ -33795,10 +33344,8 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
+        "category": "재과만 소식",
+        "topic": "가입인사",
         "confidence": "high"
       }
     ]
@@ -33821,10 +33368,8 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
+        "category": "재과만 소식",
+        "topic": "가입인사",
         "confidence": "high"
       }
     ]
@@ -33847,10 +33392,8 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
+        "category": "재과만 소식",
+        "topic": "가입인사",
         "confidence": "high"
       }
     ]
@@ -33873,10 +33416,8 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
+        "category": "재과만 소식",
+        "topic": "가입인사",
         "confidence": "high"
       }
     ]
@@ -33899,10 +33440,8 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
+        "category": "재과만 소식",
+        "topic": "가입인사",
         "confidence": "high"
       }
     ]
@@ -33925,10 +33464,8 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
+        "category": "재과만 소식",
+        "topic": "가입인사",
         "confidence": "high"
       }
     ]
@@ -33951,10 +33488,8 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
+        "category": "재과만 소식",
+        "topic": "가입인사",
         "confidence": "high"
       }
     ]
@@ -33977,10 +33512,8 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
+        "category": "재과만 소식",
+        "topic": "가입인사",
         "confidence": "high"
       }
     ]
@@ -34003,10 +33536,8 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
+        "category": "재과만 소식",
+        "topic": "가입인사",
         "confidence": "high"
       }
     ]
@@ -34029,10 +33560,8 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
+        "category": "재과만 소식",
+        "topic": "가입인사",
         "confidence": "high"
       }
     ]
@@ -34055,10 +33584,8 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
+        "category": "재과만 소식",
+        "topic": "가입인사",
         "confidence": "high"
       }
     ]
@@ -34081,10 +33608,8 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
+        "category": "재과만 소식",
+        "topic": "가입인사",
         "confidence": "high"
       }
     ]
@@ -34107,10 +33632,8 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
+        "category": "재과만 소식",
+        "topic": "가입인사",
         "confidence": "high"
       }
     ]
@@ -34133,10 +33656,8 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
+        "category": "재과만 소식",
+        "topic": "가입인사",
         "confidence": "high"
       }
     ]
@@ -34159,11 +33680,9 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
-        "confidence": "high"
+        "category": "재과만 소식",
+        "topic": "가입인사",
+        "confidence": "medium"
       }
     ]
   },
@@ -34185,10 +33704,8 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
+        "category": "재과만 소식",
+        "topic": "가입인사",
         "confidence": "high"
       }
     ]
@@ -34211,10 +33728,8 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
+        "category": "재과만 소식",
+        "topic": "가입인사",
         "confidence": "high"
       }
     ]
@@ -34237,10 +33752,8 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
+        "category": "재과만 소식",
+        "topic": "가입인사",
         "confidence": "high"
       }
     ]
@@ -34263,10 +33776,8 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
+        "category": "재과만 소식",
+        "topic": "가입인사",
         "confidence": "high"
       }
     ]
@@ -34289,10 +33800,8 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
+        "category": "재과만 소식",
+        "topic": "가입인사",
         "confidence": "high"
       }
     ]
@@ -34315,10 +33824,8 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
+        "category": "재과만 소식",
+        "topic": "가입인사",
         "confidence": "high"
       }
     ]
@@ -34341,10 +33848,8 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
+        "category": "재과만 소식",
+        "topic": "가입인사",
         "confidence": "high"
       }
     ]
@@ -34367,11 +33872,9 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
-        "confidence": "high"
+        "category": "재과만 소식",
+        "topic": "가입인사",
+        "confidence": "medium"
       }
     ]
   },
@@ -34393,10 +33896,8 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
+        "category": "재과만 소식",
+        "topic": "가입인사",
         "confidence": "high"
       }
     ]
@@ -34419,10 +33920,8 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
+        "category": "재과만 소식",
+        "topic": "가입인사",
         "confidence": "high"
       }
     ]
@@ -34445,10 +33944,8 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
+        "category": "재과만 소식",
+        "topic": "가입인사",
         "confidence": "high"
       }
     ]
@@ -34471,10 +33968,8 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
+        "category": "재과만 소식",
+        "topic": "가입인사",
         "confidence": "high"
       }
     ]
@@ -34497,10 +33992,8 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
+        "category": "재과만 소식",
+        "topic": "가입인사",
         "confidence": "high"
       }
     ]
@@ -34523,10 +34016,8 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
+        "category": "재과만 소식",
+        "topic": "가입인사",
         "confidence": "high"
       }
     ]
@@ -34549,10 +34040,8 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
+        "category": "재과만 소식",
+        "topic": "가입인사",
         "confidence": "high"
       }
     ]
@@ -34575,10 +34064,8 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
+        "category": "재과만 소식",
+        "topic": "가입인사",
         "confidence": "high"
       }
     ]
@@ -34601,10 +34088,8 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
+        "category": "재과만 소식",
+        "topic": "가입인사",
         "confidence": "high"
       }
     ]
@@ -34627,10 +34112,8 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
+        "category": "재과만 소식",
+        "topic": "가입인사",
         "confidence": "high"
       }
     ]
@@ -34653,10 +34136,8 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
+        "category": "재과만 소식",
+        "topic": "가입인사",
         "confidence": "high"
       }
     ]
@@ -34679,10 +34160,8 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
+        "category": "재과만 소식",
+        "topic": "가입인사",
         "confidence": "high"
       }
     ]
@@ -34705,10 +34184,8 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
+        "category": "재과만 소식",
+        "topic": "가입인사",
         "confidence": "high"
       }
     ]
@@ -34731,10 +34208,8 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
+        "category": "재과만 소식",
+        "topic": "가입인사",
         "confidence": "high"
       }
     ]
@@ -34757,10 +34232,8 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
+        "category": "재과만 소식",
+        "topic": "가입인사",
         "confidence": "high"
       }
     ]
@@ -34783,10 +34256,8 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
+        "category": "재과만 소식",
+        "topic": "가입인사",
         "confidence": "high"
       }
     ]
@@ -34809,10 +34280,8 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
+        "category": "재과만 소식",
+        "topic": "가입인사",
         "confidence": "high"
       }
     ]
@@ -34835,10 +34304,8 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
+        "category": "재과만 소식",
+        "topic": "가입인사",
         "confidence": "high"
       }
     ]
@@ -34861,10 +34328,8 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
+        "category": "재과만 소식",
+        "topic": "가입인사",
         "confidence": "high"
       }
     ]
@@ -34887,10 +34352,8 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
+        "category": "재과만 소식",
+        "topic": "가입인사",
         "confidence": "high"
       }
     ]
@@ -34913,10 +34376,8 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
+        "category": "재과만 소식",
+        "topic": "가입인사",
         "confidence": "high"
       }
     ]
@@ -34939,10 +34400,8 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
+        "category": "재과만 소식",
+        "topic": "가입인사",
         "confidence": "high"
       }
     ]
@@ -34965,10 +34424,8 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
+        "category": "재과만 소식",
+        "topic": "가입인사",
         "confidence": "high"
       }
     ]
@@ -34991,11 +34448,9 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
-        "confidence": "high"
+        "category": "재과만 소식",
+        "topic": "가입인사",
+        "confidence": "medium"
       }
     ]
   },
@@ -35017,10 +34472,8 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
+        "category": "재과만 소식",
+        "topic": "가입인사",
         "confidence": "high"
       }
     ]
@@ -35043,10 +34496,8 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
+        "category": "재과만 소식",
+        "topic": "가입인사",
         "confidence": "high"
       }
     ]
@@ -35069,10 +34520,8 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
+        "category": "재과만 소식",
+        "topic": "가입인사",
         "confidence": "high"
       }
     ]
@@ -35095,10 +34544,8 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
+        "category": "재과만 소식",
+        "topic": "가입인사",
         "confidence": "high"
       }
     ]
@@ -35121,10 +34568,8 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
+        "category": "재과만 소식",
+        "topic": "가입인사",
         "confidence": "high"
       }
     ]
@@ -35147,10 +34592,8 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
+        "category": "재과만 소식",
+        "topic": "가입인사",
         "confidence": "high"
       }
     ]
@@ -35199,10 +34642,8 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
+        "category": "재과만 소식",
+        "topic": "가입인사",
         "confidence": "high"
       }
     ]
@@ -35225,10 +34666,8 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
+        "category": "재과만 소식",
+        "topic": "가입인사",
         "confidence": "high"
       }
     ]
@@ -35251,10 +34690,8 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
+        "category": "재과만 소식",
+        "topic": "가입인사",
         "confidence": "high"
       }
     ]
@@ -35277,10 +34714,8 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
+        "category": "재과만 소식",
+        "topic": "가입인사",
         "confidence": "high"
       }
     ]
@@ -35303,10 +34738,8 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
+        "category": "재과만 소식",
+        "topic": "가입인사",
         "confidence": "high"
       }
     ]
@@ -35355,10 +34788,8 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
+        "category": "재과만 소식",
+        "topic": "가입인사",
         "confidence": "high"
       }
     ]
@@ -35381,10 +34812,8 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
+        "category": "재과만 소식",
+        "topic": "가입인사",
         "confidence": "high"
       }
     ]
@@ -35407,10 +34836,8 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
+        "category": "재과만 소식",
+        "topic": "가입인사",
         "confidence": "high"
       }
     ]
@@ -35433,10 +34860,8 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
+        "category": "재과만 소식",
+        "topic": "가입인사",
         "confidence": "high"
       }
     ]
@@ -35459,10 +34884,8 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
+        "category": "재과만 소식",
+        "topic": "가입인사",
         "confidence": "high"
       }
     ]
@@ -35485,10 +34908,8 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
+        "category": "재과만 소식",
+        "topic": "가입인사",
         "confidence": "high"
       }
     ]
@@ -35511,10 +34932,8 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
+        "category": "재과만 소식",
+        "topic": "가입인사",
         "confidence": "high"
       }
     ]
@@ -35537,10 +34956,8 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
+        "category": "재과만 소식",
+        "topic": "가입인사",
         "confidence": "high"
       }
     ]
@@ -35563,11 +34980,9 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
-        "confidence": "high"
+        "category": "재과만 소식",
+        "topic": "가입인사",
+        "confidence": "medium"
       }
     ]
   },
@@ -35589,10 +35004,8 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
+        "category": "재과만 소식",
+        "topic": "가입인사",
         "confidence": "high"
       }
     ]
@@ -35615,10 +35028,8 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
+        "category": "재과만 소식",
+        "topic": "가입인사",
         "confidence": "high"
       }
     ]
@@ -35641,10 +35052,8 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
+        "category": "재과만 소식",
+        "topic": "가입인사",
         "confidence": "high"
       }
     ]
@@ -35667,10 +35076,8 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
+        "category": "재과만 소식",
+        "topic": "가입인사",
         "confidence": "high"
       }
     ]
@@ -35693,10 +35100,8 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
+        "category": "재과만 소식",
+        "topic": "가입인사",
         "confidence": "high"
       }
     ]
@@ -35719,10 +35124,8 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
+        "category": "재과만 소식",
+        "topic": "가입인사",
         "confidence": "high"
       }
     ]
@@ -35745,11 +35148,9 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
-        "confidence": "high"
+        "category": "재과만 소식",
+        "topic": "가입인사",
+        "confidence": "medium"
       }
     ]
   },
@@ -35771,10 +35172,8 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
+        "category": "재과만 소식",
+        "topic": "가입인사",
         "confidence": "high"
       }
     ]
@@ -35797,10 +35196,8 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
+        "category": "재과만 소식",
+        "topic": "가입인사",
         "confidence": "high"
       }
     ]
@@ -35849,11 +35246,9 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
-        "confidence": "high"
+        "category": "재과만 소식",
+        "topic": "가입인사",
+        "confidence": "medium"
       }
     ]
   },
@@ -35875,10 +35270,8 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
+        "category": "재과만 소식",
+        "topic": "가입인사",
         "confidence": "high"
       }
     ]
@@ -35901,11 +35294,9 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
-        "confidence": "high"
+        "category": "과학교사 업무",
+        "topic": "영재교육",
+        "confidence": "low"
       }
     ]
   },
@@ -35927,10 +35318,8 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
+        "category": "재과만 소식",
+        "topic": "가입인사",
         "confidence": "high"
       }
     ]
@@ -35953,10 +35342,8 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
+        "category": "재과만 소식",
+        "topic": "가입인사",
         "confidence": "high"
       }
     ]
@@ -35979,10 +35366,8 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
+        "category": "재과만 소식",
+        "topic": "가입인사",
         "confidence": "high"
       }
     ]
@@ -36005,10 +35390,8 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
+        "category": "재과만 소식",
+        "topic": "가입인사",
         "confidence": "high"
       }
     ]
@@ -36031,10 +35414,8 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
+        "category": "재과만 소식",
+        "topic": "가입인사",
         "confidence": "high"
       }
     ]
@@ -36057,10 +35438,8 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
+        "category": "재과만 소식",
+        "topic": "가입인사",
         "confidence": "high"
       }
     ]
@@ -36083,10 +35462,8 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
+        "category": "재과만 소식",
+        "topic": "가입인사",
         "confidence": "high"
       }
     ]
@@ -36135,10 +35512,8 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
+        "category": "재과만 소식",
+        "topic": "가입인사",
         "confidence": "high"
       }
     ]
@@ -36161,10 +35536,8 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
+        "category": "재과만 소식",
+        "topic": "카페 운영 공지",
         "confidence": "high"
       }
     ]
@@ -36187,10 +35560,8 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
+        "category": "재과만 소식",
+        "topic": "가입인사",
         "confidence": "high"
       }
     ]
@@ -36213,10 +35584,8 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
+        "category": "재과만 소식",
+        "topic": "카페 운영 공지",
         "confidence": "high"
       }
     ]
@@ -36239,10 +35608,8 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
+        "category": "재과만 소식",
+        "topic": "가입인사",
         "confidence": "high"
       }
     ]
@@ -36265,10 +35632,8 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
+        "category": "재과만 소식",
+        "topic": "가입인사",
         "confidence": "high"
       }
     ]
@@ -36317,10 +35682,8 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
+        "category": "재과만 소식",
+        "topic": "가입인사",
         "confidence": "high"
       }
     ]
@@ -36343,10 +35706,8 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
+        "category": "재과만 소식",
+        "topic": "가입인사",
         "confidence": "high"
       }
     ]
@@ -36369,10 +35730,8 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
+        "category": "재과만 소식",
+        "topic": "가입인사",
         "confidence": "high"
       }
     ]
@@ -36395,11 +35754,9 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
-        "confidence": "high"
+        "category": "재과만 소식",
+        "topic": "가입인사",
+        "confidence": "medium"
       }
     ]
   },
@@ -36421,10 +35778,8 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
+        "category": "재과만 소식",
+        "topic": "가입인사",
         "confidence": "high"
       }
     ]
@@ -36447,10 +35802,8 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
+        "category": "재과만 소식",
+        "topic": "가입인사",
         "confidence": "high"
       }
     ]
@@ -36473,10 +35826,8 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
+        "category": "재과만 소식",
+        "topic": "카페 운영 공지",
         "confidence": "high"
       }
     ]
@@ -36499,10 +35850,8 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
+        "category": "재과만 소식",
+        "topic": "가입인사",
         "confidence": "high"
       }
     ]
@@ -36525,11 +35874,9 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
-        "confidence": "high"
+        "category": "재과만 소식",
+        "topic": "가입인사",
+        "confidence": "medium"
       }
     ]
   },
@@ -36551,10 +35898,8 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
+        "category": "재과만 소식",
+        "topic": "가입인사",
         "confidence": "high"
       }
     ]
@@ -36577,10 +35922,8 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
+        "category": "재과만 소식",
+        "topic": "가입인사",
         "confidence": "high"
       }
     ]
@@ -36603,10 +35946,8 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
+        "category": "재과만 소식",
+        "topic": "가입인사",
         "confidence": "high"
       }
     ]
@@ -36629,10 +35970,8 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
+        "category": "재과만 소식",
+        "topic": "가입인사",
         "confidence": "high"
       }
     ]
@@ -36655,11 +35994,9 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
-        "confidence": "high"
+        "category": "재과만 소식",
+        "topic": "가입인사",
+        "confidence": "medium"
       }
     ]
   },
@@ -36681,10 +36018,8 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
+        "category": "재과만 소식",
+        "topic": "가입인사",
         "confidence": "high"
       }
     ]
@@ -36707,10 +36042,8 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
+        "category": "재과만 소식",
+        "topic": "가입인사",
         "confidence": "high"
       }
     ]
@@ -36733,10 +36066,8 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
+        "category": "재과만 소식",
+        "topic": "가입인사",
         "confidence": "high"
       }
     ]
@@ -36759,10 +36090,8 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
+        "category": "재과만 소식",
+        "topic": "가입인사",
         "confidence": "high"
       }
     ]
@@ -36785,11 +36114,9 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
-        "confidence": "high"
+        "category": "재과만 소식",
+        "topic": "가입인사",
+        "confidence": "medium"
       }
     ]
   },
@@ -36811,10 +36138,8 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
+        "category": "재과만 소식",
+        "topic": "가입인사",
         "confidence": "high"
       }
     ]
@@ -36837,10 +36162,8 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
+        "category": "재과만 소식",
+        "topic": "가입인사",
         "confidence": "high"
       }
     ]
@@ -36863,10 +36186,8 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
+        "category": "재과만 소식",
+        "topic": "가입인사",
         "confidence": "high"
       }
     ]
@@ -36915,10 +36236,8 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
+        "category": "재과만 소식",
+        "topic": "가입인사",
         "confidence": "high"
       }
     ]
@@ -36941,10 +36260,8 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
+        "category": "재과만 소식",
+        "topic": "카페 운영 공지",
         "confidence": "high"
       }
     ]
@@ -36967,10 +36284,8 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
+        "category": "재과만 소식",
+        "topic": "카페 운영 공지",
         "confidence": "high"
       }
     ]

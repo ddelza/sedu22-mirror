@@ -19,13 +19,11 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
+      "category": "재과만 소식",
+      "topic": "가입인사",
       "confidence": "high"
     }
   ],
-  "tagsNote": "해외(페루) 거주 회원의 등업 요청.",
-  "taggedAt": "2026-08-17T05:04:25.452Z"
+  "tagsNote": "등업 요청.",
+  "taggedAt": "2026-08-17T23:40:42.590Z"
 }

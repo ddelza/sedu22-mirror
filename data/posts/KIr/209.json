@@ -19,13 +19,11 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
-      "confidence": "high"
+      "category": "재과만 소식",
+      "topic": "가입인사",
+      "confidence": "medium"
     }
   ],
   "tagsNote": "카페 등업 조건 관련 소감.",
-  "taggedAt": "2026-08-17T04:48:07.535Z"
+  "taggedAt": "2026-08-17T06:04:52.536Z"
 }

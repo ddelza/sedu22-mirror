@@ -19,13 +19,11 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
+      "category": "재과만 소식",
+      "topic": "가입인사",
       "confidence": "high"
     }
   ],
-  "tagsNote": "강의식 수업 반성 및 카페 감동 소감.",
-  "taggedAt": "2026-08-17T04:58:20.232Z"
+  "tagsNote": "카페 감동 소감 및 가입 인사.",
+  "taggedAt": "2026-08-17T23:38:53.019Z"
 }

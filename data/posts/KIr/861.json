@@ -19,13 +19,11 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
-      "confidence": "high"
+      "category": "재과만 소식",
+      "topic": "가입인사",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "정회원 등업 요청 및 자유학기 주제선택 프로그램 요청.",
-  "taggedAt": "2026-08-17T05:04:25.448Z"
+  "tagsNote": "정회원 등업 요청.",
+  "taggedAt": "2026-08-17T23:40:42.587Z"
 }

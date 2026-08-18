@@ -19,13 +19,11 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
-      "confidence": "high"
+      "category": "과학교사 업무",
+      "topic": "학급운영",
+      "confidence": "low"
     }
   ],
-  "tagsNote": "집단상담 연수 후기.",
-  "taggedAt": "2026-08-17T04:23:16.385Z"
+  "tagsNote": "소그룹/반 전체 대상 놀이 기반 집단상담 연수 후기(학급운영용 놀이 활동).",
+  "taggedAt": "2026-08-17T05:34:06.746Z"
 }

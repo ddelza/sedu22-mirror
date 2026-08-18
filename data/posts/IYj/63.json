@@ -19,13 +19,11 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
-      "confidence": "high"
+      "category": "과학교사 업무",
+      "topic": "교원연수",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "문화예술교육 연수 추천.",
-  "taggedAt": "2026-08-17T04:26:15.640Z"
+  "tagsNote": "문화예술교육 관련 방학 교사 직무연수(아르떼) 추천.",
+  "taggedAt": "2026-08-17T05:35:50.199Z"
 }

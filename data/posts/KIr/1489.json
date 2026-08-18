@@ -19,13 +19,11 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
-      "confidence": "high"
+      "category": "과학교사 업무",
+      "topic": "영재교육",
+      "confidence": "low"
     }
   ],
-  "tagsNote": "영재수업 프로젝트용 설문조사 참여 요청.",
-  "taggedAt": "2026-08-17T04:33:04.922Z"
+  "tagsNote": "영재교육원 프로젝트 수업(손소독제 제작) 관련 설문조사 참여 요청.",
+  "taggedAt": "2026-08-17T06:01:38.130Z"
 }

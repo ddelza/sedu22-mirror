@@ -19,13 +19,11 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
-      "confidence": "high"
+      "category": "재과만 소식",
+      "topic": "가입인사",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "오랜만에 재방문한 근황 공유.",
-  "taggedAt": "2026-08-17T04:34:07.095Z"
+  "tagsNote": "오랜만에 재방문한 근황/감사 인사.",
+  "taggedAt": "2026-08-17T06:01:38.134Z"
 }

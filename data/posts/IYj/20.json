@@ -19,13 +19,11 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
-      "confidence": "medium"
+      "category": "과학교사 업무",
+      "topic": "영재교육",
+      "confidence": "high"
     }
   ],
-  "tagsNote": "개미 잎선호성 연구 프로젝트, 영재학급 탐구 활동.",
-  "taggedAt": "2026-08-17T04:24:34.156Z"
+  "tagsNote": "영재학급 수업 사례 및 자료 공유.",
+  "taggedAt": "2026-08-17T23:50:16.098Z"
 }

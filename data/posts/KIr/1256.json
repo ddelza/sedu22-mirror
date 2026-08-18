@@ -19,13 +19,11 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
-      "confidence": "high"
+      "category": "재과만 소식",
+      "topic": "카페 운영 공지",
+      "confidence": "low"
     }
   ],
-  "tagsNote": "랜섬웨어 관련 메일 경고 공유.",
-  "taggedAt": "2026-08-17T04:29:10.778Z"
+  "tagsNote": "랜섬웨어 유포 수법 경고 공유(카페 보안 관련).",
+  "taggedAt": "2026-08-17T06:00:37.355Z"
 }

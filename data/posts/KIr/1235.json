@@ -19,13 +19,11 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
+      "category": "재과만 소식",
+      "topic": "카페 운영 공지",
       "confidence": "high"
     }
   ],
-  "tagsNote": "정회원 승급 안내 공지.",
-  "taggedAt": "2026-08-17T04:29:10.769Z"
+  "tagsNote": "정회원 승급 절차 안내.",
+  "taggedAt": "2026-08-17T06:00:37.353Z"
 }

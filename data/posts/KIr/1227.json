@@ -19,13 +19,11 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
-      "confidence": "high"
+      "category": "스마트 수업도구",
+      "topic": "앱/프로그램",
+      "confidence": "low"
     }
   ],
-  "tagsNote": "과학 유튜브 채널 소개, 특정 단원 아님.",
-  "taggedAt": "2026-08-17T04:28:12.241Z"
+  "tagsNote": "물리/생물/지구과학 전문 과학 유튜브 채널 '안될과학' 소개.",
+  "taggedAt": "2026-08-17T05:21:28.075Z"
 }

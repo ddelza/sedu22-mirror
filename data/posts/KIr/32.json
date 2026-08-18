@@ -19,13 +19,11 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
+      "category": "재과만 소식",
+      "topic": "카페 운영 공지",
       "confidence": "high"
     }
   ],
-  "tagsNote": "구 도메인 포워딩 서비스 시작 안내(운영).",
-  "taggedAt": "2026-08-17T04:55:24.013Z"
+  "tagsNote": "구 도메인 포워딩 서비스 시작 안내.",
+  "taggedAt": "2026-08-17T10:29:06.192Z"
 }

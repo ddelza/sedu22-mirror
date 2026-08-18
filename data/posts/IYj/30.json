@@ -19,13 +19,11 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
+      "category": "과학교사 업무",
+      "topic": "영재교육",
       "confidence": "high"
     }
   ],
-  "tagsNote": "영재학급 생물수업 자료 문의.",
-  "taggedAt": "2026-08-17T04:24:34.160Z"
+  "tagsNote": "영재학급 수업 자료 문의.",
+  "taggedAt": "2026-08-17T23:50:16.100Z"
 }

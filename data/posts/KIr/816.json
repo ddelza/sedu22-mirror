@@ -19,13 +19,11 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
-      "confidence": "high"
+      "category": "재과만 소식",
+      "topic": "가입인사",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "한 해 동안 다양한 수업 활동 활용 감사 소감(여러 단원 혼재).",
-  "taggedAt": "2026-08-17T05:03:26.075Z"
+  "tagsNote": "카페 활용 감사 소감.",
+  "taggedAt": "2026-08-17T23:40:09.088Z"
 }

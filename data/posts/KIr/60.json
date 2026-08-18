@@ -19,13 +19,11 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
-      "confidence": "high"
+      "category": "재과만 소식",
+      "topic": "가입인사",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "협업 관련 감사 인사.",
-  "taggedAt": "2026-08-17T04:59:22.029Z"
+  "tagsNote": "카페 감사 인사.",
+  "taggedAt": "2026-08-17T23:39:44.620Z"
 }

@@ -19,13 +19,11 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
+      "category": "재과만 소식",
+      "topic": "가입인사",
       "confidence": "high"
     }
   ],
   "tagsNote": "정회원 등업 신청.",
-  "taggedAt": "2026-08-17T05:00:22.951Z"
+  "taggedAt": "2026-08-17T23:39:44.641Z"
 }

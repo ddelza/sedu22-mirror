@@ -19,13 +19,11 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
-      "confidence": "high"
+      "category": "과학교사 업무",
+      "topic": "학급운영",
+      "confidence": "low"
     }
   ],
-  "tagsNote": "새학기 첫날 쪽지 이벤트 에피소드.",
-  "taggedAt": "2026-08-17T04:32:08.409Z"
+  "tagsNote": "새학기 첫날 학생 대상 쪽지 이벤트(코스모스 인용) 에피소드.",
+  "taggedAt": "2026-08-17T05:22:46.016Z"
 }

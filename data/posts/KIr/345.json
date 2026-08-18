@@ -19,13 +19,11 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
-      "confidence": "high"
+      "category": "과학교사 업무",
+      "topic": "영재교육",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "비행기 날개 각도 연구 영재과제 자료 공유.",
-  "taggedAt": "2026-08-17T04:56:20.445Z"
+  "tagsNote": "영재학급 과제연구용 비행기 날개각도 연구 자료 공유.",
+  "taggedAt": "2026-08-17T23:38:16.368Z"
 }

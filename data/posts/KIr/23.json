@@ -19,13 +19,11 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
+      "category": "재과만 소식",
+      "topic": "카페 운영 공지",
       "confidence": "high"
     }
   ],
-  "tagsNote": "구 홈페이지 운영 종료 안내.",
-  "taggedAt": "2026-08-17T04:52:30.351Z"
+  "tagsNote": "구 홈페이지(sedu21.com) 운영 종료 안내.",
+  "taggedAt": "2026-08-17T10:27:53.423Z"
 }

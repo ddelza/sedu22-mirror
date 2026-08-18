@@ -19,13 +19,11 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
-      "confidence": "high"
+      "category": "과학교사 업무",
+      "topic": "학급운영",
+      "confidence": "low"
     }
   ],
-  "tagsNote": "모험놀이 카페 소개.",
-  "taggedAt": "2026-08-17T04:23:16.385Z"
+  "tagsNote": "수업 초반 5분 학생을 깨우는 모험놀이(아이스브레이킹류) 카페 소개.",
+  "taggedAt": "2026-08-17T05:34:06.745Z"
 }

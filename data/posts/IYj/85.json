@@ -19,13 +19,11 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
-      "confidence": "high"
+      "category": "과학교사 업무",
+      "topic": "과학 행사",
+      "confidence": "low"
     }
   ],
-  "tagsNote": "융합특강 강사 모집 공지.",
-  "taggedAt": "2026-08-17T04:26:15.647Z"
+  "tagsNote": "학교특색 프로그램(융합특강) 강사 모집 공지.",
+  "taggedAt": "2026-08-17T05:35:50.201Z"
 }

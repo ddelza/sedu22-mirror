@@ -19,13 +19,11 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
-      "confidence": "high"
+      "category": "스마트 수업도구",
+      "topic": "앱/프로그램",
+      "confidence": "low"
     }
   ],
-  "tagsNote": "학습 소프트웨어(에듀집) 심의 절차 문의.",
-  "taggedAt": "2026-08-17T04:52:30.362Z"
+  "tagsNote": "학습 시뮬레이션 SW를 수업에 쓰려는데 학교 심의(에듀집 등록) 절차 때문에 사용이 막혀있는 상황 문의.",
+  "taggedAt": "2026-08-17T05:29:10.798Z"
 }

@@ -19,13 +19,11 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
-      "confidence": "low"
+      "category": "재과만 소식",
+      "topic": "카페 운영 공지",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "작사가의 영감론에 빗대 sedu21.com을 '함께 채우는 뽑기 상자'로 비유한 글(특정 단원과 무관).",
-  "taggedAt": "2026-08-13T13:16:31.667Z"
+  "tagsNote": "sedu21.com을 '뽑기 상자'에 비유한 카페 소개 에세이.",
+  "taggedAt": "2026-08-17T23:41:21.326Z"
 }

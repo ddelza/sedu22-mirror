@@ -19,13 +19,20 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
-      "confidence": "high"
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "자극과 반응",
+      "confidence": "low"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "자극과 반응",
+      "confidence": "low"
     }
   ],
-  "tagsNote": "착시 동영상/도안 공유, 특정 단원 설명 없음.",
-  "taggedAt": "2026-08-17T04:24:34.167Z"
+  "tagsNote": "착시(시각 착시) 동영상 및 도안 수업활용 자료 공유.",
+  "taggedAt": "2026-08-17T05:35:11.167Z"
 }

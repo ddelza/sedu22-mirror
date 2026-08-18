@@ -19,13 +19,11 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
-      "confidence": "high"
+      "category": "수업 방법론",
+      "topic": "토론수업",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "과학독서토론 지도법 자료 공유.",
-  "taggedAt": "2026-08-17T04:24:34.153Z"
+  "tagsNote": "과학독서토론 지도법 공유 — 토론수업 방법론.",
+  "taggedAt": "2026-08-17T23:50:16.097Z"
 }

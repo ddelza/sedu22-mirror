@@ -19,13 +19,11 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
-      "confidence": "high"
+      "category": "재과만 소식",
+      "topic": "카페 운영 공지",
+      "confidence": "low"
     }
   ],
-  "tagsNote": "학습지 저작권 문제와 카페 공개범위 조정 논의(운영).",
-  "taggedAt": "2026-08-17T04:55:24.016Z"
+  "tagsNote": "학습지 저작권 문제와 카페 공개범위 조정 논의.",
+  "taggedAt": "2026-08-17T10:29:06.194Z"
 }

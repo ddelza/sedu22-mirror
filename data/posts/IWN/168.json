@@ -19,13 +19,11 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
+      "category": "재과만 소식",
+      "topic": "카페 운영 공지",
       "confidence": "high"
     }
   ],
-  "tagsNote": "송년 감사 이벤트 공지.",
-  "taggedAt": "2026-08-17T04:19:52.651Z"
+  "tagsNote": "송년 감사 댓글 릴레이 이벤트 공지.",
+  "taggedAt": "2026-08-17T23:46:11.617Z"
 }

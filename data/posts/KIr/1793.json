@@ -19,13 +19,11 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
-      "confidence": "high"
+      "category": "과학교사 업무",
+      "topic": "과학 행사",
+      "confidence": "low"
     }
   ],
-  "tagsNote": "개인 친환경 제품 사용 후기.",
-  "taggedAt": "2026-08-17T04:41:24.781Z"
+  "tagsNote": "학교 환경행사(친환경 제품) 3년차 진행 개인 사용 후기.",
+  "taggedAt": "2026-08-17T05:24:45.521Z"
 }

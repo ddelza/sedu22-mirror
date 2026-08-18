@@ -19,13 +19,11 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
-      "confidence": "high"
+      "category": "스마트 수업도구",
+      "topic": "앱/프로그램",
+      "confidence": "low"
     }
   ],
-  "tagsNote": "스승의 날 소회 에세이.",
-  "taggedAt": "2026-08-17T04:35:21.421Z"
+  "tagsNote": "스승의 날 소회 중 카훗(Kahoot) 자유학기 수업 활용 언급.",
+  "taggedAt": "2026-08-17T05:23:59.569Z"
 }

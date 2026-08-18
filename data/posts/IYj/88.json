@@ -19,13 +19,11 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
-      "confidence": "high"
+      "category": "과학교사 업무",
+      "topic": "동아리 운영",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "미스테리 박스 교구 관련 문의.",
-  "taggedAt": "2026-08-17T04:26:15.648Z"
+  "tagsNote": "중학교 과학동아리 시간 활용용 미스테리 박스 교구 문의.",
+  "taggedAt": "2026-08-17T05:35:50.202Z"
 }

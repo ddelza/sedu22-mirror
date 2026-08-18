@@ -19,13 +19,11 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
-      "confidence": "high"
+      "category": "재과만 소식",
+      "topic": "카페 운영 공지",
+      "confidence": "low"
     }
   ],
-  "tagsNote": "카페 익명게시판 최신글 노출 오류 문의.",
-  "taggedAt": "2026-08-17T04:46:01.770Z"
+  "tagsNote": "익명게시판 최신글 노출 오류 문의(카페 운영 이슈).",
+  "taggedAt": "2026-08-17T06:04:32.520Z"
 }

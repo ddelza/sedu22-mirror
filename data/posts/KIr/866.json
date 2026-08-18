@@ -19,13 +19,11 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
+      "category": "재과만 소식",
+      "topic": "가입인사",
       "confidence": "high"
     }
   ],
   "tagsNote": "등업 재요청.",
-  "taggedAt": "2026-08-17T05:04:25.449Z"
+  "taggedAt": "2026-08-17T23:40:42.587Z"
 }

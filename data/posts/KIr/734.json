@@ -19,13 +19,11 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
-      "confidence": "high"
+      "category": "수업 방법론",
+      "topic": "토론수업",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "하브루타 수업 활용 방법에 대한 구체적 팁 문의.",
-  "taggedAt": "2026-08-17T05:01:24.248Z"
+  "tagsNote": "하브루타 수업 활용 구체적 팁 문의.",
+  "taggedAt": "2026-08-17T23:40:09.068Z"
 }

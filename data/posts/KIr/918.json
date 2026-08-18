@@ -19,13 +19,11 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
-      "confidence": "high"
+      "category": "재과만 소식",
+      "topic": "가입인사",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "방학을 맞아 전하는 감사 인사말.",
-  "taggedAt": "2026-08-17T05:04:25.463Z"
+  "tagsNote": "방학을 맞아 전하는 카페 감사 인사말.",
+  "taggedAt": "2026-08-17T23:40:42.597Z"
 }

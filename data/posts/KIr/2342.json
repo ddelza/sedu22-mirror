@@ -19,13 +19,11 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
-      "confidence": "high"
+      "category": "재과만 소식",
+      "topic": "카페 운영 공지",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "재과만 운영진 공저 도서 서평 이벤트 안내.",
-  "taggedAt": "2026-08-17T04:52:30.365Z"
+  "tagsNote": "재과만 운영진 13명 공저 도서 출간 및 서평단 모집 안내.",
+  "taggedAt": "2026-08-17T10:27:53.427Z"
 }

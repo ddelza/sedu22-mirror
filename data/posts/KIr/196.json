@@ -19,13 +19,11 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
-      "confidence": "high"
+      "category": "재과만 소식",
+      "topic": "가입인사",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "복직 준비 중 감사 인사.",
-  "taggedAt": "2026-08-17T04:44:49.618Z"
+  "tagsNote": "복직 준비 중 카페 발견 감사 인사.",
+  "taggedAt": "2026-08-17T06:04:01.007Z"
 }

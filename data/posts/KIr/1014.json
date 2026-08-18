@@ -19,13 +19,11 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
+      "category": "재과만 소식",
+      "topic": "카페 운영 공지",
       "confidence": "high"
     }
   ],
-  "tagsNote": "카페 운영 공지.",
-  "taggedAt": "2026-08-17T04:27:06.116Z"
+  "tagsNote": "스팸글 관련 비밀번호 변경 요청 공지.",
+  "taggedAt": "2026-08-17T05:59:55.010Z"
 }

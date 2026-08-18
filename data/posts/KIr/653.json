@@ -19,13 +19,11 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
-      "confidence": "high"
+      "category": "재과만 소식",
+      "topic": "가입인사",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "수업 준비 자료 이용 감사 소감.",
-  "taggedAt": "2026-08-17T05:00:22.944Z"
+  "tagsNote": "수업자료 이용 감사 소감.",
+  "taggedAt": "2026-08-17T23:39:44.633Z"
 }

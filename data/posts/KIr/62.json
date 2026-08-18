@@ -19,13 +19,11 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
+      "category": "재과만 소식",
+      "topic": "가입인사",
       "confidence": "high"
     }
   ],
   "tagsNote": "카페 이전 축하 인사.",
-  "taggedAt": "2026-08-17T04:59:22.040Z"
+  "taggedAt": "2026-08-17T23:39:44.627Z"
 }

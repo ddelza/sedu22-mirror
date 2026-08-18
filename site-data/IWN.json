@@ -1006,11 +1006,9 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
-        "confidence": "high"
+        "category": "재과만 소식",
+        "topic": "카페 운영 공지",
+        "confidence": "medium"
       }
     ]
   },
@@ -1162,11 +1160,9 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
-        "confidence": "high"
+        "category": "재과만 소식",
+        "topic": "카페 운영 공지",
+        "confidence": "medium"
       }
     ]
   },
@@ -1472,10 +1468,8 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
+        "category": "재과만 소식",
+        "topic": "카페 운영 공지",
         "confidence": "high"
       }
     ]
@@ -1524,11 +1518,9 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
-        "confidence": "high"
+        "category": "재과만 소식",
+        "topic": "카페 운영 공지",
+        "confidence": "medium"
       }
     ]
   },
@@ -1576,11 +1568,9 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
-        "confidence": "high"
+        "category": "재과만 소식",
+        "topic": "카페 운영 공지",
+        "confidence": "medium"
       }
     ]
   },
@@ -1678,11 +1668,9 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
-        "confidence": "high"
+        "category": "재과만 소식",
+        "topic": "카페 운영 공지",
+        "confidence": "medium"
       }
     ]
   },
@@ -1893,11 +1881,9 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
-        "confidence": "high"
+        "category": "재과만 소식",
+        "topic": "카페 운영 공지",
+        "confidence": "medium"
       }
     ]
   },
@@ -1919,11 +1905,9 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
-        "confidence": "high"
+        "category": "재과만 소식",
+        "topic": "카페 운영 공지",
+        "confidence": "medium"
       }
     ]
   },
@@ -2186,10 +2170,8 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
+        "category": "재과만 소식",
+        "topic": "카페 운영 공지",
         "confidence": "high"
       }
     ]
@@ -2368,11 +2350,9 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
-        "confidence": "low"
+        "category": "재과만 소식",
+        "topic": "카페 운영 공지",
+        "confidence": "medium"
       }
     ]
   },
@@ -2472,11 +2452,9 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
-        "confidence": "low"
+        "category": "재과만 소식",
+        "topic": "카페 운영 공지",
+        "confidence": "high"
       }
     ]
   },
@@ -2661,11 +2639,9 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
-        "confidence": "low"
+        "category": "재과만 소식",
+        "topic": "가입인사",
+        "confidence": "medium"
       }
     ]
   },
@@ -2687,11 +2663,9 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
-        "confidence": "low"
+        "category": "재과만 소식",
+        "topic": "카페 운영 공지",
+        "confidence": "medium"
       }
     ]
   },
@@ -2765,11 +2739,9 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
-        "confidence": "low"
+        "category": "재과만 소식",
+        "topic": "카페 운영 공지",
+        "confidence": "medium"
       }
     ]
   },
@@ -3058,11 +3030,9 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
-        "confidence": "high"
+        "category": "수업 방법론",
+        "topic": "토론수업",
+        "confidence": "medium"
       }
     ]
   },
@@ -3429,11 +3399,9 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
-        "confidence": "high"
+        "category": "과학교사 업무",
+        "topic": "학급운영",
+        "confidence": "low"
       }
     ]
   },
@@ -3481,11 +3449,9 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
-        "confidence": "high"
+        "category": "과학교사 업무",
+        "topic": "학급운영",
+        "confidence": "low"
       }
     ]
   },
@@ -3585,11 +3551,9 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
-        "confidence": "high"
+        "category": "수업 방법론",
+        "topic": "거꾸로 교실",
+        "confidence": "low"
       }
     ]
   },
@@ -3949,10 +3913,8 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
+        "category": "재과만 소식",
+        "topic": "카페 운영 공지",
         "confidence": "high"
       }
     ]
@@ -4027,10 +3989,8 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
+        "category": "재과만 소식",
+        "topic": "카페 운영 공지",
         "confidence": "high"
       }
     ]
@@ -4112,11 +4072,9 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
-        "confidence": "high"
+        "category": "재과만 소식",
+        "topic": "가입인사",
+        "confidence": "medium"
       }
     ]
   },
@@ -4268,10 +4226,8 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
+        "category": "재과만 소식",
+        "topic": "카페 운영 공지",
         "confidence": "high"
       }
     ]
@@ -4294,10 +4250,8 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
+        "category": "재과만 소식",
+        "topic": "카페 운영 공지",
         "confidence": "high"
       }
     ]

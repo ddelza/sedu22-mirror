@@ -19,13 +19,11 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
-      "confidence": "high"
+      "category": "과학교사 업무",
+      "topic": "교원연수",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "교사 수업모임 결성 소감 및 조언 요청.",
-  "taggedAt": "2026-08-17T04:28:12.225Z"
+  "tagsNote": "동료 교사 3인 수업모임(전문적학습공동체) 결성 및 운영 조언 요청.",
+  "taggedAt": "2026-08-17T05:20:51.530Z"
 }

@@ -19,13 +19,20 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
-      "confidence": "high"
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "동물과 에너지",
+      "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "동물과 에너지",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "페이퍼 토르소(인체모형) 만들기 재료/방법 문의.",
-  "taggedAt": "2026-08-17T04:59:22.027Z"
+  "tagsNote": "인체 장기(소화/순환/호흡계) 페이퍼 토르소 모형 만들기 활동 재료/방법 문의.",
+  "taggedAt": "2026-08-17T05:31:31.502Z"
 }

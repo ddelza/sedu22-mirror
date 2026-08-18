@@ -19,13 +19,11 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
-      "confidence": "high"
+      "category": "수업 방법론",
+      "topic": "토론수업",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "수업방법론 도서 추천 요청.",
-  "taggedAt": "2026-08-17T04:23:16.395Z"
+  "tagsNote": "하브루타 등 수업방법론 도서 추천 요청 — 하브루타 언급으로 토론수업 태그.",
+  "taggedAt": "2026-08-17T23:50:16.091Z"
 }

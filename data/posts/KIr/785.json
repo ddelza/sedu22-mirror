@@ -19,13 +19,11 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
+      "category": "재과만 소식",
+      "topic": "가입인사",
       "confidence": "high"
     }
   ],
-  "tagsNote": "자유학기 수업자료 열람을 위한 등업 요청.",
-  "taggedAt": "2026-08-17T05:02:23.227Z"
+  "tagsNote": "등업 요청.",
+  "taggedAt": "2026-08-17T23:40:09.080Z"
 }

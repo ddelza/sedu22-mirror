@@ -19,13 +19,11 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
-      "confidence": "high"
+      "category": "스마트 수업도구",
+      "topic": "앱/프로그램",
+      "confidence": "low"
     }
   ],
-  "tagsNote": "전자칠판 활용 게시판 신설 제안(카페 운영).",
-  "taggedAt": "2026-08-17T04:34:07.115Z"
+  "tagsNote": "전자칠판(태블릿 미러링) 활용 수업 노하우 공유 게시판 제안.",
+  "taggedAt": "2026-08-17T05:23:22.330Z"
 }

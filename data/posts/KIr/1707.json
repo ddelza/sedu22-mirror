@@ -19,13 +19,11 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
+      "category": "재과만 소식",
+      "topic": "카페 운영 공지",
       "confidence": "high"
     }
   ],
-  "tagsNote": "오픈채팅방 질문답변 정리 안내(카페 운영).",
-  "taggedAt": "2026-08-17T04:37:24.539Z"
+  "tagsNote": "오픈채팅방 질문&답변 정리·리뷰 진행 안내.",
+  "taggedAt": "2026-08-17T06:02:49.482Z"
 }

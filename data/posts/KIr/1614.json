@@ -19,13 +19,11 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
-      "confidence": "high"
+      "category": "과학교사 업무",
+      "topic": "과학 행사",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "학급 종이비행기 대회 진행 후기.",
-  "taggedAt": "2026-08-17T04:35:21.414Z"
+  "tagsNote": "학급 종이비행기 멀리 날리기 대회 진행 후기.",
+  "taggedAt": "2026-08-17T05:23:59.568Z"
 }

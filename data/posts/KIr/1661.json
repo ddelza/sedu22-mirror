@@ -19,13 +19,11 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
+      "category": "재과만 소식",
+      "topic": "카페 운영 공지",
       "confidence": "high"
     }
   ],
-  "tagsNote": "재과만 행사 영상 게시판 신설 안내.",
-  "taggedAt": "2026-08-17T04:36:31.265Z"
+  "tagsNote": "재과만 행사 동영상 모아보는 신규 게시판 개설 안내.",
+  "taggedAt": "2026-08-17T06:02:49.475Z"
 }

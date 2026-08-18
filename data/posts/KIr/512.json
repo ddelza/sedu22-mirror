@@ -19,13 +19,11 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
+      "category": "재과만 소식",
+      "topic": "카페 운영 공지",
       "confidence": "high"
     }
   ],
-  "tagsNote": "새학기 회원정보 수정 요청 공지(운영).",
-  "taggedAt": "2026-08-17T04:58:20.231Z"
+  "tagsNote": "새학기 회원정보 수정 요청 공지.",
+  "taggedAt": "2026-08-17T23:38:53.018Z"
 }

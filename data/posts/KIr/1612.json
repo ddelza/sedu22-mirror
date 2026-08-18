@@ -19,13 +19,11 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
-      "confidence": "high"
+      "category": "과학교사 업무",
+      "topic": "동아리 운영",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "3개년 담임 운영 계획 및 과학철학 교육 구상 에세이.",
-  "taggedAt": "2026-08-17T04:35:21.413Z"
+  "tagsNote": "3개년 담임 계획 중 1학년 자율동아리(과학철학 교육) 운영 구상.",
+  "taggedAt": "2026-08-17T05:23:59.566Z"
 }

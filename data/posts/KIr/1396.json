@@ -19,13 +19,13 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
-      "confidence": "high"
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "생식과 유전",
+      "confidence": "low"
     }
   ],
-  "tagsNote": "어린이과학동아 연재만화 소개.",
-  "taggedAt": "2026-08-17T04:32:08.403Z"
+  "tagsNote": "어린이과학동아 연재만화(멘델 편) 소개.",
+  "taggedAt": "2026-08-17T05:22:46.012Z"
 }

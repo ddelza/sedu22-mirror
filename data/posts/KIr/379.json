@@ -19,13 +19,11 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
+      "category": "재과만 소식",
+      "topic": "가입인사",
       "confidence": "high"
     }
   ],
   "tagsNote": "동계세미나 계기 신규교사 가입 인사.",
-  "taggedAt": "2026-08-17T04:57:19.694Z"
+  "taggedAt": "2026-08-17T23:38:16.391Z"
 }

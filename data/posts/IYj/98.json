@@ -19,13 +19,11 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
-      "confidence": "high"
+      "category": "스마트 수업도구",
+      "topic": "메이커/3D프린팅",
+      "confidence": "low"
     }
   ],
-  "tagsNote": "드론 제작 영재수업, 특정 단원 아님.",
-  "taggedAt": "2026-08-17T04:26:15.654Z"
+  "tagsNote": "드론(플라잉옥타곤) 키트 직접 제작 후 비행하는 영재수업 자료.",
+  "taggedAt": "2026-08-17T05:35:50.203Z"
 }

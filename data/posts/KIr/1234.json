@@ -19,13 +19,11 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
-      "confidence": "high"
+      "category": "과학교사 업무",
+      "topic": "학급운영",
+      "confidence": "low"
     }
   ],
-  "tagsNote": "초임 첫수업 진행방법 문의.",
-  "taggedAt": "2026-08-17T04:29:10.768Z"
+  "tagsNote": "중학교 첫 발령 초임교사의 첫 수업 진행 방법 문의.",
+  "taggedAt": "2026-08-17T05:21:28.077Z"
 }

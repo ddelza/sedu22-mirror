@@ -19,13 +19,11 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
+      "category": "재과만 소식",
+      "topic": "카페 운영 공지",
       "confidence": "high"
     }
   ],
-  "tagsNote": "정회원 등업 신청 절차 공지(운영).",
-  "taggedAt": "2026-08-17T04:57:19.703Z"
+  "tagsNote": "정회원 등업 신청 절차 공지.",
+  "taggedAt": "2026-08-17T23:38:16.397Z"
 }

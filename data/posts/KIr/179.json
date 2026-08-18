@@ -19,13 +19,11 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
-      "confidence": "high"
+      "category": "재과만 소식",
+      "topic": "가입인사",
+      "confidence": "medium"
     }
   ],
   "tagsNote": "카페 운영 감사 소감.",
-  "taggedAt": "2026-08-17T04:41:24.777Z"
+  "taggedAt": "2026-08-17T06:03:17.655Z"
 }

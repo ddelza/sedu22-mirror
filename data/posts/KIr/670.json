@@ -19,13 +19,11 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
-      "confidence": "high"
+      "category": "과학교사 업무",
+      "topic": "영재교육",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "영재교육 선발업무(GED시스템) 절차 문의.",
-  "taggedAt": "2026-08-17T05:00:22.948Z"
+  "tagsNote": "영재 선발업무(GED시스템) 절차 문의.",
+  "taggedAt": "2026-08-17T23:39:44.637Z"
 }

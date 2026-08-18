@@ -19,13 +19,11 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
+      "category": "재과만 소식",
+      "topic": "카페 운영 공지",
       "confidence": "high"
     }
   ],
-  "tagsNote": "저작권 문제로 삭제될 동영상 안내(운영 공지).",
-  "taggedAt": "2026-08-17T04:52:30.352Z"
+  "tagsNote": "저작권 문제로 삭제될 동영상 안내.",
+  "taggedAt": "2026-08-17T10:27:53.424Z"
 }

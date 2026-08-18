@@ -19,13 +19,11 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
+      "category": "재과만 소식",
+      "topic": "카페 운영 공지",
       "confidence": "high"
     }
   ],
-  "tagsNote": "방학 계획 공유 요청(운영).",
-  "taggedAt": "2026-08-17T05:00:22.938Z"
+  "tagsNote": "카페 개설 1년6개월/회원 3000명 소식 및 방학 계획 공유 요청.",
+  "taggedAt": "2026-08-17T23:39:44.630Z"
 }

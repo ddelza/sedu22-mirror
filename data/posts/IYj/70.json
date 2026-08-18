@@ -19,13 +19,11 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
+      "category": "과학교사 업무",
+      "topic": "영재교육",
       "confidence": "high"
     }
   ],
-  "tagsNote": "영재학급 창의력 검사지 문의.",
-  "taggedAt": "2026-08-17T04:26:15.645Z"
+  "tagsNote": "영재학급 선발 창의력 검사지 문의.",
+  "taggedAt": "2026-08-17T23:50:58.170Z"
 }

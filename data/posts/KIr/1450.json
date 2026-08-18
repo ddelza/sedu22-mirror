@@ -19,13 +19,18 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
-      "confidence": "high"
+      "category": "과학교사 업무",
+      "topic": "교원연수",
+      "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "생물의 다양성",
+      "confidence": "low"
     }
   ],
-  "tagsNote": "도둑게 산란 관찰 개인 체험기.",
-  "taggedAt": "2026-08-17T04:32:08.429Z"
+  "tagsNote": "해양교육직무연수 참여 및 도둑게 산란 생태 관찰 체험기.",
+  "taggedAt": "2026-08-17T05:22:46.018Z"
 }

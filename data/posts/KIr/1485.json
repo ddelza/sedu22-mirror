@@ -19,13 +19,11 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
-      "confidence": "high"
+      "category": "재과만 소식",
+      "topic": "카페 운영 공지",
+      "confidence": "low"
     }
   ],
-  "tagsNote": "스팸 쪽지 관련 문의.",
-  "taggedAt": "2026-08-17T04:33:04.920Z"
+  "tagsNote": "스팸쪽지 관련 문의(카페 보안 이슈).",
+  "taggedAt": "2026-08-17T06:01:38.129Z"
 }

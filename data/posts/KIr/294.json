@@ -19,13 +19,11 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
+      "category": "재과만 소식",
+      "topic": "가입인사",
       "confidence": "high"
     }
   ],
   "tagsNote": "복직 계기 가입 인사.",
-  "taggedAt": "2026-08-17T04:55:23.999Z"
+  "taggedAt": "2026-08-17T10:29:06.186Z"
 }

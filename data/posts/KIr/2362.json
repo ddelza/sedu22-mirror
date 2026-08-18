@@ -19,13 +19,11 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
+      "category": "재과만 소식",
+      "topic": "카페 운영 공지",
       "confidence": "high"
     }
   ],
-  "tagsNote": "카페 말머리 사용 독려용 만화(운영 공지).",
-  "taggedAt": "2026-08-17T04:53:31.207Z"
+  "tagsNote": "말머리 사용 독려용 만화(운영 공지).",
+  "taggedAt": "2026-08-17T10:28:25.462Z"
 }

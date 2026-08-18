@@ -19,13 +19,11 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
-      "confidence": "high"
+      "category": "재과만 소식",
+      "topic": "가입인사",
+      "confidence": "low"
     }
   ],
-  "tagsNote": "고사문항 공유 게시판 관련 답글.",
-  "taggedAt": "2026-08-17T04:56:20.458Z"
+  "tagsNote": "고사문항 공유 게시판 관련 답글(등업 어려움 토로).",
+  "taggedAt": "2026-08-17T23:38:16.377Z"
 }

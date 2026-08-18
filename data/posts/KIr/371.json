@@ -19,13 +19,11 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
-      "confidence": "high"
+      "category": "재과만 소식",
+      "topic": "가입인사",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "수업 영상자료 공유에 대한 감사 소감.",
-  "taggedAt": "2026-08-17T04:56:20.461Z"
+  "tagsNote": "수업 영상자료 공유에 대한 카페 감사 소감.",
+  "taggedAt": "2026-08-17T23:38:16.384Z"
 }
