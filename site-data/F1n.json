@@ -1690,11 +1690,9 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
-        "confidence": "high"
+        "category": "수업 방법론",
+        "topic": "토론수업",
+        "confidence": "medium"
       }
     ]
   },
@@ -2369,11 +2367,9 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
-        "confidence": "high"
+        "category": "수업 방법론",
+        "topic": "토론수업",
+        "confidence": "medium"
       }
     ]
   },
@@ -2613,10 +2609,8 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
+        "category": "수업 방법론",
+        "topic": "토론수업",
         "confidence": "high"
       }
     ]
@@ -2672,11 +2666,9 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
-        "confidence": "high"
+        "category": "과학교사 업무",
+        "topic": "학급운영",
+        "confidence": "medium"
       }
     ]
   },
@@ -3249,11 +3241,9 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
-        "confidence": "high"
+        "category": "과학교사 업무",
+        "topic": "과학 행사",
+        "confidence": "low"
       }
     ]
   },
@@ -4061,11 +4051,9 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
-        "confidence": "high"
+        "category": "과학교사 업무",
+        "topic": "교원연수",
+        "confidence": "medium"
       }
     ]
   },
@@ -5485,11 +5473,9 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
-        "confidence": "high"
+        "category": "과학교사 업무",
+        "topic": "과학실 관리",
+        "confidence": "medium"
       }
     ]
   },
@@ -5635,11 +5621,9 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
-        "confidence": "high"
+        "category": "과학교사 업무",
+        "topic": "학급운영",
+        "confidence": "medium"
       }
     ]
   },
@@ -6368,6 +6352,16 @@
         "subject": null,
         "unit": "미분류",
         "confidence": "high"
+      },
+      {
+        "category": "과학교사 업무",
+        "topic": "교원연수",
+        "confidence": "low"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "생성형 AI 도구",
+        "confidence": "low"
       }
     ]
   },
@@ -6427,6 +6421,11 @@
         "subject": null,
         "unit": "미분류",
         "confidence": "high"
+      },
+      {
+        "category": "과학교사 업무",
+        "topic": "세특작성",
+        "confidence": "low"
       }
     ]
   },
@@ -7251,11 +7250,9 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
-        "confidence": "high"
+        "category": "과학교사 업무",
+        "topic": "교원연수",
+        "confidence": "medium"
       }
     ]
   },
@@ -7303,11 +7300,9 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
-        "confidence": "high"
+        "category": "재과만 소식",
+        "topic": "카페 운영 공지",
+        "confidence": "low"
       }
     ]
   },
@@ -9315,6 +9310,11 @@
         "subject": null,
         "unit": "미분류",
         "confidence": "high"
+      },
+      {
+        "category": "과학교사 업무",
+        "topic": "세특작성",
+        "confidence": "low"
       }
     ]
   },
@@ -9500,11 +9500,9 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
-        "confidence": "high"
+        "category": "수업 방법론",
+        "topic": "토론수업",
+        "confidence": "medium"
       }
     ]
   },
@@ -9830,10 +9828,8 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
+        "category": "과학교사 업무",
+        "topic": "영재교육",
         "confidence": "high"
       }
     ]
@@ -10254,11 +10250,9 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
-        "confidence": "high"
+        "category": "과학교사 업무",
+        "topic": "생활지도",
+        "confidence": "medium"
       }
     ]
   },
@@ -10330,10 +10324,8 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
+        "category": "과학교사 업무",
+        "topic": "학급운영",
         "confidence": "high"
       }
     ]
@@ -10466,6 +10458,11 @@
         "schoolLevel": "중학교",
         "subject": "과학",
         "unit": "생물의 구성과 다양성",
+        "confidence": "low"
+      },
+      {
+        "category": "과학교사 업무",
+        "topic": "교원연수",
         "confidence": "low"
       }
     ]
@@ -10828,6 +10825,11 @@
         "subject": null,
         "unit": "미분류",
         "confidence": "high"
+      },
+      {
+        "category": "과학교사 업무",
+        "topic": "학급운영",
+        "confidence": "low"
       }
     ]
   },
@@ -10873,10 +10875,8 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
+        "category": "과학교사 업무",
+        "topic": "영재교육",
         "confidence": "high"
       }
     ]
@@ -11760,6 +11760,11 @@
         "subject": null,
         "unit": "미분류",
         "confidence": "high"
+      },
+      {
+        "category": "과학교사 업무",
+        "topic": "학급운영",
+        "confidence": "low"
       }
     ]
   },
@@ -11988,6 +11993,11 @@
         "subject": null,
         "unit": "미분류",
         "confidence": "high"
+      },
+      {
+        "category": "과학교사 업무",
+        "topic": "교원연수",
+        "confidence": "low"
       }
     ]
   },
@@ -12042,10 +12052,8 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
+        "category": "과학교사 업무",
+        "topic": "세특작성",
         "confidence": "high"
       }
     ]
@@ -12613,6 +12621,11 @@
         "subject": null,
         "unit": "미분류",
         "confidence": "high"
+      },
+      {
+        "category": "과학교사 업무",
+        "topic": "학급운영",
+        "confidence": "low"
       }
     ]
   },
@@ -12634,10 +12647,8 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
+        "category": "과학교사 업무",
+        "topic": "세특작성",
         "confidence": "high"
       }
     ]
@@ -12839,6 +12850,11 @@
         "category": "과학교사 업무",
         "topic": "동아리 운영",
         "confidence": "high"
+      },
+      {
+        "category": "과학교사 업무",
+        "topic": "교원연수",
+        "confidence": "low"
       }
     ]
   },
@@ -12936,11 +12952,9 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
-        "confidence": "high"
+        "category": "과학교사 업무",
+        "topic": "세특작성",
+        "confidence": "medium"
       }
     ]
   },
@@ -13664,11 +13678,9 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
-        "confidence": "high"
+        "category": "수업 방법론",
+        "topic": "토론수업",
+        "confidence": "medium"
       }
     ]
   },
@@ -13723,10 +13735,8 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
+        "category": "수업 방법론",
+        "topic": "토론수업",
         "confidence": "high"
       }
     ]
@@ -13998,10 +14008,8 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
+        "category": "과학교사 업무",
+        "topic": "학급운영",
         "confidence": "high"
       }
     ]
@@ -14024,11 +14032,14 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
-        "confidence": "high"
+        "category": "과학교사 업무",
+        "topic": "학급운영",
+        "confidence": "medium"
+      },
+      {
+        "category": "수업 방법론",
+        "topic": "토론수업",
+        "confidence": "medium"
       }
     ]
   },
@@ -14780,6 +14791,11 @@
         "subject": null,
         "unit": "미분류",
         "confidence": "high"
+      },
+      {
+        "category": "과학교사 업무",
+        "topic": "교원연수",
+        "confidence": "low"
       }
     ]
   },
@@ -15034,6 +15050,11 @@
         "subject": null,
         "unit": "미분류",
         "confidence": "high"
+      },
+      {
+        "category": "과학교사 업무",
+        "topic": "학급운영",
+        "confidence": "low"
       }
     ]
   },
@@ -15390,10 +15411,8 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
+        "category": "과학교사 업무",
+        "topic": "학급운영",
         "confidence": "high"
       }
     ]
@@ -15466,10 +15485,8 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
+        "category": "과학교사 업무",
+        "topic": "학급운영",
         "confidence": "high"
       }
     ]
@@ -16117,6 +16134,11 @@
         "subject": null,
         "unit": "미분류",
         "confidence": "high"
+      },
+      {
+        "category": "과학교사 업무",
+        "topic": "학급운영",
+        "confidence": "low"
       }
     ]
   },
@@ -16589,6 +16611,11 @@
         "subject": null,
         "unit": "미분류",
         "confidence": "high"
+      },
+      {
+        "category": "과학교사 업무",
+        "topic": "학급운영",
+        "confidence": "low"
       }
     ]
   },
@@ -16636,11 +16663,9 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
-        "confidence": "high"
+        "category": "과학교사 업무",
+        "topic": "학급운영",
+        "confidence": "medium"
       }
     ]
   },
@@ -16719,6 +16744,11 @@
         "subject": null,
         "unit": "미분류",
         "confidence": "high"
+      },
+      {
+        "category": "과학교사 업무",
+        "topic": "교원연수",
+        "confidence": "low"
       }
     ]
   },
@@ -16861,6 +16891,11 @@
         "subject": "과학",
         "unit": "힘의 작용",
         "confidence": "medium"
+      },
+      {
+        "category": "과학교사 업무",
+        "topic": "교원연수",
+        "confidence": "low"
       }
     ]
   },
@@ -16965,6 +17000,11 @@
         "subject": null,
         "unit": "미분류",
         "confidence": "high"
+      },
+      {
+        "category": "과학교사 업무",
+        "topic": "학급운영",
+        "confidence": "low"
       }
     ]
   },
@@ -17696,6 +17736,11 @@
         "subject": null,
         "unit": "미분류",
         "confidence": "high"
+      },
+      {
+        "category": "과학교사 업무",
+        "topic": "학급운영",
+        "confidence": "low"
       }
     ]
   },
@@ -17741,11 +17786,9 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
-        "confidence": "high"
+        "category": "과학교사 업무",
+        "topic": "학급운영",
+        "confidence": "medium"
       }
     ]
   },
@@ -17867,10 +17910,8 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
+        "category": "과학교사 업무",
+        "topic": "학급운영",
         "confidence": "high"
       }
     ]
@@ -18215,10 +18256,8 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
+        "category": "과학교사 업무",
+        "topic": "학급운영",
         "confidence": "high"
       }
     ]
@@ -18361,10 +18400,8 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
+        "category": "과학교사 업무",
+        "topic": "학급운영",
         "confidence": "high"
       }
     ]
@@ -18792,6 +18829,11 @@
         "subject": null,
         "unit": "미분류",
         "confidence": "high"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "앱/프로그램",
+        "confidence": "low"
       }
     ]
   },
@@ -18851,6 +18893,11 @@
         "subject": null,
         "unit": "미분류",
         "confidence": "high"
+      },
+      {
+        "category": "과학교사 업무",
+        "topic": "교원연수",
+        "confidence": "low"
       }
     ]
   },
@@ -19144,6 +19191,11 @@
         "subject": "과학",
         "unit": "운동과 에너지",
         "confidence": "high"
+      },
+      {
+        "category": "과학교사 업무",
+        "topic": "학급운영",
+        "confidence": "low"
       }
     ]
   },
@@ -19229,6 +19281,11 @@
         "subject": null,
         "unit": "미분류",
         "confidence": "high"
+      },
+      {
+        "category": "과학교사 업무",
+        "topic": "교원연수",
+        "confidence": "low"
       }
     ]
   },

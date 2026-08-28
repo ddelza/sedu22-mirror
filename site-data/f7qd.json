@@ -2185,10 +2185,8 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
+        "category": "수업 방법론",
+        "topic": "토론수업",
         "confidence": "high"
       }
     ]

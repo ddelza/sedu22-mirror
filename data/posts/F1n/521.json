@@ -19,13 +19,11 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
+      "category": "과학교사 업무",
+      "topic": "학급운영",
       "confidence": "high"
     }
   ],
-  "tagsNote": "학기초 친교용 '너도나도' 게임 자료 공유.",
-  "taggedAt": "2026-08-12T08:48:40.813Z"
+  "tagsNote": "학기초 오리엔테이션용 너도나도 아이스브레이킹 게임.",
+  "taggedAt": "2026-08-25T13:21:45.384Z"
 }

@@ -19,13 +19,11 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
+      "category": "재과만 소식",
+      "topic": "카페 운영 공지",
       "confidence": "high"
     }
   ],
-  "tagsNote": "카페 회원 16000명 달성 축하 공지.",
+  "tagsNote": "카페 회원 16000명 달성 축하 공지. / 회원 1만6천명 돌파 안내.",
   "taggedAt": "2026-08-12T13:32:32.162Z"
 }

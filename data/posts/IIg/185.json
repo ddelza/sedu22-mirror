@@ -19,13 +19,11 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
+      "category": "재과만 소식",
+      "topic": "카페 운영 공지",
       "confidence": "low"
     }
   ],
-  "tagsNote": "교사 개인 기대감보다 '집단적 교사 자신감'이 학업성취에 미치는 영향을 다룬 글(특정 단원과 무관).",
-  "taggedAt": "2026-08-13T13:13:51.993Z"
+  "tagsNote": "집단적 교사 자신감이라는 관점에서 재과만 커뮤니티를 조명하는 글.",
+  "taggedAt": "2026-08-26T01:04:22.303Z"
 }

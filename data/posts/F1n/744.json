@@ -19,13 +19,11 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
-      "confidence": "high"
+      "category": "과학교사 업무",
+      "topic": "학급운영",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "학생 중심 발표 수업 방식 전환 관련 고민.",
-  "taggedAt": "2026-08-12T08:53:47.297Z"
+  "tagsNote": "학생 중심 발표 방식/발표자 보상 체계 고민 - 발표자 선정 및 보상제도.",
+  "taggedAt": "2026-08-25T14:00:42.324Z"
 }

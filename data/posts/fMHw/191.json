@@ -19,13 +19,11 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
-      "confidence": "low"
+      "category": "과학교사 업무",
+      "topic": "동아리 운영",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "중1 동아리 숲 체험·환경보호·기후위기 대응 활동 아이디어를 구하는 질문(특정 단원과 무관).",
-  "taggedAt": "2026-08-13T12:32:48.925Z"
+  "tagsNote": "중1 동아리 숲 체험/환경보호/기후위기 대응 활동 아이디어 요청.",
+  "taggedAt": "2026-08-25T14:08:36.082Z"
 }

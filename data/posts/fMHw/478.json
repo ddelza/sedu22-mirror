@@ -19,13 +19,11 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
-      "confidence": "low"
+      "category": "수업 방법론",
+      "topic": "토론수업",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "2017 경기 지역 겨울 워크숍에서 발표한 중3 토론수업 사례 PPT 공유(구체적 단원 불명확).",
-  "taggedAt": "2026-08-13T12:55:32.304Z"
+  "tagsNote": "중3 공개수업 토론수업 지도안 발표자료.",
+  "taggedAt": "2026-08-25T14:11:11.795Z"
 }

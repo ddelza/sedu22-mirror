@@ -19,13 +19,11 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
-      "confidence": "medium"
+      "category": "재과만 소식",
+      "topic": "카페 운영 공지",
+      "confidence": "high"
     }
   ],
-  "tagsNote": "재과만 트렌드 리포트(제27호).",
+  "tagsNote": "재과만 트렌드 리포트(제27호). / 월간 재과만 이야기(제27호) 뉴스레터.",
   "taggedAt": "2026-08-12T13:36:47.368Z"
 }

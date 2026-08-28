@@ -19,13 +19,11 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
-      "confidence": "low"
+      "category": "과학교사 업무",
+      "topic": "영재교육",
+      "confidence": "high"
     }
   ],
-  "tagsNote": "2003년 경상북도교육청 영재교육 이론과 실제 자료 공유(특정 단원과 무관).",
-  "taggedAt": "2026-08-13T13:13:51.992Z"
+  "tagsNote": "경상북도교육청 영재교육 이론과 실제 자료.",
+  "taggedAt": "2026-08-26T01:04:22.301Z"
 }

@@ -19,13 +19,11 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
-      "confidence": "low"
+      "category": "재과만 소식",
+      "topic": "카페 운영 공지",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "정회원 대상 '비밀의 방'에 탑재된 동영상 개발자료 모음 안내(특정 단원과 무관).",
-  "taggedAt": "2026-08-13T13:15:05.064Z"
+  "tagsNote": "정회원 대상 비밀의 방 동영상 자료 이용 안내.",
+  "taggedAt": "2026-08-26T01:05:18.935Z"
 }

@@ -31,9 +31,14 @@
       "subject": "과학",
       "unit": "힘의 작용",
       "confidence": "medium"
+    },
+    {
+      "category": "과학교사 업무",
+      "topic": "교원연수",
+      "confidence": "low"
     }
   ],
-  "tagsNote": "점심시간 아치형 다리 구조 만들기 활동 사례 공유. [보완: 수평 보완]",
-  "taggedAt": "2026-08-12T05:02:24.667Z",
+  "tagsNote": "점심시간 아치형 다리 구조 만들기 활동 사례 공유. [보완: 수평 보완] / 참과학 NTTP연수에서 처음 접한 아치형 다리 만들기 활동.",
+  "taggedAt": "2026-08-28T00:05:19.569Z",
   "verticalReviewedAt": "2026-08-14T02:56:06.672Z"
 }

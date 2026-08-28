@@ -22,8 +22,13 @@
       "category": "게시판별 분류",
       "topic": "과학행사&과학실 Idea",
       "confidence": "high"
+    },
+    {
+      "category": "과학교사 업무",
+      "topic": "학급운영",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "과학실 자리배치(색상 코드) 운영 팁.",
-  "taggedAt": "2026-08-11T22:22:30.866Z"
+  "tagsNote": "과학실 자리배치(색상 코드) 운영 팁. / RGBW 색상 카드를 이용한 과학실 랜덤 자리배치 방법.",
+  "taggedAt": "2026-08-27T23:47:39.300Z"
 }

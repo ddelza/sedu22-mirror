@@ -19,13 +19,11 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
-      "confidence": "low"
+      "category": "과학교사 업무",
+      "topic": "영재교육",
+      "confidence": "high"
     }
   ],
-  "tagsNote": "영재학급 창의적산출물 지도에서 과학실험 주제의 범주를 잡아주는 방법 소개(특정 단원과 무관).",
-  "taggedAt": "2026-08-13T13:57:29.855Z"
+  "tagsNote": "영재학급 창의적산출물 지도에서 과학실험 범주를 잡아주는 방법.",
+  "taggedAt": "2026-08-25T14:05:40.791Z"
 }

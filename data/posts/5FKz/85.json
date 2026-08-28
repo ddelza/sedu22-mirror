@@ -22,8 +22,13 @@
       "category": "게시판별 분류",
       "topic": "거꾸로 교실(김신혜)",
       "confidence": "high"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "앱/프로그램",
+      "confidence": "low"
     }
   ],
-  "tagsNote": "거꾸로 교실 1달차 운영 고민 나눔.",
-  "taggedAt": "2026-08-11T23:34:47.228Z"
+  "tagsNote": "거꾸로 교실 1달차 운영 고민 나눔. / 오캠으로 디딤영상 촬영 중.",
+  "taggedAt": "2026-08-27T23:56:10.699Z"
 }

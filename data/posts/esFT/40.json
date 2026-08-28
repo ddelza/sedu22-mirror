@@ -19,13 +19,11 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
-      "confidence": "high"
+      "category": "과학교사 업무",
+      "topic": "세특작성",
+      "confidence": "medium"
     }
   ],
   "tagsNote": "전임자 작성 세특 수정 가능 여부 문의.",
-  "taggedAt": "2026-08-12T03:32:41.226Z"
+  "taggedAt": "2026-08-25T13:07:19.729Z"
 }

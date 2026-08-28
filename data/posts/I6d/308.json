@@ -19,13 +19,11 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
-      "confidence": "low"
+      "category": "스마트 수업도구",
+      "topic": "생성형 AI 도구",
+      "confidence": "high"
     }
   ],
-  "tagsNote": "'2학기 평가계획 생성 앱' 활용법 재안내(특정 단원과 무관).",
-  "taggedAt": "2026-08-13T13:11:29.204Z"
+  "tagsNote": "2학기 평가계획 생성 AI 앱 활용법 재안내.",
+  "taggedAt": "2026-08-25T23:26:07.518Z"
 }

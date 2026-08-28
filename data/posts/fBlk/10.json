@@ -22,8 +22,13 @@
       "category": "과학교사 업무",
       "topic": "교원연수",
       "confidence": "high"
+    },
+    {
+      "category": "재과만 소식",
+      "topic": "카페 운영 공지",
+      "confidence": "high"
     }
   ],
-  "tagsNote": "정기모임 참가비 정산 및 상품권 증정 안내.",
+  "tagsNote": "정기모임 참가비 정산 및 상품권 증정 안내. / 정기모임 참가비 정산 안내.",
   "taggedAt": "2026-08-12T13:24:15.920Z"
 }

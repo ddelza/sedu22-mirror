@@ -18,13 +18,11 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
-      "confidence": "high"
+      "category": "과학교사 업무",
+      "topic": "생활지도",
+      "confidence": "medium"
     }
   ],
   "tagsNote": "고3 학생 수특 문제 즉답 못한 데 대한 자괴감 토로.",
-  "taggedAt": "2026-08-12T04:50:37.962Z"
+  "taggedAt": "2026-08-25T13:12:35.540Z"
 }

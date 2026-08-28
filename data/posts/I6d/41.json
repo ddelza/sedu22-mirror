@@ -19,13 +19,11 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
-      "confidence": "low"
+      "category": "과학교사 업무",
+      "topic": "학급운영",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "화학·물리 담당 교사의 수업일기 작성 동기 소개 첫 번째 글(특정 단원과 무관).",
-  "taggedAt": "2026-08-13T13:11:29.210Z"
+  "tagsNote": "학급 소통을 위한 과학 수업일기 운영 시작 동기와 방법.",
+  "taggedAt": "2026-08-25T23:26:07.521Z"
 }

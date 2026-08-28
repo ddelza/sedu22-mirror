@@ -19,13 +19,11 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
-      "confidence": "low"
+      "category": "과학교사 업무",
+      "topic": "학급운영",
+      "confidence": "high"
     }
   ],
-  "tagsNote": "중3 과학 첫시간 빙고 활동을 한글파일로 간단히 편집한 재공유(특정 단원과 무관).",
-  "taggedAt": "2026-08-13T12:54:04.702Z"
+  "tagsNote": "중3 과학 첫시간 빙고 활동(한글파일 버전).",
+  "taggedAt": "2026-08-25T14:11:11.766Z"
 }

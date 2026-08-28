@@ -19,13 +19,11 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
-      "confidence": "low"
+      "category": "스마트 수업도구",
+      "topic": "생성형 AI 도구",
+      "confidence": "high"
     }
   ],
-  "tagsNote": "지필고사 문항 오류를 찾아주는 '지필고사 문항오류 검토 AI앱' 공개(특정 단원과 무관).",
-  "taggedAt": "2026-08-13T13:11:29.203Z"
+  "tagsNote": "지필고사 문항오류를 찾아주는 AI앱 공개.",
+  "taggedAt": "2026-08-25T23:26:07.517Z"
 }

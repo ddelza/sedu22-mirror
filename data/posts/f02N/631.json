@@ -18,13 +18,11 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
-      "confidence": "high"
+      "category": "과학교사 업무",
+      "topic": "과학실 관리",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "교육예산 삭감으로 인한 과학실 공사 축소 및 수업시수 증가 예상 공유.",
-  "taggedAt": "2026-08-12T04:53:16.393Z"
+  "tagsNote": "예산 삭감으로 인한 과학실 공사 축소 전망 - 과학실 관리/시설 관련.",
+  "taggedAt": "2026-08-25T13:16:28.186Z"
 }

@@ -24,8 +24,13 @@
       "subject": null,
       "unit": "미분류",
       "confidence": "high"
+    },
+    {
+      "category": "과학교사 업무",
+      "topic": "학급운영",
+      "confidence": "low"
     }
   ],
-  "tagsNote": "매시간 학습지 검사 습관 등 수업 방식 자기성찰 공유.",
-  "taggedAt": "2026-08-12T08:44:53.499Z"
+  "tagsNote": "매시간 학습지 검사 습관 등 수업 방식 자기성찰 공유. / 학습지 제출률을 높이기 위한 칭찬과 보상 활용 고민.",
+  "taggedAt": "2026-08-28T00:07:36.530Z"
 }

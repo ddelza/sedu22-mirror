@@ -27,8 +27,13 @@
       "category": "게시판별 분류",
       "topic": "거꾸로 교실(김신혜)",
       "confidence": "high"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "앱/프로그램",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "디딤수업 촬영 도구(태블릿) 추천 요청.",
-  "taggedAt": "2026-08-11T23:34:47.216Z"
+  "tagsNote": "디딤수업 촬영 도구(태블릿) 추천 요청. / explain everything 어플과 갤럭시노트/태블릿을 이용한 디딤수업 촬영법 문의.",
+  "taggedAt": "2026-08-27T23:56:10.692Z"
 }

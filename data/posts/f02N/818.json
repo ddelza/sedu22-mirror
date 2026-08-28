@@ -18,13 +18,11 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
+      "category": "과학교사 업무",
+      "topic": "세특작성",
       "confidence": "high"
     }
   ],
-  "tagsNote": "자유학기 전원 대상 과세특 개별화 작성의 어려움 토로.",
-  "taggedAt": "2026-08-12T04:57:09.263Z"
+  "tagsNote": "100명 넘는 학생 대상 과세특 개별화 작성 어려움 및 규정 문의.",
+  "taggedAt": "2026-08-25T13:18:23.351Z"
 }

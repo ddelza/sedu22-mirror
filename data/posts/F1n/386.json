@@ -19,13 +19,11 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
+      "category": "과학교사 업무",
+      "topic": "세특작성",
       "confidence": "high"
     }
   ],
-  "tagsNote": "세특 작성을 위한 학생 활동 관찰/기록 방법 질문.",
-  "taggedAt": "2026-08-12T08:44:53.499Z"
+  "tagsNote": "세특 기록을 위한 평상시 학생 활동 관찰/메모 방법 문의.",
+  "taggedAt": "2026-08-25T13:20:58.603Z"
 }

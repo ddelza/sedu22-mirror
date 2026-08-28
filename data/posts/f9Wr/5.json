@@ -19,13 +19,11 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
+      "category": "과학교사 업무",
+      "topic": "학급운영",
       "confidence": "high"
     }
   ],
-  "tagsNote": "학기초 활용 추천 프로그램 모음 소개.",
-  "taggedAt": "2026-08-12T10:30:00.120Z"
+  "tagsNote": "학기초 학급투표/자리바꾸기/청소구역배정/발표자뽑기/학급규칙 프로그램 모음.",
+  "taggedAt": "2026-08-25T14:03:45.105Z"
 }

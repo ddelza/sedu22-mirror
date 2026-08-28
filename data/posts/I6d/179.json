@@ -19,13 +19,16 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
-      "confidence": "low"
+      "category": "과학교사 업무",
+      "topic": "세특작성",
+      "confidence": "high"
+    },
+    {
+      "category": "과학교사 업무",
+      "topic": "학급운영",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "시험 전 학습지 검사를 겸한 1:1 학습활동 면담 진행 방법 공유(특정 단원과 무관).",
-  "taggedAt": "2026-08-13T13:04:51.247Z"
+  "tagsNote": "학습지 검사를 겸한 1:1 학생 면담 - 관찰 내용을 세특에 활용.",
+  "taggedAt": "2026-08-25T14:16:51.280Z"
 }

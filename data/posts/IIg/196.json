@@ -19,13 +19,11 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
+      "category": "과학교사 업무",
+      "topic": "과학실 관리",
       "confidence": "low"
     }
   ],
-  "tagsNote": "제주 1평 미술관을 본떠 학교 과학실 복도에 '1평 과학관'을 만들자는 아이디어 제안(특정 단원과 무관).",
-  "taggedAt": "2026-08-13T13:15:05.049Z"
+  "tagsNote": "학교 과학실 복도에 1평 과학관을 만들자는 아이디어 제안.",
+  "taggedAt": "2026-08-26T01:04:22.307Z"
 }

@@ -19,13 +19,11 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
-      "confidence": "low"
+      "category": "과학교사 업무",
+      "topic": "과학실 관리",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "영구프레파라트 구입 후 교구등록 절차에 대한 행정 질문(특정 단원과 무관).",
-  "taggedAt": "2026-08-13T12:32:48.917Z"
+  "tagsNote": "영구프레파라트 구입 후 교구등록 절차 문의.",
+  "taggedAt": "2026-08-25T14:08:36.078Z"
 }

@@ -19,13 +19,11 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
+      "category": "재과만 소식",
+      "topic": "카페 운영 공지",
       "confidence": "high"
     }
   ],
-  "tagsNote": "댓글 달린 글 삭제 자제 요청(운영 공지).",
+  "tagsNote": "댓글 달린 글 삭제 자제 요청(운영 공지). / 게시글 삭제 관련 운영 안내.",
   "taggedAt": "2026-08-12T04:18:08.727Z"
 }

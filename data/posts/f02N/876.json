@@ -18,13 +18,11 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
-      "confidence": "high"
+      "category": "재과만 소식",
+      "topic": "카페 운영 공지",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "거꾸로 멘토링 관련 뉴스 기사 공유.",
-  "taggedAt": "2026-08-12T04:58:27.158Z"
+  "tagsNote": "재과만 카페/운영/단톡방/사업 관련 제안 요청.",
+  "taggedAt": "2026-08-25T13:18:23.355Z"
 }

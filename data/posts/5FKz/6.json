@@ -36,8 +36,23 @@
       "category": "게시판별 분류",
       "topic": "거꾸로 교실(김신혜)",
       "confidence": "high"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "앱/프로그램",
+      "confidence": "medium"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "교육용 단말기(태블릿/크롬북)",
+      "confidence": "medium"
+    },
+    {
+      "category": "과학교사 업무",
+      "topic": "교원연수",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "거꾸로수업 첫 시도 후기 — 판구조론(지권의 변화) 동영상 제작.",
-  "taggedAt": "2026-08-11T23:33:10.432Z"
+  "tagsNote": "거꾸로수업 첫 시도 후기 — 판구조론(지권의 변화) 동영상 제작. / 반디캠·익스플레인 에브리씽으로 아이패드 스마트교실을 활용한 첫 디딤영상 제작(스마트연수 수강 경험 포함).",
+  "taggedAt": "2026-08-27T23:54:57.777Z"
 }

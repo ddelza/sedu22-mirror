@@ -19,13 +19,11 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
-      "confidence": "low"
+      "category": "과학교사 업무",
+      "topic": "세특작성",
+      "confidence": "high"
     }
   ],
-  "tagsNote": "학생 활동 관찰·메모를 학교생활기록부 기록으로 연결하는 노하우를 구하는 질문(특정 단원과 무관).",
-  "taggedAt": "2026-08-13T13:12:37.823Z"
+  "tagsNote": "학생 활동 관찰·메모를 생활기록부 기록으로 연결하는 노하우 질문.",
+  "taggedAt": "2026-08-26T01:03:22.355Z"
 }

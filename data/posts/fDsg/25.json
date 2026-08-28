@@ -19,13 +19,11 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
+      "category": "재과만 소식",
+      "topic": "카페 운영 공지",
       "confidence": "high"
     }
   ],
-  "tagsNote": "익명게시판 사용 안내.",
+  "tagsNote": "익명게시판 사용 안내. / 익명게시판 사용 안내.",
   "taggedAt": "2026-08-12T13:33:30.795Z"
 }

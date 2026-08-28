@@ -22,8 +22,13 @@
       "category": "과학교사 업무",
       "topic": "교원연수",
       "confidence": "high"
+    },
+    {
+      "category": "재과만 소식",
+      "topic": "카페 운영 공지",
+      "confidence": "high"
     }
   ],
-  "tagsNote": "재과만 부산 워크숍(제38회 톡톡 오프라인) 공지.",
+  "tagsNote": "재과만 부산 워크숍(제38회 톡톡 오프라인) 공지. / 재과만 부산 오프라인 워크숍 공지.",
   "taggedAt": "2026-08-12T13:33:30.804Z"
 }

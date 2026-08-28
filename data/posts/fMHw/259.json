@@ -19,13 +19,11 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
-      "confidence": "low"
+      "category": "과학교사 업무",
+      "topic": "학급운영",
+      "confidence": "high"
     }
   ],
-  "tagsNote": "2학기 과학수업 오리엔테이션 자료 공유(특정 단원과 무관).",
-  "taggedAt": "2026-08-13T12:46:21.332Z"
+  "tagsNote": "2학기 오리엔테이션 - 모둠구성 및 아이스브레이킹 계획.",
+  "taggedAt": "2026-08-25T14:09:49.253Z"
 }

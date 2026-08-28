@@ -17,16 +17,9 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
-        "confidence": "low"
-      },
-      {
         "category": "스마트 수업도구",
-        "topic": "AI",
-        "confidence": "medium"
+        "topic": "앱/프로그램",
+        "confidence": "high"
       }
     ]
   },
@@ -48,16 +41,9 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
-        "confidence": "low"
-      },
-      {
         "category": "스마트 수업도구",
-        "topic": "AI",
-        "confidence": "high"
+        "topic": "생성형 AI 도구",
+        "confidence": "medium"
       }
     ]
   },
@@ -131,15 +117,8 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": "고등학교",
-        "subject": "화학",
-        "unit": "미분류",
-        "confidence": "low"
-      },
-      {
         "category": "스마트 수업도구",
-        "topic": "AI",
+        "topic": "생성형 AI 도구",
         "confidence": "high"
       }
     ]

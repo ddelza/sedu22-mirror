@@ -19,13 +19,11 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
+      "category": "과학교사 업무",
+      "topic": "교원연수",
       "confidence": "low"
     }
   ],
-  "tagsNote": "2001년 창원대 NIE(신문활용교육) 연수 원고 공유(특정 단원과 무관).",
-  "taggedAt": "2026-08-13T13:13:51.973Z"
+  "tagsNote": "2001년 NIE(신문활용교육) 연수 원고 공유.",
+  "taggedAt": "2026-08-26T01:03:22.362Z"
 }

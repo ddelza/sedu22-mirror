@@ -19,13 +19,11 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
-      "confidence": "high"
+      "category": "스마트 수업도구",
+      "topic": "앱/프로그램",
+      "confidence": "medium"
     }
   ],
   "tagsNote": "교사의 공유 문화에 대한 에세이.",
-  "taggedAt": "2026-08-12T03:47:18.817Z"
+  "taggedAt": "2026-08-25T13:09:05.364Z"
 }

@@ -19,13 +19,11 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
+      "category": "과학교사 업무",
+      "topic": "학급운영",
       "confidence": "low"
     }
   ],
-  "tagsNote": "서술형평가 후 시험지로 자기 점수를 계산해보게 하는 문제풀이 시간 운영 팁(특정 단원과 무관).",
-  "taggedAt": "2026-08-13T13:11:29.194Z"
+  "tagsNote": "서술형평가 자기채점 활동에 사탕 보상 부여.",
+  "taggedAt": "2026-08-25T23:26:07.512Z"
 }

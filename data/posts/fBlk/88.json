@@ -22,8 +22,13 @@
       "category": "과학교사 업무",
       "topic": "교원연수",
       "confidence": "high"
+    },
+    {
+      "category": "재과만 소식",
+      "topic": "카페 운영 공지",
+      "confidence": "high"
     }
   ],
-  "tagsNote": "재과만 222 행사 진행 후기.",
+  "tagsNote": "재과만 222 행사 진행 후기. / 222 행사 후기 및 총평(운영진 시각).",
   "taggedAt": "2026-08-12T13:32:32.148Z"
 }

@@ -19,13 +19,11 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
-      "confidence": "low"
+      "category": "과학교사 업무",
+      "topic": "교원연수",
+      "confidence": "high"
     }
   ],
-  "tagsNote": "'내공팍팍! 과학수업 전문가 과정' 티스쿨 원격연수 추천(특정 단원과 무관).",
-  "taggedAt": "2026-08-13T13:15:05.065Z"
+  "tagsNote": "티스쿨 원격연수(내공팍팍! 과학수업 전문가 과정) 추천.",
+  "taggedAt": "2026-08-26T01:05:18.936Z"
 }

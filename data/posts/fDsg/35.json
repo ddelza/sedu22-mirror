@@ -19,13 +19,11 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
+      "category": "재과만 소식",
+      "topic": "카페 운영 공지",
       "confidence": "high"
     }
   ],
-  "tagsNote": "카페 자료 공유 및 활용 규칙 안내.",
+  "tagsNote": "카페 자료 공유 및 활용 규칙 안내. / 카페 자료 공유 및 활용 규칙 안내(저작권).",
   "taggedAt": "2026-08-12T13:33:30.803Z"
 }

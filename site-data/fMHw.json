@@ -116,11 +116,9 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
-        "confidence": "low"
+        "category": "과학교사 업무",
+        "topic": "과학실 관리",
+        "confidence": "high"
       }
     ]
   },
@@ -142,11 +140,9 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
-        "confidence": "low"
+        "category": "과학교사 업무",
+        "topic": "과학 행사",
+        "confidence": "medium"
       }
     ]
   },
@@ -168,11 +164,9 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
-        "confidence": "low"
+        "category": "과학교사 업무",
+        "topic": "과학실 관리",
+        "confidence": "high"
       }
     ]
   },
@@ -461,11 +455,9 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
-        "confidence": "low"
+        "category": "수업 방법론",
+        "topic": "거꾸로 교실",
+        "confidence": "high"
       }
     ]
   },
@@ -631,11 +623,9 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
-        "confidence": "low"
+        "category": "과학교사 업무",
+        "topic": "과학실 관리",
+        "confidence": "medium"
       }
     ]
   },
@@ -1243,11 +1233,9 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
-        "confidence": "low"
+        "category": "과학교사 업무",
+        "topic": "영재교육",
+        "confidence": "high"
       }
     ]
   },
@@ -1347,11 +1335,9 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
-        "confidence": "low"
+        "category": "수업 방법론",
+        "topic": "IB(개념기반학습)",
+        "confidence": "medium"
       }
     ]
   },
@@ -1503,11 +1489,9 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
-        "confidence": "low"
+        "category": "과학교사 업무",
+        "topic": "학급운영",
+        "confidence": "high"
       }
     ]
   },
@@ -2587,11 +2571,9 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
-        "confidence": "low"
+        "category": "과학교사 업무",
+        "topic": "과학실 관리",
+        "confidence": "medium"
       }
     ]
   },
@@ -2978,11 +2960,9 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
-        "confidence": "low"
+        "category": "과학교사 업무",
+        "topic": "학급운영",
+        "confidence": "high"
       }
     ]
   },
@@ -3004,11 +2984,9 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
-        "confidence": "low"
+        "category": "과학교사 업무",
+        "topic": "학급운영",
+        "confidence": "high"
       }
     ]
   },
@@ -3030,11 +3008,9 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
-        "confidence": "low"
+        "category": "과학교사 업무",
+        "topic": "학급운영",
+        "confidence": "high"
       }
     ]
   },
@@ -3056,11 +3032,9 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
-        "confidence": "low"
+        "category": "과학교사 업무",
+        "topic": "학급운영",
+        "confidence": "high"
       }
     ]
   },
@@ -3082,11 +3056,9 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
-        "confidence": "low"
+        "category": "과학교사 업무",
+        "topic": "학급운영",
+        "confidence": "high"
       }
     ]
   },
@@ -3108,11 +3080,9 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
-        "confidence": "low"
+        "category": "과학교사 업무",
+        "topic": "학급운영",
+        "confidence": "high"
       }
     ]
   },
@@ -3722,11 +3692,9 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
-        "confidence": "low"
+        "category": "과학교사 업무",
+        "topic": "학급운영",
+        "confidence": "medium"
       }
     ]
   },
@@ -4153,11 +4121,9 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
-        "confidence": "low"
+        "category": "과학교사 업무",
+        "topic": "과학 행사",
+        "confidence": "medium"
       }
     ]
   },
@@ -4316,11 +4282,9 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
-        "confidence": "low"
+        "category": "과학교사 업무",
+        "topic": "동아리 운영",
+        "confidence": "medium"
       }
     ]
   },
@@ -4837,11 +4801,9 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
-        "confidence": "low"
+        "category": "과학교사 업무",
+        "topic": "학급운영",
+        "confidence": "high"
       }
     ]
   },
@@ -5014,10 +4976,8 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
+        "category": "과학교사 업무",
+        "topic": "과학 행사",
         "confidence": "low"
       }
     ]
@@ -5144,10 +5104,8 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
+        "category": "과학교사 업무",
+        "topic": "과학실 관리",
         "confidence": "low"
       }
     ]
@@ -6632,11 +6590,9 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
-        "confidence": "low"
+        "category": "과학교사 업무",
+        "topic": "과학실 관리",
+        "confidence": "high"
       }
     ]
   },
@@ -6913,11 +6869,9 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
-        "confidence": "low"
+        "category": "과학교사 업무",
+        "topic": "과학실 관리",
+        "confidence": "high"
       }
     ]
   },
@@ -7267,11 +7221,9 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
-        "confidence": "low"
+        "category": "수업 방법론",
+        "topic": "토론수업",
+        "confidence": "high"
       }
     ]
   },
@@ -7345,11 +7297,9 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
-        "confidence": "low"
+        "category": "과학교사 업무",
+        "topic": "학급운영",
+        "confidence": "high"
       }
     ]
   },
@@ -7371,11 +7321,9 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
-        "confidence": "low"
+        "category": "과학교사 업무",
+        "topic": "학급운영",
+        "confidence": "high"
       }
     ]
   },
@@ -7801,10 +7749,8 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
+        "category": "과학교사 업무",
+        "topic": "학급운영",
         "confidence": "low"
       }
     ]
@@ -7997,11 +7943,9 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
-        "confidence": "low"
+        "category": "과학교사 업무",
+        "topic": "과학실 관리",
+        "confidence": "medium"
       }
     ]
   },
@@ -8663,11 +8607,9 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
-        "confidence": "low"
+        "category": "과학교사 업무",
+        "topic": "영재교육",
+        "confidence": "high"
       }
     ]
   },
@@ -8715,11 +8657,9 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
-        "confidence": "low"
+        "category": "수업 방법론",
+        "topic": "토론수업",
+        "confidence": "high"
       }
     ]
   },
@@ -8885,11 +8825,9 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
-        "confidence": "low"
+        "category": "과학교사 업무",
+        "topic": "세특작성",
+        "confidence": "high"
       }
     ]
   },
@@ -9036,11 +8974,9 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
-        "confidence": "low"
+        "category": "과학교사 업무",
+        "topic": "과학실 관리",
+        "confidence": "high"
       }
     ]
   },
@@ -9324,11 +9260,9 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
-        "confidence": "low"
+        "category": "과학교사 업무",
+        "topic": "과학 행사",
+        "confidence": "medium"
       }
     ]
   },
@@ -9553,11 +9487,9 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
-        "confidence": "low"
+        "category": "과학교사 업무",
+        "topic": "학급운영",
+        "confidence": "high"
       }
     ]
   },
@@ -9990,11 +9922,9 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
-        "confidence": "low"
+        "category": "수업 방법론",
+        "topic": "토론수업",
+        "confidence": "high"
       }
     ]
   },
@@ -10486,11 +10416,9 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
-        "confidence": "low"
+        "category": "수업 방법론",
+        "topic": "토론수업",
+        "confidence": "medium"
       }
     ]
   },
@@ -11192,11 +11120,9 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
-        "confidence": "low"
+        "category": "수업 방법론",
+        "topic": "배움중심수업",
+        "confidence": "high"
       }
     ]
   },
@@ -12214,11 +12140,9 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
-        "confidence": "low"
+        "category": "과학교사 업무",
+        "topic": "과학실 관리",
+        "confidence": "high"
       }
     ]
   },
@@ -12495,11 +12419,9 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
-        "confidence": "low"
+        "category": "과학교사 업무",
+        "topic": "학급운영",
+        "confidence": "high"
       }
     ]
   },
@@ -12717,11 +12639,9 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
-        "confidence": "low"
+        "category": "수업 방법론",
+        "topic": "토론수업",
+        "confidence": "medium"
       }
     ]
   },
@@ -12932,11 +12852,9 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
-        "confidence": "low"
+        "category": "과학교사 업무",
+        "topic": "과학실 관리",
+        "confidence": "medium"
       }
     ]
   },
@@ -13520,11 +13438,9 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
-        "confidence": "low"
+        "category": "과학교사 업무",
+        "topic": "과학실 관리",
+        "confidence": "medium"
       }
     ]
   },
@@ -13605,11 +13521,9 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
-        "confidence": "low"
+        "category": "과학교사 업무",
+        "topic": "과학실 관리",
+        "confidence": "high"
       }
     ]
   },

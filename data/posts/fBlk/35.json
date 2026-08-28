@@ -22,8 +22,13 @@
       "category": "과학교사 업무",
       "topic": "교원연수",
       "confidence": "high"
+    },
+    {
+      "category": "재과만 소식",
+      "topic": "카페 운영 공지",
+      "confidence": "high"
     }
   ],
-  "tagsNote": "2회 오프모임 주제/방식 사전조사.",
+  "tagsNote": "2회 오프모임 주제/방식 사전조사. / 2회 오프모임 사전조사.",
   "taggedAt": "2026-08-12T13:25:22.784Z"
 }

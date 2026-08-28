@@ -19,13 +19,11 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
-      "confidence": "low"
+      "category": "과학교사 업무",
+      "topic": "학급운영",
+      "confidence": "high"
     }
   ],
-  "tagsNote": "다른 학년용 빙고 자료를 중3에 맞게 수정한 과학 OT 빙고판 공유(특정 단원과 무관).",
-  "taggedAt": "2026-08-13T12:54:04.703Z"
+  "tagsNote": "중3 과학 첫시간 빙고 활동(중1,2 자료 수정본).",
+  "taggedAt": "2026-08-25T14:11:11.772Z"
 }

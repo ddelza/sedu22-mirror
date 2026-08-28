@@ -19,13 +19,11 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
-      "confidence": "low"
+      "category": "과학교사 업무",
+      "topic": "과학실 관리",
+      "confidence": "high"
     }
   ],
-  "tagsNote": "과학실험실 시약장 재정리를 위한 시약 분류 방법에 대한 고민(특정 단원과 무관).",
-  "taggedAt": "2026-08-13T12:47:52.436Z"
+  "tagsNote": "과학실험실 시약장 재정리 및 독극물 분류 방법 고민.",
+  "taggedAt": "2026-08-25T14:09:49.262Z"
 }

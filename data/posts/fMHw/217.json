@@ -19,13 +19,11 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
-      "confidence": "low"
+      "category": "수업 방법론",
+      "topic": "거꾸로 교실",
+      "confidence": "high"
     }
   ],
-  "tagsNote": "1학기 내내 진행한 거꾸로수업의 장단점을 돌아보는 2학기 수업 고민 글(특정 단원과 무관).",
-  "taggedAt": "2026-08-13T12:34:22.701Z"
+  "tagsNote": "1학기 내내 진행한 거꾸로수업의 장단점과 2학기 운영 방향 고민.",
+  "taggedAt": "2026-08-25T14:09:11.720Z"
 }

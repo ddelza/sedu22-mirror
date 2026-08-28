@@ -24,8 +24,13 @@
       "subject": null,
       "unit": "미분류",
       "confidence": "high"
+    },
+    {
+      "category": "과학교사 업무",
+      "topic": "학급운영",
+      "confidence": "low"
     }
   ],
-  "tagsNote": "단원마무리 예상문제 풀기 게임 진행방법 공유.",
-  "taggedAt": "2026-08-12T05:02:24.698Z"
+  "tagsNote": "단원마무리 예상문제 풀기 게임 진행방법 공유. / 예상문제풀기 게임 - 도장 보상제 활용.",
+  "taggedAt": "2026-08-28T00:05:19.577Z"
 }

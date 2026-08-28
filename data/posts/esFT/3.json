@@ -19,13 +19,11 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
-      "confidence": "high"
+      "category": "과학교사 업무",
+      "topic": "세특작성",
+      "confidence": "medium"
     }
   ],
   "tagsNote": "자유학기제 성적/세특 입력 엑셀 양식 공유.",
-  "taggedAt": "2026-08-12T03:31:12.989Z"
+  "taggedAt": "2026-08-25T13:07:19.725Z"
 }

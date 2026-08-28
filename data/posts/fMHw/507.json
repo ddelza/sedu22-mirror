@@ -19,13 +19,11 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
-      "confidence": "low"
+      "category": "과학교사 업무",
+      "topic": "과학 행사",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "지구의 날 기념 10분 소등 행사 및 생태예산 간식 배부 계획 공유(특정 단원과 무관).",
-  "taggedAt": "2026-08-13T12:56:59.881Z"
+  "tagsNote": "지구의 날 기념 소등행사 기획/운영.",
+  "taggedAt": "2026-08-25T14:11:50.172Z"
 }

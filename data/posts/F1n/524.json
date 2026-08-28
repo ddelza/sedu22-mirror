@@ -19,13 +19,11 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
-      "confidence": "high"
+      "category": "과학교사 업무",
+      "topic": "생활지도",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "동료교사 수업 참관 소감(소통, 신뢰) 공유.",
-  "taggedAt": "2026-08-12T08:48:40.819Z"
+  "tagsNote": "수업 중 욕설 등 문제상황에 대한 동료교사의 대응 화법 사례 공유.",
+  "taggedAt": "2026-08-25T13:21:45.385Z"
 }

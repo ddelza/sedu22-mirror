@@ -19,13 +19,16 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
-      "confidence": "low"
+      "category": "과학교사 업무",
+      "topic": "세특작성",
+      "confidence": "high"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "생성형 AI 도구",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "생기부 작성 도움 무료 연수(클리포) 안내 홍보글(특정 단원과 무관).",
-  "taggedAt": "2026-08-13T13:10:14.909Z"
+  "tagsNote": "AI 도구(클리포)를 활용한 생기부 작성 무료 연수 안내.",
+  "taggedAt": "2026-08-25T23:25:00.977Z"
 }

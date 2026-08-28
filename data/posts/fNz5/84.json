@@ -19,18 +19,11 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
-      "confidence": "low"
-    },
-    {
       "category": "스마트 수업도구",
-      "topic": "센서/데이터로깅",
+      "topic": "MBL센서",
       "confidence": "high"
     }
   ],
-  "tagsNote": "서울시교육청과 공동 제작한 2026 중등 디지털 탐구도구(센서) 활용 교수학습자료 소개(48편, 여러 단원 포괄).",
-  "taggedAt": "2026-08-13T13:02:02.147Z"
+  "tagsNote": "서울시교육청과 공동 제작한 중등 디지털 탐구도구(센서) 활용 교수학습자료 소개.",
+  "taggedAt": "2026-08-25T14:16:02.872Z"
 }

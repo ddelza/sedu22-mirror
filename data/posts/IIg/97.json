@@ -19,13 +19,11 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
+      "category": "과학교사 업무",
+      "topic": "교원연수",
       "confidence": "low"
     }
   ],
-  "tagsNote": "김영학 선생님과의 멘토링 인연을 계기로 시작한 초보교사의 작은 모임·수업 나눔 소감글(특정 단원과 무관).",
-  "taggedAt": "2026-08-13T13:16:31.653Z"
+  "tagsNote": "신규교사 멘토링 인연을 계기로 한 작은 모임·수업나눔 소감.",
+  "taggedAt": "2026-08-26T01:05:18.953Z"
 }

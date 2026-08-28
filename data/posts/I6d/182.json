@@ -19,13 +19,11 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
-      "confidence": "low"
+      "category": "과학교사 업무",
+      "topic": "학급운영",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "시험 일주일 전 진행한 두 번째 1:1 학습활동 면담(정오표 활용) 방법 공유(특정 단원과 무관).",
-  "taggedAt": "2026-08-13T13:04:51.249Z"
+  "tagsNote": "시험 준비 상황 점검을 위한 2차 1:1 학습활동 면담(정오표 활용).",
+  "taggedAt": "2026-08-25T14:16:51.281Z"
 }

@@ -18,13 +18,11 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
-      "confidence": "high"
+      "category": "과학교사 업무",
+      "topic": "생활지도",
+      "confidence": "medium"
     }
   ],
   "tagsNote": "특정 학급 수업 어려움 소회.",
-  "taggedAt": "2026-08-12T04:38:49.300Z"
+  "taggedAt": "2026-08-25T13:11:12.636Z"
 }

@@ -27,8 +27,13 @@
       "category": "과학교사 업무",
       "topic": "과학 행사",
       "confidence": "medium"
+    },
+    {
+      "category": "재과만 소식",
+      "topic": "카페 운영 공지",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "재과만 톡톡 9회(과학부스의 모든 것, 영상 없음) 안내.",
+  "tagsNote": "재과만 톡톡 9회(과학부스의 모든 것, 영상 없음) 안내. / 재과만 톡톡 9회 공지(영상 없음).",
   "taggedAt": "2026-08-12T13:22:58.985Z"
 }

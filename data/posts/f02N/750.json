@@ -18,13 +18,11 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
-      "confidence": "high"
+      "category": "과학교사 업무",
+      "topic": "세특작성",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "심화 조사보고서 기반 세특 작성 방식의 적절성 문의.",
-  "taggedAt": "2026-08-12T04:55:49.812Z"
+  "tagsNote": "개별 조사보고서 기반 세특 작성 방식의 적절성 문의.",
+  "taggedAt": "2026-08-25T13:18:23.346Z"
 }

@@ -22,8 +22,13 @@
       "category": "과학교사 업무",
       "topic": "교원연수",
       "confidence": "medium"
+    },
+    {
+      "category": "재과만 소식",
+      "topic": "카페 운영 공지",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "222 행사 발표자료 공유 요청.",
+  "tagsNote": "222 행사 발표자료 공유 요청. / 222 행사 발표자료 공유 요청.",
   "taggedAt": "2026-08-12T13:32:32.150Z"
 }

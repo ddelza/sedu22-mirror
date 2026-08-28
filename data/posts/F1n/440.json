@@ -19,13 +19,16 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
-      "confidence": "high"
+      "category": "과학교사 업무",
+      "topic": "학급운영",
+      "confidence": "medium"
+    },
+    {
+      "category": "수업 방법론",
+      "topic": "토론수업",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "하브루타 방식 적용 시도 과학 첫수업 후기 공유.",
-  "taggedAt": "2026-08-12T08:46:04.005Z"
+  "tagsNote": "과학 첫수업 오리엔테이션(공책정리 안내문, 역할분담표 등) 자료.",
+  "taggedAt": "2026-08-25T13:21:45.378Z"
 }

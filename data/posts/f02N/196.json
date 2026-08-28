@@ -18,13 +18,11 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
-      "confidence": "high"
+      "category": "과학교사 업무",
+      "topic": "세특작성",
+      "confidence": "medium"
     }
   ],
   "tagsNote": "자유학년제 1학년 세특 작성 노하우 문의.",
-  "taggedAt": "2026-08-12T04:38:49.321Z"
+  "taggedAt": "2026-08-25T13:11:12.641Z"
 }

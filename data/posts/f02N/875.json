@@ -18,13 +18,11 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
-      "confidence": "high"
+      "category": "과학교사 업무",
+      "topic": "생활지도",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "수업 중 지속적으로 낙서하는 학생 지도 경험 공유 요청.",
-  "taggedAt": "2026-08-12T04:58:27.156Z"
+  "tagsNote": "수업 중 지속적으로 낙서하는 학생들에 대한 지도 조언 요청.",
+  "taggedAt": "2026-08-25T13:18:23.354Z"
 }

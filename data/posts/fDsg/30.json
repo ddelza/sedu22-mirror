@@ -19,13 +19,11 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
+      "category": "재과만 소식",
+      "topic": "카페 운영 공지",
       "confidence": "high"
     }
   ],
-  "tagsNote": "2025 재과만 운영진 인사 및 계획 안내.",
+  "tagsNote": "2025 재과만 운영진 인사 및 계획 안내. / 2025 운영진 인사&계획.",
   "taggedAt": "2026-08-12T13:33:30.799Z"
 }

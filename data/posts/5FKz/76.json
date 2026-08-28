@@ -22,8 +22,13 @@
       "category": "게시판별 분류",
       "topic": "거꾸로 교실(김신혜)",
       "confidence": "high"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "앱/프로그램",
+      "confidence": "low"
     }
   ],
-  "tagsNote": "거꾸로 교실 첫 시도 후기.",
-  "taggedAt": "2026-08-11T23:34:47.222Z"
+  "tagsNote": "거꾸로 교실 첫 시도 후기. / 밴드 앱에 학생들을 초대해 디딤영상 첫 게시.",
+  "taggedAt": "2026-08-27T23:56:10.696Z"
 }

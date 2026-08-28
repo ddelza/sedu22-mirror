@@ -24,8 +24,13 @@
       "subject": null,
       "unit": "미분류",
       "confidence": "high"
+    },
+    {
+      "category": "과학교사 업무",
+      "topic": "교원연수",
+      "confidence": "low"
     }
   ],
-  "tagsNote": "이스라엘 연수 경험 기반 창의적 과학수업 소개.",
-  "taggedAt": "2026-08-12T08:41:25.558Z"
+  "tagsNote": "이스라엘 연수 경험 기반 창의적 과학수업 소개. / 이스라엘 창의성 중심 과학교육 연수 참석 경험.",
+  "taggedAt": "2026-08-28T00:06:11.269Z"
 }

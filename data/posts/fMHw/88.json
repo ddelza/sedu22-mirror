@@ -19,13 +19,11 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
-      "confidence": "low"
+      "category": "수업 방법론",
+      "topic": "토론수업",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "미스터리 튜브를 활용한 과학적 지식·관찰 수업 진행 방법(그리기·설득·모둠토의) 공유(특정 단원과 무관).",
-  "taggedAt": "2026-08-13T12:58:04.742Z"
+  "tagsNote": "미스테리 튜브 활동 - 짝토론/모둠토의를 통한 설득과 반박.",
+  "taggedAt": "2026-08-25T14:12:26.655Z"
 }

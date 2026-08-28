@@ -19,13 +19,11 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
-      "confidence": "high"
+      "category": "과학교사 업무",
+      "topic": "세특작성",
+      "confidence": "medium"
     }
   ],
   "tagsNote": "ORID 기법 수업일기(세특용) 소개.",
-  "taggedAt": "2026-08-12T04:14:05.228Z"
+  "taggedAt": "2026-08-25T13:09:46.581Z"
 }

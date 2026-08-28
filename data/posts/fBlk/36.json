@@ -22,8 +22,13 @@
       "category": "과학교사 업무",
       "topic": "교원연수",
       "confidence": "high"
+    },
+    {
+      "category": "재과만 소식",
+      "topic": "카페 운영 공지",
+      "confidence": "high"
     }
   ],
-  "tagsNote": "부산모임 수업 나눔 발표 선생님 모집.",
+  "tagsNote": "부산모임 수업 나눔 발표 선생님 모집. / 부산 모임 수업나눔 발표자 모집.",
   "taggedAt": "2026-08-12T13:25:22.785Z"
 }

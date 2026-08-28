@@ -18,13 +18,11 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
-      "confidence": "high"
+      "category": "과학교사 업무",
+      "topic": "학급운영",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "경계선지능 의심 학생의 학부모 통보 여부 고민.",
-  "taggedAt": "2026-08-12T04:50:37.994Z"
+  "tagsNote": "경계선지능 의심 학생 학부모 통보 여부 고민 - 학부모 상담 관련 담임 업무 고민.",
+  "taggedAt": "2026-08-25T13:16:28.175Z"
 }

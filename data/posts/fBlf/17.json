@@ -27,8 +27,13 @@
       "category": "스마트 수업도구",
       "topic": "생성형 AI 도구",
       "confidence": "medium"
+    },
+    {
+      "category": "재과만 소식",
+      "topic": "카페 운영 공지",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "재과만 톡톡 16회(chatGPT 생성형 인공지능) 영상 공개.",
+  "tagsNote": "재과만 톡톡 16회(chatGPT 생성형 인공지능) 영상 공개. / 재과만 톡톡 16회 영상 공개.",
   "taggedAt": "2026-08-12T13:22:58.992Z"
 }

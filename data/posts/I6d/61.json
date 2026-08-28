@@ -19,13 +19,11 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
-      "confidence": "low"
+      "category": "과학교사 업무",
+      "topic": "세특작성",
+      "confidence": "high"
     }
   ],
-  "tagsNote": "생기부 작성용 학생자기평가서 양식과 활용 팁 공유(특정 단원과 무관).",
-  "taggedAt": "2026-08-13T13:12:37.810Z"
+  "tagsNote": "생기부 작성용 학생자기평가서 양식과 활용 팁.",
+  "taggedAt": "2026-08-26T01:03:22.345Z"
 }

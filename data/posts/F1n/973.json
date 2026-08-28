@@ -19,13 +19,11 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
-      "confidence": "high"
+      "category": "과학교사 업무",
+      "topic": "과학 행사",
+      "confidence": "low"
     }
   ],
-  "tagsNote": "전교생 대상 어스아워 불끄기 인증 캠페인 공유.",
-  "taggedAt": "2026-08-12T09:01:46.574Z"
+  "tagsNote": "어스아워 불끄기 인증 캠페인 행사 기획/운영/홍보.",
+  "taggedAt": "2026-08-25T14:02:40.664Z"
 }

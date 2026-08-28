@@ -19,13 +19,11 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
+      "category": "재과만 소식",
+      "topic": "카페 운영 공지",
       "confidence": "high"
     }
   ],
-  "tagsNote": "'재과만 톡톡' 행사 ZOOM 주소 안내.",
+  "tagsNote": "'재과만 톡톡' 행사 ZOOM 주소 안내. / 재과만 톡톡 행사 ZOOM주소 안내.",
   "taggedAt": "2026-08-12T04:18:08.715Z"
 }

@@ -19,13 +19,11 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
+      "category": "과학교사 업무",
+      "topic": "학급운영",
       "confidence": "high"
     }
   ],
-  "tagsNote": "오리엔테이션과 발명대회 안내를 포함한 첫 수업 구성 공유.",
-  "taggedAt": "2026-08-12T08:41:25.556Z"
+  "tagsNote": "교사소개/성적처리/과학시간 규칙 등 첫 수업 오리엔테이션 구성.",
+  "taggedAt": "2026-08-25T13:19:55.108Z"
 }

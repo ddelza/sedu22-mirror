@@ -19,13 +19,11 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
+      "category": "과학교사 업무",
+      "topic": "교원연수",
       "confidence": "low"
     }
   ],
-  "tagsNote": "연수 아이스브레이킹용 교사 MBTI(쌤BTI) 테스트 소개(특정 단원과 무관).",
-  "taggedAt": "2026-08-13T13:13:51.996Z"
+  "tagsNote": "연수 아이스브레이킹용 교사 MBTI(쌤BTI) 테스트 소개.",
+  "taggedAt": "2026-08-26T01:04:22.304Z"
 }

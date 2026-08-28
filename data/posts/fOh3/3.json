@@ -19,18 +19,11 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
-      "confidence": "low"
-    },
-    {
       "category": "스마트 수업도구",
-      "topic": "AI",
-      "confidence": "high"
+      "topic": "생성형 AI 도구",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "AI 시뮬레이션 수행평가에서 학생 결과물 깃허브 업로드를 자동화한 개선 사례(특정 단원과 무관).",
-  "taggedAt": "2026-08-13T13:02:02.150Z"
+  "tagsNote": "AI 시뮬레이션 수행평가에서 학생 결과물 깃허브 업로드 자동화 개선 사례.",
+  "taggedAt": "2026-08-25T14:16:02.874Z"
 }

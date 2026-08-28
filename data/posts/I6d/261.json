@@ -19,13 +19,11 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
-      "confidence": "low"
+      "category": "과학교사 업무",
+      "topic": "세특작성",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "매시간 검사한 학습지를 모아 학기 중 두 번 자기평가하는 초간단 학습지 검사법(2) 소개(특정 단원과 무관).",
-  "taggedAt": "2026-08-13T13:10:14.923Z"
+  "tagsNote": "학습지 검사 모음을 바탕으로 한 학기 2회 자기평가 결과를 세특 작성에 참고.",
+  "taggedAt": "2026-08-25T23:25:00.986Z"
 }

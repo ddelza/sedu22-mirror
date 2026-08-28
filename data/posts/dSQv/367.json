@@ -19,13 +19,11 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
-      "confidence": "high"
+      "category": "과학교사 업무",
+      "topic": "세특작성",
+      "confidence": "medium"
     }
   ],
   "tagsNote": "탐구설계 수행평가 세특 작성 용어 적절성 질문 — 평가행정.",
-  "taggedAt": "2026-08-12T03:27:43.390Z"
+  "taggedAt": "2026-08-25T13:07:19.739Z"
 }

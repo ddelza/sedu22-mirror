@@ -19,18 +19,11 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
-      "confidence": "low"
-    },
-    {
       "category": "스마트 수업도구",
-      "topic": "온라인 수업 자료",
-      "confidence": "medium"
+      "topic": "교육용 단말기(태블릿/크롬북)",
+      "confidence": "high"
     }
   ],
-  "tagsNote": "크롬북과 구글 워크스페이스를 활용한 CBT 방식 수행평가 진행 사례 공유(특정 단원과 무관).",
-  "taggedAt": "2026-08-13T13:08:11.329Z"
+  "tagsNote": "크롬북 잠금모드와 구글 폼을 활용한 CBT 방식 수행평가 진행 사례.",
+  "taggedAt": "2026-08-25T19:59:11.140Z"
 }

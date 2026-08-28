@@ -19,13 +19,11 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
-      "confidence": "high"
+      "category": "과학교사 업무",
+      "topic": "세특작성",
+      "confidence": "medium"
     }
   ],
   "tagsNote": "자유학기 세특 선행학습 관련 질문 — 평가행정.",
-  "taggedAt": "2026-08-12T03:27:43.387Z"
+  "taggedAt": "2026-08-25T13:07:19.738Z"
 }

@@ -18,13 +18,11 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
-      "confidence": "high"
+      "category": "과학교사 업무",
+      "topic": "세특작성",
+      "confidence": "medium"
     }
   ],
   "tagsNote": "세특 작성에 과도한 시간이 소요되는 것에 대한 고충 토로.",
-  "taggedAt": "2026-08-12T04:55:49.827Z"
+  "taggedAt": "2026-08-25T13:18:23.347Z"
 }

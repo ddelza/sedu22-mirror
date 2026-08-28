@@ -19,13 +19,11 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
+      "category": "재과만 소식",
+      "topic": "카페 운영 공지",
       "confidence": "high"
     }
   ],
-  "tagsNote": "카페 실명제 및 단톡방 이슈 공지.",
+  "tagsNote": "카페 실명제 및 단톡방 이슈 공지. / 실명제 및 단톡방 이슈 관련 운영진 공지.",
   "taggedAt": "2026-08-12T13:33:30.809Z"
 }

@@ -145,6 +145,11 @@
         "category": "게시판별 분류",
         "topic": "과학행사&과학실 Idea",
         "confidence": "high"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "생성형 AI 도구",
+        "confidence": "low"
       }
     ]
   },
@@ -1003,6 +1008,11 @@
         "category": "게시판별 분류",
         "topic": "과학행사&과학실 Idea",
         "confidence": "high"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "생성형 AI 도구",
+        "confidence": "medium"
       }
     ]
   },
@@ -1080,6 +1090,11 @@
         "category": "게시판별 분류",
         "topic": "과학행사&과학실 Idea",
         "confidence": "high"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "앱/프로그램",
+        "confidence": "low"
       }
     ]
   },
@@ -1426,6 +1441,11 @@
         "category": "게시판별 분류",
         "topic": "과학행사&과학실 Idea",
         "confidence": "high"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "앱/프로그램",
+        "confidence": "low"
       }
     ]
   },
@@ -1888,6 +1908,11 @@
         "category": "게시판별 분류",
         "topic": "과학행사&과학실 Idea",
         "confidence": "high"
+      },
+      {
+        "category": "과학교사 업무",
+        "topic": "동아리 운영",
+        "confidence": "low"
       }
     ]
   },
@@ -2741,6 +2766,11 @@
         "category": "게시판별 분류",
         "topic": "과학행사&과학실 Idea",
         "confidence": "high"
+      },
+      {
+        "category": "과학교사 업무",
+        "topic": "학급운영",
+        "confidence": "medium"
       }
     ]
   },
@@ -2902,6 +2932,11 @@
       {
         "category": "게시판별 분류",
         "topic": "과학행사&과학실 Idea",
+        "confidence": "high"
+      },
+      {
+        "category": "과학교사 업무",
+        "topic": "영재교육",
         "confidence": "high"
       }
     ]
@@ -3188,6 +3223,11 @@
         "category": "게시판별 분류",
         "topic": "과학행사&과학실 Idea",
         "confidence": "high"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "앱/프로그램",
+        "confidence": "medium"
       }
     ]
   },
@@ -3373,6 +3413,11 @@
         "category": "게시판별 분류",
         "topic": "과학행사&과학실 Idea",
         "confidence": "high"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "앱/프로그램",
+        "confidence": "medium"
       }
     ]
   },
@@ -3444,6 +3489,11 @@
       {
         "category": "게시판별 분류",
         "topic": "과학행사&과학실 Idea",
+        "confidence": "high"
+      },
+      {
+        "category": "과학교사 업무",
+        "topic": "영재교육",
         "confidence": "high"
       }
     ]
@@ -3795,6 +3845,11 @@
         "category": "게시판별 분류",
         "topic": "과학행사&과학실 Idea",
         "confidence": "high"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "앱/프로그램",
+        "confidence": "low"
       }
     ]
   },
@@ -3906,6 +3961,11 @@
         "category": "게시판별 분류",
         "topic": "과학행사&과학실 Idea",
         "confidence": "high"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "앱/프로그램",
+        "confidence": "low"
       }
     ]
   },
@@ -4391,6 +4451,11 @@
         "category": "게시판별 분류",
         "topic": "과학행사&과학실 Idea",
         "confidence": "high"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "앱/프로그램",
+        "confidence": "low"
       }
     ]
   },
@@ -4444,6 +4509,11 @@
         "category": "게시판별 분류",
         "topic": "과학행사&과학실 Idea",
         "confidence": "high"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "앱/프로그램",
+        "confidence": "medium"
       }
     ]
   },
@@ -4904,6 +4974,11 @@
         "category": "게시판별 분류",
         "topic": "과학행사&과학실 Idea",
         "confidence": "high"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "앱/프로그램",
+        "confidence": "medium"
       }
     ]
   },
@@ -5168,6 +5243,11 @@
         "category": "게시판별 분류",
         "topic": "과학행사&과학실 Idea",
         "confidence": "high"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "앱/프로그램",
+        "confidence": "low"
       }
     ]
   },
@@ -5590,20 +5670,13 @@
     "contentHtml": "<p>이천 사이다 교과 연구회에서 3월 중순에&nbsp;과학의날 행사에 대해 &nbsp;나누었던 내용인데</p><p>중요한 내용은 빼고 나머지는 전체 공유 합니다.</p><p>사실 그날 제목만 올려 놓고 나머지는 발표형식으로 진행되서 제목만 보고 잘 이해 안되는게 있을 수 있습니다.</p><p><br></p><p>아래 링크 눌러서 들어가셔서 </p><p>한번 보시고 좋은 아이디어 있으시면 + 표시를 눌러 추가해 주세요</p><p>다른 사람이 쓴 글은 고칠 수 없어요. 하지만 댓글을 달 수 있기 때문에 </p><p>부연 설명이나 좋은 아이디어를 추가해 주시면 좋을 것 같네요.</p><p><br></p><p>집단지성을 발휘해 봅시다. ^^</p><p>싫으면 말구(?)~~~(^^)</p><p><br></p><p>그냥 아무거나 생각나는 것 막 적으셔도 되요. ^^</p><p><br></p><p><a href=\"https://padlet.com/sciencej/l0os9oj3shhn\"><strong><span style=\"color: rgb(9, 0, 255); font-size: 14pt;\"><u>https://padlet.com/sciencej/l0os9oj3shhn</u></span></strong></a></p><p><br></p>\n\t \t\t\t\t\t<!-- -->",
     "tags": [
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
+        "category": "게시판별 분류",
+        "topic": "과학행사&과학실 Idea",
         "confidence": "high"
       },
       {
         "category": "과학교사 업무",
         "topic": "과학 행사",
-        "confidence": "high"
-      },
-      {
-        "category": "게시판별 분류",
-        "topic": "과학행사&과학실 Idea",
         "confidence": "high"
       }
     ]
@@ -5659,21 +5732,14 @@
     "contentHtml": "<p>단 한 장의 A4용지에 '기막힌 위트'를 담아  전 세계인을 사로잡은 놀라운 일러스트 </p><p><br></p><p><a href=\"https://post.naver.com/viewer/postView.nhn?volumeNo=14246953&amp;memberNo=4444311\">https://post.naver.com/viewer/postView.nhn?volumeNo=14246953&amp;memberNo=4444311</a></p><p><br></p><p><a href=\"https://post.naver.com/viewer/postView.nhn?volumeNo=14246953&amp;memberNo=4444311\">아이디어를 공유합니다~</a></p><p><br></p><p><br></p><p><br></p><p>과학의 달 행사 아이디어로 활용하면 좋겠습니다.</p><p><br></p><p>아이디어 공유합니다~<br></p>\n\t \t\t\t\t\t<!-- -->",
     "tags": [
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
+        "category": "게시판별 분류",
+        "topic": "과학행사&과학실 Idea",
         "confidence": "high"
       },
       {
         "category": "과학교사 업무",
         "topic": "과학 행사",
-        "confidence": "high"
-      },
-      {
-        "category": "게시판별 분류",
-        "topic": "과학행사&과학실 Idea",
-        "confidence": "high"
+        "confidence": "medium"
       }
     ]
   },
@@ -5690,21 +5756,14 @@
     "contentHtml": "<p class=\"cafe-editor-text\">과학의 날 진행 후에 학생들에게 상품을 주는데요. <br />아이들이 좋아할만한 적당한 상품이 뭐가 있을까요? <br /><br />상품 가격은 1-2 만원대로 생각하고 있습니다!! </p>\n\t \t\t\t\t\t<!-- -->",
     "tags": [
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
+        "category": "게시판별 분류",
+        "topic": "과학행사&과학실 Idea",
         "confidence": "high"
       },
       {
         "category": "과학교사 업무",
         "topic": "과학 행사",
-        "confidence": "high"
-      },
-      {
-        "category": "게시판별 분류",
-        "topic": "과학행사&과학실 Idea",
-        "confidence": "high"
+        "confidence": "medium"
       }
     ]
   },
@@ -5721,21 +5780,14 @@
     "contentHtml": "<p class=\"cafe-editor-text\">프린트 출력물로 제시할지, 컴퓨터로 인터넷 검색을 하게 할지 고민입니다.. 선생님 학교는 어떻게 진행하시나요?</p>\n\t \t\t\t\t\t<!-- -->",
     "tags": [
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
+        "category": "게시판별 분류",
+        "topic": "과학행사&과학실 Idea",
         "confidence": "high"
       },
       {
         "category": "과학교사 업무",
         "topic": "과학 행사",
-        "confidence": "high"
-      },
-      {
-        "category": "게시판별 분류",
-        "topic": "과학행사&과학실 Idea",
-        "confidence": "high"
+        "confidence": "medium"
       }
     ]
   },
@@ -5790,20 +5842,13 @@
     "contentHtml": "<div><div class=\"txc-textbox\" style=\"padding: 10px; border: 3px double rgb(254, 137, 67); border-image: none; background-color: rgb(254, 222, 199);\"><p style=\"text-align: center; line-height: 19.2px;\"><font size=\"3\"><span style=\"line-height: 25.6px; font-size: 11pt;\">&lt;재미있는 과학수업 만들기&gt;의 수업관련자료들은 선생님들의 '협업'을 위해 공유되고 있습니다.</span></font></p><p style=\"text-align: center; line-height: 19.2px;\"><font size=\"3\"><span style=\"line-height: 25.6px; font-size: 11pt;\">수업을 위한 자료로만 사용해주시기 바랍니다.&nbsp;</span></font></p><p style=\"text-align: center; line-height: 19.2px;\"><b><span style=\"line-height: 1.6; font-size: 11pt;\">** '말머리' 에서 해당단원을 선택해주세요.&nbsp;</span><span style=\"line-height: 1.6; font-size: 18pt;\"><span style=\"font-size: 11pt;\">수업자료를 찾기 쉬워집니다.**</span></span></b></p></div><p><br></p><p>교내탐구토론대회 어떤&nbsp;방식으로 진행하고 계시나요?</p><p>교육청 대회가 토론 주제가 그날 주어지니. </p><p>비슷한 방식으로 진행해야 될거 같은데.</p><p>그러면 자료를 미리 다 준비해서 주시고 2시간 안에 끝내실수 있는지 궁금하네요. </p><p>중학교 아이들 입니다&nbsp;</p><p><br></p><p>&nbsp;<br></p></div><p><u><font color=\"#0066cc\"></font></u><br></p>\n\t \t\t\t\t\t<!-- -->",
     "tags": [
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
+        "category": "게시판별 분류",
+        "topic": "과학행사&과학실 Idea",
         "confidence": "high"
       },
       {
         "category": "과학교사 업무",
         "topic": "과학 행사",
-        "confidence": "high"
-      },
-      {
-        "category": "게시판별 분류",
-        "topic": "과학행사&과학실 Idea",
         "confidence": "high"
       }
     ]
@@ -5821,20 +5866,13 @@
     "contentHtml": "<p>교내 탐구실험대회 어떤 주제로 진행하시나요?</p><p>올해부터 초6 대회 폐지하고 중1,2학년 대상으로 대회가 진행된다고 하는데요..</p><p>교내에서 실시할 마땅한 실험 아이디어가 떠오르지 않습니다.</p><p>도움주세요~~<br></p>\n\t \t\t\t\t\t<!-- -->",
     "tags": [
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
+        "category": "게시판별 분류",
+        "topic": "과학행사&과학실 Idea",
         "confidence": "high"
       },
       {
         "category": "과학교사 업무",
         "topic": "과학 행사",
-        "confidence": "high"
-      },
-      {
-        "category": "게시판별 분류",
-        "topic": "과학행사&과학실 Idea",
         "confidence": "high"
       }
     ]
@@ -5852,21 +5890,14 @@
     "contentHtml": "<div><div class=\"txc-textbox\" style=\"padding: 10px; border: 3px double rgb(254, 137, 67); border-image: none; background-color: rgb(254, 222, 199);\"><p style=\"text-align: center; line-height: 19.2px;\"><font size=\"3\"><span style=\"line-height: 25.6px; font-size: 11pt;\">&lt;재미있는 과학수업 만들기&gt;의 수업관련자료들은 선생님들의 '협업'을 위해 공유되고 있습니다. </span></font></p><p style=\"text-align: center; line-height: 19.2px;\"><font size=\"3\"><span style=\"line-height: 25.6px; font-size: 11pt;\">수업을 위한 자료로만 사용해주시기 바랍니다.&nbsp;</span></font></p><p style=\"text-align: center; line-height: 19.2px;\"><b><span style=\"line-height: 1.6; font-size: 11pt;\">** '말머리' 에서 해당단원을 선택해주세요. </span><span style=\"line-height: 1.6; font-size: 18pt;\"><span style=\"font-size: 11pt;\">수업자료를 찾기 쉬워집니다.**</span></span></b></p></div><p>전입한 학교에서 과학동아리를 맡게 되었는데 ..이&nbsp;동아리가 작년 제작년 계속적으로 1박 2일이나 당일치기 여행을&nbsp;다녀왔나봐요. </p><p><br></p><p>과학동아리 학생(20명)데리고 1박 2일이나 당일치기로 괜찮은 곳 있을까요? </p><p>예산은&nbsp; 150만원~200만원정도압니다.&nbsp;150만원은&nbsp;지원받은 곳이 있구요.. 학생당 3~4만원정도는&nbsp;부담해도 괜찮을 거 같아요.. </p><p><br></p><p>당일치기나 1박2일로 좀 괜찮은 코스 없을까요? 다녀오신 선생님 계시면 좀 도와주세요. <br></p></div><p><br></p>\n\t \t\t\t\t\t<!-- -->",
     "tags": [
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
+        "category": "게시판별 분류",
+        "topic": "과학행사&과학실 Idea",
         "confidence": "high"
       },
       {
         "category": "과학교사 업무",
         "topic": "동아리 운영",
-        "confidence": "high"
-      },
-      {
-        "category": "게시판별 분류",
-        "topic": "과학행사&과학실 Idea",
-        "confidence": "high"
+        "confidence": "medium"
       }
     ]
   },
@@ -5883,20 +5914,13 @@
     "contentHtml": "<p>자율동아리 지도교사를 해달라고 학생들이 찾아왔는데 어떤 방향을 제시해야할지 도움을 청합니다.</p><p>과학자율동아리를 해보신 분들이 경험을 알려주시면 일 년간 아이들과 좋은 활동할 수 있을 것 같습니다.</p><p><br></p>\n\t \t\t\t\t\t<!-- -->",
     "tags": [
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
+        "category": "게시판별 분류",
+        "topic": "과학행사&과학실 Idea",
         "confidence": "high"
       },
       {
         "category": "과학교사 업무",
         "topic": "동아리 운영",
-        "confidence": "high"
-      },
-      {
-        "category": "게시판별 분류",
-        "topic": "과학행사&과학실 Idea",
         "confidence": "high"
       }
     ]
@@ -5914,20 +5938,13 @@
     "contentHtml": "<p class=\"cafe-editor-text\">탐구대회 안내서를 작성중인데<br />융합과학과 과학토론 주제를 고민중입니다.<br />선생님들 어떤 주제를 준비하시는 중이신가오?</p>\n\t \t\t\t\t\t<!-- -->",
     "tags": [
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
+        "category": "게시판별 분류",
+        "topic": "과학행사&과학실 Idea",
         "confidence": "high"
       },
       {
         "category": "과학교사 업무",
         "topic": "과학 행사",
-        "confidence": "high"
-      },
-      {
-        "category": "게시판별 분류",
-        "topic": "과학행사&과학실 Idea",
         "confidence": "high"
       }
     ]
@@ -5976,20 +5993,13 @@
     "contentHtml": "<p class=\"cafe-editor-text\">작년9월에복직했어요<br />9년휴직했고요<br />그전엔 타지역이었습니다<br /><br />감사인데<br />실험실습계획있어야한다는데..<br />뭘까요?<br />혹시틀있으신분..알려주세요<br />흑<br />교구선정위원회는<br />무조건있어야하나요<br />소규모학교라..그냥 필요할때샀고<br />크게산건없기는해요ㅠ<br /><br />도움부탁드립니다ㅠ</p>\n\t \t\t\t\t\t<!-- -->",
     "tags": [
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
+        "category": "게시판별 분류",
+        "topic": "과학행사&과학실 Idea",
         "confidence": "high"
       },
       {
         "category": "과학교사 업무",
         "topic": "과학실 관리",
-        "confidence": "high"
-      },
-      {
-        "category": "게시판별 분류",
-        "topic": "과학행사&과학실 Idea",
         "confidence": "high"
       }
     ]
@@ -6029,6 +6039,11 @@
         "subject": "과학",
         "unit": "날씨와 기후변화",
         "confidence": "low"
+      },
+      {
+        "category": "과학교사 업무",
+        "topic": "동아리 운영",
+        "confidence": "low"
       }
     ]
   },
@@ -6045,21 +6060,14 @@
     "contentHtml": "<p>안녕하세요~</p><p><br></p><p>너무 덥습니다. 모두 건강하게 더위 이겨내고 계신가요?</p><p>목요일이 개학이고, 개학날 1박 2일로 저희반 학생들만 영어캠프를 가게되어 </p><p>날짜가 다가오니 마음이 조급해져 오늘 출근을 했습니다.</p><p>목적은 캠프준비가 큰 비중을 차지했었는데, 출근을 하고 보니 개학 준비가 제 발목을 붙잡네요.</p><p><br></p><p>저희 학교 1학년 2학기는 &nbsp;자유학기제 운영으로 인해 정규고사를 치르지 않는데,</p><p>2학기 2,3학년 중간고사 기간에 1학년은 담임 교과를 중심으로 강당에서 교과목 부스를 운영하는 프로그램을 하겠다고</p><p>방학 즈음에 연구부에서 연락이 왔습니다ㅜㅜ</p><p>4개 학급(1학급 당 4모둠)이 두 시간 동안 8개 부스를 모두 체험하는 것을 2회 진행하는 겁니다.</p><p><br></p><p>전교생이 모두 참여할 수 있게 하는&nbsp;실습 부스로, </p><p>5분 내에 완성할 수 있도록, 타교과 융합 내용으로 계획을 세워 제출하라고 했는데,</p><p>틈틈히 찾아보아도, 쉽고 간단하게 할 수 있는 것을 찾는게 어렵네요.</p><p><br></p><p>혹시 아주아주 간단한 아이디어 있으시면 염치 불구하고 부탁드립니다.</p><p><br></p><p>항상 많은 도움을 주셔서 감사합니다!! <br></p>\n\t \t\t\t\t\t<!-- -->",
     "tags": [
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
+        "category": "게시판별 분류",
+        "topic": "과학행사&과학실 Idea",
         "confidence": "high"
       },
       {
         "category": "과학교사 업무",
         "topic": "과학 행사",
-        "confidence": "high"
-      },
-      {
-        "category": "게시판별 분류",
-        "topic": "과학행사&과학실 Idea",
-        "confidence": "high"
+        "confidence": "medium"
       }
     ]
   },
@@ -6076,20 +6084,13 @@
     "contentHtml": "<p class=\"cafe-editor-text\">경기도 소재 중학교에 근무하고 있습니다.<br />올해 처음 과학교육부 업무를 하고 있는데요,<br />저희 학교는 방학근처에 토요일이나 방학중 하루 교내과학캠프를 운영하게 되어있더라구요~<br />교장 선생님께서는 버스를 대절하여 학교 밖으로 나가는걸 원하시는데 학교밖으로 아이들 데리고 갈만한 곳이 과천 과학관 밖에 안떠오르네요..<br />과천과학관은 초등학교때 아이들이 많이 다녀와 만족도가 떨어질 것 같구요,<br />예산은 버스 한대 대절하면 끝날것 같은 상황입니다.<br />과학선생님들 노하우가 절실하게 필요해서 도움 요청 글 올려봅니다.<br />사소한 것이라도 좋으니 답글 부탁드려봅니다~~</p>\n\t \t\t\t\t\t<!-- -->",
     "tags": [
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
+        "category": "게시판별 분류",
+        "topic": "과학행사&과학실 Idea",
         "confidence": "high"
       },
       {
         "category": "과학교사 업무",
         "topic": "과학 행사",
-        "confidence": "high"
-      },
-      {
-        "category": "게시판별 분류",
-        "topic": "과학행사&과학실 Idea",
         "confidence": "high"
       }
     ]
@@ -6107,20 +6108,13 @@
     "contentHtml": "<p>안녕하세요~ 카페에서 많은 도움을 받아서 수줍게.... 학교에서 했던 행사활동을 올립니다.</p><p><br></p><p>카페에 있는 내용들을 참고하여 과학수사 및 튼튼한 다리 만들기를 운영하였습니다 ~~</p><p><br></p><p>과학수사는 </p><p>4명이서 1팀으로 운영하였고</p><p>1~3학년 교실 을 방탈출 형식으로 만들었습니다.</p><p>총 3팀이 각 교실에 들어가서 빠른 시간안에 범인을 찾게 하는 식으로 운영하였습니다.</p><p>소규모 학교이다보니 수가 적어서 운영이 가능했던것 같습니다 ^^</p><p>첫번째문제는 팀마다&nbsp;문제와 정답을 살짝 달리하여&nbsp;문제에 해당하는 교실로 이동하게 하여 진행하였습니다</p><p><br></p><p>좋은 하루 되세요 ~&nbsp;</p><p>(튼튼다리는 <a href=\"https://cwy9244.blog.me/220020237852\">https://cwy9244.blog.me/220020237852</a>&nbsp; 이 사이트를 참고하였습니다 ^^)<br></p><p><br></p><p><a href=\"javascript:checkVirus('grpid%3D1TaBA%26fldid%3D424t%26dataid%3D158%26fileid%3D14%26regdt%3D20180430212655&url=http%3A%2F%2Fcfile253.uf.daum.net%2Fattach%2F99F0813D5AE70B87186F3E')\"><img src=\"https://t1.daumcdn.net/daumtop_deco/icon/icon.hanmail.net/editor/p_etc_s.gif\" border=\"0\" alt=\"첨부파일\" class=\"vam\"/> 과학수사(교사답안지).hwp</a></p><p><br></p><p><a href=\"javascript:checkVirus('grpid%3D1TaBA%26fldid%3D424t%26dataid%3D158%26fileid%3D15%26regdt%3D20180430212655&url=http%3A%2F%2Fcfile287.uf.daum.net%2Fattach%2F99D2CA3D5AE70B87343389')\"><img src=\"https://t1.daumcdn.net/daumtop_deco/icon/icon.hanmail.net/editor/p_etc_s.gif\" border=\"0\" alt=\"첨부파일\" class=\"vam\"/> 과학수사(학생수사노트-1팀).hwp</a></p><p><br></p><p><a href=\"javascript:checkVirus('grpid%3D1TaBA%26fldid%3D424t%26dataid%3D158%26fileid%3D16%26regdt%3D20180430212655&url=http%3A%2F%2Fcfile249.uf.daum.net%2Fattach%2F994DBB3D5AE70B880D7282')\"><img src=\"https://t1.daumcdn.net/daumtop_deco/icon/icon.hanmail.net/editor/p_etc_s.gif\" border=\"0\" alt=\"첨부파일\" class=\"vam\"/> 튼튼다리 - 활동지.hwp</a></p><p><br></p><p><br></p><p><img src=\"https://t1.daumcdn.net/cfile/cafe/99460B385AE6FFB40A\" class=\"txc-image\" width=\"331\" height=\"512\" style=\"width: 331px; height: 512px; clear: none; float: none;\" border=\"0\" vspace=\"1\" hspace=\"1\" data-filename=\"과1.jpg\" exif=\"{}\" actualwidth=\"768\"  id=\"A_99460B385AE6FFB40AC20F\"/></p><p><br></p><p><img src=\"https://t1.daumcdn.net/cfile/cafe/998625405AE700C635\" class=\"txc-image\" width=\"470\" height=\"320\" style=\"width: 470px; height: 320px; clear: none; float: none;\" border=\"0\" vspace=\"1\" hspace=\"1\" data-filename=\"과13.jpg\" exif=\"{}\" actualwidth=\"1024\"  id=\"A_998625405AE700C6353FB2\"/><br></p><p style=\"text-align: center;\"><br></p><p><img src=\"https://t1.daumcdn.net/cfile/cafe/99D664405AE7026B1C\" class=\"txc-image\" width=\"487\" height=\"306\" style=\"width: 487px; height: 306px; clear: none; float: none;\" border=\"0\" vspace=\"1\" hspace=\"1\" data-filename=\"과14.jpg\" exif=\"{}\" actualwidth=\"946\"  id=\"A_99D664405AE7026B1C05EA\"/><br></p><p><br></p><p style=\"text-align: left;\"><img src=\"https://t1.daumcdn.net/cfile/cafe/99C73B385AE6FFB716\" class=\"txc-image\" width=\"960\" style=\"clear: none; float: none;\" border=\"0\" vspace=\"1\" hspace=\"1\" data-filename=\"과4.jpg\" exif=\"{}\" actualwidth=\"960\"  id=\"A_99C73B385AE6FFB7167781\"/></p><p><img src=\"https://t1.daumcdn.net/cfile/cafe/99AA09385AE6FFB71A\" class=\"txc-image\" width=\"521\" height=\"294\" style=\"width: 521px; height: 294px; clear: none; float: none;\" border=\"0\" vspace=\"1\" hspace=\"1\" data-filename=\"과5.jpg\" exif=\"{}\" actualwidth=\"960\"  id=\"A_99AA09385AE6FFB71A97A8\"/><br></p><p><img src=\"https://t1.daumcdn.net/cfile/cafe/9919A1385AE6FFBA0E\" class=\"txc-image\" width=\"416\" height=\"211\" style=\"width: 416px; height: 211px; clear: none; float: none;\" border=\"0\" vspace=\"1\" hspace=\"1\" data-filename=\"과6.jpg\" exif=\"{}\" actualwidth=\"1024\"  id=\"A_9919A1385AE6FFBA0E8B58\"/></p><p><img src=\"https://t1.daumcdn.net/cfile/cafe/991A91385AE6FFBA29\" class=\"txc-image\" width=\"540\" style=\"clear: none; float: none;\" border=\"0\" vspace=\"1\" hspace=\"1\" data-filename=\"과7.jpg\" exif=\"{}\" actualwidth=\"540\"  id=\"A_991A91385AE6FFBA29DEBD\"/><img src=\"https://t1.daumcdn.net/cfile/cafe/997BA13C5AE6FFC025\" class=\"txc-image\" width=\"383\" height=\"725\" style=\"width: 383px; height: 725px; clear: none; float: none;\" border=\"0\" vspace=\"1\" hspace=\"1\" data-filename=\"과9.jpg\" exif=\"{}\" actualwidth=\"768\"  id=\"A_997BA13C5AE6FFC025E44D\"/></p><p><br></p><p style=\"text-align: left;\"><img src=\"https://t1.daumcdn.net/cfile/cafe/99EE383C5AE6FFC134\" class=\"txc-image\" width=\"410\" height=\"422\" style=\"width: 410px; height: 422px; clear: none; float: none;\" border=\"0\" vspace=\"1\" hspace=\"1\" data-filename=\"과10.jpg\" exif=\"{}\" actualwidth=\"768\"  id=\"A_99EE383C5AE6FFC134FC18\"/></p><p><br></p><p style=\"text-align: center;\"><br></p><p><img src=\"https://t1.daumcdn.net/cfile/cafe/99818E385AE6FFBD1E\" class=\"txc-image\" width=\"459\" height=\"333\" style=\"width: 459px; height: 333px; clear: none; float: none;\" border=\"0\" vspace=\"1\" hspace=\"1\" data-filename=\"과8.jpg\" exif=\"{}\" actualwidth=\"1024\"  id=\"A_99818E385AE6FFBD1E9D8D\"/><br></p><p style=\"text-align: left;\"><img src=\"https://t1.daumcdn.net/cfile/cafe/996DD5375AE7039827\" class=\"txc-image\" width=\"318\" height=\"542\" style=\"width: 318px; height: 542px; clear: none; float: none;\" border=\"0\" vspace=\"1\" hspace=\"1\" data-filename=\"과15.jpg\" exif=\"{}\" actualwidth=\"601\"  id=\"A_996DD5375AE703982759CE\"/></p><p><img src=\"https://t1.daumcdn.net/cfile/cafe/9910DD3C5AE6FFC614\" class=\"txc-image\" width=\"512\" height=\"285\" style=\"width: 512px; height: 285px; clear: none; float: none;\" border=\"0\" vspace=\"1\" hspace=\"1\" data-filename=\"튼5.jpg\" exif=\"{}\" actualwidth=\"1024\"  id=\"A_9910DD3C5AE6FFC614123E\"/></p><p style=\"text-align: center;\"><br></p><p><br></p><p><br></p><p style=\"text-align: center;\"><br></p><p><br></p><p style=\"text-align: center;\"><br></p><p><br></p><p style=\"text-align: center;\"><br></p><p><br></p><p style=\"text-align: center;\"><br></p><p><br></p><p style=\"text-align: center;\"><br></p><p><br></p><p style=\"text-align: center;\"><br></p><p><br></p><p style=\"text-align: center;\"><br></p><p><br></p><p style=\"text-align: center;\"><br></p><p><br></p><p style=\"text-align: center;\"><br></p><p><br></p>\n\t \t\t\t\t\t<!-- -->",
     "tags": [
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
+        "category": "게시판별 분류",
+        "topic": "과학행사&과학실 Idea",
         "confidence": "high"
       },
       {
         "category": "과학교사 업무",
         "topic": "과학 행사",
-        "confidence": "high"
-      },
-      {
-        "category": "게시판별 분류",
-        "topic": "과학행사&과학실 Idea",
         "confidence": "high"
       }
     ]
@@ -6155,6 +6149,11 @@
         "category": "게시판별 분류",
         "topic": "과학행사&과학실 Idea",
         "confidence": "high"
+      },
+      {
+        "category": "과학교사 업무",
+        "topic": "과학 행사",
+        "confidence": "medium"
       }
     ]
   },
@@ -6171,21 +6170,14 @@
     "contentHtml": "<p>과학토론 시대회 참가할시 자료를 제공해주나요?<br></p>\n\t \t\t\t\t\t<!-- -->",
     "tags": [
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
+        "category": "게시판별 분류",
+        "topic": "과학행사&과학실 Idea",
         "confidence": "high"
       },
       {
         "category": "과학교사 업무",
         "topic": "과학 행사",
-        "confidence": "high"
-      },
-      {
-        "category": "게시판별 분류",
-        "topic": "과학행사&과학실 Idea",
-        "confidence": "high"
+        "confidence": "medium"
       }
     ]
   },
@@ -6254,20 +6246,13 @@
     "contentHtml": "<p>저희 학교는 교내 과학의달 행사를 하는데요</p><p>제가 융합과학파트랑 고무동력기를 맡았어요</p><p>혹시 교내대회 하신 분 중 융합과학 문제 가지고 계신분 있나요?</p><p>전국대회 문제는 다 봤는데 적절한게 없어서요~<br></p>\n\t \t\t\t\t\t<!-- -->",
     "tags": [
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
+        "category": "게시판별 분류",
+        "topic": "과학행사&과학실 Idea",
         "confidence": "high"
       },
       {
         "category": "과학교사 업무",
         "topic": "과학 행사",
-        "confidence": "high"
-      },
-      {
-        "category": "게시판별 분류",
-        "topic": "과학행사&과학실 Idea",
         "confidence": "high"
       }
     ]
@@ -6285,21 +6270,14 @@
     "contentHtml": "부산에는 시대회 수학 과학 경시대회가 없어졌는데... 혹시 교내 대회는 어떻게 하는지 궁금해서요...<br />작년까지는 경시대회를 했는데 올해 없애도 된다는 의견이 분분해서 다른 학교는 어떻게 진행하는지 알고 싶습니다.^^\n\t \t\t\t\t\t<!-- -->",
     "tags": [
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
+        "category": "게시판별 분류",
+        "topic": "과학행사&과학실 Idea",
         "confidence": "high"
       },
       {
         "category": "과학교사 업무",
         "topic": "과학 행사",
-        "confidence": "high"
-      },
-      {
-        "category": "게시판별 분류",
-        "topic": "과학행사&과학실 Idea",
-        "confidence": "high"
+        "confidence": "medium"
       }
     ]
   },
@@ -6316,20 +6294,13 @@
     "contentHtml": "<p>혹시 토론대회 개최시 개요서를 대회 전에 주제를 주고 개요서를 작성해서 오라고 할 예정인데 관련 주제 자료를 일괄 다 주셨나요? 아님 아이들보고 자료 찾아서 해오라고 하셨나요?<br></p>\n\t \t\t\t\t\t<!-- -->",
     "tags": [
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
+        "category": "게시판별 분류",
+        "topic": "과학행사&과학실 Idea",
         "confidence": "high"
       },
       {
         "category": "과학교사 업무",
         "topic": "과학 행사",
-        "confidence": "high"
-      },
-      {
-        "category": "게시판별 분류",
-        "topic": "과학행사&과학실 Idea",
         "confidence": "high"
       }
     ]
@@ -6399,20 +6370,13 @@
     "contentHtml": "처음으로 토론대회를 진행하고자합니다 막상 준비를 할려니 어떻게 진행을 해야할지 막막하네요 <br />아이들에게 주제를 주고 자료까지 주어야하는지 아님 컴퓨터를 사용하게하여 자료를 스스로 찾아 개요서를 작성해야할지...혹시 자료있으신분들 있으실까요 부담감백배네요 ㅠ\n\t \t\t\t\t\t<!-- -->",
     "tags": [
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
+        "category": "게시판별 분류",
+        "topic": "과학행사&과학실 Idea",
         "confidence": "high"
       },
       {
         "category": "과학교사 업무",
         "topic": "과학 행사",
-        "confidence": "high"
-      },
-      {
-        "category": "게시판별 분류",
-        "topic": "과학행사&과학실 Idea",
         "confidence": "high"
       }
     ]
@@ -6430,20 +6394,13 @@
     "contentHtml": "<p class=\"cafe-editor-text\"><br /><br />첫 기간제(중학교)에 발명동아리를 맡게 되었는데,..<br />어떻게 운영해야하는지 무슨 활동을 해야하는건지 감이 안잡혀서요ㅜㅠ 작년에 없던 동아리라 더더욱 멘붕입니다ㅜ<br />경험 있으신 선생님들 조언 부탁드립니다ㅠㅠ제발요ㅠㅠ</p>\n\t \t\t\t\t\t<!-- -->",
     "tags": [
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
+        "category": "게시판별 분류",
+        "topic": "과학행사&과학실 Idea",
         "confidence": "high"
       },
       {
         "category": "과학교사 업무",
         "topic": "동아리 운영",
-        "confidence": "high"
-      },
-      {
-        "category": "게시판별 분류",
-        "topic": "과학행사&과학실 Idea",
         "confidence": "high"
       }
     ]
@@ -6461,20 +6418,13 @@
     "contentHtml": "<p class=\"cafe-editor-text\">22일까지 학교별 발명대회 참가자 명단 올리시죠?<br />그래서 그전에 미리 교내발명대회를 많이 여시는것같은데.<br />어떤방법으로 교내발명대회 개최하시나요?<br />저희는 발명품 계획서 용지를 아이들에게 내주고 다음주초에 걷은 후 그중 괜찮은 아이디어의 아이들을 불러 작품을 제작한후 교내대회수상자를 선발할계획이었는데.<br />수상은 과제형식으로 내주지말라는 교육청문구가 걸리네요.<br />발명대회 특성상 주변학교도 비슷한 형식으로 진행하시는것 같던데. 문제가 될까요?</p>\n\t \t\t\t\t\t<!-- -->",
     "tags": [
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
+        "category": "게시판별 분류",
+        "topic": "과학행사&과학실 Idea",
         "confidence": "high"
       },
       {
         "category": "과학교사 업무",
         "topic": "과학 행사",
-        "confidence": "high"
-      },
-      {
-        "category": "게시판별 분류",
-        "topic": "과학행사&과학실 Idea",
         "confidence": "high"
       }
     ]
@@ -6492,20 +6442,13 @@
     "contentHtml": "<p>이제껏 한번도 왜 과학의 달 행사를 하고 있는가에 의문을 품지 않았는데, 올해 행사를 준비하여 고민해보게 되네요.</p><p>(참고로 저희 학교는 과학부가 없고 교과협의회에서 과학관련 업무를 함께 합니다.&nbsp;&nbsp;</p><p>&nbsp; 다른 모든 교과도 교과관련 업무는 동일하게 그렇게 하구요. 그러면서 따로 시간을 잡아서 하지 않고 수업시간 중에 녹여내어서&nbsp;하고 있습니다. 예를 들면 국어과 백일장, 토의토론대회 등은 국어시간안에 진행하고 있고, 다른 과목들도 대회가 아닌 수업시간활동으로 하고 있습니다. 유일하게 체육대회와 과학의 달 행사만 오후 수업을 빼고 행사를 진행하고 있습니다.)</p><p><br></p><p>그렇다보니 작년부터 과학의 달 행사를 우리도 교과안에서 또는 수업을 빼지 않고 진행할 수 없는가?를 고민하다보니&nbsp;과학의 달 행사로 하고 있는 종목들은 어떤 의미로 하고 있는가?도 고민해보게 되고, 왜 하고 있을까도 고민하게 되어버린거죠~^^;</p><p><br></p><p>1. 왜 과학의 달 행사를 하는가?</p><p>&nbsp; 과학의 달을 기념하기 위해?</p><p>&nbsp;&nbsp;과학의 즐거움을 알고 호기심과 흥미를 갖게 하기 위해?</p><p>&nbsp; 아이들이 자신이 관심있는 분야에 출전하여 자신의 기량을 뽐낼 기회를 주기 위해서?</p><p>&nbsp; 교육청과 관련된 각종 외부대회의 학교 대표자를 선발하기 위해서??</p><p><br></p><p>과학의 달을 하는 이유에 따라 행사의 운영여부나 운영형태는 달라질거 같아요.. </p><p><br></p><p>2. 어떻게 과학의 달 행사를 하는가?</p><p>제가 과학의 달 행사를 기획하게 되었을 땐 행사를 준비했던 방식은</p><p>(1) 내 업무에 적혀있으므로&nbsp;왜 하는지 고민은 일단 안하고 무조건 하는거로 보고&nbsp;준비한다.&nbsp;</p><p>(2) 작년 행사를 기준으로 진짜 아닌 종목 몇개빼고 아이들도 재미있어할 것 같은 종목, 학교상황에서 운영가능 한 종목, 새로운 트렌드를 반영한 종목 등으로 과학쌤들의 의견을 받아 수정한다.&nbsp;</p><p>(3) 자연관찰탐구대회등 학년별 대표선발이 필요한 종목은 꼭 넣고,(그렇다보니 물로켓, 글라이더 등 교육청대회가 사라지면 그 다음해 교내종목에서도 빼버리고) </p><p>(4) 수업을 빼고 하는 행사라 모든 학생이 1종목씩 참가해야하므로 과학을 좋아하고 적극적인 친구들을 위해 창의적이거나 활동적인 종목(튼튼다리, 마시멜로챌린지, 창의적종이비행기, 종이컵낙하대회&nbsp;등&nbsp;), 소극적인 친구들을 위해 교실내에서 하는 종목들(과학자신문만들기, 환경포스터, 발명캐릭터, 발명만화, 에너지절약글짓기 등등)로&nbsp; 전교생을 수용할 수 있을만큼의 종목수를 갖춘다..</p><p><br></p><p>그런데 그런 하루의 행사가&nbsp;왜 과학의 달 행사를 하는가와 연결시켜 보니 &nbsp;ㅎㅎ</p><p>과학의달 행사 기념하기 위해서라면 점심시간이나 어떤 한 주 아이들이 참여하는 작은 이벤트나 홍보면 되지 않을까?</p><p>이유가 호기심과 흥미라는 과거와 달리 요즘 수업이 변화하면서 교과안에서 다양한 실험과 체험을 하고 있는데 굳이??</p><p>교육청대회 선발과 기량을 뽐내는 기회를 주는거면 굳이 수업빼고 전교생이 참여하는게 아니라 방과후에 희망자들과 하면?</p><p><br></p><p>뭐 이런 거죠...</p><p>저희 학교쌤들과 오늘 이런 얘기 나누면서&nbsp;&nbsp;</p><p>재과만 쌤들의 생각들도 궁금해져서 질문을 올려봅니다^^</p><p><br></p><p>선생님~ 과학의 달 행사를 왜 하시나요? 어떻게 운영하시나요??</p><p><br></p>\n\t \t\t\t\t\t<!-- -->",
     "tags": [
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
+        "category": "게시판별 분류",
+        "topic": "과학행사&과학실 Idea",
         "confidence": "high"
       },
       {
         "category": "과학교사 업무",
         "topic": "과학 행사",
-        "confidence": "high"
-      },
-      {
-        "category": "게시판별 분류",
-        "topic": "과학행사&과학실 Idea",
         "confidence": "high"
       }
     ]
@@ -6523,20 +6466,13 @@
     "contentHtml": "저희 학교는 인천에 있는데요 (중학교예요)<br />인천과 멀지 않으면서 아이들이 재미있어하는 체험이나 볼거리가 많은 곳이 있을까요?(작년엔 과천과학관과 옥토끼우주센터 갔다왔습니다)<br />하루에 갔다 올수있는 곳이나 일 박 할수 있는 곳 중 선생님들이 가보시니 괜찮았던 곳이 있다면 추천 부탁 드려요~(선착순으로 모집해서 30명정도 데려갈 생각입니다 )\n\t \t\t\t\t\t<!-- -->",
     "tags": [
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
+        "category": "게시판별 분류",
+        "topic": "과학행사&과학실 Idea",
         "confidence": "high"
       },
       {
         "category": "과학교사 업무",
         "topic": "과학 행사",
-        "confidence": "high"
-      },
-      {
-        "category": "게시판별 분류",
-        "topic": "과학행사&과학실 Idea",
         "confidence": "high"
       }
     ]
@@ -6554,10 +6490,8 @@
     "contentHtml": "<p><br></p><p style=\"text-align: left;\"><img src=\"https://t1.daumcdn.net/cfile/cafe/99989E4C5A582D631E\" class=\"txc-image\" width=\"688\" height=\"137\" style=\"width: 688px; height: 137px; clear: none; float: none;\" border=\"0\" vspace=\"1\" hspace=\"1\" actualwidth=\"1023\" data-filename=\"KakaoTalk_20180112_123534530.jpg\" exif=\"{}\"  id=\"A_99989E4C5A582D631E1F8D\"/></p><p><br></p><p><br></p><p>교내 과학행사로 페임랩을 실시했습니다.</p><p><br></p><p style=\"text-align: left;\"><img src=\"https://t1.daumcdn.net/cfile/cafe/99E0D7495A575C4B1C\" class=\"txc-image\" width=\"461\" style=\"clear: none; float: none;\" border=\"0\" vspace=\"1\" hspace=\"1\" actualwidth=\"461\" data-filename=\"KakaoTalk_20180111_214310353.png\" exif=\"{}\"  id=\"A_99E0D7495A575C4B1C89AF\"/></p><p><br></p><p>대회 안내문을 교내에 게시하여 홍보하였습니다.</p><p><a href=\"javascript:checkVirus('grpid%3D1TaBA%26fldid%3D424t%26dataid%3D142%26fileid%3D4%26regdt%3D20180111212326&url=http%3A%2F%2Fcfile271.uf.daum.net%2Fattach%2F99DBF4495A575D1D2168D8')\"><img src=\"https://t1.daumcdn.net/daumtop_deco/icon/icon.hanmail.net/editor/p_etc_s.gif\" border=\"0\" alt=\"첨부파일\" class=\"vam\"/> 페임랩 안내문.hwp</a></p><p><br></p><p>1차 예선(발표 시나리오 심사)을 거쳐 통과한 학생들을 대상으로 2차 대회 오리엔테이션을 하였습니다.</p><p>아래의 파일은 오리엔테이션에서 학생들이 한 질문과 답변을 정리한 것입니다.</p><p>(예 : 이 대회에 참여하면 세특에 기록해주나요?,&nbsp;<span style=\"font-size: 9pt;\">&nbsp;상을 몇 명이나 받을 수 있나요?)</span></p><p>&nbsp;<a href=\"javascript:checkVirus('grpid%3D1TaBA%26fldid%3D424t%26dataid%3D142%26fileid%3D6%26regdt%3D20180111212326&url=http%3A%2F%2Fcfile287.uf.daum.net%2Fattach%2F99A3C93E5A5761101E5AB9')\"><img src=\"https://t1.daumcdn.net/daumtop_deco/icon/icon.hanmail.net/editor/p_etc_s.gif\" border=\"0\" alt=\"첨부파일\" class=\"vam\"/> 발표 오리엔테이션 논의 내용.hwp</a></p><p><br></p><p><br></p><p><span style=\"font-size: 9pt;\">2차 발표대회를 하였습니다.</span><br></p><p>그리고 발표대회에서 학생들에게 소감문을 작성해서 제출하도록 했습니다.</p><p><a href=\"javascript:checkVirus('grpid%3D1TaBA%26fldid%3D424t%26dataid%3D142%26fileid%3D5%26regdt%3D20180111212326&url=http%3A%2F%2Fcfile292.uf.daum.net%2Fattach%2F99A7E6445A575D771C24FC')\"><img src=\"https://t1.daumcdn.net/daumtop_deco/icon/icon.hanmail.net/editor/p_etc_s.gif\" border=\"0\" alt=\"첨부파일\" class=\"vam\"/> 페임랩 활동 참가 소감문.hwp</a></p><p><br></p><p>&nbsp;&nbsp;<img src=\"https://t1.daumcdn.net/cfile/cafe/992BB14D5A575B0131\" class=\"txc-image\" width=\"487\" height=\"276\" style=\"width: 487px; height: 276px; clear: none; font-size: 9pt; float: none;\" border=\"0\" vspace=\"1\" hspace=\"1\" actualwidth=\"960\" data-filename=\"KakaoTalk_20180111_213402875.jpg\" exif=\"{}\"  id=\"A_992BB14D5A575B01314AED\"/></p><p style=\"text-align: left;\"><br></p><p style=\"text-align: left;\"><br></p><p style=\"text-align: left;\">대회후</p><p style=\"text-align: left;\">3주 동안 점심시간에&nbsp;</p><p style=\"text-align: left;\">1층 중앙현관에서 학생들을 대상으로&nbsp;</p><p style=\"text-align: left;\">페임랩 발표를 할 팀을 모집했습니다.&nbsp;</p><p style=\"text-align: left;\"><br></p><p style=\"text-align: left;\"><span style=\"font-family: 굴림, gulim, tahoma, sans-serif; background-color: rgb(247, 247, 247);\">아이들이 중앙현관에서 공개적으로 발표하는 것이 부담스럽다고 했지만</span><br style=\"font-family: 굴림, gulim, tahoma, sans-serif; background-color: rgb(247, 247, 247);\"><span style=\"font-family: 굴림, gulim, tahoma, sans-serif; background-color: rgb(247, 247, 247);\">하지만 이런 공개적인 발표를 통해 학생들은 성장한다고 설득했습니다.</span><br></p><p style=\"text-align: left;\"><br></p><p style=\"text-align: left;\"><img src=\"https://t1.daumcdn.net/cfile/cafe/99B1CD495A575B281F\" class=\"txc-image\" width=\"492\" height=\"282\" style=\"width: 492px; height: 282px; clear: none; float: none;\" border=\"0\" vspace=\"1\" hspace=\"1\" actualwidth=\"960\" data-filename=\"KakaoTalk_20180111_213046293.jpg\" exif=\"{}\"  id=\"A_99B1CD495A575B281FD49E\"/></p><p style=\"text-align: left;\"><br></p><p style=\"text-align: left;\"><span style=\"font-family: 굴림, gulim, tahoma, sans-serif; background-color: rgb(247, 247, 247);\">아이들이 발표를 준비하고, 발표를 하는 과정에서</span></p><p style=\"text-align: left;\"><span style=\"font-family: 굴림, gulim, tahoma, sans-serif; background-color: rgb(247, 247, 247);\">매우 즐겁고 만족해하는 모습을 보았습니다.</span><br></p><p style=\"text-align: left;\"><span style=\"font-family: 굴림, gulim, tahoma, sans-serif; background-color: rgb(247, 247, 247);\"><br></span></p><p style=\"text-align: left;\"><span style=\"font-family: 굴림, gulim, tahoma, sans-serif; background-color: rgb(247, 247, 247);\">그리고</span></p><p style=\"text-align: left;\"><span style=\"font-family: 굴림, gulim, tahoma, sans-serif; background-color: rgb(247, 247, 247);\">교사의 역할은 코치, 교육의 장으로 nudging 하는 것이다</span></p><p style=\"text-align: left;\"><span style=\"font-family: 굴림, gulim, tahoma, sans-serif; background-color: rgb(247, 247, 247);\">라는 생각을 하게 하는 교육활동이었습니다.</span></p><p style=\"text-align: left;\"><span style=\"font-family: 굴림, gulim, tahoma, sans-serif; background-color: rgb(247, 247, 247);\"><br></span></p><p style=\"text-align: left;\"><br></p><p style=\"text-align: left;\"><img src=\"https://t1.daumcdn.net/cfile/cafe/99FD6C3B5A5853E605\" class=\"txc-image\" width=\"719\" height=\"355\" style=\"width: 719px; height: 355px; clear: none; float: none;\" border=\"0\" vspace=\"1\" hspace=\"1\" actualwidth=\"960\" data-filename=\"KakaoTalk_20180112_151946974.jpg\" exif=\"{}\"  id=\"A_99FD6C3B5A5853E6058B53\"/></p><p style=\"text-align: left;\"><span style=\"font-family: 굴림, gulim, tahoma, sans-serif; background-color: rgb(247, 247, 247);\"><br></span></p><p style=\"text-align: left;\"><br></p><p style=\"text-align: center;\"><img src=\"https://t1.daumcdn.net/cfile/cafe/99E6243B5A5854260C\" class=\"txc-image\" width=\"806\" height=\"255\" style=\"width: 806px; height: 255px; clear: none; float: none;\" border=\"0\" vspace=\"1\" hspace=\"1\" actualwidth=\"957\" data-filename=\"KakaoTalk_20180112_152008862.jpg\" exif=\"{}\"  id=\"A_99E6243B5A5854260C5DA7\"/></p><p><br></p><p>이 학생이</p><p>12, 1월 호모데우스 과학독서토론활동에 참여하여</p><p>마지막 날 호모데우스 발제와 토론을 진행하는 모습을 보았습니다. </p><p><font face=\"굴림\" style=\"background-color: rgb(247, 247, 247);\"><br></font></p><p><font face=\"굴림\" style=\"background-color: rgb(247, 247, 247);\">학생의 성장을 돕는 교사가 되는 것,</font></p><p><font face=\"굴림\" style=\"background-color: rgb(247, 247, 247);\">즐겁고 보람된 경험입니다~</font><p><font face=\"굴림\" style=\"background-color: rgb(247, 247, 247);\"><br></font></p><p><br></p><p style=\"text-align: left;\"><img src=\"https://t1.daumcdn.net/cfile/cafe/9931BA3F5A586AAC01\" class=\"txc-image\" width=\"353\" height=\"789\" style=\"width: 353px; height: 789px; clear: none; float: none;\" border=\"0\" vspace=\"1\" hspace=\"1\" actualwidth=\"540\" data-filename=\"카톡답글.jpg\" exif=\"{}\"  id=\"A_9931BA3F5A586AAC01653A\"/></p><p><font face=\"굴림\" style=\"background-color: rgb(247, 247, 247);\"><br></font></p><span style=\"font-family: 굴림, gulim, tahoma, sans-serif; background-color: rgb(247, 247, 247);\"><p><br></p><p style=\"text-align: left;\"><br></p></span><p style=\"text-align: left;\"><span style=\"font-family: 굴림, gulim, tahoma, sans-serif; background-color: rgb(247, 247, 247);\"><br></span></p><p><br></p>\n\t \t\t\t\t\t<!-- -->",
     "tags": [
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
+        "category": "게시판별 분류",
+        "topic": "과학행사&과학실 Idea",
         "confidence": "high"
       },
       {
@@ -6566,9 +6500,9 @@
         "confidence": "high"
       },
       {
-        "category": "게시판별 분류",
-        "topic": "과학행사&과학실 Idea",
-        "confidence": "high"
+        "category": "수업 방법론",
+        "topic": "토론수업",
+        "confidence": "low"
       }
     ]
   },
@@ -6585,21 +6519,14 @@
     "contentHtml": "<p>안녕하세요? 과학동아리 팜플렛을 제작 하려는데 ..</p><p>제가 첨이라 어떻게 목록을 넣어야 될지 .. 1도 몰라서요..</p><p>아시는 선생님들의 많은 조언 부탁드립니다.</p>\n\t \t\t\t\t\t<!-- -->",
     "tags": [
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
+        "category": "게시판별 분류",
+        "topic": "과학행사&과학실 Idea",
         "confidence": "high"
       },
       {
         "category": "과학교사 업무",
         "topic": "동아리 운영",
-        "confidence": "high"
-      },
-      {
-        "category": "게시판별 분류",
-        "topic": "과학행사&과학실 Idea",
-        "confidence": "high"
+        "confidence": "medium"
       }
     ]
   },
@@ -6837,6 +6764,16 @@
         "category": "게시판별 분류",
         "topic": "과학행사&과학실 Idea",
         "confidence": "high"
+      },
+      {
+        "category": "과학교사 업무",
+        "topic": "영재교육",
+        "confidence": "low"
+      },
+      {
+        "category": "과학교사 업무",
+        "topic": "과학 행사",
+        "confidence": "medium"
       }
     ]
   },
@@ -6853,15 +6790,13 @@
     "contentHtml": "<p>경기도 안산부곡고 홈페이지에서 </p><p>받은 자료입니다.</p><p><br></p><p>여름방학 과제로 내준 활동입니다.</p><p><br></p><p><br></p><p><a href=\"javascript:checkVirus('grpid%3D1TaBA%26fldid%3D424t%26dataid%3D126%26fileid%3D1%26regdt%3D20170909145454&url=http%3A%2F%2Fcfile249.uf.daum.net%2Fattach%2F9928583359B3822927010C')\"><img src=\"https://t1.daumcdn.net/daumtop_deco/icon/icon.hanmail.net/editor/p_pdf_s.gif\" border=\"0\" alt=\"첨부파일\" class=\"vam\"/> 2017학년도_나만의과학이야기대회_게시문.pdf</a></p><p><br></p>\n\t \t\t\t\t\t<!-- -->",
     "tags": [
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
+        "category": "게시판별 분류",
+        "topic": "과학행사&과학실 Idea",
         "confidence": "high"
       },
       {
-        "category": "게시판별 분류",
-        "topic": "과학행사&과학실 Idea",
+        "category": "과학교사 업무",
+        "topic": "과학 행사",
         "confidence": "high"
       }
     ]
@@ -6879,16 +6814,14 @@
     "contentHtml": "<p>과학 상설동아리를 운영하고 있습니다.</p><p><br></p><p>학교는 경북에 위치하고 있으며, 학생들이 과학 체험할 수 있는 좋은 장소 추천 부탁드립니다.</p><p><br></p><p>대구 과학관, 예천 곤충 박물관, 부산 아쿠아리움은 다녀왔습니다.</p><p><br></p><p>^ ^</p>\n\t \t\t\t\t\t<!-- -->",
     "tags": [
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
-        "confidence": "high"
-      },
-      {
         "category": "게시판별 분류",
         "topic": "과학행사&과학실 Idea",
         "confidence": "high"
+      },
+      {
+        "category": "과학교사 업무",
+        "topic": "동아리 운영",
+        "confidence": "medium"
       }
     ]
   },
@@ -6905,15 +6838,13 @@
     "contentHtml": "<p>그동안 현장체험활동은 </p><p>교사가 활동지를 만들어주고 학생들이 답을 기록하는 방식을 많이 사용했습니다.</p><p><br></p><p>이번 '국립생태원' 현장 연구 활동에서는 두 가지 시도를 했습니다.</p><p><br></p><p>1. 자유 탐구활동하기</p><p>&nbsp; 체험활동 장소에서 자유탐구주제를 정해서 탐구보고서 작성하기</p><p><br></p><p>2. 탐구활동하면서 찍은 사진으로 카톡에 문제 출제하기 </p><p>&nbsp; 각자 2문제씩 출제하고 서로 답글 달아보기~</p><p style=\"text-align: left;\"><img src=\"https://t1.daumcdn.net/cfile/cafe/260EDC33596B20FD33\" class=\"txc-image\" width=\"514\" height=\"886\" style=\"width: 514px; height: 886px; clear: none; float: none;\" border=\"0\" vspace=\"1\" hspace=\"1\" data-filename=\"KakaoTalk_20170716_171545635.jpg\" exif=\"{}\" actualwidth=\"540\"  id=\"A_260EDC33596B20FD33F022\"/></p><p><br></p><p><br></p><p>&nbsp;&nbsp; * 질문을 만드는 능력 : 인간만이 할 수 있습니다~</p><p>&nbsp;&nbsp;&nbsp;&nbsp; <br></p>\n\t \t\t\t\t\t<!-- -->",
     "tags": [
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
+        "category": "게시판별 분류",
+        "topic": "과학행사&과학실 Idea",
         "confidence": "high"
       },
       {
-        "category": "게시판별 분류",
-        "topic": "과학행사&과학실 Idea",
+        "category": "과학교사 업무",
+        "topic": "과학 행사",
         "confidence": "high"
       }
     ]
@@ -6931,15 +6862,13 @@
     "contentHtml": "<p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>저희 학교는 기말고사 이후에 날을 잡아 교과체험의 날을 운영합니다. 교과별로 체험 부스를 만들어 약 2시간 정도 운영합니다.</p><p>작년에는 분자요리를 체험하였는데 여러가지 준비물이 많아서 올해는 요즘 유행하는 방탈출을 해보았습니다. 팀당 10분의 제한 시간을 두었기때문에 철저한 예약제로 운영하였습니다. 다른 과목 부스를 체험하다 시간 맞춰 오면 입장 가능하게 하였습니다. </p><p><a href=\"javascript:checkVirus('grpid%3D1TaBA%26fldid%3D424t%26dataid%3D120%26fileid%3D1%26regdt%3D20170714135815&url=http%3A%2F%2Fcfile293.uf.daum.net%2Fattach%2F24310D3359684F5C27649F')\"><img src=\"https://t1.daumcdn.net/daumtop_deco/icon/icon.hanmail.net/editor/p_etc_s.gif\" border=\"0\" alt=\"첨부파일\" class=\"vam\"/> 사이언스 방의 비밀.hwp</a></p><p>다 통과한 팀에게는 물티슈를 선물로 주었습니다. 문제와 포스터를 첨부하겠습니다.</p>\n\t \t\t\t\t\t<!-- -->",
     "tags": [
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
+        "category": "게시판별 분류",
+        "topic": "과학행사&과학실 Idea",
         "confidence": "high"
       },
       {
-        "category": "게시판별 분류",
-        "topic": "과학행사&과학실 Idea",
+        "category": "과학교사 업무",
+        "topic": "과학 행사",
         "confidence": "high"
       }
     ]
@@ -7012,6 +6941,11 @@
         "category": "게시판별 분류",
         "topic": "과학행사&과학실 Idea",
         "confidence": "high"
+      },
+      {
+        "category": "과학교사 업무",
+        "topic": "동아리 운영",
+        "confidence": "medium"
       }
     ]
   },
@@ -7059,6 +6993,16 @@
         "subject": "과학",
         "unit": "식물과 에너지",
         "confidence": "high"
+      },
+      {
+        "category": "과학교사 업무",
+        "topic": "동아리 운영",
+        "confidence": "low"
+      },
+      {
+        "category": "과학교사 업무",
+        "topic": "과학 행사",
+        "confidence": "medium"
       }
     ]
   },
@@ -7107,6 +7051,11 @@
         "category": "과학교사 업무",
         "topic": "과학 행사",
         "confidence": "high"
+      },
+      {
+        "category": "과학교사 업무",
+        "topic": "동아리 운영",
+        "confidence": "low"
       }
     ]
   },
@@ -7201,6 +7150,11 @@
         "category": "게시판별 분류",
         "topic": "과학행사&과학실 Idea",
         "confidence": "high"
+      },
+      {
+        "category": "과학교사 업무",
+        "topic": "과학 행사",
+        "confidence": "medium"
       }
     ]
   },
@@ -7249,6 +7203,11 @@
         "category": "과학교사 업무",
         "topic": "과학 행사",
         "confidence": "medium"
+      },
+      {
+        "category": "과학교사 업무",
+        "topic": "동아리 운영",
+        "confidence": "low"
       }
     ]
   },
@@ -7295,6 +7254,11 @@
         "schoolLevel": "고등학교",
         "subject": "생명과학Ⅱ",
         "unit": "생명공학 기술과 인간생활",
+        "confidence": "high"
+      },
+      {
+        "category": "과학교사 업무",
+        "topic": "과학 행사",
         "confidence": "high"
       }
     ]
@@ -7343,6 +7307,11 @@
         "subject": "과학",
         "unit": "여러 가지 힘",
         "confidence": "high"
+      },
+      {
+        "category": "과학교사 업무",
+        "topic": "과학 행사",
+        "confidence": "high"
       }
     ]
   },
@@ -7382,6 +7351,11 @@
         "schoolLevel": "고등학교",
         "subject": "과학탐구실험",
         "unit": "생활 속의 과학 탐구",
+        "confidence": "high"
+      },
+      {
+        "category": "과학교사 업무",
+        "topic": "교원연수",
         "confidence": "high"
       }
     ]
@@ -9543,20 +9517,13 @@
     "contentHtml": "<P>작년 제가 근무한 학교에서 실시한 과학의 달 행사계획을 파일로 올립니다.</P>\r\n<P>과학골든벨과 과학독후감에 선정된 책은 학교 도서관에 사전에 10권 비치하고,</P>\r\n<P>특히 과학독후감에 선정된 책은 반별로 돌려볼 수 있도록</P>\r\n<P>과학실에도 비치를 했어요.^^</P>\r\n<P><a href=\"javascript:checkVirus('grpid%3D1TaBA%26fldid%3D424t%26dataid%3D16%26fileid%3D1%26regdt%3D20140401092322&url=http%3A%2F%2Fcfile263.uf.daum.net%2Fattach%2F270F3F37533A06ED36036B')\"><img src=\"https://t1.daumcdn.net/daumtop_deco/icon/icon.hanmail.net/editor/p_hwp_s.gif?rv=1.0.1\" border=\"0\" alt=\"첨부파일\" class=\"vam\"/> 2013 교내 과학의 날 행사 운영 계획-게시용.hwp</a></P>\r\n<p>&nbsp;</p>\n\t \t\t\t\t\t<!-- -->",
     "tags": [
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
+        "category": "게시판별 분류",
+        "topic": "과학행사&과학실 Idea",
         "confidence": "high"
       },
       {
         "category": "과학교사 업무",
         "topic": "과학 행사",
-        "confidence": "high"
-      },
-      {
-        "category": "게시판별 분류",
-        "topic": "과학행사&과학실 Idea",
         "confidence": "high"
       }
     ]
@@ -9574,10 +9541,8 @@
     "contentHtml": "<P><SPAN style=\"FONT-SIZE: 12pt\"></SPAN>&nbsp;</P>\r\n<P><a href=\"javascript:checkVirus('grpid%3D1TaBA%26fldid%3D424t%26dataid%3D17%26fileid%3D1%26regdt%3D20140401105905&url=http%3A%2F%2Fcfile252.uf.daum.net%2Fattach%2F2414874F533A1D4227B7DA')\"><img src=\"https://t1.daumcdn.net/daumtop_deco/icon/icon.hanmail.net/editor/p_hwp_s.gif?rv=1.0.1\" border=\"0\" alt=\"첨부파일\" class=\"vam\"/> 2014 과학의 달 행사.hwp</a></P>\r\n<P><SPAN style=\"FONT-SIZE: 12pt\">안녕하세요?</SPAN></P>\r\n<P><SPAN style=\"FONT-SIZE: 12pt\"></SPAN>&nbsp;</P>\r\n<P><SPAN style=\"FONT-SIZE: 12pt\">1년간 병휴직하고 돌아온 학교는 낯설기만 합니다.(서류가 더 늘어난 것 같네요. 그리고 ... 공개적으로 표현하기는 쉽지 않은 일련의 일들...)</SPAN></P>\r\n<P><SPAN style=\"FONT-SIZE: 12pt\"></SPAN></P><SPAN style=\"FONT-SIZE: 12pt\">\r\n<P>&nbsp;</P>\r\n<P>올해는 가장 간단한(?) 과학의 달 행사 프로그램을 준비하였습니다.</P>\r\n<p>&nbsp;</p>\r\n<P>&nbsp;</P>\r\n<P>과학 동아리가 녹색 동아리로 전환되어 환경을 살리는 주제로 탐구하고 있기에 과학의 달 행사도 녹색~~을 강조하는 프로그램을 도입하였습니다. </P></SPAN>\n\t \t\t\t\t\t<!-- -->",
     "tags": [
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
+        "category": "게시판별 분류",
+        "topic": "과학행사&과학실 Idea",
         "confidence": "high"
       },
       {
@@ -9586,9 +9551,9 @@
         "confidence": "high"
       },
       {
-        "category": "게시판별 분류",
-        "topic": "과학행사&과학실 Idea",
-        "confidence": "high"
+        "category": "과학교사 업무",
+        "topic": "동아리 운영",
+        "confidence": "medium"
       }
     ]
   },
@@ -9605,10 +9570,8 @@
     "contentHtml": "<P style=\"LINE-HEIGHT: 19px; FONT-FAMILY: Gulim; COLOR: rgb(85,85,85)\">과학의 날 참가자를 신청받을때 담임선생님의 협조를 받아서 명단을 작성한다.<BR>하지만 명단을 작성하려고 보면 전체반을 취합하는데도 시간이 많이 걸리고<BR>또 열심히 취합해서 명단을 만들어 놓으면 참가종목을 바꿔 달라는 요청에<BR>명단이 뒤죽박죽 되기도 한다.<BR><BR><SPAN style=\"WIDTH: 1px; FLOAT: right; HEIGHT: 1px\" id=callbacknestsciencelovecom18793472></SPAN>간단하게 과학의날 행사 참가자를 받는 방법을 소개한다.</P>\r\n<P style=\"LINE-HEIGHT: 19px; FONT-FAMILY: Gulim; COLOR: rgb(85,85,85)\">2012년 부터 본교에서는 이 방법을 사용하여 큰 효과를 보고 있다.<BR><BR>우선 학년별 명렬표를 확보한다음 학년별로 참가종목을 적은 엑셀 문서로 만든다.<BR>그리고 구글문서에 올려놓고 공유하면 끝난다.(공유할때 옵션은 쓰기가능 으로 해 놓아야 한다.)<BR><BR></P>\r\n<P style=\"TEXT-ALIGN: center; LINE-HEIGHT: 19px; FONT-FAMILY: Gulim; FLOAT: none; COLOR: rgb(85,85,85); CLEAR: none\"><SPAN style=\"WIDTH: 630px; DISPLAY: inline-block; HEIGHT: auto\" class=imageblock><IMG style=\"CURSOR: pointer\" src=\"https://t1.daumcdn.net/cfile/tistory/21201E3951CA88262E\" width=630 height=164></SPAN></P>\r\n<P style=\"LINE-HEIGHT: 19px; FONT-FAMILY: Gulim; COLOR: rgb(85,85,85)\"><BR><BR>만들어진 공유 링크주소를 각반 담임에게 보내고<BR>해당학생의 해당종목에 숫자 '1' 로 입력해 달라고 하면 된다.<BR><BR>수시로 들어가서 어떤 반 입력이 되지 않았는지 확인할 수 있고<BR>종목이 바뀌어도 마감전 까지는 언제든지 담임선생님이 바꿀 수 있다.<BR><BR>마감이 되면 구글문서를 엑셀문서로 내려받아<BR>작업해서 명단을 만들면 된다.<BR><BR>아래는 샘플주소다 들어가서 마음대로 수정해 봐도 된다.<BR><BR><SPAN style=\"COLOR: rgb(0,0,255)\"><A href=\"http://goo.gl/PT77N\"><U><FONT color=#800080>http://goo.gl/PT77N</FONT></U></A></SPAN></P>\r\n<P style=\"LINE-HEIGHT: 19px; FONT-FAMILY: Gulim; COLOR: rgb(85,85,85)\"><BR>구글문서사용법은 아래 링크에 가면 자세히 볼 수 있다.<BR><BR><A href=\"http://sciencelove.com/590\"><U><FONT color=#800080>http://sciencelove.com/590</FONT></U></A></P>\n\t \t\t\t\t\t<!-- -->",
     "tags": [
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
+        "category": "게시판별 분류",
+        "topic": "과학행사&과학실 Idea",
         "confidence": "high"
       },
       {
@@ -9617,9 +9580,9 @@
         "confidence": "high"
       },
       {
-        "category": "게시판별 분류",
-        "topic": "과학행사&과학실 Idea",
-        "confidence": "high"
+        "category": "스마트 수업도구",
+        "topic": "앱/프로그램",
+        "confidence": "medium"
       }
     ]
   },
@@ -9636,20 +9599,13 @@
     "contentHtml": "<P>요즘은 과학의 날 행사를 방과후에 대회를 열어 신청자만 대회에 참여하게 하는 학교도 있고, 전일제로 과학축제로 하는 학교도 있더군요. </P>\r\n<P>저희학교는 4월 3일 목요일 5~7교시 3시간 동안 &lt;청소년과학경진대회&gt;라는 행사를 진행합니다.</P>\r\n<P>대회종목은 시예선대회 종목인 5종목을 포함하여 아이들이 즐거워하면서 과학적 재능을 발휘할 5가지 종목을 더해 10종목입니다.</P>\r\n<P><STRONG><U>울트라팽이, 쿠션물컵, 3인3색과학이야기, 투석기, 발명환경만화</U></STRONG>, 융합과학, 기계공학, 전자통신, 에어로켓, 과학탐구토론대회</P>\r\n<P>(올해에는 작년에 치우었던 낙하대회를 일단 학교 공사로 진행에 어려움이 있어 제외했습니다.)</P>\r\n<P>4월 둘째주에 자연관찰대회와 과학탐구실험대회를 실시합니다.</P>\r\n<P>&nbsp;</P>\r\n<P>샘들학교에서는 과학의 달 행사를 어떻게 준비하시나요?</P>\r\n<P>&nbsp;</P>\n\t \t\t\t\t\t<!-- -->",
     "tags": [
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
+        "category": "게시판별 분류",
+        "topic": "과학행사&과학실 Idea",
         "confidence": "high"
       },
       {
         "category": "과학교사 업무",
         "topic": "과학 행사",
-        "confidence": "high"
-      },
-      {
-        "category": "게시판별 분류",
-        "topic": "과학행사&과학실 Idea",
         "confidence": "high"
       }
     ]
@@ -9690,6 +9646,11 @@
         "schoolLevel": "고등학교",
         "subject": "과학탐구실험1",
         "unit": "과학의 본성과 역사 속의 과학 탐구",
+        "confidence": "high"
+      },
+      {
+        "category": "과학교사 업무",
+        "topic": "과학 행사",
         "confidence": "high"
       }
     ]
@@ -9739,6 +9700,11 @@
         "category": "과학교사 업무",
         "topic": "과학 행사",
         "confidence": "high"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "앱/프로그램",
+        "confidence": "low"
       }
     ]
   },

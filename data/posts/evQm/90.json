@@ -19,13 +19,11 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
-      "confidence": "medium"
+      "category": "과학교사 업무",
+      "topic": "영재교육",
+      "confidence": "high"
     }
   ],
   "tagsNote": "고2 대상 영재수업(물리학) 소재 아이디어 요청.",
-  "taggedAt": "2026-08-12T03:36:53.808Z"
+  "taggedAt": "2026-08-25T13:07:40.186Z"
 }

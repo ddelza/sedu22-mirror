@@ -19,13 +19,11 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
-      "confidence": "low"
+      "category": "과학교사 업무",
+      "topic": "교원연수",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "2009년 일본 방문 국외연수 보고서 공유(특정 단원과 무관).",
-  "taggedAt": "2026-08-13T13:16:31.652Z"
+  "tagsNote": "일본 국외연수 보고서.",
+  "taggedAt": "2026-08-26T01:05:18.952Z"
 }

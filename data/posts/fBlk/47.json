@@ -22,8 +22,13 @@
       "category": "과학교사 업무",
       "topic": "교원연수",
       "confidence": "medium"
+    },
+    {
+      "category": "재과만 소식",
+      "topic": "카페 운영 공지",
+      "confidence": "high"
     }
   ],
-  "tagsNote": "제3회 오프모임 발표자 추천 요청.",
+  "tagsNote": "제3회 오프모임 발표자 추천 요청. / 제3회 오프모임 발표자 추천 모집.",
   "taggedAt": "2026-08-12T13:25:22.794Z"
 }

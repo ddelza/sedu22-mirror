@@ -22,8 +22,13 @@
       "category": "과학교사 업무",
       "topic": "교원연수",
       "confidence": "high"
+    },
+    {
+      "category": "재과만 소식",
+      "topic": "카페 운영 공지",
+      "confidence": "high"
     }
   ],
-  "tagsNote": "오프모임 임박 안내(시작시간, 참가비 등).",
+  "tagsNote": "오프모임 임박 안내(시작시간, 참가비 등). / 오프모임 임박 공지(참가비/일정 안내).",
   "taggedAt": "2026-08-12T13:25:22.786Z"
 }

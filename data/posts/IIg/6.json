@@ -19,13 +19,11 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
-      "confidence": "low"
+      "category": "과학교사 업무",
+      "topic": "교원연수",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "2006년 경기도 직무연수 '동영상 편집하기 & 과학수업에 활용하기' 강의 소개(특정 단원과 무관).",
-  "taggedAt": "2026-08-13T13:15:05.059Z"
+  "tagsNote": "경기도 직무연수(동영상 편집하기 & 과학수업에 활용하기) 소개.",
+  "taggedAt": "2026-08-26T01:05:18.930Z"
 }

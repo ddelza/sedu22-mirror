@@ -27,8 +27,13 @@
       "category": "과학교사 업무",
       "topic": "과학 행사",
       "confidence": "low"
+    },
+    {
+      "category": "재과만 소식",
+      "topic": "카페 운영 공지",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "정기모임 후기 및 과학의날 행사 공유 제안.",
+  "tagsNote": "정기모임 후기 및 과학의날 행사 공유 제안. / 정기모임 참가 후기 및 소감.",
   "taggedAt": "2026-08-12T13:24:15.946Z"
 }

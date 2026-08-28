@@ -19,13 +19,11 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
-      "confidence": "low"
+      "category": "과학교사 업무",
+      "topic": "교원연수",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "2020 신규교사 직무연수 '공유하는 교사' 강연 영상 공유(특정 단원과 무관).",
-  "taggedAt": "2026-08-13T13:13:51.990Z"
+  "tagsNote": "신규교사 직무연수 강연 영상(공유하는 교사).",
+  "taggedAt": "2026-08-26T01:04:22.299Z"
 }

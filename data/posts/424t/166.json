@@ -14,23 +14,16 @@
   "contentHtml": "<p class=\"cafe-editor-text\">탐구대회 안내서를 작성중인데<br />융합과학과 과학토론 주제를 고민중입니다.<br />선생님들 어떤 주제를 준비하시는 중이신가오?</p>\n\t \t\t\t\t\t<!-- -->",
   "tags": [
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
+      "category": "게시판별 분류",
+      "topic": "과학행사&과학실 Idea",
       "confidence": "high"
     },
     {
       "category": "과학교사 업무",
       "topic": "과학 행사",
       "confidence": "high"
-    },
-    {
-      "category": "게시판별 분류",
-      "topic": "과학행사&과학실 Idea",
-      "confidence": "high"
     }
   ],
   "tagsNote": "탐구대회 주제 브레인스토밍 요청.",
-  "taggedAt": "2026-08-11T15:47:45.259Z"
+  "taggedAt": "2026-08-25T06:16:29.969Z"
 }

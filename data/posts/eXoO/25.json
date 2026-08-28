@@ -19,13 +19,11 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
-      "confidence": "high"
+      "category": "수업 방법론",
+      "topic": "토론수업",
+      "confidence": "medium"
     }
   ],
   "tagsNote": "과학 토론수업 경험 문의.",
-  "taggedAt": "2026-08-12T04:16:53.878Z"
+  "taggedAt": "2026-08-25T13:10:13.344Z"
 }

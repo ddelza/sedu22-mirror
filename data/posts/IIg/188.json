@@ -19,13 +19,11 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
-      "confidence": "low"
+      "category": "스마트 수업도구",
+      "topic": "앱/프로그램",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "에듀테크 연수에서 얻은 음성입력·듀얼모니터·유튜브 광고 없이 재생하기 등 실용 팁 공유(특정 단원과 무관).",
-  "taggedAt": "2026-08-13T13:15:05.041Z"
+  "tagsNote": "에듀테크 연수에서 얻은 음성입력·듀얼모니터 등 실용 팁.",
+  "taggedAt": "2026-08-26T01:04:22.305Z"
 }

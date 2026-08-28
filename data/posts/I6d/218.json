@@ -19,13 +19,11 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
-      "confidence": "low"
+      "category": "과학교사 업무",
+      "topic": "세특작성",
+      "confidence": "high"
     }
   ],
-  "tagsNote": "10개 반 300명 이상 학생의 중1 과세특 기록 아이디어·양식을 구하는 질문(특정 단원과 무관).",
-  "taggedAt": "2026-08-13T13:08:11.336Z"
+  "tagsNote": "10개 반 300명 이상 학생의 중1 과세특 기록 아이디어·양식 요청.",
+  "taggedAt": "2026-08-25T19:59:11.142Z"
 }

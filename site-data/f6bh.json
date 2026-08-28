@@ -291,10 +291,8 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
+        "category": "수업 방법론",
+        "topic": "IB(개념기반학습)",
         "confidence": "high"
       }
     ]
@@ -350,10 +348,8 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
+        "category": "수업 방법론",
+        "topic": "IB(개념기반학습)",
         "confidence": "high"
       }
     ]
@@ -513,10 +509,8 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
+        "category": "수업 방법론",
+        "topic": "IB(개념기반학습)",
         "confidence": "high"
       }
     ]

@@ -18,13 +18,11 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
-      "confidence": "high"
+      "category": "재과만 소식",
+      "topic": "카페 운영 공지",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "게시판이 학년별에서 영역별 분류로 바뀌어 자료 검색이 어려워진 것에 대한 불만.",
-  "taggedAt": "2026-08-12T05:01:07.869Z"
+  "tagsNote": "게시판 영역별 분류 변경으로 인한 불편 및 운영진께 개선 제안.",
+  "taggedAt": "2026-08-25T13:19:18.835Z"
 }

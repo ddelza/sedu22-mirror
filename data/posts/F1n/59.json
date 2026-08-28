@@ -24,8 +24,13 @@
       "subject": null,
       "unit": "미분류",
       "confidence": "high"
+    },
+    {
+      "category": "과학교사 업무",
+      "topic": "학급운영",
+      "confidence": "low"
     }
   ],
-  "tagsNote": "LG사이언스랜드 과학송 가사 빈칸활동 활용법 공유.",
-  "taggedAt": "2026-08-12T08:49:54.494Z"
+  "tagsNote": "LG사이언스랜드 과학송 가사 빈칸활동 활용법 공유. / 과학송 받아쓰기 활동에 도장 부여.",
+  "taggedAt": "2026-08-28T00:09:08.995Z"
 }

@@ -19,13 +19,11 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
-      "confidence": "high"
+      "category": "과학교사 업무",
+      "topic": "생활지도",
+      "confidence": "medium"
     }
   ],
   "tagsNote": "교사 번아웃 관련 위로 에세이.",
-  "taggedAt": "2026-08-12T03:17:24.858Z"
+  "taggedAt": "2026-08-25T13:04:30.216Z"
 }

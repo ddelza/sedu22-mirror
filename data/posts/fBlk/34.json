@@ -22,8 +22,13 @@
       "category": "과학교사 업무",
       "topic": "교원연수",
       "confidence": "high"
+    },
+    {
+      "category": "재과만 소식",
+      "topic": "카페 운영 공지",
+      "confidence": "high"
     }
   ],
-  "tagsNote": "10월 부산 모임 참가 신청란.",
+  "tagsNote": "10월 부산 모임 참가 신청란. / 부산 모임 참가 신청란.",
   "taggedAt": "2026-08-12T13:25:22.783Z"
 }

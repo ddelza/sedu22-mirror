@@ -19,13 +19,11 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
+      "category": "과학교사 업무",
+      "topic": "교원연수",
       "confidence": "low"
     }
   ],
-  "tagsNote": "2009년 용인교육청 강연 '과학으로 playing하는 아이 만들기' 동영상 공유(특정 단원과 무관).",
-  "taggedAt": "2026-08-13T13:13:51.991Z"
+  "tagsNote": "용인교육청 강연 동영상(과학전람회 지도 경험 소개).",
+  "taggedAt": "2026-08-26T01:04:22.301Z"
 }

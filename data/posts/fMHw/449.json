@@ -19,13 +19,11 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
-      "confidence": "low"
+      "category": "수업 방법론",
+      "topic": "토론수업",
+      "confidence": "high"
     }
   ],
-  "tagsNote": "세계시민교육 연수에서 배운 토의토론수업 시도 소감 공유(특정 단원과 무관).",
-  "taggedAt": "2026-08-13T12:55:32.283Z"
+  "tagsNote": "세계시민교육 연수를 계기로 시도한 토의토론수업 및 관련 사이트 소개.",
+  "taggedAt": "2026-08-25T14:11:11.780Z"
 }

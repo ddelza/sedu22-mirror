@@ -19,13 +19,11 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
-      "confidence": "low"
+      "category": "과학교사 업무",
+      "topic": "학급운영",
+      "confidence": "high"
     }
   ],
-  "tagsNote": "모둠 세우는 방법과 칭찬 도장판 자료 요청(특정 단원과 무관).",
-  "taggedAt": "2026-08-13T12:29:51.542Z"
+  "tagsNote": "모둠 세우는 방법과 칭찬 도장판 자료 공유.",
+  "taggedAt": "2026-08-25T14:07:34.570Z"
 }

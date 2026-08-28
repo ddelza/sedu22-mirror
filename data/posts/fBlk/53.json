@@ -27,8 +27,13 @@
       "category": "과학교사 업무",
       "topic": "동아리 운영",
       "confidence": "medium"
+    },
+    {
+      "category": "재과만 소식",
+      "topic": "카페 운영 공지",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "독서토론 동아리 지도 사례 발표 동영상 공유.",
+  "tagsNote": "독서토론 동아리 지도 사례 발표 동영상 공유. / 오프모임 행사영상 공유.",
   "taggedAt": "2026-08-12T13:25:22.799Z"
 }

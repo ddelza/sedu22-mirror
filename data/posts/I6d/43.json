@@ -19,13 +19,11 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
-      "confidence": "low"
+      "category": "과학교사 업무",
+      "topic": "학급운영",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "수업일기 운영을 돕는 스티커판 활용 사례 소개(특정 단원과 무관).",
-  "taggedAt": "2026-08-13T13:12:37.798Z"
+  "tagsNote": "수업일기 운영을 돕는 보상 스티커판 활용.",
+  "taggedAt": "2026-08-25T23:26:07.522Z"
 }

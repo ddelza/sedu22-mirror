@@ -19,13 +19,11 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
+      "category": "과학교사 업무",
+      "topic": "세특작성",
       "confidence": "high"
     }
   ],
-  "tagsNote": "학교생활기록부 점검의 본질에 대한 성찰.",
-  "taggedAt": "2026-08-12T08:46:03.992Z"
+  "tagsNote": "생기부 세특 점검의 본질(관찰과 기록의 공유/전문성)에 대한 성찰.",
+  "taggedAt": "2026-08-25T13:21:45.372Z"
 }

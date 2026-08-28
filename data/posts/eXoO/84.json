@@ -19,13 +19,16 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
-      "confidence": "high"
+      "category": "스마트 수업도구",
+      "topic": "앱/프로그램",
+      "confidence": "medium"
+    },
+    {
+      "category": "과학교사 업무",
+      "topic": "세특작성",
+      "confidence": "medium"
     }
   ],
   "tagsNote": "스마일 프로그램(생기부 활용) 소개.",
-  "taggedAt": "2026-08-12T04:16:53.937Z"
+  "taggedAt": "2026-08-25T13:10:13.347Z"
 }

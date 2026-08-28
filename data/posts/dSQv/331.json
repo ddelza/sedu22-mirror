@@ -19,13 +19,11 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
-      "confidence": "high"
+      "category": "수업 방법론",
+      "topic": "토론수업",
+      "confidence": "medium"
     }
   ],
   "tagsNote": "토론수업용 신호등 카드 자료.",
-  "taggedAt": "2026-08-12T03:26:25.427Z"
+  "taggedAt": "2026-08-25T13:05:07.125Z"
 }

@@ -19,13 +19,11 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
-      "confidence": "high"
+      "category": "수업 방법론",
+      "topic": "거꾸로 교실",
+      "confidence": "medium"
     }
   ],
   "tagsNote": "학생 주도 학습 수업 실행기(고민1 후속) — 특정 단원 명시 없음.",
-  "taggedAt": "2026-08-12T00:00:53.995Z"
+  "taggedAt": "2026-08-25T06:18:16.601Z"
 }

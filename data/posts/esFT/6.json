@@ -19,13 +19,11 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
-      "confidence": "high"
+      "category": "과학교사 업무",
+      "topic": "세특작성",
+      "confidence": "medium"
     }
   ],
   "tagsNote": "교대 진학 학생 종합의견 예시.",
-  "taggedAt": "2026-08-12T03:32:41.266Z"
+  "taggedAt": "2026-08-25T13:07:19.734Z"
 }

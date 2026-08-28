@@ -18,13 +18,11 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
+      "category": "과학교사 업무",
+      "topic": "영재교육",
       "confidence": "high"
     }
   ],
   "tagsNote": "타학교 영재학생 추천 절차 문의.",
-  "taggedAt": "2026-08-12T04:43:00.476Z"
+  "taggedAt": "2026-08-25T13:11:12.650Z"
 }

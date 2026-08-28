@@ -19,13 +19,11 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
-      "confidence": "low"
+      "category": "과학교사 업무",
+      "topic": "학급운영",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "2013년 학생 수업평가서 결과를 바탕으로 다음 해 수업 방침을 정리한 글(특정 단원과 무관).",
-  "taggedAt": "2026-08-13T13:03:29.958Z"
+  "tagsNote": "학습지 검사, 그린마일리지 상점 등 학급운영 방식 성찰 및 개선 계획.",
+  "taggedAt": "2026-08-25T14:16:02.877Z"
 }

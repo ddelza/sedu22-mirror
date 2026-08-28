@@ -19,13 +19,11 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
+      "category": "수업 방법론",
+      "topic": "IB(개념기반학습)",
       "confidence": "high"
     }
   ],
-  "tagsNote": "2022 교육과정 개념기반 탐구학습의 3가지 질문 유형 설명.",
-  "taggedAt": "2026-08-12T09:11:50.642Z"
+  "tagsNote": "2022 개정교육과정 개념기반 탐구학습의 사실적/개념적/논쟁적 질문 설명.",
+  "taggedAt": "2026-08-25T14:02:40.693Z"
 }

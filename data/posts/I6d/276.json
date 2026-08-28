@@ -19,13 +19,16 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
-      "confidence": "low"
+      "category": "과학교사 업무",
+      "topic": "세특작성",
+      "confidence": "high"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "앱/프로그램",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "생활기록부 작성 시 금지어·중복 띄어쓰기 등을 점검하는 프로그램 소개(특정 단원과 무관).",
-  "taggedAt": "2026-08-13T13:11:29.186Z"
+  "tagsNote": "생활기록부 작성 시 금지어·중복 띄어쓰기를 점검하는 자체 제작 프로그램.",
+  "taggedAt": "2026-08-25T23:25:00.995Z"
 }

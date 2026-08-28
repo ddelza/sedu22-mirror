@@ -19,13 +19,11 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
-      "confidence": "high"
+      "category": "과학교사 업무",
+      "topic": "학급운영",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "단원 마무리/아이스브레이킹용 활동자료 공유.",
-  "taggedAt": "2026-08-12T08:57:43.701Z"
+  "tagsNote": "단원 마무리/아이스브레이킹용 너도나도 게임 변형 활용.",
+  "taggedAt": "2026-08-25T14:01:36.763Z"
 }

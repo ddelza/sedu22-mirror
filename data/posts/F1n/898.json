@@ -19,13 +19,11 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
-      "confidence": "high"
+      "category": "수업 방법론",
+      "topic": "토론수업",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "학생 질문법 지도용 가이드 자료 공유.",
-  "taggedAt": "2026-08-12T08:59:09.259Z"
+  "tagsNote": "학생 질문법 지도용 가이드 자료.",
+  "taggedAt": "2026-08-25T14:01:36.771Z"
 }

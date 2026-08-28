@@ -19,13 +19,11 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
-      "confidence": "medium"
+      "category": "과학교사 업무",
+      "topic": "영재교육",
+      "confidence": "high"
     }
   ],
-  "tagsNote": "중2 과학영재학급 수업자료 공유 요청(대상 단원 불명확).",
-  "taggedAt": "2026-08-13T04:19:48.785Z"
+  "tagsNote": "중2 과학영재학급 수업자료(해부/실험) 공유 요청.",
+  "taggedAt": "2026-08-25T14:06:58.237Z"
 }

@@ -19,13 +19,11 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
-      "confidence": "medium"
+      "category": "과학교사 업무",
+      "topic": "세특작성",
+      "confidence": "high"
     }
   ],
-  "tagsNote": "성적은 좋으나 수업태도가 나쁜 학생의 세특 작성 고민.",
-  "taggedAt": "2026-08-12T13:21:50.452Z"
+  "tagsNote": "수업태도가 나쁜 우수학생의 세특 작성 방향 고민.",
+  "taggedAt": "2026-08-25T14:04:30.680Z"
 }

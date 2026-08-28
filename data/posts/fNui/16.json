@@ -19,13 +19,11 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
-      "confidence": "low"
+      "category": "과학교사 업무",
+      "topic": "교원연수",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "경기도 과학과 직무연수 중 동영상 편집·수업 활용 강의 영상 소개(특정 단원과 무관).",
-  "taggedAt": "2026-08-13T12:59:39.573Z"
+  "tagsNote": "경기도 과학과 직무연수(동영상편집/수업활용) 강의 영상.",
+  "taggedAt": "2026-08-25T14:12:26.659Z"
 }

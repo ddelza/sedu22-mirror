@@ -22,8 +22,13 @@
       "category": "게시판별 분류",
       "topic": "거꾸로 교실(김신혜)",
       "confidence": "high"
+    },
+    {
+      "category": "과학교사 업무",
+      "topic": "교원연수",
+      "confidence": "low"
     }
   ],
-  "tagsNote": "서울 오프모임 공지.",
-  "taggedAt": "2026-08-11T23:33:10.427Z"
+  "tagsNote": "서울 오프모임 공지. / 서울 거꾸로교실 오프모임 안내(사전 시청 과제 포함).",
+  "taggedAt": "2026-08-27T23:54:57.772Z"
 }

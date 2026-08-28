@@ -19,13 +19,11 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
-      "confidence": "low"
+      "category": "과학교사 업무",
+      "topic": "과학실 관리",
+      "confidence": "high"
     }
   ],
-  "tagsNote": "교직원 대상 MSDS(물질안전보건자료) 안전교육을 게임 형식으로 만든 자료 공유(특정 단원과 무관).",
-  "taggedAt": "2026-08-13T12:56:59.884Z"
+  "tagsNote": "MSDS 안전교육 게임 자료(교직원 대상).",
+  "taggedAt": "2026-08-25T14:11:50.173Z"
 }

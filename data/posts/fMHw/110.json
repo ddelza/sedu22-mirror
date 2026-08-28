@@ -19,13 +19,11 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
-      "confidence": "low"
+      "category": "과학교사 업무",
+      "topic": "세특작성",
+      "confidence": "high"
     }
   ],
-  "tagsNote": "자유학기제 과목별 세부능력 특기사항 예시문을 구하는 요청(특정 단원과 무관).",
-  "taggedAt": "2026-08-13T12:29:51.544Z"
+  "tagsNote": "자유학기제 과목별 세특 예시문 요청.",
+  "taggedAt": "2026-08-25T14:07:34.573Z"
 }

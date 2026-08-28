@@ -22,8 +22,13 @@
       "category": "과학교사 업무",
       "topic": "교원연수",
       "confidence": "medium"
+    },
+    {
+      "category": "재과만 소식",
+      "topic": "카페 운영 공지",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "재과만 톡톡(재과만 행사 톡톡 16회 행사 안내 -chatGPT 생성형 인공지능 어디까지 써 봤니?) 행사 안내/후기.",
+  "tagsNote": "재과만 톡톡(재과만 행사 톡톡 16회 행사 안내 -chatGPT 생성형 인공지능 어디까지 써 봤니?) 행사 안내/후기. / 재과만 톡톡 16회 행사 안내.",
   "taggedAt": "2026-08-12T09:12:28.027Z"
 }

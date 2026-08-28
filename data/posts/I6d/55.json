@@ -19,13 +19,11 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
-      "confidence": "low"
+      "category": "스마트 수업도구",
+      "topic": "앱/프로그램",
+      "confidence": "high"
     }
   ],
-  "tagsNote": "휴대폰 없이 카드로 응답하는 상호평가 앱 'plickers' 소개(특정 단원과 무관).",
-  "taggedAt": "2026-08-13T13:12:37.807Z"
+  "tagsNote": "휴대폰 없이 카드로 응답하는 상호평가 앱 plickers 소개.",
+  "taggedAt": "2026-08-25T23:26:07.526Z"
 }

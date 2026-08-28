@@ -24,8 +24,13 @@
       "subject": null,
       "unit": "미분류",
       "confidence": "high"
+    },
+    {
+      "category": "과학교사 업무",
+      "topic": "교원연수",
+      "confidence": "low"
     }
   ],
-  "tagsNote": "STEAM 시범학교에서의 STEAM 수업 이해 및 고민 공유.",
-  "taggedAt": "2026-08-12T05:02:24.676Z"
+  "tagsNote": "STEAM 시범학교에서의 STEAM 수업 이해 및 고민 공유. / STEAM 시범학교 교사연수 경험 공유 및 소감.",
+  "taggedAt": "2026-08-28T00:05:19.571Z"
 }

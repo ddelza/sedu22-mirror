@@ -19,13 +19,11 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
-      "confidence": "medium"
+      "category": "수업 방법론",
+      "topic": "토론수업",
+      "confidence": "high"
     }
   ],
   "tagsNote": "과학토론 수행평가 운영 사례 공유 — 특정 생물 단원 내용 아님.",
-  "taggedAt": "2026-08-12T00:25:53.964Z"
+  "taggedAt": "2026-08-25T13:00:50.518Z"
 }

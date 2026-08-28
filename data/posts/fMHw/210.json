@@ -19,13 +19,11 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
-      "confidence": "low"
+      "category": "과학교사 업무",
+      "topic": "과학실 관리",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "온라인 수업 오리엔테이션용 실험실 안전교육 영상을 요청하는 질문(특정 단원과 무관).",
-  "taggedAt": "2026-08-13T12:34:22.696Z"
+  "tagsNote": "실험실 안전교육 영상 자료 요청.",
+  "taggedAt": "2026-08-25T14:08:36.086Z"
 }

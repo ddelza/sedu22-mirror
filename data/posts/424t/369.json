@@ -22,8 +22,13 @@
       "category": "게시판별 분류",
       "topic": "과학행사&과학실 Idea",
       "confidence": "high"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "생성형 AI 도구",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "과학토론/융합과학 대회 문제 공유(AI 활용 평가 방식 포함).",
-  "taggedAt": "2026-08-11T22:25:58.198Z"
+  "tagsNote": "과학토론/융합과학 대회 문제 공유(AI 활용 평가 방식 포함). / 융합과학 대회 평가에서 ChatGPT와 같은 AI 프로그램 활용 능력을 중점 평가.",
+  "taggedAt": "2026-08-27T23:48:37.234Z"
 }

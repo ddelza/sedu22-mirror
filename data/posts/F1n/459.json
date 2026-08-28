@@ -24,8 +24,13 @@
       "subject": null,
       "unit": "미분류",
       "confidence": "high"
+    },
+    {
+      "category": "과학교사 업무",
+      "topic": "학급운영",
+      "confidence": "low"
     }
   ],
-  "tagsNote": "구청 지원 과학 협력교사 제도 운영 경험 공유.",
-  "taggedAt": "2026-08-12T08:47:25.979Z"
+  "tagsNote": "구청 지원 과학 협력교사 제도 운영 경험 공유. / 협력교사 제도 수업에서 성취도 확인 후 도장 보상.",
+  "taggedAt": "2026-08-28T00:07:36.545Z"
 }

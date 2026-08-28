@@ -18,13 +18,11 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
-      "confidence": "high"
+      "category": "재과만 소식",
+      "topic": "카페 운영 공지",
+      "confidence": "low"
     }
   ],
-  "tagsNote": "신규교사의 카페 자료 도움에 대한 감사 인사.",
-  "taggedAt": "2026-08-12T04:54:27.558Z"
+  "tagsNote": "신규 초임 교사의 카페 자료 도움 감사 인사.",
+  "taggedAt": "2026-08-25T13:17:28.199Z"
 }

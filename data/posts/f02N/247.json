@@ -18,13 +18,11 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
-      "confidence": "high"
+      "category": "과학교사 업무",
+      "topic": "교원연수",
+      "confidence": "medium"
     }
   ],
   "tagsNote": "서울 학교간 교사학습공동체 참여 문의.",
-  "taggedAt": "2026-08-12T04:43:00.477Z"
+  "taggedAt": "2026-08-25T13:11:12.652Z"
 }

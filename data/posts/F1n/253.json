@@ -24,8 +24,13 @@
       "subject": null,
       "unit": "미분류",
       "confidence": "high"
+    },
+    {
+      "category": "과학교사 업무",
+      "topic": "교원연수",
+      "confidence": "low"
     }
   ],
-  "tagsNote": "해외 컨퍼런스 참관 기반 과학공책 작성법 소개.",
-  "taggedAt": "2026-08-12T08:42:35.648Z"
+  "tagsNote": "해외 컨퍼런스 참관 기반 과학공책 작성법 소개. / NSTA regional conference 참석 및 워크숍 참가 후기.",
+  "taggedAt": "2026-08-28T00:06:11.280Z"
 }

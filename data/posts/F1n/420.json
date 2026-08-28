@@ -24,8 +24,13 @@
       "subject": null,
       "unit": "미분류",
       "confidence": "high"
+    },
+    {
+      "category": "과학교사 업무",
+      "topic": "교원연수",
+      "confidence": "low"
     }
   ],
-  "tagsNote": "학교 예산으로 해외 사이트 교재 구입 경험 문의.",
-  "taggedAt": "2026-08-12T08:46:03.992Z"
+  "tagsNote": "학교 예산으로 해외 사이트 교재 구입 경험 문의. / 미국 과학교사 국외 심화연수 참가 경험.",
+  "taggedAt": "2026-08-28T00:07:36.538Z"
 }

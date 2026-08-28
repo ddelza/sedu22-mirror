@@ -19,13 +19,11 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
-      "confidence": "low"
+      "category": "과학교사 업무",
+      "topic": "세특작성",
+      "confidence": "high"
     }
   ],
-  "tagsNote": "자유학년 중1 과학독후감 활동을 생활기록부 독서란에 쉽게 입력하는 방법 공유(특정 단원과 무관).",
-  "taggedAt": "2026-08-13T13:03:29.961Z"
+  "tagsNote": "생활기록부 독서란·과세특 입력을 자동화하는 엑셀파일 공유.",
+  "taggedAt": "2026-08-25T14:16:02.879Z"
 }

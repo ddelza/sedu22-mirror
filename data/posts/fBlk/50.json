@@ -22,8 +22,13 @@
       "category": "과학교사 업무",
       "topic": "교원연수",
       "confidence": "high"
+    },
+    {
+      "category": "재과만 소식",
+      "topic": "카페 운영 공지",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "제3회 오프모임 오프닝 영상 공유.",
+  "tagsNote": "제3회 오프모임 오프닝 영상 공유. / 오프모임 행사영상(오프닝) 공유.",
   "taggedAt": "2026-08-12T13:25:22.797Z"
 }

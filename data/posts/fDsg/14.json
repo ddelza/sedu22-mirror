@@ -19,13 +19,11 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
-      "confidence": "high"
+      "category": "재과만 소식",
+      "topic": "카페 운영 공지",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "방학 중 배운 것을 나누자는 카페 운영 공지.",
+  "tagsNote": "방학 중 배운 것을 나누자는 카페 운영 공지. / 방학 배운 것 나눔 이벤트 공지.",
   "taggedAt": "2026-08-12T13:32:32.161Z"
 }

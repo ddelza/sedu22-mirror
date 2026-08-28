@@ -19,13 +19,11 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
-      "confidence": "high"
+      "category": "스마트 수업도구",
+      "topic": "앱/프로그램",
+      "confidence": "medium"
     }
   ],
   "tagsNote": "교과서 선도학교 교사지원단 온라인 수업 워크숍 결과물.",
-  "taggedAt": "2026-08-12T03:51:18.233Z"
+  "taggedAt": "2026-08-25T13:09:46.561Z"
 }

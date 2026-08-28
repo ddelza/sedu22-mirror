@@ -19,13 +19,11 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
+      "category": "과학교사 업무",
+      "topic": "과학 행사",
       "confidence": "low"
     }
   ],
-  "tagsNote": "실험 수업과 탐구보고서 지도에 자신 없는 교사가 참고할 책을 추천받는 질문(특정 단원과 무관).",
-  "taggedAt": "2026-08-13T12:31:15.876Z"
+  "tagsNote": "탐구대회 지도를 위한 보고서작성/실험설계 참고서적 요청.",
+  "taggedAt": "2026-08-25T14:08:04.450Z"
 }

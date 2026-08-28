@@ -27,8 +27,13 @@
       "category": "과학교사 업무",
       "topic": "과학실 관리",
       "confidence": "medium"
+    },
+    {
+      "category": "재과만 소식",
+      "topic": "카페 운영 공지",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "재과만 톡톡 19회(지능형 과학실) 영상 공개.",
+  "tagsNote": "재과만 톡톡 19회(지능형 과학실) 영상 공개. / 재과만 톡톡 19회 영상 공개.",
   "taggedAt": "2026-08-12T13:22:58.997Z"
 }

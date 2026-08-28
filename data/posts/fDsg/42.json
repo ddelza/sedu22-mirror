@@ -19,13 +19,11 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
+      "category": "재과만 소식",
+      "topic": "카페 운영 공지",
       "confidence": "high"
     }
   ],
-  "tagsNote": "게시판 메뉴 명칭 변경 및 카테고리 통합 안내.",
+  "tagsNote": "게시판 메뉴 명칭 변경 및 카테고리 통합 안내. / 게시판 메뉴 명칭 변경 및 통합 안내.",
   "taggedAt": "2026-08-12T13:33:30.807Z"
 }

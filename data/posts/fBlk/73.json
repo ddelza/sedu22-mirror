@@ -22,8 +22,13 @@
       "category": "과학교사 업무",
       "topic": "교원연수",
       "confidence": "high"
+    },
+    {
+      "category": "재과만 소식",
+      "topic": "카페 운영 공지",
+      "confidence": "high"
     }
   ],
-  "tagsNote": "온라인 고민나눔회 진행 결과 공유.",
+  "tagsNote": "온라인 고민나눔회 진행 결과 공유. / 온라인 고민나눔회 결과 공유.",
   "taggedAt": "2026-08-12T13:32:32.136Z"
 }

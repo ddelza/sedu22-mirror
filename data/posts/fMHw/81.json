@@ -19,13 +19,11 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
-      "confidence": "low"
+      "category": "과학교사 업무",
+      "topic": "영재교육",
+      "confidence": "high"
     }
   ],
-  "tagsNote": "처음 맡은 중1 영재학급 수업 주제를 추천받는 질문(특정 단원과 무관).",
-  "taggedAt": "2026-08-13T12:58:04.736Z"
+  "tagsNote": "중1 영재학급 수업 처음 맡아 주제/키트 추천 요청.",
+  "taggedAt": "2026-08-25T14:12:26.650Z"
 }

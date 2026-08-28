@@ -18,13 +18,11 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
-      "confidence": "high"
+      "category": "재과만 소식",
+      "topic": "카페 운영 공지",
+      "confidence": "low"
     }
   ],
-  "tagsNote": "복직 후 카페 도움에 대한 감사 인사.",
-  "taggedAt": "2026-08-12T04:51:56.116Z"
+  "tagsNote": "복직 후 카페 자료 도움에 대한 감사 인사 - 카페 소개/가입 관련 소식성 글.",
+  "taggedAt": "2026-08-25T13:16:28.181Z"
 }

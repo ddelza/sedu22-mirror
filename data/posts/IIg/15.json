@@ -19,13 +19,11 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
-      "confidence": "low"
+      "category": "과학교사 업무",
+      "topic": "교원연수",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "2013년 안산교육청 STEAM 기초연수 발표 소감 및 원고 공유(특정 단원과 무관).",
-  "taggedAt": "2026-08-13T13:13:51.989Z"
+  "tagsNote": "STEAM 기초연수 발표 소감 및 원고.",
+  "taggedAt": "2026-08-26T01:04:22.295Z"
 }

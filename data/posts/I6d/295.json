@@ -19,13 +19,11 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
-      "confidence": "low"
+      "category": "스마트 수업도구",
+      "topic": "생성형 AI 도구",
+      "confidence": "high"
     }
   ],
-  "tagsNote": "Gemini Canvas 기반 '중학교 과학 지필고사 문항생성기' 공개 및 문제은행 참여 안내(특정 단원과 무관).",
-  "taggedAt": "2026-08-13T13:11:29.195Z"
+  "tagsNote": "Gemini 기반 중학교 과학 지필고사 문항생성기 공개.",
+  "taggedAt": "2026-08-25T23:26:07.513Z"
 }

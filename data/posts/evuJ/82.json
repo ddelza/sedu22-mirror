@@ -19,13 +19,11 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
+      "category": "스마트 수업도구",
+      "topic": "앱/프로그램",
       "confidence": "high"
     }
   ],
   "tagsNote": "EBS 활용 온라인수업 사례 공유.",
-  "taggedAt": "2026-08-12T04:14:05.240Z"
+  "taggedAt": "2026-08-25T13:09:46.587Z"
 }

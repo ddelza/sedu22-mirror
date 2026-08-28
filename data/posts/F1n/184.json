@@ -19,13 +19,11 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
+      "category": "과학교사 업무",
+      "topic": "학급운영",
       "confidence": "high"
     }
   ],
-  "tagsNote": "과학 첫 수업(소개, 목표점수 설정 등) 구성 공유.",
-  "taggedAt": "2026-08-12T08:41:25.557Z"
+  "tagsNote": "과학 첫 수업(소개, 부장뽑기, 목표점수, 빙고게임 등) 오리엔테이션 구성.",
+  "taggedAt": "2026-08-25T13:19:55.110Z"
 }

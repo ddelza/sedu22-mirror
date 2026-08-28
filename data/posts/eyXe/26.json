@@ -19,13 +19,11 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
-      "confidence": "high"
+      "category": "재과만 소식",
+      "topic": "카페 운영 공지",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "재과만 커뮤니티 장점 회고 이벤트.",
+  "tagsNote": "재과만 커뮤니티 장점 회고 이벤트. / 재과만 좋은 점 댓글 모집 이벤트.",
   "taggedAt": "2026-08-12T04:18:08.717Z"
 }

@@ -19,13 +19,16 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": "2022",
-      "schoolLevel": "고등학교",
-      "subject": "생명과학1",
-      "unit": "미분류",
-      "confidence": "low"
+      "category": "수업 방법론",
+      "topic": "IB(개념기반학습)",
+      "confidence": "medium"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "생성형 AI 도구",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "매시간 '나의 질문'을 작성하고 AI와 탐구하는 생명과학 질문탐구 수행평가 계획(특정 단원 한정 아님).",
-  "taggedAt": "2026-08-13T13:10:14.911Z"
+  "tagsNote": "사실적·개념적·논쟁적 질문을 생성하고 AI로 탐구하는 생명과학 질문탐구 수행평가.",
+  "taggedAt": "2026-08-25T23:25:00.979Z"
 }

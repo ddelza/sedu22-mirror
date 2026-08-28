@@ -18,13 +18,11 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
-      "confidence": "high"
+      "category": "과학교사 업무",
+      "topic": "세특작성",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "과학고 희망 학생 진로지도 방향 관련 의견 요청.",
-  "taggedAt": "2026-08-12T04:54:27.559Z"
+  "tagsNote": "과학고 희망 학생의 세특 분량/작성 방향 관련 의견 요청.",
+  "taggedAt": "2026-08-25T13:17:28.200Z"
 }

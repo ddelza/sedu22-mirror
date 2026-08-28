@@ -19,13 +19,11 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
+      "category": "재과만 소식",
+      "topic": "카페 운영 공지",
       "confidence": "high"
     }
   ],
-  "tagsNote": "운영진 모집 공지(초기).",
+  "tagsNote": "운영진 모집 공지(초기). / 운영진 모집 공지.",
   "taggedAt": "2026-08-12T04:18:08.723Z"
 }

@@ -19,13 +19,11 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
-      "confidence": "low"
+      "category": "과학교사 업무",
+      "topic": "학급운영",
+      "confidence": "high"
     }
   ],
-  "tagsNote": "또래학습식 문제풀이를 위한 모둠 조직 노하우를 구하는 질문(특정 단원과 무관).",
-  "taggedAt": "2026-08-13T12:56:59.869Z"
+  "tagsNote": "또래학습식 문제풀이를 위한 모둠 조직(수준별 편성) 노하우 요청.",
+  "taggedAt": "2026-08-25T14:11:50.168Z"
 }

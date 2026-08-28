@@ -19,13 +19,11 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
+      "category": "재과만 소식",
+      "topic": "카페 운영 공지",
       "confidence": "high"
     }
   ],
-  "tagsNote": "카페 정회원 실명제 전환 관련 안내.",
+  "tagsNote": "카페 정회원 실명제 전환 관련 안내. / 정회원 실명제 도입 안내.",
   "taggedAt": "2026-08-12T13:32:32.159Z"
 }

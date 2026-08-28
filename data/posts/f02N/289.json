@@ -18,13 +18,11 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
-      "confidence": "high"
+      "category": "과학교사 업무",
+      "topic": "세특작성",
+      "confidence": "medium"
     }
   ],
   "tagsNote": "생기부 작성 시 교육과정 외 내용(최신 과학 이슈) 기재 가능 여부 문의.",
-  "taggedAt": "2026-08-12T04:44:11.384Z"
+  "taggedAt": "2026-08-25T13:11:43.445Z"
 }

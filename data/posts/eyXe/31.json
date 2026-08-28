@@ -19,13 +19,11 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
+      "category": "재과만 소식",
+      "topic": "카페 운영 공지",
       "confidence": "high"
     }
   ],
-  "tagsNote": "2022 재과만 운영진 소개.",
+  "tagsNote": "2022 재과만 운영진 소개. / 2022 운영진 소개.",
   "taggedAt": "2026-08-12T04:18:08.725Z"
 }

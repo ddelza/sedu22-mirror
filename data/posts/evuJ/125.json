@@ -19,13 +19,11 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
-      "confidence": "high"
+      "category": "스마트 수업도구",
+      "topic": "앱/프로그램",
+      "confidence": "medium"
     }
   ],
   "tagsNote": "줌 가상배경(교실/과학실) 자료.",
-  "taggedAt": "2026-08-12T03:47:18.822Z"
+  "taggedAt": "2026-08-25T13:09:05.367Z"
 }

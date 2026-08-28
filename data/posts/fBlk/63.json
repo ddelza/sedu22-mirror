@@ -22,8 +22,13 @@
       "category": "과학교사 업무",
       "topic": "교원연수",
       "confidence": "high"
+    },
+    {
+      "category": "재과만 소식",
+      "topic": "카페 운영 공지",
+      "confidence": "high"
     }
   ],
-  "tagsNote": "제5회 재과만 오프모임 진행 후기 공유.",
+  "tagsNote": "제5회 재과만 오프모임 진행 후기 공유. / 제5회 오프모임 행사 후기.",
   "taggedAt": "2026-08-12T13:25:22.807Z"
 }

@@ -22,8 +22,13 @@
       "category": "과학교사 업무",
       "topic": "교원연수",
       "confidence": "medium"
+    },
+    {
+      "category": "재과만 소식",
+      "topic": "카페 운영 공지",
+      "confidence": "high"
     }
   ],
-  "tagsNote": "오프모임에서 논의된 제안(오픈채팅방 등) 정리.",
+  "tagsNote": "오프모임에서 논의된 제안(오픈채팅방 등) 정리. / 오프모임 논의 제안 모음(카페 운영 관련).",
   "taggedAt": "2026-08-12T13:25:22.801Z"
 }

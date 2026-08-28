@@ -19,13 +19,11 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
-      "confidence": "low"
+      "category": "과학교사 업무",
+      "topic": "세특작성",
+      "confidence": "high"
     }
   ],
-  "tagsNote": "자유학기제 수업 운영과 생활기록부 기록의 균형에 대한 고민글(특정 단원과 무관).",
-  "taggedAt": "2026-08-13T13:13:51.969Z"
+  "tagsNote": "자유학기제 교과세부특기사항 작성 방법과 고민.",
+  "taggedAt": "2026-08-26T01:03:22.358Z"
 }

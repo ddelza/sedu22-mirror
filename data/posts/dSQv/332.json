@@ -19,13 +19,11 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
-      "confidence": "high"
+      "category": "수업 방법론",
+      "topic": "토론수업",
+      "confidence": "medium"
     }
   ],
   "tagsNote": "토론수업 진행법 조언 요청.",
-  "taggedAt": "2026-08-12T03:26:25.428Z"
+  "taggedAt": "2026-08-25T13:05:07.126Z"
 }

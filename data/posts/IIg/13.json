@@ -19,13 +19,11 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
-      "confidence": "low"
+      "category": "과학교사 업무",
+      "topic": "교원연수",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "중등 과학과 PCK 및 초임교사 수업컨설팅 연수자료집(교육과정평가원) 공유(특정 단원과 무관).",
-  "taggedAt": "2026-08-13T13:13:51.984Z"
+  "tagsNote": "중등 과학과 PCK 및 초임교사 수업컨설팅 연수자료집.",
+  "taggedAt": "2026-08-26T01:04:22.293Z"
 }

@@ -19,13 +19,11 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
-      "confidence": "high"
+      "category": "수업 방법론",
+      "topic": "토론수업",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "인간형 로봇 관련 법제화 카드뉴스 기반 토론 소재 공유.",
-  "taggedAt": "2026-08-12T08:43:39.817Z"
+  "tagsNote": "인간형 로봇 법제화 카드뉴스를 소재로 한 토론수업 아이디어 제안.",
+  "taggedAt": "2026-08-25T13:20:29.617Z"
 }

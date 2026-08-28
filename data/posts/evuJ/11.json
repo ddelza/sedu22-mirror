@@ -19,13 +19,11 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
-      "confidence": "high"
+      "category": "스마트 수업도구",
+      "topic": "앱/프로그램",
+      "confidence": "medium"
     }
   ],
   "tagsNote": "온라인수업 과제검사 방법 문의(EBS온라인클래스).",
-  "taggedAt": "2026-08-12T03:47:18.799Z"
+  "taggedAt": "2026-08-25T13:08:19.815Z"
 }

@@ -19,13 +19,11 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
-      "confidence": "high"
+      "category": "과학교사 업무",
+      "topic": "학급운영",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "노래와 학생 사진을 활용한 2학기 시작 이벤트 공유.",
-  "taggedAt": "2026-08-12T05:02:24.677Z"
+  "tagsNote": "노래와 학생 사진을 활용한 2학기 시작 아이스브레이킹 이벤트.",
+  "taggedAt": "2026-08-25T13:19:55.092Z"
 }

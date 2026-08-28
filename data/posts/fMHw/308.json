@@ -19,13 +19,11 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
-      "confidence": "low"
+      "category": "과학교사 업무",
+      "topic": "학급운영",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "코스페이시스 메타버스로 만든 2학기 첫시간 오리엔테이션 가상공간 공유(특정 단원과 무관).",
-  "taggedAt": "2026-08-13T12:49:29.315Z"
+  "tagsNote": "코스페이시스 메타버스로 만든 2학기 첫시간 오리엔테이션.",
+  "taggedAt": "2026-08-25T14:09:49.270Z"
 }

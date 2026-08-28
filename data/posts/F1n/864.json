@@ -19,13 +19,11 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
+      "category": "수업 방법론",
+      "topic": "토론수업",
       "confidence": "high"
     }
   ],
-  "tagsNote": "학자시 교육과정용 과학적 사고력/윤리적 태도 토론 주제 모음 공유.",
-  "taggedAt": "2026-08-12T08:57:43.704Z"
+  "tagsNote": "학자시 교육과정용 과학적 사고력/윤리적 태도 토론수업 주제 모음.",
+  "taggedAt": "2026-08-25T14:01:36.766Z"
 }

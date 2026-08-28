@@ -43,10 +43,8 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
+        "category": "과학교사 업무",
+        "topic": "과학실 관리",
         "confidence": "low"
       }
     ]
@@ -199,11 +197,9 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
-        "confidence": "low"
+        "category": "과학교사 업무",
+        "topic": "교원연수",
+        "confidence": "medium"
       }
     ]
   },
@@ -225,11 +221,9 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
-        "confidence": "low"
+        "category": "스마트 수업도구",
+        "topic": "앱/프로그램",
+        "confidence": "medium"
       }
     ]
   },
@@ -251,10 +245,8 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
+        "category": "과학교사 업무",
+        "topic": "교원연수",
         "confidence": "low"
       }
     ]
@@ -303,10 +295,8 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
+        "category": "재과만 소식",
+        "topic": "카페 운영 공지",
         "confidence": "low"
       }
     ]
@@ -329,11 +319,9 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
-        "confidence": "low"
+        "category": "재과만 소식",
+        "topic": "카페 운영 공지",
+        "confidence": "medium"
       }
     ]
   },
@@ -355,10 +343,13 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
+        "category": "스마트 수업도구",
+        "topic": "앱/프로그램",
+        "confidence": "high"
+      },
+      {
+        "category": "과학교사 업무",
+        "topic": "교원연수",
         "confidence": "low"
       }
     ]
@@ -381,11 +372,9 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
-        "confidence": "low"
+        "category": "재과만 소식",
+        "topic": "카페 운영 공지",
+        "confidence": "medium"
       }
     ]
   },
@@ -407,11 +396,9 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
-        "confidence": "low"
+        "category": "과학교사 업무",
+        "topic": "교원연수",
+        "confidence": "medium"
       }
     ]
   },
@@ -433,11 +420,9 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
-        "confidence": "low"
+        "category": "과학교사 업무",
+        "topic": "교원연수",
+        "confidence": "medium"
       }
     ]
   },
@@ -459,11 +444,9 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
-        "confidence": "low"
+        "category": "과학교사 업무",
+        "topic": "교원연수",
+        "confidence": "medium"
       }
     ]
   },
@@ -511,11 +494,9 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
-        "confidence": "low"
+        "category": "과학교사 업무",
+        "topic": "과학실 관리",
+        "confidence": "high"
       }
     ]
   },
@@ -693,11 +674,9 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
-        "confidence": "low"
+        "category": "과학교사 업무",
+        "topic": "교원연수",
+        "confidence": "medium"
       }
     ]
   },
@@ -797,11 +776,9 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
-        "confidence": "low"
+        "category": "과학교사 업무",
+        "topic": "교원연수",
+        "confidence": "medium"
       }
     ]
   },
@@ -823,11 +800,9 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
-        "confidence": "low"
+        "category": "과학교사 업무",
+        "topic": "교원연수",
+        "confidence": "medium"
       }
     ]
   },
@@ -953,10 +928,8 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
+        "category": "과학교사 업무",
+        "topic": "교원연수",
         "confidence": "low"
       }
     ]
@@ -1090,11 +1063,9 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
-        "confidence": "low"
+        "category": "수업 방법론",
+        "topic": "토론수업",
+        "confidence": "medium"
       }
     ]
   },
@@ -1142,11 +1113,9 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
-        "confidence": "low"
+        "category": "과학교사 업무",
+        "topic": "교원연수",
+        "confidence": "high"
       }
     ]
   },
@@ -1168,10 +1137,8 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
+        "category": "과학교사 업무",
+        "topic": "교원연수",
         "confidence": "low"
       }
     ]
@@ -1194,10 +1161,8 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
+        "category": "과학교사 업무",
+        "topic": "교원연수",
         "confidence": "low"
       }
     ]
@@ -1220,11 +1185,9 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
-        "confidence": "low"
+        "category": "과학교사 업무",
+        "topic": "교원연수",
+        "confidence": "high"
       }
     ]
   },
@@ -1246,11 +1209,9 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
-        "confidence": "low"
+        "category": "과학교사 업무",
+        "topic": "교원연수",
+        "confidence": "medium"
       }
     ]
   },
@@ -1272,11 +1233,9 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
-        "confidence": "low"
+        "category": "과학교사 업무",
+        "topic": "교원연수",
+        "confidence": "high"
       }
     ]
   },
@@ -1324,11 +1283,9 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
-        "confidence": "low"
+        "category": "과학교사 업무",
+        "topic": "교원연수",
+        "confidence": "medium"
       }
     ]
   },
@@ -1350,10 +1307,8 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
+        "category": "과학교사 업무",
+        "topic": "교원연수",
         "confidence": "low"
       }
     ]
@@ -1376,11 +1331,9 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
-        "confidence": "low"
+        "category": "과학교사 업무",
+        "topic": "교원연수",
+        "confidence": "high"
       }
     ]
   },
@@ -1402,11 +1355,9 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
-        "confidence": "low"
+        "category": "과학교사 업무",
+        "topic": "교원연수",
+        "confidence": "medium"
       }
     ]
   },
@@ -1428,10 +1379,13 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
+        "category": "과학교사 업무",
+        "topic": "생활지도",
+        "confidence": "medium"
+      },
+      {
+        "category": "과학교사 업무",
+        "topic": "교원연수",
         "confidence": "low"
       }
     ]
@@ -1454,11 +1408,9 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
-        "confidence": "low"
+        "category": "과학교사 업무",
+        "topic": "교원연수",
+        "confidence": "high"
       }
     ]
   },
@@ -1480,11 +1432,9 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
-        "confidence": "low"
+        "category": "과학교사 업무",
+        "topic": "교원연수",
+        "confidence": "high"
       }
     ]
   },
@@ -1506,11 +1456,9 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
-        "confidence": "low"
+        "category": "과학교사 업무",
+        "topic": "교원연수",
+        "confidence": "high"
       }
     ]
   },
@@ -1558,11 +1506,9 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
-        "confidence": "low"
+        "category": "과학교사 업무",
+        "topic": "교원연수",
+        "confidence": "medium"
       }
     ]
   },
@@ -1584,11 +1530,9 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
-        "confidence": "low"
+        "category": "과학교사 업무",
+        "topic": "교원연수",
+        "confidence": "medium"
       }
     ]
   },
@@ -1610,11 +1554,9 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
-        "confidence": "low"
+        "category": "과학교사 업무",
+        "topic": "학급운영",
+        "confidence": "medium"
       }
     ]
   },
@@ -1688,10 +1630,8 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
+        "category": "과학교사 업무",
+        "topic": "교원연수",
         "confidence": "low"
       }
     ]
@@ -1740,10 +1680,8 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
+        "category": "과학교사 업무",
+        "topic": "교원연수",
         "confidence": "low"
       }
     ]
@@ -1818,11 +1756,9 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
-        "confidence": "low"
+        "category": "과학교사 업무",
+        "topic": "교원연수",
+        "confidence": "medium"
       }
     ]
   },
@@ -1844,11 +1780,9 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
-        "confidence": "low"
+        "category": "과학교사 업무",
+        "topic": "과학실 관리",
+        "confidence": "high"
       }
     ]
   },
@@ -1870,11 +1804,9 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
-        "confidence": "low"
+        "category": "과학교사 업무",
+        "topic": "교원연수",
+        "confidence": "medium"
       }
     ]
   },
@@ -1896,11 +1828,9 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
-        "confidence": "low"
+        "category": "과학교사 업무",
+        "topic": "교원연수",
+        "confidence": "medium"
       }
     ]
   },
@@ -1922,10 +1852,8 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
+        "category": "과학교사 업무",
+        "topic": "교원연수",
         "confidence": "low"
       }
     ]
@@ -1948,11 +1876,9 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
-        "confidence": "low"
+        "category": "과학교사 업무",
+        "topic": "영재교육",
+        "confidence": "high"
       }
     ]
   },
@@ -2000,11 +1926,9 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
-        "confidence": "low"
+        "category": "과학교사 업무",
+        "topic": "교원연수",
+        "confidence": "medium"
       }
     ]
   },
@@ -2104,11 +2028,9 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
-        "confidence": "low"
+        "category": "과학교사 업무",
+        "topic": "교원연수",
+        "confidence": "medium"
       }
     ]
   },
@@ -2156,11 +2078,9 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
-        "confidence": "low"
+        "category": "과학교사 업무",
+        "topic": "교원연수",
+        "confidence": "medium"
       }
     ]
   },
@@ -2182,11 +2102,9 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
-        "confidence": "low"
+        "category": "과학교사 업무",
+        "topic": "교원연수",
+        "confidence": "medium"
       }
     ]
   },
@@ -2208,11 +2126,9 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
-        "confidence": "low"
+        "category": "과학교사 업무",
+        "topic": "영재교육",
+        "confidence": "medium"
       }
     ]
   },
@@ -2234,10 +2150,8 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
+        "category": "과학교사 업무",
+        "topic": "교원연수",
         "confidence": "low"
       }
     ]
@@ -2260,11 +2174,9 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
-        "confidence": "low"
+        "category": "과학교사 업무",
+        "topic": "교원연수",
+        "confidence": "medium"
       }
     ]
   },
@@ -2286,11 +2198,9 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
-        "confidence": "low"
+        "category": "재과만 소식",
+        "topic": "카페 운영 공지",
+        "confidence": "medium"
       }
     ]
   },
@@ -2312,10 +2222,8 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
+        "category": "과학교사 업무",
+        "topic": "교원연수",
         "confidence": "low"
       }
     ]
@@ -2338,11 +2246,9 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
-        "confidence": "low"
+        "category": "과학교사 업무",
+        "topic": "교원연수",
+        "confidence": "medium"
       }
     ]
   },
@@ -2364,10 +2270,8 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
+        "category": "과학교사 업무",
+        "topic": "교원연수",
         "confidence": "low"
       }
     ]

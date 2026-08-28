@@ -22,8 +22,13 @@
       "category": "게시판별 분류",
       "topic": "거꾸로 교실(김신혜)",
       "confidence": "high"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "앱/프로그램",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "거꾸로 동영상 밴드 활용 팁.",
-  "taggedAt": "2026-08-11T23:33:10.413Z"
+  "tagsNote": "거꾸로 동영상 밴드 활용 팁. / 거꾸로 동영상을 밴드 앱에 탑재해 학생들에게 공유.",
+  "taggedAt": "2026-08-27T23:54:57.760Z"
 }

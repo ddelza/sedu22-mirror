@@ -19,13 +19,11 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
-      "confidence": "low"
+      "category": "수업 방법론",
+      "topic": "배움중심수업",
+      "confidence": "high"
     }
   ],
-  "tagsNote": "여러 자료를 참고해 만든 배움중심수업 1단원 학습지 공유(특정 지구과학 단원 아님).",
-  "taggedAt": "2026-08-13T12:58:04.720Z"
+  "tagsNote": "배움중심수업 1단원 학습지 및 모둠 자리배치 활용.",
+  "taggedAt": "2026-08-25T14:11:50.178Z"
 }

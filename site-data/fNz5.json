@@ -17,16 +17,9 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
-        "confidence": "low"
-      },
-      {
         "category": "스마트 수업도구",
-        "topic": "센서/데이터로깅",
-        "confidence": "high"
+        "topic": "MBL센서",
+        "confidence": "medium"
       }
     ]
   },
@@ -48,15 +41,8 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
-        "confidence": "low"
-      },
-      {
         "category": "스마트 수업도구",
-        "topic": "센서/데이터로깅",
+        "topic": "MBL센서",
         "confidence": "high"
       }
     ]
@@ -234,16 +220,9 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
-        "confidence": "low"
-      },
-      {
         "category": "스마트 수업도구",
-        "topic": "센서/데이터로깅",
-        "confidence": "medium"
+        "topic": "MBL센서",
+        "confidence": "high"
       }
     ]
   },
@@ -358,16 +337,14 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
-        "confidence": "low"
+        "category": "과학교사 업무",
+        "topic": "동아리 운영",
+        "confidence": "high"
       },
       {
         "category": "스마트 수업도구",
-        "topic": "AI",
-        "confidence": "high"
+        "topic": "생성형 AI 도구",
+        "confidence": "medium"
       }
     ]
   },
@@ -482,15 +459,8 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
-        "confidence": "low"
-      },
-      {
         "category": "스마트 수업도구",
-        "topic": "센서/데이터로깅",
+        "topic": "MBL센서",
         "confidence": "high"
       }
     ]
@@ -513,15 +483,8 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
-        "confidence": "low"
-      },
-      {
         "category": "스마트 수업도구",
-        "topic": "센서/데이터로깅",
+        "topic": "MBL센서",
         "confidence": "high"
       }
     ]
@@ -544,16 +507,14 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
-        "confidence": "low"
+        "category": "과학교사 업무",
+        "topic": "동아리 운영",
+        "confidence": "high"
       },
       {
         "category": "스마트 수업도구",
-        "topic": "센서/데이터로깅",
-        "confidence": "high"
+        "topic": "MBL센서",
+        "confidence": "medium"
       }
     ]
   },
@@ -575,15 +536,8 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
-        "confidence": "low"
-      },
-      {
         "category": "스마트 수업도구",
-        "topic": "센서/데이터로깅",
+        "topic": "MBL센서",
         "confidence": "high"
       }
     ]
@@ -861,15 +815,8 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
-        "confidence": "low"
-      },
-      {
         "category": "스마트 수업도구",
-        "topic": "센서/데이터로깅",
+        "topic": "MBL센서",
         "confidence": "high"
       }
     ]
@@ -1676,15 +1623,8 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
-        "confidence": "low"
-      },
-      {
         "category": "스마트 수업도구",
-        "topic": "센서/데이터로깅",
+        "topic": "MBL센서",
         "confidence": "high"
       }
     ]

@@ -19,13 +19,11 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
+      "category": "과학교사 업무",
+      "topic": "세특작성",
       "confidence": "low"
     }
   ],
-  "tagsNote": "중간고사 성적통지표를 '교과성장 기록표'로 확장하자는 제안(특정 단원과 무관).",
-  "taggedAt": "2026-08-13T13:12:37.823Z"
+  "tagsNote": "성적통지표를 정성적 기록이 담긴 교과성장 기록표로 확장하자는 제안.",
+  "taggedAt": "2026-08-26T01:03:22.354Z"
 }

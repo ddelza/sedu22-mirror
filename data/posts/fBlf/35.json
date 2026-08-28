@@ -36,9 +36,14 @@
       "subject": "과학",
       "unit": "힘의 작용",
       "confidence": "medium"
+    },
+    {
+      "category": "재과만 소식",
+      "topic": "카페 운영 공지",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "재과만 톡톡 33회(힘의 작용) 영상 공개. [보완: 수평 보완]",
+  "tagsNote": "재과만 톡톡 33회(힘의 작용) 영상 공개. [보완: 수평 보완] / 재과만 톡톡 33회 영상 공개.",
   "taggedAt": "2026-08-12T13:22:59.013Z",
   "verticalReviewedAt": "2026-08-14T03:21:32.797Z"
 }

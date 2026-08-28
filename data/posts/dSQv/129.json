@@ -19,13 +19,11 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
-      "confidence": "high"
+      "category": "수업 방법론",
+      "topic": "토론수업",
+      "confidence": "medium"
     }
   ],
   "tagsNote": "토론/논술 중심 자유학기 과학 수업 결과물 — 특정 단원 아닌 형식.",
-  "taggedAt": "2026-08-12T03:18:58.493Z"
+  "taggedAt": "2026-08-25T13:04:48.642Z"
 }

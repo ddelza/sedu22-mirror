@@ -19,13 +19,11 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
-      "confidence": "low"
+      "category": "수업 방법론",
+      "topic": "토론수업",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "청주교대 재과만 워크숍 참여 후 '기록하기·공유하기'를 다짐하며 남긴 소감(특정 단원 내용 없음).",
-  "taggedAt": "2026-08-13T12:22:01.836Z"
+  "tagsNote": "하브루타 질문만들기를 활용한 동기유발 수업 사례.",
+  "taggedAt": "2026-08-25T14:07:34.560Z"
 }

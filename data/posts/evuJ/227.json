@@ -19,13 +19,11 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
-      "confidence": "high"
+      "category": "스마트 수업도구",
+      "topic": "앱/프로그램",
+      "confidence": "medium"
     }
   ],
   "tagsNote": "유튜브 무료 BGM 채널 소개.",
-  "taggedAt": "2026-08-12T03:51:18.236Z"
+  "taggedAt": "2026-08-25T13:09:46.562Z"
 }

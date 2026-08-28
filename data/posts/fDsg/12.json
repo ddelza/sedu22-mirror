@@ -19,13 +19,11 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
+      "category": "재과만 소식",
+      "topic": "카페 운영 공지",
       "confidence": "high"
     }
   ],
-  "tagsNote": "카페 15000명 회원 실명제 안내.",
+  "tagsNote": "카페 15000명 회원 실명제 안내. / 실명제 등급 조정 완료 보고.",
   "taggedAt": "2026-08-12T13:32:32.160Z"
 }

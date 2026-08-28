@@ -22,8 +22,13 @@
       "category": "과학교사 업무",
       "topic": "교원연수",
       "confidence": "medium"
+    },
+    {
+      "category": "재과만 소식",
+      "topic": "카페 운영 공지",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "1회 모임 후기 작성 요청글.",
+  "tagsNote": "1회 모임 후기 작성 요청글. / 1회 모임 후기 모집 공지.",
   "taggedAt": "2026-08-12T13:24:15.956Z"
 }

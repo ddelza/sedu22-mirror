@@ -19,13 +19,11 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
-      "confidence": "low"
+      "category": "스마트 수업도구",
+      "topic": "앱/프로그램",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "엑셀로 학생별 피드백 자료를 일괄 인쇄하는 자동화 양식 공유(특정 단원과 무관).",
-  "taggedAt": "2026-08-13T13:04:51.240Z"
+  "tagsNote": "엑셀 매크로로 학생별 피드백 자료를 일괄 인쇄하는 자동화 양식.",
+  "taggedAt": "2026-08-25T14:16:51.277Z"
 }

@@ -19,13 +19,11 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
-      "confidence": "high"
+      "category": "스마트 수업도구",
+      "topic": "앱/프로그램",
+      "confidence": "medium"
     }
   ],
   "tagsNote": "PPT용 스탑워치 자료 공유.",
-  "taggedAt": "2026-08-12T03:50:05.394Z"
+  "taggedAt": "2026-08-25T13:09:05.375Z"
 }

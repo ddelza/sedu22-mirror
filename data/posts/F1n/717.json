@@ -24,8 +24,18 @@
       "subject": null,
       "unit": "미분류",
       "confidence": "high"
+    },
+    {
+      "category": "과학교사 업무",
+      "topic": "교원연수",
+      "confidence": "low"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "생성형 AI 도구",
+      "confidence": "low"
     }
   ],
-  "tagsNote": "과학자 포스터 만들기+작품 리메이크 방학 아이디어 구상 공유.",
-  "taggedAt": "2026-08-12T08:53:47.275Z"
+  "tagsNote": "과학자 포스터 만들기+작품 리메이크 방학 아이디어 구상 공유. / 북크리에이터 연수 중 떠올린 아이디어, AI 도구로 과학자 초상화 제작 계획.",
+  "taggedAt": "2026-08-28T00:10:18.702Z"
 }

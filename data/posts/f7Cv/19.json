@@ -22,8 +22,13 @@
       "category": "과학교사 업무",
       "topic": "교원연수",
       "confidence": "medium"
+    },
+    {
+      "category": "재과만 소식",
+      "topic": "카페 운영 공지",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "12월 '재과만 톡톡'(4회) 초대손님 준비 안내.",
+  "tagsNote": "12월 '재과만 톡톡'(4회) 초대손님 준비 안내. / 재과만 톡톡 4회 준비 공지.",
   "taggedAt": "2026-08-12T09:11:50.654Z"
 }

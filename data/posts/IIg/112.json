@@ -19,13 +19,11 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
-      "confidence": "low"
+      "category": "과학교사 업무",
+      "topic": "교원연수",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "수업전문성 향상 직무연수 실시간 정리(가방무게, 학생의 날 이벤트 등)(특정 단원과 무관).",
-  "taggedAt": "2026-08-13T13:13:51.981Z"
+  "tagsNote": "수업전문성 향상 직무연수 실시간 정리.",
+  "taggedAt": "2026-08-26T01:04:22.290Z"
 }

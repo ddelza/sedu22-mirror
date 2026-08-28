@@ -19,13 +19,11 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
-      "confidence": "low"
+      "category": "과학교사 업무",
+      "topic": "과학실 관리",
+      "confidence": "high"
     }
   ],
-  "tagsNote": "3~10년 지난 부탄가스의 안전한 폐기 방법을 묻는 질문(특정 단원과 무관).",
-  "taggedAt": "2026-08-13T12:52:37.720Z"
+  "tagsNote": "오래된 부탄가스 안전 폐기 방법 문의.",
+  "taggedAt": "2026-08-25T14:10:37.565Z"
 }

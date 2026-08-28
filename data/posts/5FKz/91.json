@@ -22,8 +22,13 @@
       "category": "게시판별 분류",
       "topic": "거꾸로 교실(김신혜)",
       "confidence": "high"
+    },
+    {
+      "category": "과학교사 업무",
+      "topic": "교원연수",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "거꾸로교실 시작 전 막막함 토로.",
-  "taggedAt": "2026-08-11T23:34:47.233Z"
+  "tagsNote": "거꾸로교실 시작 전 막막함 토로. / 거꾸로교실 연수를 혼자 3주 만에 수강 후 시작 준비.",
+  "taggedAt": "2026-08-27T23:56:10.701Z"
 }

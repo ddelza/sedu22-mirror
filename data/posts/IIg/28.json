@@ -19,13 +19,11 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
+      "category": "과학교사 업무",
+      "topic": "교원연수",
       "confidence": "low"
     }
   ],
-  "tagsNote": "한국교육과정평가원 '수업장학' 연구보고서 중 동료 장학 실천 사례 발췌 공유(특정 단원과 무관).",
-  "taggedAt": "2026-08-13T13:15:05.054Z"
+  "tagsNote": "한국교육과정평가원 수업장학 연구보고서 중 동료장학 실천 사례 발췌.",
+  "taggedAt": "2026-08-26T01:04:22.312Z"
 }

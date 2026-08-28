@@ -19,13 +19,11 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
+      "category": "스마트 수업도구",
+      "topic": "앱/프로그램",
       "confidence": "high"
     }
   ],
   "tagsNote": "스마일 프로그램(smile3) 업데이트 소개.",
-  "taggedAt": "2026-08-12T04:18:08.687Z"
+  "taggedAt": "2026-08-25T13:10:34.902Z"
 }

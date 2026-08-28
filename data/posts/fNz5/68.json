@@ -19,18 +19,16 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
-      "confidence": "low"
+      "category": "과학교사 업무",
+      "topic": "동아리 운영",
+      "confidence": "high"
     },
     {
       "category": "스마트 수업도구",
-      "topic": "센서/데이터로깅",
-      "confidence": "high"
+      "topic": "MBL센서",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "STEAM클럽 예산으로 개설한 센서·코딩 연합 동아리(센서메이커스·비트메이커스) 운영 계획(32편, 특정 단원과 무관).",
-  "taggedAt": "2026-08-13T13:02:02.135Z"
+  "tagsNote": "STEAM클럽 예산으로 센서·코딩 연합 동아리(센서메이커스·비트메이커스) 개설 및 운영 계획.",
+  "taggedAt": "2026-08-25T14:16:02.869Z"
 }

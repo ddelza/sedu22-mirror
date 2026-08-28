@@ -19,13 +19,11 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
-      "confidence": "high"
+      "category": "재과만 소식",
+      "topic": "카페 운영 공지",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "AI에게 물어본 카페 소개.",
+  "tagsNote": "AI에게 물어본 카페 소개. / 카페 소개 글.",
   "taggedAt": "2026-08-12T13:33:30.809Z"
 }

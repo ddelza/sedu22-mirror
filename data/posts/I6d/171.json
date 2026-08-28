@@ -19,13 +19,11 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
+      "category": "과학교사 업무",
+      "topic": "세특작성",
       "confidence": "low"
     }
   ],
-  "tagsNote": "지필평가 부담 때문에 세특 작성이 어렵다는 새로운 평가 방법 모색 고민(특정 단원과 무관).",
-  "taggedAt": "2026-08-13T13:04:51.242Z"
+  "tagsNote": "지필평가 부담으로 세특 작성이 어렵다는 문제의식에서 출발한 평가방법 모색 고민.",
+  "taggedAt": "2026-08-25T14:16:51.278Z"
 }

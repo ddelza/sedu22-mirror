@@ -36,9 +36,14 @@
       "subject": "과학",
       "unit": "물질의 구성",
       "confidence": "medium"
+    },
+    {
+      "category": "재과만 소식",
+      "topic": "카페 운영 공지",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "재과만 톡톡 42회(물질의 구성) 영상 공개. [보완: 수평 보완(동일 이름)]",
+  "tagsNote": "재과만 톡톡 42회(물질의 구성) 영상 공개. [보완: 수평 보완(동일 이름)] / 재과만 톡톡 42회 영상 공개.",
   "taggedAt": "2026-08-12T13:22:59.021Z",
   "verticalReviewedAt": "2026-08-14T03:21:32.801Z"
 }

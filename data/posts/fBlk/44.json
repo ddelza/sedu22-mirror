@@ -22,8 +22,13 @@
       "category": "과학교사 업무",
       "topic": "교원연수",
       "confidence": "high"
+    },
+    {
+      "category": "재과만 소식",
+      "topic": "카페 운영 공지",
+      "confidence": "high"
     }
   ],
-  "tagsNote": "제2회 부산 오프라인 모임 후기 및 마무리 영상 공유.",
+  "tagsNote": "제2회 부산 오프라인 모임 후기 및 마무리 영상 공유. / 부산 모임 후기 및 향후 운영 논의.",
   "taggedAt": "2026-08-12T13:25:22.791Z"
 }

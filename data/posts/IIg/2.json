@@ -19,13 +19,11 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
-      "confidence": "low"
+      "category": "과학교사 업무",
+      "topic": "교원연수",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "2006년 경기도 과학과 직무연수 '좋은 시험문제 출제하기' 동영상 공유(특정 단원과 무관).",
-  "taggedAt": "2026-08-13T13:15:05.049Z"
+  "tagsNote": "경기도 과학과 직무연수(좋은 시험문제 출제하기) 동영상.",
+  "taggedAt": "2026-08-26T01:04:22.308Z"
 }

@@ -19,13 +19,11 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
-      "confidence": "low"
+      "category": "과학교사 업무",
+      "topic": "과학실 관리",
+      "confidence": "high"
     }
   ],
-  "tagsNote": "경기도교육청 과학실 안전가이드북(2019) 링크 공유(특정 단원과 무관).",
-  "taggedAt": "2026-08-13T13:13:51.987Z"
+  "tagsNote": "경기도교육청 과학실 안전가이드북(2019) 자료 링크.",
+  "taggedAt": "2026-08-26T01:04:22.294Z"
 }

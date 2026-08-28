@@ -19,13 +19,11 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
-      "confidence": "low"
+      "category": "과학교사 업무",
+      "topic": "교원연수",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "'수업친구, 수업나눔' 행사에서 발표한 고등학교 수업 성찰 원고 '이거 어떻게 하는 거야?' 공유(특정 단원과 무관).",
-  "taggedAt": "2026-08-13T13:15:05.068Z"
+  "tagsNote": "수업친구, 수업나눔 행사 발표 원고.",
+  "taggedAt": "2026-08-26T01:05:18.940Z"
 }

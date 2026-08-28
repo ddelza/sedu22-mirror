@@ -19,13 +19,11 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
-      "confidence": "high"
+      "category": "수업 방법론",
+      "topic": "토론수업",
+      "confidence": "medium"
     }
   ],
   "tagsNote": "교실 찬반토론 준비물 문의 — 특정 단원 아닌 토론 운영 질문.",
-  "taggedAt": "2026-08-12T00:07:58.399Z"
+  "taggedAt": "2026-08-25T06:18:16.607Z"
 }

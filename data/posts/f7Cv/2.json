@@ -22,8 +22,13 @@
       "category": "과학교사 업무",
       "topic": "교원연수",
       "confidence": "medium"
+    },
+    {
+      "category": "재과만 소식",
+      "topic": "카페 운영 공지",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "'재과만 톡톡' 1회 운영 설문결과 공유.",
+  "tagsNote": "'재과만 톡톡' 1회 운영 설문결과 공유. / 재과만 톡톡 1회 설문결과 공유.",
   "taggedAt": "2026-08-12T09:11:50.654Z"
 }

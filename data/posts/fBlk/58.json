@@ -22,8 +22,13 @@
       "category": "과학교사 업무",
       "topic": "교원연수",
       "confidence": "high"
+    },
+    {
+      "category": "재과만 소식",
+      "topic": "카페 운영 공지",
+      "confidence": "high"
     }
   ],
-  "tagsNote": "2023 청주교사교육포럼 재과만 발표자 모집 안내.",
+  "tagsNote": "2023 청주교사교육포럼 재과만 발표자 모집 안내. / 청주교사교육포럼 발표자 모집.",
   "taggedAt": "2026-08-12T13:25:22.803Z"
 }

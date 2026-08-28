@@ -19,13 +19,11 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
-      "confidence": "high"
+      "category": "과학교사 업무",
+      "topic": "생활지도",
+      "confidence": "medium"
     }
   ],
   "tagsNote": "긍정/부정 학생 공감 멘트 공유.",
-  "taggedAt": "2026-08-12T03:17:24.885Z"
+  "taggedAt": "2026-08-25T13:04:30.233Z"
 }

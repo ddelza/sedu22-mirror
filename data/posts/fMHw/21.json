@@ -19,13 +19,11 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
-      "confidence": "low"
+      "category": "수업 방법론",
+      "topic": "IB(개념기반학습)",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "예술과 과학을 비교하며 진행하는 1단원 과학 탐구 방법 및 탐구 계획서 작성 수업 공유(특정 지구과학 단원 아님).",
-  "taggedAt": "2026-08-13T12:34:22.695Z"
+  "tagsNote": "탐구질문 만들기 수행평가에서 사실적/개념적/논쟁적 질문 설계 활용.",
+  "taggedAt": "2026-08-25T14:08:36.086Z"
 }

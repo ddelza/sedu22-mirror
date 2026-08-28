@@ -19,13 +19,11 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
-      "confidence": "low"
+      "category": "과학교사 업무",
+      "topic": "영재교육",
+      "confidence": "high"
     }
   ],
-  "tagsNote": "중1 영재학급용 안전하고 재미있는 화학실험을 추천받는 질문(구체적 단원 불명확).",
-  "taggedAt": "2026-08-13T12:34:22.695Z"
+  "tagsNote": "중1 영재학급 화학실험 추천 요청.",
+  "taggedAt": "2026-08-25T14:08:36.085Z"
 }

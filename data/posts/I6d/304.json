@@ -19,13 +19,11 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
-      "confidence": "low"
+      "category": "스마트 수업도구",
+      "topic": "생성형 AI 도구",
+      "confidence": "high"
     }
   ],
-  "tagsNote": "학년·과목 특화 및 타교과 활용이 가능한 '재과만 AI 문항 생성기' ver.2 공개(특정 단원과 무관).",
-  "taggedAt": "2026-08-13T13:11:29.201Z"
+  "tagsNote": "학년·과목 특화, 타교과 활용 가능한 AI 문항생성기 ver.2.",
+  "taggedAt": "2026-08-25T23:26:07.515Z"
 }

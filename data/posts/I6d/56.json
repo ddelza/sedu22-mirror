@@ -19,13 +19,11 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
+      "category": "과학교사 업무",
+      "topic": "학급운영",
       "confidence": "low"
     }
   ],
-  "tagsNote": "나이스 '고사별비교조회'로 꾸준히 성적이 오른 학생을 찾아 칭찬한 사례(특정 단원과 무관).",
-  "taggedAt": "2026-08-13T13:12:37.808Z"
+  "tagsNote": "NEIS 고사별비교조회로 성적 향상 학생을 찾아 칭찬.",
+  "taggedAt": "2026-08-25T23:26:07.526Z"
 }

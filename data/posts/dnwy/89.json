@@ -19,13 +19,11 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
-      "confidence": "high"
+      "category": "과학교사 업무",
+      "topic": "생활지도",
+      "confidence": "medium"
     }
   ],
   "tagsNote": "끈기 부족 학생 지도 관련 에세이.",
-  "taggedAt": "2026-08-12T03:17:24.901Z"
+  "taggedAt": "2026-08-25T13:04:30.246Z"
 }

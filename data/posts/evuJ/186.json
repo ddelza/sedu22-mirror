@@ -19,13 +19,11 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
+      "category": "스마트 수업도구",
+      "topic": "앱/프로그램",
       "confidence": "high"
     }
   ],
   "tagsNote": "쌍방향 수업용 주사위 놀이 보드게임 자료.",
-  "taggedAt": "2026-08-12T03:50:05.387Z"
+  "taggedAt": "2026-08-25T13:09:05.374Z"
 }

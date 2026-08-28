@@ -19,13 +19,11 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
-      "confidence": "high"
+      "category": "과학교사 업무",
+      "topic": "생활지도",
+      "confidence": "medium"
     }
   ],
   "tagsNote": "질문 활동의 의미에 대한 에세이.",
-  "taggedAt": "2026-08-12T03:18:58.459Z"
+  "taggedAt": "2026-08-25T13:04:30.248Z"
 }

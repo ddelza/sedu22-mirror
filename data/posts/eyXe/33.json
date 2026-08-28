@@ -19,13 +19,11 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
+      "category": "재과만 소식",
+      "topic": "카페 운영 공지",
       "confidence": "high"
     }
   ],
-  "tagsNote": "정회원 정보 수정 요청(닉네임 정책 등).",
+  "tagsNote": "정회원 정보 수정 요청(닉네임 정책 등). / 정회원 정보(닉네임/휴대폰) 수정 요청 공지.",
   "taggedAt": "2026-08-12T04:18:08.729Z"
 }

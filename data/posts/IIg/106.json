@@ -19,13 +19,11 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
-      "confidence": "low"
+      "category": "과학교사 업무",
+      "topic": "교원연수",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "융합교육 연수(2일차) 실시간 정리, 단일교과 내 융합·교사학습공동체 사례(특정 단원과 무관).",
-  "taggedAt": "2026-08-13T13:13:51.977Z"
+  "tagsNote": "융합교육 연수 2일차 실시간 정리.",
+  "taggedAt": "2026-08-26T01:03:22.365Z"
 }

@@ -17,11 +17,9 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
-        "confidence": "low"
+        "category": "스마트 수업도구",
+        "topic": "생성형 AI 도구",
+        "confidence": "high"
       }
     ]
   },
@@ -43,11 +41,9 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
-        "confidence": "low"
+        "category": "스마트 수업도구",
+        "topic": "생성형 AI 도구",
+        "confidence": "high"
       }
     ]
   },
@@ -69,11 +65,9 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
-        "confidence": "low"
+        "category": "스마트 수업도구",
+        "topic": "생성형 AI 도구",
+        "confidence": "high"
       }
     ]
   },
@@ -95,11 +89,9 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
-        "confidence": "low"
+        "category": "스마트 수업도구",
+        "topic": "생성형 AI 도구",
+        "confidence": "medium"
       }
     ]
   },
@@ -121,11 +113,9 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
-        "confidence": "low"
+        "category": "스마트 수업도구",
+        "topic": "생성형 AI 도구",
+        "confidence": "high"
       }
     ]
   },
@@ -206,11 +196,9 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
-        "confidence": "low"
+        "category": "스마트 수업도구",
+        "topic": "생성형 AI 도구",
+        "confidence": "high"
       }
     ]
   },
@@ -232,11 +220,9 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
-        "confidence": "low"
+        "category": "스마트 수업도구",
+        "topic": "생성형 AI 도구",
+        "confidence": "high"
       }
     ]
   },
@@ -258,11 +244,9 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
-        "confidence": "low"
+        "category": "스마트 수업도구",
+        "topic": "생성형 AI 도구",
+        "confidence": "high"
       }
     ]
   },
@@ -388,10 +372,8 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
+        "category": "스마트 수업도구",
+        "topic": "생성형 AI 도구",
         "confidence": "low"
       }
     ]
@@ -570,10 +552,8 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
+        "category": "스마트 수업도구",
+        "topic": "생성형 AI 도구",
         "confidence": "low"
       }
     ]
@@ -622,11 +602,14 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
-        "confidence": "low"
+        "category": "과학교사 업무",
+        "topic": "세특작성",
+        "confidence": "high"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "앱/프로그램",
+        "confidence": "medium"
       }
     ]
   },
@@ -681,11 +664,14 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
-        "confidence": "low"
+        "category": "과학교사 업무",
+        "topic": "세특작성",
+        "confidence": "high"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "생성형 AI 도구",
+        "confidence": "high"
       }
     ]
   },
@@ -759,11 +745,9 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
-        "confidence": "low"
+        "category": "스마트 수업도구",
+        "topic": "생성형 AI 도구",
+        "confidence": "medium"
       }
     ]
   },
@@ -837,10 +821,8 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
+        "category": "스마트 수업도구",
+        "topic": "생성형 AI 도구",
         "confidence": "low"
       }
     ]
@@ -941,11 +923,9 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
-        "confidence": "low"
+        "category": "과학교사 업무",
+        "topic": "세특작성",
+        "confidence": "medium"
       }
     ]
   },
@@ -1305,11 +1285,14 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": "2022",
-        "schoolLevel": "고등학교",
-        "subject": "생명과학1",
-        "unit": "미분류",
-        "confidence": "low"
+        "category": "수업 방법론",
+        "topic": "IB(개념기반학습)",
+        "confidence": "medium"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "생성형 AI 도구",
+        "confidence": "medium"
       }
     ]
   },
@@ -1409,11 +1392,14 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
-        "confidence": "low"
+        "category": "과학교사 업무",
+        "topic": "세특작성",
+        "confidence": "high"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "생성형 AI 도구",
+        "confidence": "medium"
       }
     ]
   },
@@ -1617,10 +1603,8 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
+        "category": "스마트 수업도구",
+        "topic": "생성형 AI 도구",
         "confidence": "low"
       }
     ]
@@ -1643,10 +1627,8 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
+        "category": "스마트 수업도구",
+        "topic": "생성형 AI 도구",
         "confidence": "low"
       }
     ]
@@ -1955,11 +1937,9 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
-        "confidence": "low"
+        "category": "과학교사 업무",
+        "topic": "세특작성",
+        "confidence": "high"
       }
     ]
   },
@@ -2161,16 +2141,9 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
-        "confidence": "low"
-      },
-      {
         "category": "스마트 수업도구",
-        "topic": "온라인 수업 자료",
-        "confidence": "medium"
+        "topic": "교육용 단말기(태블릿/크롬북)",
+        "confidence": "high"
       }
     ]
   },
@@ -2414,10 +2387,8 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
+        "category": "과학교사 업무",
+        "topic": "학급운영",
         "confidence": "low"
       }
     ]
@@ -2733,11 +2704,9 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
-        "confidence": "low"
+        "category": "과학교사 업무",
+        "topic": "학급운영",
+        "confidence": "medium"
       }
     ]
   },
@@ -2785,11 +2754,14 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
-        "confidence": "low"
+        "category": "과학교사 업무",
+        "topic": "세특작성",
+        "confidence": "high"
+      },
+      {
+        "category": "과학교사 업무",
+        "topic": "학급운영",
+        "confidence": "medium"
       }
     ]
   },
@@ -2915,10 +2887,8 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
+        "category": "수업 방법론",
+        "topic": "토론수업",
         "confidence": "low"
       }
     ]
@@ -2967,10 +2937,8 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
+        "category": "과학교사 업무",
+        "topic": "세특작성",
         "confidence": "low"
       }
     ]
@@ -3019,11 +2987,9 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
-        "confidence": "low"
+        "category": "스마트 수업도구",
+        "topic": "앱/프로그램",
+        "confidence": "medium"
       }
     ]
   },
@@ -3045,11 +3011,9 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
-        "confidence": "low"
+        "category": "스마트 수업도구",
+        "topic": "앱/프로그램",
+        "confidence": "medium"
       }
     ]
   },
@@ -3071,11 +3035,9 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
-        "confidence": "low"
+        "category": "스마트 수업도구",
+        "topic": "앱/프로그램",
+        "confidence": "medium"
       }
     ]
   },
@@ -3699,11 +3661,9 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
-        "confidence": "low"
+        "category": "과학교사 업무",
+        "topic": "세특작성",
+        "confidence": "high"
       }
     ]
   },
@@ -3881,10 +3841,8 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
+        "category": "과학교사 업무",
+        "topic": "학급운영",
         "confidence": "low"
       }
     ]
@@ -4070,10 +4028,8 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
+        "category": "스마트 수업도구",
+        "topic": "앱/프로그램",
         "confidence": "low"
       }
     ]
@@ -4148,11 +4104,9 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
-        "confidence": "low"
+        "category": "과학교사 업무",
+        "topic": "세특작성",
+        "confidence": "high"
       }
     ]
   },
@@ -4252,11 +4206,9 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
-        "confidence": "low"
+        "category": "과학교사 업무",
+        "topic": "세특작성",
+        "confidence": "high"
       }
     ]
   },
@@ -4512,11 +4464,9 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
-        "confidence": "low"
+        "category": "과학교사 업무",
+        "topic": "세특작성",
+        "confidence": "high"
       }
     ]
   },
@@ -4564,10 +4514,8 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
+        "category": "과학교사 업무",
+        "topic": "세특작성",
         "confidence": "low"
       }
     ]
@@ -4616,11 +4564,9 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
-        "confidence": "low"
+        "category": "과학교사 업무",
+        "topic": "세특작성",
+        "confidence": "high"
       }
     ]
   },
@@ -4642,11 +4588,9 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
-        "confidence": "low"
+        "category": "과학교사 업무",
+        "topic": "세특작성",
+        "confidence": "medium"
       }
     ]
   },
@@ -4694,11 +4638,9 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
-        "confidence": "low"
+        "category": "과학교사 업무",
+        "topic": "세특작성",
+        "confidence": "high"
       }
     ]
   },
@@ -4720,10 +4662,8 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
+        "category": "과학교사 업무",
+        "topic": "세특작성",
         "confidence": "low"
       }
     ]
@@ -4798,11 +4738,9 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
-        "confidence": "low"
+        "category": "과학교사 업무",
+        "topic": "세특작성",
+        "confidence": "high"
       }
     ]
   },
@@ -4928,10 +4866,13 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
+        "category": "수업 방법론",
+        "topic": "토론수업",
+        "confidence": "medium"
+      },
+      {
+        "category": "과학교사 업무",
+        "topic": "세특작성",
         "confidence": "low"
       }
     ]
@@ -5058,11 +4999,9 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
-        "confidence": "low"
+        "category": "과학교사 업무",
+        "topic": "세특작성",
+        "confidence": "medium"
       }
     ]
   },
@@ -5162,11 +5101,9 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
-        "confidence": "low"
+        "category": "과학교사 업무",
+        "topic": "세특작성",
+        "confidence": "high"
       }
     ]
   },
@@ -5188,10 +5125,8 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
+        "category": "과학교사 업무",
+        "topic": "학급운영",
         "confidence": "low"
       }
     ]
@@ -5240,10 +5175,8 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
+        "category": "과학교사 업무",
+        "topic": "학급운영",
         "confidence": "low"
       }
     ]
@@ -5266,11 +5199,9 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
-        "confidence": "low"
+        "category": "스마트 수업도구",
+        "topic": "앱/프로그램",
+        "confidence": "high"
       }
     ]
   },
@@ -5507,10 +5438,8 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
+        "category": "과학교사 업무",
+        "topic": "학급운영",
         "confidence": "low"
       }
     ]
@@ -5533,11 +5462,9 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
-        "confidence": "low"
+        "category": "과학교사 업무",
+        "topic": "학급운영",
+        "confidence": "medium"
       }
     ]
   },
@@ -5559,10 +5486,8 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
+        "category": "과학교사 업무",
+        "topic": "학급운영",
         "confidence": "low"
       }
     ]
@@ -5585,11 +5510,9 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
-        "confidence": "low"
+        "category": "과학교사 업무",
+        "topic": "학급운영",
+        "confidence": "medium"
       }
     ]
   },
@@ -5611,10 +5534,8 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
+        "category": "과학교사 업무",
+        "topic": "학급운영",
         "confidence": "low"
       }
     ]
@@ -5793,11 +5714,9 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
-        "confidence": "low"
+        "category": "과학교사 업무",
+        "topic": "학급운영",
+        "confidence": "medium"
       }
     ]
   },
@@ -5845,11 +5764,9 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
-        "confidence": "low"
+        "category": "과학교사 업무",
+        "topic": "학급운영",
+        "confidence": "medium"
       }
     ]
   },
@@ -5871,10 +5788,8 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
+        "category": "과학교사 업무",
+        "topic": "학급운영",
         "confidence": "low"
       }
     ]
@@ -5897,10 +5812,8 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
+        "category": "과학교사 업무",
+        "topic": "학급운영",
         "confidence": "low"
       }
     ]
@@ -6001,10 +5914,8 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
+        "category": "과학교사 업무",
+        "topic": "학급운영",
         "confidence": "low"
       }
     ]
@@ -6138,11 +6049,9 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
-        "confidence": "low"
+        "category": "과학교사 업무",
+        "topic": "세특작성",
+        "confidence": "high"
       }
     ]
   },
@@ -6268,11 +6177,9 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
-        "confidence": "low"
+        "category": "과학교사 업무",
+        "topic": "학급운영",
+        "confidence": "medium"
       }
     ]
   },

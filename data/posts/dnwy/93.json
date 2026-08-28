@@ -19,13 +19,11 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
-      "confidence": "high"
+      "category": "과학교사 업무",
+      "topic": "생활지도",
+      "confidence": "medium"
     }
   ],
   "tagsNote": "에너지 절약 습관에 대한 개인적 소회(기후위기 언급, 특정 단원 지도 아님).",
-  "taggedAt": "2026-08-12T03:18:58.461Z"
+  "taggedAt": "2026-08-25T13:04:30.250Z"
 }

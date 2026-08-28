@@ -19,13 +19,11 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
-      "confidence": "high"
+      "category": "과학교사 업무",
+      "topic": "영재교육",
+      "confidence": "medium"
     }
   ],
   "tagsNote": "가정탐구수업 총정리 요청.",
-  "taggedAt": "2026-08-12T04:14:05.233Z"
+  "taggedAt": "2026-08-25T13:09:46.584Z"
 }

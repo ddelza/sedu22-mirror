@@ -19,13 +19,11 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
-      "confidence": "high"
+      "category": "과학교사 업무",
+      "topic": "생활지도",
+      "confidence": "medium"
     }
   ],
   "tagsNote": "성공보다 성장 강조 자료.",
-  "taggedAt": "2026-08-12T03:17:24.892Z"
+  "taggedAt": "2026-08-25T13:04:30.237Z"
 }

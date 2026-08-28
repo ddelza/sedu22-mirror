@@ -18,13 +18,11 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
-      "confidence": "high"
+      "category": "과학교사 업무",
+      "topic": "과학 행사",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "주말 교외 과학대회 지도교사 참석 의무 여부 문의.",
-  "taggedAt": "2026-08-12T04:50:37.990Z"
+  "tagsNote": "주말 교외 과학대회 지도교사 참석 의무 문의 - 행사 운영 관련 행정 문의.",
+  "taggedAt": "2026-08-25T13:16:28.171Z"
 }

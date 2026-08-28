@@ -19,13 +19,11 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
-      "confidence": "medium"
+      "category": "재과만 소식",
+      "topic": "카페 운영 공지",
+      "confidence": "high"
     }
   ],
-  "tagsNote": "월간 재과만 10월 베스트 게시글 모음(제10호).",
+  "tagsNote": "월간 재과만 10월 베스트 게시글 모음(제10호). / 월간 재과만 이야기(제10호) 뉴스레터.",
   "taggedAt": "2026-08-12T13:35:40.786Z"
 }

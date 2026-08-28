@@ -19,13 +19,11 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
-      "confidence": "high"
+      "category": "과학교사 업무",
+      "topic": "학급운영",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "다양한 수업 아이디어에 대한 감상 댓글.",
-  "taggedAt": "2026-08-12T08:53:47.266Z"
+  "tagsNote": "전체발표+모둠 순환발표 운영 노하우 - 발표자 선정/관리법.",
+  "taggedAt": "2026-08-25T14:00:06.647Z"
 }

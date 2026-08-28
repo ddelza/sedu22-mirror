@@ -19,13 +19,11 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
+      "category": "과학교사 업무",
+      "topic": "교원연수",
       "confidence": "low"
     }
   ],
-  "tagsNote": "신규 교사 두 명과 나눈 수업 관련 대화를 정리해 공유한 글(특정 단원과 무관).",
-  "taggedAt": "2026-08-13T13:15:05.069Z"
+  "tagsNote": "신규 선생님과 나눈 수업 관련 멘토링 대화 정리.",
+  "taggedAt": "2026-08-26T01:05:18.941Z"
 }

@@ -19,13 +19,11 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
+      "category": "수업 방법론",
+      "topic": "토론수업",
       "confidence": "high"
     }
   ],
-  "tagsNote": "정규 과학수업 시간 내 바이러스 소재 독서토론 수업 후기.",
-  "taggedAt": "2026-08-12T10:26:25.396Z"
+  "tagsNote": "정규 수업시간 내 바이러스 백신 찬반 독서토론 수업 실시 및 성찰.",
+  "taggedAt": "2026-08-25T14:03:45.097Z"
 }

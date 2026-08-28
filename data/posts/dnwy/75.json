@@ -19,13 +19,11 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
-      "confidence": "high"
+      "category": "과학교사 업무",
+      "topic": "생활지도",
+      "confidence": "medium"
     }
   ],
   "tagsNote": "과학탐구 실패 두려움 대응 에세이(몬스터 주식회사 인용).",
-  "taggedAt": "2026-08-12T03:17:24.888Z"
+  "taggedAt": "2026-08-25T13:04:30.235Z"
 }

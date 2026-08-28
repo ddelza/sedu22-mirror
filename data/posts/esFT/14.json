@@ -19,13 +19,11 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
-      "confidence": "high"
+      "category": "과학교사 업무",
+      "topic": "세특작성",
+      "confidence": "medium"
     }
   ],
   "tagsNote": "학생평가지원포털 교과세특 예시자료(통합과학/과학탐구실험) 공유.",
-  "taggedAt": "2026-08-12T03:31:12.967Z"
+  "taggedAt": "2026-08-25T13:07:19.716Z"
 }

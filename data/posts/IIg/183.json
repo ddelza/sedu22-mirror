@@ -19,13 +19,11 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
-      "confidence": "low"
+      "category": "재과만 소식",
+      "topic": "카페 운영 공지",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "'재과만 교원연수원' 설립을 위한 과학수업 나눔 참여자 모집글(특정 단원과 무관).",
-  "taggedAt": "2026-08-13T13:13:51.993Z"
+  "tagsNote": "재과만 교원연수원 설립을 위한 수업나눔 참여자 모집.",
+  "taggedAt": "2026-08-26T01:04:22.303Z"
 }

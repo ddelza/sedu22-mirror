@@ -45,8 +45,13 @@
       "category": "게시판별 분류",
       "topic": "과학행사&과학실 Idea",
       "confidence": "high"
+    },
+    {
+      "category": "과학교사 업무",
+      "topic": "동아리 운영",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "",
-  "taggedAt": "2026-08-11T14:40:48.491Z"
+  "tagsNote": "꽃사랑환경동아리 예산으로 진행한 식물이름표 달아주기 활동.",
+  "taggedAt": "2026-08-27T23:42:16.123Z"
 }

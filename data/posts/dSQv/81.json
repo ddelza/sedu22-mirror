@@ -19,13 +19,11 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
-      "confidence": "high"
+      "category": "수업 방법론",
+      "topic": "토론수업",
+      "confidence": "medium"
     }
   ],
   "tagsNote": "과학독서논술 윤독 프로그램(정답을 넘어서는 토론학교, 과학).",
-  "taggedAt": "2026-08-12T03:29:01.323Z"
+  "taggedAt": "2026-08-25T13:05:29.590Z"
 }

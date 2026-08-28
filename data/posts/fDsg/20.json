@@ -19,13 +19,11 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
+      "category": "재과만 소식",
+      "topic": "카페 운영 공지",
       "confidence": "high"
     }
   ],
-  "tagsNote": "게시글/댓글 보존 캠페인 공지.",
+  "tagsNote": "게시글/댓글 보존 캠페인 공지. / 게시글/댓글 보존 공지.",
   "taggedAt": "2026-08-12T13:33:30.789Z"
 }

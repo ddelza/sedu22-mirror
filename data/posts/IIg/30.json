@@ -19,13 +19,11 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
+      "category": "과학교사 업무",
+      "topic": "교원연수",
       "confidence": "low"
     }
   ],
-  "tagsNote": "타 전공 교사를 위한 화학실험 연수에 적합한 실험을 추천받는 질문(구체적 단원 특정 안됨).",
-  "taggedAt": "2026-08-13T13:15:05.055Z"
+  "tagsNote": "타 전공 교사를 위한 화학실험연수 실험 아이디어 추천 요청.",
+  "taggedAt": "2026-08-26T01:05:18.928Z"
 }

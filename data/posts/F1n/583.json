@@ -19,13 +19,11 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
-      "confidence": "high"
+      "category": "수업 방법론",
+      "topic": "토론수업",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "질문의 힘에 대한 독서 소감 정리.",
-  "taggedAt": "2026-08-12T08:49:54.487Z"
+  "tagsNote": "유대인 교육법 기반 질문하는 수업(질문이 있는 수업 만들기) 아이디어.",
+  "taggedAt": "2026-08-25T13:59:03.173Z"
 }

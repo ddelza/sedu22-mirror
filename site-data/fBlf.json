@@ -34,6 +34,11 @@
         "subject": "과학",
         "unit": "물질의 구성",
         "confidence": "medium"
+      },
+      {
+        "category": "재과만 소식",
+        "topic": "카페 운영 공지",
+        "confidence": "medium"
       }
     ]
   },
@@ -58,6 +63,11 @@
         "category": "과학교사 업무",
         "topic": "교원연수",
         "confidence": "high"
+      },
+      {
+        "category": "재과만 소식",
+        "topic": "카페 운영 공지",
+        "confidence": "medium"
       }
     ]
   },
@@ -82,6 +92,11 @@
         "category": "과학교사 업무",
         "topic": "교원연수",
         "confidence": "high"
+      },
+      {
+        "category": "재과만 소식",
+        "topic": "카페 운영 공지",
+        "confidence": "medium"
       }
     ]
   },
@@ -106,6 +121,11 @@
         "category": "과학교사 업무",
         "topic": "교원연수",
         "confidence": "high"
+      },
+      {
+        "category": "재과만 소식",
+        "topic": "카페 운영 공지",
+        "confidence": "medium"
       }
     ]
   },
@@ -130,6 +150,11 @@
         "category": "과학교사 업무",
         "topic": "교원연수",
         "confidence": "high"
+      },
+      {
+        "category": "재과만 소식",
+        "topic": "카페 운영 공지",
+        "confidence": "medium"
       }
     ]
   },
@@ -167,6 +192,11 @@
         "schoolLevel": "중학교",
         "subject": "과학",
         "unit": "물질의 특성",
+        "confidence": "medium"
+      },
+      {
+        "category": "재과만 소식",
+        "topic": "카페 운영 공지",
         "confidence": "medium"
       }
     ]
@@ -206,6 +236,11 @@
         "subject": "과학",
         "unit": "힘의 작용",
         "confidence": "medium"
+      },
+      {
+        "category": "재과만 소식",
+        "topic": "카페 운영 공지",
+        "confidence": "medium"
       }
     ]
   },
@@ -230,6 +265,11 @@
         "category": "과학교사 업무",
         "topic": "교원연수",
         "confidence": "high"
+      },
+      {
+        "category": "재과만 소식",
+        "topic": "카페 운영 공지",
+        "confidence": "medium"
       }
     ]
   },
@@ -254,6 +294,11 @@
         "category": "과학교사 업무",
         "topic": "교원연수",
         "confidence": "high"
+      },
+      {
+        "category": "재과만 소식",
+        "topic": "카페 운영 공지",
+        "confidence": "medium"
       }
     ]
   },
@@ -278,6 +323,11 @@
         "category": "과학교사 업무",
         "topic": "교원연수",
         "confidence": "high"
+      },
+      {
+        "category": "재과만 소식",
+        "topic": "카페 운영 공지",
+        "confidence": "medium"
       }
     ]
   },
@@ -302,6 +352,11 @@
         "category": "과학교사 업무",
         "topic": "교원연수",
         "confidence": "high"
+      },
+      {
+        "category": "재과만 소식",
+        "topic": "카페 운영 공지",
+        "confidence": "medium"
       }
     ]
   },
@@ -325,6 +380,11 @@
       {
         "category": "과학교사 업무",
         "topic": "교원연수",
+        "confidence": "high"
+      },
+      {
+        "category": "재과만 소식",
+        "topic": "카페 운영 공지",
         "confidence": "high"
       }
     ]
@@ -350,6 +410,11 @@
         "category": "과학교사 업무",
         "topic": "교원연수",
         "confidence": "high"
+      },
+      {
+        "category": "재과만 소식",
+        "topic": "카페 운영 공지",
+        "confidence": "medium"
       }
     ]
   },
@@ -374,6 +439,11 @@
         "category": "과학교사 업무",
         "topic": "교원연수",
         "confidence": "high"
+      },
+      {
+        "category": "재과만 소식",
+        "topic": "카페 운영 공지",
+        "confidence": "medium"
       }
     ]
   },
@@ -411,6 +481,11 @@
         "schoolLevel": "중학교",
         "subject": "과학",
         "unit": "전기와 자기",
+        "confidence": "medium"
+      },
+      {
+        "category": "재과만 소식",
+        "topic": "카페 운영 공지",
         "confidence": "medium"
       }
     ]
@@ -450,6 +525,11 @@
         "subject": "과학",
         "unit": "기체의 성질",
         "confidence": "medium"
+      },
+      {
+        "category": "재과만 소식",
+        "topic": "카페 운영 공지",
+        "confidence": "medium"
       }
     ]
   },
@@ -479,6 +559,11 @@
         "category": "과학교사 업무",
         "topic": "과학 행사",
         "confidence": "medium"
+      },
+      {
+        "category": "재과만 소식",
+        "topic": "카페 운영 공지",
+        "confidence": "medium"
       }
     ]
   },
@@ -503,6 +588,11 @@
         "category": "과학교사 업무",
         "topic": "교원연수",
         "confidence": "high"
+      },
+      {
+        "category": "재과만 소식",
+        "topic": "카페 운영 공지",
+        "confidence": "medium"
       }
     ]
   },
@@ -527,6 +617,11 @@
         "category": "과학교사 업무",
         "topic": "교원연수",
         "confidence": "high"
+      },
+      {
+        "category": "재과만 소식",
+        "topic": "카페 운영 공지",
+        "confidence": "medium"
       }
     ]
   },
@@ -565,6 +660,11 @@
         "subject": "과학",
         "unit": "열",
         "confidence": "medium"
+      },
+      {
+        "category": "재과만 소식",
+        "topic": "카페 운영 공지",
+        "confidence": "medium"
       }
     ]
   },
@@ -594,6 +694,11 @@
         "category": "과학교사 업무",
         "topic": "과학실 관리",
         "confidence": "medium"
+      },
+      {
+        "category": "재과만 소식",
+        "topic": "카페 운영 공지",
+        "confidence": "medium"
       }
     ]
   },
@@ -618,6 +723,11 @@
         "category": "과학교사 업무",
         "topic": "교원연수",
         "confidence": "high"
+      },
+      {
+        "category": "재과만 소식",
+        "topic": "카페 운영 공지",
+        "confidence": "medium"
       }
     ]
   },
@@ -642,6 +752,11 @@
         "category": "과학교사 업무",
         "topic": "교원연수",
         "confidence": "high"
+      },
+      {
+        "category": "재과만 소식",
+        "topic": "카페 운영 공지",
+        "confidence": "medium"
       }
     ]
   },
@@ -670,6 +785,11 @@
       {
         "category": "스마트 수업도구",
         "topic": "생성형 AI 도구",
+        "confidence": "medium"
+      },
+      {
+        "category": "재과만 소식",
+        "topic": "카페 운영 공지",
         "confidence": "medium"
       }
     ]
@@ -709,6 +829,11 @@
         "subject": "과학",
         "unit": "생물의 구성과 다양성",
         "confidence": "medium"
+      },
+      {
+        "category": "재과만 소식",
+        "topic": "카페 운영 공지",
+        "confidence": "medium"
       }
     ]
   },
@@ -738,6 +863,11 @@
         "category": "과학교사 업무",
         "topic": "과학 행사",
         "confidence": "medium"
+      },
+      {
+        "category": "재과만 소식",
+        "topic": "카페 운영 공지",
+        "confidence": "medium"
       }
     ]
   },
@@ -762,6 +892,11 @@
         "category": "과학교사 업무",
         "topic": "교원연수",
         "confidence": "high"
+      },
+      {
+        "category": "재과만 소식",
+        "topic": "카페 운영 공지",
+        "confidence": "medium"
       }
     ]
   },
@@ -786,6 +921,11 @@
         "category": "과학교사 업무",
         "topic": "교원연수",
         "confidence": "high"
+      },
+      {
+        "category": "재과만 소식",
+        "topic": "카페 운영 공지",
+        "confidence": "medium"
       }
     ]
   },
@@ -815,6 +955,11 @@
         "category": "과학교사 업무",
         "topic": "과학 행사",
         "confidence": "medium"
+      },
+      {
+        "category": "재과만 소식",
+        "topic": "카페 운영 공지",
+        "confidence": "medium"
       }
     ]
   },
@@ -839,6 +984,11 @@
         "category": "과학교사 업무",
         "topic": "교원연수",
         "confidence": "high"
+      },
+      {
+        "category": "재과만 소식",
+        "topic": "카페 운영 공지",
+        "confidence": "medium"
       }
     ]
   },
@@ -877,6 +1027,11 @@
         "subject": "과학",
         "unit": "별과 우주",
         "confidence": "medium"
+      },
+      {
+        "category": "재과만 소식",
+        "topic": "카페 운영 공지",
+        "confidence": "medium"
       }
     ]
   },
@@ -901,6 +1056,11 @@
         "category": "과학교사 업무",
         "topic": "교원연수",
         "confidence": "high"
+      },
+      {
+        "category": "재과만 소식",
+        "topic": "카페 운영 공지",
+        "confidence": "medium"
       }
     ]
   },
@@ -938,6 +1098,11 @@
         "schoolLevel": "중학교",
         "subject": "과학",
         "unit": "운동과 에너지",
+        "confidence": "medium"
+      },
+      {
+        "category": "재과만 소식",
+        "topic": "카페 운영 공지",
         "confidence": "medium"
       }
     ]
@@ -977,6 +1142,11 @@
         "subject": "과학",
         "unit": "생식과 유전",
         "confidence": "medium"
+      },
+      {
+        "category": "재과만 소식",
+        "topic": "카페 운영 공지",
+        "confidence": "medium"
       }
     ]
   },
@@ -1015,6 +1185,11 @@
         "subject": "과학",
         "unit": "식물과 에너지",
         "confidence": "medium"
+      },
+      {
+        "category": "재과만 소식",
+        "topic": "카페 운영 공지",
+        "confidence": "medium"
       }
     ]
   },
@@ -1039,6 +1214,11 @@
         "category": "과학교사 업무",
         "topic": "교원연수",
         "confidence": "high"
+      },
+      {
+        "category": "재과만 소식",
+        "topic": "카페 운영 공지",
+        "confidence": "medium"
       }
     ]
   },
@@ -1063,6 +1243,11 @@
         "category": "과학교사 업무",
         "topic": "교원연수",
         "confidence": "high"
+      },
+      {
+        "category": "재과만 소식",
+        "topic": "카페 운영 공지",
+        "confidence": "medium"
       }
     ]
   },
@@ -1087,6 +1272,11 @@
         "category": "과학교사 업무",
         "topic": "교원연수",
         "confidence": "high"
+      },
+      {
+        "category": "재과만 소식",
+        "topic": "카페 운영 공지",
+        "confidence": "medium"
       }
     ]
   },
@@ -1111,6 +1301,11 @@
         "category": "과학교사 업무",
         "topic": "교원연수",
         "confidence": "high"
+      },
+      {
+        "category": "재과만 소식",
+        "topic": "카페 운영 공지",
+        "confidence": "medium"
       }
     ]
   }

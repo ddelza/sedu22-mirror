@@ -19,13 +19,16 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
+      "category": "스마트 수업도구",
+      "topic": "앱/프로그램",
+      "confidence": "high"
+    },
+    {
+      "category": "과학교사 업무",
+      "topic": "교원연수",
       "confidence": "low"
     }
   ],
-  "tagsNote": "구글설문지 기반 방탈출 게임 제작법을 다룬 연수 강의 영상 공유(특정 단원과 무관).",
-  "taggedAt": "2026-08-13T13:13:51.992Z"
+  "tagsNote": "구글설문지 기반 방탈출 게임 제작법을 다룬 연수 강의.",
+  "taggedAt": "2026-08-26T01:04:22.302Z"
 }

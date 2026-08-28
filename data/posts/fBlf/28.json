@@ -22,8 +22,13 @@
       "category": "과학교사 업무",
       "topic": "교원연수",
       "confidence": "high"
+    },
+    {
+      "category": "재과만 소식",
+      "topic": "카페 운영 공지",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "재과만 톡톡 27회(과학교과서 선정 팁) 영상/자료 공개.",
+  "tagsNote": "재과만 톡톡 27회(과학교과서 선정 팁) 영상/자료 공개. / 재과만 톡톡 27회 내용 정리(교과서 선정 Tips).",
   "taggedAt": "2026-08-12T13:22:59.005Z"
 }

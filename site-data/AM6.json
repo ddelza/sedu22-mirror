@@ -103,6 +103,11 @@
         "subject": null,
         "unit": "미분류",
         "confidence": "high"
+      },
+      {
+        "category": "과학교사 업무",
+        "topic": "교원연수",
+        "confidence": "low"
       }
     ]
   },
@@ -335,6 +340,11 @@
         "subject": null,
         "unit": "미분류",
         "confidence": "high"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "생성형 AI 도구",
+        "confidence": "medium"
       }
     ]
   },
@@ -392,6 +402,16 @@
         "subject": null,
         "unit": "미분류",
         "confidence": "high"
+      },
+      {
+        "category": "과학교사 업무",
+        "topic": "교원연수",
+        "confidence": "medium"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "생성형 AI 도구",
+        "confidence": "medium"
       }
     ]
   },
@@ -514,6 +534,11 @@
         "subject": null,
         "unit": "미분류",
         "confidence": "high"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "생성형 AI 도구",
+        "confidence": "low"
       }
     ]
   },
@@ -566,6 +591,16 @@
         "subject": null,
         "unit": "미분류",
         "confidence": "high"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "생성형 AI 도구",
+        "confidence": "medium"
+      },
+      {
+        "category": "과학교사 업무",
+        "topic": "세특작성",
+        "confidence": "medium"
       }
     ]
   },
@@ -618,6 +653,11 @@
         "subject": null,
         "unit": "미분류",
         "confidence": "high"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "생성형 AI 도구",
+        "confidence": "low"
       }
     ]
   },
@@ -641,6 +681,11 @@
       {
         "category": "수업 방법론",
         "topic": "IB(개념기반학습)",
+        "confidence": "high"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "생성형 AI 도구",
         "confidence": "high"
       }
     ]
@@ -718,6 +763,11 @@
         "subject": null,
         "unit": "미분류",
         "confidence": "high"
+      },
+      {
+        "category": "과학교사 업무",
+        "topic": "교원연수",
+        "confidence": "low"
       }
     ]
   },
@@ -770,6 +820,11 @@
         "subject": null,
         "unit": "미분류",
         "confidence": "high"
+      },
+      {
+        "category": "과학교사 업무",
+        "topic": "교원연수",
+        "confidence": "low"
       }
     ]
   },
@@ -901,6 +956,16 @@
         "category": "과학교사 업무",
         "topic": "교원연수",
         "confidence": "high"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "생성형 AI 도구",
+        "confidence": "low"
+      },
+      {
+        "category": "수업 방법론",
+        "topic": "IB(개념기반학습)",
+        "confidence": "low"
       }
     ]
   },
@@ -1543,6 +1608,11 @@
         "category": "게시판별 분류",
         "topic": "수석교사의 방(2023~)",
         "confidence": "high"
+      },
+      {
+        "category": "과학교사 업무",
+        "topic": "교원연수",
+        "confidence": "medium"
       }
     ]
   },
@@ -1595,6 +1665,11 @@
         "category": "게시판별 분류",
         "topic": "수석교사의 방(2023~)",
         "confidence": "high"
+      },
+      {
+        "category": "과학교사 업무",
+        "topic": "교원연수",
+        "confidence": "medium"
       }
     ]
   },
@@ -1621,6 +1696,11 @@
         "category": "게시판별 분류",
         "topic": "수석교사의 방(2023~)",
         "confidence": "high"
+      },
+      {
+        "category": "과학교사 업무",
+        "topic": "교원연수",
+        "confidence": "medium"
       }
     ]
   },
@@ -1647,6 +1727,11 @@
         "category": "게시판별 분류",
         "topic": "수석교사의 방(2023~)",
         "confidence": "high"
+      },
+      {
+        "category": "과학교사 업무",
+        "topic": "교원연수",
+        "confidence": "low"
       }
     ]
   },
@@ -1791,6 +1876,11 @@
         "category": "과학교사 업무",
         "topic": "학급운영",
         "confidence": "high"
+      },
+      {
+        "category": "과학교사 업무",
+        "topic": "생활지도",
+        "confidence": "high"
       }
     ]
   },
@@ -1867,6 +1957,11 @@
         "category": "과학교사 업무",
         "topic": "학급운영",
         "confidence": "medium"
+      },
+      {
+        "category": "과학교사 업무",
+        "topic": "생활지도",
+        "confidence": "medium"
       }
     ]
   },
@@ -1893,6 +1988,11 @@
         "category": "게시판별 분류",
         "topic": "수석교사의 방(2023~)",
         "confidence": "high"
+      },
+      {
+        "category": "과학교사 업무",
+        "topic": "교원연수",
+        "confidence": "low"
       }
     ]
   },
@@ -2023,6 +2123,11 @@
         "category": "게시판별 분류",
         "topic": "수석교사의 방(2023~)",
         "confidence": "high"
+      },
+      {
+        "category": "과학교사 업무",
+        "topic": "교원연수",
+        "confidence": "low"
       }
     ]
   },
@@ -2049,6 +2154,11 @@
         "category": "게시판별 분류",
         "topic": "수석교사의 방(2023~)",
         "confidence": "high"
+      },
+      {
+        "category": "과학교사 업무",
+        "topic": "교원연수",
+        "confidence": "medium"
       }
     ]
   },
@@ -2177,6 +2287,11 @@
         "category": "게시판별 분류",
         "topic": "수석교사의 방(2023~)",
         "confidence": "high"
+      },
+      {
+        "category": "과학교사 업무",
+        "topic": "교원연수",
+        "confidence": "medium"
       }
     ]
   },
@@ -2203,6 +2318,11 @@
         "category": "게시판별 분류",
         "topic": "수석교사의 방(2023~)",
         "confidence": "high"
+      },
+      {
+        "category": "과학교사 업무",
+        "topic": "교원연수",
+        "confidence": "medium"
       }
     ]
   },
@@ -2385,6 +2505,11 @@
         "category": "게시판별 분류",
         "topic": "수석교사의 방(2023~)",
         "confidence": "high"
+      },
+      {
+        "category": "과학교사 업무",
+        "topic": "교원연수",
+        "confidence": "medium"
       }
     ]
   },
@@ -2565,6 +2690,11 @@
         "category": "게시판별 분류",
         "topic": "수석교사의 방(2023~)",
         "confidence": "high"
+      },
+      {
+        "category": "과학교사 업무",
+        "topic": "교원연수",
+        "confidence": "medium"
       }
     ]
   },
@@ -7569,6 +7699,11 @@
         "subject": "생명과학Ⅰ",
         "unit": "유전",
         "confidence": "high"
+      },
+      {
+        "category": "과학교사 업무",
+        "topic": "교원연수",
+        "confidence": "low"
       }
     ]
   },
@@ -7595,6 +7730,11 @@
         "subject": null,
         "unit": "미분류",
         "confidence": "high"
+      },
+      {
+        "category": "과학교사 업무",
+        "topic": "교원연수",
+        "confidence": "low"
       }
     ]
   },
@@ -7751,6 +7891,11 @@
         "subject": null,
         "unit": "미분류",
         "confidence": "high"
+      },
+      {
+        "category": "과학교사 업무",
+        "topic": "교원연수",
+        "confidence": "low"
       }
     ]
   },
@@ -7803,6 +7948,11 @@
         "subject": null,
         "unit": "미분류",
         "confidence": "high"
+      },
+      {
+        "category": "과학교사 업무",
+        "topic": "교원연수",
+        "confidence": "low"
       }
     ]
   },
@@ -7957,6 +8107,11 @@
         "subject": null,
         "unit": "미분류",
         "confidence": "high"
+      },
+      {
+        "category": "과학교사 업무",
+        "topic": "교원연수",
+        "confidence": "medium"
       }
     ]
   },
@@ -8238,6 +8393,11 @@
         "category": "게시판별 분류",
         "topic": "수석교사의 방(2023~)",
         "confidence": "high"
+      },
+      {
+        "category": "과학교사 업무",
+        "topic": "교원연수",
+        "confidence": "medium"
       }
     ]
   },
@@ -8264,6 +8424,11 @@
         "category": "게시판별 분류",
         "topic": "수석교사의 방(2023~)",
         "confidence": "high"
+      },
+      {
+        "category": "과학교사 업무",
+        "topic": "교원연수",
+        "confidence": "medium"
       }
     ]
   },
@@ -8288,6 +8453,11 @@
         "category": "게시판별 분류",
         "topic": "수석교사의 방(2023~)",
         "confidence": "high"
+      },
+      {
+        "category": "과학교사 업무",
+        "topic": "교원연수",
+        "confidence": "medium"
       }
     ]
   },
@@ -8326,6 +8496,11 @@
         "subject": "과학",
         "unit": "열",
         "confidence": "low"
+      },
+      {
+        "category": "과학교사 업무",
+        "topic": "교원연수",
+        "confidence": "medium"
       }
     ]
   },
@@ -8350,6 +8525,11 @@
         "category": "게시판별 분류",
         "topic": "수석교사의 방(2023~)",
         "confidence": "high"
+      },
+      {
+        "category": "과학교사 업무",
+        "topic": "교원연수",
+        "confidence": "medium"
       }
     ]
   },
@@ -8376,6 +8556,11 @@
         "category": "게시판별 분류",
         "topic": "수석교사의 방(2023~)",
         "confidence": "high"
+      },
+      {
+        "category": "과학교사 업무",
+        "topic": "교원연수",
+        "confidence": "medium"
       }
     ]
   },
@@ -8506,6 +8691,11 @@
         "category": "게시판별 분류",
         "topic": "수석교사의 방(2023~)",
         "confidence": "high"
+      },
+      {
+        "category": "과학교사 업무",
+        "topic": "교원연수",
+        "confidence": "low"
       }
     ]
   },
@@ -8816,6 +9006,11 @@
         "category": "게시판별 분류",
         "topic": "수석교사의 방(2023~)",
         "confidence": "high"
+      },
+      {
+        "category": "과학교사 업무",
+        "topic": "영재교육",
+        "confidence": "medium"
       }
     ]
   },

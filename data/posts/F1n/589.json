@@ -24,8 +24,13 @@
       "subject": null,
       "unit": "미분류",
       "confidence": "high"
+    },
+    {
+      "category": "과학교사 업무",
+      "topic": "세특작성",
+      "confidence": "low"
     }
   ],
-  "tagsNote": "학기말/세특 활용 미디어 속 과학 오류 찾기 수업 공유.",
-  "taggedAt": "2026-08-12T08:49:54.493Z"
+  "tagsNote": "학기말/세특 활용 미디어 속 과학 오류 찾기 수업 공유. / 미디어 속 과학 오류 찾기 활동을 교과세특에 활용.",
+  "taggedAt": "2026-08-28T00:09:08.992Z"
 }

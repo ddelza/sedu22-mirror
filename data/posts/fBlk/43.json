@@ -22,8 +22,13 @@
       "category": "과학교사 업무",
       "topic": "교원연수",
       "confidence": "medium"
+    },
+    {
+      "category": "재과만 소식",
+      "topic": "카페 운영 공지",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "부산모임 발표자료(알쓸깨잡, 수업 팁) 공유.",
+  "tagsNote": "부산모임 발표자료(알쓸깨잡, 수업 팁) 공유. / 부산모임 후속 자료 배포(못 오신 분들을 위해 공유).",
   "taggedAt": "2026-08-12T13:25:22.791Z"
 }

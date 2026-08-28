@@ -19,18 +19,11 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": "고등학교",
-      "subject": "화학",
-      "unit": "미분류",
-      "confidence": "low"
-    },
-    {
       "category": "스마트 수업도구",
-      "topic": "AI",
+      "topic": "생성형 AI 도구",
       "confidence": "high"
     }
   ],
-  "tagsNote": "바이브코딩으로 통합과학·화학 시뮬레이션을 만드는 AI 활용 수행평가 사례 공유.",
-  "taggedAt": "2026-08-13T13:02:02.152Z"
+  "tagsNote": "바이브코딩으로 통합과학·화학 시뮬레이션을 만드는 AI 활용 수행평가 사례.",
+  "taggedAt": "2026-08-25T14:16:02.875Z"
 }

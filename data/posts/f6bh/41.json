@@ -19,13 +19,11 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
+      "category": "수업 방법론",
+      "topic": "IB(개념기반학습)",
       "confidence": "high"
     }
   ],
-  "tagsNote": "2022 개정교육과정 '탐구-실행-성찰'(MYP) 이해 자료 공유.",
-  "taggedAt": "2026-08-12T09:11:50.644Z"
+  "tagsNote": "2022 개정교육과정 개념기반 탐구학습(탐구-실행-성찰, MYP) 이해자료.",
+  "taggedAt": "2026-08-25T14:02:40.694Z"
 }

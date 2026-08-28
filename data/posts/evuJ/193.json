@@ -19,13 +19,11 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
-      "confidence": "high"
+      "category": "스마트 수업도구",
+      "topic": "앱/프로그램",
+      "confidence": "medium"
     }
   ],
   "tagsNote": "줌 자동출석부 붙여넣기 오류 질문.",
-  "taggedAt": "2026-08-12T03:50:05.397Z"
+  "taggedAt": "2026-08-25T13:09:05.376Z"
 }

@@ -22,8 +22,13 @@
       "category": "과학교사 업무",
       "topic": "교원연수",
       "confidence": "high"
+    },
+    {
+      "category": "재과만 소식",
+      "topic": "카페 운영 공지",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "재과만 월간 과학교사 연수 1회차 동영상 공유.",
+  "tagsNote": "재과만 월간 과학교사 연수 1회차 동영상 공유. / 재과만 월간 연수 동영상(1회차) 공유.",
   "taggedAt": "2026-08-12T13:24:15.924Z"
 }

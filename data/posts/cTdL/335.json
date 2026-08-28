@@ -19,13 +19,11 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
-      "confidence": "high"
+      "category": "과학교사 업무",
+      "topic": "세특작성",
+      "confidence": "medium"
     }
   ],
   "tagsNote": "세특 작성 바이트수 규정 질문 — 교육과정 내용 아닌 행정 질문.",
-  "taggedAt": "2026-08-12T00:09:40.042Z"
+  "taggedAt": "2026-08-25T13:07:19.739Z"
 }

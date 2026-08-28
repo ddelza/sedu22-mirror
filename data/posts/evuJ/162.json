@@ -19,13 +19,11 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
+      "category": "스마트 수업도구",
+      "topic": "앱/프로그램",
       "confidence": "high"
     }
   ],
   "tagsNote": "줌 자동출석부 업데이트 수정본.",
-  "taggedAt": "2026-08-12T03:48:50.873Z"
+  "taggedAt": "2026-08-25T13:09:05.370Z"
 }

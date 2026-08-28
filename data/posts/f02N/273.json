@@ -18,13 +18,11 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
-      "confidence": "high"
+      "category": "과학교사 업무",
+      "topic": "생활지도",
+      "confidence": "medium"
     }
   ],
   "tagsNote": "중학교 수업 중 자는 학생 지도 고민.",
-  "taggedAt": "2026-08-12T04:44:11.370Z"
+  "taggedAt": "2026-08-25T13:11:43.439Z"
 }

@@ -19,13 +19,11 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
-      "confidence": "low"
+      "category": "과학교사 업무",
+      "topic": "과학실 관리",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "중학교 과정 실험에 쓰이는 시약제조법 자료 공유(특정 단원 한정 아님).",
-  "taggedAt": "2026-08-13T12:46:21.322Z"
+  "tagsNote": "중학교 실험용 시약제조법 자료.",
+  "taggedAt": "2026-08-25T14:09:11.730Z"
 }

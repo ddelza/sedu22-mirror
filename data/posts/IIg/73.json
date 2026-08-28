@@ -19,13 +19,16 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
+      "category": "과학교사 업무",
+      "topic": "생활지도",
+      "confidence": "medium"
+    },
+    {
+      "category": "과학교사 업무",
+      "topic": "교원연수",
       "confidence": "low"
     }
   ],
-  "tagsNote": "ADHD 학생 이해 관련 교직원 연수 강사를 추천받는 질문(특정 단원과 무관).",
-  "taggedAt": "2026-08-13T13:15:05.067Z"
+  "tagsNote": "ADHD 학생 이해와 학습지도 관련 교직원 연수 강사 추천 요청.",
+  "taggedAt": "2026-08-26T01:05:18.939Z"
 }

@@ -19,13 +19,11 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
-      "confidence": "high"
+      "category": "과학교사 업무",
+      "topic": "생활지도",
+      "confidence": "medium"
     }
   ],
   "tagsNote": "관찰의 중요성에 대한 시 인용 에세이(암석/별 관찰 언급, 특정 단원 지도 아님).",
-  "taggedAt": "2026-08-12T03:17:24.882Z"
+  "taggedAt": "2026-08-25T13:04:30.232Z"
 }

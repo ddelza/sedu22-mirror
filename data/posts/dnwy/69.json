@@ -19,13 +19,11 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
-      "confidence": "high"
+      "category": "과학교사 업무",
+      "topic": "생활지도",
+      "confidence": "medium"
     }
   ],
   "tagsNote": "과학철학사(아리스토텔레스-뉴턴) 인용 성찰 에세이.",
-  "taggedAt": "2026-08-12T03:17:24.879Z"
+  "taggedAt": "2026-08-25T13:04:30.229Z"
 }

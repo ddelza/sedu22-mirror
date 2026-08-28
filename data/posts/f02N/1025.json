@@ -18,13 +18,11 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
-      "confidence": "high"
+      "category": "과학교사 업무",
+      "topic": "생활지도",
+      "confidence": "medium"
     }
   ],
   "tagsNote": "논술 수행평가 중 부정행위 처리 고민 — 평가행정.",
-  "taggedAt": "2026-08-12T04:36:24.570Z"
+  "taggedAt": "2026-08-25T13:11:12.615Z"
 }

@@ -19,13 +19,11 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
-      "confidence": "high"
+      "category": "수업 방법론",
+      "topic": "토론수업",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "고등학교 학기말 수업량 유연화 주간 6차시 질문수업 강좌 공유.",
-  "taggedAt": "2026-08-12T08:57:43.709Z"
+  "tagsNote": "학생이 질문을 만들고 해결하는 6차시 질문수업 강좌 운영.",
+  "taggedAt": "2026-08-25T14:01:36.768Z"
 }

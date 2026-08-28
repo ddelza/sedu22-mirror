@@ -19,13 +19,11 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
-      "confidence": "low"
+      "category": "재과만 소식",
+      "topic": "카페 운영 공지",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "청주교사교육포럼에서 발표한 '재미있는 과학수업 만들기' 커뮤니티 소개 영상·자료(특정 단원과 무관).",
-  "taggedAt": "2026-08-13T13:13:51.991Z"
+  "tagsNote": "청주교사교육포럼에서 발표한 재과만 커뮤니티 소개 영상·자료.",
+  "taggedAt": "2026-08-26T01:04:22.300Z"
 }

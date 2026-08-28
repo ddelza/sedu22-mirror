@@ -22,8 +22,13 @@
       "category": "과학교사 업무",
       "topic": "교원연수",
       "confidence": "high"
+    },
+    {
+      "category": "재과만 소식",
+      "topic": "카페 운영 공지",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "부산워크숍 발표자료 모음 공유.",
+  "tagsNote": "부산워크숍 발표자료 모음 공유. / 재과만 부산워크숍 발표자료 모음 공유.",
   "taggedAt": "2026-08-12T13:24:15.933Z"
 }

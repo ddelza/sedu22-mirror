@@ -24,8 +24,13 @@
       "subject": null,
       "unit": "미분류",
       "confidence": "high"
+    },
+    {
+      "category": "과학교사 업무",
+      "topic": "학급운영",
+      "confidence": "low"
     }
   ],
-  "tagsNote": "중단원 마무리용 모둠 골든벨 진행 방법 공유.",
-  "taggedAt": "2026-08-12T05:02:24.683Z"
+  "tagsNote": "중단원 마무리용 모둠 골든벨 진행 방법 공유. / 모둠 골든벨 - 보상 스티커를 활용한 모둠 활동.",
+  "taggedAt": "2026-08-28T00:05:19.572Z"
 }

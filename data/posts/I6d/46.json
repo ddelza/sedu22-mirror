@@ -19,13 +19,11 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
+      "category": "과학교사 업무",
+      "topic": "학급운영",
       "confidence": "low"
     }
   ],
-  "tagsNote": "온라인 카페를 활용한 과학수업일기 작성 아이디어 논의(특정 단원과 무관).",
-  "taggedAt": "2026-08-13T13:12:37.802Z"
+  "tagsNote": "온라인 카페를 활용한 과학수업일기 작성 아이디어 논의.",
+  "taggedAt": "2026-08-25T23:26:07.524Z"
 }

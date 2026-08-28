@@ -19,13 +19,11 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
-      "confidence": "high"
+      "category": "과학교사 업무",
+      "topic": "과학실 관리",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "첫수업 안전교육의 중요성에 대한 소회.",
-  "taggedAt": "2026-08-12T08:55:07.501Z"
+  "tagsNote": "첫수업 실험실 안전교육 활동(초성퀴즈+토론) 자료.",
+  "taggedAt": "2026-08-25T14:00:42.333Z"
 }
