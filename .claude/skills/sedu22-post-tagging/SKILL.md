@@ -74,51 +74,45 @@ description: Continue tagging sedu22-mirror cafe posts with Korean science curri
 ## 제안 게시판 + 관리자 모드 — 사용자 제보 반영 (2026-08-29 신설)
 
 `explore.html`(누구나 "🚩 태그 제보" 버튼)과 `admin.html`(공유 비밀번호 `sedu26ai`로 게시글
-검색 + 태그 추가/삭제 제안)에서 들어오는 태그 피드백을 반영하는 워크플로. 두 페이지 다
-**직접 `data/posts/*.json`을 고치지 않는다** — `backend/Code.gs`(Apps Script, 최초 요청 시
-자동 생성되는 Google Sheet "sedu22-tag-feedback"에 "제안"/"관리자수정" 두 탭으로 append)에
-쌓이기만 하고, 실제 반영은 지금까지의 태깅 배치 워크플로(옵션 C 등)와 동일하게 **사람/Claude가
-주기적으로 확인해서 배치로 처리**한다.
+검색 + 태그 추가/삭제 제안, 그리고 대기열 자체를 관리)에서 들어오는 태그 피드백을 반영하는
+워크플로. 두 페이지 다 **직접 `data/posts/*.json`을 고치지 않는다** — `backend/Code.gs`
+(Apps Script, 최초 요청 시 자동 생성되는 Google Sheet "sedu22-tag-feedback"에 "제안"/
+"관리자수정" 두 탭으로 append)에 쌓이기만 한다.
 
-**제출 방식(2026-08-29 개선)**: 처음엔 자유 텍스트 제보였는데, 대량으로 쌓이면 매번 자연어를
-해석해야 해서 감당이 안 될 거라는 사용자 피드백으로 **체크박스 picker 방식**으로 바꿨다.
-두 페이지 다 "➕ 태그 추가 제안"(기존 taxonomy—133개 단원 + 카테고리/토픽—에서 검색해서
+**제출 방식**: "➕ 태그 추가 제안"(기존 taxonomy—133개 단원 + 카테고리/토픽—에서 검색해서
 체크, `unit-index.json`과 동일한 정확한 태그 객체가 그대로 제출됨) / "🚫 태그 오류 제보"(그
-글에 이미 붙어있는 태그 중 체크해서 삭제 요청) 두 탭으로 나뉜다. 목록에 없는 태그는
-"새로운 태그 제안" 입력칸(`newTagNote`)에 자유 텍스트로 쓸 수 있다 — **이 경우만** 실제
-판단이 필요하고, 체크박스로 고른 `addTags`/`removeTags`는 이미 정확한 태그 객체라 대부분
-그대로 옮기기만 하면 된다(중복이거나 이미 없는 태그 삭제 요청 정도만 걸러내면 됨).
+글에 이미 붙어있는 태그 중 체크해서 삭제 요청) 두 탭. 목록에 없는 태그는 "새로운 태그 제안"
+입력칸(`newTagNote`)에 자유 텍스트로 남길 수 있다.
+
+**⚠️ 반영 워크플로(2026-08-30, 사용자가 명확히 정정함) — 절대 Claude가 내용을 판단해서
+거르지 않는다:**
+
+1. Sheet에 태그 수정 요청이 쌓인다(제안 게시판 + 관리자수정 모두).
+2. **필터링은 admin.html에서 관리자(운영진)가 한다.** 미처리 목록에서 각 요청을 확인하고
+   (글 제목 클릭 → 모달로 원문 확인 가능), 부적절하거나 잘못된 요청은 "🗑 삭제"로 빼고,
+   고칠 게 있으면 "✏️ 수정"으로 addTags/removeTags/newTagNote를 직접 고쳐서 저장한다
+   (`updateFeedback` — 여전히 pending 상태로 남음). 즉 **큐에 남아있는 것 = 이미 관리자가
+   승인한 것**이라는 게 이 시스템의 전제다.
+3. 사용자가 "지금 쌓인 거 반영해줘"라고 하면(나중에는 주기적 자동화 예정),
+   **`node .claude/skills/sedu22-post-tagging/scripts/apply-pending-tag-feedback.js`
+   한 번 실행하는 게 전부다.** 이 스크립트는 큐에 남은 항목을 예외 없이 전부 기계적으로
+   적용한다 — Claude가 게시글 내용을 다시 읽고 "이 태그가 맞나?" 판단하지 않는다. 그건
+   이미 2번 단계에서 관리자가 끝낸 일이다. **Claude가 임의로 특정 항목을 반영에서 제외하면
+   안 된다** — 만약 봤을 때 이상해 보이는 요청이 있으면, 반영을 보류하고 사용자에게
+   "이 요청은 이상해 보이는데 admin.html에서 먼저 걸러주실래요?"라고 물어볼 것이지, 조용히
+   스스로 스킵하고 나머지만 반영하면 안 된다.
+4. 이 스크립트는 addTags/removeTags가 있는 항목만 `data/posts/*.json`을 실제로 바꾸고,
+   처리한 모든 행(변경 있든 없든)을 Apps Script `markApplied`로 Sheet에서 `status=applied`로
+   표시한다. newTagNote만 있고 addTags/removeTags가 둘 다 비어있는 항목(관리자가 아직 정식
+   태그로 변환 안 한 자유 제안)은 데이터는 안 바뀌지만 큐에서는 빠진다 — Sheet에 기록은 남음.
+5. 태그가 실제로 추가/삭제됐다면(콘솔에 "반영 완료" 메시지가 뜸) `node build-site-data.js`
+   재실행 후 커밋/푸시해야 사이트에 반영된다.
 
 **전제 조건**: `backend/Code.gs`를 Apps Script로 배포하고 그 `/exec` URL을
-`explore.html`/`admin.html`/`scripts/fetch-tag-feedback.js`/`scripts/apply-tag-feedback.js`
-네 곳의 `APPS_SCRIPT_URL` 상수에 전부 동일하게 반영해야 동작한다(사용자가 아직 안 했다면
-`PASTE_YOUR_DEPLOYED_WEB_APP_URL_HERE` 그대로 있을 것 — 이 경우 이 절차를 시작하기 전에
-먼저 배포 여부를 사용자에게 확인할 것). `Code.gs`를 수정한 뒤에는 Apps Script 편집기에서
-붙여넣고 **배포 관리 > 수정(연필) > 버전: 새 버전 > 배포**로 갱신해야 `/exec` URL이 그대로
-유지된 채 새 코드가 반영된다(그냥 저장만 하면 배포된 웹앱엔 반영 안 됨).
-
-1. `node .claude/skills/sedu22-post-tagging/scripts/fetch-tag-feedback.js` — Sheet에서
-   미처리(status=pending) 행을 전부 가져와 `scratch/tag-feedback-batch.json`에
-   `{source:'suggestion'|'adminEdit', row, postId, postTitle, addTags, removeTags, newTagNote, note, timestamp}`
-   배열로 저장한다.
-2. 배치를 읽고 각 항목의 `postId`(형식 `fldid-dataid`)로 `data/posts/<fldid>/<dataid>.json`을
-   열어 현재 태그를 확인한다. `addTags`/`removeTags`가 있으면 이미 정확한 태그 객체이므로
-   보통 그대로 승인(단, `addTags`가 이미 그 글에 있는 태그거나 `removeTags`가 실제로 그
-   글에 없는 태그면 걸러낼 것). `newTagNote`가 있으면 자유 텍스트를 보고 적절한 태그
-   객체로 변환할지 판단한다(옵션 C와 동일한 판단 기준 적용). `source:'adminEdit'` 항목은
-   운영진이 직접 남긴 것이라 `suggestion`보다 신뢰도를 높게 봐도 된다.
-3. 판단 결과를 `scratch/tag-feedback-result.json`에
-   `[{postId, source, row, tags:[...추가할 태그만...]|null, removeTags:[...삭제할 태그 객체...]|null}, ...]`
-   형식으로 쓴다. **배치의 모든 항목을 포함시켜야 한다** — 반영할 게 없으면
-   `tags:null, removeTags:null`로 넣어도 Sheet 쪽 상태는 applied로 넘어간다(옵션 C의
-   "한글 텍스트 JSON은 `scratch/_tmp_build_result.js` 임시 스크립트로 작성" 패턴을 여기서도
-   그대로 쓸 것).
-4. `node .claude/skills/sedu22-post-tagging/scripts/apply-tag-feedback.js` — `tags`는
-   기존 태그에 append(중복 스킵), `removeTags`는 JSON 비교로 일치하는 태그를 제거하고,
-   처리한 모든 행(추가/삭제/변경없음 무관)을 Apps Script `markApplied` 호출로 Sheet에서
-   `status=applied`로 되돌려 표시한다.
-5. 다른 태깅 작업과 마찬가지로 `node build-site-data.js` 재실행 후 커밋/푸시해야 사이트에
-   실제로 반영된다.
+`explore.html`/`admin.html`/`scripts/apply-pending-tag-feedback.js` 세 곳의
+`APPS_SCRIPT_URL` 상수에 전부 동일하게 반영해야 동작한다. `Code.gs`를 수정한 뒤에는 Apps
+Script 편집기에서 붙여넣고 **배포 관리 > 수정(연필) > 버전: 새 버전 > 배포**로 갱신해야
+`/exec` URL이 그대로 유지된 채 새 코드가 반영된다(그냥 저장만 하면 배포된 웹앱엔 반영 안 됨).
 
 Sheet 원본은 <https://docs.google.com> 에서 "sedu22-tag-feedback"으로 검색하면 보인다(스프레드시트
 ID는 Apps Script 프로젝트의 ScriptProperties에 저장돼 있어 코드에는 안 보임).

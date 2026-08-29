@@ -53,12 +53,30 @@
 
   #pendingBox { background: var(--surface); border: 1px solid var(--border); border-radius: 8px; padding: 14px 16px; margin-bottom: 20px; }
   #pendingBox h2 { font-size: 14px; margin: 0 0 8px; }
-  #pendingBox table { width: 100%; border-collapse: collapse; font-size: 12.5px; }
-  #pendingBox td, #pendingBox th { text-align: left; padding: 4px 6px; border-bottom: 1px solid var(--border); }
   #pendingBox .refresh-btn { border: 1px solid var(--border); background: var(--surface); color: var(--text); border-radius: 6px; padding: 4px 10px; cursor: pointer; font-size: 12px; font-family: inherit; }
+
+  .pending-card { background: var(--bg); border: 1px solid var(--border); border-radius: 8px; padding: 10px 12px; margin-bottom: 8px; }
+  .pending-meta { font-size: 11px; color: var(--text-muted); margin-bottom: 2px; }
+  .pending-summary { font-size: 12.5px; margin: 4px 0 8px; }
+  .pending-actions { display: flex; gap: 8px; }
+  .pending-actions button { border: 1px solid var(--border); background: var(--surface); color: var(--text); border-radius: 6px; padding: 4px 10px; cursor: pointer; font-size: 12px; font-family: inherit; }
+  .pending-actions button:hover { border-color: var(--accent); color: var(--accent); }
+  .post-title-btn, .pending-title-btn { background: none; border: none; padding: 0; margin: 0; text-align: left; font-weight: 600; font-size: 14px; color: var(--text); cursor: pointer; font-family: inherit; text-decoration: underline; text-decoration-color: transparent; }
+  .post-title-btn:hover, .pending-title-btn:hover { text-decoration-color: var(--accent); color: var(--accent); }
+
+  .modalBg { position: fixed; inset: 0; background: rgba(0,0,0,.5); display: none; align-items: flex-start; justify-content: center; padding: 40px 16px; overflow-y: auto; z-index: 90; }
+  .modalBg.show { display: flex; }
+  .modal { background: var(--surface); border-radius: 10px; padding: 24px; max-width: 760px; width: 100%; position: relative; }
+  .modal .close { position: absolute; top: 16px; right: 16px; background: none; border: none; font-size: 18px; cursor: pointer; color: var(--text-muted); }
+  .modal .title { font-size: 18px; font-weight: 700; margin-bottom: 6px; padding-right: 30px; }
+  .modal .meta { font-size: 12px; color: var(--text-muted); margin-bottom: 12px; }
+  .modal .content { font-size: 14px; line-height: 1.6; }
+  .modal .content img { max-width: 100%; }
 </style>
 </head>
 <body>
+
+<div class="modalBg" id="modalBg"><div class="modal" id="modal"></div></div>
 
 <div id="gate">
   <div class="box">
@@ -96,6 +114,9 @@ const ADMIN_PASSWORD = 'sedu26ai'; // 화면 진입용 — 실제 저장은 서�
 function escapeHtml(s) {
   return String(s ?? '').replace(/[&<>"']/g, (c) => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
 }
+function sanitize(html) {
+  return (html || '').replace(/<script[\s\S]*?<\/script>/gi, '');
+}
 
 const CATEGORIES = {
   '과학교사 업무': { icon: '🧑‍🏫', topics: ['과학 행사', '과학실 관리', '동아리 운영', '교원연수', '학급운영', '세특작성', '생활지도', '영재교육'] },
@@ -128,6 +149,28 @@ function tryUnlock() {
     document.getElementById('pwErr').textContent = '비밀번호가 틀렸습니다.';
   }
 }
+
+// ---------------- 게시글 미리보기 모달 ----------------
+function openPostModal(postId) {
+  const p = posts.find((x) => x.id === postId);
+  const modal = document.getElementById('modal');
+  if (!p) {
+    modal.innerHTML = `<button class="close" id="modalClose">✕</button><div class="hint">이 글을 찾을 수 없어요 (postId: ${escapeHtml(postId)}). 삭제됐거나 데이터에 없을 수 있어요.</div>`;
+  } else {
+    const tagsHtml = (p.tags || []).map((t) => `<span class="tag-chip ${tagIsUnclassified(t)?'unclassified':''}">${escapeHtml(reportTagLabel(t))}</span>`).join(' ');
+    modal.innerHTML = `
+      <button class="close" id="modalClose">✕</button>
+      <div class="title">${escapeHtml(p.title)}</div>
+      <div class="meta">${escapeHtml(p.board)} · ${escapeHtml(p.author||'')} · ${escapeHtml(p.created)}${p.permlink ? ` · <a href="${escapeHtml(p.permlink)}" target="_blank" rel="noopener">원본 보기</a>` : ''}</div>
+      <div style="margin-bottom:10px;">${tagsHtml}</div>
+      <div class="content">${sanitize(p.contentHtml)}</div>
+    `;
+  }
+  document.getElementById('modalBg').classList.add('show');
+  document.getElementById('modalClose').addEventListener('click', closeModal);
+}
+function closeModal() { document.getElementById('modalBg').classList.remove('show'); }
+document.getElementById('modalBg').addEventListener('click', (e) => { if (e.target.id === 'modalBg') closeModal(); });
 
 // ---------------- 데이터 로드 + 검색 ----------------
 let posts = [];
@@ -180,7 +223,7 @@ function renderResults() {
     ).join('');
     return `
       <div class="post-row" data-id="${p.id}">
-        <div class="title">${escapeHtml(p.title)}</div>
+        <button class="post-title-btn" data-postid="${p.id}">${escapeHtml(p.title)}</button>
         <div class="meta">${escapeHtml(p.board)} · ${escapeHtml(p.created)}${p.permlink ? ` · <a href="${escapeHtml(p.permlink)}" target="_blank" rel="noopener">원본</a>` : ''}</div>
         <div>${tagsHtml || '<span class="hint">태그 없음</span>'}</div>
         <button class="add-tag-btn" data-id="${p.id}">✏️ 태그 수정 제안</button>
@@ -189,6 +232,9 @@ function renderResults() {
     `;
   }).join('');
 
+  el.querySelectorAll('.post-title-btn').forEach((btn) => {
+    btn.addEventListener('click', () => openPostModal(btn.dataset.postid));
+  });
   el.querySelectorAll('.add-tag-btn').forEach((btn) => {
     btn.addEventListener('click', () => openReportForm(btn.dataset.id));
   });
@@ -337,7 +383,10 @@ async function submitAdminEdit(postId) {
   }
 }
 
-// ---------------- 미처리 제보/수정 목록 ----------------
+// ---------------- 미처리 제보/수정 목록: 미리보기 + 수정 + 삭제 ----------------
+let pendingCache = [];
+function pendingKey(r) { return `${r._sheet}:${r._row}`; }
+
 async function refreshPending() {
   const el = document.getElementById('pendingContent');
   if (!APPS_SCRIPT_URL || APPS_SCRIPT_URL.startsWith('PASTE_')) {
@@ -349,24 +398,210 @@ async function refreshPending() {
     const url = `${APPS_SCRIPT_URL}?action=list&password=${encodeURIComponent(ADMIN_PASSWORD)}`;
     const data = await (await fetch(url)).json();
     if (!data.ok) { el.textContent = '불러오기 실패: ' + data.error; return; }
-    const rows = [
-      ...data.suggestions.map((r) => ({...r, _src: '제안'})),
-      ...data.adminEdits.map((r) => ({...r, _src: '관리자수정'})),
+    pendingCache = [
+      ...data.suggestions.map((r) => ({ ...r, _sheet: 'suggestions', _src: '제안' })),
+      ...data.adminEdits.map((r) => ({ ...r, _sheet: 'adminEdits', _src: '관리자수정' })),
     ];
-    if (!rows.length) { el.textContent = '미처리 항목 없음.'; return; }
-    const summarize = (r) => {
-      const parts = [];
-      if (r.addTags && r.addTags.length) parts.push('➕ ' + r.addTags.map(tagLabel).join(', '));
-      if (r.removeTags && r.removeTags.length) parts.push('🚫 ' + r.removeTags.map(tagLabel).join(', '));
-      if (r.newTagNote) parts.push('🆕 ' + r.newTagNote);
-      if (r.note) parts.push('💬 ' + r.note);
-      return parts.join(' / ') || '(내용 없음)';
-    };
-    el.innerHTML = `<table><tr><th>구분</th><th>시각</th><th>글</th><th>내용</th></tr>${
-      rows.map((r) => `<tr><td>${escapeHtml(r._src)}</td><td>${escapeHtml((r.timestamp||'').slice(0,16))}</td><td>${escapeHtml(r.postTitle||r.postId||'')}</td><td>${escapeHtml(summarize(r))}</td></tr>`).join('')
-    }</table>`;
+    renderPendingList();
   } catch (err) {
     el.textContent = '불러오기 실패: ' + err;
+  }
+}
+
+function summarizePending(r) {
+  const parts = [];
+  if (r.addTags && r.addTags.length) parts.push('➕ ' + r.addTags.map(reportTagLabel).join(', '));
+  if (r.removeTags && r.removeTags.length) parts.push('🚫 ' + r.removeTags.map(reportTagLabel).join(', '));
+  if (r.newTagNote) parts.push('🆕 ' + r.newTagNote);
+  if (r.note) parts.push('💬 ' + r.note);
+  return parts.join(' / ') || '(내용 없음)';
+}
+
+function renderPendingList() {
+  const el = document.getElementById('pendingContent');
+  if (!pendingCache.length) { el.innerHTML = '미처리 항목 없음.'; return; }
+  el.innerHTML = pendingCache.map((r) => {
+    const key = pendingKey(r);
+    return `
+      <div class="pending-card">
+        <div class="pending-meta">${escapeHtml(r._src)} · ${escapeHtml((r.timestamp || '').slice(0, 16))}</div>
+        <button class="pending-title-btn" data-postid="${escapeHtml(r.postId)}">${escapeHtml(r.postTitle || r.postId)}</button>
+        <div class="pending-summary">${escapeHtml(summarizePending(r))}</div>
+        <div class="pending-actions">
+          <button class="pending-edit-btn" data-key="${escapeHtml(key)}">✏️ 수정</button>
+          <button class="pending-delete-btn" data-key="${escapeHtml(key)}">🗑 삭제</button>
+        </div>
+        <div class="report-slot pending-edit-slot" data-key="${escapeHtml(key)}"></div>
+      </div>
+    `;
+  }).join('');
+
+  el.querySelectorAll('.pending-title-btn').forEach((btn) => {
+    btn.addEventListener('click', () => openPostModal(btn.dataset.postid));
+  });
+  el.querySelectorAll('.pending-edit-btn').forEach((btn) => {
+    btn.addEventListener('click', () => {
+      const r = pendingCache.find((x) => pendingKey(x) === btn.dataset.key);
+      if (r) openPendingForm(r);
+    });
+  });
+  el.querySelectorAll('.pending-delete-btn').forEach((btn) => {
+    btn.addEventListener('click', () => {
+      const r = pendingCache.find((x) => pendingKey(x) === btn.dataset.key);
+      if (r) deletePending(r);
+    });
+  });
+}
+
+// ---------------- 대기열 항목 직접 수정(체크박스 picker 재사용) ----------------
+const pendingStates = new Map(); // "sheet:row" -> { mode, checked:Map, query }
+
+function openPendingForm(r) {
+  const key = pendingKey(r);
+  const mode = (r.removeTags && r.removeTags.length) ? 'remove' : 'add';
+  const checked = new Map();
+  (mode === 'add' ? (r.addTags || []) : (r.removeTags || [])).forEach((t) => checked.set(tagKey(t), t));
+  pendingStates.set(key, { mode, checked, query: '' });
+  renderPendingForm(r);
+}
+
+function renderPendingForm(r) {
+  const key = pendingKey(r);
+  const st = pendingStates.get(key);
+  const slot = document.querySelector(`.pending-edit-slot[data-key="${key}"]`);
+  if (!st || !slot) return;
+  const post = posts.find((p) => p.id === r.postId);
+  const existingTags = post ? (post.tags || []).filter((t) => t.category !== '게시판별 분류') : [];
+
+  let bodyHtml;
+  if (st.mode === 'add') {
+    bodyHtml = `
+      <input type="text" class="pendingSearch" placeholder="태그 이름으로 검색... (예: 운동과 에너지, MBL센서)" value="${escapeHtml(st.query)}">
+      <div class="report-picklist pendingPicklistBox"></div>
+      <div class="pendingSelectedBox"></div>
+      <input type="text" class="pendingNewTag" placeholder="목록에 없는 태그를 새로 제안" value="${escapeHtml(r.newTagNote || '')}">
+    `;
+  } else {
+    bodyHtml = `
+      <div class="report-picklist">
+        ${existingTags.length ? existingTags.map((t) => `
+          <label class="report-pick-item">
+            <input type="checkbox" data-key='${escapeHtml(tagKey(t))}' ${st.checked.has(tagKey(t)) ? 'checked' : ''}>
+            ${escapeHtml(reportTagLabel(t))}
+          </label>`).join('') : `<div class="hint">이 글의 현재 태그를 불러올 수 없어요.</div>`}
+      </div>
+    `;
+  }
+
+  slot.innerHTML = `
+    <div class="report-form">
+      <div class="report-tabs">
+        <button class="report-tab ${st.mode === 'add' ? 'active' : ''}" data-mode="add">➕ 태그 추가</button>
+        <button class="report-tab ${st.mode === 'remove' ? 'active' : ''}" data-mode="remove">🚫 태그 삭제</button>
+      </div>
+      ${bodyHtml}
+      <textarea class="pendingNote" placeholder="(선택) 메모">${escapeHtml(r.note || '')}</textarea>
+      <div class="report-form-actions">
+        <button class="submit pendingSaveBtn">저장</button>
+        <button class="pendingCancelBtn">취소</button>
+      </div>
+      <div class="report-form-status"></div>
+    </div>
+  `;
+
+  slot.querySelectorAll('.report-tab').forEach((btn) => {
+    btn.addEventListener('click', () => {
+      st.mode = btn.dataset.mode;
+      st.checked = new Map();
+      st.query = '';
+      renderPendingForm(r);
+    });
+  });
+  if (st.mode === 'add') {
+    renderPendingPicklist(r);
+    const searchEl = slot.querySelector('.pendingSearch');
+    searchEl.addEventListener('input', (e) => { st.query = e.target.value; renderPendingPicklist(r); });
+    searchEl.focus();
+    searchEl.setSelectionRange(searchEl.value.length, searchEl.value.length);
+  } else {
+    slot.querySelectorAll('.report-pick-item input[type="checkbox"]').forEach((cb) => {
+      cb.addEventListener('change', (e) => {
+        const k = e.target.dataset.key;
+        if (e.target.checked) st.checked.set(k, JSON.parse(k));
+        else st.checked.delete(k);
+        renderPendingForm(r);
+      });
+    });
+  }
+  slot.querySelector('.pendingCancelBtn').addEventListener('click', () => { slot.innerHTML = ''; pendingStates.delete(key); });
+  slot.querySelector('.pendingSaveBtn').addEventListener('click', () => savePendingEdit(r));
+}
+
+// add 모드의 검색 결과만 다시 그린다 — 검색창 <input> 자체는 절대 건드리지 않는다(IME 보존).
+function renderPendingPicklist(r) {
+  const key = pendingKey(r);
+  const st = pendingStates.get(key);
+  const slot = document.querySelector(`.pending-edit-slot[data-key="${key}"]`);
+  if (!st || !slot) return;
+  const box = slot.querySelector('.pendingPicklistBox');
+  const selBox = slot.querySelector('.pendingSelectedBox');
+  if (!box) return;
+  const q = st.query.trim().toLowerCase();
+  const matches = q ? ALL_TAGGABLE.filter((x) => x.label.toLowerCase().includes(q)).slice(0, 40) : [];
+  box.innerHTML = matches.length ? matches.map((x) => `
+    <label class="report-pick-item">
+      <input type="checkbox" data-key='${escapeHtml(tagKey(x.tag))}' ${st.checked.has(tagKey(x.tag)) ? 'checked' : ''}>
+      ${escapeHtml(x.label)}
+    </label>`).join('') : `<div class="hint">${q ? '일치하는 태그가 없어요.' : '검색어를 입력하면 목록이 나와요.'}</div>`;
+  selBox.innerHTML = st.checked.size ? `<div class="report-selected">✅ 선택됨: ${[...st.checked.values()].map((t) => escapeHtml(reportTagLabel(t))).join(', ')}</div>` : '';
+  box.querySelectorAll('input[type="checkbox"]').forEach((cb) => {
+    cb.addEventListener('change', (e) => {
+      const k = e.target.dataset.key;
+      if (e.target.checked) st.checked.set(k, JSON.parse(k));
+      else st.checked.delete(k);
+      renderPendingPicklist(r);
+    });
+  });
+}
+
+async function savePendingEdit(r) {
+  const key = pendingKey(r);
+  const st = pendingStates.get(key);
+  const slot = document.querySelector(`.pending-edit-slot[data-key="${key}"]`);
+  const statusEl = slot.querySelector('.report-form-status');
+  const note = slot.querySelector('.pendingNote').value.trim();
+  const newTagNote = st.mode === 'add' ? (slot.querySelector('.pendingNewTag')?.value.trim() || '') : '';
+  const checkedTags = [...st.checked.values()];
+  const addTags = st.mode === 'add' ? checkedTags : [];
+  const removeTags = st.mode === 'remove' ? checkedTags : [];
+  statusEl.textContent = '저장 중...';
+  try {
+    const res = await fetch(APPS_SCRIPT_URL, {
+      method: 'POST',
+      headers: { 'Content-Type': 'text/plain;charset=utf-8' },
+      body: JSON.stringify({ action: 'updateFeedback', password: ADMIN_PASSWORD, sheet: r._sheet, row: r._row, addTags, removeTags, newTagNote, note }),
+    });
+    const data = await res.json();
+    if (data.ok) { statusEl.textContent = '저장했습니다.'; refreshPending(); }
+    else statusEl.textContent = '저장 실패: ' + (data.error || '알 수 없는 오류');
+  } catch (err) {
+    statusEl.textContent = '저장 실패: ' + err;
+  }
+}
+
+async function deletePending(r) {
+  if (!confirm(`"${r.postTitle || r.postId}" 요청을 삭제할까요?\n(시트에는 기록이 남고, 대기 목록에서만 빠집니다)`)) return;
+  try {
+    const res = await fetch(APPS_SCRIPT_URL, {
+      method: 'POST',
+      headers: { 'Content-Type': 'text/plain;charset=utf-8' },
+      body: JSON.stringify({ action: 'deleteFeedback', password: ADMIN_PASSWORD, sheet: r._sheet, row: r._row }),
+    });
+    const data = await res.json();
+    if (data.ok) refreshPending();
+    else alert('삭제 실패: ' + (data.error || '알 수 없는 오류'));
+  } catch (err) {
+    alert('삭제 실패: ' + err);
   }
 }
 </script>

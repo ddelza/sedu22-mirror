@@ -57,6 +57,8 @@ function doPost(e) {
     if (body.action === 'suggest') return handleSuggest_(body);
     if (body.action === 'adminEdit') return handleAdminEdit_(body);
     if (body.action === 'markApplied') return handleMarkApplied_(body);
+    if (body.action === 'updateFeedback') return handleUpdateFeedback_(body);
+    if (body.action === 'deleteFeedback') return handleDeleteFeedback_(body);
     return jsonOut_({ ok: false, error: 'unknown action: ' + body.action });
   } catch (err) {
     return jsonOut_({ ok: false, error: String(err) });
@@ -131,10 +133,36 @@ function readPending_(sheet) {
 // 처리 완료된 행을 status=applied로 되돌려 표시. body: {password, sheet:'suggestions'|'adminEdits', rows:[행번호,...]}
 function handleMarkApplied_(body) {
   if (body.password !== ADMIN_PASSWORD) return jsonOut_({ ok: false, error: 'bad password' });
-  const ss = getSpreadsheet_();
-  const isAdminEdits = body.sheet === 'adminEdits';
-  const sheet = ss.getSheetByName(isAdminEdits ? SHEET_NAME_ADMIN_EDITS : SHEET_NAME_SUGGESTIONS);
+  const sheet = feedbackSheet_(body.sheet);
   const statusCol = FEEDBACK_HEADERS.indexOf('status') + 1;
   (body.rows || []).forEach((r) => sheet.getRange(r, statusCol).setValue('applied'));
   return jsonOut_({ ok: true, updated: (body.rows || []).length });
+}
+
+// 관리자가 admin.html에서 대기 중인 요청의 태그 구성을 직접 고쳐서 덮어쓴다(상태는 pending 유지).
+// body: {password, sheet, row, addTags, removeTags, newTagNote, note}
+function handleUpdateFeedback_(body) {
+  if (body.password !== ADMIN_PASSWORD) return jsonOut_({ ok: false, error: 'bad password' });
+  const sheet = feedbackSheet_(body.sheet);
+  const colOf = (name) => FEEDBACK_HEADERS.indexOf(name) + 1;
+  sheet.getRange(body.row, colOf('addTags')).setValue(JSON.stringify(body.addTags || []));
+  sheet.getRange(body.row, colOf('removeTags')).setValue(JSON.stringify(body.removeTags || []));
+  sheet.getRange(body.row, colOf('newTagNote')).setValue(body.newTagNote || '');
+  sheet.getRange(body.row, colOf('note')).setValue(body.note || '');
+  return jsonOut_({ ok: true });
+}
+
+// 관리자가 대기 중인 요청을 거부/삭제. 실제 행은 지우지 않고 status=rejected로 표시해서
+// 큐(list)에서는 빠지되 시트에 이력은 남는다. body: {password, sheet, row}
+function handleDeleteFeedback_(body) {
+  if (body.password !== ADMIN_PASSWORD) return jsonOut_({ ok: false, error: 'bad password' });
+  const sheet = feedbackSheet_(body.sheet);
+  const statusCol = FEEDBACK_HEADERS.indexOf('status') + 1;
+  sheet.getRange(body.row, statusCol).setValue('rejected');
+  return jsonOut_({ ok: true });
+}
+
+function feedbackSheet_(sheetParam) {
+  const ss = getSpreadsheet_();
+  return ss.getSheetByName(sheetParam === 'adminEdits' ? SHEET_NAME_ADMIN_EDITS : SHEET_NAME_SUGGESTIONS);
 }
