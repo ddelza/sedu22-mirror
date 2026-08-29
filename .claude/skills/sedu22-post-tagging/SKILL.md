@@ -30,6 +30,85 @@ description: Continue tagging sedu22-mirror cafe posts with Korean science curri
 
 이렇게 몇 배치 진행하면서 태그 체계 자체가 점점 확정되어 가는 것이 정상적인 흐름이다 — 처음부터 완벽한 분류 체계를 세우려 하지 말고, 실제 글들을 보면서 다듬어라.
 
+## 옵션 C: 이미 태깅된 글 전체 소급 재검토 (진행중, 대규모)
+
+`add-tags.js`(위 절)는 새 topic이 막 확정된 시점에 근처 배치 몇 개만 스팟체크하는 용도다. 반면 옵션 C는 **게시판 제한 없이 이미 태깅된 13,733건 전체**를 처음부터 순서대로 훑으면서, Phase B(48개 게시판 미분류 전수검토) 도중 새로 확정된 특수 카테고리 topic(세특작성/생성형 AI 도구/MBL센서/앱-프로그램/학급운영/교원연수/과학실 관리/영재교육/카페 운영 공지/토론수업 등)이 그보다 훨씬 전에 태깅된 글들에도 빠짐없이 붙었는지 확인하는 대규모 작업이다.
+
+**진행 상황 (2026-08-28, 커밋 `296ab1a8` 기준): 13,733건 중 1,430건 검토 완료, 12,303건 남음.** 배치당(70건) 새로 발견되는 태그는 평균 2~3건(적중률 약 3~4%)으로 낮은 편이라, 사용자가 여기서 일단 중단하고 지금까지 결과만 반영(build+commit+push)하기로 함. **이어서 진행하려면 아래 스크립트로 그냥 다음 배치를 뽑으면 된다 — 처음부터 다시 훑지 않는다.**
+
+- `node .claude/skills/sedu22-post-tagging/scripts/next-topic-retro-review-batch.js [배치크기]` — 게시판 제한 없이 이미 태깅된(즉 `게시판별 분류` 외의 태그가 하나라도 있는) 글 중 아직 재검토 안 한 글을 배치크기만큼(기본 20, 지금까지는 70 사용) 골라 `scratch/topic-retro-review-batch.json`에 `{id, board, title, existingTags, content}` 형태로 저장한다. 진행 상태(어떤 id를 이미 재검토했는지)는 `scratch/topic-retro-review-state.json`에 누적된다.
+  - **주의: `scratch/`는 `.gitignore`에 걸려있어 git에 커밋되지 않는다.** 즉 이 상태 파일은 지금 이 컴퓨터(로컬)에만 있다 — 다른 컴퓨터에서 세션을 열면 이 파일이 없어서 처음부터 다시 훑게 된다. 같은 컴퓨터에서 새 세션을 열 때는 문제없다.
+- 배치를 읽고 각 글의 `existingTags`(이미 붙어있는 태그) + `content`를 보고, **새로 추가할 topic이 있는지만** 판단한다. 기존 태그는 그대로 두고 절대 건드리지 않는다.
+- 판단 결과를 `scratch/topic-retro-review-result.json`에 `[{id, tags: [...새로 추가할 태그만...] | null, tagsNote}, ...]` 배열로 쓴다. 추가할 게 없으면 `tags: null`.
+  - **한글 텍스트가 섞인 큰 JSON을 `node -e "..."`(bash 인라인)로 넘기면 따옴표/특수문자 때문에 파싱 에러가 난다.** 그래서 Write 툴로 `scratch/_tmp_build_result.js`라는 임시 스크립트를 만들어(안에서 `fs.writeFileSync`로 `topic-retro-review-result.json`을 쓰게 함) `node`로 실행한 뒤 삭제하는 패턴을 표준으로 쓴다:
+    ```javascript
+    // scratch/_tmp_build_result.js — Write 툴로 작성 후 node로 실행, 끝나면 삭제
+    const fs = require('fs');
+    const ids = ['F1n-100', 'F1n-101', /* ...배치의 id 전체, 순서 그대로... */];
+    const additions = {
+      'F1n-101': [{ category: '과학교사 업무', topic: '교원연수', confidence: 'low' }],
+    };
+    const notes = { 'F1n-101': '왜 이렇게 판단했는지 짧게' };
+    const result = ids.map(id => additions[id] ? { id, tags: additions[id], tagsNote: notes[id] } : { id, tags: null });
+    if (result.length !== ids.length) throw new Error('count mismatch: ' + result.length);
+    fs.writeFileSync(__dirname + '/topic-retro-review-result.json', JSON.stringify(result, null, 2));
+    console.log('wrote', result.length, 'items');
+    ```
+    그다음 `node .claude/skills/sedu22-post-tagging/scratch/_tmp_build_result.js && rm .claude/skills/sedu22-post-tagging/scratch/_tmp_build_result.js && node .claude/skills/sedu22-post-tagging/scripts/apply-topic-retro-review.js && node .claude/skills/sedu22-post-tagging/scripts/next-topic-retro-review-batch.js 70` 한 줄로 적용+다음 배치까지 이어서 실행한다.
+- `node .claude/skills/sedu22-post-tagging/scripts/apply-topic-retro-review.js` — `scratch/topic-retro-review-result.json`을 읽어서, `tags`가 있는 항목만 기존 게시글 파일의 `tags` 배열에 append(중복은 JSON 비교로 자동 스킵)하고, `tagsNote`가 있으면 기존 `tagsNote`에 이어붙인다. `tags`가 null이든 있든 상관없이 모든 id를 `reviewed` 상태로 기록한다.
+- 위 세 단계(next-batch → 판단 → apply)를 반복하다가 `next-topic-retro-review-batch.js`가 출력하는 "아직 재검토 안 한" 숫자가 0이 되거나, 사용자가 그만하라고 할 때까지.
+
+**효율화 팁 (적중률이 낮은 게시판일 때):** 개인 일기/여행기 성격이 강한 게시판(예: `AM6` "수석교사의 방"의 "주뇽이의 아메리칸 드림" 연재)은 전체를 정독해도 새 태그가 거의 안 나온다. 이럴 땐 `Grep` 툴로 `scratch/topic-retro-review-batch.json`에 아래 같은 키워드 패턴을 돌려 후보만 추려서 그 글만 정독한다:
+```
+연수|학회|워크샵|워크숍|특강|생성형|Chat ?GPT|챗지피티|세특|생기부|하브루타|배움중심|Notebook ?LM|생활지도|도장|보상|스티커|상벌점|IB|개념기반|거꾸로
+```
+
+**옵션 C에서 실제로 써온 판단 기준 (분류 규칙 절과 함께 참고):**
+- "하브루타" 단어가 나오면 새 topic을 만들지 말고 `토론수업`으로 붙인다(이미 위 분류 규칙에 반영됨).
+- 도장판/스티커/상벌점처럼 **구조적인 보상 제도**를 설명하면 `학급운영`. 반면 단순 리뷰게임(빙고, 퀴즈)에서 이긴 조에게 사탕 주는 정도의 **일회성 게임 보상**은 애매하면 안 붙인다 — 도장판 검사처럼 반복적인 제도로 운영되는 경우만 붙인다.
+- "○○ 연수/학회/워크숍/컨퍼런스에 다녀왔습니다" 식으로 **본인이 참석한** 사실이 명시되어 있으면 `교원연수`(대체로 confidence `low`~`medium`). 학생 대상 특강("수능 특강")이나 남의 특강을 인용만 한 경우는 제외.
+- "생기부/세특에 활용" 목적이 활동 설계의 핵심으로 명시되면 `세특작성`. 그냥 지나가듯 "생기부에 쓸거리도 되겠네요" 정도의 부수적 언급은 제외.
+- ChatGPT/Notebook LM/Vrew 등 **구체적 AI 도구명을 밝히고 실제로 사용**했으면 `생성형 AI 도구`. "AI 도구로 만들 예정" 같은 계획 언급도 포함하되, confidence는 낮게.
+- 거꾸로교실/IB/배움중심수업 같은 기존 `수업 방법론` topic은 **본인의 수업이 그 방식이라고 명시**했을 때만 붙인다 — 다른 교사의 사례를 구경하거나 캠프에서 아이디어 하나만 빌려온 경우(예: 거꾸로교실 캠프에서 배운 종이접기 하나를 소개)는 너무 tenuous하므로 제외.
+
+## 제안 게시판 + 관리자 모드 — 사용자 제보 반영 (2026-08-29 신설)
+
+`explore.html`(누구나 "🚩 태그 제보" 버튼)과 `admin.html`(공유 비밀번호 `sedu26ai`로 게시글
+검색 + 태그 추가/삭제 제안)에서 들어오는 태그 피드백을 반영하는 워크플로. 두 페이지 다
+**직접 `data/posts/*.json`을 고치지 않는다** — `backend/Code.gs`(Apps Script, 최초 요청 시
+자동 생성되는 Google Sheet "sedu22-tag-feedback"에 "제안"/"관리자수정" 두 탭으로 append)에
+쌓이기만 하고, 실제 반영은 지금까지의 태깅 배치 워크플로(옵션 C 등)와 동일하게 **사람/Claude가
+주기적으로 확인해서 배치로 처리**한다.
+
+**전제 조건**: `backend/Code.gs`를 Apps Script로 배포하고 그 `/exec` URL을
+`explore.html`/`admin.html`/`scripts/fetch-tag-feedback.js`/`scripts/apply-tag-feedback.js`
+네 곳의 `APPS_SCRIPT_URL` 상수에 전부 동일하게 반영해야 동작한다(사용자가 아직 안 했다면
+`PASTE_YOUR_DEPLOYED_WEB_APP_URL_HERE` 그대로 있을 것 — 이 경우 이 절차를 시작하기 전에
+먼저 배포 여부를 사용자에게 확인할 것).
+
+1. `node .claude/skills/sedu22-post-tagging/scripts/fetch-tag-feedback.js` — Sheet에서
+   미처리(status=pending) 행을 전부 가져와 `scratch/tag-feedback-batch.json`에
+   `{source:'suggestion'|'adminEdit', row, postId, postTitle, type, note, timestamp}` 배열로
+   저장한다.
+2. 배치를 읽고 각 항목의 `postId`(형식 `fldid-dataid`)로 `data/posts/<fldid>/<dataid>.json`을
+   열어 현재 태그를 확인한 뒤, `note`(제보/관리자 코멘트)가 타당한지 판단한다. `source:'adminEdit'`
+   항목은 운영진이 직접 남긴 것이라 `suggestion`보다 신뢰도를 높게 봐도 된다.
+3. 판단 결과를 `scratch/tag-feedback-result.json`에
+   `[{postId, source, row, tags:[...추가할 태그만...]|null, removeTags:[...삭제할 태그 객체...]|null}, ...]`
+   형식으로 쓴다. **배치의 모든 항목을 포함시켜야 한다** — 반영할 게 없으면
+   `tags:null, removeTags:null`로 넣어도 Sheet 쪽 상태는 applied로 넘어간다(옵션 C의
+   "한글 텍스트 JSON은 `scratch/_tmp_build_result.js` 임시 스크립트로 작성" 패턴을 여기서도
+   그대로 쓸 것).
+4. `node .claude/skills/sedu22-post-tagging/scripts/apply-tag-feedback.js` — `tags`는
+   기존 태그에 append(중복 스킵), `removeTags`는 JSON 비교로 일치하는 태그를 제거하고,
+   처리한 모든 행(추가/삭제/변경없음 무관)을 Apps Script `markApplied` 호출로 Sheet에서
+   `status=applied`로 되돌려 표시한다.
+5. 다른 태깅 작업과 마찬가지로 `node build-site-data.js` 재실행 후 커밋/푸시해야 사이트에
+   실제로 반영된다.
+
+Sheet 원본은 <https://docs.google.com> 에서 "sedu22-tag-feedback"으로 검색하면 보인다(스프레드시트
+ID는 Apps Script 프로젝트의 ScriptProperties에 저장돼 있어 코드에는 안 보임).
+
 ## 단원 간 연관성(상관계수) 테이블 — 2단계 최적화
 
 위 "이름이 다른 단원끼리도..." 규칙을 매 글마다 133개 단원 전체를 놓고 판단하면 토큰이 많이 든다. 그래서 실제로 함께 태그되는 빈도를 근거로 "이 단원엔 보통 이 단원도 같이 붙는다"는 참고 테이블을 만들어 최적화한다. 단계를 나눠서 적용한다:
