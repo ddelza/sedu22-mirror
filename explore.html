@@ -792,18 +792,12 @@ function renderReportForm(p) {
 
   let bodyHtml;
   if (st.mode === 'add') {
-    const q = st.query.trim().toLowerCase();
-    const matches = q ? ALL_TAGGABLE.filter((x) => x.label.toLowerCase().includes(q)).slice(0, 40) : [];
+    // 검색창은 매 입력마다 다시 그리지 않는다 — 한글 입력 중(조합 중)에 DOM을 갈아치우면
+    // IME 조합이 끊겨서 자모가 풀어써진다("ㅇㄷㅇㅕㄱㄷㅗ" 버그). 아래에서 picklist 부분만 따로 갱신한다.
     bodyHtml = `
       <input type="text" id="reportSearch" placeholder="태그 이름으로 검색... (예: 운동과 에너지, MBL센서)" value="${escapeHtml(st.query)}">
-      <div class="report-picklist">
-        ${matches.length ? matches.map((x) => `
-          <label class="report-pick-item">
-            <input type="checkbox" data-key='${escapeHtml(tagKey(x.tag))}' ${st.checked.has(tagKey(x.tag)) ? 'checked' : ''}>
-            ${escapeHtml(x.label)}
-          </label>`).join('') : `<div class="hint">${q ? '일치하는 태그가 없어요. 아래에 새로 제안해주세요.' : '검색어를 입력하면 목록이 나와요.'}</div>`}
-      </div>
-      ${st.checked.size ? `<div class="report-selected">✅ 선택됨: ${[...st.checked.values()].map((t) => escapeHtml(tagLabel(t))).join(', ')}</div>` : ''}
+      <div class="report-picklist" id="reportPicklistBox"></div>
+      <div id="reportSelectedBox"></div>
       <input type="text" id="reportNewTag" placeholder="목록에 없는 태그를 새로 제안하고 싶다면 여기에 적어주세요">
     `;
   } else {
@@ -842,22 +836,48 @@ function renderReportForm(p) {
       renderReportForm(p);
     });
   });
-  slot.querySelectorAll('.report-pick-item input[type="checkbox"]').forEach((cb) => {
+  if (st.mode === 'add') {
+    renderPicklist(p);
+    const searchEl = document.getElementById('reportSearch');
+    searchEl.addEventListener('input', (e) => { st.query = e.target.value; renderPicklist(p); });
+    searchEl.focus();
+    searchEl.setSelectionRange(searchEl.value.length, searchEl.value.length);
+  } else {
+    slot.querySelectorAll('.report-pick-item input[type="checkbox"]').forEach((cb) => {
+      cb.addEventListener('change', (e) => {
+        const key = e.target.dataset.key;
+        if (e.target.checked) st.checked.set(key, JSON.parse(key));
+        else st.checked.delete(key);
+        renderReportForm(p);
+      });
+    });
+  }
+  document.getElementById('reportCancelBtn').addEventListener('click', () => { slot.innerHTML = ''; reportState = null; });
+  document.getElementById('reportSubmitBtn').addEventListener('click', () => submitReport(p));
+}
+
+// add 모드의 검색 결과만 다시 그린다 — 검색창 <input> 자체는 절대 건드리지 않는다(IME 보존).
+function renderPicklist(p) {
+  const st = reportState;
+  const box = document.getElementById('reportPicklistBox');
+  const selBox = document.getElementById('reportSelectedBox');
+  if (!box) return;
+  const q = st.query.trim().toLowerCase();
+  const matches = q ? ALL_TAGGABLE.filter((x) => x.label.toLowerCase().includes(q)).slice(0, 40) : [];
+  box.innerHTML = matches.length ? matches.map((x) => `
+    <label class="report-pick-item">
+      <input type="checkbox" data-key='${escapeHtml(tagKey(x.tag))}' ${st.checked.has(tagKey(x.tag)) ? 'checked' : ''}>
+      ${escapeHtml(x.label)}
+    </label>`).join('') : `<div class="hint">${q ? '일치하는 태그가 없어요. 아래에 새로 제안해주세요.' : '검색어를 입력하면 목록이 나와요.'}</div>`;
+  selBox.innerHTML = st.checked.size ? `<div class="report-selected">✅ 선택됨: ${[...st.checked.values()].map((t) => escapeHtml(tagLabel(t))).join(', ')}</div>` : '';
+  box.querySelectorAll('input[type="checkbox"]').forEach((cb) => {
     cb.addEventListener('change', (e) => {
       const key = e.target.dataset.key;
       if (e.target.checked) st.checked.set(key, JSON.parse(key));
       else st.checked.delete(key);
-      renderReportForm(p);
+      renderPicklist(p); // 검색창은 그대로 두고 목록/선택 요약만 갱신
     });
   });
-  const searchEl = document.getElementById('reportSearch');
-  if (searchEl) {
-    searchEl.addEventListener('input', (e) => { st.query = e.target.value; renderReportForm(p); });
-    searchEl.focus();
-    searchEl.setSelectionRange(searchEl.value.length, searchEl.value.length);
-  }
-  document.getElementById('reportCancelBtn').addEventListener('click', () => { slot.innerHTML = ''; reportState = null; });
-  document.getElementById('reportSubmitBtn').addEventListener('click', () => submitReport(p));
 }
 
 async function submitReport(p) {
