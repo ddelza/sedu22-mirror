@@ -109,6 +109,12 @@ function tagLabel(t) {
 }
 function tagIsUnclassified(t) { return t.unit === '미분류'; }
 function tagKey(t) { return JSON.stringify(t); }
+// 태그 추가/오류 제보 폼 전용 라벨 — 단원 태그(최상위 분류가 2015/2022 개정교육과정)는
+// 뒤에 "(연도)"를 붙여서 같은 단원명이 2015/2022 어느 쪽인지 목록에서 바로 구분되게 한다.
+function reportTagLabel(t) {
+  if (t.curriculumYear) return `${t.schoolLevel} · ${t.subject} · ${t.unit}(${t.curriculumYear})`;
+  return tagLabel(t);
+}
 
 // ---------------- 비밀번호 게이트 ----------------
 document.getElementById('pwSubmit').addEventListener('click', tryUnlock);
@@ -142,17 +148,16 @@ async function init() {
     for (const schoolLevel of Object.keys(tree[year])) {
       for (const subject of Object.keys(tree[year][schoolLevel])) {
         for (const unit of Object.keys(tree[year][schoolLevel][subject])) {
-          ALL_TAGGABLE.push({
-            label: `${year} · ${schoolLevel} · ${subject} · ${unit}`,
-            tag: { curriculumYear: year, schoolLevel, subject, unit, confidence: 'high' },
-          });
+          const tagObj = { curriculumYear: year, schoolLevel, subject, unit, confidence: 'high' };
+          ALL_TAGGABLE.push({ label: reportTagLabel(tagObj), tag: tagObj });
         }
       }
     }
   }
   for (const [category, info] of Object.entries(CATEGORIES)) {
     for (const topic of info.topics) {
-      ALL_TAGGABLE.push({ label: `${info.icon} ${category} · ${topic}`, tag: { category, topic, confidence: 'high' } });
+      const tagObj = { category, topic, confidence: 'high' };
+      ALL_TAGGABLE.push({ label: reportTagLabel(tagObj), tag: tagObj });
     }
   }
 
@@ -220,7 +225,7 @@ function renderReportForm(postId) {
         ${existingTags.length ? existingTags.map((t) => `
           <label class="report-pick-item">
             <input type="checkbox" data-key='${escapeHtml(tagKey(t))}' ${st.checked.has(tagKey(t)) ? 'checked' : ''}>
-            ${escapeHtml(tagLabel(t))}
+            ${escapeHtml(reportTagLabel(t))}
           </label>`).join('') : `<div class="hint">이 글엔 제거할 태그가 없어요.</div>`}
       </div>
     `;
@@ -285,7 +290,7 @@ function renderPicklist(postId) {
       <input type="checkbox" data-key='${escapeHtml(tagKey(x.tag))}' ${st.checked.has(tagKey(x.tag)) ? 'checked' : ''}>
       ${escapeHtml(x.label)}
     </label>`).join('') : `<div class="hint">${q ? '일치하는 태그가 없어요. 아래에 새로 제안해주세요.' : '검색어를 입력하면 목록이 나와요.'}</div>`;
-  selBox.innerHTML = st.checked.size ? `<div class="report-selected">✅ 선택됨: ${[...st.checked.values()].map((t) => escapeHtml(tagLabel(t))).join(', ')}</div>` : '';
+  selBox.innerHTML = st.checked.size ? `<div class="report-selected">✅ 선택됨: ${[...st.checked.values()].map((t) => escapeHtml(reportTagLabel(t))).join(', ')}</div>` : '';
   box.querySelectorAll('input[type="checkbox"]').forEach((cb) => {
     cb.addEventListener('change', (e) => {
       const key = e.target.dataset.key;
