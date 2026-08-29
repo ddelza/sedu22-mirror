@@ -80,19 +80,33 @@ description: Continue tagging sedu22-mirror cafe posts with Korean science curri
 쌓이기만 하고, 실제 반영은 지금까지의 태깅 배치 워크플로(옵션 C 등)와 동일하게 **사람/Claude가
 주기적으로 확인해서 배치로 처리**한다.
 
+**제출 방식(2026-08-29 개선)**: 처음엔 자유 텍스트 제보였는데, 대량으로 쌓이면 매번 자연어를
+해석해야 해서 감당이 안 될 거라는 사용자 피드백으로 **체크박스 picker 방식**으로 바꿨다.
+두 페이지 다 "➕ 태그 추가 제안"(기존 taxonomy—133개 단원 + 카테고리/토픽—에서 검색해서
+체크, `unit-index.json`과 동일한 정확한 태그 객체가 그대로 제출됨) / "🚫 태그 오류 제보"(그
+글에 이미 붙어있는 태그 중 체크해서 삭제 요청) 두 탭으로 나뉜다. 목록에 없는 태그는
+"새로운 태그 제안" 입력칸(`newTagNote`)에 자유 텍스트로 쓸 수 있다 — **이 경우만** 실제
+판단이 필요하고, 체크박스로 고른 `addTags`/`removeTags`는 이미 정확한 태그 객체라 대부분
+그대로 옮기기만 하면 된다(중복이거나 이미 없는 태그 삭제 요청 정도만 걸러내면 됨).
+
 **전제 조건**: `backend/Code.gs`를 Apps Script로 배포하고 그 `/exec` URL을
 `explore.html`/`admin.html`/`scripts/fetch-tag-feedback.js`/`scripts/apply-tag-feedback.js`
 네 곳의 `APPS_SCRIPT_URL` 상수에 전부 동일하게 반영해야 동작한다(사용자가 아직 안 했다면
 `PASTE_YOUR_DEPLOYED_WEB_APP_URL_HERE` 그대로 있을 것 — 이 경우 이 절차를 시작하기 전에
-먼저 배포 여부를 사용자에게 확인할 것).
+먼저 배포 여부를 사용자에게 확인할 것). `Code.gs`를 수정한 뒤에는 Apps Script 편집기에서
+붙여넣고 **배포 관리 > 수정(연필) > 버전: 새 버전 > 배포**로 갱신해야 `/exec` URL이 그대로
+유지된 채 새 코드가 반영된다(그냥 저장만 하면 배포된 웹앱엔 반영 안 됨).
 
 1. `node .claude/skills/sedu22-post-tagging/scripts/fetch-tag-feedback.js` — Sheet에서
    미처리(status=pending) 행을 전부 가져와 `scratch/tag-feedback-batch.json`에
-   `{source:'suggestion'|'adminEdit', row, postId, postTitle, type, note, timestamp}` 배열로
-   저장한다.
+   `{source:'suggestion'|'adminEdit', row, postId, postTitle, addTags, removeTags, newTagNote, note, timestamp}`
+   배열로 저장한다.
 2. 배치를 읽고 각 항목의 `postId`(형식 `fldid-dataid`)로 `data/posts/<fldid>/<dataid>.json`을
-   열어 현재 태그를 확인한 뒤, `note`(제보/관리자 코멘트)가 타당한지 판단한다. `source:'adminEdit'`
-   항목은 운영진이 직접 남긴 것이라 `suggestion`보다 신뢰도를 높게 봐도 된다.
+   열어 현재 태그를 확인한다. `addTags`/`removeTags`가 있으면 이미 정확한 태그 객체이므로
+   보통 그대로 승인(단, `addTags`가 이미 그 글에 있는 태그거나 `removeTags`가 실제로 그
+   글에 없는 태그면 걸러낼 것). `newTagNote`가 있으면 자유 텍스트를 보고 적절한 태그
+   객체로 변환할지 판단한다(옵션 C와 동일한 판단 기준 적용). `source:'adminEdit'` 항목은
+   운영진이 직접 남긴 것이라 `suggestion`보다 신뢰도를 높게 봐도 된다.
 3. 판단 결과를 `scratch/tag-feedback-result.json`에
    `[{postId, source, row, tags:[...추가할 태그만...]|null, removeTags:[...삭제할 태그 객체...]|null}, ...]`
    형식으로 쓴다. **배치의 모든 항목을 포함시켜야 한다** — 반영할 게 없으면

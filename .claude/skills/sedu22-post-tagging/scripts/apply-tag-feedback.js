@@ -1,6 +1,11 @@
 // fetch-tag-feedback.js로 가져온 배치를 검토한 결과(scratch/tag-feedback-result.json)를
 // data/posts/<fldid>/<dataid>.json에 반영하고, 처리한 Sheet 행을 status=applied로 되돌려 표시한다.
 //
+// fetch-tag-feedback.js가 가져오는 배치 항목의 addTags/removeTags는 이미 explore.html/admin.html의
+// 체크박스 picker에서 고른 "정확한" 태그 객체라서, 대부분은 그대로 옮기기만 하면 된다(중복/이미
+// 없는 태그 삭제 요청 정도만 걸러내면 됨). newTagNote가 있는 항목만 자유 텍스트라서 실제 판단이
+// 필요하다 — 목록에 없어서 새로 제안된 것이므로, 적절한 tags 객체로 변환하거나 반려한다.
+//
 // 입력 형식: [{ postId, source, row, tags: [...새로 추가할 태그만...] | null, removeTags: [...삭제할 태그 객체...] | null }, ...]
 // 처리하지 않기로 한 항목(예: 이미 있는 태그였다/오제보였다)도 반드시 포함시켜야 Sheet에서 applied로 표시된다
 // (그 경우 tags: null, removeTags: null로 써도 된다 — data/posts는 안 바뀌고 Sheet 상태만 넘어간다).

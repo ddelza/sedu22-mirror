@@ -27,11 +27,13 @@ async function main() {
   const items = [
     ...data.suggestions.map((r) => ({
       source: 'suggestion', row: r._row, postId: r.postId, postTitle: r.postTitle,
-      type: r.suggestionType, note: r.note, timestamp: r.timestamp,
+      addTags: r.addTags || [], removeTags: r.removeTags || [], newTagNote: r.newTagNote || '',
+      note: r.note, timestamp: r.timestamp,
     })),
     ...data.adminEdits.map((r) => ({
       source: 'adminEdit', row: r._row, postId: r.postId, postTitle: r.postTitle,
-      type: r.editAction, note: r.note, timestamp: r.timestamp,
+      addTags: r.addTags || [], removeTags: r.removeTags || [], newTagNote: r.newTagNote || '',
+      note: r.note, timestamp: r.timestamp,
     })),
   ];
   fs.mkdirSync(path.dirname(OUT_PATH), { recursive: true });

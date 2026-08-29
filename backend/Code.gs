@@ -13,8 +13,9 @@
 const ADMIN_PASSWORD = 'sedu26ai';
 const SHEET_NAME_SUGGESTIONS = '제안';
 const SHEET_NAME_ADMIN_EDITS = '관리자수정';
-const SUGGESTION_HEADERS = ['timestamp', 'postId', 'postTitle', 'suggestionType', 'note', 'status'];
-const ADMIN_EDIT_HEADERS = ['timestamp', 'postId', 'postTitle', 'editAction', 'tagPayload', 'note', 'status'];
+// addTags/removeTags: 기존 taxonomy(단원/카테고리-토픽)에서 체크박스로 고른 "정확한" 태그 객체 배열(JSON 문자열로 저장).
+// newTagNote: 목록에 없어서 "새로운 태그 제안"으로 직접 입력한 자유 텍스트 — 이것만 사람/Claude 판단이 필요하다.
+const FEEDBACK_HEADERS = ['timestamp', 'postId', 'postTitle', 'addTags', 'removeTags', 'newTagNote', 'note', 'status'];
 
 function getSpreadsheet_() {
   const props = PropertiesService.getScriptProperties();
@@ -27,8 +28,8 @@ function getSpreadsheet_() {
     ss = SpreadsheetApp.create('sedu22-tag-feedback');
     props.setProperty('SHEET_ID', ss.getId());
   }
-  ensureSheet_(ss, SHEET_NAME_SUGGESTIONS, SUGGESTION_HEADERS);
-  ensureSheet_(ss, SHEET_NAME_ADMIN_EDITS, ADMIN_EDIT_HEADERS);
+  ensureSheet_(ss, SHEET_NAME_SUGGESTIONS);
+  ensureSheet_(ss, SHEET_NAME_ADMIN_EDITS);
   const leftover = ss.getSheetByName('Sheet1') || ss.getSheetByName('시트1');
   if (leftover && ss.getSheets().length > 2) {
     try { ss.deleteSheet(leftover); } catch (e) { /* ignore */ }
@@ -36,13 +37,13 @@ function getSpreadsheet_() {
   return ss;
 }
 
-function ensureSheet_(ss, name, headers) {
+// 헤더 행을 매번 강제로 맞춰 쓴다 — 스키마가 바뀌어도(이번처럼) 기존 시트가 스스로 따라온다.
+// 기존 데이터 행은 그대로 남지만, 이미 status=applied로 처리된 행이면 열이 밀려도 무해하다.
+function ensureSheet_(ss, name) {
   let sheet = ss.getSheetByName(name);
-  if (!sheet) {
-    sheet = ss.insertSheet(name);
-    sheet.appendRow(headers);
-    sheet.setFrozenRows(1);
-  }
+  if (!sheet) sheet = ss.insertSheet(name);
+  sheet.getRange(1, 1, 1, FEEDBACK_HEADERS.length).setValues([FEEDBACK_HEADERS]);
+  sheet.setFrozenRows(1);
   return sheet;
 }
 
@@ -73,55 +74,54 @@ function doGet(e) {
 }
 
 // 누구나 제출 가능 — 비밀번호 검증 없음.
+// body: { postId, postTitle, addTags:[tagObj,...], removeTags:[tagObj,...], newTagNote, note }
 function handleSuggest_(body) {
-  const ss = getSpreadsheet_();
-  const sheet = ss.getSheetByName(SHEET_NAME_SUGGESTIONS);
-  sheet.appendRow([
-    new Date().toISOString(),
-    body.postId || '',
-    body.postTitle || '',
-    body.suggestionType || '',
-    body.note || '',
-    'pending',
-  ]);
+  appendFeedbackRow_(SHEET_NAME_SUGGESTIONS, body);
   return jsonOut_({ ok: true });
 }
 
 // 관리자만 — 비밀번호를 payload에 실어 보내고 서버에서 재검증한다.
 function handleAdminEdit_(body) {
   if (body.password !== ADMIN_PASSWORD) return jsonOut_({ ok: false, error: 'bad password' });
+  appendFeedbackRow_(SHEET_NAME_ADMIN_EDITS, body);
+  return jsonOut_({ ok: true });
+}
+
+function appendFeedbackRow_(sheetName, body) {
   const ss = getSpreadsheet_();
-  const sheet = ss.getSheetByName(SHEET_NAME_ADMIN_EDITS);
+  const sheet = ss.getSheetByName(sheetName);
   sheet.appendRow([
     new Date().toISOString(),
     body.postId || '',
     body.postTitle || '',
-    body.editAction || '',
-    JSON.stringify(body.tagPayload || {}),
+    JSON.stringify(body.addTags || []),
+    JSON.stringify(body.removeTags || []),
+    body.newTagNote || '',
     body.note || '',
     'pending',
   ]);
-  return jsonOut_({ ok: true });
 }
 
 // 미처리(status=pending) 행만 반환. 제보자 정보가 섞여있을 수 있어 비밀번호로 보호한다.
 function handleList_(password) {
   if (password !== ADMIN_PASSWORD) return jsonOut_({ ok: false, error: 'bad password' });
   const ss = getSpreadsheet_();
-  const suggestions = readPending_(ss.getSheetByName(SHEET_NAME_SUGGESTIONS), SUGGESTION_HEADERS);
-  const adminEdits = readPending_(ss.getSheetByName(SHEET_NAME_ADMIN_EDITS), ADMIN_EDIT_HEADERS);
+  const suggestions = readPending_(ss.getSheetByName(SHEET_NAME_SUGGESTIONS));
+  const adminEdits = readPending_(ss.getSheetByName(SHEET_NAME_ADMIN_EDITS));
   return jsonOut_({ ok: true, suggestions, adminEdits });
 }
 
-function readPending_(sheet, headers) {
+function readPending_(sheet) {
   const values = sheet.getDataRange().getValues();
   const rows = [];
   for (let i = 1; i < values.length; i++) {
     const row = values[i];
     const obj = {};
-    headers.forEach((h, idx) => { obj[h] = row[idx]; });
+    FEEDBACK_HEADERS.forEach((h, idx) => { obj[h] = row[idx]; });
     if (obj.status === 'pending') {
       obj._row = i + 1; // 1-based 시트 행 번호 (markApplied에서 사용)
+      try { obj.addTags = JSON.parse(obj.addTags || '[]'); } catch (e) { obj.addTags = []; }
+      try { obj.removeTags = JSON.parse(obj.removeTags || '[]'); } catch (e) { obj.removeTags = []; }
       rows.push(obj);
     }
   }
@@ -134,8 +134,7 @@ function handleMarkApplied_(body) {
   const ss = getSpreadsheet_();
   const isAdminEdits = body.sheet === 'adminEdits';
   const sheet = ss.getSheetByName(isAdminEdits ? SHEET_NAME_ADMIN_EDITS : SHEET_NAME_SUGGESTIONS);
-  const headers = isAdminEdits ? ADMIN_EDIT_HEADERS : SUGGESTION_HEADERS;
-  const statusCol = headers.indexOf('status') + 1;
+  const statusCol = FEEDBACK_HEADERS.indexOf('status') + 1;
   (body.rows || []).forEach((r) => sheet.getRange(r, statusCol).setValue('applied'));
   return jsonOut_({ ok: true, updated: (body.rows || []).length });
 }
