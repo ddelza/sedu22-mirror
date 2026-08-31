@@ -1,0 +1,35 @@
+name: Apply pending tag feedback
+
+on:
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  apply:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: Apply pending tag feedback (제안/관리자수정 큐 → data/posts)
+        run: node .claude/skills/sedu22-post-tagging/scripts/apply-pending-tag-feedback.js
+
+      - name: Rebuild site data
+        run: node build-site-data.js
+
+      - name: Commit and push if changed
+        run: |
+          git config user.name "sedu22-mirror-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add data/ site-data/
+          if git diff --cached --quiet; then
+            echo "반영할 변경 없음"
+          else
+            git commit -m "chore: 태그 제보/관리자수정 큐 반영 $(date -u +'%Y-%m-%d %H:%M UTC')"
+            git push
+          fi

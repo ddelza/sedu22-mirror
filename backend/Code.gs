@@ -9,8 +9,19 @@
 //
 // 스프레드시트는 별도로 만들 필요 없다 — 첫 요청이 들어올 때 자동 생성되고
 // 그 ID가 이 스크립트의 속성(ScriptProperties)에 저장된다.
+//
+// "🔄 큐 반영 실행" 버튼(admin.html)이 동작하려면 GITHUB_TOKEN을 스크립트 속성에 추가로
+// 등록해야 한다: Apps Script 편집기 > 프로젝트 설정 > 스크립트 속성 > 속성 추가
+//   이름: GITHUB_TOKEN / 값: ddelza/sedu22-mirror 저장소에 대해 최소 Actions:write
+//   권한이 있는 GitHub 개인 액세스 토큰(classic PAT면 repo scope로 충분).
+// 이 토큰은 GitHub Actions 워크플로(.github/workflows/apply-tag-feedback.yml)를 원격으로
+// 실행시키는 데만 쓰이고, 실제 커밋/푸시는 그 워크플로 안에서 GitHub이 자동 발급하는
+// 토큰으로 이뤄진다(이 토큰이 직접 커밋하지 않음).
 
 const ADMIN_PASSWORD = 'sedu26ai';
+const GITHUB_OWNER = 'ddelza';
+const GITHUB_REPO = 'sedu22-mirror';
+const GITHUB_WORKFLOW_FILE = 'apply-tag-feedback.yml';
 const SHEET_NAME_SUGGESTIONS = '제안';
 const SHEET_NAME_ADMIN_EDITS = '관리자수정';
 // addTags/removeTags: 기존 taxonomy(단원/카테고리-토픽)에서 체크박스로 고른 "정확한" 태그 객체 배열(JSON 문자열로 저장).
@@ -59,6 +70,7 @@ function doPost(e) {
     if (body.action === 'markApplied') return handleMarkApplied_(body);
     if (body.action === 'updateFeedback') return handleUpdateFeedback_(body);
     if (body.action === 'deleteFeedback') return handleDeleteFeedback_(body);
+    if (body.action === 'triggerApply') return handleTriggerApply_(body);
     return jsonOut_({ ok: false, error: 'unknown action: ' + body.action });
   } catch (err) {
     return jsonOut_({ ok: false, error: String(err) });
@@ -165,4 +177,24 @@ function handleDeleteFeedback_(body) {
 function feedbackSheet_(sheetParam) {
   const ss = getSpreadsheet_();
   return ss.getSheetByName(sheetParam === 'adminEdits' ? SHEET_NAME_ADMIN_EDITS : SHEET_NAME_SUGGESTIONS);
+}
+
+// admin.html의 "🔄 큐 반영 실행" 버튼 — GitHub Actions 워크플로(apply-tag-feedback.yml)를
+// 원격으로 실행시킨다. 실제 큐 처리/커밋/푸시는 그 워크플로 안에서 이뤄지고, 여기서는
+// 그냥 워크플로를 깨우기만 한다(비동기 — 결과를 기다리지 않고 바로 응답한다).
+function handleTriggerApply_(body) {
+  if (body.password !== ADMIN_PASSWORD) return jsonOut_({ ok: false, error: 'bad password' });
+  const token = PropertiesService.getScriptProperties().getProperty('GITHUB_TOKEN');
+  if (!token) return jsonOut_({ ok: false, error: 'GITHUB_TOKEN이 스크립트 속성에 설정되지 않았습니다.' });
+  const url = `https://api.github.com/repos/${GITHUB_OWNER}/${GITHUB_REPO}/actions/workflows/${GITHUB_WORKFLOW_FILE}/dispatches`;
+  const res = UrlFetchApp.fetch(url, {
+    method: 'post',
+    headers: { Authorization: 'Bearer ' + token, Accept: 'application/vnd.github+json' },
+    contentType: 'application/json',
+    payload: JSON.stringify({ ref: 'main' }),
+    muteHttpExceptions: true,
+  });
+  const code = res.getResponseCode();
+  if (code === 204) return jsonOut_({ ok: true });
+  return jsonOut_({ ok: false, error: `GitHub API ${code}: ${res.getContentText()}` });
 }

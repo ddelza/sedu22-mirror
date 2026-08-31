@@ -93,20 +93,38 @@ description: Continue tagging sedu22-mirror cafe posts with Korean science curri
    고칠 게 있으면 "✏️ 수정"으로 addTags/removeTags/newTagNote를 직접 고쳐서 저장한다
    (`updateFeedback` — 여전히 pending 상태로 남음). 즉 **큐에 남아있는 것 = 이미 관리자가
    승인한 것**이라는 게 이 시스템의 전제다.
-3. 사용자가 "지금 쌓인 거 반영해줘"라고 하면(나중에는 주기적 자동화 예정),
-   **`node .claude/skills/sedu22-post-tagging/scripts/apply-pending-tag-feedback.js`
-   한 번 실행하는 게 전부다.** 이 스크립트는 큐에 남은 항목을 예외 없이 전부 기계적으로
-   적용한다 — Claude가 게시글 내용을 다시 읽고 "이 태그가 맞나?" 판단하지 않는다. 그건
-   이미 2번 단계에서 관리자가 끝낸 일이다. **Claude가 임의로 특정 항목을 반영에서 제외하면
-   안 된다** — 만약 봤을 때 이상해 보이는 요청이 있으면, 반영을 보류하고 사용자에게
-   "이 요청은 이상해 보이는데 admin.html에서 먼저 걸러주실래요?"라고 물어볼 것이지, 조용히
-   스스로 스킵하고 나머지만 반영하면 안 된다.
+3. 반영은 두 가지 방법 중 아무거나 써도 결과가 같다(둘 다 같은
+   `apply-pending-tag-feedback.js`를 실행한다):
+   - **admin.html의 "🔄 큐 반영 실행" 버튼**(2026-08-30 신설) — 운영진 아무나(비밀번호만
+     맞으면) 누를 수 있고, Apps Script(`triggerApply` 액션)가 GitHub Actions 워크플로
+     (`.github/workflows/apply-tag-feedback.yml`, `workflow_dispatch`)를 원격으로 깨운다.
+     그 워크플로가 GitHub 서버에서 스크립트 실행 + `build-site-data.js` 재빌드 +
+     커밋/푸시까지 전부 자동으로 한다(1~2분 소요). **Claude Code 세션이 열려있지 않아도
+     동작한다** — 이게 이 버튼을 만든 이유.
+   - **사용자가 Claude Code에게 "지금 쌓인 거 반영해줘"라고 시키는 경우** — 이때는
+     `node .claude/skills/sedu22-post-tagging/scripts/apply-pending-tag-feedback.js`를
+     로컬(또는 Claude Code 세션)에서 직접 실행하면 된다.
+   어느 경로든 **큐에 남은 항목을 예외 없이 전부 기계적으로 적용한다** — Claude가 게시글
+   내용을 다시 읽고 "이 태그가 맞나?" 판단하지 않는다. 그건 이미 2번 단계에서 관리자가
+   끝낸 일이다. **Claude가 스크립트를 대신 실행해주는 상황에서도 임의로 특정 항목을 반영에서
+   제외하면 안 된다** — 만약 봤을 때 이상해 보이는 요청이 있으면, 반영을 보류하고
+   사용자에게 "이 요청은 이상해 보이는데 admin.html에서 먼저 걸러주실래요?"라고 물어볼
+   것이지, 조용히 스스로 스킵하고 나머지만 반영하면 안 된다.
 4. 이 스크립트는 addTags/removeTags가 있는 항목만 `data/posts/*.json`을 실제로 바꾸고,
    처리한 모든 행(변경 있든 없든)을 Apps Script `markApplied`로 Sheet에서 `status=applied`로
    표시한다. newTagNote만 있고 addTags/removeTags가 둘 다 비어있는 항목(관리자가 아직 정식
    태그로 변환 안 한 자유 제안)은 데이터는 안 바뀌지만 큐에서는 빠진다 — Sheet에 기록은 남음.
-5. 태그가 실제로 추가/삭제됐다면(콘솔에 "반영 완료" 메시지가 뜸) `node build-site-data.js`
-   재실행 후 커밋/푸시해야 사이트에 반영된다.
+5. **로컬에서 직접 스크립트를 돌린 경우에만** 태그가 실제로 추가/삭제됐다면
+   `node build-site-data.js` 재실행 후 커밋/푸시해야 사이트에 반영된다(버튼/워크플로
+   경로는 이 단계까지 워크플로 안에서 자동으로 처리됨).
+
+**"🔄 큐 반영 실행" 버튼 전제 조건**: Apps Script 스크립트 속성에 `GITHUB_TOKEN`(저장소
+`ddelza/sedu22-mirror`에 대해 최소 Actions:write 권한이 있는 GitHub PAT)이 설정돼 있어야
+한다 — Apps Script 편집기 > 프로젝트 설정 > 스크립트 속성에서 등록. 이 토큰은 워크플로를
+"깨우는" 용도로만 쓰이고, 실제 커밋/푸시는 워크플로 안에서 GitHub Actions가 자동 발급하는
+토큰으로 이뤄진다(별도 PAT가 레포에 직접 커밋하지 않음). 버튼을 눌렀는데 "GITHUB_TOKEN이
+스크립트 속성에 설정되지 않았습니다" 오류가 나면 이 설정이 안 돼 있다는 뜻 — 사용자에게
+안내할 것.
 
 **전제 조건**: `backend/Code.gs`를 Apps Script로 배포하고 그 `/exec` URL을
 `explore.html`/`admin.html`/`scripts/apply-pending-tag-feedback.js` 세 곳의
