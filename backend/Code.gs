@@ -18,6 +18,14 @@
 // 실행시키는 데만 쓰이고, 실제 커밋/푸시는 그 워크플로 안에서 GitHub이 자동 발급하는
 // 토큰으로 이뤄진다(이 토큰이 직접 커밋하지 않음).
 
+// 최초 1회만: Apps Script 편집기 상단 함수 드롭다운에서 authorizeExternalRequest_를 골라
+// 실행(▶)하면 "외부 서비스 연결 허용" 권한 승인 팝업이 뜬다 — 허용해야 triggerApply가 동작한다.
+// (doGet/doPost는 인자(e) 없이 수동 실행하면 그 안에서 바로 에러가 나서 권한 요청까지
+// 못 가므로, 이 함수를 따로 둔다.)
+function authorizeExternalRequest_() {
+  UrlFetchApp.fetch('https://api.github.com', { muteHttpExceptions: true });
+}
+
 const ADMIN_PASSWORD = 'sedu26ai';
 const GITHUB_OWNER = 'ddelza';
 const GITHUB_REPO = 'sedu22-mirror';
