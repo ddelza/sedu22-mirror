@@ -82,6 +82,13 @@ async function main() {
 
   console.log(`태그 추가: ${added}건, 태그 삭제: ${removed}건, 변경없음: ${noop}건(그중 새태그 자유제안만 있던 건: ${freeTextOnly}건), 파일 없음: ${missing}건`);
 
+  // GitHub Actions 워크플로가 이 값을 보고 재빌드/커밋 단계를 건너뛸지 판단한다(빈 큐를
+  // 처리할 때마다 build-site-data.js의 generatedAt만 바뀌어서 의미 없는 커밋이 쌓이는 걸 방지).
+  const changed = added > 0 || removed > 0;
+  if (process.env.GITHUB_OUTPUT) {
+    fs.appendFileSync(process.env.GITHUB_OUTPUT, `changed=${changed}\n`);
+  }
+
   for (const [sheet, rows] of Object.entries(bySheet)) {
     if (!rows.length) continue;
     const res = await fetch(APPS_SCRIPT_URL, {
