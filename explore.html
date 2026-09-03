@@ -125,6 +125,23 @@
   .report-pick-item { display: flex; align-items: center; gap: 6px; font-size: 12.5px; padding: 4px 2px; cursor: pointer; }
   .report-selected { font-size: 12px; color: var(--accent); }
 
+  .ai-panel { background: var(--surface); border: 1px solid var(--border); border-radius: 10px; padding: 14px 16px; margin-bottom: 14px; }
+  .ai-panel-header { display: flex; align-items: center; gap: 10px; flex-wrap: wrap; margin-bottom: 6px; }
+  .ai-key-badge { font-size: 11px; color: var(--text-muted); background: var(--accent-soft); padding: 3px 8px; border-radius: 10px; }
+  .ai-key-btn { margin-left: auto; border: 1px solid var(--border); background: var(--surface); color: var(--text); border-radius: 6px; padding: 4px 10px; cursor: pointer; font-size: 12px; font-family: inherit; }
+  .ai-hint { font-size: 12px; color: var(--text-muted); margin-bottom: 8px; }
+  .ai-source-list { max-height: 140px; overflow-y: auto; border: 1px solid var(--border); border-radius: 6px; padding: 6px 10px; margin-bottom: 10px; background: var(--bg); }
+  .ai-source-item { display: flex; align-items: center; gap: 6px; font-size: 12.5px; padding: 3px 0; cursor: pointer; }
+  .ai-chat { max-height: 320px; overflow-y: auto; display: flex; flex-direction: column; gap: 8px; margin-bottom: 10px; }
+  .ai-msg { padding: 8px 12px; border-radius: 10px; font-size: 13.5px; line-height: 1.5; white-space: pre-wrap; max-width: 90%; }
+  .ai-msg-user { align-self: flex-end; background: var(--accent); color: var(--nav-text); }
+  .ai-msg-model { align-self: flex-start; background: var(--accent-soft); color: var(--text); }
+  .ai-error { color: var(--danger); font-size: 12.5px; margin-bottom: 8px; }
+  .ai-input-row { display: flex; gap: 8px; }
+  .ai-input-row input { flex: 1; border: 1px solid var(--border); background: var(--bg); color: var(--text); border-radius: 6px; padding: 8px 10px; font-size: 13px; font-family: inherit; }
+  .ai-input-row button { border: 1px solid var(--accent); background: var(--accent); color: var(--nav-text); border-radius: 6px; padding: 8px 14px; cursor: pointer; font-size: 13px; font-family: inherit; }
+  .ai-input-row button:disabled { opacity: 0.6; cursor: default; }
+
   /* ---- 검색 ---- */
   .search-bar { background: var(--surface); border: 1px solid var(--border); border-radius: 10px; padding: 12px 14px; margin-bottom: 14px; }
   .search-basic-row { display: flex; gap: 8px; flex-wrap: wrap; align-items: center; }
@@ -614,8 +631,12 @@ function renderCartView() {
 
   let html = renderSearchBarHtml();
   html += `<div id="filterBar"><span class="path">🛒 내 수업 자료 (${cart.length}건)</span>`;
-  if (cart.length) html += `<button id="clearCartBtn">전체 비우기</button>`;
+  if (cart.length) {
+    html += `<button id="aiToggleBtn">🤖 ${aiState && aiState.open ? '접기' : '이 자료로 수업 아이디어 물어보기'}</button>`;
+    html += `<button id="clearCartBtn">전체 비우기</button>`;
+  }
   html += `</div>`;
+  html += `<div id="aiPanelSlot"></div>`;
 
   if (!cart.length) {
     html += `<div class="empty">아직 담아둔 수업 자료가 없습니다. 목록에서 "🛒 내 수업 자료로 담기"를 눌러보세요.</div>`;
@@ -660,6 +681,216 @@ function renderCartView() {
     updateCartBadge();
     renderCartView();
   });
+
+  const aiCartPosts = cartPosts.filter((p) => !p._missing);
+  const aiToggleBtn = document.getElementById('aiToggleBtn');
+  if (aiToggleBtn) aiToggleBtn.addEventListener('click', () => openAIPanel(aiCartPosts));
+  bindAIPanel(aiCartPosts);
+}
+
+// ---------------- AI 수업 설계 도우미 (장바구니 자료를 소스로 쓰는 NotebookLM 스타일 Q&A) ----------------
+const AI_MAX_SOURCES = 15;
+const AI_SOURCE_CHAR_CAP = 1200;
+const AI_MODEL = 'gemini-3.5-flash-lite';
+const AI_SYSTEM_PROMPT = '당신은 한국 중·고등학교 과학 교사의 수업 설계를 돕는 도우미입니다. 아래 [출처]로 주어진 카페 게시글 내용만 근거로 답하고, 출처에 없는 내용은 추측하지 말고 그렇게 밝히세요. 학년과 수준에 맞는 실질적인 수업 아이디어·발문·평가 방법을 제안하고, 답변은 너무 길지 않게 바로 쓸 수 있는 내용 위주로 작성하세요.';
+const GEMINI_KEY_STORAGE = 'sedu22_gemini_key';
+
+let aiState = null; // { open, selectedIds:Set, history:[{role,text,display}], busy, error }
+
+function getPersonalGeminiKey() {
+  try { return localStorage.getItem(GEMINI_KEY_STORAGE) || ''; } catch (e) { return ''; }
+}
+function setPersonalGeminiKey(key) {
+  try {
+    if (key) localStorage.setItem(GEMINI_KEY_STORAGE, key);
+    else localStorage.removeItem(GEMINI_KEY_STORAGE);
+  } catch (e) {}
+}
+
+function openAIPanel(cartPosts) {
+  if (!aiState) {
+    aiState = { open: true, selectedIds: new Set(cartPosts.slice(0, AI_MAX_SOURCES).map((p) => p.id)), history: [], busy: false, error: '' };
+  } else {
+    aiState.open = !aiState.open;
+  }
+  renderCartView();
+}
+
+function renderAIPanelHtml(cartPosts) {
+  if (!aiState || !aiState.open) return '';
+  const keyBadge = getPersonalGeminiKey() ? '🔑 내 키로 사용 중' : '🆓 공용 무료 한도 사용 중';
+  const sourceItems = cartPosts.map((p) => `
+    <label class="ai-source-item">
+      <input type="checkbox" class="ai-source-cb" data-id="${escapeHtml(p.id)}" ${aiState.selectedIds.has(p.id) ? 'checked' : ''}>
+      ${escapeHtml(p.title || '(제목 없음)')}
+    </label>`).join('');
+  const historyHtml = aiState.history.map((h) => `
+    <div class="ai-msg ai-msg-${h.role === 'user' ? 'user' : 'model'}">${escapeHtml(h.display || h.text)}</div>`).join('');
+  return `
+    <div class="ai-panel">
+      <div class="ai-panel-header">
+        <b>🤖 이 자료로 수업 아이디어 물어보기</b>
+        <span class="ai-key-badge">${keyBadge}</span>
+        <button id="aiKeyBtn" class="ai-key-btn">⚙️ 내 API 키 등록</button>
+      </div>
+      <div class="ai-hint">체크한 자료(${aiState.selectedIds.size}개, 최대 ${AI_MAX_SOURCES}개)만 답변 근거로 사용됩니다 — 질문과 관련된 자료만 골라주세요.</div>
+      <div class="ai-source-list">${sourceItems || '<div class="hint">담긴 자료가 없습니다.</div>'}</div>
+      <div class="ai-chat">${historyHtml || '<div class="hint">질문을 입력해보세요. 예: "이 자료들로 1차시 수업 계획을 세워줘"</div>'}</div>
+      ${aiState.error ? `<div class="ai-error">${escapeHtml(aiState.error)}</div>` : ''}
+      <div class="ai-input-row">
+        <input type="text" id="aiQuestionInput" placeholder="질문을 입력하세요..." ${aiState.busy ? 'disabled' : ''}>
+        <button id="aiAskBtn" ${aiState.busy ? 'disabled' : ''}>${aiState.busy ? '답변 중...' : '질문하기'}</button>
+      </div>
+    </div>
+  `;
+}
+
+function bindAIPanel(cartPosts) {
+  const slot = document.getElementById('aiPanelSlot');
+  if (!slot) return;
+  slot.innerHTML = renderAIPanelHtml(cartPosts);
+  if (!aiState || !aiState.open) return;
+
+  slot.querySelectorAll('.ai-source-cb').forEach((cb) => {
+    cb.addEventListener('change', (e) => {
+      const id = e.target.dataset.id;
+      if (e.target.checked) {
+        if (aiState.selectedIds.size >= AI_MAX_SOURCES) {
+          e.target.checked = false;
+          alert(`최대 ${AI_MAX_SOURCES}개까지만 선택할 수 있어요. 관련 자료 위주로 골라주세요.`);
+          return;
+        }
+        aiState.selectedIds.add(id);
+      } else {
+        aiState.selectedIds.delete(id);
+      }
+      bindAIPanel(cartPosts);
+    });
+  });
+
+  const keyBtn = document.getElementById('aiKeyBtn');
+  if (keyBtn) keyBtn.addEventListener('click', openKeyModal);
+
+  const askBtn = document.getElementById('aiAskBtn');
+  const input = document.getElementById('aiQuestionInput');
+  if (askBtn && input) {
+    askBtn.addEventListener('click', () => sendAIQuestion(cartPosts));
+    input.addEventListener('keydown', (e) => { if (e.key === 'Enter') sendAIQuestion(cartPosts); });
+    input.focus();
+  }
+}
+
+async function sendAIQuestion(cartPosts) {
+  const input = document.getElementById('aiQuestionInput');
+  const question = input.value.trim();
+  if (!question) return;
+  if (!aiState.selectedIds.size) {
+    aiState.error = '먼저 답변 근거로 쓸 자료를 체크해주세요.';
+    bindAIPanel(cartPosts);
+    return;
+  }
+
+  let userText = question;
+  if (aiState.history.length === 0) {
+    const selected = cartPosts.filter((p) => aiState.selectedIds.has(p.id));
+    const sourcesText = selected.map((p, i) => {
+      const content = stripTags(p.contentHtml).slice(0, AI_SOURCE_CHAR_CAP);
+      return `[출처 ${i + 1}] ${p.title} (${p.board} · ${p.created})\n${content}`;
+    }).join('\n---\n');
+    userText = `다음은 참고할 수업 자료 출처입니다.\n\n${sourcesText}\n\n질문: ${question}`;
+  }
+
+  const contents = [
+    ...aiState.history.map((h) => ({ role: h.role, parts: [{ text: h.text }] })),
+    { role: 'user', parts: [{ text: userText }] },
+  ];
+  const systemInstruction = { parts: [{ text: AI_SYSTEM_PROMPT }] };
+
+  aiState.busy = true;
+  aiState.error = '';
+  aiState.history.push({ role: 'user', text: userText, display: question });
+  input.value = '';
+  bindAIPanel(cartPosts);
+
+  let result;
+  try {
+    const personalKey = getPersonalGeminiKey();
+    result = personalKey
+      ? await callGeminiDirect(personalKey, contents, systemInstruction)
+      : await callGeminiViaBackend(contents, systemInstruction);
+  } catch (err) {
+    result = { ok: false, error: String(err) };
+  }
+
+  if (!result.ok) {
+    aiState.history.pop();
+    aiState.error = result.quotaExceeded
+      ? '오늘 공용 무료 한도를 다 썼어요. "⚙️ 내 API 키 등록"으로 내 키를 등록하면 계속 쓸 수 있어요.'
+      : '답변 실패: ' + (result.error || '알 수 없는 오류');
+  } else {
+    aiState.history.push({ role: 'model', text: result.text });
+  }
+  aiState.busy = false;
+  bindAIPanel(cartPosts);
+}
+
+async function callGeminiDirect(apiKey, contents, systemInstruction) {
+  try {
+    const url = `https://generativelanguage.googleapis.com/v1beta/models/${AI_MODEL}:generateContent?key=${encodeURIComponent(apiKey)}`;
+    const res = await fetch(url, {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify({ contents, systemInstruction, generationConfig: { maxOutputTokens: 2048 } }),
+    });
+    const data = await res.json();
+    if (!res.ok) return { ok: false, error: (data.error && data.error.message) || `HTTP ${res.status}` };
+    const candidate = data.candidates && data.candidates[0];
+    const text = candidate ? (candidate.content.parts || []).map((p) => p.text || '').join('') : '';
+    return { ok: true, text };
+  } catch (err) {
+    return { ok: false, error: String(err) };
+  }
+}
+
+async function callGeminiViaBackend(contents, systemInstruction) {
+  if (!APPS_SCRIPT_URL || APPS_SCRIPT_URL.startsWith('PASTE_')) {
+    return { ok: false, error: 'AI 기능이 아직 연결되지 않았어요.' };
+  }
+  try {
+    const res = await fetch(APPS_SCRIPT_URL, {
+      method: 'POST',
+      headers: { 'Content-Type': 'text/plain;charset=utf-8' },
+      body: JSON.stringify({ action: 'askLessonAI', contents, systemInstruction }),
+    });
+    return await res.json();
+  } catch (err) {
+    return { ok: false, error: String(err) };
+  }
+}
+
+function openKeyModal() {
+  const modal = document.getElementById('modal');
+  const current = getPersonalGeminiKey();
+  modal.innerHTML = `
+    <button class="close" id="modalClose">✕</button>
+    <div class="title">내 Gemini API 키 등록</div>
+    <div class="meta">등록하면 공용 무료 한도와 상관없이 계속 쓸 수 있어요. 이 브라우저에만 저장되고 서버로 전송되지 않습니다.</div>
+    <div style="margin:14px 0;"><a href="https://aistudio.google.com/apikey" target="_blank" rel="noopener">무료로 키 발급받기 →</a></div>
+    <input type="text" id="geminiKeyInput" placeholder="AIza..." value="${escapeHtml(current)}" style="width:100%;padding:8px 10px;border:1px solid var(--border);border-radius:6px;background:var(--bg);color:var(--text);font-family:inherit;box-sizing:border-box;">
+    <div style="margin-top:12px;display:flex;gap:8px;">
+      <button id="geminiKeySave" class="cart-toggle-btn">저장</button>
+      ${current ? '<button id="geminiKeyClear" class="cart-toggle-btn">키 삭제</button>' : ''}
+    </div>
+  `;
+  document.getElementById('modalBg').classList.add('show');
+  document.getElementById('modalClose').addEventListener('click', closeModal);
+  document.getElementById('geminiKeySave').addEventListener('click', () => {
+    setPersonalGeminiKey(document.getElementById('geminiKeyInput').value.trim());
+    closeModal();
+    renderCartView();
+  });
+  const clearKeyBtn = document.getElementById('geminiKeyClear');
+  if (clearKeyBtn) clearKeyBtn.addEventListener('click', () => { setPersonalGeminiKey(''); closeModal(); renderCartView(); });
 }
 
 // ---------------- 목록 렌더 ----------------

@@ -17,6 +17,11 @@
 // 이 토큰은 GitHub Actions 워크플로(.github/workflows/apply-tag-feedback.yml)를 원격으로
 // 실행시키는 데만 쓰이고, 실제 커밋/푸시는 그 워크플로 안에서 GitHub이 자동 발급하는
 // 토큰으로 이뤄진다(이 토큰이 직접 커밋하지 않음).
+//
+// explore.html의 "🤖 이 자료로 수업 아이디어 물어보기"(공용 무료 한도 경로)가 동작하려면
+// GEMINI_API_KEY를 스크립트 속성에 추가로 등록해야 한다: 위와 같은 스크립트 속성 화면에서
+//   이름: GEMINI_API_KEY / 값: Google AI Studio에서 발급한 Gemini API 키
+// 하루 사용량 한도는 AI_DAILY_LIMIT 스크립트 속성으로 조정 가능(안 넣으면 기본값 사용).
 
 // 최초 1회만: Apps Script 편집기 상단 함수 드롭다운에서 authorizeExternalRequest를 골라
 // 실행(▶)하면 "외부 서비스 연결 허용" 권한 승인 팝업이 뜬다 — 허용해야 triggerApply가 동작한다.
@@ -31,6 +36,8 @@ const ADMIN_PASSWORD = 'sedu26ai';
 const GITHUB_OWNER = 'ddelza';
 const GITHUB_REPO = 'sedu22-mirror';
 const GITHUB_WORKFLOW_FILE = 'apply-tag-feedback.yml';
+const GEMINI_MODEL = 'gemini-3.5-flash-lite';
+const AI_DAILY_LIMIT_DEFAULT = 200;
 const SHEET_NAME_SUGGESTIONS = '제안';
 const SHEET_NAME_ADMIN_EDITS = '관리자수정';
 // addTags/removeTags: 기존 taxonomy(단원/카테고리-토픽)에서 체크박스로 고른 "정확한" 태그 객체 배열(JSON 문자열로 저장).
@@ -80,6 +87,7 @@ function doPost(e) {
     if (body.action === 'updateFeedback') return handleUpdateFeedback_(body);
     if (body.action === 'deleteFeedback') return handleDeleteFeedback_(body);
     if (body.action === 'triggerApply') return handleTriggerApply_(body);
+    if (body.action === 'askLessonAI') return handleAskLessonAI_(body);
     return jsonOut_({ ok: false, error: 'unknown action: ' + body.action });
   } catch (err) {
     return jsonOut_({ ok: false, error: String(err) });
@@ -206,4 +214,52 @@ function handleTriggerApply_(body) {
   const code = res.getResponseCode();
   if (code === 204) return jsonOut_({ ok: true });
   return jsonOut_({ ok: false, error: `GitHub API ${code}: ${res.getContentText()}` });
+}
+
+// explore.html 카트 화면의 "🤖 이 자료로 수업 아이디어 물어보기"(공용 무료 한도 경로).
+// 비밀번호 없이 누구나 호출 가능 — 대신 하루 전체 사용량을 스크립트 속성으로 제한한다.
+// body: { contents:[{role,parts:[{text}]},...], systemInstruction:{parts:[{text}]} }
+// (클라이언트가 출처/대화 이력을 이미 Gemini API 형식 그대로 조립해서 보낸다 — 서버는
+// 한도만 확인하고 그대로 중계한다.)
+function handleAskLessonAI_(body) {
+  const props = PropertiesService.getScriptProperties();
+  const apiKey = props.getProperty('GEMINI_API_KEY');
+  if (!apiKey) return jsonOut_({ ok: false, error: 'GEMINI_API_KEY가 스크립트 속성에 설정되지 않았습니다.' });
+
+  const lock = LockService.getScriptLock();
+  lock.waitLock(10000);
+  try {
+    const today = Utilities.formatDate(new Date(), 'Asia/Seoul', 'yyyy-MM-dd');
+    const quotaKey = 'AI_QUOTA_' + today;
+    const limit = Number(props.getProperty('AI_DAILY_LIMIT') || AI_DAILY_LIMIT_DEFAULT);
+    const used = Number(props.getProperty(quotaKey) || 0);
+    if (used >= limit) {
+      return jsonOut_({ ok: false, quotaExceeded: true, error: '오늘 공용 무료 한도를 다 썼습니다.' });
+    }
+    props.setProperty(quotaKey, String(used + 1));
+  } finally {
+    lock.releaseLock();
+  }
+
+  return callGeminiFromServer_(apiKey, body.contents, body.systemInstruction);
+}
+
+function callGeminiFromServer_(apiKey, contents, systemInstruction) {
+  const url = `https://generativelanguage.googleapis.com/v1beta/models/${GEMINI_MODEL}:generateContent?key=${encodeURIComponent(apiKey)}`;
+  const payload = { contents: contents, generationConfig: { maxOutputTokens: 2048 } };
+  if (systemInstruction) payload.systemInstruction = systemInstruction;
+  const res = UrlFetchApp.fetch(url, {
+    method: 'post',
+    contentType: 'application/json',
+    payload: JSON.stringify(payload),
+    muteHttpExceptions: true,
+  });
+  const code = res.getResponseCode();
+  const data = JSON.parse(res.getContentText());
+  if (code !== 200) {
+    return jsonOut_({ ok: false, error: (data.error && data.error.message) || `Gemini API ${code}` });
+  }
+  const candidate = data.candidates && data.candidates[0];
+  const text = candidate ? (candidate.content.parts || []).map((p) => p.text || '').join('') : '';
+  return jsonOut_({ ok: true, text: text });
 }
