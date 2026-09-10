@@ -11,5 +11,23 @@
   "headCont": "",
   "contentval": "000PEzzzzzzzzzzzzzzzzzzzzzzzzz",
   "permlink": "https://cafe.daum.net/sedu22/fMHp/1564",
-  "contentHtml": "<p>개정 교육과정에 빠진것같은데 ( 비상교과서) 계산문제 강의하시나요?</p>\n\t \t\t\t\t\t<!-- -->"
+  "contentHtml": "<p>개정 교육과정에 빠진것같은데 ( 비상교과서) 계산문제 강의하시나요?</p>\n\t \t\t\t\t\t<!-- -->",
+  "tags": [
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "전기와 자기",
+      "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "전기와 자기",
+      "confidence": "high"
+    }
+  ],
+  "tagsNote": "중2 전기와자기 계산문제 출제 여부 질문.",
+  "taggedAt": "2026-09-10T03:22:02.127Z"
 }

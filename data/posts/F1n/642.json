@@ -19,13 +19,11 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
+      "category": "스마트 수업도구",
+      "topic": "구글도구",
       "confidence": "high"
     }
   ],
-  "tagsNote": "학기초/학기말 만다라트 계획 짜기 활동(구글시트) 공유.",
+  "tagsNote": "학기초/학기말 만다라트 계획 짜기 활동(구글시트) 공유. / 학생이 만다라트 계획표를 구글 스프레드시트 사본으로 만들어 개별 작성 후 과제 제출.",
   "taggedAt": "2026-08-12T08:51:15.953Z"
 }

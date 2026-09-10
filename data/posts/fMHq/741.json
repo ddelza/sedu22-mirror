@@ -31,8 +31,13 @@
       "subject": "과학",
       "unit": "물질의 구성",
       "confidence": "high"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "구글도구",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "온라인수업 과제용 원소기호 직소퍼즐 공유.",
+  "tagsNote": "온라인수업 과제용 원소기호 직소퍼즐 공유. / 학생이 캡쳐 화면을 구글 문서에 붙여넣어 과제 제출.",
   "taggedAt": "2026-08-12T22:27:14.768Z"
 }

@@ -11,5 +11,23 @@
   "headCont": "",
   "contentval": "0007bzzzzzzzzzzzzzzzzzzzzzzzzz",
   "permlink": "https://cafe.daum.net/sedu22/cTdL/471",
-  "contentHtml": "<p>통합과학2 개체군 변동 모의실험 웹앱 만들어보았습니다.</p><p>미래엔 교과서를 기준으로 만들었습니다.</p><p>&#160;</p><p><a href=\"https://grasshopper-hunt-lab.tearity.chatgpt.site/\" target=\"_top\" class=\"ke-link\">메뚜기 사냥 | 개체군 변동 모의실험</a></p><p>&#160;</p><p>&#160;</p>\n\t \t\t\t\t\t<!-- -->"
+  "contentHtml": "<p>통합과학2 개체군 변동 모의실험 웹앱 만들어보았습니다.</p><p>미래엔 교과서를 기준으로 만들었습니다.</p><p>&#160;</p><p><a href=\"https://grasshopper-hunt-lab.tearity.chatgpt.site/\" target=\"_top\" class=\"ke-link\">메뚜기 사냥 | 개체군 변동 모의실험</a></p><p>&#160;</p><p>&#160;</p>\n\t \t\t\t\t\t<!-- -->",
+  "tags": [
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "고등학교",
+      "subject": "통합과학2",
+      "unit": "변화와 다양성",
+      "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "고등학교",
+      "subject": "통합과학",
+      "unit": "생태계와 환경",
+      "confidence": "medium"
+    }
+  ],
+  "tagsNote": "개체군 변동 모의실험 웹앱, 생태 단원 관련.",
+  "taggedAt": "2026-09-10T03:22:02.077Z"
 }

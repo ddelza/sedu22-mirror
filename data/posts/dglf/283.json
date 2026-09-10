@@ -11,5 +11,23 @@
   "headCont": "",
   "contentval": "0004Zzzzzzzzzzzzzzzzzzzzzzzzzz",
   "permlink": "https://cafe.daum.net/sedu22/dglf/283",
-  "contentHtml": "<p style=\"text-align: left;\">안녕하세요,</p><p style=\"text-align: left;\">가계도 만들기 프로그램을 제작하여 공유해봅니다.</p><p style=\"text-align: left;\">시험문제 출제하거나 학습지 제작에 사용하면 좋을 것 같습니다.</p><p style=\"text-align: left;\">&#160;</p><p style=\"text-align: left;\"><a href=\"https://geneticpedigree.tearity13.workers.dev/\" target=\"_top\" class=\"ke-link\">유전 가계도 생성기</a></p>\n\t \t\t\t\t\t<!-- -->"
+  "contentHtml": "<p style=\"text-align: left;\">안녕하세요,</p><p style=\"text-align: left;\">가계도 만들기 프로그램을 제작하여 공유해봅니다.</p><p style=\"text-align: left;\">시험문제 출제하거나 학습지 제작에 사용하면 좋을 것 같습니다.</p><p style=\"text-align: left;\">&#160;</p><p style=\"text-align: left;\"><a href=\"https://geneticpedigree.tearity13.workers.dev/\" target=\"_top\" class=\"ke-link\">유전 가계도 생성기</a></p>\n\t \t\t\t\t\t<!-- -->",
+  "tags": [
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "고등학교",
+      "subject": "생명과학Ⅰ",
+      "unit": "유전",
+      "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "고등학교",
+      "subject": "생물의 유전",
+      "unit": "유전자와 유전물질",
+      "confidence": "low"
+    }
+  ],
+  "tagsNote": "가계도 생성 프로그램, 유전 양식 분석 도구.",
+  "taggedAt": "2026-09-10T03:22:02.079Z"
 }

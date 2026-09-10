@@ -19,13 +19,11 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
-      "confidence": "low"
+      "category": "스마트 수업도구",
+      "topic": "구글도구",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "7단원 과학과 나의 미래에서 다양한 직업 분류를 다루는 디딤영상·과제 공유(특정 지구과학 단원 아님).",
+  "tagsNote": "7단원 과학과 나의 미래에서 다양한 직업 분류를 다루는 디딤영상·과제 공유(특정 지구과학 단원 아님). / 구글클래스룸 학습과제를 구글 문서로 제공(디딤영상+과제).",
   "taggedAt": "2026-08-13T12:58:04.743Z"
 }

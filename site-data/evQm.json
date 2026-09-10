@@ -1059,6 +1059,11 @@
         "subject": "물리학",
         "unit": "힘과 에너지",
         "confidence": "high"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "구글도구",
+        "confidence": "high"
       }
     ]
   },
@@ -1905,6 +1910,11 @@
         "subject": "물리학",
         "unit": "빛과 물질",
         "confidence": "low"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "구글도구",
+        "confidence": "medium"
       }
     ]
   },
@@ -4263,6 +4273,11 @@
         "subject": "물리학",
         "unit": "힘과 에너지",
         "confidence": "high"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "구글도구",
+        "confidence": "high"
       }
     ]
   },
@@ -4600,11 +4615,9 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
-        "confidence": "low"
+        "category": "스마트 수업도구",
+        "topic": "구글도구",
+        "confidence": "high"
       }
     ]
   },

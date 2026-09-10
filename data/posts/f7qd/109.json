@@ -19,13 +19,11 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
+      "category": "스마트 수업도구",
+      "topic": "구글도구",
       "confidence": "high"
     }
   ],
-  "tagsNote": "과학책 한 권 읽기 개인발표 수행평가 설계 공유.",
+  "tagsNote": "과학책 한 권 읽기 개인발표 수행평가 설계 공유. / 학생이 독서 수행평가 발표자료를 구글 슬라이드로 작성.",
   "taggedAt": "2026-08-12T09:58:29.226Z"
 }

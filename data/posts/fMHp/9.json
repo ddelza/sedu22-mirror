@@ -31,8 +31,13 @@
       "subject": "과학",
       "unit": "힘의 작용",
       "confidence": "high"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "구글도구",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "여러 가지 힘 관련 영상과 구글문서 활동지 공유.",
+  "tagsNote": "여러 가지 힘 관련 영상과 구글문서 활동지 공유. / 원격수업용 구글문서 활동지를 학생들에게 제공.",
   "taggedAt": "2026-08-12T15:29:21.750Z"
 }

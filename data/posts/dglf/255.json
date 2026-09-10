@@ -19,13 +19,11 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
-      "confidence": "medium"
+      "category": "스마트 수업도구",
+      "topic": "구글도구",
+      "confidence": "high"
     }
   ],
-  "tagsNote": "생명과학II 독서연계 심화탐구 수행평가 운영 방식 — 특정 소단원 아님.",
+  "tagsNote": "생명과학II 독서연계 심화탐구 수행평가 운영 방식 — 특정 소단원 아님. / 학생이 독서연계 심화탐구 보고서를 구글 문서로 작성하고, 발표자료를 구글 슬라이드로 제작.",
   "taggedAt": "2026-08-12T03:13:59.121Z"
 }

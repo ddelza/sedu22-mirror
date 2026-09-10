@@ -36,8 +36,13 @@
       "category": "스마트 수업도구",
       "topic": "앱/프로그램",
       "confidence": "medium"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "구글도구",
+      "confidence": "high"
     }
   ],
-  "tagsNote": "전기회로 가상실험 사이트(Phet) 온라인수업 활용 공유.",
+  "tagsNote": "전기회로 가상실험 사이트(Phet) 온라인수업 활용 공유. / 학생 개인별 구글 문서를 1:1로 공유해 실험 피드백을 제공.",
   "taggedAt": "2026-08-12T15:07:01.330Z"
 }

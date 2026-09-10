@@ -805,6 +805,11 @@
         "subject": "과학",
         "unit": "빛과 파동",
         "confidence": "medium"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "구글도구",
+        "confidence": "medium"
       }
     ]
   },
@@ -1192,6 +1197,11 @@
         "subject": "과학",
         "unit": "식물과 에너지",
         "confidence": "medium"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "구글도구",
+        "confidence": "low"
       }
     ]
   },

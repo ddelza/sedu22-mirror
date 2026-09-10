@@ -22,8 +22,13 @@
       "category": "스마트 수업도구",
       "topic": "MBL센서",
       "confidence": "high"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "구글도구",
+      "confidence": "high"
     }
   ],
-  "tagsNote": "이지메이커 디지털 센서를 활용한 자유 탐구.",
+  "tagsNote": "이지메이커 디지털 센서를 활용한 자유 탐구. / 학생들이 구글 시트에 그래프를 그려 조별 결과 제출.",
   "taggedAt": "2026-08-12T00:21:28.515Z"
 }

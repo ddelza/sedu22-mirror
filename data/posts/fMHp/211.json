@@ -31,8 +31,13 @@
       "subject": "과학",
       "unit": "빛과 파동",
       "confidence": "high"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "구글도구",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "파동 단원 디딤영상 및 구글문서 활동지 공유.",
+  "tagsNote": "파동 단원 디딤영상 및 구글문서 활동지 공유. / 원격수업용 구글문서 활동지를 학생들에게 제공.",
   "taggedAt": "2026-08-12T14:56:01.127Z"
 }

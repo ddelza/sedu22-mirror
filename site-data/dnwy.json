@@ -858,6 +858,11 @@
         "category": "과학교사 업무",
         "topic": "생활지도",
         "confidence": "medium"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "구글도구",
+        "confidence": "medium"
       }
     ]
   },

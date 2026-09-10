@@ -24,8 +24,13 @@
       "subject": "과학",
       "unit": "에너지 전환과 보존",
       "confidence": "high"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "구글도구",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "전기 에너지 절약 주제 수업 진행 공유.",
+  "tagsNote": "전기 에너지 절약 주제 수업 진행 공유. / 학생용 학습지를 구글 스프레드시트로 제공.",
   "taggedAt": "2026-08-12T15:16:40.814Z"
 }

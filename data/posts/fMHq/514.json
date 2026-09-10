@@ -36,8 +36,13 @@
       "category": "스마트 수업도구",
       "topic": "앱/프로그램",
       "confidence": "medium"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "구글도구",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "WordWall을 활용한 순물질과 혼합물 원격수업 퀴즈 공유.",
+  "tagsNote": "WordWall을 활용한 순물질과 혼합물 원격수업 퀴즈 공유. / 짝토론용 활동지를 구글 문서로 제공.",
   "taggedAt": "2026-08-12T22:18:00.297Z"
 }

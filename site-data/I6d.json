@@ -1504,6 +1504,11 @@
         "subject": "화학",
         "unit": "용액의 농도",
         "confidence": "medium"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "구글도구",
+        "confidence": "high"
       }
     ]
   },

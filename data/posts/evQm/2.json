@@ -19,13 +19,11 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
-      "confidence": "low"
+      "category": "스마트 수업도구",
+      "topic": "구글도구",
+      "confidence": "high"
     }
   ],
-  "tagsNote": "물리학Ⅰ 오리엔테이션(구글클래스룸 운영) — 특정 단원 아님.",
+  "tagsNote": "물리학Ⅰ 오리엔테이션(구글클래스룸 운영) — 특정 단원 아님. / 학생이 첫수업 활동지를 구글 문서로 작성하고 교사가 댓글로 피드백.",
   "taggedAt": "2026-08-12T03:35:30.430Z"
 }

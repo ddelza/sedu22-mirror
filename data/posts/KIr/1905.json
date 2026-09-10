@@ -27,8 +27,13 @@
       "category": "스마트 수업도구",
       "topic": "생성형 AI 도구",
       "confidence": "medium"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "구글도구",
+      "confidence": "low"
     }
   ],
-  "tagsNote": "구글 스프레드시트·ChatGPT 활용 우주단원 수업사례 연수 홍보.",
+  "tagsNote": "구글 스프레드시트·ChatGPT 활용 우주단원 수업사례 연수 홍보. / 구글 스프레드시트와 ChatGPT를 활용한 학습자 주도 전시장 수업 사례 소개.",
   "taggedAt": "2026-08-17T04:43:41.512Z"
 }

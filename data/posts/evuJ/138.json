@@ -22,8 +22,13 @@
       "category": "스마트 수업도구",
       "topic": "앱/프로그램",
       "confidence": "medium"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "구글도구",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "구글문서 공동작업 채팅창 오류 문의.",
+  "tagsNote": "구글문서 공동작업 채팅창 오류 문의. / 구글 문서/프레젠테이션 공유로 모둠 수업활동을 진행하는 과정에서의 질문.",
   "taggedAt": "2026-08-12T03:48:50.846Z"
 }

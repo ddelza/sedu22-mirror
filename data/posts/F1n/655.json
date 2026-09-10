@@ -19,13 +19,11 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
+      "category": "스마트 수업도구",
+      "topic": "구글도구",
       "confidence": "high"
     }
   ],
-  "tagsNote": "EBSi 기출문제를 활용한 학생 주도 문제풀이 도전활동 소개.",
+  "tagsNote": "EBSi 기출문제를 활용한 학생 주도 문제풀이 도전활동 소개. / 학생들이 조사한 문제/해설을 구글 슬라이드에 올려 전문가 학습·수행평가에 공유 활용(Jigsaw 전략).",
   "taggedAt": "2026-08-12T08:51:15.962Z"
 }

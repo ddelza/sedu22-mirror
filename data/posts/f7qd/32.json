@@ -19,13 +19,11 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
-      "confidence": "medium"
+      "category": "스마트 수업도구",
+      "topic": "구글도구",
+      "confidence": "high"
     }
   ],
-  "tagsNote": "중3 과학 교과수업 내 1학기 독서수업+평가+대회 연계 사례 공유.",
+  "tagsNote": "중3 과학 교과수업 내 1학기 독서수업+평가+대회 연계 사례 공유. / 학생이 독서수업 챕터 발표자료를 구글 슬라이드로 제작.",
   "taggedAt": "2026-08-12T10:25:08.363Z"
 }

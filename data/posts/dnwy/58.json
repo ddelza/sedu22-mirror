@@ -22,8 +22,13 @@
       "category": "과학교사 업무",
       "topic": "생활지도",
       "confidence": "medium"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "구글도구",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "구글 슬라이드 공동작업 중 장난 대응 고민.",
+  "tagsNote": "구글 슬라이드 공동작업 중 장난 대응 고민. / 학생들이 구글 슬라이드로 공동 작업하는 수업에서 발생하는 생활지도 사례.",
   "taggedAt": "2026-08-25T13:04:30.220Z"
 }

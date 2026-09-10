@@ -19,13 +19,11 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
-      "confidence": "low"
+      "category": "스마트 수업도구",
+      "topic": "구글도구",
+      "confidence": "high"
     }
   ],
-  "tagsNote": "가설 생성부터 탐구계획서 작성까지 다루는 1단원 수행평가 자료 공유(특정 지구과학 단원 아님).",
+  "tagsNote": "가설 생성부터 탐구계획서 작성까지 다루는 1단원 수행평가 자료 공유(특정 지구과학 단원 아님). / 학생이 탐구 가설·계획서 활동지를 구글 문서 사본으로 작성.",
   "taggedAt": "2026-08-13T12:47:52.446Z"
 }
