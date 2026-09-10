@@ -3,12 +3,12 @@
     {
       "fldid": "424t",
       "board": "과학행사&과학실 Idea",
-      "count": 354
+      "count": 355
     },
     {
       "fldid": "4BPw",
       "board": "학급 운영",
-      "count": 150
+      "count": 151
     },
     {
       "fldid": "5FKz",
@@ -18,17 +18,17 @@
     {
       "fldid": "AM6",
       "board": "수석교사의 방(2023~)",
-      "count": 342
+      "count": 343
     },
     {
       "fldid": "cTdL",
       "board": "고1과학&탐구실험",
-      "count": 370
+      "count": 375
     },
     {
       "fldid": "dglf",
       "board": "(고교)생명과학수업 이야기",
-      "count": 219
+      "count": 223
     },
     {
       "fldid": "dnwy",
@@ -63,7 +63,7 @@
     {
       "fldid": "evQn",
       "board": "(고교)화학수업 이야기",
-      "count": 127
+      "count": 128
     },
     {
       "fldid": "evQo",
@@ -73,12 +73,12 @@
     {
       "fldid": "evuJ",
       "board": "AI도구 활용하기",
-      "count": 370
+      "count": 378
     },
     {
       "fldid": "eXoO",
       "board": "연구하는 교사 (Teacher as Researcher)",
-      "count": 104
+      "count": 109
     },
     {
       "fldid": "eyXe",
@@ -88,17 +88,17 @@
     {
       "fldid": "eyYq",
       "board": "과학쌤의 짤주머니",
-      "count": 226
+      "count": 227
     },
     {
       "fldid": "f02N",
       "board": "옹알이(익명게시판)",
-      "count": 704
+      "count": 707
     },
     {
       "fldid": "F1n",
       "board": "수업 Ideas",
-      "count": 709
+      "count": 725
     },
     {
       "fldid": "f4GZ",
@@ -113,12 +113,12 @@
     {
       "fldid": "f7Cv",
       "board": "재과만 talk talk 행사 안내",
-      "count": 51
+      "count": 52
     },
     {
       "fldid": "f7qd",
       "board": "독서연계 과학수업",
-      "count": 109
+      "count": 110
     },
     {
       "fldid": "f9eS",
@@ -143,7 +143,7 @@
     {
       "fldid": "fBlf",
       "board": "재과만 talk 영상(1회~100회)",
-      "count": 39
+      "count": 41
     },
     {
       "fldid": "fBlk",
@@ -158,12 +158,12 @@
     {
       "fldid": "fEBm",
       "board": "과학(부장) 업무 도움방",
-      "count": 85
+      "count": 87
     },
     {
       "fldid": "fEZu",
       "board": "(월간) 재과만 이야기",
-      "count": 27
+      "count": 29
     },
     {
       "fldid": "fF5f",
@@ -183,7 +183,7 @@
     {
       "fldid": "fL3F",
       "board": "물리학 이야기(이승윤)",
-      "count": 36
+      "count": 37
     },
     {
       "fldid": "fL6Q",
@@ -193,42 +193,42 @@
     {
       "fldid": "fMHp",
       "board": "중학교 물리수업 이야기",
-      "count": 1487
+      "count": 1507
     },
     {
       "fldid": "fMHq",
       "board": "중학교 화학수업 이야기",
-      "count": 1292
+      "count": 1300
     },
     {
       "fldid": "fMHu",
       "board": "중학교 생물수업 이야기",
-      "count": 1394
+      "count": 1414
     },
     {
       "fldid": "fMHv",
       "board": "중학교 지구과학수업 이야기",
-      "count": 1586
+      "count": 1597
     },
     {
       "fldid": "fMHw",
       "board": "중학교 환경&기술&재해안전&기타",
-      "count": 509
+      "count": 510
     },
     {
       "fldid": "fNui",
       "board": "(질문하는 십대를 위한 과학탐구) 공유방",
-      "count": 18
+      "count": 19
     },
     {
       "fldid": "fNz5",
       "board": "센서로 하는 과학실험(최효석)",
-      "count": 50
+      "count": 55
     },
     {
       "fldid": "fOh3",
       "board": "수업 촉매노트(김지희)",
-      "count": 6
+      "count": 8
     },
     {
       "fldid": "I6d",
@@ -243,7 +243,7 @@
     {
       "fldid": "IWN",
       "board": "좋은 글 & 책",
-      "count": 178
+      "count": 180
     },
     {
       "fldid": "IYj",
@@ -253,7 +253,7 @@
     {
       "fldid": "KIr",
       "board": "자유공간",
-      "count": 1431
+      "count": 1438
     },
     {
       "fldid": "YNeK",
@@ -1376,5 +1376,5 @@
       }
     }
   },
-  "generatedAt": "2026-08-31T04:13:07.850Z"
+  "generatedAt": "2026-09-10T03:13:31.861Z"
 }
