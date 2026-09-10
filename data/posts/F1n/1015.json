@@ -1,0 +1,15 @@
+{
+  "dataid": "1015",
+  "fldid": "F1n",
+  "boardName": "수업 Ideas",
+  "title": "3D 모델링도 이제 AI가 해줍니다. VR 콘텐츠 자체 생산 시대도?",
+  "author": "조웅희(정현고)",
+  "userid": "feKQ",
+  "created": "26.09.09",
+  "viewCnt": 36,
+  "commentCnt": 2,
+  "headCont": "",
+  "contentval": "000GNzzzzzzzzzzzzzzzzzzzzzzzzz",
+  "permlink": "https://cafe.daum.net/sedu22/F1n/1015",
+  "contentHtml": "<p>GPT-6 Astra가 이전 버전보다 크게 발전한 부분이 비전 인식과 에이전틱 작업 능력이라고 합니다.</p><p>&#160;</p><p>그리고 그 덕분에 3D 모델링 능력이 엄청나게 향상되었다고 하네요.</p><p>&#160;</p><p>테스트 해 봤는데 정말로 기대 이상입니다.</p><p>&#160;</p><p><b>앞으로 선생님들이 원하는 교육 자료를 얼마든지 3d 공간에서 만드는 것이 가능해질 것</b> 같습니다.</p><p>&#160;</p><p>&#160;</p><p>&#160;</p><p>제가 마이크로비트 센서 실험을 하면서 학생들에게 센서 연결 방법을 설명하기 위해 만든 3d 웹앱입니다.</p><p>다른 도구 없이 GPT 웹 채팅창에서(아스트라를 쓰기 위해 work 모드 사용)만 바로 만들어낸 페이지입니다.</p><p>&#160;</p><p><a href=\"https://cho-wh.github.io/bme280/bmp280-wiring/\" target=\"_blank\" class=\"ke-link\">https://cho-wh.github.io/bme280/bmp280-wiring/</a></p><div class=\"figure-open\" contenteditable=\"false\" data-ke-type=\"opengraph\" data-ke-align=\"alignCenter\" data-og-type=\"website\" data-og-title=\"BMP280 센서 연결하기 · 3D 관찰\" data-og-description=\"USB 연결 단자 전지 연결 단자 3D 모델을 준비하고 있습니다… 왼쪽 소켓에 연결한 모습드래그로 회전 · 휠로 확대·축소 · 선을 눌러 역할 확인 +&#8722;\" data-og-host=\"cho-wh.github.io\" data-og-source-url=\"https://cho-wh.github.io/bme280/bmp280-wiring/\" data-og-url=\"https://cho-wh.github.io/bme280/bmp280-wiring/\" data-og-image=\"//img1.kakaocdn.net/thumb/C200x200/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fcafe_image%2Fcafe_meta_image_190529.png\"><a href=\"https://cho-wh.github.io/bme280/bmp280-wiring/\" target=\"_blank\" data-source-url=\"https://cho-wh.github.io/bme280/bmp280-wiring/\"><div class=\"og-image\"><img class=\"thumb_img\" src=\"//img1.kakaocdn.net/thumb/C200x200/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fcafe_image%2Fcafe_meta_image_190529.png\" alt=\"\" xxonerror=\"this.src=&quot;//img1.kakaocdn.net/thumb/C200x200/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fcafe_image%2Fcafe_meta_image_190529.png&quot;\"></div><div class=\"og-text\"><p class=\"og-title\">BMP280 센서 연결하기 · 3D 관찰</p><p class=\"og-desc\">USB 연결 단자 전지 연결 단자 3D 모델을 준비하고 있습니다… 왼쪽 소켓에 연결한 모습드래그로 회전 · 휠로 확대·축소 · 선을 눌러 역할 확인 +&#8722;</p><p class=\"og-host\">cho-wh.github.io</p></div></a></div><p>모델링은 두번만에 완성되었고(인터넷에서 마이크로비트와 확장보드 정보 찾아서 만들어라 지시한게 전부),</p><p>버그 수정과 모바일 최적화를 위해 2-3번 정도 더 지시한 것 같습니다.</p><p>&#160;</p><p>&#160;</p><p>생명과학이나 지구과학 자료가 3d로 쉽게 쉽게 만들어지는 것을 상상해보세요.</p><p>또 거기에 그 3d 모델링 자료를 간단히 웹용 VR 콘텐츠로 만들 수 있다면?(VR용 웹 표준 기술은 준비되어 있습니다.)</p><p>&#160;</p><p>&#160;</p><p>&#160;</p><p>&#160;</p><p>제가 수업 시간에 학생들에게 종종 한탄하면서 농담조로 말하는 것이 있는데요</p><p>&#160;</p><p>&#39;너희가 너무 일찍 태어나서 이런 칠판에 2D로 설명을 듣느라 별것 아닌 내용을 참 어렵게 공부하고 있다. 조금만 늦게 태어났으면 3D 안경 쓰고 쉽게 쉽게 배웠을 텐데 ㅎㅎ&#39;</p><p>&#160;</p><p>저는 이 말이 실현되는게 한참 뒤라고 생각했습니다.</p><p>&#160;</p><p>근데 생각보다 멀지 않을지도 모른다는 생각이 드네요.</p>\n\t \t\t\t\t\t<!-- -->"
+}
