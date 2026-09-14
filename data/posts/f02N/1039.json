@@ -18,6 +18,11 @@
       "subject": null,
       "unit": "미분류",
       "confidence": "high"
+    },
+    {
+      "category": "게시판별 분류",
+      "topic": "옹알이(익명게시판)",
+      "confidence": "high"
     }
   ],
   "tagsNote": "동료 교사 명퇴 소식에 대한 개인적 소회.",

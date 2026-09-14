@@ -19,6 +19,11 @@
       "subject": null,
       "unit": "미분류",
       "confidence": "high"
+    },
+    {
+      "category": "게시판별 분류",
+      "topic": "자유공간",
+      "confidence": "high"
     }
   ],
   "tagsNote": "기간제 교사 구인 공고.",

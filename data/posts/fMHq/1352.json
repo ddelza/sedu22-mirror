@@ -26,6 +26,11 @@
       "subject": "과학",
       "unit": "물질의 구성",
       "confidence": "high"
+    },
+    {
+      "category": "게시판별 분류",
+      "topic": "중학교 화학수업 이야기",
+      "confidence": "high"
     }
   ],
   "tagsNote": "원소기호·화학식 학습 게임(2022 개정 41종 원소).",

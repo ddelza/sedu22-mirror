@@ -17,6 +17,11 @@
       "category": "스마트 수업도구",
       "topic": "앱/프로그램",
       "confidence": "medium"
+    },
+    {
+      "category": "게시판별 분류",
+      "topic": "수업 Ideas",
+      "confidence": "high"
     }
   ],
   "tagsNote": "가상 실험실 웹앱(범용, 특정 단원 한정 아님).",

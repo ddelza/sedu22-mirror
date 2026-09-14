@@ -19,6 +19,11 @@
       "subject": null,
       "unit": "미분류",
       "confidence": "high"
+    },
+    {
+      "category": "게시판별 분류",
+      "topic": "중학교 생물수업 이야기",
+      "confidence": "high"
     }
   ],
   "tagsNote": "'종속 과목 강문계' 드립 관련 유머글, 실제 수업 내용 아님.",

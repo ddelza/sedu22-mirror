@@ -26,6 +26,11 @@
       "subject": "화학Ⅰ",
       "unit": "화학의 첫걸음",
       "confidence": "medium"
+    },
+    {
+      "category": "게시판별 분류",
+      "topic": "(고교)화학수업 이야기",
+      "confidence": "high"
     }
   ],
   "tagsNote": "이상기체방정식으로 몰질량 구하는 실험 오차 고찰.",

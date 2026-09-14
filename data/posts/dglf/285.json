@@ -19,6 +19,11 @@
       "subject": "생명과학Ⅰ",
       "unit": "항상성과 몸의 조절",
       "confidence": "low"
+    },
+    {
+      "category": "게시판별 분류",
+      "topic": "(고교)생명과학수업 이야기",
+      "confidence": "high"
     }
   ],
   "tagsNote": "근수축 시뮬레이터(고3 대상, 생명과학Ⅱ 소재로 보이나 unit-index에 해당 과목 없어 근사 태그).",

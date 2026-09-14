@@ -16,6 +16,11 @@
         "subject": null,
         "unit": "미분류",
         "confidence": "high"
+      },
+      {
+        "category": "게시판별 분류",
+        "topic": "옹알이(익명게시판)",
+        "confidence": "high"
       }
     ]
   },
@@ -36,6 +41,11 @@
         "subject": null,
         "unit": "미분류",
         "confidence": "high"
+      },
+      {
+        "category": "게시판별 분류",
+        "topic": "옹알이(익명게시판)",
+        "confidence": "high"
       }
     ]
   },
@@ -55,6 +65,11 @@
         "schoolLevel": null,
         "subject": null,
         "unit": "미분류",
+        "confidence": "high"
+      },
+      {
+        "category": "게시판별 분류",
+        "topic": "옹알이(익명게시판)",
         "confidence": "high"
       }
     ]

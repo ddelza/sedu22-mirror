@@ -19,6 +19,11 @@
       "subject": "전자기와 양자",
       "unit": "양자와 미시세계",
       "confidence": "low"
+    },
+    {
+      "category": "게시판별 분류",
+      "topic": "과학쌤의 짤주머니",
+      "confidence": "high"
     }
   ],
   "tagsNote": "흑체복사 개념을 다룬 짤/밈 게시물.",

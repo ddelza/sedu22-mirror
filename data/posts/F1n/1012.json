@@ -26,6 +26,11 @@
       "subject": "과학",
       "unit": "기체의 성질",
       "confidence": "medium"
+    },
+    {
+      "category": "게시판별 분류",
+      "topic": "수업 Ideas",
+      "confidence": "high"
     }
   ],
   "tagsNote": "비타민 발포정 폭발 실험, 2022 개정 1학년 기체의 압력 단원 명시.",

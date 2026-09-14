@@ -26,6 +26,11 @@
       "subject": "과학",
       "unit": "동물과 에너지",
       "confidence": "high"
+    },
+    {
+      "category": "게시판별 분류",
+      "topic": "중학교 생물수업 이야기",
+      "confidence": "high"
     }
   ],
   "tagsNote": "침의 소화작용 실험(스포이드·면봉 이용).",

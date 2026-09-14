@@ -17,6 +17,11 @@
       "category": "재과만 소식",
       "topic": "카페 운영 공지",
       "confidence": "medium"
+    },
+    {
+      "category": "게시판별 분류",
+      "topic": "재과만 talk 영상(1회~100회)",
+      "confidence": "high"
     }
   ],
   "tagsNote": "재과만 톡톡 44회 영상 및 채팅 기록 공유.",

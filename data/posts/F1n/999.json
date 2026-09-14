@@ -17,6 +17,11 @@
       "category": "스마트 수업도구",
       "topic": "생성형 AI 도구",
       "confidence": "medium"
+    },
+    {
+      "category": "게시판별 분류",
+      "topic": "수업 Ideas",
+      "confidence": "high"
     }
   ],
   "tagsNote": "AI로 제작한 가짜뉴스 판별 게임(학기초/말 활용).",

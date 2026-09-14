@@ -26,6 +26,11 @@
       "subject": "과학",
       "unit": "물질의 구성",
       "confidence": "medium"
+    },
+    {
+      "category": "게시판별 분류",
+      "topic": "중학교 화학수업 이야기",
+      "confidence": "high"
     }
   ],
   "tagsNote": "OHP필름·스티커로 공유결합 시각화(2022 주기율표 도입 반영).",

@@ -15,6 +15,11 @@
         "category": "과학교사 업무",
         "topic": "학급운영",
         "confidence": "high"
+      },
+      {
+        "category": "게시판별 분류",
+        "topic": "학급 운영",
+        "confidence": "high"
       }
     ]
   },

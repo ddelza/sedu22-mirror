@@ -24,6 +24,11 @@
         "subject": "통합과학",
         "unit": "역학적 시스템",
         "confidence": "medium"
+      },
+      {
+        "category": "게시판별 분류",
+        "topic": "고1과학&탐구실험",
+        "confidence": "high"
       }
     ]
   },
@@ -52,6 +57,11 @@
         "subject": "통합과학",
         "unit": "생태계와 환경",
         "confidence": "medium"
+      },
+      {
+        "category": "게시판별 분류",
+        "topic": "고1과학&탐구실험",
+        "confidence": "high"
       }
     ]
   },
@@ -80,6 +90,11 @@
         "subject": "통합과학",
         "unit": "발전과 신재생 에너지",
         "confidence": "medium"
+      },
+      {
+        "category": "게시판별 분류",
+        "topic": "고1과학&탐구실험",
+        "confidence": "high"
       }
     ]
   },
@@ -108,6 +123,11 @@
         "subject": "통합과학",
         "unit": "발전과 신재생 에너지",
         "confidence": "medium"
+      },
+      {
+        "category": "게시판별 분류",
+        "topic": "고1과학&탐구실험",
+        "confidence": "high"
       }
     ]
   },
@@ -136,6 +156,11 @@
         "subject": "통합과학1",
         "unit": "물질과 규칙성",
         "confidence": "medium"
+      },
+      {
+        "category": "게시판별 분류",
+        "topic": "고1과학&탐구실험",
+        "confidence": "high"
       }
     ]
   },

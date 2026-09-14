@@ -17,6 +17,11 @@
       "category": "재과만 소식",
       "topic": "카페 운영 공지",
       "confidence": "medium"
+    },
+    {
+      "category": "게시판별 분류",
+      "topic": "(월간) 재과만 이야기",
+      "confidence": "high"
     }
   ],
   "tagsNote": "나의 선생님께 편지 이벤트 후속 안내.",

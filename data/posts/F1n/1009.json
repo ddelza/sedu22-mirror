@@ -26,6 +26,11 @@
       "subject": "과학",
       "unit": "식물과 에너지",
       "confidence": "high"
+    },
+    {
+      "category": "게시판별 분류",
+      "topic": "수업 Ideas",
+      "confidence": "high"
     }
   ],
   "tagsNote": "중2 식물과 에너지(광합성/호흡) 연계 과학 생존게임.",

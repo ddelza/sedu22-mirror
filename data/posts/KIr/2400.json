@@ -17,6 +17,11 @@
       "category": "스마트 수업도구",
       "topic": "앱/프로그램",
       "confidence": "medium"
+    },
+    {
+      "category": "게시판별 분류",
+      "topic": "자유공간",
+      "confidence": "high"
     }
   ],
   "tagsNote": "에듀테크 정보 플랫폼(에듀집) 사용 후기.",

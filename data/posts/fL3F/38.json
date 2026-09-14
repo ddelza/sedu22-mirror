@@ -19,6 +19,11 @@
       "subject": "전자기와 양자",
       "unit": "양자와 미시세계",
       "confidence": "medium"
+    },
+    {
+      "category": "게시판별 분류",
+      "topic": "물리학 이야기(이승윤)",
+      "confidence": "high"
     }
   ],
   "tagsNote": "불확정성원리 등을 다루는 양자역학 대중서 추천.",

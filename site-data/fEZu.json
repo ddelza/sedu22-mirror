@@ -15,6 +15,11 @@
         "category": "재과만 소식",
         "topic": "카페 운영 공지",
         "confidence": "medium"
+      },
+      {
+        "category": "게시판별 분류",
+        "topic": "(월간) 재과만 이야기",
+        "confidence": "high"
       }
     ]
   },
@@ -33,6 +38,11 @@
       {
         "category": "재과만 소식",
         "topic": "카페 운영 공지",
+        "confidence": "high"
+      },
+      {
+        "category": "게시판별 분류",
+        "topic": "(월간) 재과만 이야기",
         "confidence": "high"
       }
     ]

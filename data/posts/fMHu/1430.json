@@ -31,6 +31,11 @@
       "category": "스마트 수업도구",
       "topic": "생성형 AI 도구",
       "confidence": "medium"
+    },
+    {
+      "category": "게시판별 분류",
+      "topic": "중학교 생물수업 이야기",
+      "confidence": "high"
     }
   ],
   "tagsNote": "감각기관 수업, Gemini로 개념기반 지도안·문항 생성.",

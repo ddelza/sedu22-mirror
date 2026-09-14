@@ -26,6 +26,11 @@
       "subject": "통합과학",
       "unit": "발전과 신재생 에너지",
       "confidence": "medium"
+    },
+    {
+      "category": "게시판별 분류",
+      "topic": "고1과학&탐구실험",
+      "confidence": "high"
     }
   ],
   "tagsNote": "위 글에 대한 후속 질문(동일 주제).",

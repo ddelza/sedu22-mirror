@@ -18,6 +18,11 @@
       "subject": null,
       "unit": "미분류",
       "confidence": "high"
+    },
+    {
+      "category": "게시판별 분류",
+      "topic": "옹알이(익명게시판)",
+      "confidence": "high"
     }
   ],
   "tagsNote": "학년부장 업무 범위 관련 익명 고민글, 정의된 topic 아님.",

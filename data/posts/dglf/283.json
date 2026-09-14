@@ -26,6 +26,11 @@
       "subject": "생물의 유전",
       "unit": "유전자와 유전물질",
       "confidence": "low"
+    },
+    {
+      "category": "게시판별 분류",
+      "topic": "(고교)생명과학수업 이야기",
+      "confidence": "high"
     }
   ],
   "tagsNote": "가계도 생성 프로그램, 유전 양식 분석 도구.",

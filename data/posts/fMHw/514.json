@@ -22,6 +22,11 @@
       "category": "과학교사 업무",
       "topic": "동아리 운영",
       "confidence": "medium"
+    },
+    {
+      "category": "게시판별 분류",
+      "topic": "중학교 환경&기술&재해안전&기타",
+      "confidence": "high"
     }
   ],
   "tagsNote": "무선보드+미세먼지센서로 등농선 지도 제작, 동아리 활동.",

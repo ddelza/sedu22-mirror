@@ -17,6 +17,11 @@
       "category": "스마트 수업도구",
       "topic": "앱/프로그램",
       "confidence": "high"
+    },
+    {
+      "category": "게시판별 분류",
+      "topic": "수업 촉매노트(김지희)",
+      "confidence": "high"
     }
   ],
   "tagsNote": "플리커스 도구로 수업 복습 활용 후기.",

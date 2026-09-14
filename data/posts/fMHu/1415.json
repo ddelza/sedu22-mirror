@@ -26,6 +26,11 @@
       "subject": "과학",
       "unit": "생물의 구성과 다양성",
       "confidence": "high"
+    },
+    {
+      "category": "게시판별 분류",
+      "topic": "중학교 생물수업 이야기",
+      "confidence": "high"
     }
   ],
   "tagsNote": "생물분류 순서도 만들기(천재 교과서 활용).",

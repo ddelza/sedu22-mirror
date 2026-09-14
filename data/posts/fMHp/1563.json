@@ -26,6 +26,11 @@
       "subject": "과학",
       "unit": "열",
       "confidence": "high"
+    },
+    {
+      "category": "게시판별 분류",
+      "topic": "중학교 물리수업 이야기",
+      "confidence": "high"
     }
   ],
   "tagsNote": "세 막대 열전도도 비교(열화상카메라, 입자모형).",

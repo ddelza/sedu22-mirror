@@ -26,6 +26,11 @@
       "subject": "과학",
       "unit": "동물과 에너지",
       "confidence": "high"
+    },
+    {
+      "category": "게시판별 분류",
+      "topic": "중학교 생물수업 이야기",
+      "confidence": "high"
     }
   ],
   "tagsNote": "중2 6.동물과 에너지 가상실험(영양소검출/침의소화작용) 활동지.",

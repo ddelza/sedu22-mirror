@@ -17,6 +17,11 @@
       "category": "과학교사 업무",
       "topic": "과학실 관리",
       "confidence": "medium"
+    },
+    {
+      "category": "게시판별 분류",
+      "topic": "과학(부장) 업무 도움방",
+      "confidence": "high"
     }
   ],
   "tagsNote": "과학 업무 담당자 부재 및 지능형 과학실 예산 집행 고충.",

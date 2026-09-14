@@ -17,6 +17,11 @@
       "category": "스마트 수업도구",
       "topic": "앱/프로그램",
       "confidence": "high"
+    },
+    {
+      "category": "게시판별 분류",
+      "topic": "AI도구 활용하기",
+      "confidence": "high"
     }
   ],
   "tagsNote": "구글 앱스크립트 기반 무료 담벼락 보드 웹앱.",

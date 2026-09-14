@@ -19,6 +19,11 @@
       "subject": null,
       "unit": "미분류",
       "confidence": "high"
+    },
+    {
+      "category": "게시판별 분류",
+      "topic": "연구하는 교사 (Teacher as Researcher)",
+      "confidence": "high"
     }
   ],
   "tagsNote": "대학원 설문조사 협조 요청글, 정의된 업무 topic 아님.",

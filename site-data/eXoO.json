@@ -15,6 +15,11 @@
         "category": "과학교사 업무",
         "topic": "교원연수",
         "confidence": "medium"
+      },
+      {
+        "category": "게시판별 분류",
+        "topic": "연구하는 교사 (Teacher as Researcher)",
+        "confidence": "high"
       }
     ]
   },
@@ -36,6 +41,11 @@
         "subject": null,
         "unit": "미분류",
         "confidence": "high"
+      },
+      {
+        "category": "게시판별 분류",
+        "topic": "연구하는 교사 (Teacher as Researcher)",
+        "confidence": "high"
       }
     ]
   },
@@ -55,6 +65,11 @@
         "category": "과학교사 업무",
         "topic": "교원연수",
         "confidence": "high"
+      },
+      {
+        "category": "게시판별 분류",
+        "topic": "연구하는 교사 (Teacher as Researcher)",
+        "confidence": "high"
       }
     ]
   },
@@ -73,6 +88,11 @@
       {
         "category": "과학교사 업무",
         "topic": "교원연수",
+        "confidence": "high"
+      },
+      {
+        "category": "게시판별 분류",
+        "topic": "연구하는 교사 (Teacher as Researcher)",
         "confidence": "high"
       }
     ]
@@ -98,6 +118,11 @@
         "category": "스마트 수업도구",
         "topic": "생성형 AI 도구",
         "confidence": "medium"
+      },
+      {
+        "category": "게시판별 분류",
+        "topic": "연구하는 교사 (Teacher as Researcher)",
+        "confidence": "high"
       }
     ]
   },

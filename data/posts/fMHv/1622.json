@@ -26,6 +26,11 @@
       "subject": "과학",
       "unit": "별과 우주",
       "confidence": "medium"
+    },
+    {
+      "category": "게시판별 분류",
+      "topic": "중학교 지구과학수업 이야기",
+      "confidence": "high"
     }
   ],
   "tagsNote": "우주 탐사 계획 세우기(2022 개정 신설 활동).",

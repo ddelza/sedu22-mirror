@@ -26,6 +26,11 @@
       "subject": "과학",
       "unit": "기체의 성질",
       "confidence": "high"
+    },
+    {
+      "category": "게시판별 분류",
+      "topic": "중학교 화학수업 이야기",
+      "confidence": "high"
     }
   ],
   "tagsNote": "Ⅵ. 기체의 성질 학습지 4차시(가상실험 포함).",

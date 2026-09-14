@@ -17,6 +17,11 @@
       "category": "스마트 수업도구",
       "topic": "생성형 AI 도구",
       "confidence": "medium"
+    },
+    {
+      "category": "게시판별 분류",
+      "topic": "AI도구 활용하기",
+      "confidence": "high"
     }
   ],
   "tagsNote": "제미나이API/구글클라우드API/앱스크립트API 비교 설명글.",

@@ -26,6 +26,11 @@
       "subject": "과학",
       "unit": "별과 우주",
       "confidence": "high"
+    },
+    {
+      "category": "게시판별 분류",
+      "topic": "중학교 지구과학수업 이야기",
+      "confidence": "high"
     }
   ],
   "tagsNote": "8단원 별과 우주 수행평가2(우주탐사 계획 프로젝트형).",

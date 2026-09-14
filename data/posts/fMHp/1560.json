@@ -26,6 +26,11 @@
       "subject": "과학",
       "unit": "운동과 에너지",
       "confidence": "high"
+    },
+    {
+      "category": "게시판별 분류",
+      "topic": "중학교 물리수업 이야기",
+      "confidence": "high"
     }
   ],
   "tagsNote": "에너지전환과보존 리듬게임 챌린지.",

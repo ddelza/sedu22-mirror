@@ -17,6 +17,11 @@
       "category": "스마트 수업도구",
       "topic": "생성형 AI 도구",
       "confidence": "high"
+    },
+    {
+      "category": "게시판별 분류",
+      "topic": "AI도구 활용하기",
+      "confidence": "high"
     }
   ],
   "tagsNote": "로컬 LLM 내장 무료 배포용 웹앱(공문/루브릭 도구 개선판).",

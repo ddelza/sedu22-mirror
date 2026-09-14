@@ -26,6 +26,11 @@
       "subject": "과학",
       "unit": "열",
       "confidence": "high"
+    },
+    {
+      "category": "게시판별 분류",
+      "topic": "중학교 물리수업 이야기",
+      "confidence": "high"
     }
   ],
   "tagsNote": "열의 전도(금속 4종) 4배속 영상, 제목만 있고 본문 없음.",

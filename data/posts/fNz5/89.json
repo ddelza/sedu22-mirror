@@ -17,6 +17,11 @@
       "category": "스마트 수업도구",
       "topic": "MBL센서",
       "confidence": "high"
+    },
+    {
+      "category": "게시판별 분류",
+      "topic": "센서로 하는 과학실험(최효석)",
+      "confidence": "high"
     }
   ],
   "tagsNote": "MBL센서 구매 가이드 사이트 소개.",

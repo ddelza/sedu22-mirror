@@ -20,6 +20,11 @@
         "category": "과학교사 업무",
         "topic": "동아리 운영",
         "confidence": "medium"
+      },
+      {
+        "category": "게시판별 분류",
+        "topic": "중학교 환경&기술&재해안전&기타",
+        "confidence": "high"
       }
     ]
   },

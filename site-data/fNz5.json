@@ -15,6 +15,11 @@
         "category": "스마트 수업도구",
         "topic": "앱/프로그램",
         "confidence": "medium"
+      },
+      {
+        "category": "게시판별 분류",
+        "topic": "센서로 하는 과학실험(최효석)",
+        "confidence": "high"
       }
     ]
   },
@@ -33,6 +38,11 @@
       {
         "category": "스마트 수업도구",
         "topic": "MBL센서",
+        "confidence": "high"
+      },
+      {
+        "category": "게시판별 분류",
+        "topic": "센서로 하는 과학실험(최효석)",
         "confidence": "high"
       }
     ]
@@ -57,6 +67,11 @@
       {
         "category": "스마트 수업도구",
         "topic": "아두이노",
+        "confidence": "high"
+      },
+      {
+        "category": "게시판별 분류",
+        "topic": "센서로 하는 과학실험(최효석)",
         "confidence": "high"
       }
     ]
@@ -90,6 +105,11 @@
         "schoolLevel": "중학교",
         "subject": "과학",
         "unit": "기체의 성질",
+        "confidence": "high"
+      },
+      {
+        "category": "게시판별 분류",
+        "topic": "센서로 하는 과학실험(최효석)",
         "confidence": "high"
       }
     ]
@@ -129,6 +149,11 @@
         "category": "스마트 수업도구",
         "topic": "구글도구",
         "confidence": "medium"
+      },
+      {
+        "category": "게시판별 분류",
+        "topic": "센서로 하는 과학실험(최효석)",
+        "confidence": "high"
       }
     ]
   },

@@ -22,6 +22,11 @@
       "category": "스마트 수업도구",
       "topic": "생성형 AI 도구",
       "confidence": "medium"
+    },
+    {
+      "category": "게시판별 분류",
+      "topic": "연구하는 교사 (Teacher as Researcher)",
+      "confidence": "high"
     }
   ],
   "tagsNote": "전북교육청 AI 활용 화학실험 연수 참석 후기.",

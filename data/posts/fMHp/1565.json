@@ -31,6 +31,11 @@
       "subject": "과학",
       "unit": "힘의 작용",
       "confidence": "medium"
+    },
+    {
+      "category": "게시판별 분류",
+      "topic": "중학교 물리수업 이야기",
+      "confidence": "high"
     }
   ],
   "tagsNote": "버니어 힘센서 활용 탄성력 측정 실험 후기.",

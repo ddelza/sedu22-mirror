@@ -17,6 +17,11 @@
       "category": "과학교사 업무",
       "topic": "과학실 관리",
       "confidence": "high"
+    },
+    {
+      "category": "게시판별 분류",
+      "topic": "과학(부장) 업무 도움방",
+      "confidence": "high"
     }
   ],
   "tagsNote": "종합감사 대비 과학실 약품대장 관리 문의.",

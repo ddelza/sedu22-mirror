@@ -15,6 +15,11 @@
         "category": "스마트 수업도구",
         "topic": "생성형 AI 도구",
         "confidence": "medium"
+      },
+      {
+        "category": "게시판별 분류",
+        "topic": "수업 Ideas",
+        "confidence": "high"
       }
     ]
   },
@@ -57,6 +62,11 @@
         "subject": "과학",
         "unit": "기체의 성질",
         "confidence": "medium"
+      },
+      {
+        "category": "게시판별 분류",
+        "topic": "수업 Ideas",
+        "confidence": "high"
       }
     ]
   },
@@ -85,6 +95,11 @@
         "subject": "과학",
         "unit": "기체의 성질",
         "confidence": "medium"
+      },
+      {
+        "category": "게시판별 분류",
+        "topic": "수업 Ideas",
+        "confidence": "high"
       }
     ]
   },
@@ -104,6 +119,11 @@
         "category": "스마트 수업도구",
         "topic": "앱/프로그램",
         "confidence": "low"
+      },
+      {
+        "category": "게시판별 분류",
+        "topic": "수업 Ideas",
+        "confidence": "high"
       }
     ]
   },
@@ -123,6 +143,11 @@
         "category": "스마트 수업도구",
         "topic": "앱/프로그램",
         "confidence": "medium"
+      },
+      {
+        "category": "게시판별 분류",
+        "topic": "수업 Ideas",
+        "confidence": "high"
       }
     ]
   },
@@ -150,6 +175,11 @@
         "schoolLevel": "중학교",
         "subject": "과학",
         "unit": "식물과 에너지",
+        "confidence": "high"
+      },
+      {
+        "category": "게시판별 분류",
+        "topic": "수업 Ideas",
         "confidence": "high"
       }
     ]
@@ -179,6 +209,11 @@
         "subject": "통합과학",
         "unit": "발전과 신재생 에너지",
         "confidence": "medium"
+      },
+      {
+        "category": "게시판별 분류",
+        "topic": "수업 Ideas",
+        "confidence": "high"
       }
     ]
   },
@@ -207,6 +242,11 @@
         "subject": "과학",
         "unit": "별과 우주",
         "confidence": "high"
+      },
+      {
+        "category": "게시판별 분류",
+        "topic": "수업 Ideas",
+        "confidence": "high"
       }
     ]
   },
@@ -225,6 +265,11 @@
       {
         "category": "스마트 수업도구",
         "topic": "MBL센서",
+        "confidence": "high"
+      },
+      {
+        "category": "게시판별 분류",
+        "topic": "수업 Ideas",
         "confidence": "high"
       }
     ]
@@ -245,6 +290,11 @@
         "category": "수업 방법론",
         "topic": "토론수업",
         "confidence": "medium"
+      },
+      {
+        "category": "게시판별 분류",
+        "topic": "수업 Ideas",
+        "confidence": "high"
       }
     ]
   },
@@ -263,6 +313,11 @@
       {
         "category": "스마트 수업도구",
         "topic": "앱/프로그램",
+        "confidence": "high"
+      },
+      {
+        "category": "게시판별 분류",
+        "topic": "수업 Ideas",
         "confidence": "high"
       }
     ]
@@ -285,6 +340,11 @@
         "subject": null,
         "unit": "미분류",
         "confidence": "high"
+      },
+      {
+        "category": "게시판별 분류",
+        "topic": "수업 Ideas",
+        "confidence": "high"
       }
     ]
   },
@@ -303,6 +363,11 @@
       {
         "category": "수업 방법론",
         "topic": "토론수업",
+        "confidence": "high"
+      },
+      {
+        "category": "게시판별 분류",
+        "topic": "수업 Ideas",
         "confidence": "high"
       }
     ]
@@ -325,6 +390,11 @@
         "subject": null,
         "unit": "미분류",
         "confidence": "high"
+      },
+      {
+        "category": "게시판별 분류",
+        "topic": "수업 Ideas",
+        "confidence": "high"
       }
     ]
   },
@@ -346,6 +416,11 @@
         "subject": null,
         "unit": "미분류",
         "confidence": "high"
+      },
+      {
+        "category": "게시판별 분류",
+        "topic": "수업 Ideas",
+        "confidence": "high"
       }
     ]
   },
@@ -365,6 +440,11 @@
         "category": "스마트 수업도구",
         "topic": "생성형 AI 도구",
         "confidence": "medium"
+      },
+      {
+        "category": "게시판별 분류",
+        "topic": "수업 Ideas",
+        "confidence": "high"
       }
     ]
   },

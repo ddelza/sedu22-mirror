@@ -17,6 +17,11 @@
         "subject": null,
         "unit": "미분류",
         "confidence": "high"
+      },
+      {
+        "category": "게시판별 분류",
+        "topic": "수석교사의 방(2023~)",
+        "confidence": "high"
       }
     ]
   },

@@ -17,6 +17,11 @@
       "category": "재과만 소식",
       "topic": "카페 운영 공지",
       "confidence": "high"
+    },
+    {
+      "category": "게시판별 분류",
+      "topic": "(월간) 재과만 이야기",
+      "confidence": "high"
     }
   ],
   "tagsNote": "월간 재과만 이야기 8월호(카페 소식 정리).",

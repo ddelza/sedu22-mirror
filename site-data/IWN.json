@@ -17,6 +17,11 @@
         "subject": null,
         "unit": "미분류",
         "confidence": "high"
+      },
+      {
+        "category": "게시판별 분류",
+        "topic": "좋은 글 & 책",
+        "confidence": "high"
       }
     ]
   },
@@ -37,6 +42,11 @@
         "schoolLevel": null,
         "subject": null,
         "unit": "미분류",
+        "confidence": "high"
+      },
+      {
+        "category": "게시판별 분류",
+        "topic": "좋은 글 & 책",
         "confidence": "high"
       }
     ]

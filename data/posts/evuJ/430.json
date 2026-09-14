@@ -17,6 +17,11 @@
       "category": "스마트 수업도구",
       "topic": "앱/프로그램",
       "confidence": "medium"
+    },
+    {
+      "category": "게시판별 분류",
+      "topic": "AI도구 활용하기",
+      "confidence": "high"
     }
   ],
   "tagsNote": "개인 API 사용 공문/루브릭 작성기 웹앱(업무용).",

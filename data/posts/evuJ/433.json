@@ -17,6 +17,11 @@
       "category": "스마트 수업도구",
       "topic": "생성형 AI 도구",
       "confidence": "medium"
+    },
+    {
+      "category": "게시판별 분류",
+      "topic": "AI도구 활용하기",
+      "confidence": "high"
     }
   ],
   "tagsNote": "MCP와 API, 안티그래비티 등 AI 도구 활용 설명글.",
