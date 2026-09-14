@@ -19,13 +19,20 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "생물의 다양성",
+      "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "생물의 구성과 다양성",
       "confidence": "medium"
     }
   ],
-  "tagsNote": "현미경 관찰 중 발생한 현상 및 조작 관련 질문.",
+  "tagsNote": "현미경 관찰 중 발생한 현상 및 조작 관련 질문. / 현미경 관찰 수업 중 발생한 질문(눈썹 잔상, 실체현미경 구조).",
   "taggedAt": "2026-08-12T10:26:25.406Z"
 }

@@ -2893,11 +2893,9 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
-        "confidence": "high"
+        "category": "과학교사 업무",
+        "topic": "교원연수",
+        "confidence": "low"
       }
     ]
   },
@@ -2919,11 +2917,9 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
-        "confidence": "high"
+        "category": "과학교사 업무",
+        "topic": "동아리 운영",
+        "confidence": "medium"
       }
     ]
   },

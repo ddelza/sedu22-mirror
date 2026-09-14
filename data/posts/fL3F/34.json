@@ -19,13 +19,20 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": "지구과학",
-      "unit": "미분류",
-      "confidence": "low"
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "태양계",
+      "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "태양계",
+      "confidence": "high"
     }
   ],
-  "tagsNote": "지구본(지구모형)으로 에라토스테네스 지구크기 측정 실험을 함께 해보자는 제안.",
+  "tagsNote": "지구본(지구모형)으로 에라토스테네스 지구크기 측정 실험을 함께 해보자는 제안. / 에라토스테네스 지구크기 측정을 지구본 대신 실측으로 함께 하자는 제안(수행평가 연계).",
   "taggedAt": "2026-08-13T13:57:29.863Z"
 }

@@ -19,13 +19,34 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
-      "confidence": "low"
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "물질의 구성",
+      "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "물질의 구성",
+      "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "빛과 파동",
+      "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "빛과 파동",
+      "confidence": "high"
     }
   ],
-  "tagsNote": "물질의 구성·화합물·빛·파동 등 여러 단원 학습지 모음 공유(여러 단원 포괄).",
+  "tagsNote": "물질의 구성·화합물·빛·파동 등 여러 단원 학습지 모음 공유(여러 단원 포괄). / 물질의 구성/우리 주위의 화합물/빛/파동 학습지 모음.",
   "taggedAt": "2026-08-13T12:56:59.886Z"
 }

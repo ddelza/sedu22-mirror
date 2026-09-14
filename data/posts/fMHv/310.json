@@ -19,13 +19,20 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
-      "confidence": "low"
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "열과 우리 생활",
+      "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "열",
+      "confidence": "high"
     }
   ],
-  "tagsNote": "단원마다 6개 주제로 모둠을 나눠 진행하는 전시장 형태 프로젝트 수업 운영 방법 소개(특정 단원 한정 아님).",
+  "tagsNote": "단원마다 6개 주제로 모둠을 나눠 진행하는 전시장 형태 프로젝트 수업 운영 방법 소개(특정 단원 한정 아님). / 비열/열팽창/전도/대류/복사/열의 이용 6주제 전시장형 프로젝트 수업.",
   "taggedAt": "2026-08-13T05:30:34.585Z"
 }

@@ -19,13 +19,20 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
-      "confidence": "high"
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "열과 우리 생활",
+      "confidence": "low"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "열",
+      "confidence": "low"
     }
   ],
-  "tagsNote": "커피 온도 관련 탐구 질문, 특정 단원 아님.",
+  "tagsNote": "커피 온도 관련 탐구 질문, 특정 단원 아님. / 커피 뚜껑 열전도 관련 탐구 아이디어.",
   "taggedAt": "2026-08-17T04:24:34.146Z"
 }

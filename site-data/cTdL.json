@@ -2765,11 +2765,25 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
-        "confidence": "high"
+        "curriculumYear": "2015",
+        "schoolLevel": "고등학교",
+        "subject": "과학탐구실험",
+        "unit": "역사 속의 과학 탐구",
+        "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2015",
+        "schoolLevel": "고등학교",
+        "subject": "과학탐구실험",
+        "unit": "생활 속의 과학 탐구",
+        "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2015",
+        "schoolLevel": "고등학교",
+        "subject": "과학탐구실험",
+        "unit": "첨단 과학 탐구",
+        "confidence": "medium"
       }
     ]
   },
@@ -3830,11 +3844,18 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
-        "confidence": "low"
+        "curriculumYear": "2015",
+        "schoolLevel": "고등학교",
+        "subject": "통합과학",
+        "unit": "물질의 규칙성과 결합",
+        "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "통합과학1",
+        "unit": "물질과 규칙성",
+        "confidence": "medium"
       }
     ]
   },
@@ -4965,11 +4986,18 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
-        "confidence": "high"
+        "curriculumYear": "2015",
+        "schoolLevel": "고등학교",
+        "subject": "통합과학",
+        "unit": "생명 시스템",
+        "confidence": "low"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "통합과학1",
+        "unit": "물질과 규칙성",
+        "confidence": "low"
       }
     ]
   },
@@ -7326,11 +7354,18 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
+        "curriculumYear": "2015",
+        "schoolLevel": "고등학교",
+        "subject": "통합과학",
+        "unit": "생태계와 환경",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "통합과학2",
+        "unit": "변화와 다양성",
+        "confidence": "medium"
       }
     ]
   },
@@ -9818,11 +9853,18 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
+        "curriculumYear": "2015",
+        "schoolLevel": "고등학교",
+        "subject": "통합과학",
+        "unit": "지구 시스템",
         "confidence": "high"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "통합과학1",
+        "unit": "시스템과 상호작용",
+        "confidence": "medium"
       }
     ]
   },
@@ -10845,11 +10887,16 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
-        "confidence": "medium"
+        "category": "수업 방법론",
+        "topic": "배움중심수업",
+        "confidence": "high"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "통합과학2",
+        "unit": "과학과 미래 사회",
+        "confidence": "low"
       },
       {
         "category": "수업 방법론",
@@ -10900,11 +10947,11 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
-        "confidence": "medium"
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "통합과학2",
+        "unit": "과학과 미래 사회",
+        "confidence": "low"
       }
     ]
   },

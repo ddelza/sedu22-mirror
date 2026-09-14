@@ -19,13 +19,11 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
+      "category": "스마트 수업도구",
+      "topic": "생성형 AI 도구",
       "confidence": "medium"
     }
   ],
-  "tagsNote": "개념 설명 중심 수업 방식에 대한 신규교사의 고민.",
+  "tagsNote": "개념 설명 중심 수업 방식에 대한 신규교사의 고민. / NotebookLM 플래시카드 등 에듀테크 도구를 개념 확인 수업에 실제 활용.",
   "taggedAt": "2026-08-12T10:28:48.868Z"
 }

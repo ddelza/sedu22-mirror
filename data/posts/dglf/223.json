@@ -19,13 +19,20 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
-      "confidence": "medium"
+      "curriculumYear": "2015",
+      "schoolLevel": "고등학교",
+      "subject": "생명과학Ⅰ",
+      "unit": "사람의 물질대사",
+      "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "고등학교",
+      "subject": "생명과학",
+      "unit": "생명시스템의 구성",
+      "confidence": "high"
     }
   ],
-  "tagsNote": "실험 수행평가 운영 방식(직접 실험 필요 여부) 질문 — 평가행정.",
+  "tagsNote": "실험 수행평가 운영 방식(직접 실험 필요 여부) 질문 — 평가행정. / 양파세포 저장액/고장액 삼투 실험(세포막을 통한 물질 이동) 수행평가 방법 문의.",
   "taggedAt": "2026-08-12T03:12:26.747Z"
 }

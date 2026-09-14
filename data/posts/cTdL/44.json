@@ -19,11 +19,16 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
-      "confidence": "medium"
+      "category": "수업 방법론",
+      "topic": "배움중심수업",
+      "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "고등학교",
+      "subject": "통합과학2",
+      "unit": "과학과 미래 사회",
+      "confidence": "low"
     },
     {
       "category": "수업 방법론",
@@ -31,6 +36,6 @@
       "confidence": "high"
     }
   ],
-  "tagsNote": "5단원 인류의 건강과 과학기술 배움중심수업 활동지(현행 단원 인덱스와 매칭 안 되는 옛 단원명).",
+  "tagsNote": "5단원 인류의 건강과 과학기술 배움중심수업 활동지(현행 단원 인덱스와 매칭 안 되는 옛 단원명). / 5단원 인류의 건강과 과학기술 배움중심수업 활동지 및 PPT 공유.",
   "taggedAt": "2026-08-12T00:21:28.520Z"
 }

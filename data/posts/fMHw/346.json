@@ -19,13 +19,20 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
-      "confidence": "low"
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "전기와 자기",
+      "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "전기와 자기",
+      "confidence": "high"
     }
   ],
-  "tagsNote": "활동 위주 수업을 하지 못하는 상황에 대한 푸념 글(특정 단원과 무관).",
+  "tagsNote": "활동 위주 수업을 하지 못하는 상황에 대한 푸념 글(특정 단원과 무관). / '전기와 자기' 정리 위주 노트식 학습지.",
   "taggedAt": "2026-08-13T12:51:02.879Z"
 }

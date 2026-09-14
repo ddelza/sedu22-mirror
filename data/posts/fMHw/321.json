@@ -19,13 +19,13 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
-      "confidence": "low"
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "기권과 날씨",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "코로나 상황을 고려한 2학기 수행평가 항목 축소 계획 공유(특정 단원과 무관).",
+  "tagsNote": "코로나 상황을 고려한 2학기 수행평가 항목 축소 계획 공유(특정 단원과 무관). / 1학기 기권과 날씨 인스타그램으로 나타내기 수행평가 실시.",
   "taggedAt": "2026-08-13T12:49:29.324Z"
 }

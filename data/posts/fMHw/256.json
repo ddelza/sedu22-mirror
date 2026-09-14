@@ -19,13 +19,20 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "재해·재난과 안전",
+      "confidence": "low"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "재해·재난과 안전",
       "confidence": "low"
     }
   ],
-  "tagsNote": "교수평 일체화에 근거한 중2 한학기 조망도 디자인에 대한 피드백 요청(특정 단원 한정 아님).",
+  "tagsNote": "교수평 일체화에 근거한 중2 한학기 조망도 디자인에 대한 피드백 요청(특정 단원 한정 아님). / 중2 한학기 조망도 — 재해재난 단원으로 코로나 관련 수업 고려.",
   "taggedAt": "2026-08-13T12:46:21.330Z"
 }

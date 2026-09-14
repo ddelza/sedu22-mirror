@@ -19,13 +19,11 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
-      "confidence": "high"
+      "category": "과학교사 업무",
+      "topic": "동아리 운영",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "나무 관련 초등용 도서 추천.",
+  "tagsNote": "나무 관련 초등용 도서 추천. / 과학 동아리 — 1학기 교내 식물 관찰/식물도감 만들기, 2학기 가로수 탐구 운영.",
   "taggedAt": "2026-08-17T04:23:16.400Z"
 }

@@ -1181,10 +1181,8 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": "고등학교",
-        "subject": "통합과학1",
-        "unit": "미분류",
+        "category": "과학교사 업무",
+        "topic": "교원연수",
         "confidence": "low"
       }
     ]
@@ -2044,10 +2042,10 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
+        "curriculumYear": "2022",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "생물의 다양성",
         "confidence": "low"
       }
     ]
@@ -2070,10 +2068,8 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
+        "category": "과학교사 업무",
+        "topic": "교원연수",
         "confidence": "low"
       }
     ]
@@ -2340,10 +2336,8 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
+        "category": "과학교사 업무",
+        "topic": "교원연수",
         "confidence": "low"
       }
     ]
@@ -4057,10 +4051,8 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
+        "category": "과학교사 업무",
+        "topic": "교원연수",
         "confidence": "low"
       }
     ]

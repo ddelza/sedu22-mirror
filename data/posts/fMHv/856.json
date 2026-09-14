@@ -19,13 +19,20 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
-      "confidence": "low"
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "지권의 변화",
+      "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "지권의 변화",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "필기 위주 수업과 학습지 활용 사이의 고민을 공유하는 일반적인 수업 방식 논의(특정 단원 아님).",
+  "tagsNote": "필기 위주 수업과 학습지 활용 사이의 고민을 공유하는 일반적인 수업 방식 논의(특정 단원 아님). / 지구계 구성요소 분류 및 상호작용 글짓기 학습지 실제 적용.",
   "taggedAt": "2026-08-13T12:23:37.890Z"
 }

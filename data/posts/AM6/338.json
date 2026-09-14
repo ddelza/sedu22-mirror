@@ -19,11 +19,9 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
-      "confidence": "high"
+      "category": "과학교사 업무",
+      "topic": "교원연수",
+      "confidence": "low"
     },
     {
       "category": "과학교사 업무",
@@ -31,6 +29,6 @@
       "confidence": "low"
     }
   ],
-  "tagsNote": "수업공개/수업나눔 필요성에 대한 개인 성찰, 과학 한정 아님. / 연수에서 들은 국제교류 수업나눔 사례를 통한 성찰.",
+  "tagsNote": "수업공개/수업나눔 필요성에 대한 개인 성찰, 과학 한정 아님. / 연수에서 들은 국제교류 수업나눔 사례를 통한 성찰. / 연수에서 초등학교 강사의 국제교류 활동 사례 접함.",
   "taggedAt": "2026-08-28T00:02:04.508Z"
 }

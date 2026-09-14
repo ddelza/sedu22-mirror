@@ -19,13 +19,20 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "기권과 날씨",
+      "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "날씨와 기후변화",
       "confidence": "medium"
     }
   ],
-  "tagsNote": "중1 탄소중립 소재 독서활동지 제작 및 진행 공유.",
+  "tagsNote": "중1 탄소중립 소재 독서활동지 제작 및 진행 공유. / 중1 대상 탄소중립·지구온도 관련 독서활동(절대지켜 1.5도).",
   "taggedAt": "2026-08-12T10:25:08.363Z"
 }

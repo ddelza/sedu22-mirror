@@ -70,7 +70,7 @@
         "curriculumYear": "2022",
         "schoolLevel": "고등학교",
         "subject": "과학의 역사와 문화",
-        "unit": "미분류",
+        "unit": "변화하는 과학세계",
         "confidence": "medium"
       }
     ]
@@ -278,7 +278,14 @@
         "curriculumYear": "2022",
         "schoolLevel": "고등학교",
         "subject": "과학의 역사와 문화",
-        "unit": "미분류",
+        "unit": "과학 문명의 탄생과 통합",
+        "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "과학의 역사와 문화",
+        "unit": "변화하는 과학세계",
         "confidence": "medium"
       }
     ]

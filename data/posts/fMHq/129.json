@@ -19,13 +19,20 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
-      "confidence": "low"
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "물질의 상태 변화",
+      "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "물질의 상태 변화",
+      "confidence": "high"
     }
   ],
-  "tagsNote": "비주얼 씽킹 초보자용 연수 후기(특정 단원 한정 아님).",
+  "tagsNote": "비주얼 씽킹 초보자용 연수 후기(특정 단원 한정 아님). / 물질의 세 가지 상태 특징을 비주얼씽킹으로 정리하는 수업.",
   "taggedAt": "2026-08-12T21:59:47.591Z"
 }

@@ -19,13 +19,11 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
-      "confidence": "high"
+      "category": "과학교사 업무",
+      "topic": "교원연수",
+      "confidence": "low"
     }
   ],
-  "tagsNote": "창의성 교육 워크샵 소감 — 과학 한정 내용 아님.",
+  "tagsNote": "창의성 교육 워크샵 소감 — 과학 한정 내용 아님. / ISTA conference 워크샵에서 소개된 Anti Coloring Book 자료.",
   "taggedAt": "2026-08-11T23:57:35.691Z"
 }

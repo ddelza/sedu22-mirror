@@ -19,13 +19,20 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
-      "confidence": "high"
+      "curriculumYear": "2015",
+      "schoolLevel": "고등학교",
+      "subject": "생명과학Ⅰ",
+      "unit": "항상성과 몸의 조절",
+      "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "고등학교",
+      "subject": "생명과학",
+      "unit": "항상성과 몸의 조절",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "생명과학과 면접 문항 및 출제 근거 공유.",
+  "tagsNote": "생명과학과 면접 문항 및 출제 근거 공유. / 면역(항체, 병원체) 관련 학생부 기반 면접 문항 및 출제 근거.",
   "taggedAt": "2026-08-12T03:32:41.261Z"
 }

@@ -19,13 +19,13 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
-      "confidence": "medium"
+      "curriculumYear": "2022",
+      "schoolLevel": "고등학교",
+      "subject": "물질과 에너지",
+      "unit": "물질의 세 가지 상태",
+      "confidence": "low"
     }
   ],
-  "tagsNote": "드라이아이스 실험 모음 자료.",
+  "tagsNote": "드라이아이스 실험 모음 자료. / 드라이아이스(승화) 실험 모음 공유.",
   "taggedAt": "2026-08-12T03:38:32.926Z"
 }

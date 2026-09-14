@@ -19,13 +19,20 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
-      "confidence": "low"
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "물질의 특성",
+      "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "물질의 특성",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "자료 요청 메일 관련 공지글(특정 단원 무관).",
+  "tagsNote": "자료 요청 메일 관련 공지글(특정 단원 무관). / 밀도 개념 관련 런닝맨 동영상 자료 공유.",
   "taggedAt": "2026-08-12T22:34:50.075Z"
 }

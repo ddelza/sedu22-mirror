@@ -19,13 +19,13 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
-      "confidence": "low"
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "과학기술과 인류 문명",
+      "confidence": "high"
     }
   ],
-  "tagsNote": "8단원 '과학기술과 인류 문명' 관련 유튜브 영상 기반 2차시 활동지 공유(특정 지구과학 단원 아님).",
+  "tagsNote": "8단원 '과학기술과 인류 문명' 관련 유튜브 영상 기반 2차시 활동지 공유(특정 지구과학 단원 아님). / 8단원 과학기술과 인류 문명 — 미래과학기술 영상 활동지.",
   "taggedAt": "2026-08-13T12:49:29.325Z"
 }

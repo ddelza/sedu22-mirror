@@ -19,13 +19,11 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
-      "confidence": "high"
+      "category": "과학교사 업무",
+      "topic": "교원연수",
+      "confidence": "low"
     }
   ],
-  "tagsNote": "환경 관련 채식 실천 개인 소감.",
+  "tagsNote": "환경 관련 채식 실천 개인 소감. / 과학교사 실험 연수(집합) 중 채식 관련 일화 회상.",
   "taggedAt": "2026-08-17T04:31:06.368Z"
 }

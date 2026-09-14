@@ -19,13 +19,6 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
-      "confidence": "high"
-    },
-    {
       "category": "과학교사 업무",
       "topic": "교원연수",
       "confidence": "medium"
@@ -34,8 +27,13 @@
       "category": "스마트 수업도구",
       "topic": "생성형 AI 도구",
       "confidence": "medium"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "생성형 AI 도구",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "신규교사 재테크 멘토링 영상 — 과학 한정 내용 아님. / 신규교사 경제습관 멘토링 연수, Notebook LM으로 요약영상 제작.",
+  "tagsNote": "신규교사 재테크 멘토링 영상 — 과학 한정 내용 아님. / 신규교사 경제습관 멘토링 연수, Notebook LM으로 요약영상 제작. / 연수 내용을 Notebook LM으로 요약 영상 제작.",
   "taggedAt": "2026-08-28T00:03:38.639Z"
 }

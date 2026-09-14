@@ -19,13 +19,13 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
+      "curriculumYear": "2015",
+      "schoolLevel": "고등학교",
+      "subject": "과학탐구실험",
+      "unit": "생활 속의 과학 탐구",
       "confidence": "low"
     }
   ],
-  "tagsNote": "고1 과학탐구실험 시간에 진행한 대기압·표면장력 실험 절차에 대한 질문(중학교 교육과정과 무관).",
+  "tagsNote": "고1 과학탐구실험 시간에 진행한 대기압·표면장력 실험 절차에 대한 질문(중학교 교육과정과 무관). / 고1 과학탐구실험 — 대기압과 표면장력(페트병 수축) 실험.",
   "taggedAt": "2026-08-13T12:52:37.709Z"
 }

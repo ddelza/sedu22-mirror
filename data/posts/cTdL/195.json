@@ -19,13 +19,20 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
+      "curriculumYear": "2015",
+      "schoolLevel": "고등학교",
+      "subject": "통합과학",
+      "unit": "생태계와 환경",
       "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "고등학교",
+      "subject": "통합과학2",
+      "unit": "변화와 다양성",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "수행평가 참고 사이트 추천 요청 — 특정 단원 아닌 일반 자료요청.",
+  "tagsNote": "수행평가 참고 사이트 추천 요청 — 특정 단원 아닌 일반 자료요청. / 환경 조건에 따라 달라지는 생물의 모습 조사하기 활동(천재교육 생태계와 환경 파트).",
   "taggedAt": "2026-08-12T00:02:34.249Z"
 }

@@ -19,13 +19,34 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
-      "confidence": "high"
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "기체의 성질",
+      "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "기체의 성질",
+      "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "빛과 파동",
+      "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "빛과 파동",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "추리형 과학수사 웹게임(로마 배경) 제작 공유.",
+  "tagsNote": "추리형 과학수사 웹게임(로마 배경) 제작 공유. / 과학수사 추리 웹게임 — 대기압, 편광, 루미놀(화학발광), 광변색 개념 활용.",
   "taggedAt": "2026-08-12T09:01:46.578Z"
 }

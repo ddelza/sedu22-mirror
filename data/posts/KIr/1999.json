@@ -19,13 +19,11 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
-      "confidence": "high"
+      "category": "스마트 수업도구",
+      "topic": "생성형 AI 도구",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "AI로 2015/2022 교육과정 차이점 분석한 메타 자료(특정 단원 수업 아님).",
+  "tagsNote": "AI로 2015/2022 교육과정 차이점 분석한 메타 자료(특정 단원 수업 아님). / 제미나이를 이용해 2015/2022 교육과정 차이점 분석.",
   "taggedAt": "2026-08-17T04:46:01.765Z"
 }

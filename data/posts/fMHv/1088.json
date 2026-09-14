@@ -19,13 +19,34 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "태양계",
+      "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "태양계",
+      "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "별과 우주",
+      "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "별과 우주",
       "confidence": "medium"
     }
   ],
-  "tagsNote": "동료교사와 구체화한 과학독서수업 프로젝트 공유(특정 단원 아님).",
+  "tagsNote": "동료교사와 구체화한 과학독서수업 프로젝트 공유(특정 단원 아님). / 태양계와 외권 단원을 아우르는 도서로 진행한 독서수업+수행평가.",
   "taggedAt": "2026-08-13T04:36:12.432Z"
 }

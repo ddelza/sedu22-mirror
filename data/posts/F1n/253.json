@@ -19,18 +19,16 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
-      "confidence": "high"
+      "category": "과학교사 업무",
+      "topic": "교원연수",
+      "confidence": "low"
     },
     {
       "category": "과학교사 업무",
       "topic": "교원연수",
-      "confidence": "low"
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "해외 컨퍼런스 참관 기반 과학공책 작성법 소개. / NSTA regional conference 참석 및 워크숍 참가 후기.",
+  "tagsNote": "해외 컨퍼런스 참관 기반 과학공책 작성법 소개. / NSTA regional conference 참석 및 워크숍 참가 후기. / NSTA regional conference 및 과학공책 워크샵 참가.",
   "taggedAt": "2026-08-28T00:06:11.280Z"
 }

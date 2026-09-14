@@ -19,18 +19,16 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
-      "confidence": "high"
+      "category": "과학교사 업무",
+      "topic": "학급운영",
+      "confidence": "low"
     },
     {
       "category": "과학교사 업무",
       "topic": "학급운영",
-      "confidence": "low"
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "사이언스 다이어리(사다리) 공책 활용법 공유. / 사이언스 다이어리(사다리) - 도장 검사를 통한 보상제 운영.",
+  "tagsNote": "사이언스 다이어리(사다리) 공책 활용법 공유. / 사이언스 다이어리(사다리) - 도장 검사를 통한 보상제 운영. / 사이언스 다이어리(사다리) — 2주 1회 검사+도장, 반복 운영되는 노트 제도.",
   "taggedAt": "2026-08-28T00:06:11.273Z"
 }

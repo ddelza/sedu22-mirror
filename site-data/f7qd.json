@@ -182,10 +182,17 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
+        "curriculumYear": "2015",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "기권과 날씨",
+        "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "날씨와 기후변화",
         "confidence": "medium"
       }
     ]
@@ -992,11 +999,18 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
-        "confidence": "high"
+        "curriculumYear": "2015",
+        "schoolLevel": "고등학교",
+        "subject": "과학탐구실험",
+        "unit": "역사 속의 과학 탐구",
+        "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "과학탐구실험1",
+        "unit": "과학의 본성과 역사 속의 과학 탐구",
+        "confidence": "medium"
       }
     ]
   },
@@ -1044,11 +1058,18 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
-        "confidence": "high"
+        "curriculumYear": "2015",
+        "schoolLevel": "고등학교",
+        "subject": "과학탐구실험",
+        "unit": "역사 속의 과학 탐구",
+        "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "과학탐구실험1",
+        "unit": "과학의 본성과 역사 속의 과학 탐구",
+        "confidence": "medium"
       }
     ]
   },
@@ -1273,10 +1294,17 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
+        "curriculumYear": "2015",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "생식과 유전",
+        "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "생식과 유전",
         "confidence": "medium"
       }
     ]
@@ -2747,11 +2775,18 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
-        "confidence": "high"
+        "curriculumYear": "2015",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "생식과 유전",
+        "confidence": "low"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "생식과 유전",
+        "confidence": "low"
       }
     ]
   },
@@ -2845,10 +2880,17 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
+        "curriculumYear": "2015",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "생물의 다양성",
+        "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "생물의 구성과 다양성",
         "confidence": "medium"
       }
     ]

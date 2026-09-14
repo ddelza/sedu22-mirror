@@ -22,10 +22,17 @@
       "curriculumYear": "2022",
       "schoolLevel": "고등학교",
       "subject": "과학의 역사와 문화",
-      "unit": "미분류",
+      "unit": "과학 문명의 탄생과 통합",
+      "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "고등학교",
+      "subject": "과학의 역사와 문화",
+      "unit": "변화하는 과학세계",
       "confidence": "medium"
     }
   ],
-  "tagsNote": "과학사·과학자·과학철학·빅히스토리 영상 모음 공유(특정 단원 한정 아님).",
+  "tagsNote": "과학사·과학자·과학철학·빅히스토리 영상 모음 공유(특정 단원 한정 아님). / 과학사·과학자·과학철학·빅히스토리 영상 시리즈 공유.",
   "taggedAt": "2026-08-13T13:57:29.834Z"
 }

@@ -19,11 +19,9 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
-      "confidence": "high"
+      "category": "스마트 수업도구",
+      "topic": "생성형 AI 도구",
+      "confidence": "medium"
     },
     {
       "category": "스마트 수업도구",
@@ -31,6 +29,6 @@
       "confidence": "medium"
     }
   ],
-  "tagsNote": "일과 놀이에 대한 개인 성찰 영상, 과학 한정 내용 아님. / Notebook LM으로 강연 영상 제작 및 이를 수업용 학습영상 제작에 응용하려는 구상.",
+  "tagsNote": "일과 놀이에 대한 개인 성찰 영상, 과학 한정 내용 아님. / Notebook LM으로 강연 영상 제작 및 이를 수업용 학습영상 제작에 응용하려는 구상. / Notebook LM으로 학습영상 제작 실험, 수업용 활용 아이디어 제시.",
   "taggedAt": "2026-08-28T00:03:38.642Z"
 }

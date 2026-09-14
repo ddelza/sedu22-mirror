@@ -1885,11 +1885,18 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
-        "confidence": "medium"
+        "curriculumYear": "2015",
+        "schoolLevel": "고등학교",
+        "subject": "생명과학Ⅰ",
+        "unit": "사람의 물질대사",
+        "confidence": "high"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "생명과학",
+        "unit": "생명시스템의 구성",
+        "confidence": "high"
       }
     ]
   },
@@ -5123,11 +5130,11 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
-        "confidence": "high"
+        "curriculumYear": "2015",
+        "schoolLevel": "고등학교",
+        "subject": "생명과학Ⅰ",
+        "unit": "생명과학의 이해",
+        "confidence": "medium"
       }
     ]
   },
@@ -6954,11 +6961,18 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
-        "confidence": "medium"
+        "curriculumYear": "2015",
+        "schoolLevel": "고등학교",
+        "subject": "생명과학Ⅰ",
+        "unit": "사람의 물질대사",
+        "confidence": "low"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "생명과학",
+        "unit": "생명시스템의 구성",
+        "confidence": "low"
       }
     ]
   },

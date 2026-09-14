@@ -19,13 +19,13 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
-      "confidence": "low"
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "과학과 나의 미래",
+      "confidence": "high"
     }
   ],
-  "tagsNote": "1단원(과학이란, 과학과 생활 및 직업) 학습지 공유(특정 지구과학 단원 아님).",
+  "tagsNote": "1단원(과학이란, 과학과 생활 및 직업) 학습지 공유(특정 지구과학 단원 아님). / 1-1과학이란, 1-2,3과학과 생활 및 직업 학습지.",
   "taggedAt": "2026-08-13T12:31:15.880Z"
 }

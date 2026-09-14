@@ -831,11 +831,16 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
+        "category": "과학교사 업무",
+        "topic": "세특작성",
         "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2015",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "과학과 나의 미래",
+        "confidence": "low"
       }
     ]
   },
@@ -2529,11 +2534,18 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
-        "confidence": "medium"
+        "curriculumYear": "2015",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "수권과 해수의 순환",
+        "confidence": "low"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "수권과 해수의 순환",
+        "confidence": "low"
       }
     ]
   },

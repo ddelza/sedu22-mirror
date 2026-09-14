@@ -19,13 +19,11 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
-      "confidence": "high"
+      "category": "과학교사 업무",
+      "topic": "교원연수",
+      "confidence": "low"
     }
   ],
-  "tagsNote": "기후위기 관련 게시판 신설 제안(카페 운영).",
+  "tagsNote": "기후위기 관련 게시판 신설 제안(카페 운영). / 기후위기 관련 연수에서 전문가 강사 설명을 듣고 작성.",
   "taggedAt": "2026-08-17T04:33:04.907Z"
 }

@@ -19,13 +19,20 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
-      "confidence": "medium"
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "전기와 자기",
+      "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "전기와 자기",
+      "confidence": "high"
     }
   ],
-  "tagsNote": "비상교과서 개념확인 활동지 공유(단원 불명확).",
+  "tagsNote": "비상교과서 개념확인 활동지 공유(단원 불명확). / 비상교과서 1.전기와 자기 학습지(학생용).",
   "taggedAt": "2026-08-12T14:37:46.765Z"
 }

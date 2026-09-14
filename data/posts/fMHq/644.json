@@ -19,13 +19,20 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
-      "confidence": "low"
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "식물과 에너지",
+      "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "식물과 에너지",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "2학기 방학숙제로 진행한 동영상 만들기 활동(구체 단원 불명확).",
+  "tagsNote": "2학기 방학숙제로 진행한 동영상 만들기 활동(구체 단원 불명확). / 2학기 광합성 단원 준비용 과학 UCC(동영상) 만들기 방학숙제.",
   "taggedAt": "2026-08-12T22:24:08.722Z"
 }

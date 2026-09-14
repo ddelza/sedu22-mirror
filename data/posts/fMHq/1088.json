@@ -19,13 +19,20 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
-      "confidence": "low"
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "동물과 에너지",
+      "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "동물과 에너지",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "24홈판 활용을 위한 범용 학습지 서식(특정 실험·단원 한정 아님).",
+  "tagsNote": "24홈판 활용을 위한 범용 학습지 서식(특정 실험·단원 한정 아님). / 영양소 검출 실험(24홈판)용 학습지 서식.",
   "taggedAt": "2026-08-12T15:40:05.128Z"
 }

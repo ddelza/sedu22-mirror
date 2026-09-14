@@ -19,13 +19,11 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
-      "confidence": "high"
+      "category": "과학교사 업무",
+      "topic": "교원연수",
+      "confidence": "low"
     }
   ],
-  "tagsNote": "관찰력/과학탐구과정 향상을 위한 보드마커 탐구활동 소개.",
+  "tagsNote": "관찰력/과학탐구과정 향상을 위한 보드마커 탐구활동 소개. / 방학연수자료 공유 — 보드마커 탐구활동.",
   "taggedAt": "2026-08-12T08:53:47.294Z"
 }

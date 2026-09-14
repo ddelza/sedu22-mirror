@@ -19,13 +19,20 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
+      "curriculumYear": "2015",
+      "schoolLevel": "고등학교",
+      "subject": "물리학Ⅰ",
+      "unit": "역학과 에너지",
+      "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "고등학교",
+      "subject": "물리학",
+      "unit": "힘과 에너지",
       "confidence": "high"
     }
   ],
-  "tagsNote": "물리학1,2 교과서 실험 수행평가 방식 적절성 논의.",
+  "tagsNote": "물리학1,2 교과서 실험 수행평가 방식 적절성 논의. / 자유낙하와 진자의 운동 수행평가(교과서 실험 방식 적절성 문의).",
   "taggedAt": "2026-08-12T03:35:30.457Z"
 }

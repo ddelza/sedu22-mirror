@@ -19,13 +19,20 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
-      "confidence": "high"
+      "curriculumYear": "2015",
+      "schoolLevel": "고등학교",
+      "subject": "과학탐구실험",
+      "unit": "역사 속의 과학 탐구",
+      "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "고등학교",
+      "subject": "과학탐구실험1",
+      "unit": "과학의 본성과 역사 속의 과학 탐구",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "과학기기 선도사용자 역할 소재 수능 비문학 기출(2008) 공유.",
+  "tagsNote": "과학기기 선도사용자 역할 소재 수능 비문학 기출(2008) 공유. / 과학기기 선도 사용자의 역할을 다룬 수능 비문학 지문(과학사).",
   "taggedAt": "2026-08-12T09:58:29.235Z"
 }

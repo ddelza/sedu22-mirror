@@ -19,13 +19,20 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
-      "confidence": "high"
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "태양계",
+      "confidence": "low"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "태양계",
+      "confidence": "low"
     }
   ],
-  "tagsNote": "학년말 온라인 수업 운영 고민(1).",
+  "tagsNote": "학년말 온라인 수업 운영 고민(1). / 인공위성·우주탐사선(아폴로 11호/13호) 온라인 수업용 스토리보드 자료.",
   "taggedAt": "2026-08-12T03:48:50.868Z"
 }

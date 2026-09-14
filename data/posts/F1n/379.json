@@ -19,13 +19,27 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "별과 우주",
+      "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "별과 우주",
+      "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "과학기술과 인류 문명",
       "confidence": "high"
     }
   ],
-  "tagsNote": "12월 중3 다양한 활동(영상시청, 마시멜로챌린지 등) 모음 공유.",
+  "tagsNote": "12월 중3 다양한 활동(영상시청, 마시멜로챌린지 등) 모음 공유. / 12월 3학년 남은 단원(은하와 우주, 과학과 인류문명) 수업 계획 — 본문에 단원명 명시.",
   "taggedAt": "2026-08-12T08:44:53.494Z"
 }

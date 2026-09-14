@@ -549,11 +549,25 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
-        "confidence": "high"
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "통합과학2",
+        "unit": "환경과 에너지",
+        "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2015",
+        "schoolLevel": "고등학교",
+        "subject": "통합과학",
+        "unit": "생태계와 환경",
+        "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2015",
+        "schoolLevel": "고등학교",
+        "subject": "통합과학",
+        "unit": "발전과 신재생 에너지",
+        "confidence": "low"
       }
     ]
   },
@@ -903,11 +917,9 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
-        "confidence": "high"
+        "category": "과학교사 업무",
+        "topic": "학급운영",
+        "confidence": "low"
       }
     ]
   },
@@ -929,11 +941,32 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
-        "confidence": "high"
+        "curriculumYear": "2015",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "기체의 성질",
+        "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "기체의 성질",
+        "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2015",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "빛과 파동",
+        "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "빛과 파동",
+        "confidence": "medium"
       }
     ]
   },
@@ -988,10 +1021,10 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
+        "curriculumYear": "2022",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "과학과 인류의 지속가능한 삶",
         "confidence": "high"
       }
     ]
@@ -1132,11 +1165,9 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
-        "confidence": "high"
+        "category": "과학교사 업무",
+        "topic": "교원연수",
+        "confidence": "low"
       }
     ]
   },
@@ -1354,10 +1385,17 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
+        "curriculumYear": "2022",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "과학과 인류의 지속가능한 삶",
+        "confidence": "high"
+      },
+      {
+        "curriculumYear": "2015",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "과학과 나의 미래",
         "confidence": "high"
       }
     ]
@@ -1504,11 +1542,11 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
-        "confidence": "high"
+        "curriculumYear": "2022",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "과학과 인류의 지속가능한 삶",
+        "confidence": "medium"
       }
     ]
   },
@@ -1742,10 +1780,10 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
+        "curriculumYear": "2022",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "과학과 인류의 지속가능한 삶",
         "confidence": "high"
       }
     ]
@@ -3767,11 +3805,9 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
-        "confidence": "high"
+        "category": "과학교사 업무",
+        "topic": "학급운영",
+        "confidence": "low"
       }
     ]
   },
@@ -4018,11 +4054,9 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
-        "confidence": "high"
+        "category": "과학교사 업무",
+        "topic": "교원연수",
+        "confidence": "low"
       }
     ]
   },
@@ -4179,11 +4213,18 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
-        "confidence": "high"
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "통합과학2",
+        "unit": "환경과 에너지",
+        "confidence": "low"
+      },
+      {
+        "curriculumYear": "2015",
+        "schoolLevel": "고등학교",
+        "subject": "통합과학",
+        "unit": "생태계와 환경",
+        "confidence": "low"
       }
     ]
   },
@@ -5211,10 +5252,17 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
+        "curriculumYear": "2015",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "지권의 변화",
+        "confidence": "high"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "지권의 변화",
         "confidence": "high"
       }
     ]
@@ -5694,11 +5742,18 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
-        "confidence": "high"
+        "curriculumYear": "2022",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "과학과 인류의 지속가능한 삶",
+        "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2015",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "과학과 나의 미래",
+        "confidence": "medium"
       }
     ]
   },
@@ -6099,11 +6154,9 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
-        "confidence": "high"
+        "category": "과학교사 업무",
+        "topic": "교원연수",
+        "confidence": "low"
       }
     ]
   },
@@ -6175,11 +6228,9 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
-        "confidence": "high"
+        "category": "과학교사 업무",
+        "topic": "교원연수",
+        "confidence": "low"
       }
     ]
   },
@@ -6801,11 +6852,14 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
-        "confidence": "high"
+        "category": "과학교사 업무",
+        "topic": "교원연수",
+        "confidence": "low"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "생성형 AI 도구",
+        "confidence": "low"
       },
       {
         "category": "과학교사 업무",
@@ -6815,7 +6869,7 @@
       {
         "category": "스마트 수업도구",
         "topic": "생성형 AI 도구",
-        "confidence": "low"
+        "confidence": "medium"
       }
     ]
   },
@@ -6870,16 +6924,14 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
-        "confidence": "high"
+        "category": "과학교사 업무",
+        "topic": "세특작성",
+        "confidence": "low"
       },
       {
         "category": "과학교사 업무",
         "topic": "세특작성",
-        "confidence": "low"
+        "confidence": "medium"
       }
     ]
   },
@@ -8944,11 +8996,11 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
-        "confidence": "high"
+        "curriculumYear": "2022",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "날씨와 기후변화",
+        "confidence": "low"
       }
     ]
   },
@@ -9245,11 +9297,11 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
-        "confidence": "high"
+        "curriculumYear": "2022",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "날씨와 기후변화",
+        "confidence": "medium"
       }
     ]
   },
@@ -12438,16 +12490,14 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
-        "confidence": "high"
+        "category": "과학교사 업무",
+        "topic": "교원연수",
+        "confidence": "low"
       },
       {
         "category": "과학교사 업무",
         "topic": "교원연수",
-        "confidence": "low"
+        "confidence": "medium"
       }
     ]
   },
@@ -13066,11 +13116,9 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
-        "confidence": "high"
+        "category": "과학교사 업무",
+        "topic": "학급운영",
+        "confidence": "low"
       },
       {
         "category": "과학교사 업무",
@@ -13551,10 +13599,24 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
+        "curriculumYear": "2015",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "별과 우주",
+        "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "별과 우주",
+        "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2015",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "과학기술과 인류 문명",
         "confidence": "high"
       }
     ]
@@ -15236,16 +15298,14 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
-        "confidence": "high"
+        "category": "과학교사 업무",
+        "topic": "교원연수",
+        "confidence": "low"
       },
       {
         "category": "과학교사 업무",
         "topic": "교원연수",
-        "confidence": "low"
+        "confidence": "medium"
       }
     ]
   },
@@ -15495,16 +15555,14 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
-        "confidence": "high"
+        "category": "과학교사 업무",
+        "topic": "학급운영",
+        "confidence": "low"
       },
       {
         "category": "과학교사 업무",
         "topic": "학급운영",
-        "confidence": "low"
+        "confidence": "medium"
       }
     ]
   },
@@ -17735,10 +17793,17 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
+        "curriculumYear": "2015",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "여러 가지 힘",
+        "confidence": "low"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "힘의 작용",
         "confidence": "low"
       }
     ]
@@ -18072,11 +18137,18 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
-        "confidence": "high"
+        "curriculumYear": "2015",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "빛과 파동",
+        "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "빛과 파동",
+        "confidence": "medium"
       }
     ]
   },
@@ -19338,11 +19410,9 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
-        "confidence": "high"
+        "category": "과학교사 업무",
+        "topic": "교원연수",
+        "confidence": "low"
       },
       {
         "category": "과학교사 업무",
@@ -19726,16 +19796,14 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
-        "confidence": "high"
+        "category": "과학교사 업무",
+        "topic": "교원연수",
+        "confidence": "low"
       },
       {
         "category": "과학교사 업무",
         "topic": "교원연수",
-        "confidence": "low"
+        "confidence": "medium"
       }
     ]
   },

@@ -19,13 +19,20 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "여러 가지 힘",
+      "confidence": "low"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "힘의 작용",
       "confidence": "low"
     }
   ],
-  "tagsNote": "대학 교수 사례를 인용한 물리 표찰 만들기 수업 소개.",
+  "tagsNote": "대학 교수 사례를 인용한 물리 표찰 만들기 수업 소개. / 물리 표찰 만들기 — 마찰력 등 힘 관련 현상을 실생활 사례로 설명.",
   "taggedAt": "2026-08-12T09:01:46.588Z"
 }

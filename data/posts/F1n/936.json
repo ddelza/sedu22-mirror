@@ -19,13 +19,11 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
-      "confidence": "high"
+      "category": "과학교사 업무",
+      "topic": "교원연수",
+      "confidence": "low"
     }
   ],
-  "tagsNote": "정기시험(지필평가) 문항 제작 및 한글 편집 노하우 연수자료 공유.",
+  "tagsNote": "정기시험(지필평가) 문항 제작 및 한글 편집 노하우 연수자료 공유. / 티처빌 '교실백점' 연수에서 받은 정기고사 문항 제작/한글 편집 자료.",
   "taggedAt": "2026-08-12T09:00:30.108Z"
 }

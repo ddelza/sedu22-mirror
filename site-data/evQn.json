@@ -2318,11 +2318,18 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
-        "confidence": "high"
+        "curriculumYear": "2015",
+        "schoolLevel": "고등학교",
+        "subject": "화학Ⅰ",
+        "unit": "원자의 세계",
+        "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2015",
+        "schoolLevel": "고등학교",
+        "subject": "화학Ⅰ",
+        "unit": "역동적인 화학 반응",
+        "confidence": "medium"
       }
     ]
   },
@@ -2396,11 +2403,18 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
-        "confidence": "low"
+        "curriculumYear": "2015",
+        "schoolLevel": "고등학교",
+        "subject": "화학Ⅰ",
+        "unit": "역동적인 화학 반응",
+        "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "화학 반응의 세계",
+        "unit": "산 염기 평형",
+        "confidence": "medium"
       }
     ]
   },
@@ -2683,11 +2697,11 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
-        "confidence": "high"
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "화학 반응의 세계",
+        "unit": "산화·환원 반응",
+        "confidence": "medium"
       }
     ]
   },
@@ -3179,11 +3193,11 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
-        "confidence": "low"
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "물질과 에너지",
+        "unit": "물질의 세 가지 상태",
+        "confidence": "medium"
       }
     ]
   },
@@ -3271,11 +3285,11 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
-        "confidence": "medium"
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "물질과 에너지",
+        "unit": "물질의 세 가지 상태",
+        "confidence": "low"
       }
     ]
   },

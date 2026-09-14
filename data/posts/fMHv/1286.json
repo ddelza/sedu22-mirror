@@ -19,13 +19,20 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "별과 우주",
+      "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "별과 우주",
       "confidence": "medium"
     }
   ],
-  "tagsNote": "기말고사 후 과학뉴스 읽어주기 수업 아이디어 공유(특정 단원 아님).",
+  "tagsNote": "기말고사 후 과학뉴스 읽어주기 수업 아이디어 공유(특정 단원 아님). / 기말고사 후 우주 탐사 관련 과학뉴스 읽기 활동.",
   "taggedAt": "2026-08-13T05:03:40.375Z"
 }

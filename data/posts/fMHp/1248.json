@@ -19,13 +19,20 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
-      "confidence": "medium"
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "전기와 자기",
+      "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "전기와 자기",
+      "confidence": "high"
     }
   ],
-  "tagsNote": "표 작성·그래프 그리기·결론 내리기 일반 탐구 수업 공유.",
+  "tagsNote": "표 작성·그래프 그리기·결론 내리기 일반 탐구 수업 공유. / 전류-전압, 전류-저항 관계 실험 후 표/그래프 작성·결론 도출 수업.",
   "taggedAt": "2026-08-12T14:40:35.720Z"
 }

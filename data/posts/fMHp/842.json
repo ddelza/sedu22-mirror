@@ -19,13 +19,20 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
-      "confidence": "low"
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "열과 우리 생활",
+      "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "열",
+      "confidence": "high"
     }
   ],
-  "tagsNote": "특정 단원에 한정되지 않은 부스형 수업 운영 방식 소개.",
+  "tagsNote": "특정 단원에 한정되지 않은 부스형 수업 운영 방식 소개. / 열팽창/전도/대류/복사/단열/비열 실험 부스형 수업.",
   "taggedAt": "2026-08-12T15:27:55.608Z"
 }

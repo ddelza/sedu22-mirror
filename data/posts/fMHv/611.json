@@ -19,13 +19,20 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
-      "confidence": "low"
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "기권과 날씨",
+      "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "날씨와 기후변화",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "3학년 학년말 환경교육 프로그램으로 진행한 업사이클링 무드등 만들기 활동일지(특정 단원 한정 아님).",
+  "tagsNote": "3학년 학년말 환경교육 프로그램으로 진행한 업사이클링 무드등 만들기 활동일지(특정 단원 한정 아님). / 지구온난화 진도와 연계 가능한 업사이클링 무드등 만들기(학년말 환경교육).",
   "taggedAt": "2026-08-13T12:12:52.283Z"
 }

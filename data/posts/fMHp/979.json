@@ -19,13 +19,20 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
-      "confidence": "low"
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "빛과 파동",
+      "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "빛과 파동",
+      "confidence": "high"
     }
   ],
-  "tagsNote": "아쿠아리움 소재 위장·보호색 사진 자료(구체 단원 불명확).",
+  "tagsNote": "아쿠아리움 소재 위장·보호색 사진 자료(구체 단원 불명확). / 빛의 합성 단원에 활용한 부산아쿠아리움 영상 및 후속 만들기 활동 아이디어.",
   "taggedAt": "2026-08-12T15:34:46.113Z"
 }

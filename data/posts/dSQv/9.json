@@ -19,13 +19,20 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
-      "confidence": "high"
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "식물과 에너지",
+      "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "식물과 에너지",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "학교별 자유학기제 주제선택 프로그램 자료.",
+  "tagsNote": "학교별 자유학기제 주제선택 프로그램 자료. / 광합성 단원 연계 자유학기제 주제선택 프로그램.",
   "taggedAt": "2026-08-12T03:29:01.337Z"
 }

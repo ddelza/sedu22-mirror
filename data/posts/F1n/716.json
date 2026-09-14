@@ -19,18 +19,16 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
-      "confidence": "high"
+      "category": "과학교사 업무",
+      "topic": "세특작성",
+      "confidence": "low"
     },
     {
       "category": "과학교사 업무",
       "topic": "세특작성",
-      "confidence": "low"
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "과학도서 리뷰+전시물 만들기 모둠활동 소개. / 도서 리뷰·전시물 활동을 생기부 기재용 자료로 설계.",
+  "tagsNote": "과학도서 리뷰+전시물 만들기 모둠활동 소개. / 도서 리뷰·전시물 활동을 생기부 기재용 자료로 설계. / 생기부 기재를 위해 설계·개선한 과학도서 수행평가·모둠활동.",
   "taggedAt": "2026-08-28T00:10:18.699Z"
 }

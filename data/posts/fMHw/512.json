@@ -19,13 +19,11 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
-      "confidence": "low"
+      "category": "스마트 수업도구",
+      "topic": "생성형 AI 도구",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "환경의 날 기념으로 만든 10분짜리 환경교육 동영상 공유(특정 단원과 무관).",
+  "tagsNote": "환경의 날 기념으로 만든 10분짜리 환경교육 동영상 공유(특정 단원과 무관). / 환경교육주간 동영상 — 노트북 LM으로 제작.",
   "taggedAt": "2026-08-13T12:56:59.885Z"
 }

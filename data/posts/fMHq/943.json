@@ -19,13 +19,20 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
-      "confidence": "low"
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "화학 반응의 규칙과 에너지 변화",
+      "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "화학 반응의 규칙성",
+      "confidence": "high"
     }
   ],
-  "tagsNote": "미래엔 교과서 기반 활동지 공유(구체 단원 불명확).",
+  "tagsNote": "미래엔 교과서 기반 활동지 공유(구체 단원 불명확). / 화학반응의 규칙성 단원 협력학습용 빈칸 학습지(c-map).",
   "taggedAt": "2026-08-12T22:36:15.242Z"
 }

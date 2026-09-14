@@ -19,13 +19,13 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
+      "curriculumYear": "2022",
+      "schoolLevel": "고등학교",
+      "subject": "역학과 에너지",
+      "unit": "열과 에너지",
       "confidence": "medium"
     }
   ],
-  "tagsNote": "물리학 공개수업 실험/활동 추천 요청(단원 불특정).",
+  "tagsNote": "물리학 공개수업 실험/활동 추천 요청(단원 불특정). / 열역학 1법칙·2법칙 파트 공개수업 활동 아이디어 요청.",
   "taggedAt": "2026-08-12T03:34:06.465Z"
 }

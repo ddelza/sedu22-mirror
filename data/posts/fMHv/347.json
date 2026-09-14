@@ -19,13 +19,20 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
-      "confidence": "low"
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "수권과 해수의 순환",
+      "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "수권과 해수의 순환",
+      "confidence": "high"
     }
   ],
-  "tagsNote": "다른 선생님 활동을 응용한 '복불복' 게임 소개(구체적 단원 내용은 불명확).",
+  "tagsNote": "다른 선생님 활동을 응용한 '복불복' 게임 소개(구체적 단원 내용은 불명확). / 해수의 성분(소금 맛보기 복불복) 동기유발 활동.",
   "taggedAt": "2026-08-13T11:49:45.456Z"
 }

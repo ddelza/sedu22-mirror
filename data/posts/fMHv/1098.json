@@ -19,13 +19,34 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "화학 반응의 규칙과 에너지 변화",
+      "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "화학 반응의 규칙성",
+      "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "태양계",
+      "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "태양계",
       "confidence": "medium"
     }
   ],
-  "tagsNote": "무지 젠가를 활용한 과학 퀴즈 젠가 게임 제작 공유(특정 단원 아님).",
+  "tagsNote": "무지 젠가를 활용한 과학 퀴즈 젠가 게임 제작 공유(특정 단원 아님). / 화학반응의 규칙성/여러 가지 화학 반응/태양계 시험범위 젠가 퀴즈 게임.",
   "taggedAt": "2026-08-13T04:36:12.440Z"
 }

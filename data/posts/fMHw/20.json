@@ -19,13 +19,13 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
-      "confidence": "low"
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "과학과 인류의 지속가능한 삶",
+      "confidence": "high"
     }
   ],
-  "tagsNote": "1단원 과학적 탐구방법을 적용한 종이헬리콥터 만들기 탐구활동 계획 공유(특정 지구과학 단원 아님).",
+  "tagsNote": "1단원 과학적 탐구방법을 적용한 종이헬리콥터 만들기 탐구활동 계획 공유(특정 지구과학 단원 아님). / 1단원 과학적탐구방법 적용 — 종이헬리콥터 활동.",
   "taggedAt": "2026-08-13T12:34:22.688Z"
 }

@@ -19,13 +19,20 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
-      "confidence": "low"
+      "curriculumYear": "2015",
+      "schoolLevel": "고등학교",
+      "subject": "화학Ⅰ",
+      "unit": "역동적인 화학 반응",
+      "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "고등학교",
+      "subject": "화학 반응의 세계",
+      "unit": "산 염기 평형",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "2021 수능 화학 20번 풀이 논리 정리.",
+  "tagsNote": "2021 수능 화학 20번 풀이 논리 정리. / 2021 수능 화학1 20번(산염기 중화) 풀이 논리 보완.",
   "taggedAt": "2026-08-12T03:44:21.872Z"
 }

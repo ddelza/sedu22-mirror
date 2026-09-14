@@ -19,13 +19,11 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
-      "confidence": "high"
+      "category": "과학교사 업무",
+      "topic": "교원연수",
+      "confidence": "low"
     }
   ],
-  "tagsNote": "심리학 연수에서 배운 의사소통 활동('화성에서 살아남기') 공유.",
+  "tagsNote": "심리학 연수에서 배운 의사소통 활동('화성에서 살아남기') 공유. / 심리학 부전공 연수 중 접한 의사소통 수업 활동 공유.",
   "taggedAt": "2026-08-12T08:53:47.295Z"
 }

@@ -19,18 +19,21 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
-      "confidence": "high"
+      "category": "스마트 수업도구",
+      "topic": "생성형 AI 도구",
+      "confidence": "low"
+    },
+    {
+      "category": "과학교사 업무",
+      "topic": "교원연수",
+      "confidence": "low"
     },
     {
       "category": "스마트 수업도구",
       "topic": "생성형 AI 도구",
-      "confidence": "low"
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "자유학기제 학부모 특강 영상 — NotebookLM으로 제작, 과학 한정 내용 아님.",
+  "tagsNote": "자유학기제 학부모 특강 영상 — NotebookLM으로 제작, 과학 한정 내용 아님. / 학부모 특강 참석, Notebook LM·Vrew로 강연 요약 영상 제작.",
   "taggedAt": "2026-08-11T23:53:37.532Z"
 }

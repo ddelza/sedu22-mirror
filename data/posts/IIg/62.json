@@ -19,13 +19,20 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
-      "confidence": "low"
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "과학과 인류의 지속가능한 삶",
+      "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "과학과 나의 미래",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "과학의 본성을 체험하는 오리엔테이션 활동 'Mystery Box' 프로그램 소개(특정 단원 한정 아님).",
+  "tagsNote": "과학의 본성을 체험하는 오리엔테이션 활동 'Mystery Box' 프로그램 소개(특정 단원 한정 아님). / Mystery Box — 학기초 '과학이란 무엇인가' 오리엔테이션용 과학의 본성 프로그램.",
   "taggedAt": "2026-08-13T13:15:05.060Z"
 }

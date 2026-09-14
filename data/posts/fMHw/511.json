@@ -19,13 +19,13 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "과학과 인류의 지속가능한 삶",
       "confidence": "low"
     }
   ],
-  "tagsNote": "중1 대상 7차시로 진행한 인공지능 시대 윤리 탐구 수업 공유(특정 지구과학 단원 아님).",
+  "tagsNote": "중1 대상 7차시로 진행한 인공지능 시대 윤리 탐구 수업 공유(특정 지구과학 단원 아님). / 인공지능 시대 윤리 탐구하기 — 중1 대상 AI 기계학습 및 윤리 수업.",
   "taggedAt": "2026-08-13T12:56:59.884Z"
 }

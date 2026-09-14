@@ -19,13 +19,20 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "전기와 자기",
+      "confidence": "low"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "전기와 자기",
       "confidence": "low"
     }
   ],
-  "tagsNote": "학생 학습지 필기 인증(내용 불명확).",
+  "tagsNote": "학생 학습지 필기 인증(내용 불명확). / 자성체(상자성체/강자성체/퀴리온도) 심화 자유학기 수업.",
   "taggedAt": "2026-08-12T03:26:25.463Z"
 }

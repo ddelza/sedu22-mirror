@@ -19,13 +19,11 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
-      "confidence": "high"
+      "category": "과학교사 업무",
+      "topic": "교원연수",
+      "confidence": "low"
     }
   ],
-  "tagsNote": "배움의 공동체 관련 도서 추천.",
+  "tagsNote": "배움의 공동체 관련 도서 추천. / 배움의 공동체 연수 참석 중 추천받은 책 소개.",
   "taggedAt": "2026-08-17T04:23:16.401Z"
 }

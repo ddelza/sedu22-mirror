@@ -19,13 +19,20 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
-      "confidence": "low"
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "지권의 변화",
+      "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "지권의 변화",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "3, 2, 1단원 순서로 진행한 1학년 1학기 마지막 수업 소감(특정 단원 내용 없음).",
+  "tagsNote": "3, 2, 1단원 순서로 진행한 1학년 1학기 마지막 수업 소감(특정 단원 내용 없음). / 대륙과 해양 이름 짓기(대륙이동 관련) 학기말 미션 수업.",
   "taggedAt": "2026-08-13T05:25:30.499Z"
 }

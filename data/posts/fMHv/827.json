@@ -19,13 +19,48 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
-      "confidence": "low"
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "여러 가지 힘",
+      "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "힘의 작용",
+      "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "생물의 다양성",
+      "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "생물의 구성과 다양성",
+      "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "기체의 성질",
+      "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "기체의 성질",
+      "confidence": "high"
     }
   ],
-  "tagsNote": "중1 과학 여러 단원의 실험을 집에서 할 수 있게 만든 '신과람샘' 실험 꾸러미 영상 소개(특정 단원 한정 아님).",
+  "tagsNote": "중1 과학 여러 단원의 실험을 집에서 할 수 있게 만든 '신과람샘' 실험 꾸러미 영상 소개(특정 단원 한정 아님). / 중1 단원별(여러 가지 힘/생물의 다양성/기체의 성질 등) 집콕 과학실험 영상 시리즈.",
   "taggedAt": "2026-08-13T12:22:01.832Z"
 }

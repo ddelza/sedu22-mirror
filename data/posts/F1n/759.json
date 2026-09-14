@@ -19,13 +19,20 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
-      "confidence": "high"
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "과학과 인류의 지속가능한 삶",
+      "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "과학과 나의 미래",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "과학 첫 시간용 미스테리 튜브(과학적 지식과 관찰) 수업 소개.",
+  "tagsNote": "과학 첫 시간용 미스테리 튜브(과학적 지식과 관찰) 수업 소개. / 미스테리 튜브 활동 — '과학이란 무엇인지' 탐구/관찰 개념을 다루는 1단원 도입 수업.",
   "taggedAt": "2026-08-12T08:55:07.508Z"
 }

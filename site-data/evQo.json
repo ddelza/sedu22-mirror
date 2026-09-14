@@ -1028,11 +1028,18 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
-        "confidence": "high"
+        "curriculumYear": "2015",
+        "schoolLevel": "고등학교",
+        "subject": "지구과학Ⅰ",
+        "unit": "대기와 해양의 변화",
+        "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "지구과학",
+        "unit": "대기와 해양의 상호작용",
+        "confidence": "medium"
       }
     ]
   },

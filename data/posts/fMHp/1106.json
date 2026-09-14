@@ -19,13 +19,20 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "에너지 전환과 보존",
+      "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "운동과 에너지",
       "confidence": "medium"
     }
   ],
-  "tagsNote": "주사위판 게임 파일 공유(단원 불명확).",
+  "tagsNote": "주사위판 게임 파일 공유(단원 불명확). / 일과 일률 내용을 다룬 주사위판 보드게임 자료.",
   "taggedAt": "2026-08-12T14:34:59.694Z"
 }

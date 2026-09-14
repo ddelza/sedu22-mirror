@@ -19,13 +19,20 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
-      "confidence": "low"
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "자극과 반응",
+      "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "자극과 반응",
+      "confidence": "high"
     }
   ],
-  "tagsNote": "미래엔 교과서 기준 4단원 활동지(2023년 사용본) 공유(구체적 단원 불명확).",
+  "tagsNote": "미래엔 교과서 기준 4단원 활동지(2023년 사용본) 공유(구체적 단원 불명확). / Ⅳ. 자극과 반응 개념활동지(미래엔).",
   "taggedAt": "2026-08-13T12:49:29.334Z"
 }

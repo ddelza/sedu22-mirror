@@ -19,13 +19,13 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
-      "confidence": "low"
+      "curriculumYear": "2022",
+      "schoolLevel": "고등학교",
+      "subject": "물질과 에너지",
+      "unit": "물질의 세 가지 상태",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "탄산맛 과일(드라이아이스) 만들기 사진 공유.",
+  "tagsNote": "탄산맛 과일(드라이아이스) 만들기 사진 공유. / 드라이아이스를 이용한 탄산 과일 만들기(승화·상태변화).",
   "taggedAt": "2026-08-12T03:42:56.103Z"
 }

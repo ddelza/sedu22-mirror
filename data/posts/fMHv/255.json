@@ -19,13 +19,20 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "물질의 상태 변화",
+      "confidence": "low"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "물질의 상태 변화",
       "confidence": "low"
     }
   ],
-  "tagsNote": "무지개 양초 만들기 활동에서 안전과 진행상 어려움에 대한 노하우 요청(특정 단원과 무관).",
+  "tagsNote": "무지개 양초 만들기 활동에서 안전과 진행상 어려움에 대한 노하우 요청(특정 단원과 무관). / 무지개 양초 만들기(파라핀 응고) 노하우 질문.",
   "taggedAt": "2026-08-13T05:28:53.032Z"
 }

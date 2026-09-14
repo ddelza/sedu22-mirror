@@ -19,13 +19,20 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
-      "confidence": "medium"
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "전기와 자기",
+      "confidence": "low"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "전기와 자기",
+      "confidence": "low"
     }
   ],
-  "tagsNote": "과학수업용 멀티미디어 자료 모음 공유(단원 불명확).",
+  "tagsNote": "과학수업용 멀티미디어 자료 모음 공유(단원 불명확). / 전기 파트 멀티미디어(플래시/동영상) 자료 모음.",
   "taggedAt": "2026-08-12T14:36:22.500Z"
 }

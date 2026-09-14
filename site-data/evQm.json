@@ -1387,10 +1387,10 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "역학과 에너지",
+        "unit": "열과 에너지",
         "confidence": "medium"
       }
     ]
@@ -3793,10 +3793,17 @@
         "confidence": "high"
       },
       {
-        "curriculumYear": null,
-        "schoolLevel": null,
-        "subject": null,
-        "unit": "미분류",
+        "curriculumYear": "2015",
+        "schoolLevel": "고등학교",
+        "subject": "물리학Ⅰ",
+        "unit": "역학과 에너지",
+        "confidence": "high"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "고등학교",
+        "subject": "물리학",
+        "unit": "힘과 에너지",
         "confidence": "high"
       }
     ]

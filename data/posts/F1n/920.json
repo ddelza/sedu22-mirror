@@ -19,13 +19,13 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
-      "confidence": "high"
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "과학과 인류의 지속가능한 삶",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "중1 1단원 수업 활용 KBS 영상(사이언스워) 소개.",
+  "tagsNote": "중1 1단원 수업 활용 KBS 영상(사이언스워) 소개. / 파스퇴르 vs 코흐 미생물 발견사 영상 — 과학적 탐구 방법 관련 활용.",
   "taggedAt": "2026-08-12T09:00:30.098Z"
 }

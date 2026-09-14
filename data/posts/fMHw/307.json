@@ -19,13 +19,11 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
+      "category": "과학교사 업무",
+      "topic": "교원연수",
       "confidence": "low"
     }
   ],
-  "tagsNote": "보드게임 연수 과제로 만든 중2 1학기 총정리 폐교 탈출 게임(여러 단원 혼합) 공유.",
+  "tagsNote": "보드게임 연수 과제로 만든 중2 1학기 총정리 폐교 탈출 게임(여러 단원 혼합) 공유. / 'PPT를 이용한 보드게임 수업 활용 연수' 수강 과제로 제작.",
   "taggedAt": "2026-08-13T12:49:29.314Z"
 }

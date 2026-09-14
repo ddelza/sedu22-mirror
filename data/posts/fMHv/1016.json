@@ -19,13 +19,20 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
-      "confidence": "medium"
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "기권과 날씨",
+      "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "날씨와 기후변화",
+      "confidence": "high"
     }
   ],
-  "tagsNote": "대단원 마무리용 개념 빙고 게임 진행 방법 소개(특정 단원 아님).",
+  "tagsNote": "대단원 마무리용 개념 빙고 게임 진행 방법 소개(특정 단원 아님). / 기권 단원 마무리 개념 빙고 활동(파일명 명시).",
   "taggedAt": "2026-08-13T04:33:14.081Z"
 }

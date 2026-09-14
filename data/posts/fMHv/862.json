@@ -19,13 +19,20 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
-      "confidence": "low"
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "물질의 상태 변화",
+      "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "물질의 상태 변화",
+      "confidence": "high"
     }
   ],
-  "tagsNote": "A3 용지로 만드는 범용 단원 정리용 보드게임판 템플릿 공유(특정 단원 한정 아님).",
+  "tagsNote": "A3 용지로 만드는 범용 단원 정리용 보드게임판 템플릿 공유(특정 단원 한정 아님). / 물질의 상태 변화 단원 정리용 보드게임판(파일명 명시).",
   "taggedAt": "2026-08-13T12:23:37.894Z"
 }

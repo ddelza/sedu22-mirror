@@ -19,13 +19,11 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
-      "confidence": "high"
+      "category": "과학교사 업무",
+      "topic": "교원연수",
+      "confidence": "low"
     }
   ],
-  "tagsNote": "겨울방학 연수에서 소개받은 '빠르게 실패하기' 책 나눔.",
+  "tagsNote": "겨울방학 연수에서 소개받은 '빠르게 실패하기' 책 나눔. / 겨울방학 연수에서 강사가 소개한 책 나눔.",
   "taggedAt": "2026-08-12T09:00:30.115Z"
 }

@@ -19,13 +19,11 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
-      "confidence": "high"
+      "category": "과학교사 업무",
+      "topic": "교원연수",
+      "confidence": "low"
     }
   ],
-  "tagsNote": "풍선구조물/다리/골프공쌓기 창의공학 챌린지, 특정 단원 아님.",
+  "tagsNote": "풍선구조물/다리/골프공쌓기 창의공학 챌린지, 특정 단원 아님. / 발명연수에서 배운 창의 순발력 과제 활동.",
   "taggedAt": "2026-08-17T04:26:15.633Z"
 }

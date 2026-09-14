@@ -19,13 +19,20 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
-      "confidence": "low"
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "화학 반응의 규칙과 에너지 변화",
+      "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "화학 반응의 규칙성",
+      "confidence": "high"
     }
   ],
-  "tagsNote": "미래엔 교과서 기준 학생용 유인물(구체 단원 불명확).",
+  "tagsNote": "미래엔 교과서 기준 학생용 유인물(구체 단원 불명확). / 여러 가지 화학 반응 단원 학생용 필기자료(미래엔 교과서).",
   "taggedAt": "2026-08-12T15:36:19.718Z"
 }

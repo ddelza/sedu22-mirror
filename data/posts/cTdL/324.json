@@ -19,13 +19,20 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
-      "confidence": "low"
+      "curriculumYear": "2015",
+      "schoolLevel": "고등학교",
+      "subject": "통합과학",
+      "unit": "물질의 규칙성과 결합",
+      "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "고등학교",
+      "subject": "통합과학1",
+      "unit": "물질과 규칙성",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "장학퀴즈 문제 활용 모둠토의 자료 — 단원 정보 불명확.",
+  "tagsNote": "장학퀴즈 문제 활용 모둠토의 자료 — 단원 정보 불명확. / 주기율표 힌트를 이용한 모둠 토의 퀴즈(장학퀴즈 캡처).",
   "taggedAt": "2026-08-12T00:09:40.033Z"
 }

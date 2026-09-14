@@ -19,13 +19,20 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
-      "confidence": "medium"
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "열과 우리 생활",
+      "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "열",
+      "confidence": "high"
     }
   ],
-  "tagsNote": "기술 교과 융합 주택모형 만들기(과학 단원 직접 연결 약함).",
+  "tagsNote": "기술 교과 융합 주택모형 만들기(과학 단원 직접 연결 약함). / 자유학기제 교과융합수업(기술+과학) — 열과 우리생활 단원에 맞춘 에너지 절약하우스 만들기.",
   "taggedAt": "2026-08-12T03:21:38.484Z"
 }

@@ -19,13 +19,20 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "생식과 유전",
+      "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "생식과 유전",
       "confidence": "medium"
     }
   ],
-  "tagsNote": "중2 학생들과 함께 읽은 미래소설 '리와일드' 소개.",
+  "tagsNote": "중2 학생들과 함께 읽은 미래소설 '리와일드' 소개. / 소설 <리와일드> 독후활동 다음 차시로 멘델 유전 이야기·완두 자가/타가수분 관찰 예정.",
   "taggedAt": "2026-08-12T10:25:08.356Z"
 }

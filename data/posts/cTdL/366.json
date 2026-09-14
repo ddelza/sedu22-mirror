@@ -19,13 +19,27 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
-      "confidence": "high"
+      "curriculumYear": "2015",
+      "schoolLevel": "고등학교",
+      "subject": "과학탐구실험",
+      "unit": "역사 속의 과학 탐구",
+      "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "고등학교",
+      "subject": "과학탐구실험",
+      "unit": "생활 속의 과학 탐구",
+      "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "고등학교",
+      "subject": "과학탐구실험",
+      "unit": "첨단 과학 탐구",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "과학탐구실험 운영 경험담 — 특정 단원 아닌 과목 전반 조언.",
+  "tagsNote": "과학탐구실험 운영 경험담 — 특정 단원 아닌 과목 전반 조언. / 과학탐구실험 실험 주제 선정 과정(교과서 세 대단원 실험표 전체를 정리해 팀별 탐구 주제 선정).",
   "taggedAt": "2026-08-12T00:11:34.162Z"
 }

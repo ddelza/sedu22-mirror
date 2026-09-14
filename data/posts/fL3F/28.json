@@ -19,13 +19,20 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": "지구과학",
-      "unit": "미분류",
-      "confidence": "low"
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "태양계",
+      "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "태양계",
+      "confidence": "high"
     }
   ],
-  "tagsNote": "에라토스테네스 방법으로 실제 지구 크기를 측정하는 전국단위 실험 베타테스트(중·고 공동 참여, 특정 학교급 한정 아님).",
+  "tagsNote": "에라토스테네스 방법으로 실제 지구 크기를 측정하는 전국단위 실험 베타테스트(중·고 공동 참여, 특정 학교급 한정 아님). / 에라토스테네스 지구크기 측정 전국단위 실험 베타테스트.",
   "taggedAt": "2026-08-13T13:57:29.859Z"
 }

@@ -19,13 +19,11 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
-      "confidence": "high"
+      "category": "과학교사 업무",
+      "topic": "학급운영",
+      "confidence": "low"
     }
   ],
-  "tagsNote": "코넬노트 등 아날로그 노트 정리 활동 공유.",
+  "tagsNote": "코넬노트 등 아날로그 노트 정리 활동 공유. / 코넬노트 정리 + 불시검사를 통한 보상 제도.",
   "taggedAt": "2026-08-12T09:01:46.578Z"
 }

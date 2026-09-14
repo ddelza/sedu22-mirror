@@ -19,13 +19,20 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "여러 가지 힘",
+      "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "힘의 작용",
       "confidence": "medium"
     }
   ],
-  "tagsNote": "레고를 활용한 동아리 수업 아이디어 요청(단원 불명확).",
+  "tagsNote": "레고를 활용한 동아리 수업 아이디어 요청(단원 불명확). / 여러 가지 힘 단원 진도 중 레고를 활용한 수업 아이디어 문의.",
   "taggedAt": "2026-08-12T15:07:01.319Z"
 }

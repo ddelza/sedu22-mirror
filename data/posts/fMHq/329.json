@@ -19,13 +19,20 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
-      "confidence": "low"
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "물질의 구성",
+      "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "물질의 구성",
+      "confidence": "high"
     }
   ],
-  "tagsNote": "재난구호물품기호 등 두 종류 활동지 공유(구체 화학 단원 불명확).",
+  "tagsNote": "재난구호물품기호 등 두 종류 활동지 공유(구체 화학 단원 불명확). / 원소기호·분자식 활용 재난구호물품 기호 만들기, 원소기호 타이포그래피 활동지.",
   "taggedAt": "2026-08-12T22:10:34.153Z"
 }

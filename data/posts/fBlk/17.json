@@ -19,13 +19,20 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
-      "confidence": "medium"
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "수권과 해수의 순환",
+      "confidence": "low"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "수권과 해수의 순환",
+      "confidence": "low"
     }
   ],
-  "tagsNote": "'바다의 이용' 수업 운영 영상 아카이브 소개.",
+  "tagsNote": "'바다의 이용' 수업 운영 영상 아카이브 소개. / 지구계 학습 후 '바다의 이용' 수업 영상 공유.",
   "taggedAt": "2026-08-12T13:24:15.944Z"
 }

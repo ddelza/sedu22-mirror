@@ -19,13 +19,20 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
-      "confidence": "high"
+      "curriculumYear": "2015",
+      "schoolLevel": "고등학교",
+      "subject": "통합과학",
+      "unit": "생명 시스템",
+      "confidence": "low"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "고등학교",
+      "subject": "통합과학1",
+      "unit": "물질과 규칙성",
+      "confidence": "low"
     }
   ],
-  "tagsNote": "암호 편지 활동지 — 단원 정보 불명확.",
+  "tagsNote": "암호 편지 활동지 — 단원 정보 불명확. / 유전 암호(코돈)를 문자로 번역하는 편지쓰기 활동(교과서 범위 밖 심화).",
   "taggedAt": "2026-08-12T00:07:58.400Z"
 }

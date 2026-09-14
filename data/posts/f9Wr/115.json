@@ -19,13 +19,11 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
-      "confidence": "medium"
+      "category": "과학교사 업무",
+      "topic": "세특작성",
+      "confidence": "low"
     }
   ],
-  "tagsNote": "생활기록부 비타민C 표기 관련 문의.",
+  "tagsNote": "생활기록부 비타민C 표기 관련 문의. / 생활기록부 기재 시 '비타민C' 표기 관련 질문.",
   "taggedAt": "2026-08-12T10:28:48.870Z"
 }

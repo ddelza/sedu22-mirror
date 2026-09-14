@@ -19,13 +19,20 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
-      "confidence": "high"
+      "curriculumYear": "2015",
+      "schoolLevel": "고등학교",
+      "subject": "화학Ⅰ",
+      "unit": "원자의 세계",
+      "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "고등학교",
+      "subject": "화학Ⅰ",
+      "unit": "역동적인 화학 반응",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "2023 수능 화학 문항 유형/난이도 분석.",
+  "tagsNote": "2023 수능 화학 문항 유형/난이도 분석. / 2023 수능 화학1 분석(오비탈 에너지, pH·pOH·물의 자동이온화 등).",
   "taggedAt": "2026-08-12T03:44:21.875Z"
 }

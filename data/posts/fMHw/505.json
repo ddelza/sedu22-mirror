@@ -19,13 +19,13 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
-      "confidence": "low"
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "과학과 인류의 지속가능한 삶",
+      "confidence": "high"
     }
   ],
-  "tagsNote": "MBTI 밈을 활용해 1단원 과학적 탐구방법 첫 수업 도입을 고민하는 글(특정 지구과학 단원 아님).",
+  "tagsNote": "MBTI 밈을 활용해 1단원 과학적 탐구방법 첫 수업 도입을 고민하는 글(특정 지구과학 단원 아님). / 1단원 과학과 인류의 지속가능한 삶 - 1.과학적 탐구 방법 첫 수업(가설/변인).",
   "taggedAt": "2026-08-13T12:56:59.880Z"
 }

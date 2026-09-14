@@ -19,13 +19,13 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
-      "confidence": "high"
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "생식과 유전",
+      "confidence": "low"
     }
   ],
-  "tagsNote": "기술가정과 '생명기술' 단원 수업(과학 교육과정 목록 밖).",
+  "tagsNote": "기술가정과 '생명기술' 단원 수업(과학 교육과정 목록 밖). / 기술가정 생명기술 단원 수업이나 과학교과에서도 활용 가능한 유전공학 관련 수업.",
   "taggedAt": "2026-08-17T04:24:34.163Z"
 }

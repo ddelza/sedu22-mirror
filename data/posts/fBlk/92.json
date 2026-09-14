@@ -19,13 +19,18 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
+      "category": "과학교사 업무",
+      "topic": "세특작성",
       "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "과학과 나의 미래",
+      "confidence": "low"
     }
   ],
-  "tagsNote": "중1 자유학년제 평가계획서(교육과정 및 평가계획) 공유.",
+  "tagsNote": "중1 자유학년제 평가계획서(교육과정 및 평가계획) 공유. / 자유학년제 평가계획 및 과세특 바이트 제한 대응법 공유, 7단원(과학과 나의미래) 재배치 언급.",
   "taggedAt": "2026-08-12T13:32:32.151Z"
 }

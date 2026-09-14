@@ -19,13 +19,13 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
-      "confidence": "high"
+      "curriculumYear": "2015",
+      "schoolLevel": "고등학교",
+      "subject": "생명과학Ⅰ",
+      "unit": "생명과학의 이해",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "코로나 시기 온라인 수업 준비 관련 소회 — 특정 단원 아님.",
+  "tagsNote": "코로나 시기 온라인 수업 준비 관련 소회 — 특정 단원 아님. / '생명이란 무엇인가'를 주제로 생물을 직접 키우며 생명의 특성을 관찰하는 프로젝트.",
   "taggedAt": "2026-08-12T03:15:16.332Z"
 }

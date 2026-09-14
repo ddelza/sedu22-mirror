@@ -19,13 +19,13 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
-      "confidence": "low"
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "과학기술과 인류 문명",
+      "confidence": "high"
     }
   ],
-  "tagsNote": "신규교사가 8단원 인류 문명 도입에 활용한 게임 트레일러 영상 소개(특정 지구과학 단원 아님).",
+  "tagsNote": "신규교사가 8단원 인류 문명 도입에 활용한 게임 트레일러 영상 소개(특정 지구과학 단원 아님). / 8단원(인류 문명) 도입 영상 — 과학의 발달과 인류 문명 발달의 관계.",
   "taggedAt": "2026-08-13T12:58:04.712Z"
 }

@@ -19,13 +19,13 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "과학과 인류의 지속가능한 삶",
       "confidence": "high"
     }
   ],
-  "tagsNote": "영화 '프로젝트 헤일메리' 기반 과학적 탐구방법 수업 아이디어 공유.",
+  "tagsNote": "영화 '프로젝트 헤일메리' 기반 과학적 탐구방법 수업 아이디어 공유. / '프로젝트 헬로메리' — 중1 1단원 과학적 탐구 방법을 겨냥한 시뮬레이션 활동, 본문에 명시.",
   "taggedAt": "2026-08-12T09:01:46.576Z"
 }

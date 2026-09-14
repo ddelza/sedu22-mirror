@@ -19,13 +19,11 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
-      "confidence": "high"
+      "category": "과학교사 업무",
+      "topic": "학급운영",
+      "confidence": "low"
     }
   ],
-  "tagsNote": "선택교과 합반 수업 출석체크 방법 문의.",
+  "tagsNote": "선택교과 합반 수업 출석체크 방법 문의. / 합반 수업 출석체크 방법 문의 — 구조적 운영 방식.",
   "taggedAt": "2026-08-12T08:57:43.678Z"
 }

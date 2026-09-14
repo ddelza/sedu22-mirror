@@ -19,13 +19,20 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
-      "confidence": "high"
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "생식과 유전",
+      "confidence": "low"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "생식과 유전",
+      "confidence": "low"
     }
   ],
-  "tagsNote": "DNA 관련 도서 '기묘한 DNA 도서관' 소개.",
+  "tagsNote": "DNA 관련 도서 '기묘한 DNA 도서관' 소개. / DNA 단원 지도 시 참고할 만한 과학도서 소개.",
   "taggedAt": "2026-08-12T10:26:25.413Z"
 }

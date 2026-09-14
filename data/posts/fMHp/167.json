@@ -19,13 +19,20 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
-      "confidence": "medium"
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "빛과 파동",
+      "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "빛과 파동",
+      "confidence": "high"
     }
   ],
-  "tagsNote": "AI 소리분석 기반 생물다양성 확인 기사 소개.",
+  "tagsNote": "AI 소리분석 기반 생물다양성 확인 기사 소개. / AI 동물소리 분석 기사(작성자가 빛과 파동 단원 자료로 직접 분류).",
   "taggedAt": "2026-08-12T14:54:31.938Z"
 }

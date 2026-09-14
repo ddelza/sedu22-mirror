@@ -19,13 +19,13 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
-      "confidence": "low"
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "과학과 나의 미래",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "자유학기제 진로체험 관련 EBS 뉴스 '드림주니어' 유튜브 재생목록 소개(특정 단원과 무관).",
+  "tagsNote": "자유학기제 진로체험 관련 EBS 뉴스 '드림주니어' 유튜브 재생목록 소개(특정 단원과 무관). / 7단원 과학과 미래에서 활용할 진로체험 영상.",
   "taggedAt": "2026-08-13T12:31:15.863Z"
 }

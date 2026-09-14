@@ -19,18 +19,25 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
-      "confidence": "low"
-    },
-    {
       "category": "스마트 수업도구",
       "topic": "앱/프로그램",
       "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "수권과 해수의 순환",
+      "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "수권과 해수의 순환",
+      "confidence": "high"
     }
   ],
-  "tagsNote": "정기고사 이후 남은 시간 과학영화 감상과 핑퐁 앱을 결합해 활용한 방법 고민(특정 단원과 무관).",
+  "tagsNote": "정기고사 이후 남은 시간 과학영화 감상과 핑퐁 앱을 결합해 활용한 방법 고민(특정 단원과 무관). / 영화 '투마로우'(해수 순환/빙하기) 감상 후 핑퐁 앱 퀴즈.",
   "taggedAt": "2026-08-13T11:49:45.461Z"
 }

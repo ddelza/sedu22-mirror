@@ -19,13 +19,13 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
-      "confidence": "low"
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "과학과 나의 미래",
+      "confidence": "high"
     }
   ],
-  "tagsNote": "타이포그래피 직업카드 만들기로 진행한 '과학과 나의 미래' 2차시 수업 공유(특정 지구과학 단원 아님).",
+  "tagsNote": "타이포그래피 직업카드 만들기로 진행한 '과학과 나의 미래' 2차시 수업 공유(특정 지구과학 단원 아님). / 7단원 과학과 나의 미래 — 직업카드 만들기, 역량분석 수업.",
   "taggedAt": "2026-08-13T12:29:51.541Z"
 }

@@ -19,13 +19,18 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
-      "confidence": "low"
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "과학과 인류의 지속가능한 삶",
+      "confidence": "high"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "생성형 AI 도구",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "챗GPT로 탐구계획서를 점검하는 단계를 포함한 과학적 탐구방법 수행평가 자료 공유(특정 지구과학 단원 아님).",
+  "tagsNote": "챗GPT로 탐구계획서를 점검하는 단계를 포함한 과학적 탐구방법 수행평가 자료 공유(특정 지구과학 단원 아님). / 과학적 탐구방법 수행평가 — 챗GPT와 탐구계획서 점검하는 2차시 포함.",
   "taggedAt": "2026-08-13T12:47:52.431Z"
 }

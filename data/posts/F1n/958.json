@@ -19,13 +19,13 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
-      "confidence": "high"
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "날씨와 기후변화",
+      "confidence": "low"
     }
   ],
-  "tagsNote": "인천 지역 기후환경생태교육 자료 모음 공유.",
+  "tagsNote": "인천 지역 기후환경생태교육 자료 모음 공유. / 인천 기후환경생태교육 자료 모음(중학교 대상).",
   "taggedAt": "2026-08-12T09:00:30.117Z"
 }

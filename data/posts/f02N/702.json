@@ -18,13 +18,11 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
-      "confidence": "high"
+      "category": "과학교사 업무",
+      "topic": "교원연수",
+      "confidence": "low"
     }
   ],
-  "tagsNote": "실험실 안전관리 연수 복장(모자 착용) 관련 문의.",
+  "tagsNote": "실험실 안전관리 연수 복장(모자 착용) 관련 문의. / 실험실 안전관리 연수 참석 관련 질문.",
   "taggedAt": "2026-08-12T04:54:27.557Z"
 }

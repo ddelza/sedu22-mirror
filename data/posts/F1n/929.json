@@ -19,13 +19,20 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "과학과 인류의 지속가능한 삶",
+      "confidence": "high"
+    },
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "과학과 나의 미래",
       "confidence": "high"
     }
   ],
-  "tagsNote": "중1 1단원 과학탐구 설계 수업(패들렛 활용) 진행 후기 공유.",
+  "tagsNote": "중1 1단원 과학탐구 설계 수업(패들렛 활용) 진행 후기 공유. / 중1 1단원 과학탐구 설계(가설 수립, 발포비타민 실험) 수업 후기.",
   "taggedAt": "2026-08-12T09:00:30.104Z"
 }

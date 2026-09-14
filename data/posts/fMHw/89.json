@@ -19,13 +19,13 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
-      "confidence": "low"
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "과학과 나의 미래",
+      "confidence": "high"
     }
   ],
-  "tagsNote": "미스터리 튜브를 활용한 과학적 지식과 관찰 수업 자료 원본 공유(특정 단원과 무관).",
+  "tagsNote": "미스터리 튜브를 활용한 과학적 지식과 관찰 수업 자료 원본 공유(특정 단원과 무관). / 미스테리 튜브 — 과학이란 무엇인지 다루는 첫 시간 수업.",
   "taggedAt": "2026-08-13T12:58:04.743Z"
 }

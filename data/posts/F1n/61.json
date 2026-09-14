@@ -19,13 +19,20 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
-      "confidence": "high"
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "빛과 파동",
+      "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "빛과 파동",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "박스주사위를 활용한 단원/개념마무리 게임 소개.",
+  "tagsNote": "박스주사위를 활용한 단원/개념마무리 게임 소개. / 단원마무리 게임(박스주사위) — 예시로 든 단원이 빛과 파동(거울/렌즈/빛의 3원색/파동/음높이).",
   "taggedAt": "2026-08-12T08:49:54.504Z"
 }

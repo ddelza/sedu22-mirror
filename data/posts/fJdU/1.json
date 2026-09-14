@@ -19,13 +19,11 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
-      "confidence": "high"
+      "category": "과학교사 업무",
+      "topic": "교원연수",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "'망한 수업 자랑하기' 새 게시판 소개.",
+  "tagsNote": "'망한 수업 자랑하기' 새 게시판 소개. / 1정연수 과학선생님들과 진행한 '나의 망한 수업 소개' 토크 활동.",
   "taggedAt": "2026-08-12T13:36:47.378Z"
 }

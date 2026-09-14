@@ -19,13 +19,11 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
+      "category": "과학교사 업무",
+      "topic": "세특작성",
       "confidence": "medium"
     }
   ],
-  "tagsNote": "지구과학 과학글쓰기 수행평가 설계 관련 질문.",
+  "tagsNote": "지구과학 과학글쓰기 수행평가 설계 관련 질문. / 세특에 쓸 내용을 위해 과학글쓰기 수행평가로 변경 설계.",
   "taggedAt": "2026-08-12T13:21:50.466Z"
 }

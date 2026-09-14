@@ -19,18 +19,16 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
-      "confidence": "high"
+      "category": "과학교사 업무",
+      "topic": "교원연수",
+      "confidence": "low"
     },
     {
       "category": "과학교사 업무",
       "topic": "교원연수",
-      "confidence": "low"
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "2015 개정 과학과 교육과정 이해 특강 후기. / 경기도중등지구과학교육연구회 하계세미나 및 교육과정 특강 참석.",
+  "tagsNote": "2015 개정 과학과 교육과정 이해 특강 후기. / 경기도중등지구과학교육연구회 하계세미나 및 교육과정 특강 참석. / 경기도중등지구과학교육연구회 하계세미나·특강 참석 후기.",
   "taggedAt": "2026-08-28T00:06:11.276Z"
 }

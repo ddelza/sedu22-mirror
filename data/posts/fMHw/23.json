@@ -19,13 +19,13 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
-      "confidence": "low"
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "과학과 인류의 지속가능한 삶",
+      "confidence": "high"
     }
   ],
-  "tagsNote": "비상교과서 종이헬리콥터 탐구활동을 위해 직접 만든 도안 자료 공유(특정 지구과학 단원 아님).",
+  "tagsNote": "비상교과서 종이헬리콥터 탐구활동을 위해 직접 만든 도안 자료 공유(특정 지구과학 단원 아님). / 과학적 탐구방법 — 종이 헬리콥터 탐구 도안.",
   "taggedAt": "2026-08-13T12:46:21.309Z"
 }
