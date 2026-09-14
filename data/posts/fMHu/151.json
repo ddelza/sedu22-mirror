@@ -19,13 +19,20 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
-      "confidence": "medium"
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "생물의 다양성",
+      "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "생물의 구성과 다양성",
+      "confidence": "high"
     }
   ],
-  "tagsNote": "영구프레파라트를 이용한 현미경 사용법 익히기 게임활동(특정 단원 내용 아님).",
+  "tagsNote": "영구프레파라트를 이용한 현미경 사용법 익히기 게임활동(특정 단원 내용 아님). / 현미경 사용법 게임활동(초점 맞추기 대결).",
   "taggedAt": "2026-08-12T23:42:04.437Z"
 }

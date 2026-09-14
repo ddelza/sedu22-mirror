@@ -19,13 +19,20 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "생물의 다양성",
+      "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "생물의 구성과 다양성",
       "confidence": "medium"
     }
   ],
-  "tagsNote": "현미경 실험 수업 중 학생 소란 문제 해결 노하우 공유(특정 단원 아님).",
+  "tagsNote": "현미경 실험 수업 중 학생 소란 문제 해결 노하우 공유(특정 단원 아님). / 현미경 관찰 실험수업 운영 노하우(미션 부여 방식).",
   "taggedAt": "2026-08-13T04:21:21.344Z"
 }

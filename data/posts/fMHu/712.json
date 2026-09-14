@@ -19,13 +19,20 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
-      "confidence": "medium"
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "기체의 성질",
+      "confidence": "low"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "기체의 성질",
+      "confidence": "low"
     }
   ],
-  "tagsNote": "수온에 따른 기체 용해도 개념(금붕어 호흡)에 대한 학생 오개념 논의(생물 단원 아님).",
+  "tagsNote": "수온에 따른 기체 용해도 개념(금붕어 호흡)에 대한 학생 오개념 논의(생물 단원 아님). / 온도에 따른 기체 용해도 질문(금붕어가 여름에 뻐끔거리는 이유).",
   "taggedAt": "2026-08-13T04:19:48.793Z"
 }

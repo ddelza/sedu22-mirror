@@ -19,13 +19,20 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "생물의 다양성",
+      "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "생물의 구성과 다양성",
       "confidence": "high"
     }
   ],
-  "tagsNote": "입안 상피세포 현미경 관찰 실험에서 채취 후 대기 시간의 이유에 대한 질문(단원 특정 어려움).",
+  "tagsNote": "입안 상피세포 현미경 관찰 실험에서 채취 후 대기 시간의 이유에 대한 질문(단원 특정 어려움). / 입안 상피세포 현미경 관찰 실험(중1과학 교과서 성취기준 직접 인용).",
   "taggedAt": "2026-08-12T23:38:29.275Z"
 }

@@ -19,13 +19,25 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "생물의 다양성",
+      "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "생물의 구성과 다양성",
+      "confidence": "medium"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "메이커/3D프린팅",
       "confidence": "medium"
     }
   ],
-  "tagsNote": "레이저포인터와 주사기로 만든 초소형 현미경 관찰 아이디어(특정 단원 아님).",
+  "tagsNote": "레이저포인터와 주사기로 만든 초소형 현미경 관찰 아이디어(특정 단원 아님). / 3D프린팅 거치대로 만든 레이저포인터 현미경으로 원생생물 관찰.",
   "taggedAt": "2026-08-13T04:18:20.613Z"
 }

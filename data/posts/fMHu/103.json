@@ -19,13 +19,20 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
-      "confidence": "low"
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "생물의 다양성",
+      "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "생물의 구성과 다양성",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "4단원 식물세포·동물세포 현미경 관찰 자료(정확한 대응 단원 불명확).",
+  "tagsNote": "4단원 식물세포·동물세포 현미경 관찰 자료(정확한 대응 단원 불명확). / 식물세포/동물세포 관찰 수업(4단원) — 세포 관찰이 핵심.",
   "taggedAt": "2026-08-12T23:21:50.738Z"
 }

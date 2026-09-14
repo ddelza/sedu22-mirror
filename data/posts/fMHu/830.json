@@ -19,13 +19,20 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "자극과 반응",
+      "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "자극과 반응",
       "confidence": "medium"
     }
   ],
-  "tagsNote": "기말고사 후에도 진도가 남은 상황에 대한 고민 글(특정 단원 불명확).",
+  "tagsNote": "기말고사 후에도 진도가 남은 상황에 대한 고민 글(특정 단원 불명확). / 기말고사 후 자극과 반응 단원 진도를 못 나간 상황 고민.",
   "taggedAt": "2026-08-13T04:25:43.083Z"
 }

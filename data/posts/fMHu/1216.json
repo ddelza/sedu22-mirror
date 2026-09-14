@@ -19,13 +19,25 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
-      "confidence": "low"
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "생물의 다양성",
+      "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "생물의 구성과 다양성",
+      "confidence": "medium"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "교육용 단말기(태블릿/크롬북)",
+      "confidence": "high"
     }
   ],
-  "tagsNote": "아이패드 Keynote를 활용한 현미경 수업 준비(구체 단원 불명확).",
+  "tagsNote": "아이패드 Keynote를 활용한 현미경 수업 준비(구체 단원 불명확). / 아이패드(Keynote/GoodNotes)로 현미경 사용법 수업자료 및 학습지 제작.",
   "taggedAt": "2026-08-12T23:28:49.097Z"
 }

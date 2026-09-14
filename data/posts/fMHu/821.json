@@ -19,13 +19,20 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
-      "confidence": "medium"
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "자극과 반응",
+      "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "자극과 반응",
+      "confidence": "high"
     }
   ],
-  "tagsNote": "신규교사의 조언 요청 글(구체적 단원 내용 불명확).",
+  "tagsNote": "신규교사의 조언 요청 글(구체적 단원 내용 불명확). / 자극과 반응(신경계) 장학수업 아이디어 요청.",
   "taggedAt": "2026-08-13T04:24:17.229Z"
 }

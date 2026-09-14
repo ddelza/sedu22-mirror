@@ -19,13 +19,20 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
-      "confidence": "medium"
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "생물의 다양성",
+      "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "생물의 구성과 다양성",
+      "confidence": "high"
     }
   ],
-  "tagsNote": "검정말 구매 후 보관·관리 방법 질문(대상 단원 특정 어려움).",
+  "tagsNote": "검정말 구매 후 보관·관리 방법 질문(대상 단원 특정 어려움). / 식물세포 관찰용 검정말 보관 방법 문의.",
   "taggedAt": "2026-08-12T23:40:37.676Z"
 }

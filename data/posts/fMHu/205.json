@@ -19,13 +19,25 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
-      "confidence": "medium"
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "생물의 다양성",
+      "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "생물의 구성과 다양성",
+      "confidence": "high"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "앱/프로그램",
+      "confidence": "high"
     }
   ],
-  "tagsNote": "실제 현미경 조작 순서를 재현한 가상 현미경 프로그램 공유(특정 단원 내용 아님).",
+  "tagsNote": "실제 현미경 조작 순서를 재현한 가상 현미경 프로그램 공유(특정 단원 내용 아님). / 현미경 조작 연습용 가상 현미경 프로그램.",
   "taggedAt": "2026-08-12T23:43:32.171Z"
 }
