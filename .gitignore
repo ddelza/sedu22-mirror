@@ -1,6 +1,7 @@
 node_modules/
 session.json
 *.session.json
+.session-refresh-marker
 .env
 viewer-data.js
 curriculum/_raw/

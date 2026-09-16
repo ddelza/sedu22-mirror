@@ -2,7 +2,8 @@ name: Crawl cafe posts
 
 on:
   schedule:
-    - cron: '0 19 * * *'
+    # 매주 월/목 12:00 KST(03:00 UTC) — 로컬 세션 갱신(월/목 9~10시 KST) 이후로 버퍼를 둠
+    - cron: '0 3 * * 1,4'
   workflow_dispatch:
     inputs:
       max_pages_per_board:
