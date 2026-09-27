@@ -18,13 +18,11 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
-      "confidence": "high"
+      "category": "과학교사 업무",
+      "topic": "세특작성",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "특목고 지원 학생 지도 범위(추천서/생기부) 고민.",
+  "tagsNote": "특목고 지원 학생 지도 범위(추천서/생기부) 고민. / 특목고 지원 학생의 세특 작성을 둘러싼 교사 간 입장 차이와 고민.",
   "taggedAt": "2026-08-12T04:49:23.654Z"
 }

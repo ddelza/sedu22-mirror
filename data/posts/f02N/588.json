@@ -18,13 +18,11 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
-      "confidence": "high"
+      "category": "과학교사 업무",
+      "topic": "생활지도",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "떠드는 학생 많은 학급 지도 어려움 토로.",
+  "tagsNote": "떠드는 학생 많은 학급 지도 어려움 토로. / 떠드는 학생들에 대한 개별 대응(혼내기, 방과후 면담, 선도위 언급)을 다룸.",
   "taggedAt": "2026-08-12T04:51:56.087Z"
 }

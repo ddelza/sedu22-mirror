@@ -18,13 +18,13 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
-      "confidence": "high"
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "화학 반응의 규칙과 에너지 변화",
+      "confidence": "low"
     }
   ],
-  "tagsNote": "문학 지문 활용 시험문제 제작 경험 공유 요청.",
+  "tagsNote": "문학 지문 활용 시험문제 제작 경험 공유 요청. / 중3 1단원(화학 반응의 규칙과 에너지 변화) 시험문제 출제 중 문학 지문 활용 아이디어.",
   "taggedAt": "2026-08-12T05:01:07.835Z"
 }

@@ -18,13 +18,20 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
-      "confidence": "high"
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "물질의 상태 변화",
+      "confidence": "low"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "물질의 상태 변화",
+      "confidence": "low"
     }
   ],
-  "tagsNote": "PS열쇠고리 만들기 오븐 가열 시 전자파/유해성 우려 논의.",
+  "tagsNote": "PS열쇠고리 만들기 오븐 가열 시 전자파/유해성 우려 논의. / 폴리스티렌(PS) 오븐 가열 열쇠고리 만들기 — 4년째 전교생 대상 진행, 상태변화 관련 활동.",
   "taggedAt": "2026-08-12T04:49:23.633Z"
 }
