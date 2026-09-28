@@ -19,13 +19,11 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
+      "category": "스마트 수업도구",
+      "topic": "앱/프로그램",
       "confidence": "low"
     }
   ],
-  "tagsNote": "게더타운을 활용한 5단원 문제 풀이 자료 공유 안내(구체적 단원 불명확).",
+  "tagsNote": "게더타운을 활용한 5단원 문제 풀이 자료 공유 안내(구체적 단원 불명확). / 게더타운으로 단원 복습 방탈출형 활동 제작.",
   "taggedAt": "2026-08-13T12:31:15.870Z"
 }

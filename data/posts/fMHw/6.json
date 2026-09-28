@@ -19,13 +19,20 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
-      "confidence": "low"
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "과학과 나의 미래",
+      "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "과학과 인류의 지속가능한 삶",
+      "confidence": "high"
     }
   ],
-  "tagsNote": "1학기·2학기 시간 배분 고민을 반영해 만든 7단원 학습지 공유(특정 지구과학 단원 아님).",
+  "tagsNote": "1학기·2학기 시간 배분 고민을 반영해 만든 7단원 학습지 공유(특정 지구과학 단원 아님). / 7단원(과학과 나의 미래) 학습지 — 직업역량 피자판, 직업조사보고서.",
   "taggedAt": "2026-08-13T12:58:04.714Z"
 }

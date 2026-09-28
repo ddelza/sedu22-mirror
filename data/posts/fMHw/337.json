@@ -19,13 +19,20 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
-      "confidence": "low"
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "생식과 유전",
+      "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "생식과 유전",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "미래엔 교과서 기준 5단원 활동지(2023년 사용본) 공유(구체적 단원 불명확).",
+  "tagsNote": "미래엔 교과서 기준 5단원 활동지(2023년 사용본) 공유(구체적 단원 불명확). / 'Ⅴ.생식과 유전' 단원 활동지(미래엔 교과서 기준) 공유.",
   "taggedAt": "2026-08-13T12:49:29.335Z"
 }

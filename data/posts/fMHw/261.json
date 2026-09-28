@@ -19,13 +19,20 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
-      "confidence": "low"
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "물질의 특성",
+      "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "물질의 특성",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "논술·실험 항목으로 구성한 중2 2학기 실험수행평가 계획 공유(구체적 단원 불명확).",
+  "tagsNote": "논술·실험 항목으로 구성한 중2 2학기 실험수행평가 계획 공유(구체적 단원 불명확). / 미지 물체의 밀도 측정 실험 수행평가 고민.",
   "taggedAt": "2026-08-13T12:46:21.334Z"
 }

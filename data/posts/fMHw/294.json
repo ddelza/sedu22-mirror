@@ -19,13 +19,20 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
-      "confidence": "low"
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "전기와 자기",
+      "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "전기와 자기",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "교육과정 개편 이후 3학년 수행평가 계획 수립 현황을 묻는 질문(구체적 단원 불명확).",
+  "tagsNote": "교육과정 개편 이후 3학년 수행평가 계획 수립 현황을 묻는 질문(구체적 단원 불명확). / 1단원(회로도 구성) 수행평가 계획.",
   "taggedAt": "2026-08-13T12:47:52.449Z"
 }

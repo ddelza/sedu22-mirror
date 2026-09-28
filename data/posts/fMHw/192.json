@@ -19,13 +19,20 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "과학과 나의 미래",
+      "confidence": "low"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "과학과 인류의 지속가능한 삶",
       "confidence": "low"
     }
   ],
-  "tagsNote": "신직업 아이디어 공모전을 7단원 수업과 연계해 소개한 활동 공유(특정 지구과학 단원 아님).",
+  "tagsNote": "신직업 아이디어 공모전을 7단원 수업과 연계해 소개한 활동 공유(특정 지구과학 단원 아님). / 7단원 수업 중 신직업 아이디어 공모전 참여 안내.",
   "taggedAt": "2026-08-13T12:34:22.681Z"
 }

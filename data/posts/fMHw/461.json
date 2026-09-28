@@ -19,13 +19,11 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
+      "category": "스마트 수업도구",
+      "topic": "앱/프로그램",
       "confidence": "low"
     }
   ],
-  "tagsNote": "2~4단원 내용을 다루는 학기말 클래스카드 배틀 세트 공유(구체적 단원 불명확).",
+  "tagsNote": "2~4단원 내용을 다루는 학기말 클래스카드 배틀 세트 공유(구체적 단원 불명확). / 클래스카드 배틀로 2~4단원 학기말 복습.",
   "taggedAt": "2026-08-13T12:55:32.293Z"
 }

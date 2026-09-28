@@ -19,13 +19,20 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
-      "confidence": "low"
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "수권과 해수의 순환",
+      "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "수권과 해수의 순환",
+      "confidence": "high"
     }
   ],
-  "tagsNote": "부산 오프라인 모임에서 배운 지식시장 수업을 학기말에 도입한 사례 공유(특정 단원과 무관).",
+  "tagsNote": "부산 오프라인 모임에서 배운 지식시장 수업을 학기말에 도입한 사례 공유(특정 단원과 무관). / 7단원(수권/빙하/수자원/해수의 성분)을 지식시장 형식으로 진행.",
   "taggedAt": "2026-08-13T12:59:39.565Z"
 }

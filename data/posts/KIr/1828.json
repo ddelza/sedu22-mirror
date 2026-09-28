@@ -19,13 +19,11 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
-      "confidence": "high"
+      "category": "과학교사 업무",
+      "topic": "세특작성",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "중1 2학기 과세특 작성 방법 문의.",
+  "tagsNote": "중1 2학기 과세특 작성 방법 문의. / 자유학기 이후 일반학기 과세특 작성 방식 질문.",
   "taggedAt": "2026-08-17T04:41:24.800Z"
 }

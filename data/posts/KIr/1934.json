@@ -19,13 +19,20 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
-      "confidence": "high"
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "과학과 나의 미래",
+      "confidence": "medium"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "과학과 인류의 지속가능한 삶",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "3년간 담임/수업 경험 회고 에세이.",
+  "tagsNote": "3년간 담임/수업 경험 회고 에세이. / 3년간 '과학의 대전제'·과학철학·반증가능성을 1학년부터 반복해서 가르친 사례.",
   "taggedAt": "2026-08-17T04:44:49.607Z"
 }

@@ -19,13 +19,20 @@
       "confidence": "high"
     },
     {
-      "curriculumYear": null,
-      "schoolLevel": null,
-      "subject": null,
-      "unit": "미분류",
-      "confidence": "low"
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "과학과 나의 미래",
+      "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "과학과 인류의 지속가능한 삶",
+      "confidence": "high"
     }
   ],
-  "tagsNote": "복직 후 1학기 재구성을 고민하며 정리한 첫수업·1단원 과학이란 수업 계획 공유(특정 지구과학 단원 아님).",
+  "tagsNote": "복직 후 1학기 재구성을 고민하며 정리한 첫수업·1단원 과학이란 수업 계획 공유(특정 지구과학 단원 아님). / 첫수업 '과학이란' 단원을 써클 토의+영상으로 진행한 상세 사례.",
   "taggedAt": "2026-08-13T12:58:04.739Z"
 }
