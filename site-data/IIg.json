@@ -964,6 +964,11 @@
         "subject": "과학",
         "unit": "물질의 구성",
         "confidence": "medium"
+      },
+      {
+        "category": "과학교사 업무",
+        "topic": "교원연수",
+        "confidence": "low"
       }
     ]
   },

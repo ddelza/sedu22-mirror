@@ -275,6 +275,11 @@
         "subject": "과학",
         "unit": "운동과 에너지",
         "confidence": "low"
+      },
+      {
+        "category": "과학교사 업무",
+        "topic": "영재교육",
+        "confidence": "high"
       }
     ]
   },
@@ -308,6 +313,11 @@
         "subject": "과학",
         "unit": "식물과 에너지",
         "confidence": "medium"
+      },
+      {
+        "category": "과학교사 업무",
+        "topic": "영재교육",
+        "confidence": "high"
       }
     ]
   },
@@ -341,6 +351,11 @@
         "subject": "과학",
         "unit": "기체의 성질",
         "confidence": "low"
+      },
+      {
+        "category": "과학교사 업무",
+        "topic": "영재교육",
+        "confidence": "high"
       }
     ]
   },
@@ -365,6 +380,11 @@
         "category": "스마트 수업도구",
         "topic": "메이커/3D프린팅",
         "confidence": "low"
+      },
+      {
+        "category": "과학교사 업무",
+        "topic": "영재교육",
+        "confidence": "high"
       }
     ]
   },
@@ -422,6 +442,11 @@
         "subject": "과학",
         "unit": "운동과 에너지",
         "confidence": "low"
+      },
+      {
+        "category": "과학교사 업무",
+        "topic": "영재교육",
+        "confidence": "high"
       }
     ]
   },
@@ -1169,6 +1194,11 @@
         "subject": "과학",
         "unit": "운동과 에너지",
         "confidence": "low"
+      },
+      {
+        "category": "과학교사 업무",
+        "topic": "영재교육",
+        "confidence": "high"
       }
     ]
   },
@@ -1849,6 +1879,11 @@
         "subject": "과학",
         "unit": "물질의 특성",
         "confidence": "low"
+      },
+      {
+        "category": "과학교사 업무",
+        "topic": "영재교육",
+        "confidence": "medium"
       }
     ]
   },
@@ -2017,6 +2052,11 @@
         "subject": "과학",
         "unit": "자극과 반응",
         "confidence": "medium"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "앱/프로그램",
+        "confidence": "low"
       }
     ]
   },

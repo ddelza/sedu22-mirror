@@ -3500,6 +3500,11 @@
         "category": "과학교사 업무",
         "topic": "학급운영",
         "confidence": "low"
+      },
+      {
+        "category": "과학교사 업무",
+        "topic": "교원연수",
+        "confidence": "low"
       }
     ]
   },
