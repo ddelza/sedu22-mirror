@@ -22,8 +22,13 @@
       "category": "스마트 수업도구",
       "topic": "생성형 AI 도구",
       "confidence": "medium"
+    },
+    {
+      "category": "과학교사 업무",
+      "topic": "교원연수",
+      "confidence": "low"
     }
   ],
-  "tagsNote": "ChatGPT로 학생활동 분석/생기부 작성 연수 홍보.",
-  "taggedAt": "2026-08-17T04:41:24.795Z"
+  "tagsNote": "ChatGPT로 학생활동 분석/생기부 작성 연수 홍보. / ChatGPT 활용 무료 연수 개설 홍보글.",
+  "taggedAt": "2026-09-28T10:50:51.632Z"
 }

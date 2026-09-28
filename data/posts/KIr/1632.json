@@ -22,8 +22,13 @@
       "category": "과학교사 업무",
       "topic": "과학실 관리",
       "confidence": "medium"
+    },
+    {
+      "category": "과학교사 업무",
+      "topic": "동아리 운영",
+      "confidence": "low"
     }
   ],
-  "tagsNote": "동아리 전분 점탄성 실험 후 폐기 방법 문의.",
-  "taggedAt": "2026-08-17T04:36:31.255Z"
+  "tagsNote": "동아리 전분 점탄성 실험 후 폐기 방법 문의. / 과학 동아리 운영 중 점탄성 실험 폐기 방법 질문.",
+  "taggedAt": "2026-09-28T10:50:51.604Z"
 }

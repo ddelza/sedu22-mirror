@@ -7400,6 +7400,11 @@
         "category": "스마트 수업도구",
         "topic": "MBL센서",
         "confidence": "high"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "교육용 단말기(태블릿/크롬북)",
+        "confidence": "low"
       }
     ]
   },
@@ -8084,6 +8089,11 @@
         "schoolLevel": "중학교",
         "subject": "과학",
         "unit": "과학과 인류의 지속가능한 삶",
+        "confidence": "medium"
+      },
+      {
+        "category": "과학교사 업무",
+        "topic": "동아리 운영",
         "confidence": "medium"
       }
     ]
@@ -10365,6 +10375,11 @@
         "category": "스마트 수업도구",
         "topic": "생성형 AI 도구",
         "confidence": "medium"
+      },
+      {
+        "category": "과학교사 업무",
+        "topic": "교원연수",
+        "confidence": "low"
       }
     ]
   },
@@ -13509,6 +13524,11 @@
         "subject": "과학",
         "unit": "빛과 파동",
         "confidence": "low"
+      },
+      {
+        "category": "과학교사 업무",
+        "topic": "영재교육",
+        "confidence": "high"
       }
     ]
   },
@@ -13637,6 +13657,11 @@
         "category": "과학교사 업무",
         "topic": "과학실 관리",
         "confidence": "medium"
+      },
+      {
+        "category": "과학교사 업무",
+        "topic": "동아리 운영",
+        "confidence": "low"
       }
     ]
   },
@@ -13941,6 +13966,11 @@
         "schoolLevel": "중학교",
         "subject": "과학",
         "unit": "식물과 에너지",
+        "confidence": "medium"
+      },
+      {
+        "category": "과학교사 업무",
+        "topic": "영재교육",
         "confidence": "medium"
       }
     ]

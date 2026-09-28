@@ -31,8 +31,13 @@
       "subject": "과학",
       "unit": "식물과 에너지",
       "confidence": "medium"
+    },
+    {
+      "category": "과학교사 업무",
+      "topic": "영재교육",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "다양한 잎의 기공관찰 영재수업용 식물 추천 요청.",
-  "taggedAt": "2026-08-17T04:35:21.421Z"
+  "tagsNote": "다양한 잎의 기공관찰 영재수업용 식물 추천 요청. / 영재수업으로 잎 기공관찰 심화 진행 언급.",
+  "taggedAt": "2026-09-28T10:50:51.599Z"
 }
