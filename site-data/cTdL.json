@@ -6615,6 +6615,11 @@
         "subject": "통합과학2",
         "unit": "변화와 다양성",
         "confidence": "high"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "앱/프로그램",
+        "confidence": "low"
       }
     ]
   },
@@ -6856,6 +6861,11 @@
         "subject": "통합과학2",
         "unit": "환경과 에너지",
         "confidence": "low"
+      },
+      {
+        "category": "과학교사 업무",
+        "topic": "영재교육",
+        "confidence": "medium"
       }
     ]
   },
@@ -8414,6 +8424,11 @@
         "category": "과학교사 업무",
         "topic": "과학 행사",
         "confidence": "high"
+      },
+      {
+        "category": "과학교사 업무",
+        "topic": "동아리 운영",
+        "confidence": "low"
       }
     ]
   },
@@ -8603,6 +8618,11 @@
         "subject": "통합과학2",
         "unit": "변화와 다양성",
         "confidence": "high"
+      },
+      {
+        "category": "수업 방법론",
+        "topic": "토론수업",
+        "confidence": "low"
       }
     ]
   },
@@ -8684,6 +8704,11 @@
         "subject": "통합과학1",
         "unit": "시스템과 상호작용",
         "confidence": "high"
+      },
+      {
+        "category": "과학교사 업무",
+        "topic": "교원연수",
+        "confidence": "low"
       }
     ]
   },
@@ -8899,6 +8924,11 @@
         "subject": "통합과학1",
         "unit": "시스템과 상호작용",
         "confidence": "high"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "앱/프로그램",
+        "confidence": "medium"
       }
     ]
   },
@@ -8932,6 +8962,11 @@
         "subject": "통합과학1",
         "unit": "시스템과 상호작용",
         "confidence": "high"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "앱/프로그램",
+        "confidence": "medium"
       }
     ]
   },

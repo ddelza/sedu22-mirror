@@ -23484,6 +23484,11 @@
         "category": "스마트 수업도구",
         "topic": "앱/프로그램",
         "confidence": "low"
+      },
+      {
+        "category": "과학교사 업무",
+        "topic": "교원연수",
+        "confidence": "low"
       }
     ]
   },
@@ -25614,6 +25619,11 @@
         "subject": null,
         "unit": "미분류",
         "confidence": "high"
+      },
+      {
+        "category": "과학교사 업무",
+        "topic": "영재교육",
+        "confidence": "medium"
       }
     ]
   },
@@ -26560,6 +26570,11 @@
         "subject": null,
         "unit": "미분류",
         "confidence": "high"
+      },
+      {
+        "category": "수업 방법론",
+        "topic": "거꾸로 교실",
+        "confidence": "low"
       }
     ]
   },
@@ -27330,6 +27345,11 @@
         "category": "과학교사 업무",
         "topic": "과학 행사",
         "confidence": "medium"
+      },
+      {
+        "category": "과학교사 업무",
+        "topic": "영재교육",
+        "confidence": "medium"
       }
     ]
   },
@@ -27402,6 +27422,11 @@
         "category": "과학교사 업무",
         "topic": "과학실 관리",
         "confidence": "low"
+      },
+      {
+        "category": "과학교사 업무",
+        "topic": "학급운영",
+        "confidence": "medium"
       }
     ]
   },

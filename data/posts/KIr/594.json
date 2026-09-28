@@ -24,8 +24,13 @@
       "subject": null,
       "unit": "미분류",
       "confidence": "high"
+    },
+    {
+      "category": "수업 방법론",
+      "topic": "거꾸로 교실",
+      "confidence": "low"
     }
   ],
-  "tagsNote": "학부모 갈등으로 인한 휴직 관련 고충 토로.",
-  "taggedAt": "2026-08-17T04:59:22.028Z"
+  "tagsNote": "학부모 갈등으로 인한 휴직 관련 고충 토로. / 올해 거꾸로 수업을 시작했다고 언급.",
+  "taggedAt": "2026-09-28T14:08:44.730Z"
 }

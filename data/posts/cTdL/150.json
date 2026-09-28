@@ -22,8 +22,13 @@
       "category": "과학교사 업무",
       "topic": "과학 행사",
       "confidence": "high"
+    },
+    {
+      "category": "과학교사 업무",
+      "topic": "동아리 운영",
+      "confidence": "low"
     }
   ],
-  "tagsNote": "두산 융합과학교육 프로그램(DOOSAN TOMORROW LAB) 고등학교 모집 안내.",
-  "taggedAt": "2026-08-12T00:00:54.002Z"
+  "tagsNote": "두산 융합과학교육 프로그램(DOOSAN TOMORROW LAB) 고등학교 모집 안내. / 2학기 자율동아리 운영이 가능한 학교를 대상으로 한 동아리 참가 모집 안내.",
+  "taggedAt": "2026-09-28T14:08:44.777Z"
 }

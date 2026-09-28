@@ -905,6 +905,11 @@
         "subject": "생명과학Ⅰ",
         "unit": "생태계와 상호작용",
         "confidence": "medium"
+      },
+      {
+        "category": "과학교사 업무",
+        "topic": "교원연수",
+        "confidence": "low"
       }
     ]
   },
