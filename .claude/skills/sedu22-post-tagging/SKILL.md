@@ -58,6 +58,14 @@ description: Continue tagging sedu22-mirror cafe posts with Korean science curri
 - `node .claude/skills/sedu22-post-tagging/scripts/apply-topic-retro-review.js` — `scratch/topic-retro-review-result.json`을 읽어서, `tags`가 있는 항목만 기존 게시글 파일의 `tags` 배열에 append(중복은 JSON 비교로 자동 스킵)하고, `tagsNote`가 있으면 기존 `tagsNote`에 이어붙인다. `tags`가 null이든 있든 상관없이 모든 id를 `reviewed` 상태로 기록한다.
 - 위 세 단계(next-batch → 판단 → apply)를 반복하다가 `next-topic-retro-review-batch.js`가 출력하는 "아직 재검토 안 한" 숫자가 0이 되거나, 사용자가 그만하라고 할 때까지.
 
+**Jev 1차 필터 적용 버전(2026-09-28, 대규모 배치용):** 배치 크기를 500 정도로 크게 잡을 땐 전부 손으로 읽는 대신 `jev-topic-filter.js`로 먼저 거른다.
+1. `node scripts/next-topic-retro-review-batch.js 500` — 배치 뽑기(개수는 상황에 맞게 조절 가능)
+2. `node scripts/jev-topic-filter.js [threshold]` (기본 0.15, 지금까지는 0.35 사용) — `scratch/topic-retro-review-batch.json`을 Jev로 채점해서, `scratch/board-review.json`(threshold 이상만, 직접 읽어야 할 목록)과 `scratch/topic-retro-review-result.json`(배치 전체 `{id, tags:null}` 기본값)을 만든다.
+3. `board-review.json`만 읽고 판단, 새 topic을 찾은 id만 `topic-retro-review-result.json`에서 해당 항목을 찾아 `tags`/`tagsNote`를 채워 덮어쓴다(찾은 것만 수정, 나머지는 null로 둔 채 그대로 둠). **주의**: 배치 500건 전체가 `topic-retro-review-result.json`에 다 있어야 `apply` 시 전체가 reviewed 처리된다 — 일부만 남기고 지우면 안 됨.
+4. `node scripts/apply-topic-retro-review.js`
+- 옵션 C의 이 재검토는 "이미 태깅된 글"이 대상이라 이미 그 자체로 실질적인 내용이 있는 글들이라, 미분류 후보 거를 때(threshold 0.15)보다 통과율이 훨씬 높다(500건 기준 threshold 0.35에서도 175건, 35%). 1차 필터의 비용 절감 효과가 미분류 게시판 스캔 때보다는 작지만(약 3~4배 절감), 그래도 전부 읽는 것보다는 낫다.
+- 실측(2026-09-28, 500건): 175건 정독 → 38건에 새 topic 발견(주로 생성형 AI 도구/앱-프로그램, 세특작성, 교원연수, 학급운영, 동아리 운영). 한 번에 12,000건 넘게 남아있으므로 여러 세션에 걸쳐 나눠 진행하는 게 현실적이다.
+
 **효율화 팁 (적중률이 낮은 게시판일 때):** 개인 일기/여행기 성격이 강한 게시판(예: `AM6` "수석교사의 방"의 "주뇽이의 아메리칸 드림" 연재)은 전체를 정독해도 새 태그가 거의 안 나온다. 이럴 땐 `Grep` 툴로 `scratch/topic-retro-review-batch.json`에 아래 같은 키워드 패턴을 돌려 후보만 추려서 그 글만 정독한다:
 ```
 연수|학회|워크샵|워크숍|특강|생성형|Chat ?GPT|챗지피티|세특|생기부|하브루타|배움중심|Notebook ?LM|생활지도|도장|보상|스티커|상벌점|IB|개념기반|거꾸로
