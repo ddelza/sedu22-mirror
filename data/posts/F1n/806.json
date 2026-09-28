@@ -22,8 +22,13 @@
       "category": "스마트 수업도구",
       "topic": "앱/프로그램",
       "confidence": "medium"
+    },
+    {
+      "category": "과학교사 업무",
+      "topic": "세특작성",
+      "confidence": "low"
     }
   ],
-  "tagsNote": "smile/ask.smile 프로그램을 활용한 질문게임 수업 아이디어 공유.",
-  "taggedAt": "2026-08-12T08:56:23.373Z"
+  "tagsNote": "smile/ask.smile 프로그램을 활용한 질문게임 수업 아이디어 공유. / smile 프로그램 기록을 세특 작성에 반영.",
+  "taggedAt": "2026-09-28T00:17:46.243Z"
 }

@@ -22,8 +22,18 @@
       "category": "게시판별 분류",
       "topic": "수업 Ideas",
       "confidence": "high"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "생성형 AI 도구",
+      "confidence": "medium"
+    },
+    {
+      "category": "과학교사 업무",
+      "topic": "교원연수",
+      "confidence": "low"
     }
   ],
-  "tagsNote": "Micro:bit 활용 MBL 웹앱 제작.",
-  "taggedAt": "2026-09-10T03:22:02.099Z"
+  "tagsNote": "Micro:bit 활용 MBL 웹앱 제작. / Claude로 웹앱 제작, 1급 정교사 자격연수 중 Micro:Bit 접함.",
+  "taggedAt": "2026-09-28T00:17:46.228Z"
 }

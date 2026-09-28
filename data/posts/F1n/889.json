@@ -36,9 +36,14 @@
       "subject": "과학",
       "unit": "태양계",
       "confidence": "medium"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "생성형 AI 도구",
+      "confidence": "low"
     }
   ],
-  "tagsNote": "노션으로 제작한 태양계 디지털 교과서 사이트 공유. [보완: 수평 보완(동일 이름)]",
-  "taggedAt": "2026-08-12T08:59:09.254Z",
+  "tagsNote": "노션으로 제작한 태양계 디지털 교과서 사이트 공유. [보완: 수평 보완(동일 이름)] / 노트북 LM 삽입.",
+  "taggedAt": "2026-09-28T00:17:46.260Z",
   "verticalReviewedAt": "2026-08-14T02:59:40.252Z"
 }

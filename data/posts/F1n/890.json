@@ -22,8 +22,13 @@
       "category": "스마트 수업도구",
       "topic": "앱/프로그램",
       "confidence": "medium"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "생성형 AI 도구",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "Snorkl 도구를 활용한 연말 렌즈/필름 체험 수업 구상 공유.",
-  "taggedAt": "2026-08-12T08:59:09.254Z"
+  "tagsNote": "Snorkl 도구를 활용한 연말 렌즈/필름 체험 수업 구상 공유. / Snorkl — AI 피드백 기능 활용.",
+  "taggedAt": "2026-09-28T00:17:46.261Z"
 }

@@ -24,8 +24,13 @@
       "subject": null,
       "unit": "미분류",
       "confidence": "high"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "앱/프로그램",
+      "confidence": "low"
     }
   ],
-  "tagsNote": "개념도 관련 게시판 선택 고민을 겸한 자료 소개.",
-  "taggedAt": "2026-08-12T09:01:46.587Z"
+  "tagsNote": "개념도 관련 게시판 선택 고민을 겸한 자료 소개. / Mindomo 프로그램으로 개념도 제작.",
+  "taggedAt": "2026-09-28T00:17:46.277Z"
 }

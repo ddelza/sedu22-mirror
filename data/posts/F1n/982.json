@@ -31,9 +31,14 @@
       "subject": "과학",
       "unit": "식물과 에너지",
       "confidence": "low"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "생성형 AI 도구",
+      "confidence": "low"
     }
   ],
-  "tagsNote": "'당근은 언제 죽었나' 투표 활동(챗GPT 이미지 활용) 공유. [보완: 수평 보완(동일 이름)]",
-  "taggedAt": "2026-08-12T09:01:46.580Z",
+  "tagsNote": "'당근은 언제 죽었나' 투표 활동(챗GPT 이미지 활용) 공유. [보완: 수평 보완(동일 이름)] / 챗GPT로 이미지 생성.",
+  "taggedAt": "2026-09-28T00:17:46.276Z",
   "verticalReviewedAt": "2026-08-14T03:18:36.638Z"
 }

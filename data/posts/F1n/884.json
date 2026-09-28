@@ -24,8 +24,13 @@
       "subject": null,
       "unit": "미분류",
       "confidence": "high"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "앱/프로그램",
+      "confidence": "low"
     }
   ],
-  "tagsNote": "전환기 수업용 '과학사 4대 악마' 웹 콘텐츠 링크 공유.",
-  "taggedAt": "2026-08-12T08:59:09.248Z"
+  "tagsNote": "전환기 수업용 '과학사 4대 악마' 웹 콘텐츠 링크 공유. / Canva, Netlify 웹앱들 활용.",
+  "taggedAt": "2026-09-28T00:17:46.258Z"
 }

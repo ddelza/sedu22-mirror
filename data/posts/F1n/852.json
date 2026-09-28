@@ -31,9 +31,19 @@
       "subject": "과학",
       "unit": "생물의 구성과 다양성",
       "confidence": "high"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "생성형 AI 도구",
+      "confidence": "low"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "앱/프로그램",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "중1 생물다양성/분류체계 연계 Canva 동물원 생태지도 만들기 활동 공유. [보완: 수평 보완]",
-  "taggedAt": "2026-08-12T08:57:43.692Z",
+  "tagsNote": "중1 생물다양성/분류체계 연계 Canva 동물원 생태지도 만들기 활동 공유. [보완: 수평 보완] / 네이버 스마트렌즈+perplexity로 동물 조사, Canva 공동작업.",
+  "taggedAt": "2026-09-28T00:17:46.252Z",
   "verticalReviewedAt": "2026-08-14T02:59:00.427Z"
 }

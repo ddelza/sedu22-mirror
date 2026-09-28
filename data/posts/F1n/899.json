@@ -24,8 +24,13 @@
       "subject": null,
       "unit": "미분류",
       "confidence": "high"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "앱/프로그램",
+      "confidence": "low"
     }
   ],
-  "tagsNote": "'사물궁이' 도서를 활용한 학년말 과학 궁금증 해결 수업 공유.",
-  "taggedAt": "2026-08-12T08:59:09.259Z"
+  "tagsNote": "'사물궁이' 도서를 활용한 학년말 과학 궁금증 해결 수업 공유. / 캔바로 포스터 제작.",
+  "taggedAt": "2026-09-28T00:17:46.263Z"
 }

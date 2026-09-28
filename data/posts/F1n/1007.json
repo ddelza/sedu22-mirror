@@ -31,8 +31,18 @@
       "category": "게시판별 분류",
       "topic": "수업 Ideas",
       "confidence": "high"
+    },
+    {
+      "category": "과학교사 업무",
+      "topic": "학급운영",
+      "confidence": "medium"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "앱/프로그램",
+      "confidence": "low"
     }
   ],
-  "tagsNote": "질문나무 웹앱으로 전기와자기/별과우주 단원 허브 공유.",
-  "taggedAt": "2026-09-10T03:22:02.099Z"
+  "tagsNote": "질문나무 웹앱으로 전기와자기/별과우주 단원 허브 공유. / 질문 웹앱+도장판 연동 보상 시스템 자체 제작.",
+  "taggedAt": "2026-09-28T00:17:46.228Z"
 }

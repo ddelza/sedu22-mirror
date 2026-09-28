@@ -31,8 +31,18 @@
       "category": "게시판별 분류",
       "topic": "수업 Ideas",
       "confidence": "high"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "생성형 AI 도구",
+      "confidence": "low"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "앱/프로그램",
+      "confidence": "low"
     }
   ],
-  "tagsNote": "중2 식물과 에너지(광합성/호흡) 연계 과학 생존게임.",
-  "taggedAt": "2026-09-10T03:22:02.101Z"
+  "tagsNote": "중2 식물과 에너지(광합성/호흡) 연계 과학 생존게임. / AI로 ZEP 시나리오 제작.",
+  "taggedAt": "2026-09-28T00:17:46.229Z"
 }

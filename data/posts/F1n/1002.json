@@ -24,8 +24,18 @@
       "category": "게시판별 분류",
       "topic": "수업 Ideas",
       "confidence": "high"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "생성형 AI 도구",
+      "confidence": "low"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "앱/프로그램",
+      "confidence": "low"
     }
   ],
-  "tagsNote": "음성인식 퀴즈 웹앱, 특정 단원 내용 불명.",
-  "taggedAt": "2026-09-10T03:22:02.096Z"
+  "tagsNote": "음성인식 퀴즈 웹앱, 특정 단원 내용 불명. / 바이브코딩(AI)으로 음성인식 웹앱 제작.",
+  "taggedAt": "2026-09-28T00:17:46.225Z"
 }

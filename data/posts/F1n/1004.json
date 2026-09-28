@@ -22,8 +22,18 @@
       "category": "게시판별 분류",
       "topic": "수업 Ideas",
       "confidence": "high"
+    },
+    {
+      "category": "과학교사 업무",
+      "topic": "교원연수",
+      "confidence": "low"
+    },
+    {
+      "category": "과학교사 업무",
+      "topic": "세특작성",
+      "confidence": "low"
     }
   ],
-  "tagsNote": "과정중심평가/교사 대시보드 학습 홈페이지 웹앱.",
-  "taggedAt": "2026-09-10T03:22:02.097Z"
+  "tagsNote": "과정중심평가/교사 대시보드 학습 홈페이지 웹앱. / 연수 참석 계기로 개발, 과세특 작성 어려움이 동기.",
+  "taggedAt": "2026-09-28T00:17:46.227Z"
 }
