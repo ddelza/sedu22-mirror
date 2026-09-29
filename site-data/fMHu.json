@@ -28923,6 +28923,11 @@
         "subject": "과학",
         "unit": "생식과 유전",
         "confidence": "high"
+      },
+      {
+        "category": "과학교사 업무",
+        "topic": "학급운영",
+        "confidence": "medium"
       }
     ]
   },
@@ -28956,6 +28961,11 @@
         "subject": "과학",
         "unit": "생식과 유전",
         "confidence": "high"
+      },
+      {
+        "category": "과학교사 업무",
+        "topic": "학급운영",
+        "confidence": "medium"
       }
     ]
   },
@@ -28989,6 +28999,11 @@
         "subject": "과학",
         "unit": "생식과 유전",
         "confidence": "high"
+      },
+      {
+        "category": "과학교사 업무",
+        "topic": "학급운영",
+        "confidence": "medium"
       }
     ]
   },
@@ -31674,6 +31689,11 @@
         "subject": "과학",
         "unit": "생물의 구성과 다양성",
         "confidence": "high"
+      },
+      {
+        "category": "과학교사 업무",
+        "topic": "영재교육",
+        "confidence": "low"
       }
     ]
   },
@@ -35571,6 +35591,11 @@
         "subject": "과학",
         "unit": "생식과 유전",
         "confidence": "medium"
+      },
+      {
+        "category": "수업 방법론",
+        "topic": "토론수업",
+        "confidence": "medium"
       }
     ]
   },
@@ -35933,6 +35958,11 @@
         "schoolLevel": "중학교",
         "subject": "과학",
         "unit": "생식과 유전",
+        "confidence": "medium"
+      },
+      {
+        "category": "수업 방법론",
+        "topic": "토론수업",
         "confidence": "medium"
       }
     ]
@@ -40154,6 +40184,11 @@
         "subject": "과학",
         "unit": "생식과 유전",
         "confidence": "high"
+      },
+      {
+        "category": "수업 방법론",
+        "topic": "토론수업",
+        "confidence": "medium"
       }
     ]
   },
@@ -40371,6 +40406,11 @@
         "subject": "과학",
         "unit": "동물과 에너지",
         "confidence": "high"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "앱/프로그램",
+        "confidence": "low"
       }
     ]
   },
@@ -41196,6 +41236,11 @@
         "subject": "과학",
         "unit": "생식과 유전",
         "confidence": "high"
+      },
+      {
+        "category": "과학교사 업무",
+        "topic": "교원연수",
+        "confidence": "low"
       }
     ]
   },
@@ -41437,6 +41482,11 @@
         "subject": "과학",
         "unit": "생식과 유전",
         "confidence": "high"
+      },
+      {
+        "category": "과학교사 업무",
+        "topic": "교원연수",
+        "confidence": "low"
       }
     ]
   },
@@ -42489,6 +42539,11 @@
         "subject": "과학",
         "unit": "생식과 유전",
         "confidence": "high"
+      },
+      {
+        "category": "과학교사 업무",
+        "topic": "영재교육",
+        "confidence": "medium"
       }
     ]
   },

@@ -22,8 +22,13 @@
       "category": "과학교사 업무",
       "topic": "과학실 관리",
       "confidence": "high"
+    },
+    {
+      "category": "과학교사 업무",
+      "topic": "교원연수",
+      "confidence": "low"
     }
   ],
-  "tagsNote": "경기도교육청 중등 화학 MSDS 안전자료 공유.",
-  "taggedAt": "2026-08-12T22:25:45.029Z"
+  "tagsNote": "경기도교육청 중등 화학 MSDS 안전자료 공유. / 실험연수를 듣고 MSDS 자료의 필요성을 느꼈다고 언급.",
+  "taggedAt": "2026-09-29T12:29:58.738Z"
 }

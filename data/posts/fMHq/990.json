@@ -31,8 +31,13 @@
       "subject": "과학",
       "unit": "화학 반응의 규칙성",
       "confidence": "high"
+    },
+    {
+      "category": "수업 방법론",
+      "topic": "배움중심수업",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "학부모 공개수업용 산과 염기 탐정놀이 활동 공유.",
-  "taggedAt": "2026-08-12T22:37:50.339Z"
+  "tagsNote": "학부모 공개수업용 산과 염기 탐정놀이 활동 공유. / 배움중심수업 활동지 명시.",
+  "taggedAt": "2026-09-29T12:29:58.799Z"
 }

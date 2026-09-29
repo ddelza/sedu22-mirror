@@ -31,8 +31,13 @@
       "subject": "과학",
       "unit": "화학 반응의 규칙성",
       "confidence": "high"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "생성형 AI 도구",
+      "confidence": "low"
     }
   ],
-  "tagsNote": "밀가루 반죽 물리·화학변화 판단에 챗GPT 답변 활용 공유.",
-  "taggedAt": "2026-08-12T22:27:14.752Z"
+  "tagsNote": "밀가루 반죽 물리·화학변화 판단에 챗GPT 답변 활용 공유. / 챗GPT로 물리/화학변화 여부를 확인해봄.",
+  "taggedAt": "2026-09-29T12:29:58.746Z"
 }

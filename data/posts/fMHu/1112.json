@@ -31,8 +31,13 @@
       "subject": "과학",
       "unit": "생식과 유전",
       "confidence": "high"
+    },
+    {
+      "category": "과학교사 업무",
+      "topic": "영재교육",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "영재수업용 정자·난자 수정 자료 준비 공유.",
-  "taggedAt": "2026-08-12T23:26:08.234Z"
+  "tagsNote": "영재수업용 정자·난자 수정 자료 준비 공유. / 첫 영재수업을 준비하며 자료를 찾았다고 언급.",
+  "taggedAt": "2026-09-29T12:29:58.835Z"
 }

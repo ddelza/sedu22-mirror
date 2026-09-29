@@ -31,8 +31,18 @@
       "subject": "과학",
       "unit": "물질의 특성",
       "confidence": "high"
+    },
+    {
+      "category": "수업 방법론",
+      "topic": "토론수업",
+      "confidence": "medium"
+    },
+    {
+      "category": "과학교사 업무",
+      "topic": "교원연수",
+      "confidence": "low"
     }
   ],
-  "tagsNote": "하브루타 연수 적용 물질 구별 성질 수업 아이디어 공유.",
-  "taggedAt": "2026-08-12T22:34:50.061Z"
+  "tagsNote": "하브루타 연수 적용 물질 구별 성질 수업 아이디어 공유. / 하브루타 교내 연수를 받고 만든 질문 중심 수업.",
+  "taggedAt": "2026-09-29T12:29:58.777Z"
 }

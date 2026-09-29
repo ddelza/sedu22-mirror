@@ -31,8 +31,13 @@
       "subject": "과학",
       "unit": "기체의 성질",
       "confidence": "high"
+    },
+    {
+      "category": "과학교사 업무",
+      "topic": "교원연수",
+      "confidence": "low"
     }
   ],
-  "tagsNote": "보일의 법칙 실험 활동지 공유.",
-  "taggedAt": "2026-08-12T22:25:45.033Z"
+  "tagsNote": "보일의 법칙 실험 활동지 공유. / 진수성찬 연수에서 얻은 자료라고 언급.",
+  "taggedAt": "2026-09-29T12:29:58.741Z"
 }

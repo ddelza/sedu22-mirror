@@ -36,8 +36,18 @@
       "category": "스마트 수업도구",
       "topic": "생성형 AI 도구",
       "confidence": "medium"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "앱/프로그램",
+      "confidence": "low"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "구글도구",
+      "confidence": "low"
     }
   ],
-  "tagsNote": "제미나이 API 연동 AI 피드백 포함 증발 시뮬레이션 개선판 공유.",
-  "taggedAt": "2026-08-12T22:30:33.000Z"
+  "tagsNote": "제미나이 API 연동 AI 피드백 포함 증발 시뮬레이션 개선판 공유. / 바이브코딩으로 만든 자체 시뮬레이션 웹앱(제미나이 연동), 구글시트로 결과 수집.",
+  "taggedAt": "2026-09-29T12:29:58.759Z"
 }

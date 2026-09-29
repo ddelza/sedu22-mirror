@@ -31,8 +31,13 @@
       "subject": "과학",
       "unit": "생식과 유전",
       "confidence": "high"
+    },
+    {
+      "category": "수업 방법론",
+      "topic": "토론수업",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "출산·육아를 주제로 한 턴테이블 토론 수업 공유.",
-  "taggedAt": "2026-08-12T23:23:20.147Z"
+  "tagsNote": "출산·육아를 주제로 한 턴테이블 토론 수업 공유. / 턴테이블 토론 방식의 토론 수업.",
+  "taggedAt": "2026-09-29T12:29:58.817Z"
 }
