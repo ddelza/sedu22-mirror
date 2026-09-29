@@ -24,8 +24,13 @@
       "subject": null,
       "unit": "미분류",
       "confidence": "high"
+    },
+    {
+      "category": "과학교사 업무",
+      "topic": "교원연수",
+      "confidence": "low"
     }
   ],
-  "tagsNote": "로테이션(전시장형) 자유학기 수업 운영 방식 소개.",
-  "taggedAt": "2026-08-12T03:27:43.395Z"
+  "tagsNote": "로테이션(전시장형) 자유학기 수업 운영 방식 소개. / 2015개정교육과정 연수 다녀온 언급.",
+  "taggedAt": "2026-09-29T10:47:54.300Z"
 }

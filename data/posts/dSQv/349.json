@@ -31,9 +31,14 @@
       "subject": "과학",
       "unit": "힘의 작용",
       "confidence": "high"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "앱/프로그램",
+      "confidence": "low"
     }
   ],
-  "tagsNote": "컬링게임으로 배우는 마찰력. [보완: 수평 보완]",
-  "taggedAt": "2026-08-12T03:26:25.453Z",
+  "tagsNote": "컬링게임으로 배우는 마찰력. [보완: 수평 보완] / 팅커벨에 과제 제출.",
+  "taggedAt": "2026-09-29T10:47:54.295Z",
   "verticalReviewedAt": "2026-08-14T02:27:31.737Z"
 }

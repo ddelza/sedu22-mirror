@@ -22,8 +22,13 @@
       "category": "스마트 수업도구",
       "topic": "MBL센서",
       "confidence": "high"
+    },
+    {
+      "category": "과학교사 업무",
+      "topic": "교원연수",
+      "confidence": "low"
     }
   ],
-  "tagsNote": "MBL 포토게이트 센서로 원심분리기 회전속도 측정.",
-  "taggedAt": "2026-08-12T00:11:34.147Z"
+  "tagsNote": "MBL 포토게이트 센서로 원심분리기 회전속도 측정. / 전국과학교사 큰 모임에서 연수한 자료 공유.",
+  "taggedAt": "2026-09-29T10:47:54.233Z"
 }

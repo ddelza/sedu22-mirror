@@ -24,8 +24,13 @@
       "subject": null,
       "unit": "미분류",
       "confidence": "high"
+    },
+    {
+      "category": "수업 방법론",
+      "topic": "토론수업",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "방과후 과학독서토론+영화 프로그램(북&시네마) 구상.",
-  "taggedAt": "2026-08-12T03:24:21.081Z"
+  "tagsNote": "방과후 과학독서토론+영화 프로그램(북&시네마) 구상. / 1차시 과학책 읽고 2차시 독서 토론하는 방식.",
+  "taggedAt": "2026-09-29T10:47:54.288Z"
 }

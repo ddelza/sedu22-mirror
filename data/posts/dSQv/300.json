@@ -24,8 +24,13 @@
       "subject": null,
       "unit": "미분류",
       "confidence": "low"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "앱/프로그램",
+      "confidence": "low"
     }
   ],
-  "tagsNote": "과학신문반 환경(플라스틱 제로) 캠페인 활동.",
-  "taggedAt": "2026-08-12T03:24:21.070Z"
+  "tagsNote": "과학신문반 환경(플라스틱 제로) 캠페인 활동. / 미리캔버스로 환경의 날 홍보 포스터 제작.",
+  "taggedAt": "2026-09-29T10:47:54.287Z"
 }

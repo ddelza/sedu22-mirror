@@ -59,9 +59,14 @@
       "subject": "과학",
       "unit": "생물의 구성과 다양성",
       "confidence": "medium"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "AR/VR",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "과학신문반(색/지진/공룡화석) 주제선택 자료. [보완: 수평 보완]",
-  "taggedAt": "2026-08-12T03:24:21.062Z",
+  "tagsNote": "과학신문반(색/지진/공룡화석) 주제선택 자료. [보완: 수평 보완] / 퍼스널컬러 어플, 증강현실(AR) 컬러링북 앱 활용.",
+  "taggedAt": "2026-09-29T10:47:54.286Z",
   "verticalReviewedAt": "2026-08-14T02:26:10.766Z"
 }

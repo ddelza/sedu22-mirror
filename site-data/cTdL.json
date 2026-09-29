@@ -29,6 +29,11 @@
         "category": "게시판별 분류",
         "topic": "고1과학&탐구실험",
         "confidence": "high"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "MBL센서",
+        "confidence": "medium"
       }
     ]
   },
@@ -62,6 +67,11 @@
         "category": "게시판별 분류",
         "topic": "고1과학&탐구실험",
         "confidence": "high"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "앱/프로그램",
+        "confidence": "medium"
       }
     ]
   },
@@ -194,6 +204,11 @@
         "subject": "통합과학1",
         "unit": "시스템과 상호작용",
         "confidence": "high"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "생성형 AI 도구",
+        "confidence": "medium"
       }
     ]
   },
@@ -880,6 +895,11 @@
         "category": "스마트 수업도구",
         "topic": "구글도구",
         "confidence": "medium"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "생성형 AI 도구",
+        "confidence": "medium"
       }
     ]
   },
@@ -1126,6 +1146,11 @@
         "subject": "과학탐구실험1",
         "unit": "과학 탐구의 과정과 절차",
         "confidence": "medium"
+      },
+      {
+        "category": "과학교사 업무",
+        "topic": "교원연수",
+        "confidence": "low"
       }
     ]
   },
@@ -1166,6 +1191,11 @@
         "subject": "과학탐구실험",
         "unit": "역사 속의 과학 탐구",
         "confidence": "high"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "생성형 AI 도구",
+        "confidence": "low"
       }
     ]
   },
@@ -1259,6 +1289,11 @@
         "category": "과학교사 업무",
         "topic": "과학실 관리",
         "confidence": "high"
+      },
+      {
+        "category": "과학교사 업무",
+        "topic": "교원연수",
+        "confidence": "low"
       }
     ]
   },
@@ -1373,6 +1408,11 @@
         "subject": "통합과학2",
         "unit": "변화와 다양성",
         "confidence": "medium"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "앱/프로그램",
+        "confidence": "medium"
       }
     ]
   },
@@ -1411,6 +1451,11 @@
         "subject": "통합과학1",
         "unit": "시스템과 상호작용",
         "confidence": "medium"
+      },
+      {
+        "category": "과학교사 업무",
+        "topic": "영재교육",
+        "confidence": "high"
       }
     ]
   },
@@ -1541,6 +1586,11 @@
         "subject": "생명과학Ⅱ",
         "unit": "세포의 특성",
         "confidence": "high"
+      },
+      {
+        "category": "과학교사 업무",
+        "topic": "교원연수",
+        "confidence": "low"
       }
     ]
   },
@@ -1574,6 +1624,11 @@
         "subject": "생명과학Ⅱ",
         "unit": "세포의 특성",
         "confidence": "high"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "앱/프로그램",
+        "confidence": "medium"
       }
     ]
   },
@@ -2902,6 +2957,11 @@
         "subject": "통합과학1",
         "unit": "시스템과 상호작용",
         "confidence": "high"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "앱/프로그램",
+        "confidence": "medium"
       }
     ]
   },
@@ -3114,6 +3174,11 @@
         "subject": "과학탐구실험1",
         "unit": "과학 탐구의 과정과 절차",
         "confidence": "medium"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "생성형 AI 도구",
+        "confidence": "low"
       }
     ]
   },
@@ -3250,6 +3315,11 @@
         "category": "스마트 수업도구",
         "topic": "MBL센서",
         "confidence": "high"
+      },
+      {
+        "category": "과학교사 업무",
+        "topic": "교원연수",
+        "confidence": "low"
       }
     ]
   },
@@ -4578,6 +4648,16 @@
         "subject": "통합과학2",
         "unit": "환경과 에너지",
         "confidence": "medium"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "앱/프로그램",
+        "confidence": "medium"
+      },
+      {
+        "category": "과학교사 업무",
+        "topic": "교원연수",
+        "confidence": "low"
       }
     ]
   },
