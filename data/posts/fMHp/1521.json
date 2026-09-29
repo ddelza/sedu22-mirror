@@ -31,8 +31,13 @@
       "subject": "과학",
       "unit": "운동과 에너지",
       "confidence": "high"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "생성형 AI 도구",
+      "confidence": "low"
     }
   ],
-  "tagsNote": "오징어게임 소재 일의 양 계산 수행평가 공유.",
-  "taggedAt": "2026-08-12T14:53:01.175Z"
+  "tagsNote": "오징어게임 소재 일의 양 계산 수행평가 공유. / 챗GPT에게 그림을 그려달라고 해서 수행평가 자료를 제작.",
+  "taggedAt": "2026-09-29T11:57:04.360Z"
 }

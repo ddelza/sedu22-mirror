@@ -222,6 +222,11 @@
         "category": "게시판별 분류",
         "topic": "중학교 물리수업 이야기",
         "confidence": "high"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "앱/프로그램",
+        "confidence": "low"
       }
     ]
   },
@@ -293,6 +298,11 @@
         "category": "게시판별 분류",
         "topic": "중학교 물리수업 이야기",
         "confidence": "high"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "앱/프로그램",
+        "confidence": "low"
       }
     ]
   },
@@ -326,6 +336,11 @@
         "category": "게시판별 분류",
         "topic": "중학교 물리수업 이야기",
         "confidence": "high"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "생성형 AI 도구",
+        "confidence": "low"
       }
     ]
   },
@@ -359,6 +374,11 @@
         "category": "게시판별 분류",
         "topic": "중학교 물리수업 이야기",
         "confidence": "high"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "구글도구",
+        "confidence": "low"
       }
     ]
   },
@@ -425,6 +445,11 @@
         "category": "게시판별 분류",
         "topic": "중학교 물리수업 이야기",
         "confidence": "high"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "앱/프로그램",
+        "confidence": "low"
       }
     ]
   },
@@ -557,6 +582,11 @@
         "category": "게시판별 분류",
         "topic": "중학교 물리수업 이야기",
         "confidence": "high"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "생성형 AI 도구",
+        "confidence": "low"
       }
     ]
   },
@@ -590,6 +620,11 @@
         "category": "게시판별 분류",
         "topic": "중학교 물리수업 이야기",
         "confidence": "high"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "앱/프로그램",
+        "confidence": "medium"
       }
     ]
   },
@@ -623,6 +658,11 @@
         "category": "게시판별 분류",
         "topic": "중학교 물리수업 이야기",
         "confidence": "high"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "앱/프로그램",
+        "confidence": "low"
       }
     ]
   },
@@ -656,6 +696,16 @@
         "category": "게시판별 분류",
         "topic": "중학교 물리수업 이야기",
         "confidence": "high"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "앱/프로그램",
+        "confidence": "medium"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "생성형 AI 도구",
+        "confidence": "low"
       }
     ]
   },
@@ -821,6 +871,16 @@
         "category": "게시판별 분류",
         "topic": "중학교 물리수업 이야기",
         "confidence": "high"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "구글도구",
+        "confidence": "low"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "생성형 AI 도구",
+        "confidence": "low"
       }
     ]
   },
@@ -859,6 +919,11 @@
         "category": "게시판별 분류",
         "topic": "중학교 물리수업 이야기",
         "confidence": "high"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "구글도구",
+        "confidence": "low"
       }
     ]
   },
@@ -973,6 +1038,11 @@
         "category": "스마트 수업도구",
         "topic": "앱/프로그램",
         "confidence": "medium"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "생성형 AI 도구",
+        "confidence": "low"
       }
     ]
   },
@@ -1096,6 +1166,16 @@
         "subject": "과학",
         "unit": "운동과 에너지",
         "confidence": "medium"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "생성형 AI 도구",
+        "confidence": "low"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "구글도구",
+        "confidence": "low"
       }
     ]
   },
@@ -1290,6 +1370,11 @@
         "subject": "과학",
         "unit": "열",
         "confidence": "high"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "생성형 AI 도구",
+        "confidence": "medium"
       }
     ]
   },
@@ -1503,6 +1588,11 @@
         "category": "스마트 수업도구",
         "topic": "앱/프로그램",
         "confidence": "medium"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "생성형 AI 도구",
+        "confidence": "medium"
       }
     ]
   },
@@ -1569,6 +1659,11 @@
         "subject": "과학",
         "unit": "힘의 작용",
         "confidence": "high"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "생성형 AI 도구",
+        "confidence": "low"
       }
     ]
   },
@@ -1602,6 +1697,11 @@
         "subject": "과학",
         "unit": "운동과 에너지",
         "confidence": "high"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "생성형 AI 도구",
+        "confidence": "low"
       }
     ]
   },
@@ -1639,6 +1739,11 @@
       {
         "category": "스마트 수업도구",
         "topic": "앱/프로그램",
+        "confidence": "medium"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "생성형 AI 도구",
         "confidence": "medium"
       }
     ]
@@ -1815,6 +1920,16 @@
         "subject": "과학",
         "unit": "빛과 파동",
         "confidence": "high"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "생성형 AI 도구",
+        "confidence": "medium"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "앱/프로그램",
+        "confidence": "medium"
       }
     ]
   },
@@ -1980,6 +2095,11 @@
         "subject": "과학",
         "unit": "열",
         "confidence": "high"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "생성형 AI 도구",
+        "confidence": "low"
       }
     ]
   },
@@ -2122,6 +2242,11 @@
         "subject": "과학",
         "unit": "운동과 에너지",
         "confidence": "high"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "MBL센서",
+        "confidence": "medium"
       }
     ]
   },
@@ -2637,6 +2762,11 @@
         "subject": "과학",
         "unit": "열",
         "confidence": "high"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "생성형 AI 도구",
+        "confidence": "low"
       }
     ]
   },
@@ -2670,6 +2800,11 @@
         "subject": "과학",
         "unit": "빛과 파동",
         "confidence": "high"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "생성형 AI 도구",
+        "confidence": "low"
       }
     ]
   },
@@ -3407,6 +3542,11 @@
         "subject": "과학",
         "unit": "힘의 작용",
         "confidence": "high"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "앱/프로그램",
+        "confidence": "low"
       }
     ]
   },
@@ -3473,6 +3613,11 @@
         "subject": "과학",
         "unit": "운동과 에너지",
         "confidence": "high"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "앱/프로그램",
+        "confidence": "low"
       }
     ]
   },
@@ -3669,6 +3814,11 @@
         "subject": "과학",
         "unit": "열",
         "confidence": "high"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "생성형 AI 도구",
+        "confidence": "low"
       }
     ]
   },
@@ -3806,6 +3956,11 @@
         "category": "스마트 수업도구",
         "topic": "앱/프로그램",
         "confidence": "medium"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "생성형 AI 도구",
+        "confidence": "low"
       }
     ]
   },
@@ -4037,6 +4192,11 @@
         "subject": "과학",
         "unit": "열",
         "confidence": "high"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "생성형 AI 도구",
+        "confidence": "low"
       }
     ]
   },
@@ -4471,6 +4631,11 @@
         "subject": "과학",
         "unit": "힘의 작용",
         "confidence": "high"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "생성형 AI 도구",
+        "confidence": "low"
       }
     ]
   },
@@ -5073,6 +5238,11 @@
         "subject": "과학",
         "unit": "전기와 자기",
         "confidence": "high"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "생성형 AI 도구",
+        "confidence": "low"
       }
     ]
   },
@@ -5370,6 +5540,11 @@
         "subject": "과학",
         "unit": "전기와 자기",
         "confidence": "high"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "앱/프로그램",
+        "confidence": "low"
       }
     ]
   },
@@ -6213,6 +6388,11 @@
         "subject": "과학",
         "unit": "전기와 자기",
         "confidence": "high"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "구글도구",
+        "confidence": "low"
       }
     ]
   },
@@ -6378,6 +6558,11 @@
         "subject": "과학",
         "unit": "빛과 파동",
         "confidence": "high"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "앱/프로그램",
+        "confidence": "low"
       }
     ]
   },
@@ -6789,6 +6974,11 @@
         "subject": "과학",
         "unit": "빛과 파동",
         "confidence": "high"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "구글도구",
+        "confidence": "low"
       }
     ]
   },
@@ -11593,6 +11783,11 @@
         "subject": "과학",
         "unit": "빛과 파동",
         "confidence": "high"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "구글도구",
+        "confidence": "low"
       }
     ]
   },
@@ -12415,6 +12610,11 @@
         "subject": "과학",
         "unit": "힘의 작용",
         "confidence": "high"
+      },
+      {
+        "category": "과학교사 업무",
+        "topic": "학급운영",
+        "confidence": "low"
       }
     ]
   },
@@ -14748,6 +14948,11 @@
         "subject": "과학",
         "unit": "빛과 파동",
         "confidence": "high"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "앱/프로그램",
+        "confidence": "low"
       }
     ]
   },
@@ -15375,6 +15580,11 @@
         "subject": "과학",
         "unit": "빛과 파동",
         "confidence": "high"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "앱/프로그램",
+        "confidence": "low"
       }
     ]
   },
@@ -20285,6 +20495,11 @@
         "subject": "과학",
         "unit": "빛과 파동",
         "confidence": "high"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "앱/프로그램",
+        "confidence": "medium"
       }
     ]
   },
@@ -20707,6 +20922,11 @@
         "subject": "과학",
         "unit": "빛과 파동",
         "confidence": "high"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "AR/VR",
+        "confidence": "low"
       }
     ]
   },
@@ -20778,6 +20998,11 @@
         "subject": "과학",
         "unit": "빛과 파동",
         "confidence": "high"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "앱/프로그램",
+        "confidence": "low"
       }
     ]
   },
@@ -24367,6 +24592,11 @@
         "subject": "과학",
         "unit": "전기와 자기",
         "confidence": "high"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "앱/프로그램",
+        "confidence": "medium"
       }
     ]
   },
@@ -24532,6 +24762,16 @@
         "subject": "과학",
         "unit": "전기와 자기",
         "confidence": "high"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "앱/프로그램",
+        "confidence": "low"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "구글도구",
+        "confidence": "low"
       }
     ]
   },
@@ -24558,6 +24798,11 @@
         "subject": null,
         "unit": "미분류",
         "confidence": "medium"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "구글도구",
+        "confidence": "low"
       }
     ]
   },
@@ -25634,6 +25879,11 @@
       {
         "category": "스마트 수업도구",
         "topic": "앱/프로그램",
+        "confidence": "low"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "구글도구",
         "confidence": "low"
       }
     ]
@@ -26993,6 +27243,11 @@
         "subject": "과학",
         "unit": "전기와 자기",
         "confidence": "high"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "구글도구",
+        "confidence": "low"
       }
     ]
   },
@@ -27026,6 +27281,11 @@
         "subject": "과학",
         "unit": "전기와 자기",
         "confidence": "high"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "구글도구",
+        "confidence": "low"
       }
     ]
   },
@@ -27526,6 +27786,11 @@
         "subject": "과학",
         "unit": "전기와 자기",
         "confidence": "high"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "구글도구",
+        "confidence": "low"
       }
     ]
   },
@@ -28962,6 +29227,11 @@
         "subject": "과학",
         "unit": "빛과 파동",
         "confidence": "high"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "앱/프로그램",
+        "confidence": "medium"
       }
     ]
   },
@@ -28995,6 +29265,11 @@
         "subject": "과학",
         "unit": "빛과 파동",
         "confidence": "high"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "메이커/3D프린팅",
+        "confidence": "low"
       }
     ]
   },
@@ -32182,6 +32457,11 @@
         "subject": "과학",
         "unit": "빛과 파동",
         "confidence": "high"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "메이커/3D프린팅",
+        "confidence": "medium"
       }
     ]
   },
@@ -34937,6 +35217,11 @@
         "subject": "과학",
         "unit": "빛과 파동",
         "confidence": "high"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "앱/프로그램",
+        "confidence": "medium"
       }
     ]
   },

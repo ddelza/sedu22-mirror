@@ -31,8 +31,18 @@
       "subject": "과학",
       "unit": "빛과 파동",
       "confidence": "high"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "생성형 AI 도구",
+      "confidence": "medium"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "앱/프로그램",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "플로팅 홀로그램(페퍼스 고스트) 장치 만들기 활동 공유.",
-  "taggedAt": "2026-08-12T14:53:01.169Z"
+  "tagsNote": "플로팅 홀로그램(페퍼스 고스트) 장치 만들기 활동 공유. / 캔바, 바이브코딩, 제미나이 등으로 학생들이 홀로그램용 영상을 직접 제작.",
+  "taggedAt": "2026-09-29T11:57:04.355Z"
 }

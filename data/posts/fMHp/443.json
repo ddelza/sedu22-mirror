@@ -31,8 +31,13 @@
       "subject": "과학",
       "unit": "전기와 자기",
       "confidence": "high"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "앱/프로그램",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "전기와 자기 단원 신규교사 수업 진행 후기.",
-  "taggedAt": "2026-08-12T15:07:01.311Z"
+  "tagsNote": "전기와 자기 단원 신규교사 수업 진행 후기. / PhET 회로 시뮬레이터로 옴의 법칙 가상실험을 진행.",
+  "taggedAt": "2026-09-29T11:57:04.443Z"
 }

@@ -31,8 +31,13 @@
       "subject": "과학",
       "unit": "빛과 파동",
       "confidence": "high"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "구글도구",
+      "confidence": "low"
     }
   ],
-  "tagsNote": "스마트 기기 색 표현 원리(RGB) 활동 공유.",
-  "taggedAt": "2026-08-12T14:54:31.937Z"
+  "tagsNote": "스마트 기기 색 표현 원리(RGB) 활동 공유. / 구글 드라이브에 업로드하고 QR코드로 학생들에게 공유.",
+  "taggedAt": "2026-09-29T11:57:04.384Z"
 }

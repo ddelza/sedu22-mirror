@@ -31,8 +31,13 @@
       "subject": "과학",
       "unit": "힘의 작용",
       "confidence": "high"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "생성형 AI 도구",
+      "confidence": "low"
     }
   ],
-  "tagsNote": "부력 수업 준비용 파스칼의 원리 복습 자료 공유.",
-  "taggedAt": "2026-08-12T14:53:01.174Z"
+  "tagsNote": "부력 수업 준비용 파스칼의 원리 복습 자료 공유. / AI에게 파스칼 원리 고증 영상과 설명 자료를 요청.",
+  "taggedAt": "2026-09-29T11:57:04.359Z"
 }

@@ -31,8 +31,13 @@
       "subject": "과학",
       "unit": "빛과 파동",
       "confidence": "high"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "AR/VR",
+      "confidence": "low"
     }
   ],
-  "tagsNote": "비상교과서 기반 빛·파동 부분 활동지 공유.",
-  "taggedAt": "2026-08-12T14:57:29.583Z"
+  "tagsNote": "비상교과서 기반 빛·파동 부분 활동지 공유. / 다른 선생님이 만든 AR빛 실험지 자료를 활용해 학생활동지를 편집.",
+  "taggedAt": "2026-09-29T11:57:04.401Z"
 }

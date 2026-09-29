@@ -31,8 +31,13 @@
       "subject": "과학",
       "unit": "전기와 자기",
       "confidence": "high"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "구글도구",
+      "confidence": "low"
     }
   ],
-  "tagsNote": "전기의 발생 단원 동영상·PPT·방탈출 자료 공유.",
-  "taggedAt": "2026-08-12T15:07:01.333Z"
+  "tagsNote": "전기의 발생 단원 동영상·PPT·방탈출 자료 공유. / 구글 폼으로 만든 방탈출 게임을 수업에 활용.",
+  "taggedAt": "2026-09-29T11:57:04.450Z"
 }

@@ -31,8 +31,13 @@
       "subject": "과학",
       "unit": "힘의 작용",
       "confidence": "high"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "생성형 AI 도구",
+      "confidence": "low"
     }
   ],
-  "tagsNote": "지구·달·목성 체중계 눈금 파일(N단위) 공유.",
-  "taggedAt": "2026-08-12T14:56:01.117Z"
+  "tagsNote": "지구·달·목성 체중계 눈금 파일(N단위) 공유. / 체중계 눈금을 챗GPT로 만들었다고 명시.",
+  "taggedAt": "2026-09-29T11:57:04.392Z"
 }

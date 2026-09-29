@@ -31,8 +31,13 @@
       "subject": "과학",
       "unit": "열",
       "confidence": "high"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "생성형 AI 도구",
+      "confidence": "low"
     }
   ],
-  "tagsNote": "열전도율 차이(철제 vs 나무 의자) 설명 질문.",
-  "taggedAt": "2026-08-12T14:47:39.538Z"
+  "tagsNote": "열전도율 차이(철제 vs 나무 의자) 설명 질문. / 인덕션 열전달 원리를 챗지피티에 물어봄.",
+  "taggedAt": "2026-09-29T11:57:04.325Z"
 }

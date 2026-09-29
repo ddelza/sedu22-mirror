@@ -31,8 +31,13 @@
       "category": "게시판별 분류",
       "topic": "중학교 물리수업 이야기",
       "confidence": "high"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "앱/프로그램",
+      "confidence": "low"
     }
   ],
-  "tagsNote": "중2 빛의 3원색 관찰 웹앱.",
-  "taggedAt": "2026-09-10T03:22:02.116Z"
+  "tagsNote": "중2 빛의 3원색 관찰 웹앱. / 스마트폰 현미경으로 색을 관찰하는 웹앱을 활용.",
+  "taggedAt": "2026-09-29T11:57:04.373Z"
 }

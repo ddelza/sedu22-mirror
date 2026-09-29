@@ -36,8 +36,13 @@
       "category": "스마트 수업도구",
       "topic": "앱/프로그램",
       "confidence": "medium"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "생성형 AI 도구",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "호모폴라 전동기 원리 웹앱 자체 제작 공유.",
-  "taggedAt": "2026-08-12T14:53:01.179Z"
+  "tagsNote": "호모폴라 전동기 원리 웹앱 자체 제작 공유. / Claude Opus를 이용해 시뮬레이션 퀴즈를 직접 제작.",
+  "taggedAt": "2026-09-29T11:57:04.362Z"
 }

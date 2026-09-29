@@ -36,8 +36,13 @@
       "category": "스마트 수업도구",
       "topic": "앱/프로그램",
       "confidence": "medium"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "생성형 AI 도구",
+      "confidence": "low"
     }
   ],
-  "tagsNote": "근시·원시 시력교정 원리 웹앱 공유.",
-  "taggedAt": "2026-08-12T14:54:31.924Z"
+  "tagsNote": "근시·원시 시력교정 원리 웹앱 공유. / 클로드와 대화하며 시력교정 웹앱을 만들었다고 명시.",
+  "taggedAt": "2026-09-29T11:57:04.368Z"
 }

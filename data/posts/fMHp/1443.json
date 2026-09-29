@@ -31,8 +31,13 @@
       "subject": "과학",
       "unit": "열",
       "confidence": "high"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "생성형 AI 도구",
+      "confidence": "low"
     }
   ],
-  "tagsNote": "뚝배기와 냄비의 비열 차이 관련 질문.",
-  "taggedAt": "2026-08-12T14:47:39.549Z"
+  "tagsNote": "뚝배기와 냄비의 비열 차이 관련 질문. / 비열과 열전도율의 관계를 챗지피티에 물어보고 확인.",
+  "taggedAt": "2026-09-29T11:57:04.333Z"
 }

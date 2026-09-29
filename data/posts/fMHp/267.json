@@ -31,8 +31,13 @@
       "subject": "과학",
       "unit": "빛과 파동",
       "confidence": "high"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "앱/프로그램",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "소리의 3요소 CSI 체험(범인 찾기) 자료 공유.",
-  "taggedAt": "2026-08-12T14:58:56.054Z"
+  "tagsNote": "소리의 3요소 CSI 체험(범인 찾기) 자료 공유. / 오실로스코프 앱과 패들릿 앱으로 소리 분석 활동을 진행.",
+  "taggedAt": "2026-09-29T11:57:04.409Z"
 }
