@@ -31,8 +31,13 @@
       "subject": "과학",
       "unit": "물질의 구성",
       "confidence": "high"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "앱/프로그램",
+      "confidence": "low"
     }
   ],
-  "tagsNote": "1단원 물질의 구성 소단원별 형성평가 자료 공유.",
-  "taggedAt": "2026-08-12T22:06:06.978Z"
+  "tagsNote": "1단원 물질의 구성 소단원별 형성평가 자료 공유. / Kahoot으로 소단원별 형성평가를 제작.",
+  "taggedAt": "2026-09-29T12:05:58.550Z"
 }

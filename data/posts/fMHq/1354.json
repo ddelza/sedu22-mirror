@@ -31,8 +31,13 @@
       "category": "게시판별 분류",
       "topic": "중학교 화학수업 이야기",
       "confidence": "high"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "앱/프로그램",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "[중1 4.물질의 상태 변화] 입자헌터 웹앱.",
-  "taggedAt": "2026-09-10T03:22:02.132Z"
+  "tagsNote": "[중1 4.물질의 상태 변화] 입자헌터 웹앱. / 입자 배열을 학습하는 자체 제작 웹앱(netlify)을 전자칠판에서 활용.",
+  "taggedAt": "2026-09-29T12:05:58.528Z"
 }

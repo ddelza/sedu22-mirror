@@ -31,8 +31,13 @@
       "subject": "과학",
       "unit": "화학 반응의 규칙성",
       "confidence": "high"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "앱/프로그램",
+      "confidence": "low"
     }
   ],
-  "tagsNote": "조별 학습지로 진행한 화학반응식 만들기 활동 공유.",
-  "taggedAt": "2026-08-12T21:59:47.581Z"
+  "tagsNote": "조별 학습지로 진행한 화학반응식 만들기 활동 공유. / sciencej1.cafe24.com의 화학반응식 프로그램을 학습지와 연계해 활용.",
+  "taggedAt": "2026-09-29T12:05:58.510Z"
 }

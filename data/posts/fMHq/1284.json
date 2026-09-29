@@ -31,8 +31,18 @@
       "subject": "과학",
       "unit": "화학 반응의 규칙성",
       "confidence": "high"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "생성형 AI 도구",
+      "confidence": "medium"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "앱/프로그램",
+      "confidence": "low"
     }
   ],
-  "tagsNote": "질량보존법칙 학습 후 야외에서 진행한 화학반응 모형 만들기 활동 공유.",
-  "taggedAt": "2026-08-12T21:59:47.585Z"
+  "tagsNote": "질량보존법칙 학습 후 야외에서 진행한 화학반응 모형 만들기 활동 공유. / manus.im로 웹페이지를 만들고 패들렛과 연동하여 야외수업 미션 진행.",
+  "taggedAt": "2026-09-29T12:05:58.511Z"
 }

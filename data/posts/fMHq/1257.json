@@ -31,8 +31,13 @@
       "subject": "과학",
       "unit": "화학 반응의 규칙성",
       "confidence": "high"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "생성형 AI 도구",
+      "confidence": "low"
     }
   ],
-  "tagsNote": "물리변화·화학변화 지도용 양초 활동 아이디어 공유.",
-  "taggedAt": "2026-08-12T21:59:47.563Z"
+  "tagsNote": "물리변화·화학변화 지도용 양초 활동 아이디어 공유. / 캔바 AI로 수업용 PPT를 제작.",
+  "taggedAt": "2026-09-29T12:05:58.504Z"
 }

@@ -31,8 +31,18 @@
       "subject": "과학",
       "unit": "물질의 구성",
       "confidence": "high"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "앱/프로그램",
+      "confidence": "low"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "구글도구",
+      "confidence": "low"
     }
   ],
-  "tagsNote": "원소기호 암기 어려운 3학년 학생용 '원소기호왕' 활동 공유.",
-  "taggedAt": "2026-08-12T21:59:47.577Z"
+  "tagsNote": "원소기호 암기 어려운 3학년 학생용 '원소기호왕' 활동 공유. / 구글 사이트로 만든 원소기호 학습 웹앱을 활용.",
+  "taggedAt": "2026-09-29T12:05:58.508Z"
 }

@@ -37697,6 +37697,11 @@
         "subject": "과학",
         "unit": "빛과 파동",
         "confidence": "high"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "앱/프로그램",
+        "confidence": "low"
       }
     ]
   },
@@ -49291,6 +49296,11 @@
         "subject": "과학",
         "unit": "지권의 변화",
         "confidence": "high"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "앱/프로그램",
+        "confidence": "low"
       }
     ]
   },

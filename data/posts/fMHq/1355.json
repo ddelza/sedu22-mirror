@@ -31,8 +31,18 @@
       "category": "게시판별 분류",
       "topic": "중학교 화학수업 이야기",
       "confidence": "high"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "생성형 AI 도구",
+      "confidence": "medium"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "앱/프로그램",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "Ⅵ. 기체의 성질 학습지 4차시(가상실험 포함).",
-  "taggedAt": "2026-09-10T03:22:02.133Z"
+  "tagsNote": "Ⅵ. 기체의 성질 학습지 4차시(가상실험 포함). / AI(바이브코딩)로 가상실험 4종을 만들고, 학생들도 AI로 뮤직비디오를 제작하는 프로젝트 예정.",
+  "taggedAt": "2026-09-29T12:05:58.529Z"
 }

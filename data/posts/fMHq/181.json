@@ -31,8 +31,13 @@
       "subject": "과학",
       "unit": "물질의 상태 변화",
       "confidence": "high"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "앱/프로그램",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "상태변화 스톱모션 제작 수행평가 진행 후기 공유.",
-  "taggedAt": "2026-08-12T22:04:38.438Z"
+  "tagsNote": "상태변화 스톱모션 제작 수행평가 진행 후기 공유. / 스톱모션 제작에 Stop Motion Studio 어플을 사용.",
+  "taggedAt": "2026-09-29T12:05:58.539Z"
 }

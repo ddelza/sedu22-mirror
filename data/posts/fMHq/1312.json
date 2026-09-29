@@ -36,8 +36,13 @@
       "category": "스마트 수업도구",
       "topic": "앱/프로그램",
       "confidence": "medium"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "생성형 AI 도구",
+      "confidence": "low"
     }
   ],
-  "tagsNote": "POE 모형을 적용한 녹는점·끓는점 학습용 웹앱 공유.",
-  "taggedAt": "2026-08-12T22:01:20.135Z"
+  "tagsNote": "POE 모형을 적용한 녹는점·끓는점 학습용 웹앱 공유. / AI가 정리해준 소개글을 바탕으로 POE 학습 웹앱을 제작.",
+  "taggedAt": "2026-09-29T12:05:58.519Z"
 }

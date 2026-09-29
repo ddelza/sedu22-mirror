@@ -31,8 +31,13 @@
       "subject": "과학",
       "unit": "물질의 구성",
       "confidence": "high"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "앱/프로그램",
+      "confidence": "low"
     }
   ],
-  "tagsNote": "1단원 물질의 구성 수업자료(학습지·PPT) 공유.",
-  "taggedAt": "2026-08-12T22:06:06.977Z"
+  "tagsNote": "1단원 물질의 구성 수업자료(학습지·PPT) 공유. / 퀴즈앤 사이트로 실시간 퀴즈 활동을 진행.",
+  "taggedAt": "2026-09-29T12:05:58.547Z"
 }

@@ -138,6 +138,11 @@
         "category": "게시판별 분류",
         "topic": "중학교 화학수업 이야기",
         "confidence": "high"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "앱/프로그램",
+        "confidence": "medium"
       }
     ]
   },
@@ -204,6 +209,11 @@
         "category": "게시판별 분류",
         "topic": "중학교 화학수업 이야기",
         "confidence": "high"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "앱/프로그램",
+        "confidence": "medium"
       }
     ]
   },
@@ -237,6 +247,16 @@
         "category": "게시판별 분류",
         "topic": "중학교 화학수업 이야기",
         "confidence": "high"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "생성형 AI 도구",
+        "confidence": "medium"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "앱/프로그램",
+        "confidence": "medium"
       }
     ]
   },
@@ -303,6 +323,11 @@
         "category": "게시판별 분류",
         "topic": "중학교 화학수업 이야기",
         "confidence": "high"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "앱/프로그램",
+        "confidence": "medium"
       }
     ]
   },
@@ -336,6 +361,11 @@
         "category": "게시판별 분류",
         "topic": "중학교 화학수업 이야기",
         "confidence": "high"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "앱/프로그램",
+        "confidence": "medium"
       }
     ]
   },
@@ -399,6 +429,11 @@
         "schoolLevel": null,
         "subject": null,
         "unit": "미분류",
+        "confidence": "low"
+      },
+      {
+        "category": "과학교사 업무",
+        "topic": "교원연수",
         "confidence": "low"
       }
     ]
@@ -1087,6 +1122,11 @@
         "category": "스마트 수업도구",
         "topic": "앱/프로그램",
         "confidence": "medium"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "생성형 AI 도구",
+        "confidence": "low"
       }
     ]
   },
@@ -1151,6 +1191,11 @@
         "category": "스마트 수업도구",
         "topic": "앱/프로그램",
         "confidence": "medium"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "생성형 AI 도구",
+        "confidence": "low"
       }
     ]
   },
@@ -1489,6 +1534,11 @@
         "category": "스마트 수업도구",
         "topic": "앱/프로그램",
         "confidence": "medium"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "생성형 AI 도구",
+        "confidence": "low"
       }
     ]
   },
@@ -1673,6 +1723,11 @@
         "subject": "과학",
         "unit": "물질의 구성",
         "confidence": "high"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "생성형 AI 도구",
+        "confidence": "low"
       }
     ]
   },
@@ -1937,6 +1992,11 @@
         "subject": "과학",
         "unit": "화학 반응의 규칙성",
         "confidence": "high"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "생성형 AI 도구",
+        "confidence": "low"
       }
     ]
   },
@@ -2161,6 +2221,16 @@
         "subject": "과학",
         "unit": "화학 반응의 규칙성",
         "confidence": "high"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "생성형 AI 도구",
+        "confidence": "medium"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "앱/프로그램",
+        "confidence": "low"
       }
     ]
   },
@@ -2277,6 +2347,11 @@
         "subject": "과학",
         "unit": "화학 반응의 규칙성",
         "confidence": "high"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "앱/프로그램",
+        "confidence": "low"
       }
     ]
   },
@@ -2447,6 +2522,16 @@
         "subject": "과학",
         "unit": "물질의 구성",
         "confidence": "high"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "앱/프로그램",
+        "confidence": "low"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "구글도구",
+        "confidence": "low"
       }
     ]
   },
@@ -2558,6 +2643,11 @@
         "category": "스마트 수업도구",
         "topic": "앱/프로그램",
         "confidence": "medium"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "생성형 AI 도구",
+        "confidence": "low"
       }
     ]
   },
@@ -2917,6 +3007,11 @@
         "subject": "과학",
         "unit": "화학 반응의 규칙성",
         "confidence": "high"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "생성형 AI 도구",
+        "confidence": "low"
       }
     ]
   },
@@ -12971,6 +13066,11 @@
         "subject": "과학",
         "unit": "물질의 상태 변화",
         "confidence": "high"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "앱/프로그램",
+        "confidence": "low"
       }
     ]
   },
@@ -13513,6 +13613,11 @@
         "subject": "과학",
         "unit": "물질의 상태 변화",
         "confidence": "high"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "앱/프로그램",
+        "confidence": "low"
       }
     ]
   },
@@ -15795,6 +15900,11 @@
         "subject": "과학",
         "unit": "물질의 구성",
         "confidence": "high"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "앱/프로그램",
+        "confidence": "low"
       }
     ]
   },
@@ -17139,6 +17249,11 @@
         "subject": "과학",
         "unit": "물질의 구성",
         "confidence": "high"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "앱/프로그램",
+        "confidence": "low"
       }
     ]
   },
@@ -17384,6 +17499,11 @@
         "subject": "과학",
         "unit": "물질의 구성",
         "confidence": "high"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "앱/프로그램",
+        "confidence": "medium"
       }
     ]
   },
@@ -17719,6 +17839,11 @@
         "subject": "과학",
         "unit": "물질의 특성",
         "confidence": "high"
+      },
+      {
+        "category": "과학교사 업무",
+        "topic": "동아리 운영",
+        "confidence": "low"
       }
     ]
   },
@@ -18278,6 +18403,11 @@
         "subject": "과학",
         "unit": "물질의 상태 변화",
         "confidence": "high"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "앱/프로그램",
+        "confidence": "medium"
       }
     ]
   },
@@ -19627,6 +19757,11 @@
         "subject": "과학",
         "unit": "화학 반응의 규칙성",
         "confidence": "medium"
+      },
+      {
+        "category": "과학교사 업무",
+        "topic": "동아리 운영",
+        "confidence": "low"
       }
     ]
   },
@@ -20210,6 +20345,11 @@
         "subject": null,
         "unit": "미분류",
         "confidence": "low"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "앱/프로그램",
+        "confidence": "medium"
       }
     ]
   },
@@ -22631,6 +22771,11 @@
         "category": "스마트 수업도구",
         "topic": "앱/프로그램",
         "confidence": "medium"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "구글도구",
+        "confidence": "medium"
       }
     ]
   },
@@ -23190,6 +23335,11 @@
         "subject": "과학",
         "unit": "물질의 특성",
         "confidence": "high"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "앱/프로그램",
+        "confidence": "low"
       }
     ]
   },
@@ -23327,6 +23477,16 @@
         "subject": "과학",
         "unit": "물질의 상태 변화",
         "confidence": "high"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "앱/프로그램",
+        "confidence": "low"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "구글도구",
+        "confidence": "low"
       }
     ]
   },
@@ -24587,6 +24747,16 @@
         "subject": "과학",
         "unit": "물질의 구성",
         "confidence": "high"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "앱/프로그램",
+        "confidence": "low"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "구글도구",
+        "confidence": "low"
       }
     ]
   },
@@ -25704,6 +25874,11 @@
         "subject": "과학",
         "unit": "화학 반응의 규칙성",
         "confidence": "high"
+      },
+      {
+        "category": "과학교사 업무",
+        "topic": "동아리 운영",
+        "confidence": "low"
       }
     ]
   },
@@ -29721,6 +29896,11 @@
         "subject": "과학",
         "unit": "물질의 상태 변화",
         "confidence": "high"
+      },
+      {
+        "category": "과학교사 업무",
+        "topic": "교원연수",
+        "confidence": "low"
       }
     ]
   },
@@ -30377,6 +30557,11 @@
         "subject": "과학",
         "unit": "물질의 상태 변화",
         "confidence": "high"
+      },
+      {
+        "category": "과학교사 업무",
+        "topic": "교원연수",
+        "confidence": "low"
       }
     ]
   },
@@ -35555,6 +35740,11 @@
         "subject": "과학",
         "unit": "물질의 상태 변화",
         "confidence": "high"
+      },
+      {
+        "category": "과학교사 업무",
+        "topic": "교원연수",
+        "confidence": "low"
       }
     ]
   },
@@ -40657,6 +40847,11 @@
         "subject": "과학",
         "unit": "물질의 상태 변화",
         "confidence": "medium"
+      },
+      {
+        "category": "과학교사 업무",
+        "topic": "교원연수",
+        "confidence": "low"
       }
     ]
   },
@@ -42741,6 +42936,11 @@
         "subject": "과학",
         "unit": "물질의 특성",
         "confidence": "high"
+      },
+      {
+        "category": "과학교사 업무",
+        "topic": "동아리 운영",
+        "confidence": "low"
       }
     ]
   },
