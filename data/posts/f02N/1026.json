@@ -21,8 +21,13 @@
       "category": "스마트 수업도구",
       "topic": "앱/프로그램",
       "confidence": "medium"
+    },
+    {
+      "category": "과학교사 업무",
+      "topic": "교원연수",
+      "confidence": "low"
     }
   ],
-  "tagsNote": "하이러닝 캔바 활용 후기 문의.",
-  "taggedAt": "2026-08-12T04:36:24.571Z"
+  "tagsNote": "하이러닝 캔바 활용 후기 문의. / 캔바 연수를 받았다고 언급.",
+  "taggedAt": "2026-09-29T11:15:16.587Z"
 }

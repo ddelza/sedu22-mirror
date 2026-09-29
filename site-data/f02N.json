@@ -307,6 +307,11 @@
         "category": "스마트 수업도구",
         "topic": "앱/프로그램",
         "confidence": "medium"
+      },
+      {
+        "category": "과학교사 업무",
+        "topic": "교원연수",
+        "confidence": "low"
       }
     ]
   },
@@ -14296,6 +14301,11 @@
         "category": "스마트 수업도구",
         "topic": "MBL센서",
         "confidence": "medium"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "AR/VR",
+        "confidence": "low"
       }
     ]
   },

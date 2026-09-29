@@ -26,8 +26,13 @@
       "category": "스마트 수업도구",
       "topic": "MBL센서",
       "confidence": "medium"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "AR/VR",
+      "confidence": "low"
     }
   ],
-  "tagsNote": "지능형과학실 물품(VR, MBL, 디지털현미경) 추천 요청.",
-  "taggedAt": "2026-08-12T04:43:00.491Z"
+  "tagsNote": "지능형과학실 물품(VR, MBL, 디지털현미경) 추천 요청. / 지능형과학실 구축 예산으로 VR 기기 구매 계획.",
+  "taggedAt": "2026-09-29T11:15:16.604Z"
 }
