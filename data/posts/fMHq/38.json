@@ -36,8 +36,13 @@
       "category": "스마트 수업도구",
       "topic": "앱/프로그램",
       "confidence": "medium"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "구글도구",
+      "confidence": "low"
     }
   ],
-  "tagsNote": "방탈출 향기 사건 수업을 QR코드로 재구성한 자료 공유.",
-  "taggedAt": "2026-08-12T22:12:04.281Z"
+  "tagsNote": "방탈출 향기 사건 수업을 QR코드로 재구성한 자료 공유. / 구글 도구 활용.",
+  "taggedAt": "2026-09-29T12:24:23.531Z"
 }

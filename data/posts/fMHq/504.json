@@ -36,8 +36,18 @@
       "category": "스마트 수업도구",
       "topic": "앱/프로그램",
       "confidence": "medium"
+    },
+    {
+      "category": "과학교사 업무",
+      "topic": "교원연수",
+      "confidence": "low"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "구글도구",
+      "confidence": "low"
     }
   ],
-  "tagsNote": "2학년 6단원 물질의 특성 모둠별 방탈출게임(구글폼) 공유.",
-  "taggedAt": "2026-08-12T22:18:00.291Z"
+  "tagsNote": "2학년 6단원 물질의 특성 모둠별 방탈출게임(구글폼) 공유. / 연수 참석 경험 언급 및 구글 도구 활용.",
+  "taggedAt": "2026-09-29T12:24:23.560Z"
 }

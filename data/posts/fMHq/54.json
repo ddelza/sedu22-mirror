@@ -45,9 +45,14 @@
       "subject": "과학",
       "unit": "물질의 상태 변화",
       "confidence": "medium"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "앱/프로그램",
+      "confidence": "low"
     }
   ],
-  "tagsNote": "암모니아 확산·증발 가상실험 제작 공유.",
-  "taggedAt": "2026-08-12T22:19:32.201Z",
+  "tagsNote": "암모니아 확산·증발 가상실험 제작 공유. / 앱을 활용한 수업 활동.",
+  "taggedAt": "2026-09-29T12:24:23.567Z",
   "verticalReviewedAt": "2026-08-16T13:33:10.584Z"
 }

@@ -31,8 +31,13 @@
       "subject": "과학",
       "unit": "물질의 특성",
       "confidence": "medium"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "구글도구",
+      "confidence": "low"
     }
   ],
-  "tagsNote": "학생 반응이 좋았던 캐릭터 활용 복습 퀴즈 공유.",
-  "taggedAt": "2026-08-12T22:19:32.202Z"
+  "tagsNote": "학생 반응이 좋았던 캐릭터 활용 복습 퀴즈 공유. / 구글 도구 활용.",
+  "taggedAt": "2026-09-29T12:24:23.569Z"
 }

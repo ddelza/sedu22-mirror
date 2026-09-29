@@ -36,8 +36,13 @@
       "category": "스마트 수업도구",
       "topic": "생성형 AI 도구",
       "confidence": "medium"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "앱/프로그램",
+      "confidence": "low"
     }
   ],
-  "tagsNote": "ChatGPT로 코딩한 원소기호 자가점검 퀴즈 웹프로그램 공유.",
-  "taggedAt": "2026-08-12T22:12:04.247Z"
+  "tagsNote": "ChatGPT로 코딩한 원소기호 자가점검 퀴즈 웹프로그램 공유. / 앱을 활용한 수업 활동.",
+  "taggedAt": "2026-09-29T12:24:23.525Z"
 }

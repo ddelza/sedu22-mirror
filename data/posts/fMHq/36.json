@@ -31,8 +31,18 @@
       "subject": "과학",
       "unit": "기체의 성질",
       "confidence": "high"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "생성형 AI 도구",
+      "confidence": "low"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "구글도구",
+      "confidence": "low"
     }
   ],
-  "tagsNote": "방탈출 카페 향기 사건 스토리텔링 기반 기체의 성질 수업 자료 공유.",
-  "taggedAt": "2026-08-12T22:12:04.257Z"
+  "tagsNote": "방탈출 카페 향기 사건 스토리텔링 기반 기체의 성질 수업 자료 공유. / AI 도구 및 구글 도구 활용 언급.",
+  "taggedAt": "2026-09-29T12:24:23.528Z"
 }

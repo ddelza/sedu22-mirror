@@ -31,8 +31,18 @@
       "subject": "과학",
       "unit": "화학 반응의 규칙성",
       "confidence": "high"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "구글도구",
+      "confidence": "low"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "앱/프로그램",
+      "confidence": "low"
     }
   ],
-  "tagsNote": "일정성분비의 법칙 온라인 과제(2번째) 공개용 자료 공유.",
-  "taggedAt": "2026-08-12T22:21:08.285Z"
+  "tagsNote": "일정성분비의 법칙 온라인 과제(2번째) 공개용 자료 공유. / 구글 도구 및 앱 활용.",
+  "taggedAt": "2026-09-29T12:24:23.581Z"
 }

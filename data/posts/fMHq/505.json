@@ -31,8 +31,13 @@
       "subject": "과학",
       "unit": "물질의 특성",
       "confidence": "high"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "구글도구",
+      "confidence": "low"
     }
   ],
-  "tagsNote": "혼합물의 분리 주제 캐릭터 변형 퀴즈 공유.",
-  "taggedAt": "2026-08-12T22:18:00.292Z"
+  "tagsNote": "혼합물의 분리 주제 캐릭터 변형 퀴즈 공유. / 구글 도구 활용.",
+  "taggedAt": "2026-09-29T12:24:23.561Z"
 }

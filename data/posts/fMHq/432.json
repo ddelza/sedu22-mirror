@@ -31,8 +31,13 @@
       "subject": "과학",
       "unit": "물질의 구성",
       "confidence": "high"
+    },
+    {
+      "category": "수업 방법론",
+      "topic": "거꾸로 교실",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "원자의 전자배치 설명 PPT 공유.",
-  "taggedAt": "2026-08-12T22:15:07.522Z"
+  "tagsNote": "원자의 전자배치 설명 PPT 공유. / 집에서 영상으로 예습 후 수업시간엔 활동하는 거꾸로 교실 방식 언급.",
+  "taggedAt": "2026-09-29T12:24:23.543Z"
 }

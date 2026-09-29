@@ -31,8 +31,13 @@
       "subject": "과학",
       "unit": "물질의 구성",
       "confidence": "high"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "앱/프로그램",
+      "confidence": "low"
     }
   ],
-  "tagsNote": "원소기호 글짓기 학생 결과물 공유.",
-  "taggedAt": "2026-08-12T22:15:07.526Z"
+  "tagsNote": "원소기호 글짓기 학생 결과물 공유. / 앱을 활용한 수업 활동.",
+  "taggedAt": "2026-09-29T12:24:23.544Z"
 }
