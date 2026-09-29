@@ -31,9 +31,14 @@
       "subject": "과학",
       "unit": "태양계",
       "confidence": "high"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "앱/프로그램",
+      "confidence": "low"
     }
   ],
-  "tagsNote": "행성 갤러그 게임 버전(395 후속). [보완: 수평 보완(동일 이름)]",
-  "taggedAt": "2026-08-12T03:56:56.772Z",
+  "tagsNote": "행성 갤러그 게임 버전(395 후속). [보완: 수평 보완(동일 이름)] / HTML로 태양계 갤러그 게임 직접 제작.",
+  "taggedAt": "2026-09-29T11:10:23.990Z",
   "verticalReviewedAt": "2026-08-14T02:32:00.670Z"
 }

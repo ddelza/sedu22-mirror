@@ -22,8 +22,13 @@
       "category": "스마트 수업도구",
       "topic": "생성형 AI 도구",
       "confidence": "high"
+    },
+    {
+      "category": "과학교사 업무",
+      "topic": "교원연수",
+      "confidence": "low"
     }
   ],
-  "tagsNote": "NotebookLM 활용 팁(교원학습공동체 연수용).",
-  "taggedAt": "2026-08-12T03:53:51.207Z"
+  "tagsNote": "NotebookLM 활용 팁(교원학습공동체 연수용). / 학교 내 교원학습공동체 연수를 위해 NotebookLM 활용팁 준비.",
+  "taggedAt": "2026-09-29T11:10:23.967Z"
 }
