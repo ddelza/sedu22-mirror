@@ -36,8 +36,13 @@
       "category": "스마트 수업도구",
       "topic": "생성형 AI 도구",
       "confidence": "medium"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "구글도구",
+      "confidence": "low"
     }
   ],
-  "tagsNote": "생성형 AI 이미지를 활용한 열 단원 방탈출게임(발전소 탈출) 공유.",
-  "taggedAt": "2026-08-12T15:08:35.397Z"
+  "tagsNote": "생성형 AI 이미지를 활용한 열 단원 방탈출게임(발전소 탈출) 공유. / 구글 폼으로 방탈출 게임을 제작.",
+  "taggedAt": "2026-09-29T12:00:48.613Z"
 }

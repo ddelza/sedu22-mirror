@@ -31,8 +31,13 @@
       "subject": "과학",
       "unit": "빛과 파동",
       "confidence": "high"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "앱/프로그램",
+      "confidence": "low"
     }
   ],
-  "tagsNote": "빔프로젝터 스마트뷰를 활용한 조명색-물체색 관찰 수업 공유.",
-  "taggedAt": "2026-08-12T15:23:44.263Z"
+  "tagsNote": "빔프로젝터 스마트뷰를 활용한 조명색-물체색 관찰 수업 공유. / RGB Color Wallpaper 앱을 태블릿에 설치해 조명 실험에 사용.",
+  "taggedAt": "2026-09-29T12:00:48.683Z"
 }

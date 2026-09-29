@@ -31,8 +31,18 @@
       "subject": "과학",
       "unit": "힘의 작용",
       "confidence": "high"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "구글도구",
+      "confidence": "low"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "AR/VR",
+      "confidence": "low"
     }
   ],
-  "tagsNote": "힘 단원 정리용 미니북 만들기 활동 공유.",
-  "taggedAt": "2026-08-12T15:26:14.258Z"
+  "tagsNote": "힘 단원 정리용 미니북 만들기 활동 공유. / 잼보드와 실감형콘텐츠 학습지를 활용한 미니북 정리 활동.",
+  "taggedAt": "2026-09-29T12:00:48.693Z"
 }

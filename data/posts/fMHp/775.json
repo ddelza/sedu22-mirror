@@ -36,8 +36,13 @@
       "category": "스마트 수업도구",
       "topic": "AR/VR",
       "confidence": "medium"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "앱/프로그램",
+      "confidence": "low"
     }
   ],
-  "tagsNote": "AR 빛 실험실과 가정용 렌즈 관찰 실험 병행 수업 공유.",
-  "taggedAt": "2026-08-12T15:23:44.256Z"
+  "tagsNote": "AR 빛 실험실과 가정용 렌즈 관찰 실험 병행 수업 공유. / 미리캔버스로 만든 수업 이미지를 AR빛실험실과 함께 활용.",
+  "taggedAt": "2026-09-29T12:00:48.679Z"
 }

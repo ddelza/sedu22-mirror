@@ -31,8 +31,18 @@
       "subject": "과학",
       "unit": "빛과 파동",
       "confidence": "medium"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "앱/프로그램",
+      "confidence": "low"
+    },
+    {
+      "category": "과학교사 업무",
+      "topic": "동아리 운영",
+      "confidence": "low"
     }
   ],
-  "tagsNote": "동아리 시간 유리잔 연주(소리의 진동) 활동 공유.",
-  "taggedAt": "2026-08-12T15:30:50.680Z"
+  "tagsNote": "동아리 시간 유리잔 연주(소리의 진동) 활동 공유. / 동아리 활동 시간에 n-Track 튜너 앱으로 음을 맞추어 연주.",
+  "taggedAt": "2026-09-29T12:00:48.726Z"
 }

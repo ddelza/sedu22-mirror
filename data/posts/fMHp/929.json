@@ -31,8 +31,13 @@
       "subject": "과학",
       "unit": "빛과 파동",
       "confidence": "high"
+    },
+    {
+      "category": "과학교사 업무",
+      "topic": "교원연수",
+      "confidence": "low"
     }
   ],
-  "tagsNote": "희귀 현상인 3차 무지개 관찰 소개.",
-  "taggedAt": "2026-08-12T15:30:50.673Z"
+  "tagsNote": "희귀 현상인 3차 무지개 관찰 소개. / 연수 중에 우연히 3차 무지개 현상을 접했다고 명시.",
+  "taggedAt": "2026-09-29T12:00:48.724Z"
 }
