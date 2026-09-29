@@ -361,6 +361,11 @@
         "category": "과학교사 업무",
         "topic": "과학실 관리",
         "confidence": "high"
+      },
+      {
+        "category": "과학교사 업무",
+        "topic": "교원연수",
+        "confidence": "low"
       }
     ]
   },

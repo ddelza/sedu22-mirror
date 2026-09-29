@@ -24,8 +24,13 @@
       "subject": null,
       "unit": "미분류",
       "confidence": "medium"
+    },
+    {
+      "category": "수업 방법론",
+      "topic": "토론수업",
+      "confidence": "low"
     }
   ],
-  "tagsNote": "학생 중심 활동 수업 시 소음(옆반 방해) 관련 고민.",
-  "taggedAt": "2026-08-12T10:30:00.130Z"
+  "tagsNote": "학생 중심 활동 수업 시 소음(옆반 방해) 관련 고민. / 학생 중심 수업에서 학생들이 토론·토의하는 소리에 대한 질문.",
+  "taggedAt": "2026-09-29T11:33:04.341Z"
 }

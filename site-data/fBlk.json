@@ -63,6 +63,11 @@
         "subject": "생명과학",
         "unit": "생명시스템의 구성",
         "confidence": "medium"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "생성형 AI 도구",
+        "confidence": "medium"
       }
     ]
   },
@@ -116,6 +121,11 @@
         "category": "과학교사 업무",
         "topic": "학급운영",
         "confidence": "medium"
+      },
+      {
+        "category": "과학교사 업무",
+        "topic": "교원연수",
+        "confidence": "low"
       }
     ]
   },
@@ -700,6 +710,11 @@
         "subject": "과학",
         "unit": "수권과 해수의 순환",
         "confidence": "medium"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "앱/프로그램",
+        "confidence": "low"
       }
     ]
   },
@@ -903,6 +918,11 @@
         "subject": "과학",
         "unit": "날씨와 기후변화",
         "confidence": "medium"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "앱/프로그램",
+        "confidence": "low"
       }
     ]
   },
@@ -1131,6 +1151,11 @@
         "category": "과학교사 업무",
         "topic": "교원연수",
         "confidence": "medium"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "앱/프로그램",
+        "confidence": "low"
       }
     ]
   },
@@ -1245,6 +1270,11 @@
         "subject": "과학",
         "unit": "지권의 변화",
         "confidence": "medium"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "앱/프로그램",
+        "confidence": "low"
       }
     ]
   },
@@ -1282,6 +1312,11 @@
         "schoolLevel": "중학교",
         "subject": "과학",
         "unit": "날씨와 기후변화",
+        "confidence": "medium"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "앱/프로그램",
         "confidence": "medium"
       }
     ]
@@ -1368,6 +1403,11 @@
         "schoolLevel": "중학교",
         "subject": "과학",
         "unit": "생물의 구성과 다양성",
+        "confidence": "medium"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "앱/프로그램",
         "confidence": "medium"
       }
     ]
@@ -3168,6 +3208,11 @@
         "category": "재과만 소식",
         "topic": "카페 운영 공지",
         "confidence": "medium"
+      },
+      {
+        "category": "수업 방법론",
+        "topic": "거꾸로 교실",
+        "confidence": "low"
       }
     ]
   },

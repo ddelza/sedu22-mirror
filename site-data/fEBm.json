@@ -506,6 +506,11 @@
         "category": "과학교사 업무",
         "topic": "과학 행사",
         "confidence": "medium"
+      },
+      {
+        "category": "과학교사 업무",
+        "topic": "영재교육",
+        "confidence": "medium"
       }
     ]
   },

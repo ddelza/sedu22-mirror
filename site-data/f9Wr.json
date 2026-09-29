@@ -395,6 +395,11 @@
         "category": "과학교사 업무",
         "topic": "학급운영",
         "confidence": "medium"
+      },
+      {
+        "category": "과학교사 업무",
+        "topic": "생활지도",
+        "confidence": "low"
       }
     ]
   },
@@ -937,6 +942,11 @@
         "subject": null,
         "unit": "미분류",
         "confidence": "medium"
+      },
+      {
+        "category": "수업 방법론",
+        "topic": "토론수업",
+        "confidence": "low"
       }
     ]
   },

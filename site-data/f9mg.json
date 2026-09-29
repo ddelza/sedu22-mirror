@@ -581,6 +581,11 @@
         "subject": "과학",
         "unit": "태양계",
         "confidence": "high"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "구글도구",
+        "confidence": "medium"
       }
     ]
   },

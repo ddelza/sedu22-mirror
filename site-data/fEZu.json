@@ -409,6 +409,11 @@
         "category": "재과만 소식",
         "topic": "카페 운영 공지",
         "confidence": "high"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "생성형 AI 도구",
+        "confidence": "medium"
       }
     ]
   },

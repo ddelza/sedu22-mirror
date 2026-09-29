@@ -585,6 +585,11 @@
         "category": "과학교사 업무",
         "topic": "학급운영",
         "confidence": "high"
+      },
+      {
+        "category": "수업 방법론",
+        "topic": "토론수업",
+        "confidence": "low"
       }
     ]
   },
@@ -657,6 +662,11 @@
         "category": "과학교사 업무",
         "topic": "학급운영",
         "confidence": "medium"
+      },
+      {
+        "category": "과학교사 업무",
+        "topic": "교원연수",
+        "confidence": "low"
       }
     ]
   },

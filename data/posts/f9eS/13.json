@@ -22,8 +22,13 @@
       "category": "과학교사 업무",
       "topic": "학급운영",
       "confidence": "high"
+    },
+    {
+      "category": "수업 방법론",
+      "topic": "토론수업",
+      "confidence": "low"
     }
   ],
-  "tagsNote": "3월 첫째주 과학 첫수업 OT(수업마중) 자료 안내.",
-  "taggedAt": "2026-08-12T10:26:25.424Z"
+  "tagsNote": "3월 첫째주 과학 첫수업 OT(수업마중) 자료 안내. / 학년초 OT 활동에 질문 만들기와 짝토론 활동을 포함.",
+  "taggedAt": "2026-09-29T11:33:04.349Z"
 }

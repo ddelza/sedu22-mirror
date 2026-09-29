@@ -22,8 +22,13 @@
       "category": "과학교사 업무",
       "topic": "교원연수",
       "confidence": "medium"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "앱/프로그램",
+      "confidence": "low"
     }
   ],
-  "tagsNote": "행사 참여 계기와 소감을 담은 코너 글.",
-  "taggedAt": "2026-08-12T13:32:32.147Z"
+  "tagsNote": "행사 참여 계기와 소감을 담은 코너 글. / 온라인 수업 코너를 미리캔버스로 디자인해 제작.",
+  "taggedAt": "2026-09-29T11:33:04.387Z"
 }
