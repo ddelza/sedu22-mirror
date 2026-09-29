@@ -6892,6 +6892,16 @@
         "category": "스마트 수업도구",
         "topic": "아두이노",
         "confidence": "high"
+      },
+      {
+        "category": "과학교사 업무",
+        "topic": "교원연수",
+        "confidence": "low"
+      },
+      {
+        "category": "과학교사 업무",
+        "topic": "동아리 운영",
+        "confidence": "low"
       }
     ]
   },
@@ -6918,6 +6928,11 @@
         "subject": null,
         "unit": "미분류",
         "confidence": "high"
+      },
+      {
+        "category": "과학교사 업무",
+        "topic": "교원연수",
+        "confidence": "low"
       }
     ]
   },

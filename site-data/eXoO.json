@@ -94,6 +94,11 @@
         "category": "게시판별 분류",
         "topic": "연구하는 교사 (Teacher as Researcher)",
         "confidence": "high"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "생성형 AI 도구",
+        "confidence": "low"
       }
     ]
   },
@@ -417,6 +422,11 @@
         "subject": "물리학Ⅱ",
         "unit": "파동과 물질의 성질",
         "confidence": "high"
+      },
+      {
+        "category": "과학교사 업무",
+        "topic": "교원연수",
+        "confidence": "low"
       }
     ]
   },
@@ -600,6 +610,11 @@
         "subject": "물리학",
         "unit": "힘과 에너지",
         "confidence": "medium"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "생성형 AI 도구",
+        "confidence": "low"
       }
     ]
   },
@@ -750,6 +765,11 @@
         "category": "스마트 수업도구",
         "topic": "MBL센서",
         "confidence": "medium"
+      },
+      {
+        "category": "과학교사 업무",
+        "topic": "영재교육",
+        "confidence": "high"
       }
     ]
   },
@@ -1765,6 +1785,11 @@
         "category": "스마트 수업도구",
         "topic": "앱/프로그램",
         "confidence": "high"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "생성형 AI 도구",
+        "confidence": "low"
       }
     ]
   },
@@ -1964,6 +1989,11 @@
         "subject": "화학",
         "unit": "물질의 구조와 성질",
         "confidence": "high"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "앱/프로그램",
+        "confidence": "medium"
       }
     ]
   },
@@ -2025,6 +2055,21 @@
         "schoolLevel": "고등학교",
         "subject": "통합과학1",
         "unit": "시스템과 상호작용",
+        "confidence": "low"
+      },
+      {
+        "category": "과학교사 업무",
+        "topic": "영재교육",
+        "confidence": "medium"
+      },
+      {
+        "category": "과학교사 업무",
+        "topic": "동아리 운영",
+        "confidence": "medium"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "AR/VR",
         "confidence": "low"
       }
     ]
@@ -3014,6 +3059,11 @@
         "subject": "통합과학2",
         "unit": "환경과 에너지",
         "confidence": "high"
+      },
+      {
+        "category": "수업 방법론",
+        "topic": "토론수업",
+        "confidence": "medium"
       }
     ]
   },

@@ -22,8 +22,13 @@
       "category": "과학교사 업무",
       "topic": "과학 행사",
       "confidence": "high"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "생성형 AI 도구",
+      "confidence": "low"
     }
   ],
-  "tagsNote": "과학의 날 행사용 생명과학 파트 강연 동영상 자료.",
-  "taggedAt": "2026-08-12T03:12:26.764Z"
+  "tagsNote": "과학의 날 행사용 생명과학 파트 강연 동영상 자료. / 강연 요약을 AI로 정리해 학생들에게 제공.",
+  "taggedAt": "2026-09-29T10:53:22.001Z"
 }

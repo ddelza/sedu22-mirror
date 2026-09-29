@@ -22,8 +22,13 @@
       "category": "스마트 수업도구",
       "topic": "MBL센서",
       "confidence": "medium"
+    },
+    {
+      "category": "과학교사 업무",
+      "topic": "영재교육",
+      "confidence": "high"
     }
   ],
-  "tagsNote": "지능형과학실ON 업그레이드(퀴즈/대시보드) 소개.",
-  "taggedAt": "2026-08-12T04:15:30.440Z"
+  "tagsNote": "지능형과학실ON 업그레이드(퀴즈/대시보드) 소개. / 작년 영재학급 수업에서만 활용했다고 명시, 영재교육 카테고리 누락됨.",
+  "taggedAt": "2026-09-29T10:53:22.038Z"
 }

@@ -22,6 +22,16 @@
         "category": "게시판별 분류",
         "topic": "(고교)생명과학수업 이야기",
         "confidence": "high"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "생성형 AI 도구",
+        "confidence": "medium"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "앱/프로그램",
+        "confidence": "medium"
       }
     ]
   },
@@ -55,6 +65,11 @@
         "category": "게시판별 분류",
         "topic": "(고교)생명과학수업 이야기",
         "confidence": "high"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "앱/프로그램",
+        "confidence": "medium"
       }
     ]
   },
@@ -251,6 +266,11 @@
         "subject": "생명과학",
         "unit": "생명시스템의 구성",
         "confidence": "high"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "생성형 AI 도구",
+        "confidence": "low"
       }
     ]
   },
@@ -666,6 +686,11 @@
         "subject": "생명과학",
         "unit": "생명시스템의 구성",
         "confidence": "high"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "생성형 AI 도구",
+        "confidence": "low"
       }
     ]
   },
@@ -811,6 +836,11 @@
         "schoolLevel": "고등학교",
         "subject": "생명과학",
         "unit": "생명시스템의 구성",
+        "confidence": "medium"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "생성형 AI 도구",
         "confidence": "medium"
       }
     ]
@@ -1491,6 +1521,11 @@
         "category": "과학교사 업무",
         "topic": "과학 행사",
         "confidence": "high"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "생성형 AI 도구",
+        "confidence": "low"
       }
     ]
   },
@@ -2039,6 +2074,11 @@
         "subject": "생명과학",
         "unit": "생명의 연속성과 다양성",
         "confidence": "high"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "생성형 AI 도구",
+        "confidence": "low"
       }
     ]
   },
@@ -2610,6 +2650,16 @@
         "subject": "생명과학",
         "unit": "생명시스템의 구성",
         "confidence": "high"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "생성형 AI 도구",
+        "confidence": "low"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "앱/프로그램",
+        "confidence": "medium"
       }
     ]
   },
@@ -3477,6 +3527,11 @@
         "subject": "생명과학",
         "unit": "생명의 연속성과 다양성",
         "confidence": "high"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "앱/프로그램",
+        "confidence": "medium"
       }
     ]
   },
@@ -3576,6 +3631,11 @@
         "subject": "생명과학Ⅱ",
         "unit": "생물의 진화와 다양성",
         "confidence": "medium"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "앱/프로그램",
+        "confidence": "low"
       }
     ]
   },
@@ -4322,6 +4382,11 @@
       {
         "category": "과학교사 업무",
         "topic": "동아리 운영",
+        "confidence": "high"
+      },
+      {
+        "category": "과학교사 업무",
+        "topic": "영재교육",
         "confidence": "high"
       }
     ]
@@ -5267,6 +5332,11 @@
         "subject": "생명과학",
         "unit": "생명시스템의 구성",
         "confidence": "medium"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "앱/프로그램",
+        "confidence": "medium"
       }
     ]
   },
@@ -5944,6 +6014,11 @@
         "category": "과학교사 업무",
         "topic": "과학실 관리",
         "confidence": "high"
+      },
+      {
+        "category": "과학교사 업무",
+        "topic": "영재교육",
+        "confidence": "low"
       }
     ]
   },
@@ -7183,6 +7258,11 @@
         "subject": null,
         "unit": "미분류",
         "confidence": "high"
+      },
+      {
+        "category": "과학교사 업무",
+        "topic": "세특작성",
+        "confidence": "medium"
       }
     ]
   },

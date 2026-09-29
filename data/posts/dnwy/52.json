@@ -22,8 +22,13 @@
       "category": "과학교사 업무",
       "topic": "생활지도",
       "confidence": "medium"
+    },
+    {
+      "category": "과학교사 업무",
+      "topic": "교원연수",
+      "confidence": "low"
     }
   ],
-  "tagsNote": "복도 전시물 훼손 대응 에세이.",
-  "taggedAt": "2026-08-25T13:04:30.217Z"
+  "tagsNote": "복도 전시물 훼손 대응 에세이. / 과학교사 연수에서 소개한 내용을 언급.",
+  "taggedAt": "2026-09-29T10:53:22.026Z"
 }

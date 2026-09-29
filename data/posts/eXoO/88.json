@@ -31,9 +31,14 @@
       "subject": "화학",
       "unit": "물질의 구조와 성질",
       "confidence": "high"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "앱/프로그램",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "ChemiPuzzle(루이스 구조 학습 활동) 소개. [보완: 2015 '화학 결합과 분자의 세계'↔2022 '물질의 구조와 성질' 수평 대응]",
-  "taggedAt": "2026-08-12T04:16:53.942Z",
+  "tagsNote": "ChemiPuzzle(루이스 구조 학습 활동) 소개. [보완: 2015 '화학 결합과 분자의 세계'↔2022 '물질의 구조와 성질' 수평 대응] / 온라인 웹툴(chemipuzzle.github.io)로 루이스 구조 학습.",
+  "taggedAt": "2026-09-29T10:53:22.052Z",
   "verticalReviewedAt": "2026-08-16T08:15:31.947Z"
 }

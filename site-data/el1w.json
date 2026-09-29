@@ -159,6 +159,11 @@
         "subject": "과학",
         "unit": "빛과 파동",
         "confidence": "high"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "앱/프로그램",
+        "confidence": "medium"
       }
     ]
   },
@@ -291,6 +296,11 @@
         "subject": "과학",
         "unit": "물질의 상태 변화",
         "confidence": "high"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "앱/프로그램",
+        "confidence": "medium"
       }
     ]
   },
@@ -390,6 +400,11 @@
         "subject": "과학",
         "unit": "기체의 성질",
         "confidence": "high"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "앱/프로그램",
+        "confidence": "medium"
       }
     ]
   },

@@ -1007,6 +1007,11 @@
         "category": "과학교사 업무",
         "topic": "생활지도",
         "confidence": "medium"
+      },
+      {
+        "category": "과학교사 업무",
+        "topic": "교원연수",
+        "confidence": "low"
       }
     ]
   },
@@ -1295,6 +1300,16 @@
         "category": "과학교사 업무",
         "topic": "생활지도",
         "confidence": "medium"
+      },
+      {
+        "category": "과학교사 업무",
+        "topic": "동아리 운영",
+        "confidence": "low"
+      },
+      {
+        "category": "수업 방법론",
+        "topic": "토론수업",
+        "confidence": "low"
       }
     ]
   },
