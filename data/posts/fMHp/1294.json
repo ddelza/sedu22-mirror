@@ -31,8 +31,13 @@
       "subject": "과학",
       "unit": "열",
       "confidence": "high"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "앱/프로그램",
+      "confidence": "low"
     }
   ],
-  "tagsNote": "효과적인 단열 방법 실험 조언 요청.",
-  "taggedAt": "2026-08-12T14:41:57.964Z"
+  "tagsNote": "효과적인 단열 방법 실험 조언 요청. / 미리캔버스 사이트에 틀을 만들어 그래프 작성에 활용.",
+  "taggedAt": "2026-09-29T11:37:24.513Z"
 }

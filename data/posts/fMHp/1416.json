@@ -36,8 +36,13 @@
       "category": "과학교사 업무",
       "topic": "동아리 운영",
       "confidence": "low"
+    },
+    {
+      "category": "과학교사 업무",
+      "topic": "교원연수",
+      "confidence": "low"
     }
   ],
-  "tagsNote": "그래비트랙스 방과후 적용 후기.",
-  "taggedAt": "2026-08-12T14:47:39.527Z"
+  "tagsNote": "그래비트랙스 방과후 적용 후기. / 그래비트랙스 관련 연수를 들었다고 명시.",
+  "taggedAt": "2026-09-29T11:37:24.532Z"
 }

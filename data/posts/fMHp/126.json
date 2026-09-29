@@ -24,8 +24,13 @@
       "subject": null,
       "unit": "미분류",
       "confidence": "medium"
+    },
+    {
+      "category": "과학교사 업무",
+      "topic": "영재교육",
+      "confidence": "low"
     }
   ],
-  "tagsNote": "자료 요청에 대한 메일 발송 안내 답글.",
-  "taggedAt": "2026-08-12T14:40:35.731Z"
+  "tagsNote": "자료 요청에 대한 메일 발송 안내 답글. / 영재학급 입학식을 했다고 명시.",
+  "taggedAt": "2026-09-29T11:37:24.507Z"
 }

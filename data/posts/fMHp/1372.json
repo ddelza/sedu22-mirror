@@ -31,8 +31,13 @@
       "subject": "과학",
       "unit": "운동과 에너지",
       "confidence": "high"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "생성형 AI 도구",
+      "confidence": "low"
     }
   ],
-  "tagsNote": "질량과 낙하속력 관계 학생질문 답변 사례 공유.",
-  "taggedAt": "2026-08-12T14:44:48.355Z"
+  "tagsNote": "질량과 낙하속력 관계 학생질문 답변 사례 공유. / 학생 질문에 대한 챗GPT 답변을 함께 제시.",
+  "taggedAt": "2026-09-29T11:37:24.527Z"
 }

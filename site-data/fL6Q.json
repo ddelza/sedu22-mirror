@@ -46,6 +46,11 @@
         "category": "과학교사 업무",
         "topic": "과학실 관리",
         "confidence": "low"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "생성형 AI 도구",
+        "confidence": "medium"
       }
     ]
   },
@@ -71,6 +76,11 @@
         "schoolLevel": "고등학교",
         "subject": "과학의 역사와 문화",
         "unit": "변화하는 과학세계",
+        "confidence": "medium"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "생성형 AI 도구",
         "confidence": "medium"
       }
     ]
