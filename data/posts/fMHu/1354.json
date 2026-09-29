@@ -31,8 +31,18 @@
       "subject": "과학",
       "unit": "동물과 에너지",
       "confidence": "high"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "생성형 AI 도구",
+      "confidence": "medium"
+    },
+    {
+      "category": "과학교사 업무",
+      "topic": "교원연수",
+      "confidence": "low"
     }
   ],
-  "tagsNote": "AI로 만든 노래로 소화·순환·호흡·배설을 복습하는 수업 아이디어.",
-  "taggedAt": "2026-08-12T23:38:16.422Z"
+  "tagsNote": "AI로 만든 노래로 소화·순환·호흡·배설을 복습하는 수업 아이디어. / Suno AI로 수업송 제작, 김정식 수석 연수에서 아이디어를 얻음.",
+  "taggedAt": "2026-09-29T12:35:24.623Z"
 }

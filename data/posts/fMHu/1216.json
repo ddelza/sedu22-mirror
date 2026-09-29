@@ -36,8 +36,13 @@
       "category": "스마트 수업도구",
       "topic": "교육용 단말기(태블릿/크롬북)",
       "confidence": "high"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "앱/프로그램",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "아이패드 Keynote를 활용한 현미경 수업 준비(구체 단원 불명확). / 아이패드(Keynote/GoodNotes)로 현미경 사용법 수업자료 및 학습지 제작.",
-  "taggedAt": "2026-08-12T23:28:49.097Z"
+  "tagsNote": "아이패드 Keynote를 활용한 현미경 수업 준비(구체 단원 불명확). / 아이패드(Keynote/GoodNotes)로 현미경 사용법 수업자료 및 학습지 제작. / KEYNOTE, GOODNOTE 앱을 아이패드에서 활용한 수업.",
+  "taggedAt": "2026-09-29T12:35:24.530Z"
 }

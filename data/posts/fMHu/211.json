@@ -31,8 +31,13 @@
       "subject": "과학",
       "unit": "식물과 에너지",
       "confidence": "high"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "앱/프로그램",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "광합성 노래 가사 받아쓰기 예능 형식 수업 PPT·영상 공유.",
-  "taggedAt": "2026-08-12T23:43:32.175Z"
+  "tagsNote": "광합성 노래 가사 받아쓰기 예능 형식 수업 PPT·영상 공유. / 미리캔버스로 만든 광합성 노래 받아쓰기 PPT.",
+  "taggedAt": "2026-09-29T12:35:24.723Z"
 }

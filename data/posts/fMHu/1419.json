@@ -31,8 +31,13 @@
       "category": "게시판별 분류",
       "topic": "중학교 생물수업 이야기",
       "confidence": "high"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "앱/프로그램",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "식물과 에너지 단원 행맨 게임.",
-  "taggedAt": "2026-09-10T03:22:02.141Z"
+  "tagsNote": "식물과 에너지 단원 행맨 게임. / 자체 제작 웹 행맨 게임(github.io) 활용.",
+  "taggedAt": "2026-09-29T12:35:24.669Z"
 }

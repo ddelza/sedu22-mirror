@@ -31,8 +31,18 @@
       "subject": "과학",
       "unit": "자극과 반응",
       "confidence": "high"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "생성형 AI 도구",
+      "confidence": "medium"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "앱/프로그램",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "가상환자 진단·회복계획 수립 총괄평가(서논술형) 자료 공유.",
-  "taggedAt": "2026-08-12T23:40:37.696Z"
+  "tagsNote": "가상환자 진단·회복계획 수립 총괄평가(서논술형) 자료 공유. / 제미나이로 문항 제작, 패들렛에 답안 게시.",
+  "taggedAt": "2026-09-29T12:35:24.659Z"
 }

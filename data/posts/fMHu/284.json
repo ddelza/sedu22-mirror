@@ -31,8 +31,13 @@
       "subject": "과학",
       "unit": "동물과 에너지",
       "confidence": "high"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "앱/프로그램",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "ZEP 메타버스 맵을 이용한 소화 과정 활동지 제작 공유.",
-  "taggedAt": "2026-08-12T23:47:36.337Z"
+  "tagsNote": "ZEP 메타버스 맵을 이용한 소화 과정 활동지 제작 공유. / ZEP(메타버스 플랫폼) 맵을 활용한 소화 과정 활동.",
+  "taggedAt": "2026-09-29T12:35:24.746Z"
 }

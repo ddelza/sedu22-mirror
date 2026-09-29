@@ -31,8 +31,18 @@
       "subject": "과학",
       "unit": "식물과 에너지",
       "confidence": "high"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "생성형 AI 도구",
+      "confidence": "medium"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "앱/프로그램",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "웹 기반 광합성 시뮬레이션 '식물 다마고치' 링크 공유.",
-  "taggedAt": "2026-08-12T23:40:37.683Z"
+  "tagsNote": "웹 기반 광합성 시뮬레이션 '식물 다마고치' 링크 공유. / 제미나이로 만든 자체 광합성 시뮬레이션 웹앱(html).",
+  "taggedAt": "2026-09-29T12:35:24.638Z"
 }

@@ -31,8 +31,18 @@
       "category": "게시판별 분류",
       "topic": "중학교 생물수업 이야기",
       "confidence": "high"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "생성형 AI 도구",
+      "confidence": "low"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "앱/프로그램",
+      "confidence": "low"
     }
   ],
-  "tagsNote": "핵형도 만들기(생식과 발생 단원).",
-  "taggedAt": "2026-09-10T03:22:02.139Z"
+  "tagsNote": "핵형도 만들기(생식과 발생 단원). / 챗GPT에게 활동프로그램 제작을 시도(실패), 결국 코딩으로 완성한 자체 html 프로그램.",
+  "taggedAt": "2026-09-29T12:35:24.666Z"
 }

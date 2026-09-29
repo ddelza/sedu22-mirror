@@ -31,8 +31,13 @@
       "subject": "과학",
       "unit": "자극과 반응",
       "confidence": "high"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "앱/프로그램",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "음악을 활용한 귀의 구조와 기능 도입 수업 공유.",
-  "taggedAt": "2026-08-12T23:40:37.691Z"
+  "tagsNote": "음악을 활용한 귀의 구조와 기능 도입 수업 공유. / mozaweb 3D 귀 모형 사이트를 수업에 활용.",
+  "taggedAt": "2026-09-29T12:35:24.651Z"
 }

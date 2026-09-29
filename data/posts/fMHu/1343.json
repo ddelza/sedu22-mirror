@@ -31,8 +31,18 @@
       "subject": "과학",
       "unit": "생식과 유전",
       "confidence": "high"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "생성형 AI 도구",
+      "confidence": "medium"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "앱/프로그램",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "추리 형식으로 유전 개념을 학습하는 웹 게임 자료 공유.",
-  "taggedAt": "2026-08-12T23:38:16.416Z"
+  "tagsNote": "추리 형식으로 유전 개념을 학습하는 웹 게임 자료 공유. / 제미나이·GPT·캔바AI로 만든 추리게임 html 자료.",
+  "taggedAt": "2026-09-29T12:35:24.614Z"
 }

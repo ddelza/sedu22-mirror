@@ -31,8 +31,18 @@
       "subject": "과학",
       "unit": "동물과 에너지",
       "confidence": "high"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "생성형 AI 도구",
+      "confidence": "low"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "앱/프로그램",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "화학 전공 교사의 5단원 동물과 에너지 수업 경험 공유.",
-  "taggedAt": "2026-08-12T23:48:55.757Z"
+  "tagsNote": "화학 전공 교사의 5단원 동물과 에너지 수업 경험 공유. / 생성형AI를 이용한 질병 조사 허용, 패들렛에 영상 업로드.",
+  "taggedAt": "2026-09-29T12:35:24.754Z"
 }

@@ -31,8 +31,18 @@
       "category": "게시판별 분류",
       "topic": "중학교 생물수업 이야기",
       "confidence": "high"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "생성형 AI 도구",
+      "confidence": "medium"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "앱/프로그램",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "체세포 분열 카드 매칭 게임.",
-  "taggedAt": "2026-09-10T03:22:02.148Z"
+  "tagsNote": "체세포 분열 카드 매칭 게임. / 클로드 코드로 제작하고 vercel로 배포한 카드매칭 게임.",
+  "taggedAt": "2026-09-29T12:35:24.678Z"
 }

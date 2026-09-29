@@ -31,8 +31,13 @@
       "subject": "과학",
       "unit": "생식과 유전",
       "confidence": "high"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "생성형 AI 도구",
+      "confidence": "low"
     }
   ],
-  "tagsNote": "수정 시 정자 순위(투명대 통과)와 실제 수정 관계 질문.",
-  "taggedAt": "2026-08-12T23:32:59.853Z"
+  "tagsNote": "수정 시 정자 순위(투명대 통과)와 실제 수정 관계 질문. / 챗GPT에게 개념을 확인해봄.",
+  "taggedAt": "2026-09-29T12:35:24.538Z"
 }

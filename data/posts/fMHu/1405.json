@@ -31,8 +31,18 @@
       "subject": "과학",
       "unit": "생물의 구성과 다양성",
       "confidence": "high"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "생성형 AI 도구",
+      "confidence": "low"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "앱/프로그램",
+      "confidence": "low"
     }
   ],
-  "tagsNote": "동네 생물을 기록하는 생태지도 앱 '생태 찾GO' 소개.",
-  "taggedAt": "2026-08-12T23:40:37.697Z"
+  "tagsNote": "동네 생물을 기록하는 생태지도 앱 '생태 찾GO' 소개. / AI 생물 인식 기능이 있는 자체 개발 앱(베타 테스트 모집 중).",
+  "taggedAt": "2026-09-29T12:35:24.662Z"
 }

@@ -31,8 +31,18 @@
       "subject": "과학",
       "unit": "생식과 유전",
       "confidence": "high"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "앱/프로그램",
+      "confidence": "medium"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "생성형 AI 도구",
+      "confidence": "low"
     }
   ],
-  "tagsNote": "유전 가계도 자동 생성기 및 제작 관련 팁 공유.",
-  "taggedAt": "2026-08-12T23:38:16.411Z"
+  "tagsNote": "유전 가계도 자동 생성기 및 제작 관련 팁 공유. / 바이브코딩으로 만든 자체 웹앱(유전 가계도 생성기).",
+  "taggedAt": "2026-09-29T12:35:24.605Z"
 }

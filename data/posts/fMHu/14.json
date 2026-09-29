@@ -31,8 +31,18 @@
       "subject": "과학",
       "unit": "생물의 구성과 다양성",
       "confidence": "high"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "생성형 AI 도구",
+      "confidence": "medium"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "앱/프로그램",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "생물 다양성 단원 마무리 뽀로로 친척찾기 활동 자료 공유.",
-  "taggedAt": "2026-08-12T23:40:37.693Z"
+  "tagsNote": "생물 다양성 단원 마무리 뽀로로 친척찾기 활동 자료 공유. / 뤼튼(AI 어플)으로 검색, 패들렛에 결과 게시.",
+  "taggedAt": "2026-09-29T12:35:24.652Z"
 }

@@ -31,8 +31,18 @@
       "subject": "과학",
       "unit": "식물과 에너지",
       "confidence": "high"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "구글도구",
+      "confidence": "low"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "앱/프로그램",
+      "confidence": "low"
     }
   ],
-  "tagsNote": "어벤져스 테마 광합성 단원마무리 구글폼 문제 공유.",
-  "taggedAt": "2026-08-12T23:47:36.302Z"
+  "tagsNote": "어벤져스 테마 광합성 단원마무리 구글폼 문제 공유. / 구글폼으로 만든 방탈출 문제, 패들렛 방탈출 모음에 게시.",
+  "taggedAt": "2026-09-29T12:35:24.735Z"
 }

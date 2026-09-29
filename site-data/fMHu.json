@@ -272,6 +272,16 @@
         "category": "게시판별 분류",
         "topic": "중학교 생물수업 이야기",
         "confidence": "high"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "생성형 AI 도구",
+        "confidence": "medium"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "앱/프로그램",
+        "confidence": "medium"
       }
     ]
   },
@@ -513,6 +523,11 @@
         "subject": "과학",
         "unit": "생물의 구성과 다양성",
         "confidence": "medium"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "교육용 단말기(태블릿/크롬북)",
+        "confidence": "low"
       }
     ]
   },
@@ -617,6 +632,11 @@
         "category": "게시판별 분류",
         "topic": "중학교 생물수업 이야기",
         "confidence": "high"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "앱/프로그램",
+        "confidence": "medium"
       }
     ]
   },
@@ -650,6 +670,16 @@
         "category": "게시판별 분류",
         "topic": "중학교 생물수업 이야기",
         "confidence": "high"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "앱/프로그램",
+        "confidence": "medium"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "교육용 단말기(태블릿/크롬북)",
+        "confidence": "low"
       }
     ]
   },
@@ -683,6 +713,16 @@
         "category": "게시판별 분류",
         "topic": "중학교 생물수업 이야기",
         "confidence": "high"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "생성형 AI 도구",
+        "confidence": "low"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "앱/프로그램",
+        "confidence": "low"
       }
     ]
   },
@@ -749,6 +789,11 @@
         "subject": "과학",
         "unit": "생물의 구성과 다양성",
         "confidence": "medium"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "생성형 AI 도구",
+        "confidence": "low"
       }
     ]
   },
@@ -1092,6 +1137,16 @@
         "subject": "과학",
         "unit": "생물의 구성과 다양성",
         "confidence": "high"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "생성형 AI 도구",
+        "confidence": "low"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "앱/프로그램",
+        "confidence": "low"
       }
     ]
   },
@@ -1125,6 +1180,16 @@
         "subject": "과학",
         "unit": "자극과 반응",
         "confidence": "high"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "생성형 AI 도구",
+        "confidence": "medium"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "앱/프로그램",
+        "confidence": "medium"
       }
     ]
   },
@@ -1158,6 +1223,16 @@
         "subject": "과학",
         "unit": "자극과 반응",
         "confidence": "high"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "생성형 AI 도구",
+        "confidence": "medium"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "앱/프로그램",
+        "confidence": "low"
       }
     ]
   },
@@ -1191,6 +1266,11 @@
         "subject": "과학",
         "unit": "자극과 반응",
         "confidence": "medium"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "생성형 AI 도구",
+        "confidence": "low"
       }
     ]
   },
@@ -1257,6 +1337,11 @@
         "subject": "과학",
         "unit": "자극과 반응",
         "confidence": "high"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "앱/프로그램",
+        "confidence": "medium"
       }
     ]
   },
@@ -1323,6 +1408,11 @@
         "subject": "과학",
         "unit": "자극과 반응",
         "confidence": "high"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "앱/프로그램",
+        "confidence": "medium"
       }
     ]
   },
@@ -1380,6 +1470,11 @@
         "subject": "과학",
         "unit": "자극과 반응",
         "confidence": "high"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "생성형 AI 도구",
+        "confidence": "low"
       }
     ]
   },
@@ -1413,6 +1508,11 @@
         "subject": "과학",
         "unit": "자극과 반응",
         "confidence": "high"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "앱/프로그램",
+        "confidence": "low"
       }
     ]
   },
@@ -1446,6 +1546,11 @@
         "subject": "과학",
         "unit": "생물의 구성과 다양성",
         "confidence": "high"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "생성형 AI 도구",
+        "confidence": "low"
       }
     ]
   },
@@ -1479,6 +1584,11 @@
         "subject": "과학",
         "unit": "생물의 구성과 다양성",
         "confidence": "high"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "교육용 단말기(태블릿/크롬북)",
+        "confidence": "low"
       }
     ]
   },
@@ -1710,6 +1820,16 @@
         "subject": "과학",
         "unit": "식물과 에너지",
         "confidence": "high"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "생성형 AI 도구",
+        "confidence": "medium"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "앱/프로그램",
+        "confidence": "medium"
       }
     ]
   },
@@ -1974,6 +2094,16 @@
         "subject": "과학",
         "unit": "동물과 에너지",
         "confidence": "high"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "앱/프로그램",
+        "confidence": "medium"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "교육용 단말기(태블릿/크롬북)",
+        "confidence": "low"
       }
     ]
   },
@@ -2370,6 +2500,16 @@
         "subject": "과학",
         "unit": "동물과 에너지",
         "confidence": "high"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "생성형 AI 도구",
+        "confidence": "medium"
+      },
+      {
+        "category": "과학교사 업무",
+        "topic": "교원연수",
+        "confidence": "low"
       }
     ]
   },
@@ -2535,6 +2675,11 @@
         "subject": "과학",
         "unit": "자극과 반응",
         "confidence": "high"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "교육용 단말기(태블릿/크롬북)",
+        "confidence": "low"
       }
     ]
   },
@@ -2601,6 +2746,16 @@
         "subject": "과학",
         "unit": "생식과 유전",
         "confidence": "high"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "생성형 AI 도구",
+        "confidence": "medium"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "앱/프로그램",
+        "confidence": "medium"
       }
     ]
   },
@@ -2766,6 +2921,11 @@
         "subject": "과학",
         "unit": "생식과 유전",
         "confidence": "high"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "생성형 AI 도구",
+        "confidence": "medium"
       }
     ]
   },
@@ -2832,6 +2992,16 @@
         "subject": "과학",
         "unit": "생식과 유전",
         "confidence": "high"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "앱/프로그램",
+        "confidence": "medium"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "생성형 AI 도구",
+        "confidence": "low"
       }
     ]
   },
@@ -3209,6 +3379,11 @@
         "subject": "과학",
         "unit": "식물과 에너지",
         "confidence": "high"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "앱/프로그램",
+        "confidence": "medium"
       }
     ]
   },
@@ -3610,6 +3785,11 @@
         "subject": "과학",
         "unit": "생물의 구성과 다양성",
         "confidence": "high"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "생성형 AI 도구",
+        "confidence": "low"
       }
     ]
   },
@@ -3643,6 +3823,16 @@
         "subject": "과학",
         "unit": "생물의 구성과 다양성",
         "confidence": "high"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "생성형 AI 도구",
+        "confidence": "medium"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "AR/VR",
+        "confidence": "low"
       }
     ]
   },
@@ -4367,6 +4557,16 @@
         "subject": "과학",
         "unit": "동물과 에너지",
         "confidence": "high"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "생성형 AI 도구",
+        "confidence": "low"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "앱/프로그램",
+        "confidence": "medium"
       }
     ]
   },
@@ -4466,6 +4666,11 @@
         "subject": "과학",
         "unit": "식물과 에너지",
         "confidence": "high"
+      },
+      {
+        "category": "과학교사 업무",
+        "topic": "교원연수",
+        "confidence": "low"
       }
     ]
   },
@@ -4697,6 +4902,16 @@
         "subject": "과학",
         "unit": "식물과 에너지",
         "confidence": "high"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "앱/프로그램",
+        "confidence": "medium"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "교육용 단말기(태블릿/크롬북)",
+        "confidence": "medium"
       }
     ]
   },
@@ -4730,6 +4945,11 @@
         "subject": "과학",
         "unit": "동물과 에너지",
         "confidence": "high"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "앱/프로그램",
+        "confidence": "medium"
       }
     ]
   },
@@ -4763,6 +4983,16 @@
         "subject": "과학",
         "unit": "생식과 유전",
         "confidence": "high"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "교육용 단말기(태블릿/크롬북)",
+        "confidence": "low"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "앱/프로그램",
+        "confidence": "medium"
       }
     ]
   },
@@ -5433,6 +5663,11 @@
         "subject": "과학",
         "unit": "동물과 에너지",
         "confidence": "high"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "생성형 AI 도구",
+        "confidence": "low"
       }
     ]
   },
@@ -5598,6 +5833,11 @@
         "subject": "과학",
         "unit": "생식과 유전",
         "confidence": "high"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "생성형 AI 도구",
+        "confidence": "low"
       }
     ]
   },
@@ -5862,6 +6102,16 @@
         "subject": "과학",
         "unit": "생물의 구성과 다양성",
         "confidence": "high"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "앱/프로그램",
+        "confidence": "medium"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "교육용 단말기(태블릿/크롬북)",
+        "confidence": "medium"
       }
     ]
   },
@@ -6268,6 +6518,11 @@
         "subject": "과학",
         "unit": "생물의 구성과 다양성",
         "confidence": "high"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "생성형 AI 도구",
+        "confidence": "medium"
       }
     ]
   },
@@ -6470,6 +6725,11 @@
         "category": "스마트 수업도구",
         "topic": "구글도구",
         "confidence": "high"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "생성형 AI 도구",
+        "confidence": "medium"
       }
     ]
   },
@@ -6889,6 +7149,16 @@
         "subject": "과학",
         "unit": "생물의 구성과 다양성",
         "confidence": "high"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "생성형 AI 도구",
+        "confidence": "medium"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "앱/프로그램",
+        "confidence": "medium"
       }
     ]
   },
@@ -6922,6 +7192,11 @@
         "subject": "과학",
         "unit": "식물과 에너지",
         "confidence": "high"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "앱/프로그램",
+        "confidence": "medium"
       }
     ]
   },
@@ -7391,6 +7666,11 @@
         "subject": "과학",
         "unit": "동물과 에너지",
         "confidence": "high"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "앱/프로그램",
+        "confidence": "medium"
       }
     ]
   },
@@ -8116,6 +8396,16 @@
         "subject": "과학",
         "unit": "생물의 구성과 다양성",
         "confidence": "high"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "앱/프로그램",
+        "confidence": "medium"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "교육용 단말기(태블릿/크롬북)",
+        "confidence": "medium"
       }
     ]
   },
@@ -9771,6 +10061,11 @@
         "subject": "과학",
         "unit": "동물과 에너지",
         "confidence": "high"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "앱/프로그램",
+        "confidence": "medium"
       }
     ]
   },
@@ -10586,6 +10881,16 @@
         "schoolLevel": "중학교",
         "subject": "과학",
         "unit": "식물과 에너지",
+        "confidence": "medium"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "교육용 단말기(태블릿/크롬북)",
+        "confidence": "low"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "앱/프로그램",
         "confidence": "medium"
       }
     ]
@@ -11615,6 +11920,11 @@
         "subject": "과학",
         "unit": "생물의 구성과 다양성",
         "confidence": "high"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "앱/프로그램",
+        "confidence": "low"
       }
     ]
   },
@@ -12110,6 +12420,11 @@
         "subject": "과학",
         "unit": "동물과 에너지",
         "confidence": "high"
+      },
+      {
+        "category": "과학교사 업무",
+        "topic": "교원연수",
+        "confidence": "low"
       }
     ]
   },
@@ -13879,6 +14194,11 @@
         "subject": "과학",
         "unit": "생물의 구성과 다양성",
         "confidence": "medium"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "앱/프로그램",
+        "confidence": "low"
       }
     ]
   },
@@ -14242,6 +14562,11 @@
         "subject": "과학",
         "unit": "식물과 에너지",
         "confidence": "high"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "앱/프로그램",
+        "confidence": "medium"
       }
     ]
   },
@@ -14374,6 +14699,11 @@
         "subject": "과학",
         "unit": "식물과 에너지",
         "confidence": "high"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "교육용 단말기(태블릿/크롬북)",
+        "confidence": "low"
       }
     ]
   },
@@ -15529,6 +15859,11 @@
         "subject": "과학",
         "unit": "생식과 유전",
         "confidence": "high"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "앱/프로그램",
+        "confidence": "low"
       }
     ]
   },
@@ -16426,6 +16761,11 @@
         "subject": "과학",
         "unit": "식물과 에너지",
         "confidence": "high"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "앱/프로그램",
+        "confidence": "medium"
       }
     ]
   },
@@ -18265,6 +18605,11 @@
         "subject": "과학",
         "unit": "자극과 반응",
         "confidence": "high"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "앱/프로그램",
+        "confidence": "medium"
       }
     ]
   },
@@ -19204,6 +19549,11 @@
         "category": "스마트 수업도구",
         "topic": "교육용 단말기(태블릿/크롬북)",
         "confidence": "high"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "앱/프로그램",
+        "confidence": "medium"
       }
     ]
   },
@@ -21557,6 +21907,11 @@
         "subject": "과학",
         "unit": "식물과 에너지",
         "confidence": "high"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "앱/프로그램",
+        "confidence": "medium"
       }
     ]
   },
@@ -21722,6 +22077,16 @@
         "subject": "과학",
         "unit": "생물의 구성과 다양성",
         "confidence": "medium"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "앱/프로그램",
+        "confidence": "medium"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "구글도구",
+        "confidence": "low"
       }
     ]
   },
@@ -22217,6 +22582,11 @@
         "subject": "과학",
         "unit": "식물과 에너지",
         "confidence": "medium"
+      },
+      {
+        "category": "수업 방법론",
+        "topic": "토론수업",
+        "confidence": "medium"
       }
     ]
   },
@@ -22320,6 +22690,11 @@
       {
         "category": "스마트 수업도구",
         "topic": "구글도구",
+        "confidence": "medium"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "앱/프로그램",
         "confidence": "medium"
       }
     ]
@@ -25297,6 +25672,16 @@
         "subject": "과학",
         "unit": "식물과 에너지",
         "confidence": "high"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "구글도구",
+        "confidence": "low"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "앱/프로그램",
+        "confidence": "low"
       }
     ]
   },
@@ -26162,6 +26547,11 @@
         "subject": "과학",
         "unit": "생식과 유전",
         "confidence": "high"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "앱/프로그램",
+        "confidence": "low"
       }
     ]
   },
@@ -26195,6 +26585,11 @@
         "subject": "과학",
         "unit": "생식과 유전",
         "confidence": "high"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "앱/프로그램",
+        "confidence": "low"
       }
     ]
   },
@@ -31194,6 +31589,11 @@
         "subject": "과학",
         "unit": "생물의 구성과 다양성",
         "confidence": "high"
+      },
+      {
+        "category": "과학교사 업무",
+        "topic": "영재교육",
+        "confidence": "low"
       }
     ]
   },
@@ -31293,6 +31693,11 @@
         "subject": "과학",
         "unit": "생물의 구성과 다양성",
         "confidence": "high"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "앱/프로그램",
+        "confidence": "low"
       }
     ]
   },
@@ -31656,6 +32061,11 @@
         "subject": "과학",
         "unit": "생식과 유전",
         "confidence": "high"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "교육용 단말기(태블릿/크롬북)",
+        "confidence": "medium"
       }
     ]
   },
@@ -31885,6 +32295,11 @@
         "subject": "과학",
         "unit": "생식과 유전",
         "confidence": "high"
+      },
+      {
+        "category": "과학교사 업무",
+        "topic": "과학 행사",
+        "confidence": "low"
       }
     ]
   },
@@ -32182,6 +32597,11 @@
         "subject": "과학",
         "unit": "생물의 구성과 다양성",
         "confidence": "high"
+      },
+      {
+        "category": "과학교사 업무",
+        "topic": "교원연수",
+        "confidence": "low"
       }
     ]
   },
@@ -32776,6 +33196,11 @@
         "subject": "과학",
         "unit": "생식과 유전",
         "confidence": "high"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "앱/프로그램",
+        "confidence": "low"
       }
     ]
   },
@@ -32908,6 +33333,11 @@
         "subject": "과학",
         "unit": "생식과 유전",
         "confidence": "high"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "앱/프로그램",
+        "confidence": "low"
       }
     ]
   },
@@ -39656,6 +40086,11 @@
         "subject": "과학",
         "unit": "동물과 에너지",
         "confidence": "high"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "앱/프로그램",
+        "confidence": "medium"
       }
     ]
   },
@@ -41071,6 +41506,11 @@
         "subject": "과학",
         "unit": "식물과 에너지",
         "confidence": "high"
+      },
+      {
+        "category": "수업 방법론",
+        "topic": "거꾸로 교실",
+        "confidence": "medium"
       }
     ]
   },
@@ -47348,6 +47788,11 @@
         "category": "게시판별 분류",
         "topic": "중학교 생물수업 이야기",
         "confidence": "high"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "구글도구",
+        "confidence": "low"
       }
     ]
   }

@@ -31,8 +31,18 @@
       "subject": "과학",
       "unit": "자극과 반응",
       "confidence": "high"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "생성형 AI 도구",
+      "confidence": "medium"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "앱/프로그램",
+      "confidence": "low"
     }
   ],
-  "tagsNote": "AI로 제작한 중3 호르몬 파트 학습송 공유.",
-  "taggedAt": "2026-08-12T23:40:37.696Z"
+  "tagsNote": "AI로 제작한 중3 호르몬 파트 학습송 공유. / 제미나이·모바비·반디캠으로 호르몬송 제작.",
+  "taggedAt": "2026-09-29T12:35:24.657Z"
 }
