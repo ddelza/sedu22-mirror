@@ -22,8 +22,18 @@
       "category": "과학교사 업무",
       "topic": "동아리 운영",
       "confidence": "high"
+    },
+    {
+      "category": "과학교사 업무",
+      "topic": "교원연수",
+      "confidence": "low"
+    },
+    {
+      "category": "수업 방법론",
+      "topic": "토론수업",
+      "confidence": "low"
     }
   ],
-  "tagsNote": "공모사업 지원금으로 운영하는 독서 동아리 활동 공유.",
-  "taggedAt": "2026-08-12T10:26:25.401Z"
+  "tagsNote": "공모사업 지원금으로 운영하는 독서 동아리 활동 공유. / 신과람 연수 참석 명시 + 찬반 토론 활동 진행.",
+  "taggedAt": "2026-09-29T11:27:56.845Z"
 }

@@ -360,6 +360,11 @@
         "subject": null,
         "unit": "미분류",
         "confidence": "high"
+      },
+      {
+        "category": "수업 방법론",
+        "topic": "토론수업",
+        "confidence": "medium"
       }
     ]
   },
@@ -559,6 +564,11 @@
         "category": "스마트 수업도구",
         "topic": "구글도구",
         "confidence": "high"
+      },
+      {
+        "category": "수업 방법론",
+        "topic": "토론수업",
+        "confidence": "low"
       }
     ]
   },
@@ -1439,6 +1449,11 @@
         "category": "과학교사 업무",
         "topic": "동아리 운영",
         "confidence": "medium"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "앱/프로그램",
+        "confidence": "low"
       }
     ]
   },
@@ -1735,6 +1750,11 @@
         "category": "과학교사 업무",
         "topic": "동아리 운영",
         "confidence": "high"
+      },
+      {
+        "category": "수업 방법론",
+        "topic": "토론수업",
+        "confidence": "low"
       }
     ]
   },
@@ -1834,6 +1854,11 @@
         "schoolLevel": null,
         "subject": null,
         "unit": "미분류",
+        "confidence": "medium"
+      },
+      {
+        "category": "수업 방법론",
+        "topic": "토론수업",
         "confidence": "medium"
       }
     ]
@@ -2119,6 +2144,16 @@
         "category": "과학교사 업무",
         "topic": "동아리 운영",
         "confidence": "high"
+      },
+      {
+        "category": "과학교사 업무",
+        "topic": "교원연수",
+        "confidence": "low"
+      },
+      {
+        "category": "수업 방법론",
+        "topic": "토론수업",
+        "confidence": "low"
       }
     ]
   },
@@ -2276,6 +2311,11 @@
         "subject": null,
         "unit": "미분류",
         "confidence": "high"
+      },
+      {
+        "category": "과학교사 업무",
+        "topic": "동아리 운영",
+        "confidence": "medium"
       }
     ]
   },
@@ -2499,6 +2539,11 @@
         "category": "과학교사 업무",
         "topic": "동아리 운영",
         "confidence": "high"
+      },
+      {
+        "category": "수업 방법론",
+        "topic": "토론수업",
+        "confidence": "low"
       }
     ]
   },

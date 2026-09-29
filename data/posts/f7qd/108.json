@@ -24,8 +24,13 @@
       "subject": null,
       "unit": "미분류",
       "confidence": "high"
+    },
+    {
+      "category": "수업 방법론",
+      "topic": "토론수업",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "자유학기 모둠별 책 구입을 통한 독서수업 시행착오 공유.",
-  "taggedAt": "2026-08-12T09:58:29.225Z"
+  "tagsNote": "자유학기 모둠별 책 구입을 통한 독서수업 시행착오 공유. / 모둠별 책 읽고 토의 후 대표가 발표하는 활동이 핵심.",
+  "taggedAt": "2026-09-29T11:27:56.828Z"
 }

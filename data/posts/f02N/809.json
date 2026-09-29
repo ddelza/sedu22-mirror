@@ -21,8 +21,13 @@
       "category": "과학교사 업무",
       "topic": "과학실 관리",
       "confidence": "high"
+    },
+    {
+      "category": "과학교사 업무",
+      "topic": "교원연수",
+      "confidence": "low"
     }
   ],
-  "tagsNote": "밀폐시약장 안전경고문 양식 및 부착 기준 문의.",
-  "taggedAt": "2026-08-12T04:57:09.259Z"
+  "tagsNote": "밀폐시약장 안전경고문 양식 및 부착 기준 문의. / 안전 연수를 다녀왔다고 명시.",
+  "taggedAt": "2026-09-29T11:27:56.776Z"
 }

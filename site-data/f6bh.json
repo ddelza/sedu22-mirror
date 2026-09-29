@@ -244,6 +244,11 @@
         "subject": "생명과학Ⅱ",
         "unit": "세포의 특성",
         "confidence": "high"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "MBL센서",
+        "confidence": "medium"
       }
     ]
   },
@@ -326,6 +331,11 @@
         "schoolLevel": "중학교",
         "subject": "과학",
         "unit": "자극과 반응",
+        "confidence": "medium"
+      },
+      {
+        "category": "수업 방법론",
+        "topic": "IB(개념기반학습)",
         "confidence": "medium"
       }
     ]

@@ -24,8 +24,13 @@
       "subject": null,
       "unit": "미분류",
       "confidence": "high"
+    },
+    {
+      "category": "과학교사 업무",
+      "topic": "동아리 운영",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "과학자 일화를 다룬 만화책 '야밤의 공대생 만화' 소개.",
-  "taggedAt": "2026-08-12T10:25:08.380Z"
+  "tagsNote": "과학자 일화를 다룬 만화책 '야밤의 공대생 만화' 소개. / 학교 독서동아리에서 학생들과 함께 책을 읽는다고 명시.",
+  "taggedAt": "2026-09-29T11:27:56.844Z"
 }

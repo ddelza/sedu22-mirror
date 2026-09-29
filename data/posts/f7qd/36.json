@@ -24,8 +24,13 @@
       "subject": null,
       "unit": "미분류",
       "confidence": "medium"
+    },
+    {
+      "category": "수업 방법론",
+      "topic": "토론수업",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "고전 읽고 생각 나누기 활동 관련 수상소감 공유.",
-  "taggedAt": "2026-08-12T10:25:08.366Z"
+  "tagsNote": "고전 읽고 생각 나누기 활동 관련 수상소감 공유. / 독서토론 시간에 학생들이 질문하고 토론하는 활동이 핵심.",
+  "taggedAt": "2026-09-29T11:27:56.836Z"
 }
