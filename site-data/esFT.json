@@ -690,6 +690,11 @@
         "category": "과학교사 업무",
         "topic": "세특작성",
         "confidence": "medium"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "AR/VR",
+        "confidence": "low"
       }
     ]
   },

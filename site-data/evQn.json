@@ -535,6 +535,11 @@
         "subject": "화학",
         "unit": "물질의 구조와 성질",
         "confidence": "medium"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "생성형 AI 도구",
+        "confidence": "low"
       }
     ]
   },
@@ -843,6 +848,11 @@
         "schoolLevel": "고등학교",
         "subject": "통합과학2",
         "unit": "환경과 에너지",
+        "confidence": "medium"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "MBL센서",
         "confidence": "medium"
       }
     ]
@@ -3375,6 +3385,11 @@
         "subject": "화학Ⅰ",
         "unit": "원자의 세계",
         "confidence": "high"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "구글도구",
+        "confidence": "medium"
       }
     ]
   },

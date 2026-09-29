@@ -22,8 +22,13 @@
       "category": "과학교사 업무",
       "topic": "세특작성",
       "confidence": "medium"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "AR/VR",
+      "confidence": "low"
     }
   ],
-  "tagsNote": "중1 과학 교과세특 항목별 멘트 공유.",
-  "taggedAt": "2026-08-25T13:07:19.718Z"
+  "tagsNote": "중1 과학 교과세특 항목별 멘트 공유. / AR 빛 실험실로 체험하는 수행평가 활동 포함.",
+  "taggedAt": "2026-09-29T11:06:59.869Z"
 }

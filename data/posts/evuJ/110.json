@@ -24,8 +24,13 @@
       "subject": null,
       "unit": "미분류",
       "confidence": "high"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "앱/프로그램",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "2학기 실시간 수업 오리엔테이션 고민.",
-  "taggedAt": "2026-08-12T03:47:18.801Z"
+  "tagsNote": "2학기 실시간 수업 오리엔테이션 고민. / 미리캔버스/패들렛/위두랑을 온라인 수업에 활용.",
+  "taggedAt": "2026-09-29T11:06:59.949Z"
 }

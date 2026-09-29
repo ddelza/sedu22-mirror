@@ -792,6 +792,11 @@
         "subject": "물리학Ⅱ",
         "unit": "파동과 물질의 성질",
         "confidence": "medium"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "생성형 AI 도구",
+        "confidence": "low"
       }
     ]
   },
@@ -1064,6 +1069,11 @@
         "category": "스마트 수업도구",
         "topic": "구글도구",
         "confidence": "high"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "생성형 AI 도구",
+        "confidence": "low"
       }
     ]
   },
@@ -1366,6 +1376,16 @@
         "subject": "물리학Ⅰ",
         "unit": "역학과 에너지",
         "confidence": "medium"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "MBL센서",
+        "confidence": "medium"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "앱/프로그램",
+        "confidence": "low"
       }
     ]
   },
@@ -1425,6 +1445,11 @@
         "subject": "물리학",
         "unit": "힘과 에너지",
         "confidence": "medium"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "생성형 AI 도구",
+        "confidence": "low"
       }
     ]
   },
@@ -1458,6 +1483,16 @@
         "subject": "물리학",
         "unit": "빛과 물질",
         "confidence": "high"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "생성형 AI 도구",
+        "confidence": "low"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "앱/프로그램",
+        "confidence": "low"
       }
     ]
   },
@@ -1981,6 +2016,11 @@
         "subject": "물리학",
         "unit": "빛과 물질",
         "confidence": "low"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "앱/프로그램",
+        "confidence": "medium"
       }
     ]
   },
@@ -2131,6 +2171,11 @@
         "schoolLevel": "고등학교",
         "subject": "물리학",
         "unit": "빛과 물질",
+        "confidence": "medium"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "앱/프로그램",
         "confidence": "medium"
       }
     ]
@@ -2766,6 +2811,11 @@
         "subject": "물리학Ⅰ",
         "unit": "역학과 에너지",
         "confidence": "medium"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "AR/VR",
+        "confidence": "medium"
       }
     ]
   },
@@ -3300,6 +3350,11 @@
         "subject": "화학Ⅰ",
         "unit": "원자의 세계",
         "confidence": "medium"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "앱/프로그램",
+        "confidence": "medium"
       }
     ]
   },
@@ -3391,6 +3446,11 @@
         "schoolLevel": "고등학교",
         "subject": "화학Ⅰ",
         "unit": "원자의 세계",
+        "confidence": "medium"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "앱/프로그램",
         "confidence": "medium"
       }
     ]
@@ -4171,6 +4231,11 @@
         "subject": "물리학",
         "unit": "빛과 물질",
         "confidence": "low"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "앱/프로그램",
+        "confidence": "medium"
       }
     ]
   },
@@ -4410,6 +4475,11 @@
         "subject": "물리학Ⅰ",
         "unit": "파동과 정보통신",
         "confidence": "high"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "앱/프로그램",
+        "confidence": "medium"
       }
     ]
   },

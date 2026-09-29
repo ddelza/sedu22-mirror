@@ -22,8 +22,13 @@
       "category": "스마트 수업도구",
       "topic": "앱/프로그램",
       "confidence": "medium"
+    },
+    {
+      "category": "과학교사 업무",
+      "topic": "교원연수",
+      "confidence": "low"
     }
   ],
-  "tagsNote": "줌(Zoom) 실습자료 공유.",
-  "taggedAt": "2026-08-12T03:47:18.788Z"
+  "tagsNote": "줌(Zoom) 실습자료 공유. / 학교에서 직접 실시한 zoom 실습 연수자료.",
+  "taggedAt": "2026-09-29T11:06:59.947Z"
 }

@@ -5126,6 +5126,11 @@
         "subject": null,
         "unit": "미분류",
         "confidence": "high"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "앱/프로그램",
+        "confidence": "medium"
       }
     ]
   },
@@ -5613,6 +5618,11 @@
         "subject": null,
         "unit": "미분류",
         "confidence": "high"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "앱/프로그램",
+        "confidence": "low"
       }
     ]
   },
@@ -6064,6 +6074,11 @@
         "subject": "과학",
         "unit": "동물과 에너지",
         "confidence": "medium"
+      },
+      {
+        "category": "과학교사 업무",
+        "topic": "영재교육",
+        "confidence": "low"
       }
     ]
   },
@@ -6123,6 +6138,11 @@
         "subject": "과학",
         "unit": "과학과 인류의 지속가능한 삶",
         "confidence": "high"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "앱/프로그램",
+        "confidence": "medium"
       }
     ]
   },
@@ -6206,6 +6226,11 @@
         "subject": null,
         "unit": "미분류",
         "confidence": "medium"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "앱/프로그램",
+        "confidence": "low"
       }
     ]
   },
@@ -6230,6 +6255,11 @@
         "category": "과학교사 업무",
         "topic": "동아리 운영",
         "confidence": "high"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "앱/프로그램",
+        "confidence": "low"
       }
     ]
   },
@@ -6296,6 +6326,11 @@
         "subject": "과학",
         "unit": "물질의 구성",
         "confidence": "high"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "앱/프로그램",
+        "confidence": "medium"
       }
     ]
   },
@@ -6367,6 +6402,11 @@
         "subject": "과학",
         "unit": "태양계",
         "confidence": "medium"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "앱/프로그램",
+        "confidence": "medium"
       }
     ]
   },
@@ -6400,6 +6440,11 @@
         "subject": "과학",
         "unit": "수권과 해수의 순환",
         "confidence": "high"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "앱/프로그램",
+        "confidence": "low"
       }
     ]
   },
@@ -6448,6 +6493,11 @@
         "category": "과학교사 업무",
         "topic": "동아리 운영",
         "confidence": "high"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "앱/프로그램",
+        "confidence": "low"
       }
     ]
   },
@@ -6547,6 +6597,11 @@
         "category": "과학교사 업무",
         "topic": "동아리 운영",
         "confidence": "high"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "앱/프로그램",
+        "confidence": "low"
       }
     ]
   },
@@ -6641,6 +6696,11 @@
         "schoolLevel": "고등학교",
         "subject": "통합과학2",
         "unit": "환경과 에너지",
+        "confidence": "low"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "앱/프로그램",
         "confidence": "low"
       }
     ]
@@ -6908,6 +6968,11 @@
         "subject": "과학",
         "unit": "빛과 파동",
         "confidence": "high"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "앱/프로그램",
+        "confidence": "low"
       }
     ]
   },
@@ -7072,6 +7137,11 @@
         "subject": "과학",
         "unit": "빛과 파동",
         "confidence": "medium"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "앱/프로그램",
+        "confidence": "low"
       }
     ]
   },
@@ -7215,6 +7285,11 @@
         "category": "과학교사 업무",
         "topic": "동아리 운영",
         "confidence": "high"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "앱/프로그램",
+        "confidence": "low"
       }
     ]
   },
@@ -7368,6 +7443,11 @@
         "subject": "과학",
         "unit": "생식과 유전",
         "confidence": "low"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "앱/프로그램",
+        "confidence": "low"
       }
     ]
   },
@@ -7401,6 +7481,11 @@
         "subject": "과학",
         "unit": "생식과 유전",
         "confidence": "high"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "앱/프로그램",
+        "confidence": "medium"
       }
     ]
   },
@@ -7523,6 +7608,11 @@
         "category": "과학교사 업무",
         "topic": "동아리 운영",
         "confidence": "high"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "앱/프로그램",
+        "confidence": "low"
       }
     ]
   },
@@ -7619,6 +7709,11 @@
         "category": "과학교사 업무",
         "topic": "동아리 운영",
         "confidence": "high"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "앱/프로그램",
+        "confidence": "low"
       }
     ]
   },
@@ -7739,6 +7834,11 @@
         "category": "과학교사 업무",
         "topic": "동아리 운영",
         "confidence": "high"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "앱/프로그램",
+        "confidence": "low"
       }
     ]
   },
@@ -7975,6 +8075,11 @@
         "subject": null,
         "unit": "미분류",
         "confidence": "high"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "앱/프로그램",
+        "confidence": "medium"
       }
     ]
   },
@@ -8142,6 +8247,11 @@
         "category": "스마트 수업도구",
         "topic": "앱/프로그램",
         "confidence": "medium"
+      },
+      {
+        "category": "과학교사 업무",
+        "topic": "교원연수",
+        "confidence": "low"
       }
     ]
   },

@@ -679,6 +679,11 @@
         "subject": "행성우주과학",
         "unit": "우주탐사와 행성계",
         "confidence": "medium"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "앱/프로그램",
+        "confidence": "medium"
       }
     ]
   },
@@ -745,6 +750,11 @@
         "subject": "지구과학",
         "unit": "지구의 역사와 한반도의 암석",
         "confidence": "high"
+      },
+      {
+        "category": "과학교사 업무",
+        "topic": "교원연수",
+        "confidence": "low"
       }
     ]
   },
@@ -1007,6 +1017,11 @@
         "subject": "지구시스템과학",
         "unit": "지구 탄생과 생동하는 지구",
         "confidence": "high"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "앱/프로그램",
+        "confidence": "medium"
       }
     ]
   },
