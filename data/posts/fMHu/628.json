@@ -31,8 +31,13 @@
       "subject": "과학",
       "unit": "생식과 유전",
       "confidence": "medium"
+    },
+    {
+      "category": "수업 방법론",
+      "topic": "토론수업",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "임신·출산을 주제로 한 가치관 토론 활동(버전2) 공유.",
-  "taggedAt": "2026-08-13T04:16:43.790Z"
+  "tagsNote": "임신·출산을 주제로 한 가치관 토론 활동(버전2) 공유. / 턴테이블 방식 토론 수업.",
+  "taggedAt": "2026-10-12T01:01:42.056Z"
 }

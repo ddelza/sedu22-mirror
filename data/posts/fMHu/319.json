@@ -31,8 +31,13 @@
       "subject": "과학",
       "unit": "동물과 에너지",
       "confidence": "high"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "앱/프로그램",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "ZEP 에셋 스토어에 등록한 혈액순환 과정 체험 맵 재공유.",
-  "taggedAt": "2026-08-12T23:48:55.771Z"
+  "tagsNote": "ZEP 에셋 스토어에 등록한 혈액순환 과정 체험 맵 재공유. / ZEP 맵을 에셋스토어에 등록.",
+  "taggedAt": "2026-10-12T01:01:41.976Z"
 }

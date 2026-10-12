@@ -31,8 +31,18 @@
       "subject": "과학",
       "unit": "동물과 에너지",
       "confidence": "high"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "앱/프로그램",
+      "confidence": "medium"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "교육용 단말기(태블릿/크롬북)",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "ZEP으로 직접 혈액이 되어 이동하는 혈액순환 체험 활동 공유.",
-  "taggedAt": "2026-08-12T23:50:20.162Z"
+  "tagsNote": "ZEP으로 직접 혈액이 되어 이동하는 혈액순환 체험 활동 공유. / ZEP·띵커벨을 태블릿PC로 활용한 혈액 순환 활동.",
+  "taggedAt": "2026-10-12T01:01:41.982Z"
 }

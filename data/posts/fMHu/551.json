@@ -31,8 +31,18 @@
       "subject": "과학",
       "unit": "생식과 유전",
       "confidence": "high"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "앱/프로그램",
+      "confidence": "medium"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "교육용 단말기(태블릿/크롬북)",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "마인크래프트를 활용한 유전교배 실험 수업 계획 공유.",
-  "taggedAt": "2026-08-13T04:13:56.605Z"
+  "tagsNote": "마인크래프트를 활용한 유전교배 실험 수업 계획 공유. / 1인1태블릿으로 마인크래프트 에듀케이션 활용.",
+  "taggedAt": "2026-10-12T01:01:42.036Z"
 }

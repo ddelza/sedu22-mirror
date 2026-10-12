@@ -36,8 +36,18 @@
       "category": "스마트 수업도구",
       "topic": "AR-VR",
       "confidence": "high"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "앱/프로그램",
+      "confidence": "medium"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "교육용 단말기(태블릿/크롬북)",
+      "confidence": "low"
     }
   ],
-  "tagsNote": "심장·폐·콩팥을 VR로 탐험하는 아이패드 앱(Sharecare YOU) 소개.",
-  "taggedAt": "2026-08-12T23:50:20.151Z"
+  "tagsNote": "심장·폐·콩팥을 VR로 탐험하는 아이패드 앱(Sharecare YOU) 소개. / Sharecare YOU iPad 앱 소개.",
+  "taggedAt": "2026-10-12T01:01:41.977Z"
 }

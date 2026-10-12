@@ -31,8 +31,13 @@
       "subject": "과학",
       "unit": "식물과 에너지",
       "confidence": "high"
+    },
+    {
+      "category": "과학교사 업무",
+      "topic": "교원연수",
+      "confidence": "low"
     }
   ],
-  "tagsNote": "BTB 용액 색변화와 산소 발생의 관계를 다룬 연수 자료 공유.",
-  "taggedAt": "2026-08-13T04:18:20.623Z"
+  "tagsNote": "BTB 용액 색변화와 산소 발생의 관계를 다룬 연수 자료 공유. / 과학사랑교사모임 연수 때 언급된 내용.",
+  "taggedAt": "2026-10-12T01:01:42.064Z"
 }

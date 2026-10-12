@@ -31,8 +31,13 @@
       "subject": "과학",
       "unit": "동물과 에너지",
       "confidence": "high"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "앱/프로그램",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "3D 인체 사이트를 이용한 호흡 기관·호흡운동 관찰 자료 공유.",
-  "taggedAt": "2026-08-12T23:51:43.167Z"
+  "tagsNote": "3D 인체 사이트를 이용한 호흡 기관·호흡운동 관찰 자료 공유. / BioDigital 3D 인체 사이트 활용.",
+  "taggedAt": "2026-10-12T01:01:41.995Z"
 }

@@ -31,8 +31,13 @@
       "subject": "과학",
       "unit": "생식과 유전",
       "confidence": "high"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "앱/프로그램",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "세포분열 수업 흐름 시리즈(3) 비닐백 염색체 복제 활동 공유.",
-  "taggedAt": "2026-08-13T04:13:56.618Z"
+  "tagsNote": "세포분열 수업 흐름 시리즈(3) 비닐백 염색체 복제 활동 공유. / Canva 자료, 김정식 가상실험 활용.",
+  "taggedAt": "2026-10-12T01:01:42.042Z"
 }

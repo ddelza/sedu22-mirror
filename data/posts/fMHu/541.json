@@ -31,8 +31,13 @@
       "subject": "과학",
       "unit": "자극과 반응",
       "confidence": "high"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "앱/프로그램",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "시각·청각 반응속도 테스트 자료 공유.",
-  "taggedAt": "2026-08-13T04:13:56.596Z"
+  "tagsNote": "시각·청각 반응속도 테스트 자료 공유. / 반응속도 테스트 웹 프로그램.",
+  "taggedAt": "2026-10-12T01:01:42.033Z"
 }

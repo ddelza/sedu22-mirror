@@ -31,8 +31,13 @@
       "subject": "과학",
       "unit": "동물과 에너지",
       "confidence": "high"
+    },
+    {
+      "category": "과학교사 업무",
+      "topic": "교원연수",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "야구 골든벨 형식의 소화계 수업놀이 계획 공유.",
-  "taggedAt": "2026-08-12T23:51:43.152Z"
+  "tagsNote": "야구 골든벨 형식의 소화계 수업놀이 계획 공유. / 전학공 수업놀이 연수에서 받은 PPT를 활용.",
+  "taggedAt": "2026-10-12T01:01:41.989Z"
 }

@@ -36,8 +36,13 @@
       "category": "스마트 수업도구",
       "topic": "AR/VR",
       "confidence": "high"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "앱/프로그램",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "싸이언스레벨업 AR을 활용한 식물의 구조 학습 수업 공유.",
-  "taggedAt": "2026-08-13T04:18:20.637Z"
+  "tagsNote": "싸이언스레벨업 AR을 활용한 식물의 구조 학습 수업 공유. / 싸이언스레벨업 AR 앱 활용.",
+  "taggedAt": "2026-10-12T01:01:42.069Z"
 }

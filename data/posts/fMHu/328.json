@@ -31,8 +31,18 @@
       "subject": "과학",
       "unit": "동물과 에너지",
       "confidence": "high"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "앱/프로그램",
+      "confidence": "medium"
+    },
+    {
+      "category": "과학교사 업무",
+      "topic": "교원연수",
+      "confidence": "low"
     }
   ],
-  "tagsNote": "ZEP 맵을 이용한 순환계 미로찾기 형성평가 제작 공유.",
-  "taggedAt": "2026-08-12T23:50:20.154Z"
+  "tagsNote": "ZEP 맵을 이용한 순환계 미로찾기 형성평가 제작 공유. / 메타버스 연수를 듣고 ZEP으로 만든 형성평가.",
+  "taggedAt": "2026-10-12T01:01:41.978Z"
 }

@@ -31,8 +31,13 @@
       "subject": "과학",
       "unit": "자극과 반응",
       "confidence": "high"
+    },
+    {
+      "category": "수업 방법론",
+      "topic": "IB(개념기반학습)",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "Jigsaw2 전문가 활동을 응용한 감각기관 구조·기능 수업 후기.",
-  "taggedAt": "2026-08-13T04:11:05.131Z"
+  "tagsNote": "Jigsaw2 전문가 활동을 응용한 감각기관 구조·기능 수업 후기. / IB unit planner·ATT 개념을 적용한 전문가 활동.",
+  "taggedAt": "2026-10-12T01:01:42.022Z"
 }

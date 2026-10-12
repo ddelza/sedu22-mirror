@@ -31,8 +31,13 @@
       "subject": "과학",
       "unit": "식물과 에너지",
       "confidence": "high"
+    },
+    {
+      "category": "과학교사 업무",
+      "topic": "동아리 운영",
+      "confidence": "low"
     }
   ],
-  "tagsNote": "매니큐어를 이용한 잎 기공 관찰 방법 공유.",
-  "taggedAt": "2026-08-13T04:18:20.616Z"
+  "tagsNote": "매니큐어를 이용한 잎 기공 관찰 방법 공유. / 동아리 활동으로 기공 관찰.",
+  "taggedAt": "2026-10-12T01:01:42.062Z"
 }

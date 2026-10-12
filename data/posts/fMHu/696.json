@@ -31,8 +31,18 @@
       "subject": "과학",
       "unit": "생물의 구성과 다양성",
       "confidence": "high"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "앱/프로그램",
+      "confidence": "medium"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "구글도구",
+      "confidence": "low"
     }
   ],
-  "tagsNote": "STS 모형 기반 멸종위기 생물 보전 캠페인 기획·포스터 제작 수행평가 공유.",
-  "taggedAt": "2026-08-13T04:19:48.777Z"
+  "tagsNote": "STS 모형 기반 멸종위기 생물 보전 캠페인 기획·포스터 제작 수행평가 공유. / 띵커벨 보드 협력도구, 구글 슬라이드 공유.",
+  "taggedAt": "2026-10-12T01:01:42.076Z"
 }

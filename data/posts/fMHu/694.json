@@ -31,8 +31,18 @@
       "subject": "과학",
       "unit": "생물의 구성과 다양성",
       "confidence": "high"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "앱/프로그램",
+      "confidence": "medium"
+    },
+    {
+      "category": "과학교사 업무",
+      "topic": "과학 행사",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "생물다양성의 날 포스터 제작을 목표로 한 8차시 프로젝트 수업 성찰.",
-  "taggedAt": "2026-08-13T04:19:48.775Z"
+  "tagsNote": "생물다양성의 날 포스터 제작을 목표로 한 8차시 프로젝트 수업 성찰. / 노션·미리캔버스 활용, 생물 다양성의 날 행사 운영.",
+  "taggedAt": "2026-10-12T01:01:42.075Z"
 }

@@ -31,8 +31,23 @@
       "subject": "과학",
       "unit": "자극과 반응",
       "confidence": "high"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "앱/프로그램",
+      "confidence": "medium"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "교육용 단말기(태블릿/크롬북)",
+      "confidence": "low"
+    },
+    {
+      "category": "과학교사 업무",
+      "topic": "교원연수",
+      "confidence": "low"
     }
   ],
-  "tagsNote": "자극과 반응 단원 학기말 반응속도 측정 프로그램 활용 활동 공유.",
-  "taggedAt": "2026-08-13T04:09:40.885Z"
+  "tagsNote": "자극과 반응 단원 학기말 반응속도 측정 프로그램 활용 활동 공유. / 김정식 선생님 프로그램을 핸드폰·디벗으로 활용, 연수에서 뵙는다고 언급.",
+  "taggedAt": "2026-10-12T01:01:42.014Z"
 }

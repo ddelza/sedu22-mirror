@@ -31,8 +31,18 @@
       "subject": "과학",
       "unit": "동물과 에너지",
       "confidence": "high"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "앱/프로그램",
+      "confidence": "medium"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "교육용 단말기(태블릿/크롬북)",
+      "confidence": "low"
     }
   ],
-  "tagsNote": "돼지심장 구조 관찰과 혈액순환을 연결한 수행평가 실험보고서 공유.",
-  "taggedAt": "2026-08-13T04:08:17.304Z"
+  "tagsNote": "돼지심장 구조 관찰과 혈액순환을 연결한 수행평가 실험보고서 공유. / 태블릿으로 촬영해 Padlet에 탑재.",
+  "taggedAt": "2026-10-12T01:01:42.001Z"
 }

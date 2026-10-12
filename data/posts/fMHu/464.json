@@ -31,8 +31,13 @@
       "subject": "과학",
       "unit": "자극과 반응",
       "confidence": "high"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "앱/프로그램",
+      "confidence": "low"
     }
   ],
-  "tagsNote": "KERIS 제작 소리의 전달과정 애니메이션 자료 공유.",
-  "taggedAt": "2026-08-13T04:09:40.889Z"
+  "tagsNote": "KERIS 제작 소리의 전달과정 애니메이션 자료 공유. / KERIS 소리 전달 애니메이션(플래시) 프로그램.",
+  "taggedAt": "2026-10-12T01:01:42.015Z"
 }

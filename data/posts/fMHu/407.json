@@ -31,8 +31,13 @@
       "subject": "과학",
       "unit": "동물과 에너지",
       "confidence": "medium"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "메이커/3D프린팅",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "PBL과 3D펜을 활용한 모둠별 수행평가 작품 공유.",
-  "taggedAt": "2026-08-13T04:08:17.306Z"
+  "tagsNote": "PBL과 3D펜을 활용한 모둠별 수행평가 작품 공유. / 3D 펜으로 기관 모형을 만드는 PBL 수행평가.",
+  "taggedAt": "2026-10-12T01:01:42.003Z"
 }

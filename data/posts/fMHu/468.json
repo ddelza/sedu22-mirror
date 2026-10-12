@@ -31,8 +31,18 @@
       "subject": "과학",
       "unit": "자극과 반응",
       "confidence": "high"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "앱/프로그램",
+      "confidence": "medium"
+    },
+    {
+      "category": "과학교사 업무",
+      "topic": "교원연수",
+      "confidence": "low"
     }
   ],
-  "tagsNote": "상이 뒤집혀 보이는 원리를 다룬 시각실험(미션해결) 활동 공유.",
-  "taggedAt": "2026-08-13T04:11:05.115Z"
+  "tagsNote": "상이 뒤집혀 보이는 원리를 다룬 시각실험(미션해결) 활동 공유. / Padlet 업로드, 행사에서 소개받은 활동 응용.",
+  "taggedAt": "2026-10-12T01:01:42.016Z"
 }
