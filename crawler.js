@@ -176,11 +176,12 @@ async function fetchArticleContent(ctx, fldid, bbsdepth) {
 // 주기적으로 재인증해서 세션이 끊기지 않게 한다.
 const SESSION_REFRESH_INTERVAL_MS = 20 * 60 * 1000;
 
-async function main() {
-  let ctx = null;
+async function main(options = {}) {
+  let ctx = options.ctx || null;
   let lastRefresh = 0;
 
   async function ensureFreshSession() {
+    if (options.ctx) return;
     if (Date.now() - lastRefresh < SESSION_REFRESH_INTERVAL_MS && ctx) return;
     await refreshSession();
     if (ctx) await ctx.dispose();
@@ -217,6 +218,9 @@ async function main() {
 
     for (const a of newArticles) {
       const detail = await fetchArticleContent(ctx, board.fldid, a.bbsdepth);
+      if (options.ctx && detail.contentHtml === null) {
+        throw new Error(`본문 파싱 실패(${board.fldid}/${a.dataid}) — 로그인 세션 만료 의심, 중단합니다.`);
+      }
       const record = {
         dataid: a.dataid,
         fldid: board.fldid,
@@ -254,7 +258,11 @@ async function main() {
   console.log(`\n완료. 새로 저장된 게시글: ${totalNew}건`);
 }
 
-main().catch((e) => {
-  console.error(e);
-  process.exit(1);
-});
+module.exports = { main };
+
+if (require.main === module) {
+  main().catch((e) => {
+    console.error(e);
+    process.exit(1);
+  });
+}

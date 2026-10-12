@@ -1,5 +1,31 @@
 [
   {
+    "id": "I6d-311",
+    "fldid": "I6d",
+    "board": "평가 Ideas",
+    "title": "(AI 앱) 킬러문항 1타 강의 무료로 듣기",
+    "author": "김영학(운암고)",
+    "created": "26.10.04",
+    "viewCnt": 126,
+    "commentCnt": 2,
+    "permlink": "https://cafe.daum.net/sedu22/I6d/311",
+    "contentHtml": "<p>킬러 문항을 AI 일타강사가 해설을 해주면 어떨까요?</p><div class=\"table-wrap\"><table data-ke-type=\"table\" data-ke-align=\"alignLeft\" style=\"width: 100%;\" border=\"1\"><tbody><tr><td style=\"width: 42.0792%;\"><div class=\"figure-img\" data-ke-type=\"image\" data-ke-style=\"alignCenter\" data-ke-mobilestyle=\"widthOrigin\"><img src=\"https://t1.daumcdn.net/cafeattach/1TaBA/93c56df766c17eca0f605d1d8a45204f41bb5c3b\" class=\"txc-image\" width=\"317\" height=\"381\" data-img-src=\"https://t1.daumcdn.net/cafeattach/1TaBA/93c56df766c17eca0f605d1d8a45204f41bb5c3b\" data-origin-width=\"502\" data-origin-height=\"603\"></div></td><td style=\"width: 57.9208%;\"><span style=\"color: #ee2323;\" data-ke-size=\"size18\"><b>클로드에게</b></span><br><span style=\"color: #ee2323;\" data-ke-size=\"size18\"><b>작성한 프롬프트 :<br></b></span><br><span style=\"color: #0b0b0b; background-color: color(srgb 0.0431373 0.0431373 0.0431373 / 0.05);\" data-ke-size=\"size18\">수능 문제 같은 어려운 문항을 캡쳐해서 ctrl+v 해서 입력창에 붙이거나, pdf 파일로 첨부하면</span><br><span style=\"color: #0b0b0b; background-color: color(srgb 0.0431373 0.0431373 0.0431373 / 0.05);\" data-ke-size=\"size18\">해당 문항을 1타 강사처럼 기초부터 차근차근 설명해주는 앱을 만들고 싶어!<br></span><br><span style=\"color: #0b0b0b; background-color: color(srgb 0.0431373 0.0431373 0.0431373 / 0.05);\" data-ke-size=\"size18\">학습자가 그냥 설명을 수동적으로 읽고 이해하는 것이 아니라,</span><br><span style=\"color: #0b0b0b; background-color: color(srgb 0.0431373 0.0431373 0.0431373 / 0.05);\" data-ke-size=\"size18\">학습자와 인터랙션을 통해 결국 문항을 해결할 수 있도록 여러 단계를 만들어줘.</span></td></tr></tbody></table></div><p>&#160;</p><div class=\"figure-img\" data-ke-type=\"image\" data-ke-style=\"alignLeft\" data-ke-mobilestyle=\"widthOrigin\"><img src=\"https://t1.daumcdn.net/cafeattach/1TaBA/5c152efa0dc403654b3e0f0c9b9539f9463d6807\" class=\"txc-image\" width=\"658\" height=\"408\" data-img-src=\"https://t1.daumcdn.net/cafeattach/1TaBA/5c152efa0dc403654b3e0f0c9b9539f9463d6807\" data-origin-width=\"1253\" data-origin-height=\"777\"></div><p>1. 일타강사의 해설을 듣고 싶은 문항 1개를 화면 캡쳐하여 Ctrl+v 해서 붙이기</p><p>2. 총5단계의 과정을 거치면서 문항을 AI와 함께 해결해 나감~</p><p>&#160;</p><p>&#160;</p><p><span style=\"color: #ee2323;\"><b>(AI 앱 접속 방법)</b></span></p><p>1. <a href=\"https://claude.ai/artifact/T5dGG5Pda7qSm9qxV2ArxW\" target=\"_blank\" class=\"ke-link\">https://claude.ai/artifact/T5dGG5Pda7qSm9qxV2ArxW</a>&#160; 클릭</p><p>2. 화면 상단 우측의 &#39;공유&#39; 클릭하고, &#39;복제&#39; 클릭</p><div class=\"figure-img\" data-ke-type=\"image\" data-ke-style=\"alignLeft\" data-ke-mobilestyle=\"widthOrigin\"><img src=\"https://t1.daumcdn.net/cafeattach/1TaBA/ea89e31626a70e370a403f79482093c6fe003f97\" class=\"txc-image\" width=\"446\" height=\"174\" data-img-src=\"https://t1.daumcdn.net/cafeattach/1TaBA/ea89e31626a70e370a403f79482093c6fe003f97\" data-origin-width=\"510\" data-origin-height=\"199\"></div><p>3. 새창이 열리면서 &#39;킬러문항 코치&#39; 앱 시작!</p><p>&#160;</p><p>&#160;</p><p>&#160;</p><p>-----------------------------------------------</p><p><span style=\"color: #ee2323;\"><b>제미나이 canvas로 만든 앱</b></span></p><p>&#160; : 좀 더 간단하고 직관적으로 해설을 해줍니다~</p><p>&#160;</p><p>수능 문제 같은 어려운 문항을 캡쳐해서 ctrl+v 해서 입력창에 붙이거나, pdf 파일로 첨부하면</p><p>해당 문항을 일타 강사처럼 기초부터 차근차근 설명해주는 앱을 만들고 싶어!</p><p>학습자가 그냥 설명을 수동적으로 읽고 이해하는 것이 아니라,</p><p>학습자와 인터랙션을 통해 결국 문항을 해결할 수 있도록 여러 단계를 만들어줘.</p><div class=\"figure-img\" data-ke-type=\"image\" data-ke-style=\"alignLeft\" data-ke-mobilestyle=\"widthOrigin\"><img src=\"https://t1.daumcdn.net/cafeattach/1TaBA/40d029cc0cb904efada727023ff32fff56a4953e\" class=\"txc-image\" width=\"626\" height=\"415\" data-img-src=\"https://t1.daumcdn.net/cafeattach/1TaBA/40d029cc0cb904efada727023ff32fff56a4953e\" data-origin-width=\"1059\" data-origin-height=\"702\"></div><p>1타 강사의 목소리도 들을 수 있어요~</p><div class=\"figure-img\" data-ke-type=\"image\" data-ke-style=\"alignLeft\" data-ke-mobilestyle=\"widthOrigin\"><img src=\"https://t1.daumcdn.net/cafeattach/1TaBA/339ebff7dc3b9eaa00b8dcfb857cf93ad0e5b849\" class=\"txc-image\" width=\"566\" height=\"234\" data-img-src=\"https://t1.daumcdn.net/cafeattach/1TaBA/339ebff7dc3b9eaa00b8dcfb857cf93ad0e5b849\" data-origin-width=\"714\" data-origin-height=\"295\"></div><p>아래의 링크 클릭 :&#160;</p><p><a href=\"https://share.gemini.google/I9Q7iAcXdtJb\" target=\"_blank\" class=\"ke-link\">https://share.gemini.google/I9Q7iAcXdtJb</a></p><p>&#160;</p><p>&#160;</p>\n\t \t\t\t\t\t<!-- -->",
+    "tags": null
+  },
+  {
+    "id": "I6d-309",
+    "fldid": "I6d",
+    "board": "평가 Ideas",
+    "title": "출제한 문항의 오류를 찾아주는, AI 분석기(최신판)",
+    "author": "김영학(운암고)",
+    "created": "26.10.01",
+    "viewCnt": 177,
+    "commentCnt": 0,
+    "permlink": "https://cafe.daum.net/sedu22/I6d/309",
+    "contentHtml": "<p style=\"text-align: justify;\">기존 문항 오류 AI 분석기를 업그레이드 하였습니다.<br>1. 전체 문항을 pdf 형태로 입력 가능<br>2. 문항 오류 중심의 집중 분석<br>&#160;<br>사용해보시고&#160;<br>사용후기 댓글 달아주세요.<br>&#160;<br>계속 수정보완 하겠습니다.<br><br>1. 문항파일에 들어있는 학교정보, 개인정보 지우고 올리기<br>2. 10문항씩 나눠서 올리기 (24문항을 한 파일로 올리면 AI가 게으르게 일하기도 합니다~)<br>&#160;<br><b><a href=\"https://share.gemini.google/SDb0kntFGDmM\" target=\"_top\" class=\"ke-link\">https://share.gemini.google/SDb0kntFGDmM</a></b><br>&#160;<br>&#160;<br>&#160;</p>\n\t \t\t\t\t\t<!-- -->",
+    "tags": null
+  },
+  {
     "id": "I6d-308",
     "fldid": "I6d",
     "board": "평가 Ideas",
