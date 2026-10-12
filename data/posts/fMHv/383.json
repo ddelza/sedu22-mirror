@@ -31,8 +31,18 @@
       "subject": "과학",
       "unit": "태양계",
       "confidence": "high"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "앱/프로그램",
+      "confidence": "medium"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "교육용 단말기(태블릿/크롬북)",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "행성 설명 카드뉴스 만들기 수행평가 문항 및 채점 기준 공유.",
-  "taggedAt": "2026-08-13T11:51:32.553Z"
+  "tagsNote": "행성 설명 카드뉴스 만들기 수행평가 문항 및 채점 기준 공유. / 태블릿PC에 글그램 앱을 받아 카드뉴스 제작.",
+  "taggedAt": "2026-10-12T01:37:53.678Z"
 }

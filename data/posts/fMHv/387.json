@@ -36,8 +36,13 @@
       "category": "스마트 수업도구",
       "topic": "앱/프로그램",
       "confidence": "high"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "교육용 단말기(태블릿/크롬북)",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "태양계 수업용 'Solar System Scope' 앱 소개.",
-  "taggedAt": "2026-08-13T11:51:32.568Z"
+  "tagsNote": "태양계 수업용 'Solar System Scope' 앱 소개. / 학생 휴대폰·태블릿으로 Solar System Scope 앱 활용.",
+  "taggedAt": "2026-10-12T01:37:53.680Z"
 }

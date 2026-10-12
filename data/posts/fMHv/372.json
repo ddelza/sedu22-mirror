@@ -31,8 +31,13 @@
       "subject": "과학",
       "unit": "태양계",
       "confidence": "high"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "생성형 AI 도구",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "지구와 달의 크기 구하는 비례식 노래를 활용한 받아쓰기 활동 공유.",
-  "taggedAt": "2026-08-13T11:51:32.504Z"
+  "tagsNote": "지구와 달의 크기 구하는 비례식 노래를 활용한 받아쓰기 활동 공유. / AI가 만든 노래 받아쓰기 활동.",
+  "taggedAt": "2026-10-12T01:37:53.671Z"
 }

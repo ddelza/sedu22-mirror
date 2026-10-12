@@ -36,8 +36,13 @@
       "category": "스마트 수업도구",
       "topic": "AI",
       "confidence": "high"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "앱/프로그램",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "AI 작곡 도구 suno로 만든 지구와 달의 크기 구하는 노래 공유.",
-  "taggedAt": "2026-08-13T11:51:32.509Z"
+  "tagsNote": "AI 작곡 도구 suno로 만든 지구와 달의 크기 구하는 노래 공유. / Vrew로 영상 편집.",
+  "taggedAt": "2026-10-12T01:37:53.672Z"
 }

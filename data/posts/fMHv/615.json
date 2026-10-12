@@ -36,8 +36,13 @@
       "category": "스마트 수업도구",
       "topic": "온라인 수업 자료",
       "confidence": "medium"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "앱/프로그램",
+      "confidence": "low"
     }
   ],
-  "tagsNote": "QR코드로 접속하는 온라인 일기도 퍼즐 활동 공유.",
-  "taggedAt": "2026-08-13T12:14:29.558Z"
+  "tagsNote": "QR코드로 접속하는 온라인 일기도 퍼즐 활동 공유. / QR로 접속하는 일기도 퍼즐 사이트.",
+  "taggedAt": "2026-10-12T01:37:53.761Z"
 }

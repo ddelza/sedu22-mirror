@@ -31,8 +31,13 @@
       "subject": "과학",
       "unit": "태양계",
       "confidence": "high"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "앱/프로그램",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "예능 프로그램 컨셉의 자전과 공전 노래 가사 받아쓰기 미리캔버스 PPT 공유.",
-  "taggedAt": "2026-08-13T12:06:46.578Z"
+  "tagsNote": "예능 프로그램 컨셉의 자전과 공전 노래 가사 받아쓰기 미리캔버스 PPT 공유. / 미리캔버스로 만든 받아쓰기 PPT.",
+  "taggedAt": "2026-10-12T01:37:53.703Z"
 }

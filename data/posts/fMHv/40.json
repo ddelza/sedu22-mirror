@@ -36,8 +36,13 @@
       "category": "스마트 수업도구",
       "topic": "메타버스",
       "confidence": "high"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "앱/프로그램",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "지권의 구조를 다루는 ZEP 방탈출 맵 공유 방법(정책 변경에 따른 대안) 안내.",
-  "taggedAt": "2026-08-13T12:05:07.484Z"
+  "tagsNote": "지권의 구조를 다루는 ZEP 방탈출 맵 공유 방법(정책 변경에 따른 대안) 안내. / ZEP 방탈출.",
+  "taggedAt": "2026-10-12T01:37:53.689Z"
 }

@@ -31,8 +31,18 @@
       "subject": "과학",
       "unit": "지권의 변화",
       "confidence": "high"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "앱/프로그램",
+      "confidence": "medium"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "교육용 단말기(태블릿/크롬북)",
+      "confidence": "low"
     }
   ],
-  "tagsNote": "암석에 별명을 지어주고 띵커벨 워크시트로 확인하는 모둠 활동.",
-  "taggedAt": "2026-08-13T05:27:15.713Z"
+  "tagsNote": "암석에 별명을 지어주고 띵커벨 워크시트로 확인하는 모둠 활동. / 띵커벨 워크시트와 패들렛, 탭 활용.",
+  "taggedAt": "2026-10-12T01:37:53.623Z"
 }

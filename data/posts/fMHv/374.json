@@ -36,8 +36,18 @@
       "category": "스마트 수업도구",
       "topic": "AR/VR",
       "confidence": "high"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "앱/프로그램",
+      "confidence": "low"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "교육용 단말기(태블릿/크롬북)",
+      "confidence": "low"
     }
   ],
-  "tagsNote": "기존에 쓰던 태양계 AR 앱이 사라져 대체할 만한 앱을 추천받는 질문.",
-  "taggedAt": "2026-08-13T11:51:32.512Z"
+  "tagsNote": "기존에 쓰던 태양계 AR 앱이 사라져 대체할 만한 앱을 추천받는 질문. / 태블릿용 태양계 AR 어플 문의.",
+  "taggedAt": "2026-10-12T01:37:53.674Z"
 }

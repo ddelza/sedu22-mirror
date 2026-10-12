@@ -36,8 +36,18 @@
       "category": "스마트 수업도구",
       "topic": "메타버스",
       "confidence": "high"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "앱/프로그램",
+      "confidence": "medium"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "교육용 단말기(태블릿/크롬북)",
+      "confidence": "low"
     }
   ],
-  "tagsNote": "학기말 7단원 전체를 훑어보는 ZEP 메타버스 방탈출 자료 공유.",
-  "taggedAt": "2026-08-13T12:09:49.010Z"
+  "tagsNote": "학기말 7단원 전체를 훑어보는 ZEP 메타버스 방탈출 자료 공유. / ZEP 메타버스 방탈출, 태블릿PC 권장.",
+  "taggedAt": "2026-10-12T01:37:53.727Z"
 }
