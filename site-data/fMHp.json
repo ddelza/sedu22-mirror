@@ -10,7 +10,37 @@
     "commentCnt": 0,
     "permlink": "https://cafe.daum.net/sedu22/fMHp/1584",
     "contentHtml": "<p><a href=\"https://script.google.com/a/macros/goedu.kr/s/AKfycbwL02qvOM9KguO1pc3O36GcEMOqOI8H4E771YO2IQI6AGqFQiDENe4uNEWngGH0tx514Q/exec\" target=\"_blank\" class=\"ke-link\">https://script.google.com/a/macros/goedu.kr/s/AKfycbwL02qvOM9KguO1pc3O36GcEMOqOI8H4E771YO2IQI6AGqFQiDENe4uNEWngGH0tx514Q/exec</a></p><p>&#160;</p><p>공식에 친숙해지게 하기 위해 만들었습니다. (숫자가 복잡한데, 계산기로 풀게 했어요.^^;;)</p><div class=\"figure-open\" contenteditable=\"false\" data-ke-type=\"opengraph\" data-ke-align=\"alignCenter\" data-og-type=\"website\" data-og-title=\"비열 계산 연습\" data-og-description=\"\" data-og-host=\"script.google.com\" data-og-source-url=\"https://script.google.com/a/macros/goedu.kr/s/AKfycbwL02qvOM9KguO1pc3O36GcEMOqOI8H4E771YO2IQI6AGqFQiDENe4uNEWngGH0tx514Q/exec\" data-og-url=\"https://script.google.com/a/macros/goedu.kr/s/AKfycbwL02qvOM9KguO1pc3O36GcEMOqOI8H4E771YO2IQI6AGqFQiDENe4uNEWngGH0tx514Q/exec\" data-og-image=\"//img1.kakaocdn.net/thumb/C200x200/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fcafe_image%2Fcafe_meta_image_190529.png\"><a href=\"https://script.google.com/a/macros/goedu.kr/s/AKfycbwL02qvOM9KguO1pc3O36GcEMOqOI8H4E771YO2IQI6AGqFQiDENe4uNEWngGH0tx514Q/exec\" target=\"_blank\" data-source-url=\"https://script.google.com/a/macros/goedu.kr/s/AKfycbwL02qvOM9KguO1pc3O36GcEMOqOI8H4E771YO2IQI6AGqFQiDENe4uNEWngGH0tx514Q/exec\"><div class=\"og-image\"><img class=\"thumb_img\" src=\"//img1.kakaocdn.net/thumb/C200x200/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fcafe_image%2Fcafe_meta_image_190529.png\" alt=\"\" xxonerror=\"this.src=&quot;//img1.kakaocdn.net/thumb/C200x200/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fcafe_image%2Fcafe_meta_image_190529.png&quot;\"></div><div class=\"og-text\"><p class=\"og-title\">비열 계산 연습</p><p class=\"og-desc\"></p><p class=\"og-host\">script.google.com</p></div></a></div><div class=\"figure-img\" data-ke-type=\"image\" data-ke-style=\"alignCenter\" data-ke-mobilestyle=\"widthOrigin\"><img src=\"https://t1.daumcdn.net/cafeattach/1TaBA/4a204b400d7e4b09b6f86756ebcdd10e273be71f\" class=\"txc-image\" data-img-src=\"https://t1.daumcdn.net/cafeattach/1TaBA/4a204b400d7e4b09b6f86756ebcdd10e273be71f\" data-origin-width=\"1667\" data-origin-height=\"743\"></div><p>&#160;</p>\n\t \t\t\t\t\t<!-- -->",
-    "tags": null
+    "tags": [
+      {
+        "curriculumYear": "2015",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "열과 우리 생활",
+        "confidence": "high"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "열",
+        "confidence": "high"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "앱/프로그램",
+        "confidence": "high"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "구글도구",
+        "confidence": "medium"
+      },
+      {
+        "category": "게시판별 분류",
+        "topic": "중학교 물리수업 이야기",
+        "confidence": "high"
+      }
+    ]
   },
   {
     "id": "fMHp-1583",
@@ -23,7 +53,27 @@
     "commentCnt": 11,
     "permlink": "https://cafe.daum.net/sedu22/fMHp/1583",
     "contentHtml": "<p style=\"text-align: left;\">중2과정인데, 코일이 받는 힘을 활용한 예에서 교과서 문제로 자기부상열차는 해당이 안된다고 하고, 학습서에는 전자석을 이용한 자기부상열차는 예시로 나와있어요 <br>왜그런가요?<br>자기부상열차가 전자석이용안한 원리가 다른 열차가 있나요? <br><br>자기부상열차라고하면 전자석에 전류공급해서 강한 자기력을 형성하고 거기서 미는힘 당기는힘에 의해 열차가 움직이는거라고 저는 이해했는데 여기서 힘을 이용한거니 코일이 받는 힘을 이용한게 맞다고 보는데요..몇몇 학생들도 그렇게 질문하고요.. <br></p>\n\t \t\t\t\t\t<!-- -->",
-    "tags": null
+    "tags": [
+      {
+        "curriculumYear": "2015",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "전기와 자기",
+        "confidence": "high"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "전기와 자기",
+        "confidence": "high"
+      },
+      {
+        "category": "게시판별 분류",
+        "topic": "중학교 물리수업 이야기",
+        "confidence": "high"
+      }
+    ]
   },
   {
     "id": "fMHp-1582",
@@ -36,7 +86,46 @@
     "commentCnt": 3,
     "permlink": "https://cafe.daum.net/sedu22/fMHp/1582",
     "contentHtml": "<p style=\"text-align: justify;\">-20도씨에서 가열하여 120도씨가 될 때 까지&#160;<br>4면체 구조가 어떻게 풀리는지 (수소결합의 해체)를 시뮬레이션으로 만들었습니다.<br>물분자 들의 배열 구조는 당연히 눈에 보이지 않지만 수소결합은 정설로 알고 있습니다.&#160;<br>그리고 액체 물의 비열이 고체 얼음과 기체 수증기에 비해 비열히 훨씬 (두 배정도) 큰 이유는 이 결합의 해체가 액체상태인 물 상태에서도 계속 진행중이기 때문입니다.&#160;<br>물론 다른 종류의 물질들(금속이랄지.)도 주로 고체에서 보다는 액체에서의 비열이 높은 편입니다. 하지만 차이가 두 배 이정도는 아닌 이유는<br>가해준을 열을 결합을 해체 (<span data-ke-size=\"size14\">끊는다는 표현은 뭐 사실 결합이 서서히 끊어질 수도 있겠으니 쓰는 표현입니다. 그리고 수소결합을 유지/끊어짐으로 2분법적으 보는 것이 불편할 수도 있겠지만 에너지 분포 봉우리의 이 정도면 끊어진 것 이 정도면 붙은 것 대략 이렇게는 볼 수 있는 것 같아요. 물론 이렇게 하여 시뮬레이션 하였을 때 100도씨 넘는 온도에서 시뮬레이션이 관찰결과와 다른 결과를 내놓는 한계가 있습니다.</span><br><span data-ke-size=\"size14\">어차피 시뮬레이션과 같은 모형은 우리가 현상을 이해하기 위한 도구일 뿐 진실과는 거리가 있으니까요</span>. )에 얼마나 쓰이느냐의 차이인거죠.<br><br>수소결합 그 자체가 얼마나가 많은가가 중요한 것이 아닌, 그 결합을 끊는데 얼마나 많은 에너지 비율을 쓰느냐입니다.<br>고체 얼음과 기체 수증기에서는 고체에서는 수소결합을 아예 끊지 못하고 진동과 회전에서 에너지가 쓰이므로 같은 열량을 줄 때, 얼음의 온도 상승폭이 큽니다. 기체 수증기에서는 이미 수소결합이 따 끊어진 상태이므로 역시 병진, 진동, 회전에만 에너지를 쓰므로 온도가 빠르게 오르겠죠. 하지만 100% 수소결합이 0도씨 얼음에서 물로 변할 때 약 72%정도가 남고 (그러니 이걸 끊느라 상태 변화시 거의 온도가 안 변함.)<br>100도씨 물에서 52%의 수소결합이 남아 있고 100도씨 물이 수증기로 변할 때 나머지 수소 결합을 모두 해체하느라 온도가 100도씨로 오래 유지되며 열도 엄청 많이 듭니다.(기화열)&#160; 사실 이 수치들(72와 52도 논문의 시뮬레이션에서 가정한 수치니 진실과는 거리가 있겠습니다. )<br><br>이번에 앱을 만들면서 물에 대해 조금 더 이해하게 되었으나 우리가 물에 대해 정확하게 알고 있지는 않은 것은 여러 논문에서 자꾸만 물의 온도에 따른 구조와 결합을 알기 위해, 적외선, 라만분광(가시광성 레이져), 중성자산란, NMR(전파와 자기장),&#160; X선 산란, 펨토초 레이져 등을 쓰면서 여전히 연구 하고 있다는 것입니다.<br><br>중학생 아이들과 저 자신이 물질의 성질(비열)을 이해하기 위해서는 액체 물에서는 수소결합의 개수가 아닌 결합을 0에서 100도씨 사이에서도 꾸준히 끊어내는 데 열(에너지)를 쓰기 때문임을 말한다고 하면 그리 틀리지 않는 것 같습니다 ^^&#160;<br>우리가 익히 알듯이 비유의 장점은 이해하기 어려운 것을 보다 쉽게 이해가 가능해진다는 거지만 단점은 그것이 거짓이라는 거죠.<br>시뮬레이션은 단순한 비유보다는 조금은 진실에 가깝겠지만 완전한 진실은 아닐테죠.<br>4페이지로 만들어진 시뮬레이션 3쪽에서 확대가 되는 시뮬레이션을 통해 확인해 보세요. 4쪽에는 근거와 모형의 한계를 정리해 두었습니다.&#160; 즐거운 연휴의 시작입니다 ~<br><b><a href=\"https://l-ellena77-kor.github.io/-hydrogen-bond-between-water-molecules/\" target=\"_blank\" class=\"ke-link\"><span data-ke-size=\"size18\">https://l-ellena77-kor.github.io/-hydrogen-bond-between-water-molecules/</span></a></b></p><div class=\"figure-open\" contenteditable=\"false\" data-ke-type=\"opengraph\" data-ke-align=\"alignCenter\" data-og-type=\"website\" data-og-title=\"물의 수소 결합 3D\" data-og-description=\"한계 근거 분자가 제자리 근처에서만 흔들립니다. 실제 액체에서는 분자가 이웃을 바꾸며 돌아다니고, 결합도 주로 새 상대로 갈아타며 끊어집니다. Luzar, Faraday Discuss. 103, 29 (1996) 화면은 실제보\" data-og-host=\"l-ellena77-kor.github.io\" data-og-source-url=\"https://l-ellena77-kor.github.io/-hydrogen-bond-between-water-molecules/\" data-og-url=\"https://l-ellena77-kor.github.io/-hydrogen-bond-between-water-molecules/\" data-og-image=\"//img1.kakaocdn.net/thumb/C200x200/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fcafe_image%2Fcafe_meta_image_190529.png\"><a href=\"https://l-ellena77-kor.github.io/-hydrogen-bond-between-water-molecules/\" target=\"_blank\" data-source-url=\"https://l-ellena77-kor.github.io/-hydrogen-bond-between-water-molecules/\"><div class=\"og-image\"><img class=\"thumb_img\" src=\"//img1.kakaocdn.net/thumb/C200x200/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fcafe_image%2Fcafe_meta_image_190529.png\" alt=\"\" xxxxonerror=\"this.src=&quot;//img1.kakaocdn.net/thumb/C200x200/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fcafe_image%2Fcafe_meta_image_190529.png&quot;\"></div><div class=\"og-text\"><p class=\"og-title\">물의 수소 결합 3D</p><p class=\"og-desc\">한계 근거 분자가 제자리 근처에서만 흔들립니다. 실제 액체에서는 분자가 이웃을 바꾸며 돌아다니고, 결합도 주로 새 상대로 갈아타며 끊어집니다. Luzar, Faraday Discuss. 103, 29 (1996) 화면은 실제보</p><p class=\"og-host\">l-ellena77-kor.github.io</p></div></a></div><div class=\"figure-img\" data-ke-type=\"image\" data-ke-style=\"alignCenter\" data-ke-mobilestyle=\"widthOrigin\"><img src=\"https://t1.daumcdn.net/cafeattach/1TaBA/a32af94dcb12944a6d04ab1ef4023fae9ae28b8f\" class=\"txc-image\" data-img-src=\"https://t1.daumcdn.net/cafeattach/1TaBA/a32af94dcb12944a6d04ab1ef4023fae9ae28b8f\" data-origin-width=\"771\" data-origin-height=\"755\"></div><div class=\"figure-img\" data-ke-type=\"image\" data-ke-style=\"alignCenter\" data-ke-mobilestyle=\"widthOrigin\"><img src=\"https://t1.daumcdn.net/cafeattach/1TaBA/b915f3a306585f4253954aa29d21db4569f3b2cc\" class=\"txc-image\" data-img-src=\"https://t1.daumcdn.net/cafeattach/1TaBA/b915f3a306585f4253954aa29d21db4569f3b2cc\" data-origin-width=\"764\" data-origin-height=\"788\"></div><div class=\"figure-img\" data-ke-type=\"image\" data-ke-style=\"alignCenter\" data-ke-mobilestyle=\"widthOrigin\"><img src=\"https://t1.daumcdn.net/cafeattach/1TaBA/352f90cf9aefa7642a7ce66b3e87dccbd1d4ea71\" class=\"txc-image\" data-img-src=\"https://t1.daumcdn.net/cafeattach/1TaBA/352f90cf9aefa7642a7ce66b3e87dccbd1d4ea71\" data-origin-width=\"745\" data-origin-height=\"731\"></div><div class=\"figure-img\" data-ke-type=\"image\" data-ke-style=\"alignCenter\" data-ke-mobilestyle=\"widthOrigin\"><img src=\"https://t1.daumcdn.net/cafeattach/1TaBA/2b8dfd9d800ba53154b9b2f7dca5606881322627\" class=\"txc-image\" data-img-src=\"https://t1.daumcdn.net/cafeattach/1TaBA/2b8dfd9d800ba53154b9b2f7dca5606881322627\" data-origin-width=\"777\" data-origin-height=\"800\"></div><p style=\"text-align: justify;\">&#160;</p>\n\t \t\t\t\t\t<!-- -->",
-    "tags": null
+    "tags": [
+      {
+        "curriculumYear": "2015",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "열과 우리 생활",
+        "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "열",
+        "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2015",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "물질의 상태 변화",
+        "confidence": "medium"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "물질의 상태 변화",
+        "confidence": "medium"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "앱/프로그램",
+        "confidence": "medium"
+      },
+      {
+        "category": "게시판별 분류",
+        "topic": "중학교 물리수업 이야기",
+        "confidence": "high"
+      }
+    ]
   },
   {
     "id": "fMHp-1580",
@@ -49,7 +138,42 @@
     "commentCnt": 6,
     "permlink": "https://cafe.daum.net/sedu22/fMHp/1580",
     "contentHtml": "<p>항상 많은 선생님들께서 유용한 수업 자료나 아이디어를 제공해주셔서 수업에 많이 이용해왔는데, 저도 한번 공유해보고자 올립니다. 바이브코딩을 통해 만든 간단한 미니게임입니다.</p><p>&#160;</p><p>지구, 달, 목성으로 떨어지는 사과를 받아내는 게임입니다. 태블릿으로 실시하기 때문에 방향키를 눌러 캐릭터를 이동합니다.</p><p>각 천체마다 중력의 크기가 다르기 때문에 떨어지는 속도도 다릅니다.</p><p>&#160;</p><p>일반사과 +10점</p><p>황금사과 +30점</p><p>폭탄 -10점</p><p>황금폭탄 -40점</p><p>이고, 스테이지 종료후 학생들이 사과를 받아내는 게임을 중력과 연관짓기 위해 간단한 퀴즈로 만들었습니다.</p><p>1.사과가 떨어지는 이유</p><p>2.중력의 방향</p><p>3.중력의 크기</p><p>&#160;</p><p><a href=\"https://bghs5272-cpu.github.io/gravityapple/\" target=\"_blank\" class=\"ke-link\">https://bghs5272-cpu.github.io/gravityapple/</a></p><div class=\"figure-open\" contenteditable=\"false\" data-ke-type=\"opengraph\" data-ke-align=\"alignCenter\" data-og-type=\"website\" data-og-title=\"중력 탐험대 - 중학교 1학년 과학 미니게임\" data-og-description=\"지구, 달, 목성의 모든 중력 환경 탐험을 성공적으로 마쳤습니다. 최종 획득 점수 훌륭합니다! 중력과 질량, 무게의 개념을 완벽히 이해하셨군요!\" data-og-host=\"bghs5272-cpu.github.io\" data-og-source-url=\"https://bghs5272-cpu.github.io/gravityapple/\" data-og-url=\"https://bghs5272-cpu.github.io/gravityapple/\" data-og-image=\"//img1.kakaocdn.net/thumb/C200x200/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fcafe_image%2Fcafe_meta_image_190529.png\"><a href=\"https://bghs5272-cpu.github.io/gravityapple/\" target=\"_blank\" data-source-url=\"https://bghs5272-cpu.github.io/gravityapple/\"><div class=\"og-image\"><img class=\"thumb_img\" src=\"//img1.kakaocdn.net/thumb/C200x200/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fcafe_image%2Fcafe_meta_image_190529.png\" alt=\"\" xxonerror=\"this.src=&quot;//img1.kakaocdn.net/thumb/C200x200/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fcafe_image%2Fcafe_meta_image_190529.png&quot;\"></div><div class=\"og-text\"><p class=\"og-title\">중력 탐험대 - 중학교 1학년 과학 미니게임</p><p class=\"og-desc\">지구, 달, 목성의 모든 중력 환경 탐험을 성공적으로 마쳤습니다. 최종 획득 점수 훌륭합니다! 중력과 질량, 무게의 개념을 완벽히 이해하셨군요!</p><p class=\"og-host\">bghs5272-cpu.github.io</p></div></a></div><p>&#160;</p><p>추가로 학생들에게 링크를 제공할 때, QR코드로 제공하면 편하기 때문에&#160; QR변환기도 만들었습니다.</p><p><a href=\"https://bghs5272-cpu.github.io/createqrcode/\" target=\"_blank\" class=\"ke-link\">https://bghs5272-cpu.github.io/createqrcode/</a></p><div class=\"figure-open\" contenteditable=\"false\" data-ke-type=\"opengraph\" data-ke-align=\"alignCenter\" data-og-type=\"website\" data-og-title=\"수업용 QR코드 생성기\" data-og-description=\"스마트 QR 생성기 학생들에게 공유할 링크를 QR코드로 만드세요. 학습 자료 배포용으로 자유롭게 사용하세요.\" data-og-host=\"bghs5272-cpu.github.io\" data-og-source-url=\"https://bghs5272-cpu.github.io/createqrcode/\" data-og-url=\"https://bghs5272-cpu.github.io/createqrcode/\" data-og-image=\"//img1.kakaocdn.net/thumb/C200x200/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fcafe_image%2Fcafe_meta_image_190529.png\"><a href=\"https://bghs5272-cpu.github.io/createqrcode/\" target=\"_blank\" data-source-url=\"https://bghs5272-cpu.github.io/createqrcode/\"><div class=\"og-image\"><img class=\"thumb_img\" src=\"//img1.kakaocdn.net/thumb/C200x200/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fcafe_image%2Fcafe_meta_image_190529.png\" alt=\"\" xxonerror=\"this.src=&quot;//img1.kakaocdn.net/thumb/C200x200/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fcafe_image%2Fcafe_meta_image_190529.png&quot;\"></div><div class=\"og-text\"><p class=\"og-title\">수업용 QR코드 생성기</p><p class=\"og-desc\">스마트 QR 생성기 학생들에게 공유할 링크를 QR코드로 만드세요. 학습 자료 배포용으로 자유롭게 사용하세요.</p><p class=\"og-host\">bghs5272-cpu.github.io</p></div></a></div><p>&#160;</p>\n\t \t\t\t\t\t<!-- -->",
-    "tags": null
+    "tags": [
+      {
+        "curriculumYear": "2015",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "여러 가지 힘",
+        "confidence": "high"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "힘의 작용",
+        "confidence": "high"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "앱/프로그램",
+        "confidence": "high"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "생성형 AI 도구",
+        "confidence": "medium"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "교육용 단말기(태블릿/크롬북)",
+        "confidence": "medium"
+      },
+      {
+        "category": "게시판별 분류",
+        "topic": "중학교 물리수업 이야기",
+        "confidence": "high"
+      }
+    ]
   },
   {
     "id": "fMHp-1581",
@@ -62,7 +186,37 @@
     "commentCnt": 8,
     "permlink": "https://cafe.daum.net/sedu22/fMHp/1581",
     "contentHtml": "<p>오늘 중1과 비열 수업을 했습니다.</p><p>그중에 저희반 친구가 왜 비열이 다른지 거의 수업 다끝난 직후에 질문을 했어요.&#160;</p><p>아마도 식용유와 물의 비열이 다른 이유는 입자들이 이루는 구조들 때문일 것 같은데 같이 생각해 볼까?</p><p>하면서 칠판에서 쓱쓱 그려가며 그리다가 그럼 얼음은 수소결합이 더 많은데 오히려 비열이 왜 작지?&#160;</p><p>수증기는 어떨까요? 하는 질문으로 이어지며&#160;</p><p>질문만 더 많이 남기고 숙제! 그러고 교무실로 와서 클로드한테 묻고 답을 듣고 그리고 생각이 나서 이 질문에 시뮬레이션을 얹어서 답하면 좋겠다고 생각했고 그래서 만든 앱이에요.&#160;</p><p>자연스럽게 지난번에 미리 배운 상태 변화 시 왜 온도가 변하지 않을까? 를 정확히 이해하지 못했던 것 같은데</p><p>이번 질문에 대한 답을 생각하며&#160; 뒤에 질문에 대한 답도 얻게 되었어요.</p><p style=\"text-align: start;\">배움은 배움으로 이어지네요.&#160;</p><p style=\"text-align: start;\">내일은 지운이의 질문으로 수업에 소개를 해보려고 합니다.&#160;</p><div class=\"figure-file\" data-ke-type=\"file\" data-file-src=\"https://t1.daumcdn.net/cafeattach/1TaBA/b713695d221b5e8794548ce8beb873e071874ae6?download\" data-file-name=\"얼음과물_3D모형_발문정리.docx\" data-file-size=\"17080\" data-mimetype=\"application/vnd.openxmlformats-officedocument.wordprocessingml.document\" data-ke-align=\"alignCenter\"><a href=\"javascript:checkVirus('grpid%3D1TaBA%26fldid%3DfMHp%26dataid%3D1581%26fileid%3D6%26regdt%3D20261001215230&url=https%3A%2F%2Ft1.daumcdn.net%2Fcafeattach%2F1TaBA%2Fb713695d221b5e8794548ce8beb873e071874ae6')\"><div class=\"image\"></div><div class=\"desc\"><div class=\"filename\"><span class=\"name\">얼음과물_3D모형_발문정리</span><span class=\"type\">.docx</span></div><div class=\"size\">16.68KB</div></div></a></div><p>&#160;</p><p>&#160;</p><p><span data-ke-size=\"size23\"><a href=\"https://l-ellena77-kor.github.io/Liquid-water-has-a-higher-specific-heat-than-ice/\" target=\"_blank\" class=\"ke-link\">https://l-ellena77-kor.github.io/Liquid-water-has-a-higher-specific-heat-than-ice/</a></span></p><div class=\"figure-open\" contenteditable=\"false\" data-ke-type=\"opengraph\" data-ke-align=\"alignCenter\" data-og-type=\"website\" data-og-title=\"얼음과 물, 열은 어디에 쓰일까? &#8212; 3D 모형\" data-og-description=\"같은 열을 받아도, 얼음과 물은 열을 다르게 쓴다\" data-og-host=\"l-ellena77-kor.github.io\" data-og-source-url=\"https://l-ellena77-kor.github.io/Liquid-water-has-a-higher-specific-heat-than-ice/\" data-og-url=\"https://l-ellena77-kor.github.io/Liquid-water-has-a-higher-specific-heat-than-ice/\" data-og-image=\"//img1.kakaocdn.net/thumb/C200x200/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fcafe_image%2Fcafe_meta_image_190529.png\"><a href=\"https://l-ellena77-kor.github.io/Liquid-water-has-a-higher-specific-heat-than-ice/\" target=\"_blank\" data-source-url=\"https://l-ellena77-kor.github.io/Liquid-water-has-a-higher-specific-heat-than-ice/\"><div class=\"og-image\"><img class=\"thumb_img\" src=\"//img1.kakaocdn.net/thumb/C200x200/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fcafe_image%2Fcafe_meta_image_190529.png\" alt=\"\" xxxxonerror=\"this.src=&quot;//img1.kakaocdn.net/thumb/C200x200/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fcafe_image%2Fcafe_meta_image_190529.png&quot;\"></div><div class=\"og-text\"><p class=\"og-title\">얼음과 물, 열은 어디에 쓰일까? &#8212; 3D 모형</p><p class=\"og-desc\">같은 열을 받아도, 얼음과 물은 열을 다르게 쓴다</p><p class=\"og-host\">l-ellena77-kor.github.io</p></div></a></div><div class=\"figure-img\" data-ke-type=\"image\" data-ke-style=\"alignCenter\" data-ke-mobilestyle=\"widthOrigin\"><img src=\"https://t1.daumcdn.net/cafeattach/1TaBA/99111ecbe3e992dd35831834615f2a527b547c71\" class=\"txc-image\" data-img-src=\"https://t1.daumcdn.net/cafeattach/1TaBA/99111ecbe3e992dd35831834615f2a527b547c71\" data-origin-width=\"1895\" data-origin-height=\"1048\"></div><div class=\"figure-img\" data-ke-type=\"image\" data-ke-style=\"alignCenter\" data-ke-mobilestyle=\"widthOrigin\"><img src=\"https://t1.daumcdn.net/cafeattach/1TaBA/6e07ef28537b2add744cf9add3c4cd1c07eb2dd0\" class=\"txc-image\" data-img-src=\"https://t1.daumcdn.net/cafeattach/1TaBA/6e07ef28537b2add744cf9add3c4cd1c07eb2dd0\" data-origin-width=\"944\" data-origin-height=\"59\"></div><div class=\"figure-img\" data-ke-type=\"image\" data-ke-style=\"alignCenter\" data-ke-mobilestyle=\"widthOrigin\"><img src=\"https://t1.daumcdn.net/cafeattach/1TaBA/0d545f44def1d23cee0bbe68f69ab10a306d47e2\" class=\"txc-image\" data-img-src=\"https://t1.daumcdn.net/cafeattach/1TaBA/0d545f44def1d23cee0bbe68f69ab10a306d47e2\" data-origin-width=\"1904\" data-origin-height=\"1051\"></div><p style=\"text-align: start;\">---------------------------------------------------------------------------------------------------------------------------------------------</p><p style=\"text-align: start;\">&lt;카톡방 토론 후 대충 핵심정리&gt;</p><p style=\"text-align: start;\"><span data-ke-size=\"size16\"><b>핵심&#160;원리:&#160;</b></span><span data-ke-size=\"size16\">온도는&#160;입자&#160;운동(이동·회전·떨림)의&#160;활발함이다.</span></p><p style=\"text-align: start;\"><span data-ke-size=\"size16\">&#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; 가한 열이 입자 운동에 쓰이면 온도가 오르고, 수소 결합을 끊는 데 쓰이면 온도는 오르지 않는다.</span></p><p style=\"text-align: start;\"><span style=\"color: #ee2323;\"><b><span data-ke-size=\"size16\">앱 1쪽</span></b></span></p><p style=\"text-align: start;\"><span style=\"color: #ee2323;\"><b><span data-ke-size=\"size16\">얼음상태:100% 수소결합을 하고있으며 그 결합이 유지가되므로, 가해준 열은 입자구조의 진동(제자리 떨림)과 </span></b></span><span style=\"color: #ee2323;\"><b><span data-ke-size=\"size16\">입자의 제자리 회전에만 쓰이므로 얼음의 온도가 쉽게 오른다.</span></b></span></p><p style=\"text-align: start;\"><span style=\"color: #ee2323;\"><b><span data-ke-size=\"size16\">물상태: 80%이상은 수소결합을 유지하고 있으며,<span style=\"color: #006dd7;\"><i><u> 가해준 열의 일부는 수소 결합을 끊는데 쓰이고 </u></i></span></span></b></span><span style=\"color: #ee2323;\"><b><span data-ke-size=\"size16\">&#160;일부는 제자리 진동, 입자 회전,&#160;</span></b></span><span style=\"color: #ee2323;\"><b><span data-ke-size=\"size16\">&#160; &#160; &#160; &#160; &#160; &#160; 입자의 병진 운동에 쓰인다. 따라서<span style=\"color: #006dd7;\"> <i><u>수소 결합을 끊는데 쓰이는 에너지 만큼 온도가 잘 오르지 않는 것이다.&#160;</u></i></span></span></b></span></p><p style=\"text-align: start;\"><span style=\"color: #000000;\"><b>앱 2쪽</b></span></p><p style=\"text-align: start;\"><span style=\"color: #000000;\"><b><span data-ke-size=\"size16\">융해시:가해준 열이 모두 수소 결합을 끊는데 쓰인다. (100% 수소결합-&gt; 80%수소결합남음, 즉 약 20%의 수소결합을 끊는데 쓰임.)</span></b></span></p><p style=\"text-align: start;\"><span style=\"color: #000000;\"><b><span data-ke-size=\"size16\">기화시: 나머지 70%정도의 수소</span><span style=\"color: #000000;\" data-ke-size=\"size16\">결합을 끊는데 모든 에너지가 쓰인다. (이건 앱에는 없음)</span></b></span></p><p><span style=\"color: #000000;\"><b>앱 3쪽: 내용정리(추가함.)</b></span></p><div class=\"figure-img\" data-ke-type=\"image\" data-ke-style=\"alignCenter\" data-ke-mobilestyle=\"widthOrigin\"><img src=\"https://t1.daumcdn.net/cafeattach/1TaBA/0393d079d98d8e32803735b8bbc5130c5de0ded2\" class=\"txc-image\" data-img-src=\"https://t1.daumcdn.net/cafeattach/1TaBA/0393d079d98d8e32803735b8bbc5130c5de0ded2\" data-origin-width=\"1875\" data-origin-height=\"981\"></div>\n\t \t\t\t\t\t<!-- -->",
-    "tags": null
+    "tags": [
+      {
+        "curriculumYear": "2015",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "열과 우리 생활",
+        "confidence": "high"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "열",
+        "confidence": "high"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "앱/프로그램",
+        "confidence": "high"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "생성형 AI 도구",
+        "confidence": "high"
+      },
+      {
+        "category": "게시판별 분류",
+        "topic": "중학교 물리수업 이야기",
+        "confidence": "high"
+      }
+    ]
   },
   {
     "id": "fMHp-1579",
@@ -75,7 +229,23 @@
     "commentCnt": 4,
     "permlink": "https://cafe.daum.net/sedu22/fMHp/1579",
     "contentHtml": "<div class=\"figure-video\" data-ke-type=\"video\" data-video-url=\"https://kakaotv.daum.net/embed/player/cliplink/rvn50zff06ugbawy5zkpznpci?service=daum_cafe\" data-video-host=\"kakaotv\" data-video-play-service=\"daum_cafe\" data-video-width=\"712\" data-video-height=\"400\" data-ke-style=\"alignCenter\" data-video-thumbnail=\"https://thumb.kakaocdn.net/dna/kamp/source/rvn50zff06ugbawy5zkpznpci/thumbs/2.jpg?credential=TuMuFGKUIcirOSjFzOpncbomGFEIdZWK&amp;expires=33347671331&amp;kamp_tidx=0&amp;signature=kV9BwsFCs3W7%2FwsdLVKZCUu%2F2CQ%3D&amp;ts=1790762531\" data-ke-mobile-mobilestyle=\"widthContent\" data-video-origin-width=\"1920\" data-video-origin-height=\"1080\"><iframe src=\"https://kakaotv.daum.net/embed/player/cliplink/rvn50zff06ugbawy5zkpznpci?service=daum_cafe&amp;f=p&amp;ptoken=eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpZCI6InJ2bjUwemZmMDZ1Z2Jhd3k1emtwem5wY2kiLCJ0aWQiOiJhZTNiODhhZi1kMTcyLTQwNWUtODMyMS05NDFkZTQ5OTRlYTUiLCJhcHBfaWQiOiJkYXVtX2NhZmUiLCJleHAiOjE3OTE3NjQ0MTV9.lM2GZxD8oAjNTeFWQyx-a8GC1THDbCoRSNSCKo1WeCeI5ZEeeHWVa95EfKTBGoZPDRZq0B_JVlBrUuMrMDM6YA&amp;autoplay=0&amp;ptoken=eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpZCI6InJ2bjUwemZmMDZ1Z2Jhd3k1emtwem5wY2kiLCJ0aWQiOiJhZTNiODhhZi1kMTcyLTQwNWUtODMyMS05NDFkZTQ5OTRlYTUiLCJhcHBfaWQiOiJkYXVtX2NhZmUiLCJleHAiOjE3OTE3NjQ0MTV9.lM2GZxD8oAjNTeFWQyx-a8GC1THDbCoRSNSCKo1WeCeI5ZEeeHWVa95EfKTBGoZPDRZq0B_JVlBrUuMrMDM6YA&amp;autoplay=0\" width=\"712\" height=\"400\" frameborder=\"0\" scrolling=\"no\" allowfullscreen=\"\" allow=\"encrypted-media\"></iframe><div class=\"figcaption\"></div></div><p>이제는 ppt보다 프리젠테이션도 그냥HTML이 좋으네요. 음악도 켜고 끌 수 있고 효과도 넣을 수도 있어서요.</p><p>교사용 대시보드도 열어보심 좋겠지만... 제가 비번을 걸어 둔 것들이 꽤 있어요.</p><p>프롬프트 공유를 처음 하시는 분들은 더 궁금해 하시는데 사실, 대단히 큰 작업을 하는 게 아니라 프롬프트가 따로 없이 클로드와 대화하면서 만들어지쟎아요.</p><p>그래도 첫 마디 어떻게 건네었는지를 프롬프트로 넣어 봤어요. 첫 채팅 후 클로드가&#160; 만든 결과물을 보고 더 요구하면서 결과물은 만들어집니다. 이제 모두가 할 수 있어서 좋아요. 구독은 필수가 된 것 같아요. 경기수업비평연구회에서 이은정 수석님의 권유로 발표한 자료에요. 여러 허접한 앱 모음이지만 한 번은 정리할 수 있어서 좋았어요. 전체화면에 음악도 켜면 기분이 납니다.</p><div class=\"figure-file\" data-ke-type=\"file\" data-file-src=\"https://t1.daumcdn.net/cafeattach/1TaBA/bcb573b1e8939a9cde1b1524a9012a56c02ea14e?download\" data-file-name=\"발표자료_클로드로_수업_거듭나기 (11).html\" data-file-size=\"130941\" data-mimetype=\"text/html\" data-ke-align=\"alignCenter\"><a href=\"javascript:checkVirus('grpid%3D1TaBA%26fldid%3DfMHp%26dataid%3D1579%26fileid%3D1%26regdt%3D20260930185624&url=https%3A%2F%2Ft1.daumcdn.net%2Fcafeattach%2F1TaBA%2Fbcb573b1e8939a9cde1b1524a9012a56c02ea14e')\"><div class=\"image\"></div><div class=\"desc\"><div class=\"filename\"><span class=\"name\">발표자료_클로드로_수업_거듭나기 (11)</span><span class=\"type\">.html</span></div><div class=\"size\">127.87KB</div></div></a></div><p>&#160;</p><p>더불어 저희반 아이(대안학교로 가려는)를 생각하면서 만든 영상도 공유해 보아요. 아이한테 전달은 안할지도요.&#160;</p><p>노래는 수노로 제작하고 그음원과 가사를 클로드에게 제공하여 HTML 제작, 화면 녹화 기능 클로드한테 물어봐서 win+ctrl+R 눌러서 녹화 떴어요. 나와 너의 대상이 왔다 갔다해요. 그냥 들으면 좋아서 곁가지로 올려봅니다.&#160;</p>\n\t \t\t\t\t\t<!-- -->",
-    "tags": null
+    "tags": [
+      {
+        "category": "스마트 수업도구",
+        "topic": "앱/프로그램",
+        "confidence": "high"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "생성형 AI 도구",
+        "confidence": "high"
+      },
+      {
+        "category": "게시판별 분류",
+        "topic": "중학교 물리수업 이야기",
+        "confidence": "high"
+      }
+    ]
   },
   {
     "id": "fMHp-1578",
@@ -88,7 +258,37 @@
     "commentCnt": 6,
     "permlink": "https://cafe.daum.net/sedu22/fMHp/1578",
     "contentHtml": "<p style=\"text-align: left;\">기존 선생님들의 아이디어로<br><br>링크: <a href=\"https://m.cafe.daum.net/sedu22/fMHp/673?svc=cafeapp\" target=\"_blank\" class=\"ke-link\">https://m.cafe.daum.net/sedu22/fMHp/673?svc=cafeapp</a><br><br><a href=\"https://m.cafe.daum.net/sedu22/fMHp/1540?svc=cafeapp\" target=\"_blank\" class=\"ke-link\">https://m.cafe.daum.net/sedu22/fMHp/1540?svc=cafeapp</a><br><br><br>[오늘의 집 3D집꾸미기]에서 가전을 고르고 배치, [한전홈피]에서 전력량 및 전기요금 계산을 해보는 수업을 기획했습니다.<br><br>그런데<br>첫 시간에 집 도면 고르다가 시간이 다 가버리는 대참사가 일어났습니다.ㅎㅎ (성균관대 근처 복층집을 찾겠다며..) <br><br>그래서 이 모든 과정을 하나의 앱 안에서 구현하고, 손발전기로 노가다해서 코인을 얻어 자취방을 꾸미는 게임을 만들어보고 싶어졌습니다.<br><br>무려 무료버전 지피티를 쓰고 있는 저에게 너무 큰 욕심이었죠.ㅎㅎ<br><br>역시 재과만 톡방의 능력자 선생님들께서 여러 베타버전을 만들어주셨고~<br> <a href=\"https://my-first-room-electric-challenge.kkj00151.chatgpt.site/\" target=\"_blank\" class=\"ke-link\">https://my-first-room-electric-challenge.kkj00151.chatgpt.site/</a><br><br><a href=\"https://electricity-bill-challenge.vercel.app/\" target=\"_blank\" class=\"ke-link\">https://electricity-bill-challenge.vercel.app/</a><br>(이 버전은 특히 손발전기 손맛이 좋네요! 한달 720시간 안에 사용시간을 게이지바 형태로 선택하는 것도.. 가볍게 바로 쓰려면 이 버전도 강추입니다!)<br><br><br>울산 박창현선생님께서 무려 지피티 아스트라 울트라 버전으로 제가 기대했던 것보다 훨씬 멋진 버전을 개발해주셨습니다.<br><br>방꾸미기 커스텀도 가능하고, 반려동물 포함가능, 내방 자랑하기 기능과 계산기 기능까지.. 어마어마한 것이 나와부렀네요!<br><br><br><br>최종적으로 수업은<br>정운기 선생님의 버전으로 &quot;가전제품 소비전력 알아보기&quot; 활동 및 &quot;에너지 전환의 유형&quot;을 먼저 다루고<br><a href=\"https://sciencessaem.com/grade2/unit7/home-power\" target=\"_blank\" class=\"ke-link\">https://sciencessaem.com/grade2/unit7/home-power</a><br><br>박창현 선생님의 버전으로 &quot;전력량과 전기요금 계산&quot;을 해보려고 합니다.<br><a href=\"https://first-room-energy-241152703525.asia-northeast3.run.app/\" target=\"_blank\" class=\"ke-link\">https://first-room-energy-241152703525.asia-northeast3.run.app/</a><br><br>같이 고민해주시고 개발해주신 <b>김지희선생님, 이만광선생님, 남영미선생님, 정운기 선생님, 안종옥 선생님, 박창현 선생님</b> 너무나 감사합니다. 도움주신 내용으로 좋은 수업 만들어보겠습니다^^<br><br><br><br><br>추신)저의 프롬프트도 혹시 몰라 남깁니다.<br>「나의 첫 자취방 &#8211; 전기요금 챌린지」<br>학생이 원하는 가전제품을 직접 선택하고 방을 꾸민 뒤, 소비전력 → 전력량 → 전기요금을 계산하여 최종 클리어하는 게임.<br><br>&#9889; 핵심 게임 시스템<br>1. 손발전기<br>실제 손발전기처럼 손잡이를 마우스/터치로 좌우 빠르게 움직임<br>원하는 물건의 가격에 따라 필요한 발전 횟수가 다름<br>비싼 물건일수록 더 많이 돌려야 함<br><br>2. 과학 문제<br>전기·에너지 관련 중3 과학 문제 출제<br>문제를 맞히면 다음 단계 진행<br>틀리면 다시 풀기 위해 손발전기를 돌려야 함<br>예: 오답 → 발전기 10회 → 재도전 가능<br><br>3. 가전제품 구매<br>초기 예산 400만 원<br>필수: 냉장고, 세탁기, 책상 스탠드<br>선택: TV, 에어컨, 안마의자, 전자레인지 등<br>LED 스탠드와 백열등 스탠드는 소비전력을 비교할 수 있도록 구성<br>구입한 물건은 원룸에 자유롭게 배치·색상 변경<br><br>4. 전기 사용 설정<br>각 제품의 소비전력(W)과 월간 사용시간을 제시/설정<br>학생이 직접 전력량을 계산<br>전력량 = 소비전력 × 사용시간<br>Wh → kWh 변환<br><br>5. 최종 미션<br>정답을 미리 보여주지 않고 학생이 직접 입력:<br><br>① 한 달 예상 전력량: ____ kWh<br>② 한 달 예상 전기요금: ____ 원<br><br>게임 내부 계산값과 두 값 모두 정확히 일치해야 GAME CLEAR.<br><br>6. 최종 오답<br>바로 정답을 알려주지 않음<br>계산 힌트 제공<br>다시 도전하려면 손발전기를 다시 돌려야 함<br><br>&#11088; 게임의 핵심 흐름<br>과학 문제 → 손발전기 → 돈 획득 → 가전 구매 → 방 꾸미기 → 전력량 계산 → 전기요금 계산 → 예상값 입력 → 정확히 맞히면 GAME CLEAR<br><br>손발전기가 &#39;돈을 버는 수단&#39;이면서 &#39;오답 후 재도전권을 얻는 수단&#39;이 되도록 구현.<br></p>\n\t \t\t\t\t\t<!-- -->",
-    "tags": null
+    "tags": [
+      {
+        "curriculumYear": "2015",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "전기와 자기",
+        "confidence": "high"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "전기와 자기",
+        "confidence": "high"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "앱/프로그램",
+        "confidence": "high"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "생성형 AI 도구",
+        "confidence": "high"
+      },
+      {
+        "category": "게시판별 분류",
+        "topic": "중학교 물리수업 이야기",
+        "confidence": "high"
+      }
+    ]
   },
   {
     "id": "fMHp-1573",
@@ -101,7 +301,32 @@
     "commentCnt": 3,
     "permlink": "https://cafe.daum.net/sedu22/fMHp/1573",
     "contentHtml": "<p>제미나이노트북으로 생성해 보았습니다. 엄청 잘 만들어진건 아니지만, 혹시 사용하실 분 계실까 하여 공유해요.</p><p>(별것 아닌데 용량 문제로 나누어 올립니다)</p><p>&#160;</p><p>&#160;</p><p>1. 힘의 표현(보이지 않는 힘을 그리는 법)</p><div class=\"figure-video\" data-ke-type=\"video\" data-video-url=\"https://kakaotv.daum.net/embed/player/cliplink/rv4dvlpo7a2kss9md73v4h1wg?service=daum_cafe\" data-video-host=\"kakaotv\" data-video-play-service=\"daum_cafe\" data-video-width=\"712\" data-video-height=\"400\" data-ke-style=\"alignCenter\" data-video-thumbnail=\"https://thumb.kakaocdn.net/dna/kamp/source/rv4dvlpo7a2kss9md73v4h1wg/thumbs/2.jpg?credential=TuMuFGKUIcirOSjFzOpncbomGFEIdZWK&amp;expires=33346398277&amp;kamp_tidx=0&amp;signature=kST963Goz0yQlVZuyG23docA%2BPQ%3D&amp;ts=1789489477\" data-ke-mobile-mobilestyle=\"widthContent\" data-video-origin-width=\"720\" data-video-origin-height=\"1280\"><iframe src=\"https://kakaotv.daum.net/embed/player/cliplink/rv4dvlpo7a2kss9md73v4h1wg?service=daum_cafe&amp;f=p&amp;ptoken=eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpZCI6InJ2NGR2bHBvN2Eya3NzOW1kNzN2NGgxd2ciLCJ0aWQiOiI4NzVhMmY5ZC1hZTI3LTRhYjktYjU4NS04YWY3ZjA4ODU5MmIiLCJhcHBfaWQiOiJkYXVtX2NhZmUiLCJleHAiOjE3OTE3NjQ0MjF9.K5aOqm9VTY0kdAiNz4WKJuXgxBs-ndr7G_YrE1piLNIs2kHIxgDhgpeMmxWbxclE3BdlR6FB0BO2lBiB37d2rw&amp;autoplay=0&amp;ptoken=eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpZCI6InJ2NGR2bHBvN2Eya3NzOW1kNzN2NGgxd2ciLCJ0aWQiOiI4NzVhMmY5ZC1hZTI3LTRhYjktYjU4NS04YWY3ZjA4ODU5MmIiLCJhcHBfaWQiOiJkYXVtX2NhZmUiLCJleHAiOjE3OTE3NjQ0MjF9.K5aOqm9VTY0kdAiNz4WKJuXgxBs-ndr7G_YrE1piLNIs2kHIxgDhgpeMmxWbxclE3BdlR6FB0BO2lBiB37d2rw&amp;autoplay=0\" width=\"712\" height=\"400\" frameborder=\"0\" scrolling=\"no\" allowfullscreen=\"\" allow=\"encrypted-media\"></iframe><div class=\"figcaption\"></div></div><p>2. 알짜힘(진짜 움직임을 결정하는 숨은 힘)</p><div class=\"figure-video\" data-ke-type=\"video\" data-video-url=\"https://kakaotv.daum.net/embed/player/cliplink/rvzcsliah9x6fcbik73c73x8w?service=daum_cafe\" data-video-host=\"kakaotv\" data-video-play-service=\"daum_cafe\" data-video-width=\"712\" data-video-height=\"400\" data-ke-style=\"alignCenter\" data-video-thumbnail=\"https://thumb.kakaocdn.net/dna/kamp/source/rvzcsliah9x6fcbik73c73x8w/thumbs/2.jpg?credential=TuMuFGKUIcirOSjFzOpncbomGFEIdZWK&amp;expires=33346398297&amp;kamp_tidx=0&amp;signature=Uu6ZfWxR7SpcCmebDVXTQM%2BpO%2BE%3D&amp;ts=1789489497\" data-ke-mobile-mobilestyle=\"widthContent\" data-video-origin-width=\"720\" data-video-origin-height=\"1280\"><iframe src=\"https://kakaotv.daum.net/embed/player/cliplink/rvzcsliah9x6fcbik73c73x8w?service=daum_cafe&amp;f=p&amp;ptoken=eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpZCI6InJ2emNzbGlhaDl4NmZjYmlrNzNjNzN4OHciLCJ0aWQiOiI5M2Q4ZGRiNC0xMmIyLTQ4MzgtYjQ0MC1jZTg0YWMyZjJlZWUiLCJhcHBfaWQiOiJkYXVtX2NhZmUiLCJleHAiOjE3OTE3NjQ0MjF9.cFr7TKUo32KBfefz_5NoHjxSGwnUjED6jdqqhfUs8cDOYlhLPkEw78YxigZ8lXT8pdRr2j8AJGt6yZDyTFqpTg&amp;autoplay=0&amp;ptoken=eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpZCI6InJ2emNzbGlhaDl4NmZjYmlrNzNjNzN4OHciLCJ0aWQiOiI5M2Q4ZGRiNC0xMmIyLTQ4MzgtYjQ0MC1jZTg0YWMyZjJlZWUiLCJhcHBfaWQiOiJkYXVtX2NhZmUiLCJleHAiOjE3OTE3NjQ0MjF9.cFr7TKUo32KBfefz_5NoHjxSGwnUjED6jdqqhfUs8cDOYlhLPkEw78YxigZ8lXT8pdRr2j8AJGt6yZDyTFqpTg&amp;autoplay=0\" width=\"712\" height=\"400\" frameborder=\"0\" scrolling=\"no\" allowfullscreen=\"\" allow=\"encrypted-media\"></iframe><div class=\"figcaption\"></div></div><p>3. 중력(몸무게가 내 몸의 고유한 값이 아닌 이유)</p><div class=\"figure-video\" data-ke-type=\"video\" data-video-url=\"https://kakaotv.daum.net/embed/player/cliplink/rvsrzctbs4yrg58pkc9wjko32?service=daum_cafe\" data-video-host=\"kakaotv\" data-video-play-service=\"daum_cafe\" data-video-width=\"712\" data-video-height=\"400\" data-ke-style=\"alignCenter\" data-video-thumbnail=\"https://thumb.kakaocdn.net/dna/kamp/source/rvsrzctbs4yrg58pkc9wjko32/thumbs/2.jpg?credential=TuMuFGKUIcirOSjFzOpncbomGFEIdZWK&amp;expires=33346398543&amp;kamp_tidx=0&amp;signature=mB0dfGdxoM8kyQGKuV3uBR8u6qk%3D&amp;ts=1789489743\" data-ke-mobile-mobilestyle=\"widthContent\" data-video-origin-width=\"720\" data-video-origin-height=\"1280\"><iframe src=\"https://kakaotv.daum.net/embed/player/cliplink/rvsrzctbs4yrg58pkc9wjko32?service=daum_cafe&amp;f=p&amp;ptoken=eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpZCI6InJ2c3J6Y3RiczR5cmc1OHBrYzl3amtvMzIiLCJ0aWQiOiIyNDEwZWM4Ny1lOTY4LTQxMzItODMwNC1jNzg3MDE5NDMwZTMiLCJhcHBfaWQiOiJkYXVtX2NhZmUiLCJleHAiOjE3OTE3NjQ0MjF9.Wwul9nxWCXDSJlRHlnwvKhkkRmHRP__tQDr6S0_I__xN-P9Is9Vi3yt8k6a72ob2iZxio87XL6nus_JvYcLTKw&amp;autoplay=0&amp;ptoken=eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpZCI6InJ2c3J6Y3RiczR5cmc1OHBrYzl3amtvMzIiLCJ0aWQiOiIyNDEwZWM4Ny1lOTY4LTQxMzItODMwNC1jNzg3MDE5NDMwZTMiLCJhcHBfaWQiOiJkYXVtX2NhZmUiLCJleHAiOjE3OTE3NjQ0MjF9.Wwul9nxWCXDSJlRHlnwvKhkkRmHRP__tQDr6S0_I__xN-P9Is9Vi3yt8k6a72ob2iZxio87XL6nus_JvYcLTKw&amp;autoplay=0\" width=\"712\" height=\"400\" frameborder=\"0\" scrolling=\"no\" allowfullscreen=\"\" allow=\"encrypted-media\"></iframe><div class=\"figcaption\"></div></div>\n\t \t\t\t\t\t<!-- -->",
-    "tags": null
+    "tags": [
+      {
+        "curriculumYear": "2015",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "여러 가지 힘",
+        "confidence": "high"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "힘의 작용",
+        "confidence": "high"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "생성형 AI 도구",
+        "confidence": "high"
+      },
+      {
+        "category": "게시판별 분류",
+        "topic": "중학교 물리수업 이야기",
+        "confidence": "high"
+      }
+    ]
   },
   {
     "id": "fMHp-1574",
@@ -114,7 +339,32 @@
     "commentCnt": 3,
     "permlink": "https://cafe.daum.net/sedu22/fMHp/1574",
     "contentHtml": "<p style=\"text-align: left;\">제미나이노트북으로 생성해 보았습니다. 엄청 잘 만들어진건 아니지만, 혹시 사용하실 분 계실까 하여 공유해요.</p><p style=\"text-align: left;\">(별것 아닌데 용량 문제로 나누어 올립니다)</p><p>&#160;</p><p>4. 탄성력(용수철은 왜 항상 반대로 밀어낼까)</p><div class=\"figure-video\" data-ke-type=\"video\" data-video-url=\"https://kakaotv.daum.net/embed/player/cliplink/rvpr78qxec5082c2lxn9uybxt?service=daum_cafe\" data-video-host=\"kakaotv\" data-video-play-service=\"daum_cafe\" data-video-width=\"712\" data-video-height=\"400\" data-ke-style=\"alignCenter\" data-video-thumbnail=\"https://thumb.kakaocdn.net/dna/kamp/source/rvpr78qxec5082c2lxn9uybxt/thumbs/2.jpg?credential=TuMuFGKUIcirOSjFzOpncbomGFEIdZWK&amp;expires=33346398724&amp;kamp_tidx=0&amp;signature=o65kuFTWW7WTbDn9s9e0xCmb0fI%3D&amp;ts=1789489924\" data-ke-mobile-mobilestyle=\"widthContent\" data-video-origin-width=\"720\" data-video-origin-height=\"1280\"><iframe src=\"https://kakaotv.daum.net/embed/player/cliplink/rvpr78qxec5082c2lxn9uybxt?service=daum_cafe&amp;f=p&amp;ptoken=eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpZCI6InJ2cHI3OHF4ZWM1MDgyYzJseG45dXlieHQiLCJ0aWQiOiI0NmU5NTMwNS0zNDE0LTQxZmQtYWVhNS1lYmIwOTY4NmRhMzMiLCJhcHBfaWQiOiJkYXVtX2NhZmUiLCJleHAiOjE3OTE3NjQ0MjB9.lnGlIOBqYj-5ooOMDOpHYvNAtN3K96mcQMhmRQFviLoLPhGQJHunnmFyyv6ZIR-pm3SbTQFmDQMdgJttYp31dg&amp;autoplay=0&amp;ptoken=eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpZCI6InJ2cHI3OHF4ZWM1MDgyYzJseG45dXlieHQiLCJ0aWQiOiI0NmU5NTMwNS0zNDE0LTQxZmQtYWVhNS1lYmIwOTY4NmRhMzMiLCJhcHBfaWQiOiJkYXVtX2NhZmUiLCJleHAiOjE3OTE3NjQ0MjB9.lnGlIOBqYj-5ooOMDOpHYvNAtN3K96mcQMhmRQFviLoLPhGQJHunnmFyyv6ZIR-pm3SbTQFmDQMdgJttYp31dg&amp;autoplay=0\" width=\"712\" height=\"400\" frameborder=\"0\" scrolling=\"no\" allowfullscreen=\"\" allow=\"encrypted-media\"></iframe><div class=\"figcaption\"></div></div><p>5. 마찰력(마찰력이 미끄러짐을 막는 원리)</p><div class=\"figure-video\" data-ke-type=\"video\" data-video-url=\"https://kakaotv.daum.net/embed/player/cliplink/rvit7nur7qjpkqyzvtncapvo7?service=daum_cafe\" data-video-host=\"kakaotv\" data-video-play-service=\"daum_cafe\" data-video-width=\"712\" data-video-height=\"400\" data-ke-style=\"alignCenter\" data-video-thumbnail=\"https://thumb.kakaocdn.net/dna/kamp/source/rvit7nur7qjpkqyzvtncapvo7/thumbs/2.jpg?credential=TuMuFGKUIcirOSjFzOpncbomGFEIdZWK&amp;expires=33346398785&amp;kamp_tidx=0&amp;signature=NxRqppjL%2BWuTGTP9WEtcYXOs6Qo%3D&amp;ts=1789489985\" data-ke-mobile-mobilestyle=\"widthContent\" data-video-origin-width=\"720\" data-video-origin-height=\"1280\"><iframe src=\"https://kakaotv.daum.net/embed/player/cliplink/rvit7nur7qjpkqyzvtncapvo7?service=daum_cafe&amp;f=p&amp;ptoken=eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpZCI6InJ2aXQ3bnVyN3FqcGtxeXp2dG5jYXB2bzciLCJ0aWQiOiJhNzY2MGQwMC1hM2E4LTQwZmYtOTI4Ni0xZTYxOGFjYjkyMzQiLCJhcHBfaWQiOiJkYXVtX2NhZmUiLCJleHAiOjE3OTE3NjQ0MjB9.solqxvEuIe8J1cf9LGlPTPbpGj8kjyBlRne0IDHYLLD7Zk3NfhYKAYmR6O7TbrgAJHxqAz3aZSl3paeQXu5T2g&amp;autoplay=0&amp;ptoken=eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpZCI6InJ2aXQ3bnVyN3FqcGtxeXp2dG5jYXB2bzciLCJ0aWQiOiJhNzY2MGQwMC1hM2E4LTQwZmYtOTI4Ni0xZTYxOGFjYjkyMzQiLCJhcHBfaWQiOiJkYXVtX2NhZmUiLCJleHAiOjE3OTE3NjQ0MjB9.solqxvEuIe8J1cf9LGlPTPbpGj8kjyBlRne0IDHYLLD7Zk3NfhYKAYmR6O7TbrgAJHxqAz3aZSl3paeQXu5T2g&amp;autoplay=0\" width=\"712\" height=\"400\" frameborder=\"0\" scrolling=\"no\" allowfullscreen=\"\" allow=\"encrypted-media\"></iframe><div class=\"figcaption\"></div></div><p>6. 부력(무거운 화물선이 물에 뜨는 진짜 이유)</p><div class=\"figure-video\" data-ke-type=\"video\" data-video-url=\"https://kakaotv.daum.net/embed/player/cliplink/rvxh45e85fuusmmdyu699p8mm?service=daum_cafe\" data-video-host=\"kakaotv\" data-video-play-service=\"daum_cafe\" data-video-width=\"712\" data-video-height=\"400\" data-ke-style=\"alignCenter\" data-video-thumbnail=\"https://thumb.kakaocdn.net/dna/kamp/source/rvxh45e85fuusmmdyu699p8mm/thumbs/2.jpg?credential=TuMuFGKUIcirOSjFzOpncbomGFEIdZWK&amp;expires=33346398813&amp;kamp_tidx=0&amp;signature=So9lEOqFLQJBslpD8RmT495h4nk%3D&amp;ts=1789490013\" data-ke-mobile-mobilestyle=\"widthContent\" data-video-origin-width=\"720\" data-video-origin-height=\"1280\"><iframe src=\"https://kakaotv.daum.net/embed/player/cliplink/rvxh45e85fuusmmdyu699p8mm?service=daum_cafe&amp;f=p&amp;ptoken=eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpZCI6InJ2eGg0NWU4NWZ1dXNtbWR5dTY5OXA4bW0iLCJ0aWQiOiJjZjg5ZmQzMS04ODM2LTRlZTAtOTZjNS01YjdlNTkzYzU4MTQiLCJhcHBfaWQiOiJkYXVtX2NhZmUiLCJleHAiOjE3OTE3NjQ0MjB9.gzm2lPySxKNlNPU-M8joaZxFnlmonPbF4bY_6jrHaZOa9I4Lmdw-exVGZ37q_hvNj7Rvus3qej6zYt5yeAMPPA&amp;autoplay=0&amp;ptoken=eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpZCI6InJ2eGg0NWU4NWZ1dXNtbWR5dTY5OXA4bW0iLCJ0aWQiOiJjZjg5ZmQzMS04ODM2LTRlZTAtOTZjNS01YjdlNTkzYzU4MTQiLCJhcHBfaWQiOiJkYXVtX2NhZmUiLCJleHAiOjE3OTE3NjQ0MjB9.gzm2lPySxKNlNPU-M8joaZxFnlmonPbF4bY_6jrHaZOa9I4Lmdw-exVGZ37q_hvNj7Rvus3qej6zYt5yeAMPPA&amp;autoplay=0\" width=\"712\" height=\"400\" frameborder=\"0\" scrolling=\"no\" allowfullscreen=\"\" allow=\"encrypted-media\"></iframe><div class=\"figcaption\"></div></div>\n\t \t\t\t\t\t<!-- -->",
-    "tags": null
+    "tags": [
+      {
+        "curriculumYear": "2015",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "여러 가지 힘",
+        "confidence": "high"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "힘의 작용",
+        "confidence": "high"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "생성형 AI 도구",
+        "confidence": "high"
+      },
+      {
+        "category": "게시판별 분류",
+        "topic": "중학교 물리수업 이야기",
+        "confidence": "high"
+      }
+    ]
   },
   {
     "id": "fMHp-1575",
@@ -127,7 +377,32 @@
     "commentCnt": 4,
     "permlink": "https://cafe.daum.net/sedu22/fMHp/1575",
     "contentHtml": "<p style=\"text-align: left;\">제미나이노트북으로 생성해 보았습니다. 엄청 잘 만들어진건 아니지만, 혹시 사용하실 분 계실까 하여 공유해요.</p><p style=\"text-align: left;\">(별것 아닌데 용량 문제로 나누어 올립니다)</p><p style=\"text-align: left;\">&#160;</p><p style=\"text-align: left;\">7. 힘과 운동(알짜힘이 물체의 운동을 바꾸는 세 가지 방식)</p><div class=\"figure-video\" data-ke-type=\"video\" data-video-url=\"https://kakaotv.daum.net/embed/player/cliplink/rvf69fhbn5acudy1xn3hjeeb0?service=daum_cafe\" data-video-host=\"kakaotv\" data-video-play-service=\"daum_cafe\" data-video-width=\"712\" data-video-height=\"400\" data-ke-style=\"alignCenter\" data-video-thumbnail=\"https://thumb.kakaocdn.net/dna/kamp/source/rvf69fhbn5acudy1xn3hjeeb0/thumbs/2.jpg?credential=TuMuFGKUIcirOSjFzOpncbomGFEIdZWK&amp;expires=33346398942&amp;kamp_tidx=0&amp;signature=n%2BwxouTPN2LyhS29EQfrM6A9bfo%3D&amp;ts=1789490142\" data-ke-mobile-mobilestyle=\"widthContent\" data-video-origin-width=\"720\" data-video-origin-height=\"1280\"><iframe src=\"https://kakaotv.daum.net/embed/player/cliplink/rvf69fhbn5acudy1xn3hjeeb0?service=daum_cafe&amp;f=p&amp;ptoken=eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpZCI6InJ2ZjY5ZmhibjVhY3VkeTF4bjNoamVlYjAiLCJ0aWQiOiI5NDJkZWNhOS1jNTdiLTQxZGEtOGQ4NS1kODZlYzU1OTczZDUiLCJhcHBfaWQiOiJkYXVtX2NhZmUiLCJleHAiOjE3OTE3NjQ0MTl9.7qBFwPJ_vsLBG6z8tBRdjYpjXkXFxsex4_ZTepAefi3xwHZ_VTjK6SgqTcCpYb3tNgyUT5iCalWJmiKqr8YAkQ&amp;autoplay=0&amp;ptoken=eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpZCI6InJ2ZjY5ZmhibjVhY3VkeTF4bjNoamVlYjAiLCJ0aWQiOiI5NDJkZWNhOS1jNTdiLTQxZGEtOGQ4NS1kODZlYzU1OTczZDUiLCJhcHBfaWQiOiJkYXVtX2NhZmUiLCJleHAiOjE3OTE3NjQ0MTl9.7qBFwPJ_vsLBG6z8tBRdjYpjXkXFxsex4_ZTepAefi3xwHZ_VTjK6SgqTcCpYb3tNgyUT5iCalWJmiKqr8YAkQ&amp;autoplay=0\" width=\"712\" height=\"400\" frameborder=\"0\" scrolling=\"no\" allowfullscreen=\"\" allow=\"encrypted-media\"></iframe><div class=\"figcaption\"></div></div><p>8. 여러 가지 힘의 이용 (누르는 가위가 스스로 입을 벌리는 원리)</p><div class=\"figure-video\" data-ke-type=\"video\" data-video-url=\"https://kakaotv.daum.net/embed/player/cliplink/rvei7islofseyzh0v03lxn5mn?service=daum_cafe\" data-video-host=\"kakaotv\" data-video-play-service=\"daum_cafe\" data-video-width=\"712\" data-video-height=\"400\" data-ke-style=\"alignCenter\" data-video-thumbnail=\"https://thumb.kakaocdn.net/dna/kamp/source/rvei7islofseyzh0v03lxn5mn/thumbs/2.jpg?credential=TuMuFGKUIcirOSjFzOpncbomGFEIdZWK&amp;expires=33346398975&amp;kamp_tidx=0&amp;signature=lHkBTP3J4oh0cfNvM8VAUavTDTE%3D&amp;ts=1789490175\" data-ke-mobile-mobilestyle=\"widthContent\" data-video-origin-width=\"720\" data-video-origin-height=\"1280\"><iframe src=\"https://kakaotv.daum.net/embed/player/cliplink/rvei7islofseyzh0v03lxn5mn?service=daum_cafe&amp;f=p&amp;ptoken=eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpZCI6InJ2ZWk3aXNsb2ZzZXl6aDB2MDNseG41bW4iLCJ0aWQiOiI2ZjI2NTk5ZS0zYTMzLTRiZjgtYjcyMS04ZTExNzk4YzMxMzUiLCJhcHBfaWQiOiJkYXVtX2NhZmUiLCJleHAiOjE3OTE3NjQ0MTl9.qfZF5-iPY6NeNsb6E0ywvf2VTzRCDZi72AVNjZ5TQIBeaPOwnRdQUoEZqmvV1U4H5xiN8asRoR1VL4JOLbwWVQ&amp;autoplay=0&amp;ptoken=eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpZCI6InJ2ZWk3aXNsb2ZzZXl6aDB2MDNseG41bW4iLCJ0aWQiOiI2ZjI2NTk5ZS0zYTMzLTRiZjgtYjcyMS04ZTExNzk4YzMxMzUiLCJhcHBfaWQiOiJkYXVtX2NhZmUiLCJleHAiOjE3OTE3NjQ0MTl9.qfZF5-iPY6NeNsb6E0ywvf2VTzRCDZi72AVNjZ5TQIBeaPOwnRdQUoEZqmvV1U4H5xiN8asRoR1VL4JOLbwWVQ&amp;autoplay=0\" width=\"712\" height=\"400\" frameborder=\"0\" scrolling=\"no\" allowfullscreen=\"\" allow=\"encrypted-media\"></iframe><div class=\"figcaption\"></div></div><p>&#160;</p><p>&#160;</p>\n\t \t\t\t\t\t<!-- -->",
-    "tags": null
+    "tags": [
+      {
+        "curriculumYear": "2015",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "여러 가지 힘",
+        "confidence": "high"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "힘의 작용",
+        "confidence": "high"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "생성형 AI 도구",
+        "confidence": "high"
+      },
+      {
+        "category": "게시판별 분류",
+        "topic": "중학교 물리수업 이야기",
+        "confidence": "high"
+      }
+    ]
   },
   {
     "id": "fMHp-1576",
@@ -140,7 +415,32 @@
     "commentCnt": 1,
     "permlink": "https://cafe.daum.net/sedu22/fMHp/1576",
     "contentHtml": "<p>마찰력 수업 후 간단하게 마무리 할 수 있는 웹앱 공유드립니다!</p><p>일상생활 속 마찰력을 크게 하거나, 작게하는 사례를 분류해보고 마찰력의 크기를 조절하여 실생활 속에 사용할 수 있다고 하여 마무리 하였습니다!</p><div class=\"figure-file\" data-ke-type=\"file\" data-file-src=\"https://t1.daumcdn.net/cafeattach/1TaBA/e0a976353647dc6f94098d5376911a748894ad3f?download\" data-file-name=\"friction_pair_talk (1).html\" data-file-size=\"17995\" data-mimetype=\"text/html\" data-ke-align=\"alignCenter\"><a href=\"javascript:checkVirus('grpid%3D1TaBA%26fldid%3DfMHp%26dataid%3D1576%26fileid%3D1%26regdt%3D20260916082901&url=https%3A%2F%2Ft1.daumcdn.net%2Fcafeattach%2F1TaBA%2Fe0a976353647dc6f94098d5376911a748894ad3f')\"><div class=\"image\"></div><div class=\"desc\"><div class=\"filename\"><span class=\"name\">friction_pair_talk (1)</span><span class=\"type\">.html</span></div><div class=\"size\">17.57KB</div></div></a></div>\n\t \t\t\t\t\t<!-- -->",
-    "tags": null
+    "tags": [
+      {
+        "curriculumYear": "2015",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "여러 가지 힘",
+        "confidence": "high"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "힘의 작용",
+        "confidence": "high"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "앱/프로그램",
+        "confidence": "high"
+      },
+      {
+        "category": "게시판별 분류",
+        "topic": "중학교 물리수업 이야기",
+        "confidence": "high"
+      }
+    ]
   },
   {
     "id": "fMHp-1577",
@@ -153,7 +453,27 @@
     "commentCnt": 5,
     "permlink": "https://cafe.daum.net/sedu22/fMHp/1577",
     "contentHtml": "<p>재과만에서 용수철 컬링 수업을 하시는 것을 보고&#160;</p><p>저도 따라 해보았습니다.</p><div class=\"figure-img\" data-ke-type=\"image\" data-ke-style=\"alignCenter\" data-ke-mobilestyle=\"widthOrigin\"><img src=\"https://t1.daumcdn.net/cafeattach/1TaBA/efbe0fe66571405929f7da455ae325b423d67a9d\" class=\"txc-image\" width=\"195\" height=\"260\" data-img-src=\"https://t1.daumcdn.net/cafeattach/1TaBA/efbe0fe66571405929f7da455ae325b423d67a9d\" data-origin-width=\"3000\" data-origin-height=\"4000\"></div><p>&#160;</p><p><b>준비물:</b></p><p>1. 보드게임 컬링은 아래 링크의 지마켓에서 구입하였습니다.&#160;</p><p><a href=\"https://item.gmarket.co.kr/Item?spm=gmktpc.searchlist.cpc.d0_6.6eea121cnkSzwQ&amp;goodscode=4643952944&amp;buyboxtype=ad&amp;utparam-url=%7B%22x_object_type%22%3A%22item%22%2C%22adProduct%22%3A%22N%22%2C%22adSubProduct%22%3A%22A%22%2C%22trafficType%22%3A%22ad%22%2C%22ab_buckets%22%3A%22502560_%23global-experiment-layer%23551575_%23search-common-mechanism-l1%23548823_%23search-query-recommendation-l1%23550201_%23search-query-recommendation-l3%23555129_%23HsAbId%23441806_%23Ha3Env%231_%23TriggerEnv%231_%23RsEnv%231_%23SpAbId%23441767%22%2C%22pvid_sys%22%3A%22aidc%20server%22%2C%22pvid%22%3A%2228c281ef4bf34896b7156f6124a9db9b%22%2C%22search_session_id%22%3A%22aeab1e5c-d8f2-49c6-a233-fc1e02458681%22%2C%22x_object_id%22%3A%224643952944%22%2C%22query%22%3A%22%EC%BB%AC%EB%A7%81%22%2C%22origin_price%22%3A%2222500%22%2C%22promotion_price%22%3A%2222500%22%2C%22coupon_price%22%3A%22%22%7D\" target=\"_blank\" class=\"ke-link\">컬링 구입처</a></p><p>2. 모나미 볼펜: 형평성을 위하여 제공한 모나미볼펜만 사용하도록 했습니다. &#160;2인 1조로 모둠에서 A팀 B팀 나누어 팀당 1개 사용</p><p>&#160;</p><p><b>수업 흐름</b></p><p>1. 컬링에 대한 영상 시청 후 다음 질문에 대답해보기 (영상은 그 전차시에 미리 보고 오는걸 추천)</p><p><a href=\"https://www.youtube.com/watch?v=TXVntpi_hV4\" target=\"_blank\" class=\"ke-link\">https://www.youtube.com/watch?v=TXVntpi_hV4</a></p><p>&#160;(1) 컬링 스톤은 왜 얼음 위에서 잘 미끄러질까?</p><p>&#160;(2) 선수들은 왜 스톤이 지나갈 길을 브룸으로 닦을까?</p><p>2. 학습 목표 제시</p><p>3. 용수철 컬링 소개</p><p>4. 용수철 컬링 규칙: 용수철 컬링에서는 한차례에 5번 볼펜(용수철)을 튕겨서 한 스톤을 하우스 까지 전진시킬 수 있음을 꼭 강조하기</p><p>(보드게임 매트 위에서는 볼펜으로 했을 때 미는 힘이 약해서 한번에 하우스 까지 못갑니다. 5번 정도 하니까 대체적으로 하우스 까지 스톤이 도달했어요)</p><p>5. 점수내는 방법 안내</p><p>6. 모둠별로 스톤과 볼펜만 배부한 뒤 어떻게 하면 스톤을 더 멀리 보낼 수 있는지 토의하고 전략 기록하기</p><p>(학생들에게 볼펜의 각도를 어떻게 하는게 좋을지, 스톤의 어느 지점에 힘을 작용하면 좋을지 물어보면서 진행)</p><p>7. 매트 배부 후 실제 대결하기 (우승팀에게는 간단한 간식 제공)</p><p>8. 활동 정리하기</p><p>&#160;</p><div class=\"figure-file\" data-ke-type=\"file\" data-file-src=\"https://t1.daumcdn.net/cafeattach/1TaBA/659c130d4cdef2acfc5c9f629a09b01f45a2edd3?download\" data-file-name=\"용수철 컬링.pptx\" data-file-size=\"2844353\" data-mimetype=\"application/vnd.openxmlformats-officedocument.presentationml.presentation\" data-ke-align=\"alignCenter\"><a href=\"javascript:checkVirus('grpid%3D1TaBA%26fldid%3DfMHp%26dataid%3D1577%26fileid%3D2%26regdt%3D20260916192413&url=https%3A%2F%2Ft1.daumcdn.net%2Fcafeattach%2F1TaBA%2F659c130d4cdef2acfc5c9f629a09b01f45a2edd3')\"><div class=\"image\"></div><div class=\"desc\"><div class=\"filename\"><span class=\"name\">용수철 컬링</span><span class=\"type\">.pptx</span></div><div class=\"size\">2.71MB</div></div></a></div>\n\t \t\t\t\t\t<!-- -->",
-    "tags": null
+    "tags": [
+      {
+        "curriculumYear": "2015",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "여러 가지 힘",
+        "confidence": "high"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "힘의 작용",
+        "confidence": "high"
+      },
+      {
+        "category": "게시판별 분류",
+        "topic": "중학교 물리수업 이야기",
+        "confidence": "high"
+      }
+    ]
   },
   {
     "id": "fMHp-1572",
@@ -166,7 +486,32 @@
     "commentCnt": 6,
     "permlink": "https://cafe.daum.net/sedu22/fMHp/1572",
     "contentHtml": "<div class=\"figure-img\" data-ke-type=\"image\" data-ke-style=\"alignCenter\" data-ke-mobilestyle=\"widthOrigin\"><img src=\"https://t1.daumcdn.net/cafeattach/1TaBA/a6bc89c537202738155fbb10837c0e5db445e0f1\" class=\"txc-image\" data-img-src=\"https://t1.daumcdn.net/cafeattach/1TaBA/a6bc89c537202738155fbb10837c0e5db445e0f1\" data-origin-width=\"1851\" data-origin-height=\"870\"></div><p>안녕하세요, 선생님들!<br>전압/전류/저항, 옴의 법칙, 직렬/병렬 연결을 복습하는 웹앱을 만들어 공유합니다.</p><p>동물의 숲 느낌의 마을에서 주민들의 부탁을 해결하는 게임입니다.</p><p>이 파트를 아이들과 함께 공부하다 보니 학생들도 많이 지쳐보여서 힐링을 위해 만들기 위해 배움 요소를 줄이려 했으나</p><p>학생 스스로 무엇을 배우고 어떤 사고를 했는지 작성했으면 하는 마음이 발동해버렸습니다.&#160;</p><p>모둠원끼리 같이 임무를 수행하도록 해서 모둠의 탐구일지를 발표해도 좋을 것 같아요^^&#160;</p><p>“장치에 0.3 A가 흐르게 해 줘!”<br>“실내등은 켜 두고 테라스등만 끄고 싶어!”</p><p>학생들은 스위치를 직접 누르고, 장치를 끌어 연결하고, 전압과 저항을 조절하며 해결 방법을 찾습니다. 부탁을 해결하면 선물을 받고 어두운 섬에 불빛이 돌아옵니다.</p><p>측정값과 함께 ‘어떻게 해결했는지, 어떤 결과가 근거인지, 다른 상황에는 어떻게 적용할지’를 적으면 제출용 탐험일지가 완성됩니다.</p><p>&#8226; 복습은 1차시, 처음 배우는 경우는 2차시 활용을 목표로 구성했습니다.<br>&#8226; 디벗·태블릿·PC에서 설치와 회원가입 없이 사용할 수 있습니다.<br>&#8226; 진행 내용은 해당 기기의 브라우저에 저장됩니다.<br>&#8226; 탐험일지는 HTML 파일이나 인쇄·PDF로 제출할 수 있습니다.</p><p>바로가기<br><a href=\"https://scienceisjo.github.io/electricity/sparkle-island/\" target=\"_top\" class=\"ke-link\">https://scienceisjo.github.io/electricity/sparkle-island/</a></p><p>활용해 보시고 학생들이 어려워하는 부분이나 개선 의견을 알려 주시면 감사하겠습니다!</p><p>&#160;</p><p>배경음악 키고 플레이하시며 힐링하시길 바래요^^</p><div class=\"figure-img\" data-ke-type=\"image\" data-ke-style=\"alignCenter\" data-ke-mobilestyle=\"widthOrigin\"><img src=\"https://t1.daumcdn.net/cafeattach/1TaBA/a5b47b29e3df6f5088ee2159784bcee9a18134d1\" class=\"txc-image\" data-img-src=\"https://t1.daumcdn.net/cafeattach/1TaBA/a5b47b29e3df6f5088ee2159784bcee9a18134d1\" data-origin-width=\"1849\" data-origin-height=\"872\"></div>\n\t \t\t\t\t\t<!-- -->",
-    "tags": null
+    "tags": [
+      {
+        "curriculumYear": "2015",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "전기와 자기",
+        "confidence": "high"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "전기와 자기",
+        "confidence": "high"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "앱/프로그램",
+        "confidence": "high"
+      },
+      {
+        "category": "게시판별 분류",
+        "topic": "중학교 물리수업 이야기",
+        "confidence": "high"
+      }
+    ]
   },
   {
     "id": "fMHp-1571",
@@ -179,7 +524,32 @@
     "commentCnt": 2,
     "permlink": "https://cafe.daum.net/sedu22/fMHp/1571",
     "contentHtml": "<div class=\"figure-img\" data-ke-type=\"image\" data-ke-style=\"alignCenter\" data-ke-mobilestyle=\"widthOrigin\"><img src=\"https://t1.daumcdn.net/cafeattach/1TaBA/b215bf61d9b53dca3b4e80de3c0b441767595047\" class=\"txc-image\" data-img-src=\"https://t1.daumcdn.net/cafeattach/1TaBA/b215bf61d9b53dca3b4e80de3c0b441767595047\" data-origin-width=\"300\" data-origin-height=\"198\"></div><p>그림은 부피가 같고 무게가 다른 물체 <span data-ke-size=\"size18\">A~D</span>가 물에 잠긴 모습을 나타낸 것이다. <span data-ke-size=\"size18\">A~D</span> <span data-ke-size=\"size18\">물체의</span> 부력의 크기를 부등호로 비교하시오.</p><p>&#160;</p><p>라는 문제들이 시중 문제집에 많이 나옵니다.&#160;</p><p>정답은&#160; A&lt;B&lt;C=D 로 나오는데요.&#160;</p><p>D의 경우 바닥에 닿아 가라&#50522;아있으므로 부력이 0인 것이 아니냐는 의견이 나와서 여쭤봅니다.&#160;</p><p>D가 바닥과 살짝 떠있다면 부력이 C와 같겠지만, 바닥에 닿아접촉해있다면 D의 윗면과 아랫면 사이의 수압 차이가 발생하지 못하므로 부력이 0이 되는 것이 아닌가요?&#160;</p><p>&#160;</p><p>챗&#160; gpt에게 물어보니 아래와 같은 답변을 주었습니다. 무엇이 맞는 건인지 알려주세요~</p><div class=\"figure-img\" data-ke-type=\"image\" data-ke-style=\"alignCenter\" data-ke-mobilestyle=\"widthOrigin\"><img src=\"https://t1.daumcdn.net/cafeattach/1TaBA/d651e75c8886ca65b0a79c2c5be5d6bbf852e839\" class=\"txc-image\" data-img-src=\"https://t1.daumcdn.net/cafeattach/1TaBA/d651e75c8886ca65b0a79c2c5be5d6bbf852e839\" data-origin-width=\"1028\" data-origin-height=\"647\"></div><p>&#160;</p>\n\t \t\t\t\t\t<!-- -->",
-    "tags": null
+    "tags": [
+      {
+        "curriculumYear": "2015",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "여러 가지 힘",
+        "confidence": "high"
+      },
+      {
+        "curriculumYear": "2022",
+        "schoolLevel": "중학교",
+        "subject": "과학",
+        "unit": "힘의 작용",
+        "confidence": "high"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "생성형 AI 도구",
+        "confidence": "low"
+      },
+      {
+        "category": "게시판별 분류",
+        "topic": "중학교 물리수업 이야기",
+        "confidence": "high"
+      }
+    ]
   },
   {
     "id": "fMHp-1569",

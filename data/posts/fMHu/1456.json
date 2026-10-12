@@ -11,5 +11,33 @@
   "headCont": "동물과 에너지",
   "contentval": "000NUzzzzzzzzzzzzzzzzzzzzzzzzz",
   "permlink": "https://cafe.daum.net/sedu22/fMHu/1456",
-  "contentHtml": "<div class=\"figure-file\" data-ke-type=\"file\" data-file-src=\"https://t1.daumcdn.net/cafeattach/1TaBA/a0fe1be7d772007a5ef997f7ebc64cea5a43ccb8?download\" data-file-name=\"소순호배 통합적 이해.pdf\" data-file-size=\"228790\" data-mimetype=\"application/pdf\" data-ke-align=\"alignLeft\"><a href=\"javascript:checkVirus('grpid%3D1TaBA%26fldid%3DfMHu%26dataid%3D1456%26fileid%3D1%26regdt%3D20261006131001&url=https%3A%2F%2Ft1.daumcdn.net%2Fcafeattach%2F1TaBA%2Fa0fe1be7d772007a5ef997f7ebc64cea5a43ccb8')\"><div class=\"image\"></div><div class=\"desc\"><div class=\"filename\"><span class=\"name\">소순호배 통합적 이해</span><span class=\"type\">.pdf</span></div><div class=\"size\">223.43KB</div></div></a></div><p>안녕하세요^^<br>중2 6단원 동물과에너지 마지막에</p><p>소화계, 순환계, 호흡계, 배설계를 배운 후에&#160;<br>각각이 어떻게 연관되어있는지 알아보는 활동지를 만들었습니다.</p><p>각각을 수업할 때는 시물레이션 웹앱을 만들어서 했지만<br>마무리는 직접 생각하면서 하게 하고 싶었습니다.<br>2인1조로 하게 했는데, 개별로 해도 될 것 같습니다.^^<br><br>&lt;앞면&gt;<br>각 물질의 이동을 모형으로 표현하기(매직을 사용하니까 뒷면에 표시가 되어서 단면으로 인쇄해서 줄 걸~~ 이란 생각을 했습니다.)<br>&lt;뒷면&gt;<br>질문을 통해서 이해하고, 글쓰기로 생각정리하게 하고, 성찰을 하게 했습니다.</p><p>&#160;</p><p>분량은 1차시 수업입니다.^^</p><p>&#160;</p>\n\t \t\t\t\t\t<!-- -->"
+  "contentHtml": "<div class=\"figure-file\" data-ke-type=\"file\" data-file-src=\"https://t1.daumcdn.net/cafeattach/1TaBA/a0fe1be7d772007a5ef997f7ebc64cea5a43ccb8?download\" data-file-name=\"소순호배 통합적 이해.pdf\" data-file-size=\"228790\" data-mimetype=\"application/pdf\" data-ke-align=\"alignLeft\"><a href=\"javascript:checkVirus('grpid%3D1TaBA%26fldid%3DfMHu%26dataid%3D1456%26fileid%3D1%26regdt%3D20261006131001&url=https%3A%2F%2Ft1.daumcdn.net%2Fcafeattach%2F1TaBA%2Fa0fe1be7d772007a5ef997f7ebc64cea5a43ccb8')\"><div class=\"image\"></div><div class=\"desc\"><div class=\"filename\"><span class=\"name\">소순호배 통합적 이해</span><span class=\"type\">.pdf</span></div><div class=\"size\">223.43KB</div></div></a></div><p>안녕하세요^^<br>중2 6단원 동물과에너지 마지막에</p><p>소화계, 순환계, 호흡계, 배설계를 배운 후에&#160;<br>각각이 어떻게 연관되어있는지 알아보는 활동지를 만들었습니다.</p><p>각각을 수업할 때는 시물레이션 웹앱을 만들어서 했지만<br>마무리는 직접 생각하면서 하게 하고 싶었습니다.<br>2인1조로 하게 했는데, 개별로 해도 될 것 같습니다.^^<br><br>&lt;앞면&gt;<br>각 물질의 이동을 모형으로 표현하기(매직을 사용하니까 뒷면에 표시가 되어서 단면으로 인쇄해서 줄 걸~~ 이란 생각을 했습니다.)<br>&lt;뒷면&gt;<br>질문을 통해서 이해하고, 글쓰기로 생각정리하게 하고, 성찰을 하게 했습니다.</p><p>&#160;</p><p>분량은 1차시 수업입니다.^^</p><p>&#160;</p>\n\t \t\t\t\t\t<!-- -->",
+  "tags": [
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "동물과 에너지",
+      "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "동물과 에너지",
+      "confidence": "high"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "앱/프로그램",
+      "confidence": "medium"
+    },
+    {
+      "category": "게시판별 분류",
+      "topic": "중학교 생물수업 이야기",
+      "confidence": "high"
+    }
+  ],
+  "tagsNote": "기관계 통합 이해 활동지, 시뮬레이션 웹앱 병행.",
+  "taggedAt": "2026-10-12T00:58:55.562Z"
 }

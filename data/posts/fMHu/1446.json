@@ -11,5 +11,28 @@
   "headCont": "",
   "contentval": "000NKzzzzzzzzzzzzzzzzzzzzzzzzz",
   "permlink": "https://cafe.daum.net/sedu22/fMHu/1446",
-  "contentHtml": "<p>젤리로 실험하려고 하는데 선생님들 어떤 제품 사용하셨는지 여쭤봐도 될까요? 종류가 너무 많고 교과서에 나온 젤리는 찾기가 힘드네요.<br>여러가지 맛 아무거나 사도 실험이 될까요?</p>\n\t \t\t\t\t\t<!-- -->"
+  "contentHtml": "<p>젤리로 실험하려고 하는데 선생님들 어떤 제품 사용하셨는지 여쭤봐도 될까요? 종류가 너무 많고 교과서에 나온 젤리는 찾기가 힘드네요.<br>여러가지 맛 아무거나 사도 실험이 될까요?</p>\n\t \t\t\t\t\t<!-- -->",
+  "tags": [
+    {
+      "curriculumYear": "2015",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "자극과 반응",
+      "confidence": "high"
+    },
+    {
+      "curriculumYear": "2022",
+      "schoolLevel": "중학교",
+      "subject": "과학",
+      "unit": "자극과 반응",
+      "confidence": "high"
+    },
+    {
+      "category": "게시판별 분류",
+      "topic": "중학교 생물수업 이야기",
+      "confidence": "high"
+    }
+  ],
+  "tagsNote": "미각·후각 실험용 젤리 문의.",
+  "taggedAt": "2026-10-12T00:58:55.556Z"
 }
