@@ -31,8 +31,18 @@
       "subject": "과학",
       "unit": "동물과 에너지",
       "confidence": "high"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "앱/프로그램",
+      "confidence": "medium"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "교육용 단말기(태블릿/크롬북)",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "실제 실험 전 활용할 영양소 검출 가상실험 학습지 제작 공유.",
-  "taggedAt": "2026-08-13T04:28:48.938Z"
+  "tagsNote": "실제 실험 전 활용할 영양소 검출 가상실험 학습지 제작 공유. / 영양소 검출 가상실험을 태블릿·QR로 진행.",
+  "taggedAt": "2026-10-12T01:05:37.412Z"
 }

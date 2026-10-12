@@ -31,8 +31,13 @@
       "subject": "과학",
       "unit": "동물과 에너지",
       "confidence": "high"
+    },
+    {
+      "category": "수업 방법론",
+      "topic": "거꾸로 교실",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "모둠별 탐구 중심 호흡계 활동지 공유.",
-  "taggedAt": "2026-08-13T04:24:17.214Z"
+  "tagsNote": "모둠별 탐구 중심 호흡계 활동지 공유. / 거꾸로 수업을 시도해 본 경험과 모둠 활동 수업.",
+  "taggedAt": "2026-10-12T01:05:37.374Z"
 }

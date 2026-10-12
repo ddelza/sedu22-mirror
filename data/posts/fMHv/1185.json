@@ -31,8 +31,13 @@
       "subject": "과학",
       "unit": "태양계",
       "confidence": "high"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "앱/프로그램",
+      "confidence": "low"
     }
   ],
-  "tagsNote": "강력한 태양계 시뮬레이션 홈페이지 소개.",
-  "taggedAt": "2026-08-13T04:59:30.946Z"
+  "tagsNote": "강력한 태양계 시뮬레이션 홈페이지 소개. / 태양계 시뮬레이션 홈페이지 소개.",
+  "taggedAt": "2026-10-12T01:05:37.484Z"
 }

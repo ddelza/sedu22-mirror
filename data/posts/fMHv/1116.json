@@ -31,8 +31,13 @@
       "subject": "과학",
       "unit": "별과 우주",
       "confidence": "high"
+    },
+    {
+      "category": "과학교사 업무",
+      "topic": "교원연수",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "천체 학습용 카드게임(catch me if you can) 제작 공유.",
-  "taggedAt": "2026-08-13T04:58:05.165Z"
+  "tagsNote": "천체 학습용 카드게임(catch me if you can) 제작 공유. / 보드게임 원격연수를 이수하고 수업에 적용.",
+  "taggedAt": "2026-10-12T01:05:37.465Z"
 }

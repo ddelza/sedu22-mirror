@@ -31,8 +31,18 @@
       "subject": "과학",
       "unit": "지권의 변화",
       "confidence": "high"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "앱/프로그램",
+      "confidence": "medium"
+    },
+    {
+      "category": "과학교사 업무",
+      "topic": "교원연수",
+      "confidence": "low"
     }
   ],
-  "tagsNote": "마인크래프트를 활용한 암석과 광물 수업 소개.",
-  "taggedAt": "2026-08-13T04:31:44.151Z"
+  "tagsNote": "마인크래프트를 활용한 암석과 광물 수업 소개. / 마인크래프트 에듀케이션 활용, 연수에서 사용법을 익힘.",
+  "taggedAt": "2026-10-12T01:05:37.433Z"
 }

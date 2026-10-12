@@ -31,8 +31,18 @@
       "subject": "과학",
       "unit": "빛과 파동",
       "confidence": "high"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "AR/VR",
+      "confidence": "low"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "앱/프로그램",
+      "confidence": "low"
     }
   ],
-  "tagsNote": "증강현실을 이용한 빛의 굴절 실험 자료 공유.",
-  "taggedAt": "2026-08-13T04:25:43.096Z"
+  "tagsNote": "증강현실을 이용한 빛의 굴절 실험 자료 공유. / 사이언스 레벨업의 증강현실 마커·앱 소개.",
+  "taggedAt": "2026-10-12T01:05:37.386Z"
 }

@@ -31,8 +31,13 @@
       "subject": "과학",
       "unit": "동물과 에너지",
       "confidence": "high"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "앱/프로그램",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "3D 인체 구조 확인용 구글바디(zygotebody) 사이트 소개.",
-  "taggedAt": "2026-08-13T04:28:48.941Z"
+  "tagsNote": "3D 인체 구조 확인용 구글바디(zygotebody) 사이트 소개. / 3D 인체 사이트(구글바디) 소개.",
+  "taggedAt": "2026-10-12T01:05:37.414Z"
 }

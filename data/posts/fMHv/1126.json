@@ -36,8 +36,18 @@
       "category": "스마트 수업도구",
       "topic": "AR/VR",
       "confidence": "high"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "앱/프로그램",
+      "confidence": "medium"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "교육용 단말기(태블릿/크롬북)",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "태양계 여행 팜플렛 만들기에 활용한 AR 어플 추천 공유.",
-  "taggedAt": "2026-08-13T04:58:05.173Z"
+  "tagsNote": "태양계 여행 팜플렛 만들기에 활용한 AR 어플 추천 공유. / 갤럭시탭과 어플로 태양계 학습.",
+  "taggedAt": "2026-10-12T01:05:37.469Z"
 }

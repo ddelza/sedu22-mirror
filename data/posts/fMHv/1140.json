@@ -31,8 +31,13 @@
       "subject": "과학",
       "unit": "태양계",
       "confidence": "medium"
+    },
+    {
+      "category": "수업 방법론",
+      "topic": "토론수업",
+      "confidence": "low"
     }
   ],
-  "tagsNote": "러블리즈 'destiny' 노래 가사를 활용한 수업 진행 후기.",
-  "taggedAt": "2026-08-13T04:58:05.184Z"
+  "tagsNote": "러블리즈 'destiny' 노래 가사를 활용한 수업 진행 후기. / 노래 분석 후 모둠별 토론.",
+  "taggedAt": "2026-10-12T01:05:37.473Z"
 }

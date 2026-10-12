@@ -31,8 +31,13 @@
       "subject": "과학",
       "unit": "자극과 반응",
       "confidence": "high"
+    },
+    {
+      "category": "과학교사 업무",
+      "topic": "학급운영",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "자극과 반응 수업 활동지 공유.",
-  "taggedAt": "2026-08-13T04:25:43.086Z"
+  "tagsNote": "자극과 반응 수업 활동지 공유. / 학습지 완성도에 따라 도장판에 도장을 주는 구조적 보상 제도.",
+  "taggedAt": "2026-10-12T01:05:37.383Z"
 }

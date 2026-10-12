@@ -36,8 +36,13 @@
       "category": "스마트 수업도구",
       "topic": "AR/VR",
       "confidence": "high"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "앱/프로그램",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "노트북 웹캠을 이용한 태양계 입체 관찰(AR) 프로그램 활용 공유.",
-  "taggedAt": "2026-08-13T04:58:05.187Z"
+  "tagsNote": "노트북 웹캠을 이용한 태양계 입체 관찰(AR) 프로그램 활용 공유. / 태양계 AR 프로그램을 웹캠으로 활용.",
+  "taggedAt": "2026-10-12T01:05:37.474Z"
 }

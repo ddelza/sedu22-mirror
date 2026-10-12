@@ -4845,6 +4845,16 @@
         "subject": null,
         "unit": "미분류",
         "confidence": "medium"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "앱/프로그램",
+        "confidence": "medium"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "메이커/3D프린팅",
+        "confidence": "low"
       }
     ]
   },
@@ -28970,6 +28980,11 @@
         "subject": "과학",
         "unit": "지권의 변화",
         "confidence": "high"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "앱/프로그램",
+        "confidence": "low"
       }
     ]
   },
@@ -29300,6 +29315,11 @@
         "subject": "과학",
         "unit": "지권의 변화",
         "confidence": "high"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "앱/프로그램",
+        "confidence": "low"
       }
     ]
   },
@@ -30316,6 +30336,11 @@
         "category": "스마트 수업도구",
         "topic": "앱/프로그램",
         "confidence": "high"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "교육용 단말기(태블릿/크롬북)",
+        "confidence": "medium"
       }
     ]
   },
@@ -32021,6 +32046,11 @@
         "subject": "과학",
         "unit": "날씨와 기후변화",
         "confidence": "medium"
+      },
+      {
+        "category": "과학교사 업무",
+        "topic": "교원연수",
+        "confidence": "medium"
       }
     ]
   },
@@ -32229,6 +32259,16 @@
         "category": "스마트 수업도구",
         "topic": "AR/VR",
         "confidence": "high"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "앱/프로그램",
+        "confidence": "medium"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "교육용 단말기(태블릿/크롬북)",
+        "confidence": "medium"
       }
     ]
   },
@@ -33971,6 +34011,16 @@
         "subject": "과학",
         "unit": "지권의 변화",
         "confidence": "high"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "앱/프로그램",
+        "confidence": "medium"
+      },
+      {
+        "category": "과학교사 업무",
+        "topic": "교원연수",
+        "confidence": "low"
       }
     ]
   },
@@ -34530,6 +34580,11 @@
         "subject": "과학",
         "unit": "별과 우주",
         "confidence": "high"
+      },
+      {
+        "category": "과학교사 업무",
+        "topic": "교원연수",
+        "confidence": "medium"
       }
     ]
   },
@@ -34766,6 +34821,11 @@
         "subject": "과학",
         "unit": "태양계",
         "confidence": "high"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "앱/프로그램",
+        "confidence": "medium"
       }
     ]
   },
@@ -34931,6 +34991,11 @@
         "subject": "과학",
         "unit": "수권과 해수의 순환",
         "confidence": "high"
+      },
+      {
+        "category": "과학교사 업무",
+        "topic": "영재교육",
+        "confidence": "low"
       }
     ]
   },
@@ -35106,6 +35171,11 @@
         "category": "스마트 수업도구",
         "topic": "AR/VR",
         "confidence": "high"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "앱/프로그램",
+        "confidence": "medium"
       }
     ]
   },
@@ -35177,6 +35247,11 @@
         "category": "스마트 수업도구",
         "topic": "AR/VR",
         "confidence": "high"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "앱/프로그램",
+        "confidence": "medium"
       }
     ]
   },
@@ -35408,6 +35483,11 @@
         "subject": "과학",
         "unit": "태양계",
         "confidence": "medium"
+      },
+      {
+        "category": "수업 방법론",
+        "topic": "토론수업",
+        "confidence": "low"
       }
     ]
   },
@@ -35507,6 +35587,11 @@
         "subject": "과학",
         "unit": "날씨와 기후변화",
         "confidence": "high"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "MBL센서",
+        "confidence": "medium"
       }
     ]
   },
@@ -35540,6 +35625,11 @@
         "subject": "과학",
         "unit": "날씨와 기후변화",
         "confidence": "high"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "MBL센서",
+        "confidence": "medium"
       }
     ]
   },
@@ -38857,6 +38947,11 @@
         "subject": "과학",
         "unit": "수권과 해수의 순환",
         "confidence": "high"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "앱/프로그램",
+        "confidence": "medium"
       }
     ]
   },
@@ -39135,6 +39230,11 @@
         "subject": "과학",
         "unit": "태양계",
         "confidence": "high"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "앱/프로그램",
+        "confidence": "medium"
       }
     ]
   },
@@ -39498,6 +39598,11 @@
         "subject": "과학",
         "unit": "태양계",
         "confidence": "high"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "앱/프로그램",
+        "confidence": "low"
       }
     ]
   },
@@ -43718,6 +43823,11 @@
         "subject": "과학",
         "unit": "날씨와 기후변화",
         "confidence": "high"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "앱/프로그램",
+        "confidence": "low"
       }
     ]
   },
@@ -43963,6 +44073,16 @@
         "subject": "과학",
         "unit": "태양계",
         "confidence": "high"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "앱/프로그램",
+        "confidence": "medium"
+      },
+      {
+        "category": "과학교사 업무",
+        "topic": "교원연수",
+        "confidence": "low"
       }
     ]
   },
@@ -51627,6 +51747,11 @@
         "subject": null,
         "unit": "미분류",
         "confidence": "medium"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "교육용 단말기(태블릿/크롬북)",
+        "confidence": "low"
       }
     ]
   },

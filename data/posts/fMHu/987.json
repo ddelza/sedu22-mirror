@@ -31,8 +31,13 @@
       "subject": "과학",
       "unit": "생식과 유전",
       "confidence": "high"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "앱/프로그램",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "멘델의 분리의 법칙·우열관계 확인 프로그램 공유.",
-  "taggedAt": "2026-08-13T04:31:44.142Z"
+  "tagsNote": "멘델의 분리의 법칙·우열관계 확인 프로그램 공유. / 멘델 분리의 법칙 프로그램.",
+  "taggedAt": "2026-10-12T01:05:37.429Z"
 }

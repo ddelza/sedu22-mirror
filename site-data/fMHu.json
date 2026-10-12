@@ -6463,6 +6463,16 @@
         "subject": "과학",
         "unit": "동물과 에너지",
         "confidence": "high"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "앱/프로그램",
+        "confidence": "medium"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "교육용 단말기(태블릿/크롬북)",
+        "confidence": "medium"
       }
     ]
   },
@@ -11998,6 +12008,11 @@
         "subject": "과학",
         "unit": "식물과 에너지",
         "confidence": "high"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "앱/프로그램",
+        "confidence": "medium"
       }
     ]
   },
@@ -12673,6 +12688,11 @@
         "subject": "과학",
         "unit": "생물의 구성과 다양성",
         "confidence": "high"
+      },
+      {
+        "category": "과학교사 업무",
+        "topic": "교원연수",
+        "confidence": "medium"
       }
     ]
   },
@@ -14010,6 +14030,11 @@
         "subject": "과학",
         "unit": "동물과 에너지",
         "confidence": "high"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "생성형 AI 도구",
+        "confidence": "low"
       }
     ]
   },
@@ -17346,6 +17371,11 @@
         "subject": "과학",
         "unit": "생물의 구성과 다양성",
         "confidence": "high"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "교육용 단말기(태블릿/크롬북)",
+        "confidence": "medium"
       }
     ]
   },
@@ -17768,6 +17798,11 @@
         "subject": "과학",
         "unit": "생물의 구성과 다양성",
         "confidence": "high"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "앱/프로그램",
+        "confidence": "medium"
       }
     ]
   },
@@ -21503,6 +21538,11 @@
         "category": "스마트 수업도구",
         "topic": "구글도구",
         "confidence": "high"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "앱/프로그램",
+        "confidence": "low"
       }
     ]
   },
@@ -22069,6 +22109,11 @@
         "subject": "과학",
         "unit": "생물의 구성과 다양성",
         "confidence": "high"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "앱/프로그램",
+        "confidence": "low"
       }
     ]
   },
@@ -22465,6 +22510,11 @@
         "subject": "과학",
         "unit": "생물의 구성과 다양성",
         "confidence": "high"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "구글도구",
+        "confidence": "low"
       }
     ]
   },
@@ -22597,6 +22647,11 @@
         "subject": "과학",
         "unit": "생물의 구성과 다양성",
         "confidence": "high"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "구글도구",
+        "confidence": "medium"
       }
     ]
   },
@@ -22663,6 +22718,16 @@
         "subject": "과학",
         "unit": "생물의 구성과 다양성",
         "confidence": "high"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "앱/프로그램",
+        "confidence": "medium"
+      },
+      {
+        "category": "과학교사 업무",
+        "topic": "교원연수",
+        "confidence": "low"
       }
     ]
   },
@@ -28094,6 +28159,16 @@
         "subject": "과학",
         "unit": "동물과 에너지",
         "confidence": "high"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "메이커/3D프린팅",
+        "confidence": "low"
+      },
+      {
+        "category": "과학교사 업무",
+        "topic": "과학 행사",
+        "confidence": "medium"
       }
     ]
   },
@@ -30408,6 +30483,11 @@
         "subject": "과학",
         "unit": "자극과 반응",
         "confidence": "high"
+      },
+      {
+        "category": "과학교사 업무",
+        "topic": "학급운영",
+        "confidence": "medium"
       }
     ]
   },
@@ -31594,6 +31674,11 @@
         "subject": "과학",
         "unit": "동물과 에너지",
         "confidence": "high"
+      },
+      {
+        "category": "수업 방법론",
+        "topic": "거꾸로 교실",
+        "confidence": "low"
       }
     ]
   },
@@ -32070,6 +32155,11 @@
         "subject": "과학",
         "unit": "동물과 에너지",
         "confidence": "high"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "앱/프로그램",
+        "confidence": "medium"
       }
     ]
   },
@@ -32943,6 +33033,11 @@
         "subject": "과학",
         "unit": "동물과 에너지",
         "confidence": "high"
+      },
+      {
+        "category": "수업 방법론",
+        "topic": "배움중심수업",
+        "confidence": "medium"
       }
     ]
   },
@@ -33880,6 +33975,11 @@
         "subject": "과학",
         "unit": "동물과 에너지",
         "confidence": "high"
+      },
+      {
+        "category": "과학교사 업무",
+        "topic": "교원연수",
+        "confidence": "medium"
       }
     ]
   },
@@ -34012,6 +34112,11 @@
         "subject": "과학",
         "unit": "생식과 유전",
         "confidence": "high"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "앱/프로그램",
+        "confidence": "low"
       }
     ]
   },
@@ -34281,6 +34386,11 @@
         "subject": "과학",
         "unit": "생식과 유전",
         "confidence": "high"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "앱/프로그램",
+        "confidence": "medium"
       }
     ]
   },
@@ -34791,6 +34901,11 @@
         "subject": "과학",
         "unit": "동물과 에너지",
         "confidence": "high"
+      },
+      {
+        "category": "수업 방법론",
+        "topic": "거꾸로 교실",
+        "confidence": "low"
       }
     ]
   },
@@ -35158,6 +35273,11 @@
       {
         "category": "스마트 수업도구",
         "topic": "AR/VR",
+        "confidence": "medium"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "앱/프로그램",
         "confidence": "medium"
       }
     ]
@@ -36116,6 +36236,11 @@
         "subject": "과학",
         "unit": "자극과 반응",
         "confidence": "high"
+      },
+      {
+        "category": "수업 방법론",
+        "topic": "토론수업",
+        "confidence": "high"
       }
     ]
   },
@@ -36512,6 +36637,16 @@
         "subject": "과학",
         "unit": "빛과 파동",
         "confidence": "high"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "AR/VR",
+        "confidence": "low"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "앱/프로그램",
+        "confidence": "low"
       }
     ]
   },
@@ -36842,6 +36977,11 @@
         "subject": "과학",
         "unit": "자극과 반응",
         "confidence": "medium"
+      },
+      {
+        "category": "수업 방법론",
+        "topic": "거꾸로 교실",
+        "confidence": "medium"
       }
     ]
   },
@@ -37045,6 +37185,11 @@
         "subject": "과학",
         "unit": "자극과 반응",
         "confidence": "high"
+      },
+      {
+        "category": "수업 방법론",
+        "topic": "토론수업",
+        "confidence": "medium"
       }
     ]
   },
@@ -41130,6 +41275,11 @@
         "subject": "과학",
         "unit": "동물과 에너지",
         "confidence": "high"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "앱/프로그램",
+        "confidence": "medium"
       }
     ]
   },
@@ -42801,6 +42951,11 @@
         "category": "스마트 수업도구",
         "topic": "앱/프로그램",
         "confidence": "medium"
+      },
+      {
+        "category": "과학교사 업무",
+        "topic": "교원연수",
+        "confidence": "low"
       }
     ]
   },
@@ -44528,6 +44683,11 @@
         "subject": "과학",
         "unit": "동물과 에너지",
         "confidence": "high"
+      },
+      {
+        "category": "과학교사 업무",
+        "topic": "동아리 운영",
+        "confidence": "medium"
       }
     ]
   },
@@ -45518,6 +45678,11 @@
         "subject": "과학",
         "unit": "동물과 에너지",
         "confidence": "high"
+      },
+      {
+        "category": "수업 방법론",
+        "topic": "거꾸로 교실",
+        "confidence": "medium"
       }
     ]
   },
@@ -46284,6 +46449,11 @@
         "subject": "과학",
         "unit": "자극과 반응",
         "confidence": "high"
+      },
+      {
+        "category": "과학교사 업무",
+        "topic": "교원연수",
+        "confidence": "medium"
       }
     ]
   },
@@ -46475,6 +46645,11 @@
         "subject": "과학",
         "unit": "동물과 에너지",
         "confidence": "high"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "앱/프로그램",
+        "confidence": "low"
       }
     ]
   },

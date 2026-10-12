@@ -31,8 +31,13 @@
       "subject": "과학",
       "unit": "날씨와 기후변화",
       "confidence": "high"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "MBL센서",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "간단한 방법으로 공기의 무게를 측정하는 아이디어 공유.",
-  "taggedAt": "2026-08-13T04:33:14.095Z"
+  "tagsNote": "간단한 방법으로 공기의 무게를 측정하는 아이디어 공유. / 스마트폰 압력 측정으로 공기 무게 측정.",
+  "taggedAt": "2026-10-12T01:05:37.444Z"
 }

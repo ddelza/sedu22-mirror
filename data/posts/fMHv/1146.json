@@ -36,8 +36,13 @@
       "category": "스마트 수업도구",
       "topic": "AR/VR",
       "confidence": "high"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "앱/프로그램",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "SolarAR 앱을 이용한 태양계 행성 증강현실 관찰 수업 공유.",
-  "taggedAt": "2026-08-13T04:58:05.188Z"
+  "tagsNote": "SolarAR 앱을 이용한 태양계 행성 증강현실 관찰 수업 공유. / SolarAR 태양계 증강현실 앱.",
+  "taggedAt": "2026-10-12T01:05:37.475Z"
 }
