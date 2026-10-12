@@ -24,8 +24,18 @@
       "subject": null,
       "unit": "미분류",
       "confidence": "low"
+    },
+    {
+      "category": "과학교사 업무",
+      "topic": "교원연수",
+      "confidence": "low"
+    },
+    {
+      "category": "수업 방법론",
+      "topic": "배움중심수업",
+      "confidence": "low"
     }
   ],
-  "tagsNote": "중간고사 직전 자습 대신 진행한 연수 아이디어 활동 소개(특정 단원과 무관).",
-  "taggedAt": "2026-08-13T12:51:02.875Z"
+  "tagsNote": "중간고사 직전 자습 대신 진행한 연수 아이디어 활동 소개(특정 단원과 무관). / 작년 연수에서 배운 학생 출제 활동, 배움중심 언급.",
+  "taggedAt": "2026-10-12T01:45:07.500Z"
 }

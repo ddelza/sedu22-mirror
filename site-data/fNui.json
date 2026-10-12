@@ -133,6 +133,11 @@
         "subject": null,
         "unit": "미분류",
         "confidence": "low"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "생성형 AI 도구",
+        "confidence": "medium"
       }
     ]
   },

@@ -22,8 +22,13 @@
       "category": "스마트 수업도구",
       "topic": "MBL센서",
       "confidence": "high"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "아두이노",
+      "confidence": "low"
     }
   ],
-  "tagsNote": "이산화탄소 센서를 활용한 효모 세포호흡 실험 구상.",
-  "taggedAt": "2026-08-25T14:16:02.869Z"
+  "tagsNote": "이산화탄소 센서를 활용한 효모 세포호흡 실험 구상. / 이지메이커 이산화탄소 센서 실험.",
+  "taggedAt": "2026-10-12T01:45:07.696Z"
 }

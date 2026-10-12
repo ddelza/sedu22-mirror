@@ -24,8 +24,18 @@
       "subject": null,
       "unit": "미분류",
       "confidence": "low"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "메이커/3D프린팅",
+      "confidence": "medium"
+    },
+    {
+      "category": "과학교사 업무",
+      "topic": "영재교육",
+      "confidence": "low"
     }
   ],
-  "tagsNote": "메이커 교육 역점사업 확대에 따른 학교 현장 업무 부담에 대한 소회(특정 단원과 무관).",
-  "taggedAt": "2026-08-13T12:55:32.282Z"
+  "tagsNote": "메이커 교육 역점사업 확대에 따른 학교 현장 업무 부담에 대한 소회(특정 단원과 무관). / Maker 교육 20년 결산, 영재원 수업 언급.",
+  "taggedAt": "2026-10-12T01:45:07.563Z"
 }

@@ -24,8 +24,13 @@
       "subject": null,
       "unit": "미분류",
       "confidence": "low"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "생성형 AI 도구",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "재과만 운영진 공저 'ChatGPT 활용서' 서평단 모집 공지(특정 단원과 무관).",
-  "taggedAt": "2026-08-13T12:59:39.567Z"
+  "tagsNote": "재과만 운영진 공저 'ChatGPT 활용서' 서평단 모집 공지(특정 단원과 무관). / 과학 교사를 위한 실전 ChatGPT 서평 이벤트.",
+  "taggedAt": "2026-10-12T01:45:07.648Z"
 }

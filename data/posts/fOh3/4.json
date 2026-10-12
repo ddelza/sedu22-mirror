@@ -22,8 +22,18 @@
       "category": "스마트 수업도구",
       "topic": "생성형 AI 도구",
       "confidence": "high"
+    },
+    {
+      "category": "과학교사 업무",
+      "topic": "교원연수",
+      "confidence": "low"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "앱/프로그램",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "바이브코딩으로 통합과학·화학 시뮬레이션을 만드는 AI 활용 수행평가 사례.",
-  "taggedAt": "2026-08-25T14:16:02.875Z"
+  "tagsNote": "바이브코딩으로 통합과학·화학 시뮬레이션을 만드는 AI 활용 수행평가 사례. / 연수에서 배운 바이브코딩으로 시뮬레이션 제작.",
+  "taggedAt": "2026-10-12T01:45:07.723Z"
 }

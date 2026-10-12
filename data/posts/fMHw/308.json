@@ -22,8 +22,18 @@
       "category": "과학교사 업무",
       "topic": "학급운영",
       "confidence": "medium"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "AR/VR",
+      "confidence": "medium"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "앱/프로그램",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "코스페이시스 메타버스로 만든 2학기 첫시간 오리엔테이션.",
-  "taggedAt": "2026-08-25T14:09:49.270Z"
+  "tagsNote": "코스페이시스 메타버스로 만든 2학기 첫시간 오리엔테이션. / 코스페이시스 가상공간 OT, 앱 설치 시 AR·VR 가능.",
+  "taggedAt": "2026-10-12T01:45:07.485Z"
 }

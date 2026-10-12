@@ -29,8 +29,18 @@
       "category": "스마트 수업도구",
       "topic": "센서/데이터로깅",
       "confidence": "high"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "생성형 AI 도구",
+      "confidence": "medium"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "MBL센서",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "용수철 탄성계수 변화에 따른 물체의 왕복 운동을 분석하는 실험(46편).",
-  "taggedAt": "2026-08-13T13:02:02.146Z"
+  "tagsNote": "용수철 탄성계수 변화에 따른 물체의 왕복 운동을 분석하는 실험(46편). / 초음파 센서로 측정 후 GPT로 분석.",
+  "taggedAt": "2026-10-12T01:45:07.711Z"
 }

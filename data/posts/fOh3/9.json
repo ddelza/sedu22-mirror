@@ -22,8 +22,13 @@
       "category": "게시판별 분류",
       "topic": "수업 촉매노트(김지희)",
       "confidence": "high"
+    },
+    {
+      "category": "과학교사 업무",
+      "topic": "교원연수",
+      "confidence": "low"
     }
   ],
-  "tagsNote": "플리커스 도구로 수업 복습 활용 후기.",
-  "taggedAt": "2026-09-10T03:22:02.164Z"
+  "tagsNote": "플리커스 도구로 수업 복습 활용 후기. / AI 선도교사 연수에서 알게 된 도구.",
+  "taggedAt": "2026-10-12T01:45:07.745Z"
 }

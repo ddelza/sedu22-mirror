@@ -29,8 +29,18 @@
       "category": "스마트 수업도구",
       "topic": "센서/데이터로깅",
       "confidence": "high"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "생성형 AI 도구",
+      "confidence": "medium"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "MBL센서",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "자이로·초음파 센서로 원판의 회전운동과 연결된 물체의 운동을 분석하는 실험(45편).",
-  "taggedAt": "2026-08-13T13:02:02.145Z"
+  "tagsNote": "자이로·초음파 센서로 원판의 회전운동과 연결된 물체의 운동을 분석하는 실험(45편). / 자이로·초음파 센서 데이터를 AI로 분석.",
+  "taggedAt": "2026-10-12T01:45:07.709Z"
 }

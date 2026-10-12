@@ -29,8 +29,18 @@
       "category": "스마트 수업도구",
       "topic": "센서/데이터로깅",
       "confidence": "high"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "생성형 AI 도구",
+      "confidence": "medium"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "MBL센서",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "무선보드·초음파·무게 센서로 만든 간이 엘리베이터 무게 변화 실험 결과(36편).",
-  "taggedAt": "2026-08-13T13:02:02.139Z"
+  "tagsNote": "무선보드·초음파·무게 센서로 만든 간이 엘리베이터 무게 변화 실험 결과(36편). / 센서 실험 결과를 GPT·Gemini로 분석.",
+  "taggedAt": "2026-10-12T01:45:07.701Z"
 }

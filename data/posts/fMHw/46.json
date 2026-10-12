@@ -31,8 +31,18 @@
       "subject": "과학",
       "unit": "지권의 변화",
       "confidence": "high"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "앱/프로그램",
+      "confidence": "medium"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "교육용 단말기(태블릿/크롬북)",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "기상청 ZEP 지진화산 아일랜드와 생존가방 만들기로 구성한 재해재난안전 단원 2차시 활동 공유.",
-  "taggedAt": "2026-08-13T12:55:32.292Z"
+  "tagsNote": "기상청 ZEP 지진화산 아일랜드와 생존가방 만들기로 구성한 재해재난안전 단원 2차시 활동 공유. / 1인 1태블릿으로 ZEP 지진화산 아일랜드 활동.",
+  "taggedAt": "2026-10-12T01:45:07.582Z"
 }

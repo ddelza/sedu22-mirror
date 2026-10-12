@@ -24,8 +24,13 @@
       "subject": null,
       "unit": "미분류",
       "confidence": "low"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "앱/프로그램",
+      "confidence": "low"
     }
   ],
-  "tagsNote": "자바실험실(javalab.org) 사이트 접속 오류에 대한 문의(특정 단원과 무관).",
-  "taggedAt": "2026-08-13T12:51:02.874Z"
+  "tagsNote": "자바실험실(javalab.org) 사이트 접속 오류에 대한 문의(특정 단원과 무관). / 자바실험실 사이트 이용 문의.",
+  "taggedAt": "2026-10-12T01:45:07.499Z"
 }

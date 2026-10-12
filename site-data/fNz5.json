@@ -154,6 +154,11 @@
         "category": "게시판별 분류",
         "topic": "센서로 하는 과학실험(최효석)",
         "confidence": "high"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "앱/프로그램",
+        "confidence": "medium"
       }
     ]
   },
@@ -264,6 +269,16 @@
         "category": "스마트 수업도구",
         "topic": "센서/데이터로깅",
         "confidence": "high"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "생성형 AI 도구",
+        "confidence": "medium"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "MBL센서",
+        "confidence": "medium"
       }
     ]
   },
@@ -295,6 +310,16 @@
         "category": "스마트 수업도구",
         "topic": "센서/데이터로깅",
         "confidence": "high"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "생성형 AI 도구",
+        "confidence": "medium"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "MBL센서",
+        "confidence": "medium"
       }
     ]
   },
@@ -326,6 +351,11 @@
         "category": "스마트 수업도구",
         "topic": "센서/데이터로깅",
         "confidence": "high"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "MBL센서",
+        "confidence": "medium"
       }
     ]
   },
@@ -357,6 +387,11 @@
         "category": "스마트 수업도구",
         "topic": "센서/데이터로깅",
         "confidence": "high"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "MBL센서",
+        "confidence": "medium"
       }
     ]
   },
@@ -565,6 +600,16 @@
         "category": "스마트 수업도구",
         "topic": "센서/데이터로깅",
         "confidence": "high"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "생성형 AI 도구",
+        "confidence": "medium"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "MBL센서",
+        "confidence": "medium"
       }
     ]
   },
@@ -596,6 +641,16 @@
         "category": "스마트 수업도구",
         "topic": "센서/데이터로깅",
         "confidence": "high"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "MBL센서",
+        "confidence": "medium"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "아두이노",
+        "confidence": "low"
       }
     ]
   },
@@ -644,6 +699,11 @@
         "category": "스마트 수업도구",
         "topic": "MBL센서",
         "confidence": "high"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "아두이노",
+        "confidence": "low"
       }
     ]
   },
@@ -697,6 +757,11 @@
         "category": "스마트 수업도구",
         "topic": "MBL센서",
         "confidence": "high"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "아두이노",
+        "confidence": "low"
       }
     ]
   },
@@ -728,6 +793,11 @@
         "category": "스마트 수업도구",
         "topic": "센서/데이터로깅",
         "confidence": "high"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "MBL센서",
+        "confidence": "medium"
       }
     ]
   },
@@ -759,6 +829,11 @@
         "category": "스마트 수업도구",
         "topic": "센서/데이터로깅",
         "confidence": "high"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "MBL센서",
+        "confidence": "medium"
       }
     ]
   },
@@ -821,6 +896,11 @@
         "category": "스마트 수업도구",
         "topic": "센서/데이터로깅",
         "confidence": "high"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "MBL센서",
+        "confidence": "medium"
       }
     ]
   },
@@ -852,6 +932,11 @@
         "category": "스마트 수업도구",
         "topic": "센서/데이터로깅",
         "confidence": "high"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "MBL센서",
+        "confidence": "medium"
       }
     ]
   },
@@ -1052,6 +1137,11 @@
         "subject": "과학",
         "unit": "전기와 자기",
         "confidence": "high"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "MBL센서",
+        "confidence": "medium"
       }
     ]
   },
@@ -1159,6 +1249,11 @@
         "subject": "과학",
         "unit": "열",
         "confidence": "medium"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "아두이노",
+        "confidence": "low"
       }
     ]
   },
@@ -1197,6 +1292,16 @@
         "subject": "과학",
         "unit": "자극과 반응",
         "confidence": "medium"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "MBL센서",
+        "confidence": "medium"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "아두이노",
+        "confidence": "low"
       }
     ]
   },
@@ -1570,6 +1675,16 @@
         "subject": "과학",
         "unit": "물질의 상태 변화",
         "confidence": "medium"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "MBL센서",
+        "confidence": "medium"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "생성형 AI 도구",
+        "confidence": "low"
       }
     ]
   },
@@ -1646,6 +1761,16 @@
         "subject": "과학",
         "unit": "열",
         "confidence": "medium"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "MBL센서",
+        "confidence": "medium"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "아두이노",
+        "confidence": "low"
       }
     ]
   },
@@ -1684,6 +1809,16 @@
         "subject": "과학",
         "unit": "기체의 성질",
         "confidence": "high"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "MBL센서",
+        "confidence": "medium"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "아두이노",
+        "confidence": "low"
       }
     ]
   },
@@ -1722,6 +1857,11 @@
         "subject": "과학",
         "unit": "식물과 에너지",
         "confidence": "medium"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "아두이노",
+        "confidence": "low"
       }
     ]
   },
@@ -1760,6 +1900,11 @@
         "subject": "과학",
         "unit": "기체의 성질",
         "confidence": "medium"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "MBL센서",
+        "confidence": "medium"
       }
     ]
   },
@@ -1784,6 +1929,11 @@
         "category": "스마트 수업도구",
         "topic": "MBL센서",
         "confidence": "high"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "아두이노",
+        "confidence": "low"
       }
     ]
   }

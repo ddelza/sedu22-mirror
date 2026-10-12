@@ -36,8 +36,13 @@
       "category": "스마트 수업도구",
       "topic": "AI",
       "confidence": "high"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "앱/프로그램",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "캔바 AI와 Gemini로 만든 열 전달 방법 분류 퀴즈 웹앱 제작 사례 공유(물리 내용, 지구과학 게시판과 다른 일반 게시판에 교차 게시됨).",
-  "taggedAt": "2026-08-13T12:51:02.873Z"
+  "tagsNote": "캔바 AI와 Gemini로 만든 열 전달 방법 분류 퀴즈 웹앱 제작 사례 공유(물리 내용, 지구과학 게시판과 다른 일반 게시판에 교차 게시됨). / 캔바 AI·Gemini로 웹앱 제작.",
+  "taggedAt": "2026-10-12T01:45:07.497Z"
 }

@@ -22,8 +22,13 @@
       "category": "스마트 수업도구",
       "topic": "앱/프로그램",
       "confidence": "high"
+    },
+    {
+      "category": "과학교사 업무",
+      "topic": "교원연수",
+      "confidence": "low"
     }
   ],
-  "tagsNote": "AI 기반 학습 코스웨어 프로그램(에스덕) 소개 및 활용 검토.",
-  "taggedAt": "2026-08-25T14:16:02.876Z"
+  "tagsNote": "AI 기반 학습 코스웨어 프로그램(에스덕) 소개 및 활용 검토. / 구글 GCE 연수에서 AI 코스웨어를 접함.",
+  "taggedAt": "2026-10-12T01:45:07.728Z"
 }
