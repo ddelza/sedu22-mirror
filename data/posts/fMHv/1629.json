@@ -31,8 +31,18 @@
       "category": "게시판별 분류",
       "topic": "중학교 지구과학수업 이야기",
       "confidence": "high"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "앱/프로그램",
+      "confidence": "medium"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "교육용 단말기(태블릿/크롬북)",
+      "confidence": "low"
     }
   ],
-  "tagsNote": "별의 밝기 탐구실 웹앱 첫 학급 사용 후기.",
-  "taggedAt": "2026-09-10T03:22:02.158Z"
+  "tagsNote": "별의 밝기 탐구실 웹앱 첫 학급 사용 후기. / 조도계 앱과 태블릿으로 별의 밝기 탐구.",
+  "taggedAt": "2026-10-12T01:33:51.861Z"
 }

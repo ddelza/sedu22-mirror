@@ -36,8 +36,18 @@
       "category": "스마트 수업도구",
       "topic": "AR/VR",
       "confidence": "high"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "앱/프로그램",
+      "confidence": "medium"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "교육용 단말기(태블릿/크롬북)",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "디지털교과서 AR로 대륙이동·화산대·판 경계를 관찰한 수업 활용 공유.",
-  "taggedAt": "2026-08-13T05:03:40.370Z"
+  "tagsNote": "디지털교과서 AR로 대륙이동·화산대·판 경계를 관찰한 수업 활용 공유. / 개별 태블릿과 실감형콘텐츠 앱 활용.",
+  "taggedAt": "2026-10-12T01:33:51.783Z"
 }

@@ -31,8 +31,28 @@
       "subject": "과학",
       "unit": "날씨와 기후변화",
       "confidence": "high"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "생성형 AI 도구",
+      "confidence": "medium"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "앱/프로그램",
+      "confidence": "medium"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "교육용 단말기(태블릿/크롬북)",
+      "confidence": "medium"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "AR/VR",
+      "confidence": "low"
     }
   ],
-  "tagsNote": "구름 생성 실험과 인공강우를 소재로 한 2차시 프로젝트 수업(레인 메이커 작전) 공유.",
-  "taggedAt": "2026-08-13T05:23:34.833Z"
+  "tagsNote": "구름 생성 실험과 인공강우를 소재로 한 2차시 프로젝트 수업(레인 메이커 작전) 공유. / Gemini로 만든 콘텐츠를 태블릿 QR로 접속해 탐구.",
+  "taggedAt": "2026-10-12T01:33:51.848Z"
 }

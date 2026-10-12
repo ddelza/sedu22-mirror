@@ -31,8 +31,18 @@
       "subject": "과학",
       "unit": "별과 우주",
       "confidence": "high"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "앱/프로그램",
+      "confidence": "medium"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "메이커/3D프린팅",
+      "confidence": "low"
     }
   ],
-  "tagsNote": "계절별 별자리와 별의 색·온도 관계를 다루는 LED 별자리 만들기 활동 공유.",
-  "taggedAt": "2026-08-13T05:03:40.362Z"
+  "tagsNote": "계절별 별자리와 별의 색·온도 관계를 다루는 LED 별자리 만들기 활동 공유. / 별자리표 어플, LED 별자리 만들기.",
+  "taggedAt": "2026-10-12T01:33:51.780Z"
 }

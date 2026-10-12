@@ -31,8 +31,13 @@
       "subject": "과학",
       "unit": "별과 우주",
       "confidence": "high"
+    },
+    {
+      "category": "과학교사 업무",
+      "topic": "교원연수",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "교사 연수용 우주의 팽창 모델 사유 자료(2) 공유.",
-  "taggedAt": "2026-08-13T05:05:30.061Z"
+  "tagsNote": "교사 연수용 우주의 팽창 모델 사유 자료(2) 공유. / 교사 연수용 우주 팽창 자료.",
+  "taggedAt": "2026-10-12T01:33:51.788Z"
 }

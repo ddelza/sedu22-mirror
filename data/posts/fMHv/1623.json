@@ -31,8 +31,18 @@
       "category": "게시판별 분류",
       "topic": "중학교 지구과학수업 이야기",
       "confidence": "high"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "MBL센서",
+      "confidence": "medium"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "앱/프로그램",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "조도계앱을 이용한 별의 밝기 실험(거리-밝기 관계).",
-  "taggedAt": "2026-09-10T03:22:02.153Z"
+  "tagsNote": "조도계앱을 이용한 별의 밝기 실험(거리-밝기 관계). / 버니어 조도센서와 조도계 앱으로 빛의 밝기 실험.",
+  "taggedAt": "2026-10-12T01:33:51.857Z"
 }

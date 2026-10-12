@@ -31,8 +31,18 @@
       "category": "게시판별 분류",
       "topic": "중학교 지구과학수업 이야기",
       "confidence": "high"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "앱/프로그램",
+      "confidence": "medium"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "교육용 단말기(태블릿/크롬북)",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "태양계 행성 게임(스푸트니카/수박게임).",
-  "taggedAt": "2026-09-10T03:22:02.155Z"
+  "tagsNote": "태양계 행성 게임(스푸트니카/수박게임). / 갤럭시 탭에 앱을 설치해 행성 게임.",
+  "taggedAt": "2026-10-12T01:33:51.858Z"
 }

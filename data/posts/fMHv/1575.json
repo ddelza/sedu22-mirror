@@ -24,8 +24,23 @@
       "subject": "과학",
       "unit": "지권의 변화",
       "confidence": "high"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "생성형 AI 도구",
+      "confidence": "medium"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "앱/프로그램",
+      "confidence": "medium"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "교육용 단말기(태블릿/크롬북)",
+      "confidence": "low"
     }
   ],
-  "tagsNote": "천재교과서 2단원(지권의 변화) 교과서 실험을 바이브 코딩으로 재현한 가상실험 웹앱 모음.",
-  "taggedAt": "2026-08-13T05:21:50.489Z"
+  "tagsNote": "천재교과서 2단원(지권의 변화) 교과서 실험을 바이브 코딩으로 재현한 가상실험 웹앱 모음. / 바이브 코딩으로 만든 가상실험, 태블릿 활용.",
+  "taggedAt": "2026-10-12T01:33:51.842Z"
 }

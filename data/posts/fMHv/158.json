@@ -36,8 +36,23 @@
       "category": "스마트 수업도구",
       "topic": "온라인 수업 자료",
       "confidence": "medium"
+    },
+    {
+      "category": "수업 방법론",
+      "topic": "거꾸로 교실",
+      "confidence": "medium"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "앱/프로그램",
+      "confidence": "medium"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "교육용 단말기(태블릿/크롬북)",
+      "confidence": "low"
     }
   ],
-  "tagsNote": "화산대·지진대 수업을 Sway로 플립러닝 형태로 제시하는 수업 설계 공유.",
-  "taggedAt": "2026-08-13T05:21:50.505Z"
+  "tagsNote": "화산대·지진대 수업을 Sway로 플립러닝 형태로 제시하는 수업 설계 공유. / Sway 플립러닝, 디벗 도입 구상.",
+  "taggedAt": "2026-10-12T01:33:51.844Z"
 }

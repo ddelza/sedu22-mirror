@@ -31,8 +31,18 @@
       "category": "게시판별 분류",
       "topic": "중학교 지구과학수업 이야기",
       "confidence": "high"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "생성형 AI 도구",
+      "confidence": "medium"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "앱/프로그램",
+      "confidence": "low"
     }
   ],
-  "tagsNote": "별까지의 거리/질문만들기 PPT(노트북LM 활용).",
-  "taggedAt": "2026-09-10T03:22:02.156Z"
+  "tagsNote": "별까지의 거리/질문만들기 PPT(노트북LM 활용). / 노트북LM으로 만든 PPT, 질문 평가 사이트 활용.",
+  "taggedAt": "2026-10-12T01:33:51.858Z"
 }

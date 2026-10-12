@@ -24,8 +24,18 @@
       "subject": "과학",
       "unit": "지권의 변화",
       "confidence": "high"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "생성형 AI 도구",
+      "confidence": "low"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "앱/프로그램",
+      "confidence": "low"
     }
   ],
-  "tagsNote": "지권의 변화 가상실험 모음에 대한 감사 댓글.",
-  "taggedAt": "2026-08-13T05:23:34.838Z"
+  "tagsNote": "지권의 변화 가상실험 모음에 대한 감사 댓글. / 바이브 코딩 가상실험 관련 댓글.",
+  "taggedAt": "2026-10-12T01:33:51.849Z"
 }

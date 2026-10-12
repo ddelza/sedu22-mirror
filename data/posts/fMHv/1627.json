@@ -31,8 +31,13 @@
       "category": "게시판별 분류",
       "topic": "중학교 지구과학수업 이야기",
       "confidence": "high"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "생성형 AI 도구",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "별의 밝기·온도 PPT(노트북LM 활용).",
-  "taggedAt": "2026-09-10T03:22:02.157Z"
+  "tagsNote": "별의 밝기·온도 PPT(노트북LM 활용). / 노트북LM으로 만든 별의 밝기 PPT.",
+  "taggedAt": "2026-10-12T01:33:51.859Z"
 }

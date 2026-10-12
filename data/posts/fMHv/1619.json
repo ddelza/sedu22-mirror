@@ -36,9 +36,14 @@
       "subject": "과학",
       "unit": "지권의 변화",
       "confidence": "high"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "앱/프로그램",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "바이브 코딩으로 만든 지구계 상호작용 웹앱 게임(프로토타입) 공유.",
-  "taggedAt": "2026-08-13T05:23:34.866Z",
+  "tagsNote": "바이브 코딩으로 만든 지구계 상호작용 웹앱 게임(프로토타입) 공유. / 지구계 상호작용 웹앱 게임.",
+  "taggedAt": "2026-10-12T01:33:51.854Z",
   "verticalReviewedAt": "2026-08-16T14:00:52.620Z"
 }

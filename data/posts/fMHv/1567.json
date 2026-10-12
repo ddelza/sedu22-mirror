@@ -31,8 +31,13 @@
       "subject": "과학",
       "unit": "지권의 변화",
       "confidence": "high"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "생성형 AI 도구",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "암석과 광물의 자원적 가치를 다루는 기사문 정리 및 상호 설명 활동.",
-  "taggedAt": "2026-08-13T05:21:50.481Z"
+  "tagsNote": "암석과 광물의 자원적 가치를 다루는 기사문 정리 및 상호 설명 활동. / AI로 만든 기사문 활동.",
+  "taggedAt": "2026-10-12T01:33:51.839Z"
 }

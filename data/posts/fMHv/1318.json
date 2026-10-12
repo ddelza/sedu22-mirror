@@ -31,8 +31,13 @@
       "subject": "과학",
       "unit": "별과 우주",
       "confidence": "high"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "앱/프로그램",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "연주시차 플래시 프로그램 사이트 공유.",
-  "taggedAt": "2026-08-13T05:05:30.079Z"
+  "tagsNote": "연주시차 플래시 프로그램 사이트 공유. / 연주시차 플래시 프로그램 사이트.",
+  "taggedAt": "2026-10-12T01:33:51.792Z"
 }

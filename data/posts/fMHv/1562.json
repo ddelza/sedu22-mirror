@@ -36,8 +36,13 @@
       "category": "스마트 수업도구",
       "topic": "AI",
       "confidence": "medium"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "앱/프로그램",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "본그림자·반그림자 위치별 일식 모양을 보여주는 AI 제작 시뮬레이션 공유.",
-  "taggedAt": "2026-08-13T05:21:50.477Z"
+  "tagsNote": "본그림자·반그림자 위치별 일식 모양을 보여주는 AI 제작 시뮬레이션 공유. / 제미나이 캔버스로 만든 일식 시뮬레이션.",
+  "taggedAt": "2026-10-12T01:33:51.838Z"
 }

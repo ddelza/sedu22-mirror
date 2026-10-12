@@ -36,8 +36,18 @@
       "category": "스마트 수업도구",
       "topic": "온라인 수업 자료",
       "confidence": "medium"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "앱/프로그램",
+      "confidence": "medium"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "구글도구",
+      "confidence": "low"
     }
   ],
-  "tagsNote": "암석의 순환까지 다루는 온라인 학습용 단어찾기 퍼즐 과제 공유.",
-  "taggedAt": "2026-08-13T05:23:34.842Z"
+  "tagsNote": "암석의 순환까지 다루는 온라인 학습용 단어찾기 퍼즐 과제 공유. / 웹 단어찾기 퍼즐, 구글설문지에 점수 기록.",
+  "taggedAt": "2026-10-12T01:33:51.850Z"
 }
