@@ -36,9 +36,14 @@
       "subject": "과학",
       "unit": "날씨와 기후변화",
       "confidence": "high"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "앱/프로그램",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "줌·e학습터와 연계해 실시간 활동 확인이 가능한 기권과 날씨 단원 nearpod 자료 공유.",
-  "taggedAt": "2026-08-13T12:17:30.100Z",
+  "tagsNote": "줌·e학습터와 연계해 실시간 활동 확인이 가능한 기권과 날씨 단원 nearpod 자료 공유. / Nearpod 수업 자료.",
+  "taggedAt": "2026-10-12T01:41:32.263Z",
   "verticalReviewedAt": "2026-08-16T14:13:23.957Z"
 }

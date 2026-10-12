@@ -22,8 +22,18 @@
       "category": "수업 방법론",
       "topic": "토론수업",
       "confidence": "high"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "앱/프로그램",
+      "confidence": "low"
+    },
+    {
+      "category": "과학교사 업무",
+      "topic": "교원연수",
+      "confidence": "low"
     }
   ],
-  "tagsNote": "햄버거를 소재로 한 과학토론 주제선택활동(토론학교 과학 교재 활용).",
-  "taggedAt": "2026-08-25T14:08:04.445Z"
+  "tagsNote": "햄버거를 소재로 한 과학토론 주제선택활동(토론학교 과학 교재 활용). / ZOOM 수업, 연수에서 배운 비주얼씽킹.",
+  "taggedAt": "2026-10-12T01:41:32.377Z"
 }

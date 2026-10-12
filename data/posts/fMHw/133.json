@@ -24,8 +24,13 @@
       "subject": null,
       "unit": "미분류",
       "confidence": "low"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "AR/VR",
+      "confidence": "low"
     }
   ],
-  "tagsNote": "3학년 디지털교과서 AR 마커 자료 공유(구체적 단원 불명확).",
-  "taggedAt": "2026-08-13T12:31:15.873Z"
+  "tagsNote": "3학년 디지털교과서 AR 마커 자료 공유(구체적 단원 불명확). / 디지털교과서 AR 활용 댓글.",
+  "taggedAt": "2026-10-12T01:41:32.381Z"
 }

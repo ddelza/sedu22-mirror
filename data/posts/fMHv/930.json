@@ -36,8 +36,18 @@
       "category": "스마트 수업도구",
       "topic": "AR/VR",
       "confidence": "high"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "앱/프로그램",
+      "confidence": "medium"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "교육용 단말기(태블릿/크롬북)",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "에듀넷 실감형콘텐츠 앱과 AR카드를 활용한 화산대·지진대·대륙이동설 수업 공유.",
-  "taggedAt": "2026-08-13T12:26:43.579Z"
+  "tagsNote": "에듀넷 실감형콘텐츠 앱과 AR카드를 활용한 화산대·지진대·대륙이동설 수업 공유. / 탭에 실감형콘텐츠 앱을 설치해 수업.",
+  "taggedAt": "2026-10-12T01:41:32.344Z"
 }

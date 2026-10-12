@@ -24,8 +24,23 @@
       "subject": null,
       "unit": "미분류",
       "confidence": "low"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "앱/프로그램",
+      "confidence": "low"
+    },
+    {
+      "category": "과학교사 업무",
+      "topic": "교원연수",
+      "confidence": "low"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "메이커/3D프린팅",
+      "confidence": "low"
     }
   ],
-  "tagsNote": "복직을 앞두고 자유학년제 1학년 평가계획·주제활동 편성 방식에 대한 고민 공유(여러 단원 포괄).",
-  "taggedAt": "2026-08-13T12:22:01.826Z"
+  "tagsNote": "복직을 앞두고 자유학년제 1학년 평가계획·주제활동 편성 방식에 대한 고민 공유(여러 단원 포괄). / 복직연수, 모야모 앱·3D펜 수업 구상.",
+  "taggedAt": "2026-10-12T01:41:32.307Z"
 }

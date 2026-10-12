@@ -779,6 +779,16 @@
         "category": "스마트 수업도구",
         "topic": "센서/데이터로깅",
         "confidence": "medium"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "MBL센서",
+        "confidence": "medium"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "아두이노",
+        "confidence": "low"
       }
     ]
   },
@@ -1449,6 +1459,11 @@
         "subject": "과학",
         "unit": "과학과 인류의 지속가능한 삶",
         "confidence": "high"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "앱/프로그램",
+        "confidence": "medium"
       }
     ]
   },
@@ -1475,6 +1490,16 @@
         "subject": "과학",
         "unit": "과학과 인류의 지속가능한 삶",
         "confidence": "high"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "생성형 AI 도구",
+        "confidence": "medium"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "교육용 단말기(태블릿/크롬북)",
+        "confidence": "low"
       }
     ]
   },
@@ -1534,6 +1559,11 @@
         "subject": "과학",
         "unit": "과학과 인류의 지속가능한 삶",
         "confidence": "high"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "앱/프로그램",
+        "confidence": "medium"
       }
     ]
   },
@@ -1634,6 +1664,11 @@
         "category": "스마트 수업도구",
         "topic": "구글도구",
         "confidence": "high"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "생성형 AI 도구",
+        "confidence": "medium"
       }
     ]
   },
@@ -1660,6 +1695,11 @@
         "subject": "과학",
         "unit": "과학과 인류의 지속가능한 삶",
         "confidence": "high"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "생성형 AI 도구",
+        "confidence": "low"
       }
     ]
   },
@@ -2317,6 +2357,16 @@
         "subject": "과학",
         "unit": "빛",
         "confidence": "medium"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "앱/프로그램",
+        "confidence": "medium"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "교육용 단말기(태블릿/크롬북)",
+        "confidence": "medium"
       }
     ]
   },
@@ -2836,6 +2886,16 @@
         "schoolLevel": null,
         "subject": null,
         "unit": "미분류",
+        "confidence": "low"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "앱/프로그램",
+        "confidence": "medium"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "교육용 단말기(태블릿/크롬북)",
         "confidence": "low"
       }
     ]
@@ -3637,6 +3697,11 @@
         "subject": null,
         "unit": "미분류",
         "confidence": "low"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "앱/프로그램",
+        "confidence": "low"
       }
     ]
   },
@@ -4431,6 +4496,11 @@
         "subject": null,
         "unit": "미분류",
         "confidence": "low"
+      },
+      {
+        "category": "과학교사 업무",
+        "topic": "교원연수",
+        "confidence": "low"
       }
     ]
   },
@@ -4650,6 +4720,11 @@
         "subject": null,
         "unit": "미분류",
         "confidence": "low"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "앱/프로그램",
+        "confidence": "medium"
       }
     ]
   },
@@ -5435,6 +5510,11 @@
         "subject": null,
         "unit": "미분류",
         "confidence": "low"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "AR/VR",
+        "confidence": "low"
       }
     ]
   },
@@ -5880,6 +5960,11 @@
         "subject": "과학",
         "unit": "파동",
         "confidence": "medium"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "앱/프로그램",
+        "confidence": "low"
       }
     ]
   },
@@ -5988,6 +6073,11 @@
       {
         "category": "스마트 수업도구",
         "topic": "앱/프로그램",
+        "confidence": "low"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "구글도구",
         "confidence": "low"
       }
     ]
@@ -7034,6 +7124,11 @@
         "subject": null,
         "unit": "미분류",
         "confidence": "low"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "앱/프로그램",
+        "confidence": "medium"
       }
     ]
   },
@@ -7334,6 +7429,16 @@
         "category": "수업 방법론",
         "topic": "토론수업",
         "confidence": "high"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "앱/프로그램",
+        "confidence": "low"
+      },
+      {
+        "category": "과학교사 업무",
+        "topic": "교원연수",
+        "confidence": "low"
       }
     ]
   },
@@ -7700,6 +7805,11 @@
         "subject": null,
         "unit": "미분류",
         "confidence": "low"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "구글도구",
+        "confidence": "high"
       }
     ]
   },
@@ -7752,6 +7862,11 @@
         "subject": null,
         "unit": "미분류",
         "confidence": "low"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "구글도구",
+        "confidence": "medium"
       }
     ]
   },
@@ -7901,6 +8016,16 @@
         "subject": "과학",
         "unit": "지권의 변화",
         "confidence": "medium"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "구글도구",
+        "confidence": "medium"
+      },
+      {
+        "category": "스마트 수업도구",
+        "topic": "앱/프로그램",
+        "confidence": "low"
       }
     ]
   },
@@ -9990,6 +10115,11 @@
         "schoolLevel": null,
         "subject": null,
         "unit": "미분류",
+        "confidence": "low"
+      },
+      {
+        "category": "과학교사 업무",
+        "topic": "동아리 운영",
         "confidence": "low"
       }
     ]

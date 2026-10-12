@@ -31,9 +31,19 @@
       "subject": "과학",
       "unit": "태양계",
       "confidence": "high"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "앱/프로그램",
+      "confidence": "medium"
+    },
+    {
+      "category": "과학교사 업무",
+      "topic": "세특작성",
+      "confidence": "low"
     }
   ],
-  "tagsNote": "비주얼씽킹 정리와 모둠뽑기를 결합한 태양계 행성 광고 프로젝트 수업 자료 공유.",
-  "taggedAt": "2026-08-13T12:29:51.531Z",
+  "tagsNote": "비주얼씽킹 정리와 모둠뽑기를 결합한 태양계 행성 광고 프로젝트 수업 자료 공유. / 팅커벨 퀴즈·줌 활용, 교과세특 기록으로 연결.",
+  "taggedAt": "2026-10-12T01:41:32.366Z",
   "verticalReviewedAt": "2026-08-16T14:18:03.138Z"
 }

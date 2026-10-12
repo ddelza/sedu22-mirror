@@ -31,9 +31,14 @@
       "subject": "과학",
       "unit": "태양계",
       "confidence": "high"
+    },
+    {
+      "category": "과학교사 업무",
+      "topic": "교원연수",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "개학 첫 진도로 진행한 태양계 행성 여행 포스터 만들기 수업 공유.",
-  "taggedAt": "2026-08-13T12:15:58.703Z",
+  "tagsNote": "개학 첫 진도로 진행한 태양계 행성 여행 포스터 만들기 수업 공유. / 이스라엘 창의성 연수에서 배운 수업법.",
+  "taggedAt": "2026-10-12T01:41:32.255Z",
   "verticalReviewedAt": "2026-08-16T14:13:23.942Z"
 }

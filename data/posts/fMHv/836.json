@@ -36,8 +36,18 @@
       "category": "스마트 수업도구",
       "topic": "AI",
       "confidence": "high"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "앱/프로그램",
+      "confidence": "medium"
+    },
+    {
+      "category": "과학교사 업무",
+      "topic": "교원연수",
+      "confidence": "low"
     }
   ],
-  "tagsNote": "Teachable Machine으로 AI를 학습시켜 암석을 분류하는 활동 공유.",
-  "taggedAt": "2026-08-13T12:23:37.876Z"
+  "tagsNote": "Teachable Machine으로 AI를 학습시켜 암석을 분류하는 활동 공유. / Teachable Machine 사이트, AI 관련 연수를 많이 들음.",
+  "taggedAt": "2026-10-12T01:41:32.315Z"
 }

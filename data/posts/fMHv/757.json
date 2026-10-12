@@ -31,8 +31,13 @@
       "subject": "과학",
       "unit": "별과 우주",
       "confidence": "high"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "앱/프로그램",
+      "confidence": "medium"
     }
   ],
-  "tagsNote": "지구가 우리은하 중심에 있다면 어떨지를 다룬 번역 편집 영상 자료 공유.",
-  "taggedAt": "2026-08-13T12:18:56.892Z"
+  "tagsNote": "지구가 우리은하 중심에 있다면 어떨지를 다룬 번역 편집 영상 자료 공유. / Vrew로 영상 편집.",
+  "taggedAt": "2026-10-12T01:41:32.280Z"
 }

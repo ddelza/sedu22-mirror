@@ -31,9 +31,19 @@
       "subject": "과학",
       "unit": "날씨와 기후변화",
       "confidence": "high"
+    },
+    {
+      "category": "과학교사 업무",
+      "topic": "학급운영",
+      "confidence": "medium"
+    },
+    {
+      "category": "스마트 수업도구",
+      "topic": "앱/프로그램",
+      "confidence": "low"
     }
   ],
-  "tagsNote": "단원별로 정리해 공유하는 중2 기권과 우리생활 수업 활동지 모음.",
-  "taggedAt": "2026-08-13T12:28:12.660Z",
+  "tagsNote": "단원별로 정리해 공유하는 중2 기권과 우리생활 수업 활동지 모음. / 도장판 보상 제도, 과학사랑 프로그램 활용.",
+  "taggedAt": "2026-10-12T01:41:32.359Z",
   "verticalReviewedAt": "2026-08-16T14:18:03.125Z"
 }

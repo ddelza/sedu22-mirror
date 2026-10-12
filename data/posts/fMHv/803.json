@@ -31,8 +31,13 @@
       "subject": "과학",
       "unit": "지권의 변화",
       "confidence": "high"
+    },
+    {
+      "category": "수업 방법론",
+      "topic": "거꾸로 교실",
+      "confidence": "low"
     }
   ],
-  "tagsNote": "미래엔 거꾸로교실 자료를 참고해 만든 지구계 상호작용 SCW map 활동 공유.",
-  "taggedAt": "2026-08-13T12:22:01.813Z"
+  "tagsNote": "미래엔 거꾸로교실 자료를 참고해 만든 지구계 상호작용 SCW map 활동 공유. / 미래엔 거꾸로 교실 수업 자료집 활용.",
+  "taggedAt": "2026-10-12T01:41:32.302Z"
 }
